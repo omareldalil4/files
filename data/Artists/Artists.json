@@ -1,14 +1,14 @@
 [
   {
-    "id": "81",
-    "name": "Hamada Helal",
-    "image": "https://i.scdn.co/image/ab6761610000517416265796c86c0537438f17e4"
-  },
-  {
     "id": "1",
     "name": "Amr Diab",
     "image": "https://i.scdn.co/image/ab6761610000e5eb8a5d18b749217c6e6605bc6a",
     "file_path": "/artists_data/Amr_Diab.json"
+  },
+  {
+    "id": "81",
+    "name": "Hamada Helal",
+    "image": "https://i.scdn.co/image/ab6761610000517416265796c86c0537438f17e4"
   },
   {
     "id": "2",

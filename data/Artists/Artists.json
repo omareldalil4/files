@@ -60,15 +60,15 @@
     "file_path": "artists_data\\Bahaa_Sultan.json"
   },
   {
-    "id": "82",
-    "name": "Hamada Helal",
-    "image": "https://i.scdn.co/image/ab6761610000517416265796c86c0537438f17e4"
-  },
-  {
     "id": "11",
     "name": "Mohamed Ramadan",
     "image": "https://i.scdn.co/image/ab6761610000e5eb13f802da9f8b045baf963666",
     "file_path": "artists_data\\Mohamed_Ramadan.json"
+  },
+  {
+    "id": "82",
+    "name": "Hamada Helal",
+    "image": "https://i.scdn.co/image/ab6761610000517416265796c86c0537438f17e4"
   },
   {
     "id": "12",

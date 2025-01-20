@@ -6,15 +6,15 @@
     "file_path": "/artists_data/Amr_Diab.json"
   },
   {
-    "id": "81",
-    "name": "Hamada Helal",
-    "image": "https://i.scdn.co/image/ab6761610000517416265796c86c0537438f17e4"
-  },
-  {
     "id": "2",
     "name": "Tamer Hosny",
     "image": "https://i.scdn.co/image/ab6761610000e5eb7e96a37bf1bc63375b0e946d",
     "file_path": "artists_data\\Tamer_Hosny.json"
+  },
+  {
+    "id": "81",
+    "name": "Hamada Helal",
+    "image": "https://i.scdn.co/image/ab6761610000517416265796c86c0537438f17e4"
   },
   {
     "id": "3",

@@ -6,27 +6,27 @@
     "file_path": "/artists_data/Amr_Diab.json"
   },
   {
+    "id": "81",
+    "name": "Hamada Helal",
+    "image": "https://i.scdn.co/image/ab6761610000517416265796c86c0537438f17e4"
+  },
+  {
     "id": "2",
     "name": "Tamer Hosny",
     "image": "https://i.scdn.co/image/ab6761610000e5eb7e96a37bf1bc63375b0e946d",
     "file_path": "artists_data\\Tamer_Hosny.json"
   },
   {
-    "id": "81",
-    "name": "Hamada Helal",
-    "image": "https://i.scdn.co/image/ab6761610000517416265796c86c0537438f17e4"
+    "id": "4",
+    "name": "Tamer Ashour",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb657b4b05e890595b0c91d99e",
+    "file_path": "artists_data\\Tamer_Ashour.json"
   },
   {
     "id": "3",
     "name": "Nancy Ajram",
     "image": "https://i.scdn.co/image/ab6761610000e5eb329752085651d60c507a862a",
     "file_path": "artists_data\\Nancy_Ajram.json"
-  },
-  {
-    "id": "4",
-    "name": "Tamer Ashour",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb657b4b05e890595b0c91d99e",
-    "file_path": "artists_data\\Tamer_Ashour.json"
   },
   {
     "id": "5",

@@ -127,16 +127,16 @@
     "file_path": "artists_data\\Hakim.json"
   },
   {
-    "id": "18",
-    "name": "Aziz Maraka",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb52671f5df90efe724d48f265",
-    "file_path": "artists_data\\Aziz_Maraka.json"
-  },
-  {
     "id": "22",
     "name": "George Wassouf",
     "image": "https://i.scdn.co/image/ab6761610000e5eb2ed5c0484adbed6ce08db985",
     "file_path": "artists_data\\George_Wassouf.json"
+  },
+  {
+    "id": "18",
+    "name": "Aziz Maraka",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb52671f5df90efe724d48f265",
+    "file_path": "artists_data\\Aziz_Maraka.json"
   },
   {
     "id": "23",

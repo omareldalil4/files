@@ -1,0 +1,675 @@
+{
+    "artist": {
+        "id": "3351",
+        "name": "Amal Maher",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb1d2fc017b1e73055c2826109",
+        "background_image": "https://i.scdn.co/image/ab676161000051741d2fc017b1e73055c2826109"
+    },
+    "albums": [
+        {
+            "name": "أنا كويسة",
+            "release_date": "2024-10-22",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b9c8d45363c36c2f656e1261",
+            "track_url": "https://open.spotify.com/album/3ZjNzl4wjASqcXDgw6XmYj",
+            "tracks": [
+                {
+                    "name": "أنا كويسة",
+                    "track_url": "https://www.dropbox.com/scl/fi/6bu1uk8g9670fqf7btv9k/01-Ana.Kwaiesa-MaTb3aa.Com.mp3?rlkey=l5mob17kmkpilpzsst71hdkjz&st=0hoty00h&dl=1",
+                    "duration_ms": 626149,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b9c8d45363c36c2f656e1261",
+                    "id": 3353,
+                    "artist": "Amal Maher"
+                },
+                {
+                    "name": "أنا الحب",
+                    "track_url": "https://www.dropbox.com/scl/fi/s2xyovphe3mmps84qetpz/02-Ana.ElHob-MaTb3aa.Com.mp3?rlkey=02mn8p6kuxi54bglqr0qdm77s&st=7jp1e7h3&dl=1",
+                    "duration_ms": 331791,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b9c8d45363c36c2f656e1261",
+                    "id": 3354,
+                    "artist": "Amal Maher"
+                },
+                {
+                    "name": "صاحبة عمري",
+                    "track_url": "https://www.dropbox.com/scl/fi/8mz07am8x7994pe9bwxro/03-Sahbet.Omri-MaTb3aa.Com.mp3?rlkey=k9m6ekfhc9c9ix95qnhe2k48m&st=aj0hnsny&dl=1",
+                    "duration_ms": 563192,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b9c8d45363c36c2f656e1261",
+                    "id": 3355,
+                    "artist": "Amal Maher"
+                },
+                {
+                    "name": "الحكاية في مشهدين",
+                    "track_url": "https://www.dropbox.com/scl/fi/1usi8y18abkmoeowq52w2/04-ElHekaya.Fi.Mashhaden-MaTb3aa.Com.mp3?rlkey=09utj21u1cwlav41h30fz6uzr&st=sdxusvbw&dl=1",
+                    "duration_ms": 314195,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b9c8d45363c36c2f656e1261",
+                    "id": 3356,
+                    "artist": "Amal Maher"
+                },
+                {
+                    "name": "كسبتوا الرهان",
+                    "track_url": "https://www.dropbox.com/scl/fi/nst4j10v1gk8sqy8o0lmc/05-Kesebto.ElRahan-MaTb3aa.Com.mp3?rlkey=i0skr4dx8uvcgc69qs7lkn1is&st=d8gx9d8k&dl=1",
+                    "duration_ms": 504888,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b9c8d45363c36c2f656e1261",
+                    "id": 3357,
+                    "artist": "Amal Maher"
+                }
+            ],
+            "id": 3352
+        },
+        {
+            "name": "أصل الإحساس",
+            "release_date": "2021-06-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b273fd6f2a43b8799c42fa192b0d",
+            "track_url": "https://open.spotify.com/album/0j1Wa6bkKGp5ahgvaMkBSK",
+            "tracks": [
+                {
+                    "name": "قلبك كبير (مالها)",
+                    "track_url": "https://www.dropbox.com/scl/fi/yevs16kamn50dugpiv0ky/06-Albak.Kbeer-MaTb3aa.Com.mp3?rlkey=tqbakclru1kec64wm4zcle5gd&st=myug6brf&dl=1",
+                    "duration_ms": 220009,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fd6f2a43b8799c42fa192b0d",
+                    "id": 3359,
+                    "artist": "Amal Maher"
+                },
+                {
+                    "name": "ياما عز عليا بعادك",
+                    "track_url": "https://www.dropbox.com/scl/fi/x9l8y79d6lxdk9px8blfs/03-Yama.3az.Alia-MaTb3aa.Com.mp3?rlkey=1kwyfy53bbmr6r7a2tdwniwqz&st=6aa1rm8a&dl=1",
+                    "duration_ms": 280009,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fd6f2a43b8799c42fa192b0d",
+                    "id": 3360,
+                    "artist": "Amal Maher"
+                },
+                {
+                    "name": "ما خلاص",
+                    "track_url": "https://www.dropbox.com/scl/fi/irrgw7jc6cjc7gweqh46h/14-Ma.Khalas-MaTb3aa.Com.mp3?rlkey=01u9czw91w4lfms3dd5schlum&st=7cpkdg0r&dl=1",
+                    "duration_ms": 292014,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fd6f2a43b8799c42fa192b0d",
+                    "id": 3361,
+                    "artist": "Amal Maher"
+                },
+                {
+                    "name": "بداية بدايتك",
+                    "track_url": "https://www.dropbox.com/scl/fi/far9o7eygxbcwwer6ac3z/01-Bedaiet.Bedaitak-MaTb3aa.Com.mp3?rlkey=y0iwrexpzchz2nqodktzgvqep&st=ouerry6l&dl=1",
+                    "duration_ms": 226023,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fd6f2a43b8799c42fa192b0d",
+                    "id": 3362,
+                    "artist": "Amal Maher"
+                },
+                {
+                    "name": "مش هنساه",
+                    "track_url": "https://www.dropbox.com/scl/fi/6c9a757bnipr9nsymp6y7/15-Mosh.Hansah-MaTb3aa.Com.mp3?rlkey=41wb4vxgnlo8fpa90jrt28lp1&st=n57qn20l&dl=1",
+                    "duration_ms": 270001,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fd6f2a43b8799c42fa192b0d",
+                    "id": 3363,
+                    "artist": "Amal Maher"
+                },
+                {
+                    "name": "حبيبي هانت",
+                    "track_url": "https://www.dropbox.com/scl/fi/jzdnv61fwzxvlb0if53cs/11-Habeby.Hanet-MaTb3aa.Com.mp3?rlkey=0oy8zy03p9ule7xtaf1d0og80&st=2di0kcxd&dl=1",
+                    "duration_ms": 245016,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fd6f2a43b8799c42fa192b0d",
+                    "id": 3364,
+                    "artist": "Amal Maher"
+                },
+                {
+                    "name": "وفيها ايه",
+                    "track_url": "https://www.dropbox.com/scl/fi/qwwnej3t1ayq7b5mwr4to/16-We.Feha.Eh-MaTb3aa.Com.mp3?rlkey=ugha4o2t0lmh3ppvto82vhs62&st=8cmir2zi&dl=1",
+                    "duration_ms": 267006,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fd6f2a43b8799c42fa192b0d",
+                    "id": 3365,
+                    "artist": "Amal Maher"
+                },
+                {
+                    "name": "عايشين",
+                    "track_url": "https://www.dropbox.com/scl/fi/slxqn4n5t8283ndx0dr0o/08-Aysheen-MaTb3aa.Com.mp3?rlkey=ij2tg2645dbie8nz6xj9fsk8r&st=qm86hvvp&dl=1",
+                    "duration_ms": 350017,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fd6f2a43b8799c42fa192b0d",
+                    "id": 3366,
+                    "artist": "Amal Maher"
+                },
+                {
+                    "name": "الطير الوحيد",
+                    "track_url": "https://www.dropbox.com/scl/fi/713eed05ozpqeyqebox0v/09-Elteer.Elwaheed-MaTb3aa.Com.mp3?rlkey=i5usganlgkmt73v801n77t5a6&st=fld7zn3s&dl=1",
+                    "duration_ms": 280009,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fd6f2a43b8799c42fa192b0d",
+                    "id": 3367,
+                    "artist": "Amal Maher"
+                },
+                {
+                    "name": "قالوا بالكتير",
+                    "track_url": "https://www.dropbox.com/scl/fi/v8ilgwiinxma3zy5e9h8m/04-2alo.Bilkteer-MaTb3aa.Com.mp3?rlkey=56wh0wadbo0pfhkoylinsqfix&st=cddtq271&dl=1",
+                    "duration_ms": 316000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fd6f2a43b8799c42fa192b0d",
+                    "id": 3368,
+                    "artist": "Amal Maher"
+                },
+                {
+                    "name": "أصل الإحساس",
+                    "track_url": "https://www.dropbox.com/scl/fi/bte5oqajt7n5zyzk1ems4/07-Asl.Ele7sas-MaTb3aa.Com.mp3?rlkey=jzk2okrb1886oua90jska5o8f&st=89ubekg9&dl=1",
+                    "duration_ms": 225001,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fd6f2a43b8799c42fa192b0d",
+                    "id": 3369,
+                    "artist": "Amal Maher"
+                },
+                {
+                    "name": "لو رسمته",
+                    "track_url": "https://www.dropbox.com/scl/fi/mig5370f9zityzdoyxxls/13-Law.Rasamto-MaTb3aa.Com.mp3?rlkey=a7xxrlhtpjy7abg24yndptkkd&st=moese1xy&dl=1",
+                    "duration_ms": 162005,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fd6f2a43b8799c42fa192b0d",
+                    "id": 3370,
+                    "artist": "Amal Maher"
+                },
+                {
+                    "name": "حكاية تعيش",
+                    "track_url": "https://www.dropbox.com/scl/fi/3qohoz4rtybdcgg0svrxf/12-Hekaya.T3esh-MaTb3aa.Com.mp3?rlkey=isar6q3lr4ij9xwh8xfptn1j7&st=pczbjwga&dl=1",
+                    "duration_ms": 220009,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fd6f2a43b8799c42fa192b0d",
+                    "id": 3371,
+                    "artist": "Amal Maher"
+                }
+            ],
+            "id": 3358
+        },
+        {
+            "name": "Welad El Nahardah",
+            "release_date": "2015-04-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f17c85dfca888dc29f559137",
+            "track_url": "https://open.spotify.com/album/0VCGV9lrq4G6uDlOGVYgHI",
+            "tracks": [
+                {
+                    "name": "Seket El Salama",
+                    "track_url": "https://www.dropbox.com/scl/fi/uy6jew06vsia1if7k87n8/03-Seket.El.Salama-MaTb3aa.Com.mp3?rlkey=dq1rnryh2o78po1hp1ejudzje&st=givt1s1v&dl=1",
+                    "duration_ms": 267706,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f17c85dfca888dc29f559137",
+                    "id": 3373,
+                    "artist": "Amal Maher"
+                },
+                {
+                    "name": "Welad El Nahardah",
+                    "track_url": "https://www.dropbox.com/scl/fi/qb8bpfsk7mkvw3eccghap/07-Ehna.Welad.El.Naharda-MaTb3aa.Com.mp3?rlkey=49uiv09u1hzfcqvhvja4cl7xp&st=f1c1ija6&dl=1",
+                    "duration_ms": 236853,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f17c85dfca888dc29f559137",
+                    "id": 3374,
+                    "artist": "Amal Maher"
+                },
+                {
+                    "name": "Ana Habbeitak",
+                    "track_url": "https://www.dropbox.com/scl/fi/y3wkdjikg6aeddtcvpyjv/05-Ana.Habbitak-MaTb3aa.Com.mp3?rlkey=l8rtjjzm03tphu6p18zmkuk5y&st=ln2edr4b&dl=1",
+                    "duration_ms": 273253,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f17c85dfca888dc29f559137",
+                    "id": 3375,
+                    "artist": "Amal Maher"
+                },
+                {
+                    "name": "Bahebak",
+                    "track_url": "https://www.dropbox.com/scl/fi/f0mi8o52h45p2iq965u46/08-Bahebak-MaTb3aa.Com.mp3?rlkey=2lx8pn69nd74lyyvpglcvbq7z&st=a00id92k&dl=1",
+                    "duration_ms": 220600,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f17c85dfca888dc29f559137",
+                    "id": 3376,
+                    "artist": "Amal Maher"
+                },
+                {
+                    "name": "Ayam Matetawadsh",
+                    "track_url": "https://www.dropbox.com/scl/fi/eag03yjeyhe1uukznldbm/06-Ayam.Matetawadsh-MaTb3aa.Com.mp3?rlkey=n8pxb2oiclomukletsenz5swt&st=aqwllbqo&dl=1",
+                    "duration_ms": 232400,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f17c85dfca888dc29f559137",
+                    "id": 3377,
+                    "artist": "Amal Maher"
+                },
+                {
+                    "name": "Zrofy Saaba",
+                    "track_url": "https://www.dropbox.com/scl/fi/erngccor4kke8z73l7j7b/01-Zrofy.Saaba-MaTb3aa.Com.mp3?rlkey=2sczz6ejh9rfqfhfld8vlbj79&st=a1mhgk0o&dl=1",
+                    "duration_ms": 231133,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f17c85dfca888dc29f559137",
+                    "id": 3378,
+                    "artist": "Amal Maher"
+                },
+                {
+                    "name": "Mahontesh Alaya",
+                    "track_url": "https://www.dropbox.com/scl/fi/f6e270rr0o51evf2k3zp1/04-Mahontesh.Alaia-MaTb3aa.Com.mp3?rlkey=bsvpycwph3jqgrwxavgxpfexd&st=l97n5ht6&dl=1",
+                    "duration_ms": 275586,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f17c85dfca888dc29f559137",
+                    "id": 3379,
+                    "artist": "Amal Maher"
+                },
+                {
+                    "name": "Ghelet Ana",
+                    "track_url": "https://www.dropbox.com/scl/fi/4qs2w6p6q3unq5tpiy7r9/10-Ghelet.Ana-MaTb3aa.Com.mp3?rlkey=t5ixb4g71s8bvva8ckl5mhd03&st=cz4be105&dl=1",
+                    "duration_ms": 262573,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f17c85dfca888dc29f559137",
+                    "id": 3380,
+                    "artist": "Amal Maher"
+                },
+                {
+                    "name": "Mafehash Baadein",
+                    "track_url": "https://www.dropbox.com/scl/fi/97j0xvyxzbgy26t5rrytm/02-Mafehash.Badeen-MaTb3aa.Com.mp3?rlkey=xnp5fucrlsxz8l1tbh93jw5zg&st=0wv7vz2m&dl=1",
+                    "duration_ms": 259733,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f17c85dfca888dc29f559137",
+                    "id": 3381,
+                    "artist": "Amal Maher"
+                },
+                {
+                    "name": "Zekrayatna",
+                    "track_url": "https://www.dropbox.com/scl/fi/6ni5llswh27afxute04yd/09-El.Kalam.3an.Zkrayatna-MaTb3aa.Com.mp3?rlkey=kcscst0wcnbgdao0zmbslimc6&st=9htcmj1r&dl=1",
+                    "duration_ms": 183960,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f17c85dfca888dc29f559137",
+                    "id": 3382,
+                    "artist": "Amal Maher"
+                }
+            ],
+            "id": 3372
+        },
+        {
+            "name": "Aaraf Menein",
+            "release_date": "2011-09-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b27385e31f042b2a50b31776cd08",
+            "track_url": "https://open.spotify.com/album/0ja3a1FGtqM5TorWK9RVqL",
+            "tracks": [
+                {
+                    "name": "Rayeh Beya Fein",
+                    "track_url": "https://www.dropbox.com/scl/fi/fnq304pu9dfayu7qoebha/10-Rayh.Beya.Fean-MaTb3aa.Com.mp3?rlkey=e3liftksyun754w7tmdrny8ty&st=6sz76u1a&dl=1",
+                    "duration_ms": 299706,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27385e31f042b2a50b31776cd08",
+                    "id": 3384,
+                    "artist": "Amal Maher"
+                },
+                {
+                    "name": "Feek Hetet Ghorour",
+                    "track_url": "https://www.dropbox.com/scl/fi/chkigw8mt1k1o27lpobyd/07-Feek.Htet.Ghrour-MaTb3aa.Com.mp3?rlkey=6kyh1fwzz2ixfly01z6yw49ey&st=ad2ma0mq&dl=1",
+                    "duration_ms": 275746,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27385e31f042b2a50b31776cd08",
+                    "id": 3385,
+                    "artist": "Amal Maher"
+                },
+                {
+                    "name": "Eteqy Rabena Feya",
+                    "track_url": "https://www.dropbox.com/scl/fi/te0v78jg3s8gq5mb60p3x/06-Etaai.Rabna.Feaya-MaTb3aa.Com.mp3?rlkey=g2lzwlzshbgajzonj3c5uv7kv&st=l07u6u3h&dl=1",
+                    "duration_ms": 250386,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27385e31f042b2a50b31776cd08",
+                    "id": 3386,
+                    "artist": "Amal Maher"
+                },
+                {
+                    "name": "Ana Bardo El Asl",
+                    "track_url": "https://www.dropbox.com/scl/fi/brf5dz39i19qbqdkoa3ct/02-Ana.Bardo.El.Asal-MaTb3aa.Com.mp3?rlkey=4gtct397cfluwaj1a7vzy4kbu&st=gzteznnx&dl=1",
+                    "duration_ms": 283253,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27385e31f042b2a50b31776cd08",
+                    "id": 3387,
+                    "artist": "Amal Maher"
+                },
+                {
+                    "name": "Mesh Hamnaak",
+                    "track_url": "https://www.dropbox.com/scl/fi/wfcikergauolgrxugrt4n/09-Msh.Hamn3aaak-MaTb3aa.Com.mp3?rlkey=nw5lcilvnbqtndtm9jguevlhc&st=d7y2otox&dl=1",
+                    "duration_ms": 276706,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27385e31f042b2a50b31776cd08",
+                    "id": 3388,
+                    "artist": "Amal Maher"
+                },
+                {
+                    "name": "Sallemt Mara Aleik",
+                    "track_url": "https://www.dropbox.com/scl/fi/2iodd1o5ezq23aj4t3x58/11-Salmt.Aleek-MaTb3aa.Com.mp3?rlkey=j4v27gnokzozdbkvfzu162zv6&st=5uoihrwk&dl=1",
+                    "duration_ms": 255040,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27385e31f042b2a50b31776cd08",
+                    "id": 3389,
+                    "artist": "Amal Maher"
+                },
+                {
+                    "name": "Enta Legheiry",
+                    "track_url": "https://www.dropbox.com/scl/fi/g3eh8db2pgrlye3trm1c2/05-Enta.Le.Gheary-MaTb3aa.Com.mp3?rlkey=bybfwssev6oyzj5vm77tv4q9o&st=bn3bw9k7&dl=1",
+                    "duration_ms": 215213,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27385e31f042b2a50b31776cd08",
+                    "id": 3390,
+                    "artist": "Amal Maher"
+                },
+                {
+                    "name": "Mesana Lel Sana",
+                    "track_url": "https://www.dropbox.com/scl/fi/9sk5sitq1u7mzxgjrpn93/08-Mn.El.Sana.Lel.Sana-MaTb3aa.Com.mp3?rlkey=nz65nl6m8zkad5ib6bhk1ppjd&st=h34psu0t&dl=1",
+                    "duration_ms": 265946,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27385e31f042b2a50b31776cd08",
+                    "id": 3391,
+                    "artist": "Amal Maher"
+                },
+                {
+                    "name": "Damiery Byaanebny",
+                    "track_url": "https://www.dropbox.com/scl/fi/r0styga7i8c32ofw8nhp9/04-Dameri.Byaa2nbni-MaTb3aa.Com.mp3?rlkey=qvdwi8aqzjcv0vv013zeeui82&st=2ez69ykx&dl=1",
+                    "duration_ms": 231986,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27385e31f042b2a50b31776cd08",
+                    "id": 3392,
+                    "artist": "Amal Maher"
+                },
+                {
+                    "name": "Awel Mayshofny",
+                    "track_url": "https://www.dropbox.com/scl/fi/ruytowlzoap5p449lx24i/03-Awel.Mayshonfy-MaTb3aa.Com.mp3?rlkey=bgt2t1i9lp1jyvdcwzumn2hz0&st=zmijao9g&dl=1",
+                    "duration_ms": 258573,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27385e31f042b2a50b31776cd08",
+                    "id": 3393,
+                    "artist": "Amal Maher"
+                },
+                {
+                    "name": "Aaraf Menein",
+                    "track_url": "https://www.dropbox.com/scl/fi/k31ye62hguncm5zlesfir/01-A3rf.Mnen-MaTb3aa.Com.mp3?rlkey=kf1gioymh7sgfepvmxtgn2juf&st=ju9wtgbc&dl=1",
+                    "duration_ms": 287906,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27385e31f042b2a50b31776cd08",
+                    "id": 3394,
+                    "artist": "Amal Maher"
+                }
+            ],
+            "id": 3383
+        },
+        {
+            "name": "Esaalni Ana",
+            "release_date": "2005-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b27379a0f59d12dc6c36c52e2691",
+            "track_url": "https://open.spotify.com/album/0Nz4xS0OYoswXFZIJIRBm0",
+            "tracks": [
+                {
+                    "name": "Rabena Yekhaleik Leya",
+                    "track_url": "https://www.dropbox.com/scl/fi/tvc0xsgpnf2lzu82u5fb4/02-Rayhalk.Rohy-MaTb3aa.Com.mp3?rlkey=yoqr9tvm2klpyhixdsip5seeq&st=czw53i8x&dl=1",
+                    "duration_ms": 209906,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27379a0f59d12dc6c36c52e2691",
+                    "id": 3396,
+                    "artist": "Amal Maher"
+                },
+                {
+                    "name": "Eih Benak We Benha",
+                    "track_url": "https://www.dropbox.com/scl/fi/g4thsw2rdxfljt1rkpgv3/05-Aieh.Bainak.Webenha-MaTb3aa.Com.mp3?rlkey=ji9ktrfaochz7wzw0913ntwr5&st=jyj9zew4&dl=1",
+                    "duration_ms": 294760,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27379a0f59d12dc6c36c52e2691",
+                    "id": 3397,
+                    "artist": "Amal Maher"
+                },
+                {
+                    "name": "Esaalni Ana",
+                    "track_url": "https://www.dropbox.com/scl/fi/u2qsv070crzd4g6kpnswo/01-Esaalny.Ana-MaTb3aa.Com.mp3?rlkey=age4t0n47638yk96qurvlqiee&st=fpaye10e&dl=1",
+                    "duration_ms": 293373,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27379a0f59d12dc6c36c52e2691",
+                    "id": 3398,
+                    "artist": "Amal Maher"
+                },
+                {
+                    "name": "Balash Monahda",
+                    "track_url": "https://www.dropbox.com/scl/fi/3uygcbsggf1uhdraeubty/06-Balash.Monahda-MaTb3aa.Com.mp3?rlkey=g9t3l6pkv655iplxzv0ltq895&st=82pbnsot&dl=1",
+                    "duration_ms": 310053,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27379a0f59d12dc6c36c52e2691",
+                    "id": 3399,
+                    "artist": "Amal Maher"
+                },
+                {
+                    "name": "Kelma Wahda",
+                    "track_url": "https://www.dropbox.com/scl/fi/8xaxsj6cb91wm5f1mu53k/09-Kelma.Wahda-MaTb3aa.Com.mp3?rlkey=yx4736mv3pdbw8ovdyd10vona&st=fak9h5th&dl=1",
+                    "duration_ms": 372266,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27379a0f59d12dc6c36c52e2691",
+                    "id": 3400,
+                    "artist": "Amal Maher"
+                },
+                {
+                    "name": "Moush Ragea Tani",
+                    "track_url": "https://www.dropbox.com/scl/fi/xvms26cq7qmn479y13ys0/10-Mosh.Regaa.Tany-MaTb3aa.Com.mp3?rlkey=xgqv0guuxhocitpk5z1isxwfl&st=ydq58tyt&dl=1",
+                    "duration_ms": 261306,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27379a0f59d12dc6c36c52e2691",
+                    "id": 3401,
+                    "artist": "Amal Maher"
+                },
+                {
+                    "name": "Ya Nasini",
+                    "track_url": "https://www.dropbox.com/scl/fi/1mkjd4b49h41z9zrgcoju/03-Ya.Nasseny-MaTb3aa.Com.mp3?rlkey=7r72qowaltjuilohzirvavv0m&st=udoovy8g&dl=1",
+                    "duration_ms": 284453,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27379a0f59d12dc6c36c52e2691",
+                    "id": 3402,
+                    "artist": "Amal Maher"
+                },
+                {
+                    "name": "Rayhalak Rohi",
+                    "track_url": "https://www.dropbox.com/scl/fi/tvc0xsgpnf2lzu82u5fb4/02-Rayhalk.Rohy-MaTb3aa.Com.mp3?rlkey=yoqr9tvm2klpyhixdsip5seeq&st=i3wvhyvn&dl=1",
+                    "duration_ms": 250266,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27379a0f59d12dc6c36c52e2691",
+                    "id": 3403,
+                    "artist": "Amal Maher"
+                },
+                {
+                    "name": "Betekrah Leih",
+                    "track_url": "https://www.dropbox.com/scl/fi/cjc35i5cdy5bydu01btgk/07-Betkrah.Lieh-MaTb3aa.Com.mp3?rlkey=l7aefqj6131pj7f6v8ec9v0un&st=qpf4bgsv&dl=1",
+                    "duration_ms": 254920,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27379a0f59d12dc6c36c52e2691",
+                    "id": 3404,
+                    "artist": "Amal Maher"
+                },
+                {
+                    "name": "Elli Enta Matearafoush",
+                    "track_url": "https://www.dropbox.com/scl/fi/e602lapqfv94vmqa7n267/08-Elly.Enta.Matarafoush-MaTb3aa.Com.mp3?rlkey=mn4wj0mtg5gv3ed3joiv6c7al&st=yn90z8vs&dl=1",
+                    "duration_ms": 281666,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27379a0f59d12dc6c36c52e2691",
+                    "id": 3405,
+                    "artist": "Amal Maher"
+                }
+            ],
+            "id": 3395
+        }
+    ],
+    "singles": [
+        {
+            "name": "مصر شعب جيش",
+            "release_date": "2024-10-27",
+            "image": "https://i.scdn.co/image/ab67616d0000b27396989a8fb7a3db684c99cbf5",
+            "track_url": "https://www.dropbox.com/scl/fi/72elbuq6us6t43ug93p1y/.mp3?rlkey=h9nrgl5xz7arszmvoaeemirzu&st=3prr0rv9&dl=1",
+            "id": 3406,
+            "artist": "Amal Maher"
+        },
+        {
+            "name": "اسبق",
+            "release_date": "2024-10-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735ba77120dcb4d886c39ea1cc",
+            "track_url": "https://www.dropbox.com/scl/fi/ze0dduf2ye97139e1q92o/.mp3?rlkey=tb3ynn0kw44wafilmyi1o8h93&st=weoz5eok&dl=1",
+            "id": 3409,
+            "artist": "Amal Maher"
+        },
+        {
+            "name": "أنا كويسة",
+            "track_url": "https://www.dropbox.com/scl/fi/6bu1uk8g9670fqf7btv9k/01-Ana.Kwaiesa-MaTb3aa.Com.mp3?rlkey=l5mob17kmkpilpzsst71hdkjz&st=0hoty00h&dl=1",
+            "duration_ms": 626149,
+            "image": "https://i.scdn.co/image/ab67616d0000b273b9c8d45363c36c2f656e1261",
+            "id": 3353,
+            "artist": "Amal Maher"
+        },
+        {
+            "name": "مسلسل ليه لأ",
+            "release_date": "2021-06-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732131a3a29c5a4cce1b8b433c",
+            "track_url": "https://www.dropbox.com/scl/fi/rik51p6m01yfk1309f8zq/.mp3?rlkey=toesdu55ng3hyfp2i9005ci2a&st=fwx070o2&dl=1",
+            "id": 3418,
+            "artist": "Amal Maher"
+        },
+        {
+            "name": "لو كان بخاطري",
+            "release_date": "2021-06-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738c169e91016beb708c972dbe",
+            "track_url": "https://www.dropbox.com/scl/fi/7dx25eb7vj2akyya38m5p/.mp3?rlkey=ogkio96riptehsg3t7h70do5p&st=pu42fio5&dl=1",
+            "id": 3419,
+            "artist": "Amal Maher"
+        },
+        {
+            "name": "انا بعشق الغنا",
+            "release_date": "2020-01-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ddca6f53b34d5fa11e8fd7b2",
+            "track_url": "https://www.dropbox.com/scl/fi/o2xagcncxlxerg9kknt13/.mp3?rlkey=8kxr6j9dc741ay79a92mdd7o8&st=uvylehwc&dl=1",
+            "id": 3421,
+            "artist": "Amal Maher"
+        },
+        {
+            "name": "طوبة فوق طوبة",
+            "release_date": "2019-11-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b27317e44531a0bf06bcb159423a",
+            "track_url": "https://www.dropbox.com/scl/fi/17ei69ud8z6zwe90ytd0o/.mp3?rlkey=zfo4n1vt88s0yhtn347pvwpx9&st=i9aum7p3&dl=1",
+            "id": 3422,
+            "artist": "Amal Maher"
+        },
+        {
+            "name": "Ghab",
+            "release_date": "2019-01-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b27386da6869de4c30562ed28273",
+            "track_url": "https://www.dropbox.com/scl/fi/9ink3fc7o2p35o6ckir2t/.mp3?rlkey=f1qlw6nvcrp5k7yv5up43xiys&st=f6pab3v9&dl=1",
+            "id": 3423,
+            "artist": "Amal Maher"
+        },
+        {
+            "name": "Ediny Forsa",
+            "release_date": "2019-01-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b27316809dcfefdda0b271c23547",
+            "track_url": "https://www.dropbox.com/scl/fi/kb55sb7xvto7ifbso4xky/.mp3?rlkey=mll4nr8eosmbaim2gtws9u9oz&st=uvfn2w94&dl=1",
+            "id": 3424,
+            "artist": "Amal Maher"
+        },
+        {
+            "name": "Agmal Hob",
+            "release_date": "2019-01-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c2131c9010a5d31d07aed552",
+            "track_url": "https://www.dropbox.com/scl/fi/wd15w9ok2pbbocjzt7l1h/.mp3?rlkey=bj3760sfqlhm56grfp0hstmn4&st=2k3b8981&dl=1",
+            "id": 3425,
+            "artist": "Amal Maher"
+        },
+        {
+            "name": "Men Zaman",
+            "release_date": "2018-12-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b27326271b349f2f2f09b4fe3c78",
+            "track_url": "https://www.dropbox.com/scl/fi/jaayl8daqprs5osf9pjtt/.mp3?rlkey=0o7q4abrl55xkw2yw2irw525t&st=2tt7uy18&dl=1",
+            "id": 3426,
+            "artist": "Amal Maher"
+        },
+        {
+            "name": "Zekrayatna",
+            "track_url": "https://www.dropbox.com/scl/fi/6ni5llswh27afxute04yd/09-El.Kalam.3an.Zkrayatna-MaTb3aa.Com.mp3?rlkey=kcscst0wcnbgdao0zmbslimc6&st=9htcmj1r&dl=1",
+            "duration_ms": 183960,
+            "image": "https://i.scdn.co/image/ab67616d0000b273f17c85dfca888dc29f559137",
+            "id": 3382,
+            "artist": "Amal Maher"
+        },
+        {
+            "name": "Ezay Fatetny",
+            "release_date": "2016-07-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b028d63336cbc1c75f13bb44",
+            "track_url": "https://www.dropbox.com/scl/fi/t6jyyjus4w0abgai6ex5h/.mp3?rlkey=mg7hv3cdli66b5gead1und19o&st=l5h2j9qe&dl=1",
+            "id": 3429,
+            "artist": "Amal Maher"
+        },
+        {
+            "name": "Yalla",
+            "release_date": "2016-02-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732ef2a58ed10ead770dfa0663",
+            "track_url": "https://www.dropbox.com/scl/fi/of9ewmy7na5pusriej2ot/.mp3?rlkey=qxpkqswgctyfia65ksf8322uo&st=l6nhyixo&dl=1",
+            "id": 3430,
+            "artist": "Amal Maher"
+        },
+        {
+            "name": "بطولات",
+            "release_date": "2015-11-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a4a156818345fb0114bb7c99",
+            "track_url": "https://www.dropbox.com/scl/fi/4fg6do1t6i417sdq85cx3/.mp3?rlkey=v1xz1ks8usrkqmov2y17et8ys&st=p38x67rx&dl=1",
+            "id": 3433,
+            "artist": "Amal Maher"
+        },
+        {
+            "name": "مشاعري",
+            "release_date": "2015-07-26",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f80f9abf21dad998efc7b928",
+            "track_url": "https://www.dropbox.com/scl/fi/tjetm7tpdeiwnj8p7erzg/.mp3?rlkey=ao1ufga6egljt4ztml4yb6fi3&st=r18xp38e&dl=1",
+            "id": 3434,
+            "artist": "Amal Maher"
+        },
+        {
+            "name": "ربي يسلملي إيديك",
+            "release_date": "2014-12-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737ae6d04c9bac498631340062",
+            "track_url": "https://www.dropbox.com/scl/fi/kv5hb7smusx65uvv3jfwf/.mp3?rlkey=clxiyxg516fdvyvz8ngq71tng&st=j3zu0zxl&dl=1",
+            "id": 3435,
+            "artist": "Amal Maher"
+        },
+        {
+            "name": "الحب الذي كان",
+            "release_date": "2014-12-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731980349b601037122f54a9cd",
+            "track_url": "https://www.dropbox.com/scl/fi/tbtudr4baarwiscdeyl35/.mp3?rlkey=xrhzuw9e4y5mgz4cvg545r1gx&st=ieazuhrc&dl=1",
+            "id": 3436,
+            "artist": "Amal Maher"
+        }
+    ],
+    "popular_tracks": [
+        {
+            "name": "انا بعشق الغنا",
+            "release_date": "2020-01-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ddca6f53b34d5fa11e8fd7b2",
+            "track_url": "https://www.dropbox.com/scl/fi/o2xagcncxlxerg9kknt13/.mp3?rlkey=8kxr6j9dc741ay79a92mdd7o8&st=uvylehwc&dl=1",
+            "id": 3421,
+            "artist": "Amal Maher"
+        },
+        {
+            "name": "أنا الحب",
+            "track_url": "https://www.dropbox.com/scl/fi/s2xyovphe3mmps84qetpz/02-Ana.ElHob-MaTb3aa.Com.mp3?rlkey=02mn8p6kuxi54bglqr0qdm77s&st=7jp1e7h3&dl=1",
+            "duration_ms": 331791,
+            "image": "https://i.scdn.co/image/ab67616d0000b273b9c8d45363c36c2f656e1261",
+            "id": 3354,
+            "artist": "Amal Maher"
+        },
+        {
+            "name": "Bahebak",
+            "track_url": "https://www.dropbox.com/scl/fi/f0mi8o52h45p2iq965u46/08-Bahebak-MaTb3aa.Com.mp3?rlkey=2lx8pn69nd74lyyvpglcvbq7z&st=a00id92k&dl=1",
+            "duration_ms": 220600,
+            "image": "https://i.scdn.co/image/ab67616d0000b273f17c85dfca888dc29f559137",
+            "id": 3376,
+            "artist": "Amal Maher"
+        },
+        {
+            "name": "Awel Mayshofny",
+            "track_url": "https://www.dropbox.com/scl/fi/ruytowlzoap5p449lx24i/03-Awel.Mayshonfy-MaTb3aa.Com.mp3?rlkey=bgt2t1i9lp1jyvdcwzumn2hz0&st=zmijao9g&dl=1",
+            "duration_ms": 258573,
+            "image": "https://i.scdn.co/image/ab67616d0000b27385e31f042b2a50b31776cd08",
+            "id": 3393,
+            "artist": "Amal Maher"
+        },
+        {
+            "name": "Seket El Salama",
+            "track_url": "https://www.dropbox.com/scl/fi/uy6jew06vsia1if7k87n8/03-Seket.El.Salama-MaTb3aa.Com.mp3?rlkey=dq1rnryh2o78po1hp1ejudzje&st=givt1s1v&dl=1",
+            "duration_ms": 267706,
+            "image": "https://i.scdn.co/image/ab67616d0000b273f17c85dfca888dc29f559137",
+            "id": 3373,
+            "artist": "Amal Maher"
+        },
+        {
+            "name": "كسبتوا الرهان",
+            "track_url": "https://www.dropbox.com/scl/fi/nst4j10v1gk8sqy8o0lmc/05-Kesebto.ElRahan-MaTb3aa.Com.mp3?rlkey=i0skr4dx8uvcgc69qs7lkn1is&st=d8gx9d8k&dl=1",
+            "duration_ms": 504888,
+            "image": "https://i.scdn.co/image/ab67616d0000b273b9c8d45363c36c2f656e1261",
+            "id": 3357,
+            "artist": "Amal Maher"
+        },
+        {
+            "name": "Mesh Hamnaak",
+            "track_url": "https://www.dropbox.com/scl/fi/wfcikergauolgrxugrt4n/09-Msh.Hamn3aaak-MaTb3aa.Com.mp3?rlkey=nw5lcilvnbqtndtm9jguevlhc&st=d7y2otox&dl=1",
+            "duration_ms": 276706,
+            "image": "https://i.scdn.co/image/ab67616d0000b27385e31f042b2a50b31776cd08",
+            "id": 3388,
+            "artist": "Amal Maher"
+        },
+        {
+            "name": "صاحبة عمري",
+            "track_url": "https://www.dropbox.com/scl/fi/8mz07am8x7994pe9bwxro/03-Sahbet.Omri-MaTb3aa.Com.mp3?rlkey=k9m6ekfhc9c9ix95qnhe2k48m&st=aj0hnsny&dl=1",
+            "duration_ms": 563192,
+            "image": "https://i.scdn.co/image/ab67616d0000b273b9c8d45363c36c2f656e1261",
+            "id": 3355,
+            "artist": "Amal Maher"
+        },
+        {
+            "name": "Eteqy Rabena Feya",
+            "track_url": "https://www.dropbox.com/scl/fi/te0v78jg3s8gq5mb60p3x/06-Etaai.Rabna.Feaya-MaTb3aa.Com.mp3?rlkey=g2lzwlzshbgajzonj3c5uv7kv&st=l07u6u3h&dl=1",
+            "duration_ms": 250386,
+            "image": "https://i.scdn.co/image/ab67616d0000b27385e31f042b2a50b31776cd08",
+            "id": 3386,
+            "artist": "Amal Maher"
+        },
+        {
+            "name": "ياما عز عليا بعادك",
+            "track_url": "https://www.dropbox.com/scl/fi/x9l8y79d6lxdk9px8blfs/03-Yama.3az.Alia-MaTb3aa.Com.mp3?rlkey=1kwyfy53bbmr6r7a2tdwniwqz&st=6aa1rm8a&dl=1",
+            "duration_ms": 280009,
+            "image": "https://i.scdn.co/image/ab67616d0000b273fd6f2a43b8799c42fa192b0d",
+            "id": 3360,
+            "artist": "Amal Maher"
+        }
+    ]
+}

@@ -1,0 +1,303 @@
+{
+    "artist": {
+        "id": "4292",
+        "name": "Nabil",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb6ca91ce45e9c480f0a894553",
+        "background_image": "https://i.scdn.co/image/ab676161000051746ca91ce45e9c480f0a894553"
+    },
+    "albums": [
+        {
+            "name": "Alby Habak",
+            "release_date": "2016-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c56e1ad941c665925bd8a2eb",
+            "track_url": "https://open.spotify.com/album/3CKbMHt8RQ1PgGDB6lQnUe",
+            "tracks": [
+                {
+                    "name": "Yekhreb Beitak",
+                    "track_url": "https://www.dropbox.com/scl/fi/bstthf2csn1zm9f4g1ihn/Ahmedwap.Com_nbyl_ykhrb_bytk.mp3?rlkey=3axd2n427q22kp4u6dpzbxyej&st=v36a9oh9&dl=1",
+                    "duration_ms": 253176,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c56e1ad941c665925bd8a2eb",
+                    "id": 4305,
+                    "artist": "Nabil"
+                },
+                {
+                    "name": "Alby Habak",
+                    "track_url": "https://www.dropbox.com/scl/fi/pkxl0oec0szfofj1w8m27/Ahmedwap.Com_nbyl_klby_hbk.mp3?rlkey=oism0lqlxe0n84la8o0mbrmp2&st=pwb0hpfm&dl=1",
+                    "duration_ms": 280008,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c56e1ad941c665925bd8a2eb",
+                    "id": 4306,
+                    "artist": "Nabil"
+                },
+                {
+                    "name": "Ba2aly Youmen",
+                    "track_url": "https://www.dropbox.com/scl/fi/0zltz6vk5038e7b29h6gg/Ahmedwap.Com_nbyl_bkaly_ywmyn.mp3?rlkey=94nzo7rguog7kk88mll241ahc&st=swfzou5l&dl=1",
+                    "duration_ms": 230136,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c56e1ad941c665925bd8a2eb",
+                    "id": 4307,
+                    "artist": "Nabil"
+                },
+                {
+                    "name": "Mafish Haga Testahel",
+                    "track_url": "https://www.dropbox.com/scl/fi/d2eyuq178q7zsscbbn7kf/Ahmedwap.Com_nbyl_mafysh_hagt_tstahl.mp3?rlkey=ncyav6imj19697wotifnm5zhq&st=ydy90nk4&dl=1",
+                    "duration_ms": 287904,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c56e1ad941c665925bd8a2eb",
+                    "id": 4308,
+                    "artist": "Nabil"
+                },
+                {
+                    "name": "Law Kan Fare2",
+                    "track_url": "https://www.dropbox.com/scl/fi/f934onnm596xrtwqzkojy/Ahmedwap.Com_nbyl_lw_kan_fark.mp3?rlkey=xizrcx7t0jl6p34loqfsq8xf0&st=t1lu6m0q&dl=1",
+                    "duration_ms": 210720,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c56e1ad941c665925bd8a2eb",
+                    "id": 4309,
+                    "artist": "Nabil"
+                },
+                {
+                    "name": "Nesitny Leh",
+                    "track_url": "https://www.dropbox.com/scl/fi/p3kicpaooohxsap28t0l7/Ahmedwap.Com_nbyl_nsytny.mp3?rlkey=bs15a558ln0dvjkczoa38jroi&st=h7ja1avp&dl=1",
+                    "duration_ms": 201144,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c56e1ad941c665925bd8a2eb",
+                    "id": 4310,
+                    "artist": "Nabil"
+                },
+                {
+                    "name": "Hekayet El Amar",
+                    "track_url": "https://www.dropbox.com/scl/fi/nao3lku9hm6rtuvqx7whn/Ahmedwap.Com_nbyl_hkayt_alkmr.mp3?rlkey=1nodoz5de9wp9yt8g442ky2xw&st=yysb35ti&dl=1",
+                    "duration_ms": 184056,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c56e1ad941c665925bd8a2eb",
+                    "id": 4311,
+                    "artist": "Nabil"
+                },
+                {
+                    "name": "Ala Fekra",
+                    "track_url": "https://www.dropbox.com/scl/fi/q8kmcqkg6gmdy47t6vk9j/Ahmedwap.Com_nbyl_aly_fkrt.mp3?rlkey=37teaghzgd50na03swyk693v1&st=4het1psh&dl=1",
+                    "duration_ms": 233016,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c56e1ad941c665925bd8a2eb",
+                    "id": 4312,
+                    "artist": "Nabil"
+                },
+                {
+                    "name": "Mashaweer",
+                    "track_url": "https://www.dropbox.com/scl/fi/39vz7ztawj1g1k6ustkwq/Ahmedwap.Com_nbyl_mshawyr.mp3?rlkey=pgvg96pk9xx4bi1adgf6lzqxf&st=3icm9ap3&dl=1",
+                    "duration_ms": 308760,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c56e1ad941c665925bd8a2eb",
+                    "id": 4313,
+                    "artist": "Nabil"
+                },
+                {
+                    "name": "Habiby",
+                    "track_url": "https://www.dropbox.com/scl/fi/emcfl9hbhfe73t1bziyn4/Ahmedwap.Com_nbyl_hbyby.mp3?rlkey=5w5iolln39ekrgp2nzy0g8n07&st=h46cyv2r&dl=1",
+                    "duration_ms": 184248,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c56e1ad941c665925bd8a2eb",
+                    "id": 4314,
+                    "artist": "Nabil"
+                },
+                {
+                    "name": "Yalla",
+                    "track_url": "https://www.dropbox.com/scl/fi/6wd1ax08yjd3t0nusenci/Ahmedwap.Com_nbyl_yala.mp3?rlkey=jv99rm2kdm86dviwgigt3wfzx&st=fesps3tk&dl=1",
+                    "duration_ms": 263952,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c56e1ad941c665925bd8a2eb",
+                    "id": 4315,
+                    "artist": "Nabil"
+                },
+                {
+                    "name": "3amel Eh",
+                    "track_url": "https://www.dropbox.com/scl/fi/u3qw2on5qcwyt8ns6vdll/.mp3?rlkey=44633ixfmbmbmelz94h2fwbga&st=tdoxdu74&dl=1",
+                    "duration_ms": 273624,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c56e1ad941c665925bd8a2eb",
+                    "id": 4316,
+                    "artist": "Nabil"
+                }
+            ],
+            "id": 4304
+        }
+    ],
+    "singles": [
+        {
+            "name": "Mosalsalat",
+            "release_date": "2024-12-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f22518ac5e71642f10c591ee",
+            "track_url": "https://www.dropbox.com/scl/fi/xvla6i4nnufsimoqpgt0p/bregaraab.Com_nbyl_mslslat.mp3?rlkey=ndgzq3g1ny2qu2j8koa5u7uan&st=fduye1w0&dl=1",
+            "id": 4317,
+            "artist": "Nabil"
+        },
+        {
+            "name": "Afalet 3alena",
+            "release_date": "2024-02-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b27333c1c94f574295d57bed90f3",
+            "track_url": "https://www.dropbox.com/scl/fi/3g9cyg4uvf7dmvjr4kiuq/bregaraab.Com_nbyl_kflt_alyna.mp3?rlkey=ujfwa9ymjtmsws7e7eh2ct8ay&st=8gj5szi7&dl=1",
+            "id": 4318,
+            "artist": "Nabil"
+        },
+        {
+            "name": "Ga7da",
+            "track_url": "https://www.dropbox.com/scl/fi/oajcdsyv7zanmi1jc5ftd/bregaraab.Com_nbyl_gahdt.mp3?rlkey=h5nmpbwdnw8n0xye32no2q5ft&st=czfw6a1y&dl=1",
+            "duration_ms": 186600,
+            "image": "https://i.scdn.co/image/ab67616d0000b27365deea2c3a6cb9ccfd16a6d8",
+            "id": 4294,
+            "artist": "Nabil"
+        },
+        {
+            "name": "Alby Mal",
+            "release_date": "2023-12-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b27383121dd3cecb189e3ee1f48a",
+            "track_url": "https://www.dropbox.com/scl/fi/0s1mt01uajhvhy6knmhp0/bregaraab.Com_nbyl_klby_ml.mp3?rlkey=ghhnv0of9ziojnzgpzjlosmvj&st=hys9b6jg&dl=1",
+            "id": 4319,
+            "artist": "Nabil"
+        },
+        {
+            "name": "La Ta3leeq",
+            "release_date": "2023-08-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c8623c6d4b3155ff0cd3f903",
+            "track_url": "https://www.dropbox.com/scl/fi/kqx3p6idk9rkq7m0apot4/bregaraab.Com_nbyl_la_talyk.mp3?rlkey=qpab5exg3ca81twnggp83u1vf&st=3ssonu46&dl=1",
+            "id": 4321,
+            "artist": "Nabil"
+        },
+        {
+            "name": "Elly Yeza3alny",
+            "release_date": "2023-05-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732e9715fe244f985276441db5",
+            "track_url": "https://www.dropbox.com/scl/fi/2161se087coqcofsz0ain/bregaraab.Com_nbyl_ally_yzalny.mp3?rlkey=hwrx8zh1egaa77vb7zx0pkgrv&st=m3csoxer&dl=1",
+            "id": 4322,
+            "artist": "Nabil"
+        },
+        {
+            "name": "Sad Khana",
+            "release_date": "2023-02-14",
+            "image": "https://i.scdn.co/image/ab67616d0000b27363d0c6debab686f89855514b",
+            "track_url": "https://www.dropbox.com/scl/fi/8ek8euy0gld3kk7pis5aq/.mp3?rlkey=0kqoccrjsd67phqkb6ghz8771&st=3vlyzb1i&dl=1",
+            "id": 4323,
+            "artist": "Nabil"
+        },
+        {
+            "name": "Ayesh Fel Dabab",
+            "release_date": "2023-01-29",
+            "image": "https://i.scdn.co/image/ab67616d0000b273174747d0e546d47fc6e38c97",
+            "track_url": "https://www.dropbox.com/scl/fi/e4k664moftnc8aya6h7or/bregaraab.Com_nbyl_aaysh_fy_aldbab.mp3?rlkey=0l26lfabmthirkp9fr690pyx9&st=l7d6iblo&dl=1",
+            "id": 4324,
+            "artist": "Nabil"
+        },
+        {
+            "name": "El Nas El Ghalyeen",
+            "release_date": "2022-03-02",
+            "image": "https://i.scdn.co/image/ab67616d0000b27339f4e3cef57a6bb57fb9445a",
+            "track_url": "https://www.dropbox.com/scl/fi/5d4dvpy7fuehhp5y6pjv2/bregaraab.Com_nbyl_alnas_alghalyyn.mp3?rlkey=xg26ywv3bkf2wvym2t5q6fvbt&st=zg9lqbv5&dl=1",
+            "id": 4325,
+            "artist": "Nabil"
+        },
+        {
+            "name": "La Ay Ay",
+            "release_date": "2021-12-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b273479b1b0aa1d0fd3da1fcae38",
+            "track_url": "https://www.dropbox.com/scl/fi/q9y7fufjikw8qh8a7uyxz/bregaraab.Com_nbyl_la_ay_ay.mp3?rlkey=jgco0jw0td4jqazjuzjki79dq&st=8tgfpmoh&dl=1",
+            "id": 4326,
+            "artist": "Nabil"
+        },
+        {
+            "name": "Dars Hayaty",
+            "release_date": "2021-11-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d6e28c146d259d421d50ed8d",
+            "track_url": "https://www.dropbox.com/scl/fi/di4kdsg9qhdndqb2yfvr5/bregaraab.Com_nbyl_drs_hyaty.mp3?rlkey=l4uynbptwcx2ej6pxzxewdyby&st=8zflt5n0&dl=1",
+            "id": 4327,
+            "artist": "Nabil"
+        },
+        {
+            "name": "Baya3 Kalam",
+            "release_date": "2020-12-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733f6b48b073a0a34230b778da",
+            "track_url": "https://www.dropbox.com/scl/fi/pfkb6or8gkmp71lprhpne/bregaraab.Com_nbyl_byaa_klam.mp3?rlkey=ou8xozbz00as8a2kkclu0l7hg&st=jmvyiqzi&dl=1",
+            "id": 4329,
+            "artist": "Nabil"
+        },
+        {
+            "name": "Mennak Lellah",
+            "release_date": "2015-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c2cd5a301d3420bfc7d84d4f",
+            "track_url": "https://www.dropbox.com/scl/fi/6mjhlgm5ewxu7xbvs12wp/Ahmedwap.Com_nbyl_mnk_llh.mp3?rlkey=g5ogqzxcpdl807fxxz3whk7f6&st=8pkfjjdd&dl=1",
+            "id": 4330,
+            "artist": "Nabil"
+        }
+    ],
+    "popular_tracks": [
+        {
+            "name": "Dars Hayaty",
+            "track_url": "https://www.dropbox.com/scl/fi/di4kdsg9qhdndqb2yfvr5/bregaraab.Com_nbyl_drs_hyaty.mp3?rlkey=l4uynbptwcx2ej6pxzxewdyby&st=8zflt5n0&dl=1",
+            "duration_ms": 162720,
+            "image": "https://i.scdn.co/image/ab67616d0000b273d6e28c146d259d421d50ed8d",
+            "id": 4331,
+            "artist": "Nabil"
+        },
+        {
+            "name": "Ayesh Fel Dabab",
+            "track_url": "https://www.dropbox.com/scl/fi/e4k664moftnc8aya6h7or/bregaraab.Com_nbyl_aaysh_fy_aldbab.mp3?rlkey=0l26lfabmthirkp9fr690pyx9&st=l7d6iblo&dl=1",
+            "duration_ms": 196389,
+            "image": "https://i.scdn.co/image/ab67616d0000b273174747d0e546d47fc6e38c97",
+            "id": 4332,
+            "artist": "Nabil"
+        },
+        {
+            "name": "Yekhreb Beitak",
+            "track_url": "https://www.dropbox.com/scl/fi/bstthf2csn1zm9f4g1ihn/Ahmedwap.Com_nbyl_ykhrb_bytk.mp3?rlkey=3axd2n427q22kp4u6dpzbxyej&st=v36a9oh9&dl=1",
+            "duration_ms": 253176,
+            "image": "https://i.scdn.co/image/ab67616d0000b273c56e1ad941c665925bd8a2eb",
+            "id": 4333,
+            "artist": "Nabil"
+        },
+        {
+            "name": "Sad Khana",
+            "track_url": "https://www.dropbox.com/scl/fi/8ek8euy0gld3kk7pis5aq/.mp3?rlkey=0kqoccrjsd67phqkb6ghz8771&st=3vlyzb1i&dl=1",
+            "duration_ms": 232280,
+            "image": "https://i.scdn.co/image/ab67616d0000b27363d0c6debab686f89855514b",
+            "id": 4334,
+            "artist": "Nabil"
+        },
+        {
+            "name": "Afalet 3alena",
+            "track_url": "https://www.dropbox.com/scl/fi/3g9cyg4uvf7dmvjr4kiuq/bregaraab.Com_nbyl_kflt_alyna.mp3?rlkey=ujfwa9ymjtmsws7e7eh2ct8ay&st=8gj5szi7&dl=1",
+            "duration_ms": 204416,
+            "image": "https://i.scdn.co/image/ab67616d0000b27333c1c94f574295d57bed90f3",
+            "id": 4335,
+            "artist": "Nabil"
+        },
+        {
+            "name": "Mosalsalat",
+            "track_url": "https://www.dropbox.com/scl/fi/xvla6i4nnufsimoqpgt0p/bregaraab.Com_nbyl_mslslat.mp3?rlkey=ndgzq3g1ny2qu2j8koa5u7uan&st=fduye1w0&dl=1",
+            "duration_ms": 191338,
+            "image": "https://i.scdn.co/image/ab67616d0000b273f22518ac5e71642f10c591ee",
+            "id": 4336,
+            "artist": "Nabil"
+        },
+        {
+            "name": "Nefsi Afou2",
+            "track_url": "https://www.dropbox.com/scl/fi/78b71oeyq2wyjuxxhag1x/bregaraab.Com_nbyl_nfsy_afwk.mp3?rlkey=2p0tz0s6l1qbf8t0cw3c9rev6&st=7f5mcld5&dl=1",
+            "duration_ms": 239166,
+            "image": "https://i.scdn.co/image/ab67616d0000b27365deea2c3a6cb9ccfd16a6d8",
+            "id": 4337,
+            "artist": "Nabil"
+        },
+        {
+            "name": "3amel Eh",
+            "track_url": "https://www.dropbox.com/scl/fi/u3qw2on5qcwyt8ns6vdll/.mp3?rlkey=44633ixfmbmbmelz94h2fwbga&st=tdoxdu74&dl=1",
+            "duration_ms": 273624,
+            "image": "https://i.scdn.co/image/ab67616d0000b273c56e1ad941c665925bd8a2eb",
+            "id": 4338,
+            "artist": "Nabil"
+        },
+        {
+            "name": "Alby Mal",
+            "track_url": "https://www.dropbox.com/scl/fi/0s1mt01uajhvhy6knmhp0/bregaraab.Com_nbyl_klby_ml.mp3?rlkey=ghhnv0of9ziojnzgpzjlosmvj&st=hys9b6jg&dl=1",
+            "duration_ms": 178947,
+            "image": "https://i.scdn.co/image/ab67616d0000b27383121dd3cecb189e3ee1f48a",
+            "id": 4339,
+            "artist": "Nabil"
+        },
+        {
+            "name": "La Ay Ay",
+            "track_url": "https://www.dropbox.com/scl/fi/q9y7fufjikw8qh8a7uyxz/bregaraab.Com_nbyl_la_ay_ay.mp3?rlkey=jgco0jw0td4jqazjuzjki79dq&st=8tgfpmoh&dl=1",
+            "duration_ms": 219485,
+            "image": "https://i.scdn.co/image/ab67616d0000b273479b1b0aa1d0fd3da1fcae38",
+            "id": 4340,
+            "artist": "Nabil"
+        }
+    ]
+}

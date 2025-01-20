@@ -1,0 +1,2818 @@
+{
+    "artist": {
+        "id": "8992",
+        "name": "Majid Almohandis",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb9c16359848260ee1068259d3",
+        "background_image": "https://i.scdn.co/image/ab676161000051749c16359848260ee1068259d3"
+    },
+    "albums": [
+        {
+            "name": "Laylat Alprince W Alamaleqa",
+            "release_date": "2024-10-06",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e3730fc3f899a86b63ae40e1",
+            "track_url": "https://open.spotify.com/album/2pAdPmucfKnxqcvkU0NxQy",
+            "tracks": [
+                {
+                    "name": "Nagsk Shay - Laylat Alprince W Alamaleqa",
+                    "track_url": "",
+                    "duration_ms": 301467,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e3730fc3f899a86b63ae40e1",
+                    "id": 8994,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Yhizak Al Shooq - Laylat Alprince W Alamaleqa",
+                    "track_url": "",
+                    "duration_ms": 378511,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e3730fc3f899a86b63ae40e1",
+                    "id": 8995,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Aatshan - Laylat Alprince W Alamaleqa",
+                    "track_url": "",
+                    "duration_ms": 362895,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e3730fc3f899a86b63ae40e1",
+                    "id": 8996,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Ana Blayak - Laylat Alprince W Alamaleqa",
+                    "track_url": "",
+                    "duration_ms": 341874,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e3730fc3f899a86b63ae40e1",
+                    "id": 8997,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Ana Mosayar - Laylat Alprince W Alamaleqa",
+                    "track_url": "",
+                    "duration_ms": 328995,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e3730fc3f899a86b63ae40e1",
+                    "id": 8998,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Tinadeek - Laylat Alprince W Alamaleqa",
+                    "track_url": "",
+                    "duration_ms": 353586,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e3730fc3f899a86b63ae40e1",
+                    "id": 8999,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Bdet Ateeb - Laylat Alprince W Alamaleqa",
+                    "track_url": "",
+                    "duration_ms": 274674,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e3730fc3f899a86b63ae40e1",
+                    "id": 9000,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Eldenya Dawaarah - Laylat Alprince W Alamaleqa",
+                    "track_url": "",
+                    "duration_ms": 363429,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e3730fc3f899a86b63ae40e1",
+                    "id": 9001,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Janant Galbi - Laylat Alprince W Alamaleqa",
+                    "track_url": "",
+                    "duration_ms": 288087,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e3730fc3f899a86b63ae40e1",
+                    "id": 9002,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Wedina Bi AlTeeb - Laylat Alprince W Alamaleqa",
+                    "track_url": "",
+                    "duration_ms": 295128,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e3730fc3f899a86b63ae40e1",
+                    "id": 9003,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Ala El Thikra - Laylat Alprince W Alamaleqa",
+                    "track_url": "",
+                    "duration_ms": 362895,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e3730fc3f899a86b63ae40e1",
+                    "id": 9004,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Wadaat Rouhi - Laylat Alprince W Alamaleqa",
+                    "track_url": "",
+                    "duration_ms": 290423,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e3730fc3f899a86b63ae40e1",
+                    "id": 9005,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Lo Saal - Laylat Alprince W Alamaleqa",
+                    "track_url": "",
+                    "duration_ms": 303503,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e3730fc3f899a86b63ae40e1",
+                    "id": 9006,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Ala Moodak - Laylat Alprince W Alamaleqa",
+                    "track_url": "",
+                    "duration_ms": 468434,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e3730fc3f899a86b63ae40e1",
+                    "id": 9007,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Hattan - Laylat Alprince W Alamaleqa",
+                    "track_url": "",
+                    "duration_ms": 383950,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e3730fc3f899a86b63ae40e1",
+                    "id": 9008,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Al Fatena - Laylat Alprince W Alamaleqa",
+                    "track_url": "",
+                    "duration_ms": 317216,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e3730fc3f899a86b63ae40e1",
+                    "id": 9009,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Marmai - Laylat Alprince W Alamaleqa",
+                    "track_url": "",
+                    "duration_ms": 315515,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e3730fc3f899a86b63ae40e1",
+                    "id": 9010,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Baen Edayah - Laylat Alprince W Alamaleqa",
+                    "track_url": "",
+                    "duration_ms": 323256,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e3730fc3f899a86b63ae40e1",
+                    "id": 9011,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Tihibak Rohy - Laylat Alprince W Alamaleqa",
+                    "track_url": "",
+                    "duration_ms": 241307,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e3730fc3f899a86b63ae40e1",
+                    "id": 9012,
+                    "artist": "Majid Almohandis"
+                }
+            ],
+            "id": 8993
+        },
+        {
+            "name": "Saudi National Day 92",
+            "release_date": "2024-09-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b27381d0aa6d194c6913edf9b6d5",
+            "track_url": "https://open.spotify.com/album/7MPE4W7FxyXJvrzvHnc5ud",
+            "tracks": [
+                {
+                    "name": "Tinadeek - Saudi National Day 92",
+                    "track_url": "",
+                    "duration_ms": 352240,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27381d0aa6d194c6913edf9b6d5",
+                    "id": 9014,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Wadni Lak - Saudi National Day 92",
+                    "track_url": "",
+                    "duration_ms": 427560,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27381d0aa6d194c6913edf9b6d5",
+                    "id": 9015,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Hattan - Saudi National Day 92",
+                    "track_url": "",
+                    "duration_ms": 354360,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27381d0aa6d194c6913edf9b6d5",
+                    "id": 9016,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Ana Blayak - Saudi National Day 92",
+                    "track_url": "",
+                    "duration_ms": 450120,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27381d0aa6d194c6913edf9b6d5",
+                    "id": 9017,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Nagsk Shay - Saudi National Day 92",
+                    "track_url": "",
+                    "duration_ms": 282920,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27381d0aa6d194c6913edf9b6d5",
+                    "id": 9018,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Al Fatena - Saudi National Day 92",
+                    "track_url": "",
+                    "duration_ms": 305040,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27381d0aa6d194c6913edf9b6d5",
+                    "id": 9019,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Ana Mosayar - Saudi National Day 92",
+                    "track_url": "",
+                    "duration_ms": 326000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27381d0aa6d194c6913edf9b6d5",
+                    "id": 9020,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Yhizak Al Shooq - Saudi National Day 92",
+                    "track_url": "",
+                    "duration_ms": 378800,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27381d0aa6d194c6913edf9b6d5",
+                    "id": 9021,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Hodoua - Saudi National Day 92",
+                    "track_url": "",
+                    "duration_ms": 304904,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27381d0aa6d194c6913edf9b6d5",
+                    "id": 9022,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Mawal Ana Ahebik - Ala Moodak - Saudi National Day 92",
+                    "track_url": "",
+                    "duration_ms": 482949,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27381d0aa6d194c6913edf9b6d5",
+                    "id": 9023,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Oxygen - Saudi National Day 92",
+                    "track_url": "",
+                    "duration_ms": 300767,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27381d0aa6d194c6913edf9b6d5",
+                    "id": 9024,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Wadaat Rouhi - Saudi National Day 92",
+                    "track_url": "",
+                    "duration_ms": 287487,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27381d0aa6d194c6913edf9b6d5",
+                    "id": 9025,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Tihibak Rohy - Saudi National Day 92",
+                    "track_url": "",
+                    "duration_ms": 259825,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27381d0aa6d194c6913edf9b6d5",
+                    "id": 9026,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Ameera - Saudi National Day 92",
+                    "track_url": "",
+                    "duration_ms": 269002,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27381d0aa6d194c6913edf9b6d5",
+                    "id": 9027,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Koom Darejni - Saudi National Day 92",
+                    "track_url": "",
+                    "duration_ms": 330496,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27381d0aa6d194c6913edf9b6d5",
+                    "id": 9028,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Men El Akher - Saudi National Day 92",
+                    "track_url": "",
+                    "duration_ms": 239439,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27381d0aa6d194c6913edf9b6d5",
+                    "id": 9029,
+                    "artist": "Majid Almohandis"
+                }
+            ],
+            "id": 9013
+        },
+        {
+            "name": "Majid Moods",
+            "release_date": "2024-09-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738b6c43f0af1d62e4e2b8a942",
+            "track_url": "https://open.spotify.com/album/7LiBdx9xU1hCDBOnL2mWz2",
+            "tracks": [
+                {
+                    "name": "Ma Sadaqt - Majid Moods",
+                    "track_url": "",
+                    "duration_ms": 293240,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738b6c43f0af1d62e4e2b8a942",
+                    "id": 9031,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Hodoua - Majid Moods",
+                    "track_url": "",
+                    "duration_ms": 218800,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738b6c43f0af1d62e4e2b8a942",
+                    "id": 9032,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Saharni Halaha - Majid Moods",
+                    "track_url": "",
+                    "duration_ms": 252280,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738b6c43f0af1d62e4e2b8a942",
+                    "id": 9033,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Yhizak Al Shooq - Majid Moods",
+                    "track_url": "",
+                    "duration_ms": 348880,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738b6c43f0af1d62e4e2b8a942",
+                    "id": 9034,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Been Edyah - Majid Moods",
+                    "track_url": "",
+                    "duration_ms": 302680,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738b6c43f0af1d62e4e2b8a942",
+                    "id": 9035,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Ala Modak - Majid Moods",
+                    "track_url": "",
+                    "duration_ms": 408560,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738b6c43f0af1d62e4e2b8a942",
+                    "id": 9036,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Wahishni Moot - Majid Moods",
+                    "track_url": "",
+                    "duration_ms": 317720,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738b6c43f0af1d62e4e2b8a942",
+                    "id": 9037,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Fahamooh - Majid Moods",
+                    "track_url": "",
+                    "duration_ms": 230600,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738b6c43f0af1d62e4e2b8a942",
+                    "id": 9038,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Yahebni Lak - Majid Moods",
+                    "track_url": "",
+                    "duration_ms": 429320,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738b6c43f0af1d62e4e2b8a942",
+                    "id": 9039,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Ana Blayak - Majid Moods",
+                    "track_url": "",
+                    "duration_ms": 237360,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738b6c43f0af1d62e4e2b8a942",
+                    "id": 9040,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Al Fatena - Majid Moods",
+                    "track_url": "",
+                    "duration_ms": 301760,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738b6c43f0af1d62e4e2b8a942",
+                    "id": 9041,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Tihibak Rohy - Majid Moods",
+                    "track_url": "",
+                    "duration_ms": 264040,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738b6c43f0af1d62e4e2b8a942",
+                    "id": 9042,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Nagsk Shay - Majid Moods",
+                    "track_url": "",
+                    "duration_ms": 277360,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738b6c43f0af1d62e4e2b8a942",
+                    "id": 9043,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Wadaat Rouhi - Majid Moods",
+                    "track_url": "",
+                    "duration_ms": 275040,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738b6c43f0af1d62e4e2b8a942",
+                    "id": 9044,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Le Yatmaen Galby - Majid Moods",
+                    "track_url": "",
+                    "duration_ms": 225960,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738b6c43f0af1d62e4e2b8a942",
+                    "id": 9045,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Hattan - Majid Moods",
+                    "track_url": "",
+                    "duration_ms": 367160,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738b6c43f0af1d62e4e2b8a942",
+                    "id": 9046,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "A'na A'sef - Majid Moods",
+                    "track_url": "",
+                    "duration_ms": 233360,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738b6c43f0af1d62e4e2b8a942",
+                    "id": 9047,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Ana Mosayar - Majid Moods",
+                    "track_url": "",
+                    "duration_ms": 336280,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738b6c43f0af1d62e4e2b8a942",
+                    "id": 9048,
+                    "artist": "Majid Almohandis"
+                }
+            ],
+            "id": 9030
+        },
+        {
+            "name": "Bahrain 2024",
+            "release_date": "2024-06-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739155a848c85b55ccddbb7173",
+            "track_url": "https://open.spotify.com/album/6gPApNFDiPI2fYBZIn0oCX",
+            "tracks": [
+                {
+                    "name": "Fahamooh - Bahrain 2024",
+                    "track_url": "",
+                    "duration_ms": 267578,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739155a848c85b55ccddbb7173",
+                    "id": 9050,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Ma Sadaqt - Bahrain 2024",
+                    "track_url": "",
+                    "duration_ms": 259583,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739155a848c85b55ccddbb7173",
+                    "id": 9051,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Yhizak Al Shooq - Bahrain 2024",
+                    "track_url": "",
+                    "duration_ms": 381183,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739155a848c85b55ccddbb7173",
+                    "id": 9052,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Ana Blayak - Bahrain 2024",
+                    "track_url": "",
+                    "duration_ms": 366506,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739155a848c85b55ccddbb7173",
+                    "id": 9053,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Nagsk Shay - Bahrain 2024",
+                    "track_url": "",
+                    "duration_ms": 305299,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739155a848c85b55ccddbb7173",
+                    "id": 9054,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Tinadeek - Bahrain 2024",
+                    "track_url": "",
+                    "duration_ms": 370304,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739155a848c85b55ccddbb7173",
+                    "id": 9055,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Hattan - Bahrain 2024",
+                    "track_url": "",
+                    "duration_ms": 474240,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739155a848c85b55ccddbb7173",
+                    "id": 9056,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Ana Mosayar - Bahrain 2024",
+                    "track_url": "",
+                    "duration_ms": 327274,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739155a848c85b55ccddbb7173",
+                    "id": 9057,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Ala Elzekra - Bahrain 2024",
+                    "track_url": "",
+                    "duration_ms": 308928,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739155a848c85b55ccddbb7173",
+                    "id": 9058,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Janant Galbi - Bahrain 2024",
+                    "track_url": "",
+                    "duration_ms": 287743,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739155a848c85b55ccddbb7173",
+                    "id": 9059,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Ala Moodak - Bahrain 2024",
+                    "track_url": "",
+                    "duration_ms": 666602,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739155a848c85b55ccddbb7173",
+                    "id": 9060,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Lo Saal - Bahrain 2024",
+                    "track_url": "",
+                    "duration_ms": 320406,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739155a848c85b55ccddbb7173",
+                    "id": 9061,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Bdet Ateeb - Bahrain 2024",
+                    "track_url": "",
+                    "duration_ms": 480877,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739155a848c85b55ccddbb7173",
+                    "id": 9062,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Al Fatena - Bahrain 2024",
+                    "track_url": "",
+                    "duration_ms": 324924,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739155a848c85b55ccddbb7173",
+                    "id": 9063,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Been Edyah - Bahrain 2024",
+                    "track_url": "",
+                    "duration_ms": 322775,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739155a848c85b55ccddbb7173",
+                    "id": 9064,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Ameera - Bahrain 2024",
+                    "track_url": "",
+                    "duration_ms": 289558,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739155a848c85b55ccddbb7173",
+                    "id": 9065,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Eldenya Dawaarah - Bahrain 2024",
+                    "track_url": "",
+                    "duration_ms": 339711,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739155a848c85b55ccddbb7173",
+                    "id": 9066,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Wadaat Rouhi - Bahrain 2024",
+                    "track_url": "",
+                    "duration_ms": 351061,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739155a848c85b55ccddbb7173",
+                    "id": 9067,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Jana Jana - Bahrain 2024",
+                    "track_url": "",
+                    "duration_ms": 281130,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739155a848c85b55ccddbb7173",
+                    "id": 9068,
+                    "artist": "Majid Almohandis"
+                }
+            ],
+            "id": 9049
+        },
+        {
+            "name": "Al Sharqia 2023",
+            "release_date": "2024-01-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b27379699d28fc5b6f22526db13d",
+            "track_url": "https://open.spotify.com/album/5IjdYH76qJgpxbpNp9Hl5P",
+            "tracks": [
+                {
+                    "name": "Alla Yeaz Al Daar - Al Sharqia 2023",
+                    "track_url": "",
+                    "duration_ms": 300048,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27379699d28fc5b6f22526db13d",
+                    "id": 9070,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Ala Allah - Al Sharqia 2023",
+                    "track_url": "",
+                    "duration_ms": 343008,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27379699d28fc5b6f22526db13d",
+                    "id": 9071,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Aala Gedoomek - Al Sharqia 2023",
+                    "track_url": "",
+                    "duration_ms": 231720,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27379699d28fc5b6f22526db13d",
+                    "id": 9072,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Tenadeek - Al Sharqia 2023",
+                    "track_url": "",
+                    "duration_ms": 363911,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27379699d28fc5b6f22526db13d",
+                    "id": 9073,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Ana Blayak - Al Sharqia 2023",
+                    "track_url": "",
+                    "duration_ms": 304151,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27379699d28fc5b6f22526db13d",
+                    "id": 9074,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Aatshan - Al Sharqia 2023",
+                    "track_url": "",
+                    "duration_ms": 377088,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27379699d28fc5b6f22526db13d",
+                    "id": 9075,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "El Denya Dawaarah - Al Sharqia 2023",
+                    "track_url": "",
+                    "duration_ms": 317208,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27379699d28fc5b6f22526db13d",
+                    "id": 9076,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Yhizak Al Shooq - Al Sharqia 2023",
+                    "track_url": "",
+                    "duration_ms": 390743,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27379699d28fc5b6f22526db13d",
+                    "id": 9077,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Ala Elzekra - Al Sharqia 2023",
+                    "track_url": "",
+                    "duration_ms": 366048,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27379699d28fc5b6f22526db13d",
+                    "id": 9078,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Bdet Ateeb - Al Sharqia 2023",
+                    "track_url": "",
+                    "duration_ms": 378456,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27379699d28fc5b6f22526db13d",
+                    "id": 9079,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Ya Hebeny Lk - Al Sharqia 2023",
+                    "track_url": "",
+                    "duration_ms": 349271,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27379699d28fc5b6f22526db13d",
+                    "id": 9080,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Ana Mosayar - Al Sharqia 2023",
+                    "track_url": "",
+                    "duration_ms": 352031,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27379699d28fc5b6f22526db13d",
+                    "id": 9081,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Janant Galbi - Al Sharqia 2023",
+                    "track_url": "",
+                    "duration_ms": 293831,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27379699d28fc5b6f22526db13d",
+                    "id": 9082,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Gos Al Rababa - Al Sharqia 2023",
+                    "track_url": "",
+                    "duration_ms": 342528,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27379699d28fc5b6f22526db13d",
+                    "id": 9083,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Wadaat Rohi - Al Sharqia 2023",
+                    "track_url": "",
+                    "duration_ms": 312431,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27379699d28fc5b6f22526db13d",
+                    "id": 9084,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Ala Moudak - Al Sharqia 2023",
+                    "track_url": "",
+                    "duration_ms": 477336,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27379699d28fc5b6f22526db13d",
+                    "id": 9085,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Marmai - Al Sharqia 2023",
+                    "track_url": "",
+                    "duration_ms": 326591,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27379699d28fc5b6f22526db13d",
+                    "id": 9086,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Al Fatena - Al Sharqia 2023",
+                    "track_url": "",
+                    "duration_ms": 324383,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27379699d28fc5b6f22526db13d",
+                    "id": 9087,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Ahebak Moot - Al Sharqia 2023",
+                    "track_url": "",
+                    "duration_ms": 341471,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27379699d28fc5b6f22526db13d",
+                    "id": 9088,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Wedina Bi AlTeeb - Al Sharqia 2023",
+                    "track_url": "",
+                    "duration_ms": 259031,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27379699d28fc5b6f22526db13d",
+                    "id": 9089,
+                    "artist": "Majid Almohandis"
+                }
+            ],
+            "id": 9069
+        },
+        {
+            "name": "Bdet Ateeb",
+            "release_date": "2023-02-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b273021f3a0bc03b698075efade5",
+            "track_url": "https://open.spotify.com/album/6GmP2R2kvNM4ZO1oUnxlGI",
+            "tracks": [
+                {
+                    "name": "Bdet Ateeb",
+                    "track_url": "",
+                    "duration_ms": 276010,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273021f3a0bc03b698075efade5",
+                    "id": 9091,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Tmanitek",
+                    "track_url": "",
+                    "duration_ms": 289134,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273021f3a0bc03b698075efade5",
+                    "id": 9092,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Al Sheta Yesaal",
+                    "track_url": "",
+                    "duration_ms": 308646,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273021f3a0bc03b698075efade5",
+                    "id": 9093,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Wedina Bi AlTeeb",
+                    "track_url": "",
+                    "duration_ms": 249109,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273021f3a0bc03b698075efade5",
+                    "id": 9094,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Forsa Lel Taghier",
+                    "track_url": "",
+                    "duration_ms": 221269,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273021f3a0bc03b698075efade5",
+                    "id": 9095,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Al Bareha Endi",
+                    "track_url": "",
+                    "duration_ms": 233962,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273021f3a0bc03b698075efade5",
+                    "id": 9096,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Gos Al Rababa",
+                    "track_url": "",
+                    "duration_ms": 237525,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273021f3a0bc03b698075efade5",
+                    "id": 9097,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Allah La Yegtahaa Aadah",
+                    "track_url": "",
+                    "duration_ms": 235349,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273021f3a0bc03b698075efade5",
+                    "id": 9098,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Yehen El Galb",
+                    "track_url": "",
+                    "duration_ms": 286895,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273021f3a0bc03b698075efade5",
+                    "id": 9099,
+                    "artist": "Majid Almohandis"
+                }
+            ],
+            "id": 9090
+        },
+        {
+            "name": "Eldenya Dawaarah",
+            "release_date": "2018-01-06",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730ba4555b4aab74a2f7287753",
+            "track_url": "https://open.spotify.com/album/0JRDcGhHIpSRbxct1rjkDg",
+            "tracks": [
+                {
+                    "name": "OFF",
+                    "track_url": "",
+                    "duration_ms": 272843,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730ba4555b4aab74a2f7287753",
+                    "id": 9101,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Aala Tari",
+                    "track_url": "",
+                    "duration_ms": 292375,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730ba4555b4aab74a2f7287753",
+                    "id": 9102,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Fahamooh",
+                    "track_url": "",
+                    "duration_ms": 210349,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730ba4555b4aab74a2f7287753",
+                    "id": 9103,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Nagsk Shay",
+                    "track_url": "",
+                    "duration_ms": 299829,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730ba4555b4aab74a2f7287753",
+                    "id": 9104,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Aala Gedoomek",
+                    "track_url": "",
+                    "duration_ms": 264278,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730ba4555b4aab74a2f7287753",
+                    "id": 9105,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Ana Mosayar",
+                    "track_url": "",
+                    "duration_ms": 290271,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730ba4555b4aab74a2f7287753",
+                    "id": 9106,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Eldenya Dawaarah",
+                    "track_url": "",
+                    "duration_ms": 234035,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730ba4555b4aab74a2f7287753",
+                    "id": 9107,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Ameera",
+                    "track_url": "",
+                    "duration_ms": 270013,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730ba4555b4aab74a2f7287753",
+                    "id": 9108,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Le Yatmaen Galby",
+                    "track_url": "",
+                    "duration_ms": 258738,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730ba4555b4aab74a2f7287753",
+                    "id": 9109,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Teseebni Wetrooh",
+                    "track_url": "",
+                    "duration_ms": 259349,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730ba4555b4aab74a2f7287753",
+                    "id": 9110,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Ana Lelaan",
+                    "track_url": "",
+                    "duration_ms": 289705,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730ba4555b4aab74a2f7287753",
+                    "id": 9111,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Aasaak Aal Gowah",
+                    "track_url": "",
+                    "duration_ms": 263573,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730ba4555b4aab74a2f7287753",
+                    "id": 9112,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Khoosh Wahed",
+                    "track_url": "",
+                    "duration_ms": 258407,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730ba4555b4aab74a2f7287753",
+                    "id": 9113,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Laba Jebenek",
+                    "track_url": "",
+                    "duration_ms": 288962,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730ba4555b4aab74a2f7287753",
+                    "id": 9114,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Erefna Baath",
+                    "track_url": "",
+                    "duration_ms": 286291,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730ba4555b4aab74a2f7287753",
+                    "id": 9115,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Men El Akher",
+                    "track_url": "",
+                    "duration_ms": 235199,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730ba4555b4aab74a2f7287753",
+                    "id": 9116,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Yadi Aala Galbi",
+                    "track_url": "",
+                    "duration_ms": 317503,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730ba4555b4aab74a2f7287753",
+                    "id": 9117,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Low Tezaalna",
+                    "track_url": "",
+                    "duration_ms": 223661,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730ba4555b4aab74a2f7287753",
+                    "id": 9118,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Wedi Ansa",
+                    "track_url": "",
+                    "duration_ms": 267106,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730ba4555b4aab74a2f7287753",
+                    "id": 9119,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Elhajah",
+                    "track_url": "",
+                    "duration_ms": 220305,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730ba4555b4aab74a2f7287753",
+                    "id": 9120,
+                    "artist": "Majid Almohandis"
+                }
+            ],
+            "id": 9100
+        },
+        {
+            "name": "Namat Oyouni-Jalsah",
+            "release_date": "2016-12-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735dca4058d8ae61652127295d",
+            "track_url": "https://open.spotify.com/album/2N5silwrygIyokHMaW1kTS",
+            "tracks": [
+                {
+                    "name": "Namat Oyouni",
+                    "track_url": "",
+                    "duration_ms": 342648,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735dca4058d8ae61652127295d",
+                    "id": 9122,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "La Hadat Nafsi",
+                    "track_url": "",
+                    "duration_ms": 327836,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735dca4058d8ae61652127295d",
+                    "id": 9123,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Hekayat",
+                    "track_url": "",
+                    "duration_ms": 252682,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735dca4058d8ae61652127295d",
+                    "id": 9124,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Min Baed Mazh Wo Leab",
+                    "track_url": "",
+                    "duration_ms": 552437,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735dca4058d8ae61652127295d",
+                    "id": 9125,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Ya Habibi Wenak Enta",
+                    "track_url": "",
+                    "duration_ms": 405420,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735dca4058d8ae61652127295d",
+                    "id": 9126,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Ajeebah",
+                    "track_url": "",
+                    "duration_ms": 289410,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735dca4058d8ae61652127295d",
+                    "id": 9127,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Ensan Akthar",
+                    "track_url": "",
+                    "duration_ms": 282357,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735dca4058d8ae61652127295d",
+                    "id": 9128,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Serr Hobi",
+                    "track_url": "",
+                    "duration_ms": 272848,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735dca4058d8ae61652127295d",
+                    "id": 9129,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "La Twalea El Nour",
+                    "track_url": "",
+                    "duration_ms": 281835,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735dca4058d8ae61652127295d",
+                    "id": 9130,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Ma Saddaqt",
+                    "track_url": "",
+                    "duration_ms": 466755,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735dca4058d8ae61652127295d",
+                    "id": 9131,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Ya Ghali Al Athman",
+                    "track_url": "",
+                    "duration_ms": 524721,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735dca4058d8ae61652127295d",
+                    "id": 9132,
+                    "artist": "Majid Almohandis"
+                }
+            ],
+            "id": 9121
+        },
+        {
+            "name": "Akh Qalby",
+            "release_date": "2016-01-05",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e838bacb3d10ce21de3efdd4",
+            "track_url": "https://open.spotify.com/album/7GCyHkhmyrDNs2KohmjEne",
+            "tracks": [
+                {
+                    "name": "Akh Qalby",
+                    "track_url": "",
+                    "duration_ms": 306693,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e838bacb3d10ce21de3efdd4",
+                    "id": 9134,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Tihibak Rohy",
+                    "track_url": "",
+                    "duration_ms": 380229,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e838bacb3d10ce21de3efdd4",
+                    "id": 9135,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Samahit Jarhak",
+                    "track_url": "",
+                    "duration_ms": 304456,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e838bacb3d10ce21de3efdd4",
+                    "id": 9136,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Bidon Asmaa",
+                    "track_url": "",
+                    "duration_ms": 321260,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e838bacb3d10ce21de3efdd4",
+                    "id": 9137,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Besmela Ala Galbek",
+                    "track_url": "",
+                    "duration_ms": 224553,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e838bacb3d10ce21de3efdd4",
+                    "id": 9138,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Ala Nyatty",
+                    "track_url": "",
+                    "duration_ms": 273170,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e838bacb3d10ce21de3efdd4",
+                    "id": 9139,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Haram",
+                    "track_url": "",
+                    "duration_ms": 304712,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e838bacb3d10ce21de3efdd4",
+                    "id": 9140,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Mani Tabeai",
+                    "track_url": "",
+                    "duration_ms": 290574,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e838bacb3d10ce21de3efdd4",
+                    "id": 9141,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Tiaabt Asoliflik",
+                    "track_url": "",
+                    "duration_ms": 271841,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e838bacb3d10ce21de3efdd4",
+                    "id": 9142,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "La Abad Aady",
+                    "track_url": "",
+                    "duration_ms": 278188,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e838bacb3d10ce21de3efdd4",
+                    "id": 9143,
+                    "artist": "Majid Almohandis"
+                }
+            ],
+            "id": 9133
+        },
+        {
+            "name": "حبيبي",
+            "release_date": "2014-06-12",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738720b34366cd541007de5112",
+            "track_url": "https://open.spotify.com/album/2uB2HaH0ZxMXEzA6ZaQPqW",
+            "tracks": [
+                {
+                    "name": "اكل كيكه",
+                    "track_url": "",
+                    "duration_ms": 155710,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738720b34366cd541007de5112",
+                    "id": 9145,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "ودني لهلي",
+                    "track_url": "",
+                    "duration_ms": 470422,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738720b34366cd541007de5112",
+                    "id": 9146,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "هل عيون",
+                    "track_url": "",
+                    "duration_ms": 616966,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738720b34366cd541007de5112",
+                    "id": 9147,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "يا ظالم",
+                    "track_url": "",
+                    "duration_ms": 329086,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738720b34366cd541007de5112",
+                    "id": 9148,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "بالهم رضيت",
+                    "track_url": "",
+                    "duration_ms": 511198,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738720b34366cd541007de5112",
+                    "id": 9149,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "علي السالم 3",
+                    "track_url": "",
+                    "duration_ms": 188326,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738720b34366cd541007de5112",
+                    "id": 9150,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "حبيبي",
+                    "track_url": "",
+                    "duration_ms": 345502,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738720b34366cd541007de5112",
+                    "id": 9151,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "اخذ راحتك",
+                    "track_url": "",
+                    "duration_ms": 289558,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738720b34366cd541007de5112",
+                    "id": 9152,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "شلون اخليك تحبني",
+                    "track_url": "",
+                    "duration_ms": 345406,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738720b34366cd541007de5112",
+                    "id": 9153,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "الدنيـا",
+                    "track_url": "",
+                    "duration_ms": 279838,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738720b34366cd541007de5112",
+                    "id": 9154,
+                    "artist": "Majid Almohandis"
+                }
+            ],
+            "id": 9144
+        },
+        {
+            "name": "Ana Weyak",
+            "release_date": "2012-09-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b273116481c5c903b7bbd7edfe84",
+            "track_url": "https://open.spotify.com/album/4mJPK5Tz08v5dvUYaRwNMZ",
+            "tracks": [
+                {
+                    "name": "Ana Haneet",
+                    "track_url": "",
+                    "duration_ms": 310047,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273116481c5c903b7bbd7edfe84",
+                    "id": 9156,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Ana Weyak",
+                    "track_url": "",
+                    "duration_ms": 336901,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273116481c5c903b7bbd7edfe84",
+                    "id": 9157,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Jeat Ahebek",
+                    "track_url": "",
+                    "duration_ms": 347088,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273116481c5c903b7bbd7edfe84",
+                    "id": 9158,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Mawal Eza Ashoufak",
+                    "track_url": "",
+                    "duration_ms": 162246,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273116481c5c903b7bbd7edfe84",
+                    "id": 9159,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Bayen Ghalaa",
+                    "track_url": "",
+                    "duration_ms": 290560,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273116481c5c903b7bbd7edfe84",
+                    "id": 9160,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Saharni Halaha",
+                    "track_url": "",
+                    "duration_ms": 287582,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273116481c5c903b7bbd7edfe84",
+                    "id": 9161,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Ahl Bagdad",
+                    "track_url": "",
+                    "duration_ms": 249808,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273116481c5c903b7bbd7edfe84",
+                    "id": 9162,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Nosi EL Tane",
+                    "track_url": "",
+                    "duration_ms": 338024,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273116481c5c903b7bbd7edfe84",
+                    "id": 9163,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Saber Aeyoub",
+                    "track_url": "",
+                    "duration_ms": 345391,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273116481c5c903b7bbd7edfe84",
+                    "id": 9164,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Kif Tehaes",
+                    "track_url": "",
+                    "duration_ms": 287712,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273116481c5c903b7bbd7edfe84",
+                    "id": 9165,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Ala Elzekra",
+                    "track_url": "",
+                    "duration_ms": 293773,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273116481c5c903b7bbd7edfe84",
+                    "id": 9166,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Ala Babek",
+                    "track_url": "",
+                    "duration_ms": 229929,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273116481c5c903b7bbd7edfe84",
+                    "id": 9167,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Leat Lee",
+                    "track_url": "",
+                    "duration_ms": 239699,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273116481c5c903b7bbd7edfe84",
+                    "id": 9168,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Yaane Mehtam",
+                    "track_url": "",
+                    "duration_ms": 288235,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273116481c5c903b7bbd7edfe84",
+                    "id": 9169,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "El Derbeel",
+                    "track_url": "",
+                    "duration_ms": 245472,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273116481c5c903b7bbd7edfe84",
+                    "id": 9170,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Raf Qalbi",
+                    "track_url": "",
+                    "duration_ms": 285727,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273116481c5c903b7bbd7edfe84",
+                    "id": 9171,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Zekrnakom",
+                    "track_url": "",
+                    "duration_ms": 235049,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273116481c5c903b7bbd7edfe84",
+                    "id": 9172,
+                    "artist": "Majid Almohandis"
+                }
+            ],
+            "id": 9155
+        },
+        {
+            "name": "Ezkerini",
+            "release_date": "2009-09-20",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b6cea66e7c8693e8d24aa89a",
+            "track_url": "https://open.spotify.com/album/5kRvMk0GNVlvzQLGoIsZ6g",
+            "tracks": [
+                {
+                    "name": "Sabah Elkher",
+                    "track_url": "",
+                    "duration_ms": 297691,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b6cea66e7c8693e8d24aa89a",
+                    "id": 9174,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Nedamah",
+                    "track_url": "",
+                    "duration_ms": 252473,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b6cea66e7c8693e8d24aa89a",
+                    "id": 9175,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Ma Sadaqt",
+                    "track_url": "",
+                    "duration_ms": 302315,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b6cea66e7c8693e8d24aa89a",
+                    "id": 9176,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Mejana",
+                    "track_url": "",
+                    "duration_ms": 239804,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b6cea66e7c8693e8d24aa89a",
+                    "id": 9177,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Ezkerini",
+                    "track_url": "",
+                    "duration_ms": 479373,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b6cea66e7c8693e8d24aa89a",
+                    "id": 9178,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Forsa Akhira",
+                    "track_url": "",
+                    "duration_ms": 304065,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b6cea66e7c8693e8d24aa89a",
+                    "id": 9179,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Shlonak Habibi",
+                    "track_url": "",
+                    "duration_ms": 285648,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b6cea66e7c8693e8d24aa89a",
+                    "id": 9180,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Ya Nas",
+                    "track_url": "",
+                    "duration_ms": 263262,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b6cea66e7c8693e8d24aa89a",
+                    "id": 9181,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Ashoof El Waqt",
+                    "track_url": "",
+                    "duration_ms": 282279,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b6cea66e7c8693e8d24aa89a",
+                    "id": 9182,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Hammoudi",
+                    "track_url": "",
+                    "duration_ms": 259866,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b6cea66e7c8693e8d24aa89a",
+                    "id": 9183,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Kel Kelma",
+                    "track_url": "",
+                    "duration_ms": 357720,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b6cea66e7c8693e8d24aa89a",
+                    "id": 9184,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Allahoma Tawelek Ya Rooh",
+                    "track_url": "",
+                    "duration_ms": 231601,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b6cea66e7c8693e8d24aa89a",
+                    "id": 9185,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Mawwal El Watan",
+                    "track_url": "",
+                    "duration_ms": 231915,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b6cea66e7c8693e8d24aa89a",
+                    "id": 9186,
+                    "artist": "Majid Almohandis"
+                }
+            ],
+            "id": 9173
+        },
+        {
+            "name": "Ensaa",
+            "release_date": "2008-05-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b27354bf325ff1679679e4daee5d",
+            "track_url": "https://open.spotify.com/album/7fjuWTwgL1lBWOV4lsMmUY",
+            "tracks": [
+                {
+                    "name": "La Twalei Noor",
+                    "track_url": "",
+                    "duration_ms": 237609,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27354bf325ff1679679e4daee5d",
+                    "id": 9188,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Mehtajek",
+                    "track_url": "",
+                    "duration_ms": 297691,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27354bf325ff1679679e4daee5d",
+                    "id": 9189,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Youm",
+                    "track_url": "",
+                    "duration_ms": 256312,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27354bf325ff1679679e4daee5d",
+                    "id": 9190,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "El Aroussa",
+                    "track_url": "",
+                    "duration_ms": 277185,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27354bf325ff1679679e4daee5d",
+                    "id": 9191,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Leih",
+                    "track_url": "",
+                    "duration_ms": 244715,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27354bf325ff1679679e4daee5d",
+                    "id": 9192,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Khalas Bebeid",
+                    "track_url": "",
+                    "duration_ms": 280711,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27354bf325ff1679679e4daee5d",
+                    "id": 9193,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Yrohlak Fadwa",
+                    "track_url": "",
+                    "duration_ms": 252238,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27354bf325ff1679679e4daee5d",
+                    "id": 9194,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Weddohom",
+                    "track_url": "",
+                    "duration_ms": 338233,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27354bf325ff1679679e4daee5d",
+                    "id": 9195,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Ensaa",
+                    "track_url": "",
+                    "duration_ms": 276114,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27354bf325ff1679679e4daee5d",
+                    "id": 9196,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Rod Aleih Ya Habibi",
+                    "track_url": "",
+                    "duration_ms": 222197,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27354bf325ff1679679e4daee5d",
+                    "id": 9197,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Koom Darejni",
+                    "track_url": "",
+                    "duration_ms": 234605,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27354bf325ff1679679e4daee5d",
+                    "id": 9198,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Ya Ghafel",
+                    "track_url": "",
+                    "duration_ms": 238680,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27354bf325ff1679679e4daee5d",
+                    "id": 9199,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Mo Ala Kefak",
+                    "track_url": "",
+                    "duration_ms": 305371,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27354bf325ff1679679e4daee5d",
+                    "id": 9200,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Nami Ya Eini",
+                    "track_url": "",
+                    "duration_ms": 260728,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27354bf325ff1679679e4daee5d",
+                    "id": 9201,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Yahebni Lak",
+                    "track_url": "",
+                    "duration_ms": 354037,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27354bf325ff1679679e4daee5d",
+                    "id": 9202,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Balad El Habayeb",
+                    "track_url": "",
+                    "duration_ms": 273371,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27354bf325ff1679679e4daee5d",
+                    "id": 9203,
+                    "artist": "Majid Almohandis"
+                }
+            ],
+            "id": 9187
+        },
+        {
+            "name": "Enjaneat",
+            "release_date": "2006-10-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b27350c6c1381289b01d2b2f68b4",
+            "track_url": "https://open.spotify.com/album/3DhqFdz6D0AZDgP1c7M3Ty",
+            "tracks": [
+                {
+                    "name": "Enjaneat",
+                    "track_url": "",
+                    "duration_ms": 283010,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27350c6c1381289b01d2b2f68b4",
+                    "id": 9205,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Jana Jana",
+                    "track_url": "",
+                    "duration_ms": 269165,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27350c6c1381289b01d2b2f68b4",
+                    "id": 9206,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Been Edyah",
+                    "track_url": "",
+                    "duration_ms": 295000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27350c6c1381289b01d2b2f68b4",
+                    "id": 9207,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Aradeek",
+                    "track_url": "",
+                    "duration_ms": 237061,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27350c6c1381289b01d2b2f68b4",
+                    "id": 9208,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Waen Arouh",
+                    "track_url": "",
+                    "duration_ms": 292963,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27350c6c1381289b01d2b2f68b4",
+                    "id": 9209,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Ma Laqetesh Ella Ana",
+                    "track_url": "",
+                    "duration_ms": 275957,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27350c6c1381289b01d2b2f68b4",
+                    "id": 9210,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "La Hedat Nafsee",
+                    "track_url": "",
+                    "duration_ms": 366315,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27350c6c1381289b01d2b2f68b4",
+                    "id": 9211,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Ya Raiet",
+                    "track_url": "",
+                    "duration_ms": 294713,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27350c6c1381289b01d2b2f68b4",
+                    "id": 9212,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Walla Lawareek",
+                    "track_url": "",
+                    "duration_ms": 324911,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27350c6c1381289b01d2b2f68b4",
+                    "id": 9213,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Aqdar",
+                    "track_url": "",
+                    "duration_ms": 276349,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27350c6c1381289b01d2b2f68b4",
+                    "id": 9214,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Koul Leylah",
+                    "track_url": "",
+                    "duration_ms": 296724,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27350c6c1381289b01d2b2f68b4",
+                    "id": 9215,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Rahat",
+                    "track_url": "",
+                    "duration_ms": 308741,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27350c6c1381289b01d2b2f68b4",
+                    "id": 9216,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Yemken Ahebak",
+                    "track_url": "",
+                    "duration_ms": 234893,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27350c6c1381289b01d2b2f68b4",
+                    "id": 9217,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Tufraj Ya Iraq",
+                    "track_url": "",
+                    "duration_ms": 285231,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27350c6c1381289b01d2b2f68b4",
+                    "id": 9218,
+                    "artist": "Majid Almohandis"
+                }
+            ],
+            "id": 9204
+        },
+        {
+            "name": "Waheshni moot",
+            "release_date": "2005-02-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b273352dd0aa059a3760f0a32323",
+            "track_url": "https://open.spotify.com/album/36cPGzoGK5vOJDM9rLWnL2",
+            "tracks": [
+                {
+                    "name": "Wahishni Moot",
+                    "track_url": "",
+                    "duration_ms": 274520,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273352dd0aa059a3760f0a32323",
+                    "id": 9220,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Mawal Kon Yamak",
+                    "track_url": "",
+                    "duration_ms": 186984,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273352dd0aa059a3760f0a32323",
+                    "id": 9221,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Laish",
+                    "track_url": "",
+                    "duration_ms": 356362,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273352dd0aa059a3760f0a32323",
+                    "id": 9222,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Aani Khaief",
+                    "track_url": "",
+                    "duration_ms": 321671,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273352dd0aa059a3760f0a32323",
+                    "id": 9223,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Gowa Gowa",
+                    "track_url": "",
+                    "duration_ms": 278961,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273352dd0aa059a3760f0a32323",
+                    "id": 9224,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Atawasal Beek",
+                    "track_url": "",
+                    "duration_ms": 284133,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273352dd0aa059a3760f0a32323",
+                    "id": 9225,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Shakit Beek",
+                    "track_url": "",
+                    "duration_ms": 320391,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273352dd0aa059a3760f0a32323",
+                    "id": 9226,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Ya Aini Alayna",
+                    "track_url": "",
+                    "duration_ms": 276192,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273352dd0aa059a3760f0a32323",
+                    "id": 9227,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Ghab Al Qamar",
+                    "track_url": "",
+                    "duration_ms": 266919,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273352dd0aa059a3760f0a32323",
+                    "id": 9228,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Khalas",
+                    "track_url": "",
+                    "duration_ms": 250044,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273352dd0aa059a3760f0a32323",
+                    "id": 9229,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Ya Hali",
+                    "track_url": "",
+                    "duration_ms": 245315,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273352dd0aa059a3760f0a32323",
+                    "id": 9230,
+                    "artist": "Majid Almohandis"
+                }
+            ],
+            "id": 9219
+        },
+        {
+            "name": "Mou Bass Ahebak",
+            "release_date": "1999-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731cf51618a5a5f3c08b34f4e3",
+            "track_url": "https://open.spotify.com/album/2ZwGoErYswTJB4N3MOzuf8",
+            "tracks": [
+                {
+                    "name": "Abou Samra",
+                    "track_url": "",
+                    "duration_ms": 365017,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731cf51618a5a5f3c08b34f4e3",
+                    "id": 9232,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Akher Kalam",
+                    "track_url": "",
+                    "duration_ms": 258019,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731cf51618a5a5f3c08b34f4e3",
+                    "id": 9233,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Douniya Ehna Lwahed Tani",
+                    "track_url": "",
+                    "duration_ms": 293360,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731cf51618a5a5f3c08b34f4e3",
+                    "id": 9234,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "3Ala Moudak",
+                    "track_url": "",
+                    "duration_ms": 344537,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731cf51618a5a5f3c08b34f4e3",
+                    "id": 9235,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Maghroura",
+                    "track_url": "",
+                    "duration_ms": 318066,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731cf51618a5a5f3c08b34f4e3",
+                    "id": 9236,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Mou Bass Ahebak",
+                    "track_url": "",
+                    "duration_ms": 289645,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731cf51618a5a5f3c08b34f4e3",
+                    "id": 9237,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Mawal Ana Sabri Saber",
+                    "track_url": "",
+                    "duration_ms": 251193,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731cf51618a5a5f3c08b34f4e3",
+                    "id": 9238,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Hom Allamouni L'boka'e",
+                    "track_url": "",
+                    "duration_ms": 203267,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731cf51618a5a5f3c08b34f4e3",
+                    "id": 9239,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Weilah Ya Nour Ouyouni",
+                    "track_url": "",
+                    "duration_ms": 236514,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731cf51618a5a5f3c08b34f4e3",
+                    "id": 9240,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Ya Boya Moshkelah",
+                    "track_url": "",
+                    "duration_ms": 323500,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731cf51618a5a5f3c08b34f4e3",
+                    "id": 9241,
+                    "artist": "Majid Almohandis"
+                }
+            ],
+            "id": 9231
+        },
+        {
+            "name": "Dakat Albi",
+            "release_date": "1990-03-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736634bbaabe63436a4323454e",
+            "track_url": "https://open.spotify.com/album/6rXR1VP8KKP36nfFIC5Leb",
+            "tracks": [
+                {
+                    "name": "Dakat Albi",
+                    "track_url": "",
+                    "duration_ms": 276493,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736634bbaabe63436a4323454e",
+                    "id": 9243,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Hatha Al Masaa",
+                    "track_url": "",
+                    "duration_ms": 480893,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736634bbaabe63436a4323454e",
+                    "id": 9244,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Asak Bhob",
+                    "track_url": "",
+                    "duration_ms": 387240,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736634bbaabe63436a4323454e",
+                    "id": 9245,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Hayer Ya Sadiki",
+                    "track_url": "",
+                    "duration_ms": 342173,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736634bbaabe63436a4323454e",
+                    "id": 9246,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Shkoo Shkoo Bakoo",
+                    "track_url": "",
+                    "duration_ms": 325933,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736634bbaabe63436a4323454e",
+                    "id": 9247,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Weili Weili Al Salamah",
+                    "track_url": "",
+                    "duration_ms": 338293,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736634bbaabe63436a4323454e",
+                    "id": 9248,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Yali Tshoofoonoh",
+                    "track_url": "",
+                    "duration_ms": 309960,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736634bbaabe63436a4323454e",
+                    "id": 9249,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Mawal Orid Ansak",
+                    "track_url": "",
+                    "duration_ms": 320640,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736634bbaabe63436a4323454e",
+                    "id": 9250,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Salemli",
+                    "track_url": "",
+                    "duration_ms": 210613,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736634bbaabe63436a4323454e",
+                    "id": 9251,
+                    "artist": "Majid Almohandis"
+                }
+            ],
+            "id": 9242
+        },
+        {
+            "name": "Enta Tejanen",
+            "release_date": "1990-02-22",
+            "image": "https://i.scdn.co/image/ab67616d0000b273605e47552bf95b98a807e663",
+            "track_url": "https://open.spotify.com/album/50jkCskCG27rlP9NW3adqu",
+            "tracks": [
+                {
+                    "name": "Enta Tejanen",
+                    "track_url": "",
+                    "duration_ms": 245426,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273605e47552bf95b98a807e663",
+                    "id": 9253,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Ahebak Ya Habibi",
+                    "track_url": "",
+                    "duration_ms": 364280,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273605e47552bf95b98a807e663",
+                    "id": 9254,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Mansena",
+                    "track_url": "",
+                    "duration_ms": 305800,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273605e47552bf95b98a807e663",
+                    "id": 9255,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Tenam Al Lail",
+                    "track_url": "",
+                    "duration_ms": 317506,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273605e47552bf95b98a807e663",
+                    "id": 9256,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Mtaebni",
+                    "track_url": "",
+                    "duration_ms": 262400,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273605e47552bf95b98a807e663",
+                    "id": 9257,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Anani",
+                    "track_url": "",
+                    "duration_ms": 262440,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273605e47552bf95b98a807e663",
+                    "id": 9258,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Jeet Li Ahl Al Hawa",
+                    "track_url": "",
+                    "duration_ms": 398666,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273605e47552bf95b98a807e663",
+                    "id": 9259,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Hebah Ala Hebah",
+                    "track_url": "",
+                    "duration_ms": 275973,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273605e47552bf95b98a807e663",
+                    "id": 9260,
+                    "artist": "Majid Almohandis"
+                }
+            ],
+            "id": 9252
+        },
+        {
+            "name": "Moo Bas Ahebbak",
+            "release_date": "1990-02-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27317336b54b366008827a7f1ed",
+            "track_url": "https://open.spotify.com/album/3BzCizaL0433TjZAVx67aj",
+            "tracks": [
+                {
+                    "name": "Moo Bas Ahebbak",
+                    "track_url": "",
+                    "duration_ms": 287040,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27317336b54b366008827a7f1ed",
+                    "id": 9262,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Ala Moodak",
+                    "track_url": "",
+                    "duration_ms": 344840,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27317336b54b366008827a7f1ed",
+                    "id": 9263,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Maghroora",
+                    "track_url": "",
+                    "duration_ms": 320840,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27317336b54b366008827a7f1ed",
+                    "id": 9264,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Mawal Ana Sabri Sabr Sayyad",
+                    "track_url": "",
+                    "duration_ms": 253000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27317336b54b366008827a7f1ed",
+                    "id": 9265,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Ya Booyah Meshkla",
+                    "track_url": "",
+                    "duration_ms": 324760,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27317336b54b366008827a7f1ed",
+                    "id": 9266,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Mawal",
+                    "track_url": "",
+                    "duration_ms": 202640,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27317336b54b366008827a7f1ed",
+                    "id": 9267,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Donia Ehna Elwahed Lel Thani",
+                    "track_url": "",
+                    "duration_ms": 289280,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27317336b54b366008827a7f1ed",
+                    "id": 9268,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Akher Kalam",
+                    "track_url": "",
+                    "duration_ms": 258720,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27317336b54b366008827a7f1ed",
+                    "id": 9269,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Aboo Samra",
+                    "track_url": "",
+                    "duration_ms": 363600,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27317336b54b366008827a7f1ed",
+                    "id": 9270,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Waylah Ya Noor Eini",
+                    "track_url": "",
+                    "duration_ms": 240000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27317336b54b366008827a7f1ed",
+                    "id": 9271,
+                    "artist": "Majid Almohandis"
+                }
+            ],
+            "id": 9261
+        },
+        {
+            "name": "Sawaha W Zaal",
+            "release_date": "1990-01-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b459c45785f65349d2db7dcb",
+            "track_url": "https://open.spotify.com/album/4lsuw2GXwFASC389Jk2iV2",
+            "tracks": [
+                {
+                    "name": "Sawaha W Zaal",
+                    "track_url": "",
+                    "duration_ms": 290306,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b459c45785f65349d2db7dcb",
+                    "id": 9273,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Ahebak",
+                    "track_url": "",
+                    "duration_ms": 312946,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b459c45785f65349d2db7dcb",
+                    "id": 9274,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Samaytak Habibi",
+                    "track_url": "",
+                    "duration_ms": 338320,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b459c45785f65349d2db7dcb",
+                    "id": 9275,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Rayha",
+                    "track_url": "",
+                    "duration_ms": 301880,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b459c45785f65349d2db7dcb",
+                    "id": 9276,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Mahroos Ballah",
+                    "track_url": "",
+                    "duration_ms": 251973,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b459c45785f65349d2db7dcb",
+                    "id": 9277,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Athl Malak",
+                    "track_url": "",
+                    "duration_ms": 324333,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b459c45785f65349d2db7dcb",
+                    "id": 9278,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Ya Amma",
+                    "track_url": "",
+                    "duration_ms": 321346,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b459c45785f65349d2db7dcb",
+                    "id": 9279,
+                    "artist": "Majid Almohandis"
+                },
+                {
+                    "name": "Ghanili",
+                    "track_url": "",
+                    "duration_ms": 327693,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b459c45785f65349d2db7dcb",
+                    "id": 9280,
+                    "artist": "Majid Almohandis"
+                }
+            ],
+            "id": 9272
+        }
+    ],
+    "singles": [
+        {
+            "name": "Shati Bahar",
+            "release_date": "2024-12-26",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736ce0406d4e85ca1f8e72ce43",
+            "track_url": "",
+            "id": 9281,
+            "artist": "Majid Almohandis"
+        },
+        {
+            "name": "أنصاص مشاوير (من فيلم بضع ساعات في يوم ما)",
+            "release_date": "2024-12-12",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737cf97b223f5a84a66f310659",
+            "track_url": "",
+            "id": 9282,
+            "artist": "Majid Almohandis"
+        },
+        {
+            "name": "Mani Thak",
+            "release_date": "2024-12-06",
+            "image": "https://i.scdn.co/image/ab67616d0000b273cd71e0734098dd74314c5b07",
+            "track_url": "",
+            "id": 9283,
+            "artist": "Majid Almohandis"
+        },
+        {
+            "name": "La Tunkirin (Mawal)",
+            "release_date": "2024-12-03",
+            "image": "https://i.scdn.co/image/ab67616d0000b273583e2affa8e02fd9540932eb",
+            "track_url": "",
+            "id": 9284,
+            "artist": "Majid Almohandis"
+        },
+        {
+            "name": "Waareftak (R3HAB MDLBEAST Remix)",
+            "release_date": "2024-11-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730d9273fe022ba15f864e23bc",
+            "track_url": "",
+            "id": 9285,
+            "artist": "Majid Almohandis"
+        },
+        {
+            "name": "Kon Yamak (Mawal)",
+            "release_date": "2024-11-17",
+            "image": "https://i.scdn.co/image/ab67616d0000b27354149b5b9da6ac8434acbe44",
+            "track_url": "",
+            "id": 9286,
+            "artist": "Majid Almohandis"
+        },
+        {
+            "name": "Kheth Aoyooni",
+            "release_date": "2024-11-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739fa26d1e37c07dd62f00f6fd",
+            "track_url": "",
+            "id": 9287,
+            "artist": "Majid Almohandis"
+        },
+        {
+            "name": "Mehwar Al Koon",
+            "release_date": "2024-09-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b273278346adb6ea2dcf6832d869",
+            "track_url": "",
+            "id": 9288,
+            "artist": "Majid Almohandis"
+        },
+        {
+            "name": "دايم معك",
+            "release_date": "2024-09-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d53f737e3db8e600eb3f32f0",
+            "track_url": "",
+            "id": 9289,
+            "artist": "Majid Almohandis"
+        },
+        {
+            "name": "Abwabna Mena",
+            "release_date": "2024-09-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b27376d41209c7ad18228d59f0cf",
+            "track_url": "",
+            "id": 9290,
+            "artist": "Majid Almohandis"
+        },
+        {
+            "name": "El Jaw",
+            "release_date": "2024-09-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e1e6c54c70dcfbd683c5118a",
+            "track_url": "",
+            "id": 9291,
+            "artist": "Majid Almohandis"
+        },
+        {
+            "name": "Walad Salman",
+            "release_date": "2024-08-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273363f7bd3aa2929bae680440c",
+            "track_url": "",
+            "id": 9292,
+            "artist": "Majid Almohandis"
+        },
+        {
+            "name": "Foag Al Thoraia",
+            "release_date": "2024-08-27",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738ab63a5c72c84a1a8013f2fe",
+            "track_url": "",
+            "id": 9293,
+            "artist": "Majid Almohandis"
+        },
+        {
+            "name": "Wag3 Gameel",
+            "release_date": "2024-08-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c97c98c779cb9ee035cf049c",
+            "track_url": "",
+            "id": 9294,
+            "artist": "Majid Almohandis"
+        },
+        {
+            "name": "Al Bedaa",
+            "release_date": "2024-06-27",
+            "image": "https://i.scdn.co/image/ab67616d0000b27364dc8b26f4f155ee74d327b7",
+            "track_url": "",
+            "id": 9295,
+            "artist": "Majid Almohandis"
+        },
+        {
+            "name": "Law Za3lan",
+            "release_date": "2024-06-26",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736b38e2ea75e131c7b5f4e6ff",
+            "track_url": "",
+            "id": 9296,
+            "artist": "Majid Almohandis"
+        },
+        {
+            "name": "Al Bedaa",
+            "release_date": "2024-06-16",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a50865cfc1bf1ab6a3e58e7a",
+            "track_url": "",
+            "id": 9297,
+            "artist": "Majid Almohandis"
+        },
+        {
+            "name": "Besht Alfkhamah Lelwasl",
+            "release_date": "2024-06-03",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730309b05a29a77c12b16a8ee3",
+            "track_url": "",
+            "id": 9298,
+            "artist": "Majid Almohandis"
+        },
+        {
+            "name": "Dar Meshal",
+            "release_date": "2024-05-12",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737b351dab9f03c59fc8ce1051",
+            "track_url": "",
+            "id": 9299,
+            "artist": "Majid Almohandis"
+        },
+        {
+            "name": "على نياتكم ترزقون",
+            "release_date": "2024-04-03",
+            "image": "https://i.scdn.co/image/ab67616d0000b273dcda64cfd26f5b0050498a03",
+            "track_url": "",
+            "id": 9300,
+            "artist": "Majid Almohandis"
+        },
+        {
+            "name": "غيمة جنوبية",
+            "release_date": "2024-03-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b27331d29abcd7969d9a3539982f",
+            "track_url": "",
+            "id": 9301,
+            "artist": "Majid Almohandis"
+        },
+        {
+            "name": "Waiak",
+            "release_date": "2024-02-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e79e4aeaa346c5b83cc1b8a3",
+            "track_url": "",
+            "id": 9302,
+            "artist": "Majid Almohandis"
+        },
+        {
+            "name": "Serat Emam",
+            "release_date": "2024-02-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732808611edb16a82eae61fabd",
+            "track_url": "",
+            "id": 9303,
+            "artist": "Majid Almohandis"
+        },
+        {
+            "name": "Allah Yehfazak Ya Mohammed",
+            "release_date": "2024-02-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731afbe85cd82348508b52ef69",
+            "track_url": "",
+            "id": 9304,
+            "artist": "Majid Almohandis"
+        },
+        {
+            "name": "Adaaj Ghanaj",
+            "release_date": "2024-02-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733fd0ce8f40d15ce047ce94a0",
+            "track_url": "",
+            "id": 9305,
+            "artist": "Majid Almohandis"
+        },
+        {
+            "name": "Ya Shog Ainy",
+            "release_date": "2024-02-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b273676c6bd1d9589a7749ad4668",
+            "track_url": "",
+            "id": 9306,
+            "artist": "Majid Almohandis"
+        },
+        {
+            "name": "Ya Aghla Men Errouh",
+            "release_date": "2024-01-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b27309702d27b908186a7609ee34",
+            "track_url": "",
+            "id": 9307,
+            "artist": "Majid Almohandis"
+        },
+        {
+            "name": "Kolshe Tegdar",
+            "release_date": "2023-12-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736d88ad3278db643e389015f1",
+            "track_url": "",
+            "id": 9308,
+            "artist": "Majid Almohandis"
+        },
+        {
+            "name": "زفة الحكي كله يضيع",
+            "release_date": "2023-11-20",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732c28fd30a0f9e6eb80a069e4",
+            "track_url": "",
+            "id": 9309,
+            "artist": "Majid Almohandis"
+        },
+        {
+            "name": "زفة طلت ملاك",
+            "release_date": "2023-11-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732bc3569d511fe817a0fc805a",
+            "track_url": "",
+            "id": 9310,
+            "artist": "Majid Almohandis"
+        },
+        {
+            "name": "Siret El Hob Live",
+            "release_date": "2023-11-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b273bf623ee1631ab910f9840447",
+            "track_url": "",
+            "id": 9311,
+            "artist": "Majid Almohandis"
+        },
+        {
+            "name": "Baeed Annak Live",
+            "release_date": "2023-11-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b273bf43900492fcc5ba96651a28",
+            "track_url": "",
+            "id": 9312,
+            "artist": "Majid Almohandis"
+        },
+        {
+            "name": "Ala Hesb Wedad Live",
+            "release_date": "2023-11-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b273091448d9bfc36fdf6806a825",
+            "track_url": "",
+            "id": 9313,
+            "artist": "Majid Almohandis"
+        },
+        {
+            "name": "زفة ما مر بالعمر",
+            "release_date": "2023-10-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b27335f8457bdaad0697d26bc545",
+            "track_url": "",
+            "id": 9314,
+            "artist": "Majid Almohandis"
+        },
+        {
+            "name": "ketabt Esmak",
+            "release_date": "2023-10-02",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a38433253cb438205418af07",
+            "track_url": "",
+            "id": 9315,
+            "artist": "Majid Almohandis"
+        },
+        {
+            "name": "Watan",
+            "release_date": "2023-09-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f416c2fdd856e12ab33b2562",
+            "track_url": "",
+            "id": 9316,
+            "artist": "Majid Almohandis"
+        },
+        {
+            "name": "Lahza Azimah",
+            "release_date": "2023-08-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736e05cf7aba91b7e24c696571",
+            "track_url": "",
+            "id": 9317,
+            "artist": "Majid Almohandis"
+        },
+        {
+            "name": "Janant Galbi",
+            "release_date": "2023-08-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c42042fc6e52480bb9b44831",
+            "track_url": "",
+            "id": 9318,
+            "artist": "Majid Almohandis"
+        },
+        {
+            "name": "Al Hob Al Abadi",
+            "release_date": "2023-08-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730bde8d833791ea7706e8c46f",
+            "track_url": "",
+            "id": 9319,
+            "artist": "Majid Almohandis"
+        },
+        {
+            "name": "Mamnoon Lel Donia",
+            "release_date": "2023-07-06",
+            "image": "https://i.scdn.co/image/ab67616d0000b273054941aef930786c08f19ab8",
+            "track_url": "",
+            "id": 9320,
+            "artist": "Majid Almohandis"
+        },
+        {
+            "name": "Ma Alamek Qalbak",
+            "release_date": "2023-07-06",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735a65193d5986ae520d90e990",
+            "track_url": "",
+            "id": 9321,
+            "artist": "Majid Almohandis"
+        },
+        {
+            "name": "Resala Men Taht Maa from Leilet Rawaea Al Mogy 2023",
+            "release_date": "2023-05-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b27356a2f99ddaa00ab1ef662898",
+            "track_url": "",
+            "id": 9322,
+            "artist": "Majid Almohandis"
+        },
+        {
+            "name": "Akdeb Aleik from Leilet Rawaea Al Mogy 2023",
+            "release_date": "2023-05-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b27321fa823a10f0127f80e85564",
+            "track_url": "",
+            "id": 9323,
+            "artist": "Majid Almohandis"
+        },
+        {
+            "name": "1727",
+            "release_date": "2023-02-22",
+            "image": "https://i.scdn.co/image/ab67616d0000b273456155cf0dda9218c269df80",
+            "track_url": "",
+            "id": 9324,
+            "artist": "Majid Almohandis"
+        },
+        {
+            "name": "Basrawi Talaganah",
+            "release_date": "2023-01-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b27346b8c870f9208dc4e7502f71",
+            "track_url": "",
+            "id": 9325,
+            "artist": "Majid Almohandis"
+        },
+        {
+            "name": "Haza Elli Temaneto",
+            "release_date": "2022-12-06",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a368f21d0cdec18ae095cc40",
+            "track_url": "",
+            "id": 9326,
+            "artist": "Majid Almohandis"
+        },
+        {
+            "name": "Oud Albkhour",
+            "release_date": "2022-10-13",
+            "image": "https://i.scdn.co/image/ab67616d0000b27328b61747cafce2ee0dfb0aca",
+            "track_url": "",
+            "id": 9327,
+            "artist": "Majid Almohandis"
+        },
+        {
+            "name": "Ya Oyouni",
+            "release_date": "2022-09-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737f608c9208101acb7bff2b11",
+            "track_url": "",
+            "id": 9328,
+            "artist": "Majid Almohandis"
+        },
+        {
+            "name": "Ya Watan",
+            "release_date": "2022-09-22",
+            "image": "https://i.scdn.co/image/ab67616d0000b273753a54d86eda9137b43c4301",
+            "track_url": "",
+            "id": 9329,
+            "artist": "Majid Almohandis"
+        },
+        {
+            "name": "Nafreh Rajeen",
+            "release_date": "2022-09-22",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738955176231c893dc801ef701",
+            "track_url": "",
+            "id": 9330,
+            "artist": "Majid Almohandis"
+        }
+    ],
+    "popular_tracks": [
+        {
+            "name": "Tinadeek",
+            "track_url": "",
+            "duration_ms": 328646,
+            "image": "https://i.scdn.co/image/ab67616d0000b27370c7baeccf8b339dccf602e2",
+            "id": 9331,
+            "artist": "Majid Almohandis"
+        },
+        {
+            "name": "جننت قلبي",
+            "track_url": "",
+            "duration_ms": 287216,
+            "image": "https://i.scdn.co/image/ab67616d0000b2732c4d05bd8bdba7604a8f1b4d",
+            "id": 9332,
+            "artist": "Majid Almohandis"
+        },
+        {
+            "name": "بديت اطيب",
+            "track_url": "",
+            "duration_ms": 276010,
+            "image": "https://i.scdn.co/image/ab67616d0000b27322ae2fc9eafbf0c8fd117c14",
+            "id": 9333,
+            "artist": "Majid Almohandis"
+        },
+        {
+            "name": "رفوف الذكريات",
+            "track_url": "",
+            "duration_ms": 281727,
+            "image": "https://i.scdn.co/image/ab67616d0000b273c7cb8468d4062027e73209d3",
+            "id": 9334,
+            "artist": "Majid Almohandis"
+        },
+        {
+            "name": "انا حنيت",
+            "track_url": "",
+            "duration_ms": 310047,
+            "image": "https://i.scdn.co/image/ab67616d0000b273264f17f6359ec329952172c9",
+            "id": 9335,
+            "artist": "Majid Almohandis"
+        },
+        {
+            "name": "الحب الأبدي",
+            "track_url": "",
+            "duration_ms": 277537,
+            "image": "https://i.scdn.co/image/ab67616d0000b27388066b3cb909815e362902c2",
+            "id": 9336,
+            "artist": "Majid Almohandis"
+        },
+        {
+            "name": "Haram",
+            "track_url": "",
+            "duration_ms": 304587,
+            "image": "https://i.scdn.co/image/ab67616d0000b27370c7baeccf8b339dccf602e2",
+            "id": 9337,
+            "artist": "Majid Almohandis"
+        },
+        {
+            "name": "عطشان",
+            "track_url": "",
+            "duration_ms": 259968,
+            "image": "https://i.scdn.co/image/ab67616d0000b273ebd9d5749fdc5a68fba259c8",
+            "id": 9338,
+            "artist": "Majid Almohandis"
+        },
+        {
+            "name": "هتان",
+            "track_url": "",
+            "duration_ms": 276584,
+            "image": "https://i.scdn.co/image/ab67616d0000b273acf56a82318926020355d993",
+            "id": 9339,
+            "artist": "Majid Almohandis"
+        },
+        {
+            "name": "يهزّك الشوق",
+            "track_url": "",
+            "duration_ms": 251993,
+            "image": "https://i.scdn.co/image/ab67616d0000b273832ed42d44eaaa8692987cf3",
+            "id": 9340,
+            "artist": "Majid Almohandis"
+        }
+    ]
+}

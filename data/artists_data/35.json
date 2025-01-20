@@ -1,0 +1,392 @@
+{
+    "artist": {
+        "id": "5412",
+        "name": "Diab",
+        "image": "https://i.scdn.co/image/ab67616d0000b27326705696b25ff4aee54a375a",
+        "background_image": "https://i.scdn.co/image/ab67616d00001e0226705696b25ff4aee54a375a"
+    },
+    "albums": [
+        {
+            "name": "Ya Wad Ya Soso",
+            "release_date": "2014-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27371820fa44081d6f109c065ac",
+            "track_url": "https://open.spotify.com/album/0x5qQBjUwZeUGSdfJou2Qf",
+            "tracks": [
+                {
+                    "name": "Farahy",
+                    "track_url": "",
+                    "duration_ms": 263053,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27371820fa44081d6f109c065ac",
+                    "id": 5414,
+                    "artist": "Diab"
+                },
+                {
+                    "name": "Mesh Habatal Zan",
+                    "track_url": "",
+                    "duration_ms": 269113,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27371820fa44081d6f109c065ac",
+                    "id": 5415,
+                    "artist": "Diab"
+                },
+                {
+                    "name": "Negm El Watan El Araby",
+                    "track_url": "",
+                    "duration_ms": 185077,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27371820fa44081d6f109c065ac",
+                    "id": 5416,
+                    "artist": "Diab"
+                },
+                {
+                    "name": "Ermi Tokalak",
+                    "track_url": "",
+                    "duration_ms": 311797,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27371820fa44081d6f109c065ac",
+                    "id": 5417,
+                    "artist": "Diab"
+                },
+                {
+                    "name": "3am Ya 3am",
+                    "track_url": "",
+                    "duration_ms": 236199,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27371820fa44081d6f109c065ac",
+                    "id": 5418,
+                    "artist": "Diab"
+                },
+                {
+                    "name": "Zaman El Agayeb",
+                    "track_url": "",
+                    "duration_ms": 386977,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27371820fa44081d6f109c065ac",
+                    "id": 5419,
+                    "artist": "Diab"
+                },
+                {
+                    "name": "Sabah El Kholl Ya Foya",
+                    "track_url": "",
+                    "duration_ms": 299598,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27371820fa44081d6f109c065ac",
+                    "id": 5420,
+                    "artist": "Diab"
+                },
+                {
+                    "name": "Kollo Eido Fo2",
+                    "track_url": "",
+                    "duration_ms": 272953,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27371820fa44081d6f109c065ac",
+                    "id": 5421,
+                    "artist": "Diab"
+                },
+                {
+                    "name": "2ass W Laz2",
+                    "track_url": "",
+                    "duration_ms": 246151,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27371820fa44081d6f109c065ac",
+                    "id": 5422,
+                    "artist": "Diab"
+                },
+                {
+                    "name": "Eftah Edek",
+                    "track_url": "",
+                    "duration_ms": 279588,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27371820fa44081d6f109c065ac",
+                    "id": 5423,
+                    "artist": "Diab"
+                },
+                {
+                    "name": "Ya Wad Ya Soso",
+                    "track_url": "",
+                    "duration_ms": 292794,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27371820fa44081d6f109c065ac",
+                    "id": 5424,
+                    "artist": "Diab"
+                }
+            ],
+            "id": 5413
+        },
+        {
+            "name": "El 3aw",
+            "release_date": "2009-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27326705696b25ff4aee54a375a",
+            "track_url": "https://open.spotify.com/album/22mwdk588qhZDQv29y4Wf0",
+            "tracks": [
+                {
+                    "name": "El 3aw",
+                    "track_url": "",
+                    "duration_ms": 289515,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27326705696b25ff4aee54a375a",
+                    "id": 5426,
+                    "artist": "Diab"
+                },
+                {
+                    "name": "Ya Naker Gamayli",
+                    "track_url": "",
+                    "duration_ms": 270236,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27326705696b25ff4aee54a375a",
+                    "id": 5427,
+                    "artist": "Diab"
+                },
+                {
+                    "name": "El Shahn Fasal",
+                    "track_url": "",
+                    "duration_ms": 190589,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27326705696b25ff4aee54a375a",
+                    "id": 5428,
+                    "artist": "Diab"
+                },
+                {
+                    "name": "Msh Wa2taha",
+                    "track_url": "",
+                    "duration_ms": 248764,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27326705696b25ff4aee54a375a",
+                    "id": 5429,
+                    "artist": "Diab"
+                },
+                {
+                    "name": "Ghammazat",
+                    "track_url": "",
+                    "duration_ms": 248555,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27326705696b25ff4aee54a375a",
+                    "id": 5430,
+                    "artist": "Diab"
+                },
+                {
+                    "name": "Ya Nassiny",
+                    "track_url": "",
+                    "duration_ms": 274991,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27326705696b25ff4aee54a375a",
+                    "id": 5431,
+                    "artist": "Diab"
+                },
+                {
+                    "name": "Allah Ye3awad",
+                    "track_url": "",
+                    "duration_ms": 283846,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27326705696b25ff4aee54a375a",
+                    "id": 5432,
+                    "artist": "Diab"
+                },
+                {
+                    "name": "El Asly",
+                    "track_url": "",
+                    "duration_ms": 253204,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27326705696b25ff4aee54a375a",
+                    "id": 5433,
+                    "artist": "Diab"
+                },
+                {
+                    "name": "Ya Bahr El Nile",
+                    "track_url": "",
+                    "duration_ms": 364277,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27326705696b25ff4aee54a375a",
+                    "id": 5434,
+                    "artist": "Diab"
+                }
+            ],
+            "id": 5425
+        }
+    ],
+    "singles": [
+        {
+            "name": "حلال حلال",
+            "release_date": "2024-11-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b27341d8d3b3d7a4f61e03ef1d44",
+            "track_url": "",
+            "id": 5435,
+            "artist": "Diab"
+        },
+        {
+            "name": "Mawqef",
+            "release_date": "2024-10-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b27313e34e5a7efd93752db9fd28",
+            "track_url": "",
+            "id": 5436,
+            "artist": "Diab"
+        },
+        {
+            "name": "اتدلع",
+            "release_date": "2024-08-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733b25cf9b642545b3bee4f54c",
+            "track_url": "",
+            "id": 5437,
+            "artist": "Diab"
+        },
+        {
+            "name": "هروني بوس",
+            "release_date": "2023-09-27",
+            "image": "https://i.scdn.co/image/ab67616d0000b27339e7d1323f2e38cfaa78371d",
+            "track_url": "",
+            "id": 5438,
+            "artist": "Diab"
+        },
+        {
+            "name": "Wesh Fe Wesh",
+            "release_date": "2023-08-17",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f3c2e72be5ab561d10ec64bc",
+            "track_url": "",
+            "id": 5439,
+            "artist": "Diab"
+        },
+        {
+            "name": "طلعت فوق السطوح",
+            "release_date": "2023-07-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b273252a88d4f3008f2bc22d8068",
+            "track_url": "",
+            "id": 5440,
+            "artist": "Diab"
+        },
+        {
+            "name": "إيه ده إيه ده",
+            "release_date": "2023-01-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b65510da6f66c1611ffd661b",
+            "track_url": "",
+            "id": 5441,
+            "artist": "Diab"
+        },
+        {
+            "name": "Yaaty Yaaty",
+            "release_date": "2022-07-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738067dc2971bbf56b7c34df60",
+            "track_url": "",
+            "id": 5442,
+            "artist": "Diab"
+        },
+        {
+            "name": "Ya Sater",
+            "release_date": "2021-09-02",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f2fb30c2414cc3befa8acccc",
+            "track_url": "",
+            "id": 5443,
+            "artist": "Diab"
+        },
+        {
+            "name": "Ya Dmaghy",
+            "release_date": "2020-12-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b27364707c5dcbe353a3276cb941",
+            "track_url": "",
+            "id": 5444,
+            "artist": "Diab"
+        },
+        {
+            "name": "El Zaman",
+            "release_date": "2018-02-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731fcdb9e088b3292493f4d6ee",
+            "track_url": "",
+            "id": 5445,
+            "artist": "Diab"
+        },
+        {
+            "name": "3salyat",
+            "release_date": "2017-11-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733791e730de56ecb13497150a",
+            "track_url": "",
+            "id": 5446,
+            "artist": "Diab"
+        },
+        {
+            "name": "Betnadeny Tany Leh",
+            "release_date": "2017-08-27",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739828afb7b3262810c128b478",
+            "track_url": "",
+            "id": 5447,
+            "artist": "Diab"
+        },
+        {
+            "name": "Tata Tata",
+            "release_date": "2016-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b1875f7febed3a0afc8467cf",
+            "track_url": "",
+            "id": 5448,
+            "artist": "Diab"
+        },
+        {
+            "name": "Hob Darweshni",
+            "release_date": "2016-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273611d6b17cd8c6d060b43d08c",
+            "track_url": "",
+            "id": 5449,
+            "artist": "Diab"
+        }
+    ],
+    "popular_tracks": [
+        {
+            "name": "Ghammazat",
+            "track_url": "",
+            "duration_ms": 248555,
+            "image": "https://i.scdn.co/image/ab67616d0000b27326705696b25ff4aee54a375a",
+            "id": 5450,
+            "artist": "Diab"
+        },
+        {
+            "name": "El 3aw",
+            "track_url": "",
+            "duration_ms": 289515,
+            "image": "https://i.scdn.co/image/ab67616d0000b27326705696b25ff4aee54a375a",
+            "id": 5451,
+            "artist": "Diab"
+        },
+        {
+            "name": "حلال حلال",
+            "track_url": "",
+            "duration_ms": 177185,
+            "image": "https://i.scdn.co/image/ab67616d0000b27341d8d3b3d7a4f61e03ef1d44",
+            "id": 5452,
+            "artist": "Diab"
+        },
+        {
+            "name": "إيه ده إيه ده",
+            "track_url": "",
+            "duration_ms": 143338,
+            "image": "https://i.scdn.co/image/ab67616d0000b273b65510da6f66c1611ffd661b",
+            "id": 5453,
+            "artist": "Diab"
+        },
+        {
+            "name": "Mawqef",
+            "track_url": "",
+            "duration_ms": 178231,
+            "image": "https://i.scdn.co/image/ab67616d0000b27313e34e5a7efd93752db9fd28",
+            "id": 5454,
+            "artist": "Diab"
+        },
+        {
+            "name": "اتدلع",
+            "track_url": "",
+            "duration_ms": 191718,
+            "image": "https://i.scdn.co/image/ab67616d0000b2733b25cf9b642545b3bee4f54c",
+            "id": 5455,
+            "artist": "Diab"
+        },
+        {
+            "name": "Wesh Fe Wesh",
+            "track_url": "",
+            "duration_ms": 115285,
+            "image": "https://i.scdn.co/image/ab67616d0000b273f3c2e72be5ab561d10ec64bc",
+            "id": 5456,
+            "artist": "Diab"
+        },
+        {
+            "name": "Keberet El 3ela",
+            "track_url": "",
+            "duration_ms": 221937,
+            "image": "https://i.scdn.co/image/ab67616d0000b273cb38b3151ce06cd2735f2d6a",
+            "id": 5457,
+            "artist": "Diab"
+        },
+        {
+            "name": "El Shahn Fasal",
+            "track_url": "",
+            "duration_ms": 190589,
+            "image": "https://i.scdn.co/image/ab67616d0000b27326705696b25ff4aee54a375a",
+            "id": 5458,
+            "artist": "Diab"
+        },
+        {
+            "name": "Ghammazat",
+            "track_url": "",
+            "duration_ms": 238602,
+            "image": "https://i.scdn.co/image/ab67616d0000b273f8cc905b80c2972baa365360",
+            "id": 5459,
+            "artist": "Diab"
+        }
+    ]
+}

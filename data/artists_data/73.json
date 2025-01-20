@@ -1,0 +1,2992 @@
+{
+    "artist": {
+        "id": "9666",
+        "name": "Abdel Halim Hafez",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb8a09ed6b6710081bace4da41",
+        "background_image": "https://i.scdn.co/image/ab676161000051748a09ed6b6710081bace4da41"
+    },
+    "albums": [
+        {
+            "name": "Dayman Tameny",
+            "release_date": "2023-07-03",
+            "image": "https://i.scdn.co/image/ab67616d0000b273658571ce093711bb16d2a73f",
+            "track_url": "https://open.spotify.com/album/1wPmn2B9VB9TiHcRmVk6zH",
+            "tracks": [
+                {
+                    "name": "Adhak Hayas",
+                    "track_url": "",
+                    "duration_ms": 254537,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273658571ce093711bb16d2a73f",
+                    "id": 9668,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Aki kana yamlaou kaassi al hawa",
+                    "track_url": "",
+                    "duration_ms": 223032,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273658571ce093711bb16d2a73f",
+                    "id": 9669,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Ana ahwak",
+                    "track_url": "",
+                    "duration_ms": 224757,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273658571ce093711bb16d2a73f",
+                    "id": 9670,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Dayman Tameny",
+                    "track_url": "",
+                    "duration_ms": 301296,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273658571ce093711bb16d2a73f",
+                    "id": 9671,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Khally Tokalak ala mawlak",
+                    "track_url": "",
+                    "duration_ms": 277368,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273658571ce093711bb16d2a73f",
+                    "id": 9672,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Lama tar3any",
+                    "track_url": "",
+                    "duration_ms": 175621,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273658571ce093711bb16d2a73f",
+                    "id": 9673,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Leih takhaby hawak",
+                    "track_url": "",
+                    "duration_ms": 74840,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273658571ce093711bb16d2a73f",
+                    "id": 9674,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Ya Bouo Sena Dahb Louly",
+                    "track_url": "",
+                    "duration_ms": 141844,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273658571ce093711bb16d2a73f",
+                    "id": 9675,
+                    "artist": "Abdel Halim Hafez"
+                }
+            ],
+            "id": 9667
+        },
+        {
+            "name": "Mashy El Tareeq",
+            "release_date": "2013-10-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273122ae10431dafe805a884a44",
+            "track_url": "https://open.spotify.com/album/5QiHgveNS4Udno2y90N0uU",
+            "tracks": [
+                {
+                    "name": "Mashy El Tareeq",
+                    "track_url": "",
+                    "duration_ms": 259645,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273122ae10431dafe805a884a44",
+                    "id": 9677,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Ya Elah El Koun",
+                    "track_url": "",
+                    "duration_ms": 350864,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273122ae10431dafe805a884a44",
+                    "id": 9678,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Zaka Eid",
+                    "track_url": "",
+                    "duration_ms": 362071,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273122ae10431dafe805a884a44",
+                    "id": 9679,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Beny We Ben Alby",
+                    "track_url": "",
+                    "duration_ms": 434325,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273122ae10431dafe805a884a44",
+                    "id": 9680,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Asmr Ya Asmarany",
+                    "track_url": "",
+                    "duration_ms": 453970,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273122ae10431dafe805a884a44",
+                    "id": 9681,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Nedaa El Mady",
+                    "track_url": "",
+                    "duration_ms": 873757,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273122ae10431dafe805a884a44",
+                    "id": 9682,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Bahlam Be Youm",
+                    "track_url": "",
+                    "duration_ms": 319230,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273122ae10431dafe805a884a44",
+                    "id": 9683,
+                    "artist": "Abdel Halim Hafez"
+                }
+            ],
+            "id": 9676
+        },
+        {
+            "name": "Al Rissal",
+            "release_date": "2006",
+            "image": "https://i.scdn.co/image/ab67616d0000b273bcf641c64f0f481cd9d8a3ec",
+            "track_url": "https://open.spotify.com/album/6OWDmGTnM0LbjJsxBzv2QN",
+            "tracks": [
+                {
+                    "name": "Intro Al Rissal",
+                    "track_url": "",
+                    "duration_ms": 725600,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bcf641c64f0f481cd9d8a3ec",
+                    "id": 9685,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Al Rissal",
+                    "track_url": "",
+                    "duration_ms": 1521680,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bcf641c64f0f481cd9d8a3ec",
+                    "id": 9686,
+                    "artist": "Abdel Halim Hafez"
+                }
+            ],
+            "id": 9684
+        },
+        {
+            "name": "Helw We Kadab",
+            "release_date": "1996-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f01e590d4b71c1ded8db4095",
+            "track_url": "https://open.spotify.com/album/3T9kG6YEseoOKBfhkNfMtC",
+            "tracks": [
+                {
+                    "name": "ربيع شاعر",
+                    "track_url": "",
+                    "duration_ms": 870988,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f01e590d4b71c1ded8db4095",
+                    "id": 9688,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "ضحك و لعب",
+                    "track_url": "",
+                    "duration_ms": 552373,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f01e590d4b71c1ded8db4095",
+                    "id": 9689,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "إللى إنشغلت عليه",
+                    "track_url": "",
+                    "duration_ms": 365519,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f01e590d4b71c1ded8db4095",
+                    "id": 9690,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "ربما",
+                    "track_url": "",
+                    "duration_ms": 1095067,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f01e590d4b71c1ded8db4095",
+                    "id": 9691,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "حلو وكداب",
+                    "track_url": "",
+                    "duration_ms": 297444,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f01e590d4b71c1ded8db4095",
+                    "id": 9692,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "لقاء",
+                    "track_url": "",
+                    "duration_ms": 388324,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f01e590d4b71c1ded8db4095",
+                    "id": 9693,
+                    "artist": "Abdel Halim Hafez"
+                }
+            ],
+            "id": 9687
+        },
+        {
+            "name": "Awaty Btehlaw Maak",
+            "release_date": "1996-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273952f21f4fe101d683700d383",
+            "track_url": "https://open.spotify.com/album/0qOK52vUPmULYN7t3vsAVM",
+            "tracks": [
+                {
+                    "name": "Awkaty Betehlaw Live Record",
+                    "track_url": "",
+                    "duration_ms": 694322,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273952f21f4fe101d683700d383",
+                    "id": 9695,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Ya Halwaet El Donya Live Record",
+                    "track_url": "",
+                    "duration_ms": 769346,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273952f21f4fe101d683700d383",
+                    "id": 9696,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Kol Mara Lamma Awaadak Live Record",
+                    "track_url": "",
+                    "duration_ms": 967746,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273952f21f4fe101d683700d383",
+                    "id": 9697,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "El Ard Bettkalem Araby Live Record",
+                    "track_url": "",
+                    "duration_ms": 374479,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273952f21f4fe101d683700d383",
+                    "id": 9698,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "يا صلاة الزين",
+                    "track_url": "",
+                    "duration_ms": 540278,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273952f21f4fe101d683700d383",
+                    "id": 9699,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "الورد جميل",
+                    "track_url": "",
+                    "duration_ms": 805003,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273952f21f4fe101d683700d383",
+                    "id": 9700,
+                    "artist": "Abdel Halim Hafez"
+                }
+            ],
+            "id": 9694
+        },
+        {
+            "name": "يا مركبى سيرى",
+            "release_date": "1978-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27396c3057f37f6730d2e89da0a",
+            "track_url": "https://open.spotify.com/album/5AMzxZlxYuryr4XaAJ4ijk",
+            "tracks": [
+                {
+                    "name": "يا مركبى سيرى",
+                    "track_url": "",
+                    "duration_ms": 563605,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27396c3057f37f6730d2e89da0a",
+                    "id": 9702,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "فيه ناس",
+                    "track_url": "",
+                    "duration_ms": 197290,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27396c3057f37f6730d2e89da0a",
+                    "id": 9703,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "والله ما أقول الأه",
+                    "track_url": "",
+                    "duration_ms": 77728,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27396c3057f37f6730d2e89da0a",
+                    "id": 9704,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "مين أنا تعبير",
+                    "track_url": "",
+                    "duration_ms": 384092,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27396c3057f37f6730d2e89da0a",
+                    "id": 9705,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "مين أنا تطريب",
+                    "track_url": "",
+                    "duration_ms": 384196,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27396c3057f37f6730d2e89da0a",
+                    "id": 9706,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "يا ليالى العيد",
+                    "track_url": "",
+                    "duration_ms": 790610,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27396c3057f37f6730d2e89da0a",
+                    "id": 9707,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "الماء والخضرة",
+                    "track_url": "",
+                    "duration_ms": 770103,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27396c3057f37f6730d2e89da0a",
+                    "id": 9708,
+                    "artist": "Abdel Halim Hafez"
+                }
+            ],
+            "id": 9701
+        },
+        {
+            "name": "Ebnak Ye'olak",
+            "release_date": "1977-01-13",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739ded75579aad8ea781611f0f",
+            "track_url": "https://open.spotify.com/album/2JEqadtGW81eh6bPWvSm2M",
+            "tracks": [
+                {
+                    "name": "Ebnak Yeolak",
+                    "track_url": "",
+                    "duration_ms": 187468,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739ded75579aad8ea781611f0f",
+                    "id": 9710,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Ahlef Besamaha",
+                    "track_url": "",
+                    "duration_ms": 117539,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739ded75579aad8ea781611f0f",
+                    "id": 9711,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Aada El Nahar",
+                    "track_url": "",
+                    "duration_ms": 416040,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739ded75579aad8ea781611f0f",
+                    "id": 9712,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Al Maseeh Live",
+                    "track_url": "",
+                    "duration_ms": 634554,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739ded75579aad8ea781611f0f",
+                    "id": 9713,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "El Bondoqeya",
+                    "track_url": "",
+                    "duration_ms": 849045,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739ded75579aad8ea781611f0f",
+                    "id": 9714,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Ash Ely Aall",
+                    "track_url": "",
+                    "duration_ms": 266619,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739ded75579aad8ea781611f0f",
+                    "id": 9715,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Khally El Selah Sahy",
+                    "track_url": "",
+                    "duration_ms": 138907,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739ded75579aad8ea781611f0f",
+                    "id": 9716,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Sabah El Kheir Ya Sina",
+                    "track_url": "",
+                    "duration_ms": 500624,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739ded75579aad8ea781611f0f",
+                    "id": 9717,
+                    "artist": "Abdel Halim Hafez"
+                }
+            ],
+            "id": 9709
+        },
+        {
+            "name": "Abd El Halim Hafez",
+            "release_date": "1976-01-05",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d837d6400d3c7301978bccf3",
+            "track_url": "https://open.spotify.com/album/4wrqD089epRzdCTylO4bpc",
+            "tracks": [
+                {
+                    "name": "Rabeia Shaer",
+                    "track_url": "",
+                    "duration_ms": 849228,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d837d6400d3c7301978bccf3",
+                    "id": 9719,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Ashanak Ya Amar",
+                    "track_url": "",
+                    "duration_ms": 234228,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d837d6400d3c7301978bccf3",
+                    "id": 9720,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Dehk We Leab",
+                    "track_url": "",
+                    "duration_ms": 406949,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d837d6400d3c7301978bccf3",
+                    "id": 9721,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Elly Enshaghalt Aleih",
+                    "track_url": "",
+                    "duration_ms": 330410,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d837d6400d3c7301978bccf3",
+                    "id": 9722,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Kont Fein",
+                    "track_url": "",
+                    "duration_ms": 305542,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d837d6400d3c7301978bccf3",
+                    "id": 9723,
+                    "artist": "Abdel Halim Hafez"
+                }
+            ],
+            "id": 9718
+        },
+        {
+            "name": "Ya Malekan Kalby",
+            "release_date": "1975-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273898b4204452224011960a7a3",
+            "track_url": "https://open.spotify.com/album/2nmHUSGRWggDJgakIQvzLq",
+            "tracks": [
+                {
+                    "name": "Ya Hale Ya Hale",
+                    "track_url": "",
+                    "duration_ms": 545581,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273898b4204452224011960a7a3",
+                    "id": 9725,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Ya Malekan Qalby Live Record",
+                    "track_url": "",
+                    "duration_ms": 1819103,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273898b4204452224011960a7a3",
+                    "id": 9726,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Last Adry",
+                    "track_url": "",
+                    "duration_ms": 320118,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273898b4204452224011960a7a3",
+                    "id": 9727,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Ya farhat El somar",
+                    "track_url": "",
+                    "duration_ms": 638368,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273898b4204452224011960a7a3",
+                    "id": 9728,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Kefaya Nourak Alaya",
+                    "track_url": "",
+                    "duration_ms": 371788,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273898b4204452224011960a7a3",
+                    "id": 9729,
+                    "artist": "Abdel Halim Hafez"
+                }
+            ],
+            "id": 9724
+        },
+        {
+            "name": "Rawaeaa Abd El Halim 7",
+            "release_date": "1975-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273da9037e45a2f10e5bdd512de",
+            "track_url": "https://open.spotify.com/album/7bvrcb5TOaiWTVjBTx9lIj",
+            "tracks": [
+                {
+                    "name": "Zalamoh",
+                    "track_url": "",
+                    "duration_ms": 536255,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273da9037e45a2f10e5bdd512de",
+                    "id": 9731,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Eh Zanby Eh",
+                    "track_url": "",
+                    "duration_ms": 389525,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273da9037e45a2f10e5bdd512de",
+                    "id": 9732,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Shaghalony",
+                    "track_url": "",
+                    "duration_ms": 209777,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273da9037e45a2f10e5bdd512de",
+                    "id": 9733,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Fok El Shook",
+                    "track_url": "",
+                    "duration_ms": 764644,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273da9037e45a2f10e5bdd512de",
+                    "id": 9734,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Toba",
+                    "track_url": "",
+                    "duration_ms": 351883,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273da9037e45a2f10e5bdd512de",
+                    "id": 9735,
+                    "artist": "Abdel Halim Hafez"
+                }
+            ],
+            "id": 9730
+        },
+        {
+            "name": "Rawaeaa Abd El Halim 6",
+            "release_date": "1975-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b61b662df27abb8eea8841e2",
+            "track_url": "https://open.spotify.com/album/07jtHDKkQeVZIKIwhegvq8",
+            "tracks": [
+                {
+                    "name": "Hobak Nar",
+                    "track_url": "",
+                    "duration_ms": 521705,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b61b662df27abb8eea8841e2",
+                    "id": 9737,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Malak We Maly",
+                    "track_url": "",
+                    "duration_ms": 383334,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b61b662df27abb8eea8841e2",
+                    "id": 9738,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Betoli Bokra",
+                    "track_url": "",
+                    "duration_ms": 396526,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b61b662df27abb8eea8841e2",
+                    "id": 9739,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "El Layali",
+                    "track_url": "",
+                    "duration_ms": 520921,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b61b662df27abb8eea8841e2",
+                    "id": 9740,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Safeny Mara",
+                    "track_url": "",
+                    "duration_ms": 396526,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b61b662df27abb8eea8841e2",
+                    "id": 9741,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Layek Alek El Khal",
+                    "track_url": "",
+                    "duration_ms": 377953,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b61b662df27abb8eea8841e2",
+                    "id": 9742,
+                    "artist": "Abdel Halim Hafez"
+                }
+            ],
+            "id": 9736
+        },
+        {
+            "name": "Rawaeaa Abd El Halim 5",
+            "release_date": "1975-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734a2b05f0da79333ab7dbc670",
+            "track_url": "https://open.spotify.com/album/2Dx9s3ceWiu7go3xMkdAs3",
+            "tracks": [
+                {
+                    "name": "Ahwak",
+                    "track_url": "",
+                    "duration_ms": 298292,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734a2b05f0da79333ab7dbc670",
+                    "id": 9744,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Oqbalak Youm Meladak",
+                    "track_url": "",
+                    "duration_ms": 354293,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734a2b05f0da79333ab7dbc670",
+                    "id": 9745,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Ya Alby Ya Khaly",
+                    "track_url": "",
+                    "duration_ms": 296453,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734a2b05f0da79333ab7dbc670",
+                    "id": 9746,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Ashanak Ya Amar",
+                    "track_url": "",
+                    "duration_ms": 195653,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734a2b05f0da79333ab7dbc670",
+                    "id": 9747,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Toba",
+                    "track_url": "",
+                    "duration_ms": 353026,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734a2b05f0da79333ab7dbc670",
+                    "id": 9748,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Kont Fein",
+                    "track_url": "",
+                    "duration_ms": 305373,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734a2b05f0da79333ab7dbc670",
+                    "id": 9749,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Ana Lak Ala Toul",
+                    "track_url": "",
+                    "duration_ms": 417133,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734a2b05f0da79333ab7dbc670",
+                    "id": 9750,
+                    "artist": "Abdel Halim Hafez"
+                }
+            ],
+            "id": 9743
+        },
+        {
+            "name": "Rawaeaa Abd El Halim 4",
+            "release_date": "1975-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b27391f8c8c91d951a447550da93",
+            "track_url": "https://open.spotify.com/album/4zELUpwEIevFCfyCTSMSvV",
+            "tracks": [
+                {
+                    "name": "Abo Oyon Garyaa",
+                    "track_url": "",
+                    "duration_ms": 535393,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27391f8c8c91d951a447550da93",
+                    "id": 9752,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Kefaya Nourak Alaya",
+                    "track_url": "",
+                    "duration_ms": 371710,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27391f8c8c91d951a447550da93",
+                    "id": 9753,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Habeb Hayaty",
+                    "track_url": "",
+                    "duration_ms": 323932,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27391f8c8c91d951a447550da93",
+                    "id": 9754,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Fe Yom Min El Ayam",
+                    "track_url": "",
+                    "duration_ms": 504046,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27391f8c8c91d951a447550da93",
+                    "id": 9755,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Rah Rah",
+                    "track_url": "",
+                    "duration_ms": 480484,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27391f8c8c91d951a447550da93",
+                    "id": 9756,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Mashghool Wehyatek",
+                    "track_url": "",
+                    "duration_ms": 207243,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27391f8c8c91d951a447550da93",
+                    "id": 9757,
+                    "artist": "Abdel Halim Hafez"
+                }
+            ],
+            "id": 9751
+        },
+        {
+            "name": "Hafalat Abd El Halim 7",
+            "release_date": "1975-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738c911a3629f117789bebd239",
+            "track_url": "https://open.spotify.com/album/6gMymOuunaw77HOeJKQyxY",
+            "tracks": [
+                {
+                    "name": "Ahwak Live",
+                    "track_url": "",
+                    "duration_ms": 888973,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738c911a3629f117789bebd239",
+                    "id": 9759,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Awel Marra Live",
+                    "track_url": "",
+                    "duration_ms": 373960,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738c911a3629f117789bebd239",
+                    "id": 9760,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Zalamooh Live",
+                    "track_url": "",
+                    "duration_ms": 1199933,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738c911a3629f117789bebd239",
+                    "id": 9761,
+                    "artist": "Abdel Halim Hafez"
+                }
+            ],
+            "id": 9758
+        },
+        {
+            "name": "Hafalat Abd El Halim 5",
+            "release_date": "1975-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273fc9200463a5cd9fd8fd39011",
+            "track_url": "https://open.spotify.com/album/5GfhCE2GiXxDFiePYPBkHd",
+            "tracks": [
+                {
+                    "name": "Toba Live",
+                    "track_url": "",
+                    "duration_ms": 850293,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fc9200463a5cd9fd8fd39011",
+                    "id": 9763,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Awel Marra Live",
+                    "track_url": "",
+                    "duration_ms": 373960,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fc9200463a5cd9fd8fd39011",
+                    "id": 9764,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Fouq El Shouq Live",
+                    "track_url": "",
+                    "duration_ms": 1164520,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fc9200463a5cd9fd8fd39011",
+                    "id": 9765,
+                    "artist": "Abdel Halim Hafez"
+                }
+            ],
+            "id": 9762
+        },
+        {
+            "name": "Hafalat Abd El Halim 4",
+            "release_date": "1975-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ea1b17a7b5bc5c46a78f64f5",
+            "track_url": "https://open.spotify.com/album/5dyxrIDXRwXURC5pcQA2ze",
+            "tracks": [
+                {
+                    "name": "Fi Youm Men El Ayam Live",
+                    "track_url": "",
+                    "duration_ms": 1252106,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ea1b17a7b5bc5c46a78f64f5",
+                    "id": 9767,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Zalamooh Live",
+                    "track_url": "",
+                    "duration_ms": 1199933,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ea1b17a7b5bc5c46a78f64f5",
+                    "id": 9768,
+                    "artist": "Abdel Halim Hafez"
+                }
+            ],
+            "id": 9766
+        },
+        {
+            "name": "Hafalat Abd El Halim 2",
+            "release_date": "1975-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c9974a4ed15d38b9601c9047",
+            "track_url": "https://open.spotify.com/album/48GYRIXyO2KVtZ6k25PHip",
+            "tracks": [
+                {
+                    "name": "Abo Oyon Gareaa Live Record",
+                    "track_url": "",
+                    "duration_ms": 1171579,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c9974a4ed15d38b9601c9047",
+                    "id": 9770,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Betlomoni Leh Live Record",
+                    "track_url": "",
+                    "duration_ms": 1162045,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c9974a4ed15d38b9601c9047",
+                    "id": 9771,
+                    "artist": "Abdel Halim Hafez"
+                }
+            ],
+            "id": 9769
+        },
+        {
+            "name": "Hafalat Abd El Halim 1",
+            "release_date": "1975-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737b8b6b3250b5b9da55722639",
+            "track_url": "https://open.spotify.com/album/4IpRSvsnHdU6fc1IQLtjTQ",
+            "tracks": [
+                {
+                    "name": "Fe Youm Fe Shahr Fe Sana Live Record",
+                    "track_url": "",
+                    "duration_ms": 1331945,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737b8b6b3250b5b9da55722639",
+                    "id": 9773,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Ala Ad El Shook Live Record",
+                    "track_url": "",
+                    "duration_ms": 1239210,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737b8b6b3250b5b9da55722639",
+                    "id": 9774,
+                    "artist": "Abdel Halim Hafez"
+                }
+            ],
+            "id": 9772
+        },
+        {
+            "name": "Abd El Halim Hafez We Masr Pt. 2",
+            "release_date": "1975-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b27341c1ec4647f2e5bc4cca6dde",
+            "track_url": "https://open.spotify.com/album/6FqTbgfBFfXOSNJWbGkhWC",
+            "tracks": [
+                {
+                    "name": "Ya Habaieb Belsalama",
+                    "track_url": "",
+                    "duration_ms": 448980,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27341c1ec4647f2e5bc4cca6dde",
+                    "id": 9776,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Bel Ahdan",
+                    "track_url": "",
+                    "duration_ms": 791210,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27341c1ec4647f2e5bc4cca6dde",
+                    "id": 9777,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "El Fawazer",
+                    "track_url": "",
+                    "duration_ms": 211449,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27341c1ec4647f2e5bc4cca6dde",
+                    "id": 9778,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "El Masaolya",
+                    "track_url": "",
+                    "duration_ms": 328869,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27341c1ec4647f2e5bc4cca6dde",
+                    "id": 9779,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Bostan El Eshtrakya",
+                    "track_url": "",
+                    "duration_ms": 824647,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27341c1ec4647f2e5bc4cca6dde",
+                    "id": 9780,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Baldy Ya Baldy",
+                    "track_url": "",
+                    "duration_ms": 243475,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27341c1ec4647f2e5bc4cca6dde",
+                    "id": 9781,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Ya Ahlan Belmaarek",
+                    "track_url": "",
+                    "duration_ms": 257503,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27341c1ec4647f2e5bc4cca6dde",
+                    "id": 9782,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Sora Sora",
+                    "track_url": "",
+                    "duration_ms": 439602,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27341c1ec4647f2e5bc4cca6dde",
+                    "id": 9783,
+                    "artist": "Abdel Halim Hafez"
+                }
+            ],
+            "id": 9775
+        },
+        {
+            "name": "Abd El Halim Hafez",
+            "release_date": "1975-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273186c7ab8d45c026677d065d7",
+            "track_url": "https://open.spotify.com/album/6mrONJsjzuIEzwL1UO1yBw",
+            "tracks": [
+                {
+                    "name": "El Oronfel",
+                    "track_url": "",
+                    "duration_ms": 747403,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273186c7ab8d45c026677d065d7",
+                    "id": 9785,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Bokra We Baado",
+                    "track_url": "",
+                    "duration_ms": 337437,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273186c7ab8d45c026677d065d7",
+                    "id": 9786,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Layali El Gharam",
+                    "track_url": "",
+                    "duration_ms": 832275,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273186c7ab8d45c026677d065d7",
+                    "id": 9787,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Beiny We Beinak Eh",
+                    "track_url": "",
+                    "duration_ms": 215001,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273186c7ab8d45c026677d065d7",
+                    "id": 9788,
+                    "artist": "Abdel Halim Hafez"
+                }
+            ],
+            "id": 9784
+        },
+        {
+            "name": "Abd El Halim Hafez",
+            "release_date": "1975-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738fd95a9b73fdbcc8206e68b2",
+            "track_url": "https://open.spotify.com/album/5Vw0wBSgWylnz3cuk4G3Kk",
+            "tracks": [
+                {
+                    "name": "Khaleeny Kelma",
+                    "track_url": "",
+                    "duration_ms": 170436,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738fd95a9b73fdbcc8206e68b2",
+                    "id": 9790,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Ya Farhet El Sommar",
+                    "track_url": "",
+                    "duration_ms": 632934,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738fd95a9b73fdbcc8206e68b2",
+                    "id": 9791,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Ya Alby Ya Khaly",
+                    "track_url": "",
+                    "duration_ms": 291462,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738fd95a9b73fdbcc8206e68b2",
+                    "id": 9792,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Kefaya Nourak Alayya",
+                    "track_url": "",
+                    "duration_ms": 371501,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738fd95a9b73fdbcc8206e68b2",
+                    "id": 9793,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Kamel El Awsaf",
+                    "track_url": "",
+                    "duration_ms": 710884,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738fd95a9b73fdbcc8206e68b2",
+                    "id": 9794,
+                    "artist": "Abdel Halim Hafez"
+                }
+            ],
+            "id": 9789
+        },
+        {
+            "name": "Abd El Halim Hafez",
+            "release_date": "1975-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b27385e0b176a1362147d57153bd",
+            "track_url": "https://open.spotify.com/album/5EYVxPQLJsb1ElDuq7ICEu",
+            "tracks": [
+                {
+                    "name": "Ya Mewaedny Bokra Live",
+                    "track_url": "",
+                    "duration_ms": 1039948,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27385e0b176a1362147d57153bd",
+                    "id": 9796,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Law Kont Youm Ansak",
+                    "track_url": "",
+                    "duration_ms": 378084,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27385e0b176a1362147d57153bd",
+                    "id": 9797,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Elly Enshaghalt Aleih",
+                    "track_url": "",
+                    "duration_ms": 350368,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27385e0b176a1362147d57153bd",
+                    "id": 9798,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Ya Moghrameen",
+                    "track_url": "",
+                    "duration_ms": 231876,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27385e0b176a1362147d57153bd",
+                    "id": 9799,
+                    "artist": "Abdel Halim Hafez"
+                }
+            ],
+            "id": 9795
+        },
+        {
+            "name": "Abd El Halim Hafez",
+            "release_date": "1975-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273481d019aa5a9330100ffb311",
+            "track_url": "https://open.spotify.com/album/4ngBuYXNJ8lCO6PpBDv7CE",
+            "tracks": [
+                {
+                    "name": "Kolly Haga Live Record",
+                    "track_url": "",
+                    "duration_ms": 1110583,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273481d019aa5a9330100ffb311",
+                    "id": 9801,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Ahebek",
+                    "track_url": "",
+                    "duration_ms": 687321,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273481d019aa5a9330100ffb311",
+                    "id": 9802,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Last Adry",
+                    "track_url": "",
+                    "duration_ms": 400027,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273481d019aa5a9330100ffb311",
+                    "id": 9803,
+                    "artist": "Abdel Halim Hafez"
+                }
+            ],
+            "id": 9800
+        },
+        {
+            "name": "Abd El Halim Hafez",
+            "release_date": "1975-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e689467d2bdcdcb76070681b",
+            "track_url": "https://open.spotify.com/album/2aMQPm5eX2e3GYCpfH1CJP",
+            "tracks": [
+                {
+                    "name": "Zalem",
+                    "track_url": "",
+                    "duration_ms": 1019390,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e689467d2bdcdcb76070681b",
+                    "id": 9805,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Ya Sidi Amrak",
+                    "track_url": "",
+                    "duration_ms": 332161,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e689467d2bdcdcb76070681b",
+                    "id": 9806,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Fatoni",
+                    "track_url": "",
+                    "duration_ms": 482286,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e689467d2bdcdcb76070681b",
+                    "id": 9807,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "La Talomny",
+                    "track_url": "",
+                    "duration_ms": 178456,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e689467d2bdcdcb76070681b",
+                    "id": 9808,
+                    "artist": "Abdel Halim Hafez"
+                }
+            ],
+            "id": 9804
+        },
+        {
+            "name": "Abd El Halim Hafez",
+            "release_date": "1975-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734c32b30582b7a06276dd9701",
+            "track_url": "https://open.spotify.com/album/21I5fEomalocfYs7E1ETkl",
+            "tracks": [
+                {
+                    "name": "Ehna El Shaab",
+                    "track_url": "",
+                    "duration_ms": 659396,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734c32b30582b7a06276dd9701",
+                    "id": 9810,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Ya Gamal Ya Habib El Malaien",
+                    "track_url": "",
+                    "duration_ms": 593411,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734c32b30582b7a06276dd9701",
+                    "id": 9811,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Ya Baladna La Tanamy",
+                    "track_url": "",
+                    "duration_ms": 416275,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734c32b30582b7a06276dd9701",
+                    "id": 9812,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Ya Ahlan Belmaarek",
+                    "track_url": "",
+                    "duration_ms": 1601685,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734c32b30582b7a06276dd9701",
+                    "id": 9813,
+                    "artist": "Abdel Halim Hafez"
+                }
+            ],
+            "id": 9809
+        },
+        {
+            "name": "Abd El Halim Hafez",
+            "release_date": "1975-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273eccc517894590efd9aa17ba4",
+            "track_url": "https://open.spotify.com/album/1rQgNQ0NfJE9VYrccykZUa",
+            "tracks": [
+                {
+                    "name": "Nafadt Enaya El Manam",
+                    "track_url": "",
+                    "duration_ms": 237859,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273eccc517894590efd9aa17ba4",
+                    "id": 9815,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Ana Men Torab",
+                    "track_url": "",
+                    "duration_ms": 255230,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273eccc517894590efd9aa17ba4",
+                    "id": 9816,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "El Totah Welsaqya",
+                    "track_url": "",
+                    "duration_ms": 222890,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273eccc517894590efd9aa17ba4",
+                    "id": 9817,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Adok Ya Samee",
+                    "track_url": "",
+                    "duration_ms": 214296,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273eccc517894590efd9aa17ba4",
+                    "id": 9818,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "We Rahamtak Fe El Nasem",
+                    "track_url": "",
+                    "duration_ms": 201888,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273eccc517894590efd9aa17ba4",
+                    "id": 9819,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Beny We Ben El Nas",
+                    "track_url": "",
+                    "duration_ms": 211370,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273eccc517894590efd9aa17ba4",
+                    "id": 9820,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "We El haba Fe El Ard",
+                    "track_url": "",
+                    "duration_ms": 181486,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273eccc517894590efd9aa17ba4",
+                    "id": 9821,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Khaleny Kelma",
+                    "track_url": "",
+                    "duration_ms": 171716,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273eccc517894590efd9aa17ba4",
+                    "id": 9822,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Warak El Shagar",
+                    "track_url": "",
+                    "duration_ms": 183968,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273eccc517894590efd9aa17ba4",
+                    "id": 9823,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Ben Sohbat El Ward",
+                    "track_url": "",
+                    "duration_ms": 174198,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273eccc517894590efd9aa17ba4",
+                    "id": 9824,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Ya khalek El Zahra",
+                    "track_url": "",
+                    "duration_ms": 196036,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273eccc517894590efd9aa17ba4",
+                    "id": 9825,
+                    "artist": "Abdel Halim Hafez"
+                }
+            ],
+            "id": 9814
+        },
+        {
+            "name": "Abd El Halim Hafez",
+            "release_date": "1975-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ec29ae3c395da4ce754bbb77",
+            "track_url": "https://open.spotify.com/album/1670741xYwMgyiugBNCMf4",
+            "tracks": [
+                {
+                    "name": "Robama",
+                    "track_url": "",
+                    "duration_ms": 1075005,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ec29ae3c395da4ce754bbb77",
+                    "id": 9827,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Leqaa",
+                    "track_url": "",
+                    "duration_ms": 383543,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ec29ae3c395da4ce754bbb77",
+                    "id": 9828,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Sodfa",
+                    "track_url": "",
+                    "duration_ms": 236082,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ec29ae3c395da4ce754bbb77",
+                    "id": 9829,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Helw W Kaddab",
+                    "track_url": "",
+                    "duration_ms": 288641,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ec29ae3c395da4ce754bbb77",
+                    "id": 9830,
+                    "artist": "Abdel Halim Hafez"
+                }
+            ],
+            "id": 9826
+        },
+        {
+            "name": "Abd El Halim Hafez",
+            "release_date": "1975-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273dfc9159a7fafaad63dc5e0f4",
+            "track_url": "https://open.spotify.com/album/0ucbyMDFZbUly6RaWU4ujv",
+            "tracks": [
+                {
+                    "name": "Ana Men Torab",
+                    "track_url": "",
+                    "duration_ms": 251599,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273dfc9159a7fafaad63dc5e0f4",
+                    "id": 9832,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Einy Danaha El Sahar",
+                    "track_url": "",
+                    "duration_ms": 442711,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273dfc9159a7fafaad63dc5e0f4",
+                    "id": 9833,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Kan Fi Zaman",
+                    "track_url": "",
+                    "duration_ms": 402012,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273dfc9159a7fafaad63dc5e0f4",
+                    "id": 9834,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "El Hawa Hawaya",
+                    "track_url": "",
+                    "duration_ms": 740115,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273dfc9159a7fafaad63dc5e0f4",
+                    "id": 9835,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Haram Ya Nar",
+                    "track_url": "",
+                    "duration_ms": 338979,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273dfc9159a7fafaad63dc5e0f4",
+                    "id": 9836,
+                    "artist": "Abdel Halim Hafez"
+                }
+            ],
+            "id": 9831
+        },
+        {
+            "name": "Abd El Halim Hafez",
+            "release_date": "1975-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b52ae913919255f1d5e6b32e",
+            "track_url": "https://open.spotify.com/album/0HbZleMjLyHk0Jq7P27DdV",
+            "tracks": [
+                {
+                    "name": "Adaok Ya Samea Doaaya",
+                    "track_url": "",
+                    "duration_ms": 210534,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b52ae913919255f1d5e6b32e",
+                    "id": 9838,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Yahly Ya Yahly",
+                    "track_url": "",
+                    "duration_ms": 532938,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b52ae913919255f1d5e6b32e",
+                    "id": 9839,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Aoul Maolsh",
+                    "track_url": "",
+                    "duration_ms": 349898,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b52ae913919255f1d5e6b32e",
+                    "id": 9840,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Haga Ghariba",
+                    "track_url": "",
+                    "duration_ms": 440177,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b52ae913919255f1d5e6b32e",
+                    "id": 9841,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Be Amr El Hob",
+                    "track_url": "",
+                    "duration_ms": 685963,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b52ae913919255f1d5e6b32e",
+                    "id": 9842,
+                    "artist": "Abdel Halim Hafez"
+                }
+            ],
+            "id": 9837
+        },
+        {
+            "name": "Law Kont Youm",
+            "release_date": "1973-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735afb5adb7797fec67b975e27",
+            "track_url": "https://open.spotify.com/album/2g4Xsqg7tIHWpEJNh5UDTN",
+            "tracks": [
+                {
+                    "name": "Law Kont Youm Ala Alby Tehoun",
+                    "track_url": "",
+                    "duration_ms": 596415,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735afb5adb7797fec67b975e27",
+                    "id": 9844,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Ya Alby Khabby",
+                    "track_url": "",
+                    "duration_ms": 362280,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735afb5adb7797fec67b975e27",
+                    "id": 9845,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Awel Marra",
+                    "track_url": "",
+                    "duration_ms": 214505,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735afb5adb7797fec67b975e27",
+                    "id": 9846,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Law Kont Youm Ansak",
+                    "track_url": "",
+                    "duration_ms": 384379,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735afb5adb7797fec67b975e27",
+                    "id": 9847,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Sodfa",
+                    "track_url": "",
+                    "duration_ms": 239112,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735afb5adb7797fec67b975e27",
+                    "id": 9848,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Beiny We Beinak Eh",
+                    "track_url": "",
+                    "duration_ms": 217483,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735afb5adb7797fec67b975e27",
+                    "id": 9849,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Helw W Kaddab",
+                    "track_url": "",
+                    "duration_ms": 295772,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735afb5adb7797fec67b975e27",
+                    "id": 9850,
+                    "artist": "Abdel Halim Hafez"
+                }
+            ],
+            "id": 9843
+        },
+        {
+            "name": "Wa Law",
+            "release_date": "1972-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b716edc3e6f881733b612471",
+            "track_url": "https://open.spotify.com/album/60MV95QZip1qsZzSQJYhu2",
+            "tracks": [
+                {
+                    "name": "Wa Law",
+                    "track_url": "",
+                    "duration_ms": 1414623,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b716edc3e6f881733b612471",
+                    "id": 9852,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "El Negma Malet Al Amar",
+                    "track_url": "",
+                    "duration_ms": 484324,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b716edc3e6f881733b612471",
+                    "id": 9853,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "El Markaba Adet",
+                    "track_url": "",
+                    "duration_ms": 540774,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b716edc3e6f881733b612471",
+                    "id": 9854,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Wedaret El Ayam",
+                    "track_url": "",
+                    "duration_ms": 525676,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b716edc3e6f881733b612471",
+                    "id": 9855,
+                    "artist": "Abdel Halim Hafez"
+                }
+            ],
+            "id": 9851
+        },
+        {
+            "name": "Meen Ana",
+            "release_date": "1972-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734cfb2efa10bb6eebc76f8bb6",
+            "track_url": "https://open.spotify.com/album/3GL3Hev3f1riGy5ZkE1KE4",
+            "tracks": [
+                {
+                    "name": "Meen Ana",
+                    "track_url": "",
+                    "duration_ms": 395899,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734cfb2efa10bb6eebc76f8bb6",
+                    "id": 9857,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Bahlam Be Youm",
+                    "track_url": "",
+                    "duration_ms": 322130,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734cfb2efa10bb6eebc76f8bb6",
+                    "id": 9858,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Esterad El Talaba",
+                    "track_url": "",
+                    "duration_ms": 383178,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734cfb2efa10bb6eebc76f8bb6",
+                    "id": 9859,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Mashy El Tareek",
+                    "track_url": "",
+                    "duration_ms": 252774,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734cfb2efa10bb6eebc76f8bb6",
+                    "id": 9860,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Nedaa El Mady",
+                    "track_url": "",
+                    "duration_ms": 878642,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734cfb2efa10bb6eebc76f8bb6",
+                    "id": 9861,
+                    "artist": "Abdel Halim Hafez"
+                }
+            ],
+            "id": 9856
+        },
+        {
+            "name": "Feeh Nas",
+            "release_date": "1972-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b27308c0f6f9aae52d085311f9dd",
+            "track_url": "https://open.spotify.com/album/6qbKcwCpJTwKCvZDDhLRz6",
+            "tracks": [
+                {
+                    "name": "Ya Markeby Seery",
+                    "track_url": "",
+                    "duration_ms": 556134,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27308c0f6f9aae52d085311f9dd",
+                    "id": 9863,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Feeh Nas",
+                    "track_url": "",
+                    "duration_ms": 192405,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27308c0f6f9aae52d085311f9dd",
+                    "id": 9864,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Wallah Maoul El Ah",
+                    "track_url": "",
+                    "duration_ms": 74436,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27308c0f6f9aae52d085311f9dd",
+                    "id": 9865,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Man Ana Taabeer",
+                    "track_url": "",
+                    "duration_ms": 380801,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27308c0f6f9aae52d085311f9dd",
+                    "id": 9866,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Man Ana Tatreeb",
+                    "track_url": "",
+                    "duration_ms": 382107,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27308c0f6f9aae52d085311f9dd",
+                    "id": 9867,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Ya Layali El Eid",
+                    "track_url": "",
+                    "duration_ms": 789565,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27308c0f6f9aae52d085311f9dd",
+                    "id": 9868,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "El Maa Wel Khodra",
+                    "track_url": "",
+                    "duration_ms": 769346,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27308c0f6f9aae52d085311f9dd",
+                    "id": 9869,
+                    "artist": "Abdel Halim Hafez"
+                }
+            ],
+            "id": 9862
+        },
+        {
+            "name": "El Toba",
+            "release_date": "1972-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b27331adc2c75b03fb8ec7c8e030",
+            "track_url": "https://open.spotify.com/album/6Gp4f6CK3GBiGkDOoIslQu",
+            "tracks": [
+                {
+                    "name": "Gana El Hawa Live Record",
+                    "track_url": "",
+                    "duration_ms": 742100,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27331adc2c75b03fb8ec7c8e030",
+                    "id": 9871,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Ya Khaley El Kalb",
+                    "track_url": "",
+                    "duration_ms": 668043,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27331adc2c75b03fb8ec7c8e030",
+                    "id": 9872,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Sawwah Live Record",
+                    "track_url": "",
+                    "duration_ms": 837499,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27331adc2c75b03fb8ec7c8e030",
+                    "id": 9873,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "El Toba Live Record",
+                    "track_url": "",
+                    "duration_ms": 326988,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27331adc2c75b03fb8ec7c8e030",
+                    "id": 9874,
+                    "artist": "Abdel Halim Hafez"
+                }
+            ],
+            "id": 9870
+        },
+        {
+            "name": "Ala Hesb Wedad",
+            "release_date": "1972-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273895abbccb254f03d7c881521",
+            "track_url": "https://open.spotify.com/album/2sID189jRZZQuh65EDqOQj",
+            "tracks": [
+                {
+                    "name": "Ala Hasab Wedad Live Record",
+                    "track_url": "",
+                    "duration_ms": 626743,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273895abbccb254f03d7c881521",
+                    "id": 9876,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Day El Kanadel",
+                    "track_url": "",
+                    "duration_ms": 754639,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273895abbccb254f03d7c881521",
+                    "id": 9877,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "El Wayl El Wayl Live Record",
+                    "track_url": "",
+                    "duration_ms": 925689,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273895abbccb254f03d7c881521",
+                    "id": 9878,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Aaaz El Nas",
+                    "track_url": "",
+                    "duration_ms": 447988,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273895abbccb254f03d7c881521",
+                    "id": 9879,
+                    "artist": "Abdel Halim Hafez"
+                }
+            ],
+            "id": 9875
+        },
+        {
+            "name": "Ala Hesb Wedad",
+            "release_date": "1972-12-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b273afecd527e32e14f1244e59d6",
+            "track_url": "https://open.spotify.com/album/5xled6PkJk4Mj304PrOQfA",
+            "tracks": [
+                {
+                    "name": "Ala Hesb Wedad Live",
+                    "track_url": "",
+                    "duration_ms": 636513,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273afecd527e32e14f1244e59d6",
+                    "id": 9881,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Day El Anadeel",
+                    "track_url": "",
+                    "duration_ms": 332761,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273afecd527e32e14f1244e59d6",
+                    "id": 9882,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "El Toba Live",
+                    "track_url": "",
+                    "duration_ms": 765140,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273afecd527e32e14f1244e59d6",
+                    "id": 9883,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "El Wayl El Wayl Live",
+                    "track_url": "",
+                    "duration_ms": 937966,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273afecd527e32e14f1244e59d6",
+                    "id": 9884,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Aaaz El Nas",
+                    "track_url": "",
+                    "duration_ms": 454701,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273afecd527e32e14f1244e59d6",
+                    "id": 9885,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Sodfa",
+                    "track_url": "",
+                    "duration_ms": 238172,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273afecd527e32e14f1244e59d6",
+                    "id": 9886,
+                    "artist": "Abdel Halim Hafez"
+                }
+            ],
+            "id": 9880
+        },
+        {
+            "name": "Abd El Halim Hafez Pt.1",
+            "release_date": "1971-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c241f5df189af0946b9b53d3",
+            "track_url": "https://open.spotify.com/album/44hZypK8tM4cTjKd8AVQye",
+            "tracks": [
+                {
+                    "name": "Ya Malekan Qalby Live",
+                    "track_url": "",
+                    "duration_ms": 1525330,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c241f5df189af0946b9b53d3",
+                    "id": 9888,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Fi Youm Mn El Ayam",
+                    "track_url": "",
+                    "duration_ms": 505535,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c241f5df189af0946b9b53d3",
+                    "id": 9889,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Ehtar Khayali",
+                    "track_url": "",
+                    "duration_ms": 271348,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c241f5df189af0946b9b53d3",
+                    "id": 9890,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Balash Etab",
+                    "track_url": "",
+                    "duration_ms": 701558,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c241f5df189af0946b9b53d3",
+                    "id": 9891,
+                    "artist": "Abdel Halim Hafez"
+                }
+            ],
+            "id": 9887
+        },
+        {
+            "name": "Abd El Halim Hafez",
+            "release_date": "1971-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e34b71860c75da82e8290c2a",
+            "track_url": "https://open.spotify.com/album/6rzJnkhK6SOeyeIz1c1HXr",
+            "tracks": [
+                {
+                    "name": "Gabar",
+                    "track_url": "",
+                    "duration_ms": 1233620,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e34b71860c75da82e8290c2a",
+                    "id": 9893,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Kady El Belag",
+                    "track_url": "",
+                    "duration_ms": 851971,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e34b71860c75da82e8290c2a",
+                    "id": 9894,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Wehyat Kalby",
+                    "track_url": "",
+                    "duration_ms": 280830,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e34b71860c75da82e8290c2a",
+                    "id": 9895,
+                    "artist": "Abdel Halim Hafez"
+                }
+            ],
+            "id": 9892
+        },
+        {
+            "name": "Abd El Halim Hafez",
+            "release_date": "1971-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732f18a78c3e9013df33f980fa",
+            "track_url": "https://open.spotify.com/album/6QxoNQIZr6IgRiDKHECxhM",
+            "tracks": [
+                {
+                    "name": "Balash Etab",
+                    "track_url": "",
+                    "duration_ms": 696934,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732f18a78c3e9013df33f980fa",
+                    "id": 9897,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Last Kalby",
+                    "track_url": "",
+                    "duration_ms": 732435,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732f18a78c3e9013df33f980fa",
+                    "id": 9898,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Samra",
+                    "track_url": "",
+                    "duration_ms": 1380193,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732f18a78c3e9013df33f980fa",
+                    "id": 9899,
+                    "artist": "Abdel Halim Hafez"
+                }
+            ],
+            "id": 9896
+        },
+        {
+            "name": "Abd El Halim Hafez And Egypt Vol 1",
+            "release_date": "1970-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273736c246588f3ee6ec09add9d",
+            "track_url": "https://open.spotify.com/album/2iQX1FNWtWzrIsgrx7a1Rt",
+            "tracks": [
+                {
+                    "name": "Fedaey Live",
+                    "track_url": "",
+                    "duration_ms": 350028,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273736c246588f3ee6ec09add9d",
+                    "id": 9901,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Thawretna El Massreya",
+                    "track_url": "",
+                    "duration_ms": 441561,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273736c246588f3ee6ec09add9d",
+                    "id": 9902,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Allah Ya Baladna",
+                    "track_url": "",
+                    "duration_ms": 630583,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273736c246588f3ee6ec09add9d",
+                    "id": 9903,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "El Watan El Akbar",
+                    "track_url": "",
+                    "duration_ms": 354730,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273736c246588f3ee6ec09add9d",
+                    "id": 9904,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "That Leila",
+                    "track_url": "",
+                    "duration_ms": 441692,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273736c246588f3ee6ec09add9d",
+                    "id": 9905,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Zekrayat",
+                    "track_url": "",
+                    "duration_ms": 498665,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273736c246588f3ee6ec09add9d",
+                    "id": 9906,
+                    "artist": "Abdel Halim Hafez"
+                }
+            ],
+            "id": 9900
+        },
+        {
+            "name": "Sora",
+            "release_date": "1969-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b27344a91bd56973d155c3300d05",
+            "track_url": "https://open.spotify.com/album/0QzsjRVCOpTBw7FqK0KBGS",
+            "tracks": [
+                {
+                    "name": "Sora Sora",
+                    "track_url": "",
+                    "duration_ms": 1149845,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27344a91bd56973d155c3300d05",
+                    "id": 9908,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Naser Ya Horya",
+                    "track_url": "",
+                    "duration_ms": 202724,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27344a91bd56973d155c3300d05",
+                    "id": 9909,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Balady",
+                    "track_url": "",
+                    "duration_ms": 1214446,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27344a91bd56973d155c3300d05",
+                    "id": 9910,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Borkan El Ghadab",
+                    "track_url": "",
+                    "duration_ms": 76056,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27344a91bd56973d155c3300d05",
+                    "id": 9911,
+                    "artist": "Abdel Halim Hafez"
+                }
+            ],
+            "id": 9907
+        },
+        {
+            "name": "Markeb Al Oshaa",
+            "release_date": "1969-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738acffc024bb3d6eaa7ca4070",
+            "track_url": "https://open.spotify.com/album/7JjUxwmeBmvPdqi7PL0pay",
+            "tracks": [
+                {
+                    "name": "Markeb Al Oshaa",
+                    "track_url": "",
+                    "duration_ms": 397127,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738acffc024bb3d6eaa7ca4070",
+                    "id": 9913,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Ya Naker El Maarof",
+                    "track_url": "",
+                    "duration_ms": 221767,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738acffc024bb3d6eaa7ca4070",
+                    "id": 9914,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Ma Tesadaqneesh",
+                    "track_url": "",
+                    "duration_ms": 271609,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738acffc024bb3d6eaa7ca4070",
+                    "id": 9915,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Fat El Rabeia",
+                    "track_url": "",
+                    "duration_ms": 394123,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738acffc024bb3d6eaa7ca4070",
+                    "id": 9916,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Al Aseel",
+                    "track_url": "",
+                    "duration_ms": 125976,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738acffc024bb3d6eaa7ca4070",
+                    "id": 9917,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Khaleek Maaya",
+                    "track_url": "",
+                    "duration_ms": 807459,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738acffc024bb3d6eaa7ca4070",
+                    "id": 9918,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Tayer Ya Hamam",
+                    "track_url": "",
+                    "duration_ms": 607622,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738acffc024bb3d6eaa7ca4070",
+                    "id": 9919,
+                    "artist": "Abdel Halim Hafez"
+                }
+            ],
+            "id": 9912
+        },
+        {
+            "name": "El Masouleya",
+            "release_date": "1968-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273821c290cce8a6c7d93c9c489",
+            "track_url": "https://open.spotify.com/album/3VZCjhKzUYhSDCHTvhjrFS",
+            "tracks": [
+                {
+                    "name": "El Masaolya",
+                    "track_url": "",
+                    "duration_ms": 1250051,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273821c290cce8a6c7d93c9c489",
+                    "id": 9921,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Rayet El Arab",
+                    "track_url": "",
+                    "duration_ms": 56908,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273821c290cce8a6c7d93c9c489",
+                    "id": 9922,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Mataleb Shaab",
+                    "track_url": "",
+                    "duration_ms": 1257078,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273821c290cce8a6c7d93c9c489",
+                    "id": 9923,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Be El Dam",
+                    "track_url": "",
+                    "duration_ms": 82195,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273821c290cce8a6c7d93c9c489",
+                    "id": 9924,
+                    "artist": "Abdel Halim Hafez"
+                }
+            ],
+            "id": 9920
+        },
+        {
+            "name": "Ahdan El Habayeb",
+            "release_date": "1968-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736dd8d650b029439aaddad372",
+            "track_url": "https://open.spotify.com/album/6rGsCbk7jeVs8Dlg0ZjxvL",
+            "tracks": [
+                {
+                    "name": "Ahdan El Habayeb",
+                    "track_url": "",
+                    "duration_ms": 935302,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736dd8d650b029439aaddad372",
+                    "id": 9926,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Beiny We Beinak",
+                    "track_url": "",
+                    "duration_ms": 222525,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736dd8d650b029439aaddad372",
+                    "id": 9927,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Kamel El Awsaf",
+                    "track_url": "",
+                    "duration_ms": 794737,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736dd8d650b029439aaddad372",
+                    "id": 9928,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Kont Fein",
+                    "track_url": "",
+                    "duration_ms": 308885,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736dd8d650b029439aaddad372",
+                    "id": 9929,
+                    "artist": "Abdel Halim Hafez"
+                }
+            ],
+            "id": 9925
+        },
+        {
+            "name": "Aghany Film Aby Fawk Al Shagara",
+            "release_date": "1968-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739c8f212c14d9e5ff9d16da3a",
+            "track_url": "https://open.spotify.com/album/5oFte9rCKFJmEE99K1MzeS",
+            "tracks": [
+                {
+                    "name": "Qady El Belaj",
+                    "track_url": "",
+                    "duration_ms": 844500,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739c8f212c14d9e5ff9d16da3a",
+                    "id": 9931,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Ahdan El Habayeb",
+                    "track_url": "",
+                    "duration_ms": 927831,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739c8f212c14d9e5ff9d16da3a",
+                    "id": 9932,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Ya Khaley El Alb",
+                    "track_url": "",
+                    "duration_ms": 639047,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739c8f212c14d9e5ff9d16da3a",
+                    "id": 9933,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "El Hawa Hawaya",
+                    "track_url": "",
+                    "duration_ms": 456895,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739c8f212c14d9e5ff9d16da3a",
+                    "id": 9934,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Gana El Hawa",
+                    "track_url": "",
+                    "duration_ms": 678675,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739c8f212c14d9e5ff9d16da3a",
+                    "id": 9935,
+                    "artist": "Abdel Halim Hafez"
+                }
+            ],
+            "id": 9930
+        },
+        {
+            "name": "Khaly El Selah Sahy",
+            "release_date": "1967-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734a4602aee61197a62222016a",
+            "track_url": "https://open.spotify.com/album/3nW50jrRYwegl5426dFkrj",
+            "tracks": [
+                {
+                    "name": "Ahlef Besamaha",
+                    "track_url": "",
+                    "duration_ms": 106332,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734a4602aee61197a62222016a",
+                    "id": 9937,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Khaly El Selah Sahy",
+                    "track_url": "",
+                    "duration_ms": 128379,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734a4602aee61197a62222016a",
+                    "id": 9938,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Lefi El Belad",
+                    "track_url": "",
+                    "duration_ms": 482312,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734a4602aee61197a62222016a",
+                    "id": 9939,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Komy Ya Masr",
+                    "track_url": "",
+                    "duration_ms": 457914,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734a4602aee61197a62222016a",
+                    "id": 9940,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Ebnak Yakolak",
+                    "track_url": "",
+                    "duration_ms": 217091,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734a4602aee61197a62222016a",
+                    "id": 9941,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Ash Ely Aall",
+                    "track_url": "",
+                    "duration_ms": 228036,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734a4602aee61197a62222016a",
+                    "id": 9942,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "El Fagr Lah",
+                    "track_url": "",
+                    "duration_ms": 707436,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734a4602aee61197a62222016a",
+                    "id": 9943,
+                    "artist": "Abdel Halim Hafez"
+                }
+            ],
+            "id": 9936
+        },
+        {
+            "name": "Fedaey",
+            "release_date": "1967-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b27306e6b04a1e6af8b9d30ae714",
+            "track_url": "https://open.spotify.com/album/3W2Nb6pPxkdlCMFA4dGVlc",
+            "tracks": [
+                {
+                    "name": "Fedaey Live Record",
+                    "track_url": "",
+                    "duration_ms": 507442,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27306e6b04a1e6af8b9d30ae714",
+                    "id": 9945,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Al Maseh Live Record",
+                    "track_url": "",
+                    "duration_ms": 573114,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27306e6b04a1e6af8b9d30ae714",
+                    "id": 9946,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "El Markaba Adet",
+                    "track_url": "",
+                    "duration_ms": 481032,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27306e6b04a1e6af8b9d30ae714",
+                    "id": 9947,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "El Fanara",
+                    "track_url": "",
+                    "duration_ms": 522254,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27306e6b04a1e6af8b9d30ae714",
+                    "id": 9948,
+                    "artist": "Abdel Halim Hafez"
+                }
+            ],
+            "id": 9944
+        },
+        {
+            "name": "Aghany Film Maabodet El Gamaheer",
+            "release_date": "1967-01-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b273197cf6878684316a40de96ca",
+            "track_url": "https://open.spotify.com/album/4Uso13tX7qhkdyH3O8kVUc",
+            "tracks": [
+                {
+                    "name": "Haga Ghariba",
+                    "track_url": "",
+                    "duration_ms": 447596,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273197cf6878684316a40de96ca",
+                    "id": 9950,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Balash Etab",
+                    "track_url": "",
+                    "duration_ms": 706182,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273197cf6878684316a40de96ca",
+                    "id": 9951,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Last Qalby",
+                    "track_url": "",
+                    "duration_ms": 738051,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273197cf6878684316a40de96ca",
+                    "id": 9952,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Gabar",
+                    "track_url": "",
+                    "duration_ms": 1248014,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273197cf6878684316a40de96ca",
+                    "id": 9953,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Ahebak",
+                    "track_url": "",
+                    "duration_ms": 624601,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273197cf6878684316a40de96ca",
+                    "id": 9954,
+                    "artist": "Abdel Halim Hafez"
+                }
+            ],
+            "id": 9949
+        },
+        {
+            "name": "Aghany Film Sharea El Hob El Banat Welseif",
+            "release_date": "1966-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735bf9551576cc050e55a2b60d",
+            "track_url": "https://open.spotify.com/album/4WIIgpvrtpzm5V8ZZoVLxp",
+            "tracks": [
+                {
+                    "name": "Mawwaly Mawwaly",
+                    "track_url": "",
+                    "duration_ms": 275658,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735bf9551576cc050e55a2b60d",
+                    "id": 9956,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Abo Eyoun Gareea",
+                    "track_url": "",
+                    "duration_ms": 536725,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735bf9551576cc050e55a2b60d",
+                    "id": 9957,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Naam ya Habiby",
+                    "track_url": "",
+                    "duration_ms": 654642,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735bf9551576cc050e55a2b60d",
+                    "id": 9958,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "El Layali",
+                    "track_url": "",
+                    "duration_ms": 522750,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735bf9551576cc050e55a2b60d",
+                    "id": 9959,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Rah Rah",
+                    "track_url": "",
+                    "duration_ms": 481111,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735bf9551576cc050e55a2b60d",
+                    "id": 9960,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Gawab",
+                    "track_url": "",
+                    "duration_ms": 471890,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735bf9551576cc050e55a2b60d",
+                    "id": 9961,
+                    "artist": "Abdel Halim Hafez"
+                }
+            ],
+            "id": 9955
+        },
+        {
+            "name": "Al rasam",
+            "release_date": "1965-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735d1b1ceab1c1f565dbcf9190",
+            "track_url": "https://open.spotify.com/album/2dgWQE4BjQ8PZgbUMjtztE",
+            "tracks": [
+                {
+                    "name": "Al rasam",
+                    "track_url": "",
+                    "duration_ms": 495121,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735d1b1ceab1c1f565dbcf9190",
+                    "id": 9963,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Ahl al hana",
+                    "track_url": "",
+                    "duration_ms": 85890,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735d1b1ceab1c1f565dbcf9190",
+                    "id": 9964,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Abdan rah aqol",
+                    "track_url": "",
+                    "duration_ms": 347997,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735d1b1ceab1c1f565dbcf9190",
+                    "id": 9965,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Aqbal al sabah",
+                    "track_url": "",
+                    "duration_ms": 155573,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735d1b1ceab1c1f565dbcf9190",
+                    "id": 9966,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Badlati al zarqaa",
+                    "track_url": "",
+                    "duration_ms": 219683,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735d1b1ceab1c1f565dbcf9190",
+                    "id": 9967,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Eid al rabaei",
+                    "track_url": "",
+                    "duration_ms": 435118,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735d1b1ceab1c1f565dbcf9190",
+                    "id": 9968,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Gana al khair ya farag Allah",
+                    "track_url": "",
+                    "duration_ms": 91834,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735d1b1ceab1c1f565dbcf9190",
+                    "id": 9969,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Habibi fi 3inaya",
+                    "track_url": "",
+                    "duration_ms": 277432,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735d1b1ceab1c1f565dbcf9190",
+                    "id": 9970,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Hal al amal ft. Yusr Tawfik",
+                    "track_url": "",
+                    "duration_ms": 208097,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735d1b1ceab1c1f565dbcf9190",
+                    "id": 9971,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Hena rawd khyalna",
+                    "track_url": "",
+                    "duration_ms": 376372,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735d1b1ceab1c1f565dbcf9190",
+                    "id": 9972,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "La Tazani in ma fat ya3oud",
+                    "track_url": "",
+                    "duration_ms": 306178,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735d1b1ceab1c1f565dbcf9190",
+                    "id": 9973,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Men wagh ba7ary",
+                    "track_url": "",
+                    "duration_ms": 136247,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735d1b1ceab1c1f565dbcf9190",
+                    "id": 9974,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Nagwa khyali",
+                    "track_url": "",
+                    "duration_ms": 256534,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735d1b1ceab1c1f565dbcf9190",
+                    "id": 9975,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "She3ar al 3ahd al gadid",
+                    "track_url": "",
+                    "duration_ms": 193638,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735d1b1ceab1c1f565dbcf9190",
+                    "id": 9976,
+                    "artist": "Abdel Halim Hafez"
+                },
+                {
+                    "name": "Hal al rabaei al gamel",
+                    "track_url": "",
+                    "duration_ms": 569376,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735d1b1ceab1c1f565dbcf9190",
+                    "id": 9977,
+                    "artist": "Abdel Halim Hafez"
+                }
+            ],
+            "id": 9962
+        }
+    ],
+    "singles": [
+        {
+            "name": "Qareat Al Fengan",
+            "release_date": "1975-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738015b5918f373b0e7c448b89",
+            "track_url": "",
+            "id": 9978,
+            "artist": "Abdel Halim Hafez"
+        },
+        {
+            "name": "Qareat Al Fengan",
+            "release_date": "1975-12-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b296704f8011c8b62ef6f929",
+            "track_url": "",
+            "id": 9979,
+            "artist": "Abdel Halim Hafez"
+        },
+        {
+            "name": "Nebtedy Menen El Hekaya Live",
+            "release_date": "1975-12-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733761faf94d3bfe7118e34e43",
+            "track_url": "",
+            "id": 9980,
+            "artist": "Abdel Halim Hafez"
+        },
+        {
+            "name": "Resala Men Taht El Maa",
+            "release_date": "1974-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273be51c5b0f64470740330f7ab",
+            "track_url": "",
+            "id": 9981,
+            "artist": "Abdel Halim Hafez"
+        },
+        {
+            "name": "Bel Dam Hnakhod Tarna",
+            "release_date": "1973-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b27381ed5019e97845e7bd6e10ca",
+            "track_url": "",
+            "id": 9982,
+            "artist": "Abdel Halim Hafez"
+        },
+        {
+            "name": "Ay Damaet Hozn La Live",
+            "release_date": "1973-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273803fbef3696bb23fd331d6ae",
+            "track_url": "",
+            "id": 9983,
+            "artist": "Abdel Halim Hafez"
+        },
+        {
+            "name": "Fatet Ganbena Live",
+            "release_date": "1973-12-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b27319e80f1c2ce1f087e42069a6",
+            "track_url": "",
+            "id": 9984,
+            "artist": "Abdel Halim Hafez"
+        },
+        {
+            "name": "Ya Malekan Qalby",
+            "release_date": "1972-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730567116f3167aa731aaca980",
+            "track_url": "",
+            "id": 9985,
+            "artist": "Abdel Halim Hafez"
+        },
+        {
+            "name": "La Taktheby Live",
+            "release_date": "1972-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b27326d06a014cec6fcad398efb9",
+            "track_url": "",
+            "id": 9986,
+            "artist": "Abdel Halim Hafez"
+        },
+        {
+            "name": "Hawel Teftekerny Live",
+            "release_date": "1971-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b229b1d366a0a83cc3d83f24",
+            "track_url": "",
+            "id": 9987,
+            "artist": "Abdel Halim Hafez"
+        },
+        {
+            "name": "Mawaood Live",
+            "release_date": "1971-08-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b273bdd7f37875f5a9c91f82b6dc",
+            "track_url": "",
+            "id": 9988,
+            "artist": "Abdel Halim Hafez"
+        },
+        {
+            "name": "Daret El Ayam",
+            "release_date": "1970-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273cb4178cfa0b17fbc94e758b4",
+            "track_url": "",
+            "id": 9989,
+            "artist": "Abdel Halim Hafez"
+        },
+        {
+            "name": "Zay El Hawa Live",
+            "release_date": "1969-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273376d80c4b6c7516dde71c95b",
+            "track_url": "",
+            "id": 9990,
+            "artist": "Abdel Halim Hafez"
+        },
+        {
+            "name": "Maddah El Amar Live",
+            "release_date": "1969-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738c5f632677820a19c287af71",
+            "track_url": "",
+            "id": 9991,
+            "artist": "Abdel Halim Hafez"
+        },
+        {
+            "name": "Maddah El Amar",
+            "release_date": "1969-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730763d8a622fcadc64d52c0a4",
+            "track_url": "",
+            "id": 9992,
+            "artist": "Abdel Halim Hafez"
+        },
+        {
+            "name": "Tesaab Aalih El Nafs",
+            "release_date": "1959-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b27379862941f67828cb8abcbdaa",
+            "track_url": "",
+            "id": 9993,
+            "artist": "Abdel Halim Hafez"
+        },
+        {
+            "name": "Fi Sokoun El Leil",
+            "release_date": "1955-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738f7c29cbdf9a39ece47d74ab",
+            "track_url": "",
+            "id": 9994,
+            "artist": "Abdel Halim Hafez"
+        },
+        {
+            "name": "Robma",
+            "release_date": "1955-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737c1c0c06db76577d1a55cc18",
+            "track_url": "",
+            "id": 9995,
+            "artist": "Abdel Halim Hafez"
+        },
+        {
+            "name": "Habebaty Man Takoon",
+            "release_date": "1954-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273abf9e6eba4085799d0f619cf",
+            "track_url": "",
+            "id": 9996,
+            "artist": "Abdel Halim Hafez"
+        },
+        {
+            "name": "El Toba - Studio",
+            "release_date": "1954-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273bb7af5417cc8492dcf834e25",
+            "track_url": "",
+            "id": 9997,
+            "artist": "Abdel Halim Hafez"
+        },
+        {
+            "name": "Ma Tesadaqneesh",
+            "release_date": "1954-02-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b273411af3dc654a35d3f67fc718",
+            "track_url": "",
+            "id": 9998,
+            "artist": "Abdel Halim Hafez"
+        },
+        {
+            "name": "El Oyoun Betnageek",
+            "release_date": "1954-02-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b27314ec66eac064f79fdb277bbe",
+            "track_url": "",
+            "id": 9999,
+            "artist": "Abdel Halim Hafez"
+        },
+        {
+            "name": "Ya Moghrameen",
+            "release_date": "1953-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273cc3bdec512258a935b16709b",
+            "track_url": "",
+            "id": 10000,
+            "artist": "Abdel Halim Hafez"
+        },
+        {
+            "name": "Ghanni We Ghanni",
+            "release_date": "1953-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738fc6cc9d0112eebb0246c7d3",
+            "track_url": "",
+            "id": 10001,
+            "artist": "Abdel Halim Hafez"
+        },
+        {
+            "name": "Leih Tahessab al-ayam",
+            "release_date": "1953-03-03",
+            "image": "https://i.scdn.co/image/ab67616d0000b273dfbae75916653ee1e379ffe8",
+            "track_url": "",
+            "id": 10002,
+            "artist": "Abdel Halim Hafez"
+        },
+        {
+            "name": "Rabia shaaer",
+            "release_date": "1953-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734bd91a210bf35ea07947332a",
+            "track_url": "",
+            "id": 10003,
+            "artist": "Abdel Halim Hafez"
+        },
+        {
+            "name": "Habiby Fe Einaya",
+            "release_date": "1952-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739779e4966d9d5dc6178fad73",
+            "track_url": "",
+            "id": 10004,
+            "artist": "Abdel Halim Hafez"
+        },
+        {
+            "name": "habibi fi aeneh",
+            "release_date": "1950-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273bf40cbc06fb12b83751f828a",
+            "track_url": "",
+            "id": 10005,
+            "artist": "Abdel Halim Hafez"
+        },
+        {
+            "name": "Yalli ante ngwa",
+            "release_date": "1950-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27366881d5708c61c31c86edbdc",
+            "track_url": "",
+            "id": 10006,
+            "artist": "Abdel Halim Hafez"
+        },
+        {
+            "name": "Ya waheshni",
+            "release_date": "1950-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273fa865b071ffe87d098e54680",
+            "track_url": "",
+            "id": 10007,
+            "artist": "Abdel Halim Hafez"
+        },
+        {
+            "name": "Ya moghramin",
+            "release_date": "1950-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737e791130de2dd6b721b40e25",
+            "track_url": "",
+            "id": 10008,
+            "artist": "Abdel Halim Hafez"
+        },
+        {
+            "name": "Nedaa al made",
+            "release_date": "1950-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273775803a139531a0b85751995",
+            "track_url": "",
+            "id": 10009,
+            "artist": "Abdel Halim Hafez"
+        },
+        {
+            "name": "Mrkeb al ahlam",
+            "release_date": "1950-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730f80b19eba247fe7f64db58d",
+            "track_url": "",
+            "id": 10010,
+            "artist": "Abdel Halim Hafez"
+        },
+        {
+            "name": "Ma tsdakesh",
+            "release_date": "1950-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ab4d4f7cc56f372e9aff763a",
+            "track_url": "",
+            "id": 10011,
+            "artist": "Abdel Halim Hafez"
+        },
+        {
+            "name": "Lecaa",
+            "release_date": "1950-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27371653593491b1154dd98bf0b",
+            "track_url": "",
+            "id": 10012,
+            "artist": "Abdel Halim Hafez"
+        },
+        {
+            "name": "Hl al rabea",
+            "release_date": "1950-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273225fabe17d6ae39c8c6c6849",
+            "track_url": "",
+            "id": 10013,
+            "artist": "Abdel Halim Hafez"
+        },
+        {
+            "name": "Ghani ghani",
+            "release_date": "1950-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737997dfeb6e7718e8aa50d27f",
+            "track_url": "",
+            "id": 10014,
+            "artist": "Abdel Halim Hafez"
+        },
+        {
+            "name": "Fi secon al lalil",
+            "release_date": "1950-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739c053be044c99b4eec120cd1",
+            "track_url": "",
+            "id": 10015,
+            "artist": "Abdel Halim Hafez"
+        },
+        {
+            "name": "Farhetna ya hanana",
+            "release_date": "1950-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737cbc7c4f80500c1c5b6612b2",
+            "track_url": "",
+            "id": 10016,
+            "artist": "Abdel Halim Hafez"
+        },
+        {
+            "name": "Enshodt al hiah",
+            "release_date": "1950-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27392b0c010b6fb886544810378",
+            "track_url": "",
+            "id": 10017,
+            "artist": "Abdel Halim Hafez"
+        },
+        {
+            "name": "Bdlty Al Zarcaa",
+            "release_date": "1950-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739071c4b6a2f71ed13e09f116",
+            "track_url": "",
+            "id": 10018,
+            "artist": "Abdel Halim Hafez"
+        },
+        {
+            "name": "Asel Nakhel",
+            "release_date": "1950-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736afcfce29c1bd6e55fb4a85e",
+            "track_url": "",
+            "id": 10019,
+            "artist": "Abdel Halim Hafez"
+        },
+        {
+            "name": "Algadwl",
+            "release_date": "1950-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27318dc2b9f27c06f38665e5f3e",
+            "track_url": "",
+            "id": 10020,
+            "artist": "Abdel Halim Hafez"
+        },
+        {
+            "name": "Alasel Al Zhbie",
+            "release_date": "1950-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739eb304e291f10c6a53d049ed",
+            "track_url": "",
+            "id": 10021,
+            "artist": "Abdel Halim Hafez"
+        },
+        {
+            "name": "Al Cornfl",
+            "release_date": "1950-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734a7e3f0b59c1e2d6a65c58b3",
+            "track_url": "",
+            "id": 10022,
+            "artist": "Abdel Halim Hafez"
+        }
+    ],
+    "popular_tracks": [
+        {
+            "name": "Ahwak",
+            "track_url": "",
+            "duration_ms": 298292,
+            "image": "https://i.scdn.co/image/ab67616d0000b2734a2b05f0da79333ab7dbc670",
+            "id": 10023,
+            "artist": "Abdel Halim Hafez"
+        },
+        {
+            "name": "Awel Marra",
+            "track_url": "",
+            "duration_ms": 219599,
+            "image": "https://i.scdn.co/image/ab67616d0000b273b872acfc46cc93fa62557b2d",
+            "id": 10024,
+            "artist": "Abdel Halim Hafez"
+        },
+        {
+            "name": "Ala Hasab Wedad Live Record",
+            "track_url": "",
+            "duration_ms": 626743,
+            "image": "https://i.scdn.co/image/ab67616d0000b273895abbccb254f03d7c881521",
+            "id": 10025,
+            "artist": "Abdel Halim Hafez"
+        },
+        {
+            "name": "Gana El Hawa",
+            "track_url": "",
+            "duration_ms": 678675,
+            "image": "https://i.scdn.co/image/ab67616d0000b2739c8f212c14d9e5ff9d16da3a",
+            "id": 10026,
+            "artist": "Abdel Halim Hafez"
+        },
+        {
+            "name": "Zay El Hawa Live",
+            "track_url": "",
+            "duration_ms": 2315733,
+            "image": "https://i.scdn.co/image/ab67616d0000b273376d80c4b6c7516dde71c95b",
+            "id": 10027,
+            "artist": "Abdel Halim Hafez"
+        },
+        {
+            "name": "Toba",
+            "track_url": "",
+            "duration_ms": 353026,
+            "image": "https://i.scdn.co/image/ab67616d0000b2734a2b05f0da79333ab7dbc670",
+            "id": 10028,
+            "artist": "Abdel Halim Hafez"
+        },
+        {
+            "name": "Betlomouny Leih",
+            "track_url": "",
+            "duration_ms": 509114,
+            "image": "https://i.scdn.co/image/ab67616d0000b2731f1f618e0ccf7d9bedf08b01",
+            "id": 10029,
+            "artist": "Abdel Halim Hafez"
+        },
+        {
+            "name": "Ana Lak Ala Toul",
+            "track_url": "",
+            "duration_ms": 417133,
+            "image": "https://i.scdn.co/image/ab67616d0000b2734a2b05f0da79333ab7dbc670",
+            "id": 10030,
+            "artist": "Abdel Halim Hafez"
+        },
+        {
+            "name": "Qareat Al Fengan",
+            "track_url": "",
+            "duration_ms": 2609133,
+            "image": "https://i.scdn.co/image/ab67616d0000b2738015b5918f373b0e7c448b89",
+            "id": 10031,
+            "artist": "Abdel Halim Hafez"
+        },
+        {
+            "name": "Ala Hesb Wedad Live",
+            "track_url": "",
+            "duration_ms": 636513,
+            "image": "https://i.scdn.co/image/ab67616d0000b273afecd527e32e14f1244e59d6",
+            "id": 10032,
+            "artist": "Abdel Halim Hafez"
+        }
+    ]
+}

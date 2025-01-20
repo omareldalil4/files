@@ -1,0 +1,279 @@
+{
+    "artist": {
+        "id": "7763",
+        "name": "Sharnouby",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb3aec43ce6f7a5873e6b7a3d2",
+        "background_image": "https://i.scdn.co/image/ab676161000051743aec43ce6f7a5873e6b7a3d2"
+    },
+    "albums": [
+        {
+            "name": "Zy ElFosol Elarba3a",
+            "release_date": "2020-04-09",
+            "image": "https://artwork.anghcdn.co/webp/?id=76648681&size=296",
+            "track_url": "https://open.spotify.com/album/4L8Q0086q4Pl85gxwopQO5",
+            "tracks": [
+                {
+                    "name": "Aadi We Berahtak",
+                    "track_url": "",
+                    "duration_ms": 182791,
+                    "image": "https://artwork.anghcdn.co/webp/?id=76648681&size=296",
+                    "id": 858,
+                    "artist": "Sharnouby"
+                },
+                {
+                    "name": "ElBent Elly Enta Bethlaam Behaa",
+                    "track_url": "https://www.dropbox.com/scl/fi/zq5rxj7cjzw9ubz2x59j9/02-ElBent.Elly.Enta.Bethlaam-MaTb3aa.Com.mp3?rlkey=4wpyjyxuarik7kaigy7r27dbm&st=vizlyemf&dl=1",
+                    "duration_ms": 182791,
+                    "image": "https://artwork.anghcdn.co/webp/?id=76648681&size=296",
+                    "id": 859,
+                    "artist": "Sharnouby"
+                },
+                {
+                    "name": "Heta Men ElKhayal",
+                    "track_url": "https://www.dropbox.com/scl/fi/kqnjw5an9poh0diu8raar/03-Heta.Men.ElKhayal-MaTb3aa.Com.mp3?rlkey=wiv6uqyk1uscww25mek337xom&st=sv6fwfzx&dl=1",
+                    "duration_ms": 182791,
+                    "image": "https://artwork.anghcdn.co/webp/?id=76648681&size=296",
+                    "id": 860,
+                    "artist": "Sharnouby"
+                },
+                {
+                    "name": "Khalani Baieedt",
+                    "track_url": "https://www.dropbox.com/scl/fi/4r9rfoditusg9dyqlicxm/04-Khalani.Baieedt-MaTb3aa.Com.mp3?rlkey=8tezw26vgmxfe18mw0wsm5p12&st=0k0k8vxj&dl=1",
+                    "duration_ms": 182791,
+                    "image": "https://artwork.anghcdn.co/webp/?id=76648681&size=296",
+                    "id": 861,
+                    "artist": "Sharnouby"
+                },
+                {
+                    "name": "Mafesh Daiey",
+                    "track_url": "https://www.dropbox.com/scl/fi/0utq8qfmqcarr3j7loefr/05-Mafesh.Daiey-MaTb3aa.Com.mp3?rlkey=fr3q1fuv3gcg92m6xm5j01abm&st=pf53yw4m&dl=1",
+                    "duration_ms": 182791,
+                    "image": "https://artwork.anghcdn.co/webp/?id=76648681&size=296",
+                    "id": 863,
+                    "artist": "Sharnouby"
+                },
+                {
+                    "name": "Neqoul Mabrouk",
+                    "track_url": "https://www.dropbox.com/scl/fi/e6ajf2acpzy6o7y3ginbt/06-Neqoul.Mabrouk-MaTb3aa.Com.mp3?rlkey=1zjt3odjm2lk6azq1jo7lix3z&st=r7o8zi4o&dl=1",
+                    "duration_ms": 182791,
+                    "image": "https://artwork.anghcdn.co/webp/?id=76648681&size=296",
+                    "id": 864,
+                    "artist": "Sharnouby"
+                },
+                {
+                    "name": "Zay ElAada",
+                    "track_url": "https://www.dropbox.com/scl/fi/4zl5fs7buwlr466gw845y/07-Zay.ElAada-MaTb3aa.Com.mp3?rlkey=i1y94nmbh15izra07741syq45&st=x1sdev1v&dl=1",
+                    "duration_ms": 182791,
+                    "image": "https://artwork.anghcdn.co/webp/?id=76648681&size=296",
+                    "id": 865,
+                    "artist": "Sharnouby"
+                },
+                {
+                    "name": "Zay ElFesoul ElArbaa",
+                    "track_url": "https://www.dropbox.com/scl/fi/o4orizyot96ygp8p72waw/08-Zay.ElFesoul.ElArbaa-MaTb3aa.Com.mp3?rlkey=uch36q69uz0m3rxz7q43m1prd&st=psyosqk6&dl=1",
+                    "duration_ms": 182791,
+                    "image": "https://artwork.anghcdn.co/webp/?id=76648681&size=296",
+                    "id": 866,
+                    "artist": "Sharnouby"
+                },
+                {
+                    "name": "Baqawi Alby",
+                    "track_url": "https://www.dropbox.com/scl/fi/dh9wsvv0iuu6fodlilydv/09-Baqawi.Alby-MaTb3aa.Com.mp3?rlkey=r7x812no3bzw9um980bc1i978&st=secdkcaa&dl=1",
+                    "duration_ms": 182791,
+                    "image": "https://artwork.anghcdn.co/webp/?id=76648681&size=296",
+                    "id": 867,
+                    "artist": "Sharnouby"
+                },
+                {
+                    "name": "Sabah ElSabbah",
+                    "track_url": "https://www.dropbox.com/scl/fi/9pr4qmry7v1ro8wtxop97/10-Sabah.ElSabbah-MaTb3aa.Com.mp3?rlkey=l8rozyf19lxnbyl7zonkgri38&st=xaym9yib&dl=1",
+                    "duration_ms": 182791,
+                    "image": "https://artwork.anghcdn.co/webp/?id=76648681&size=296",
+                    "id": 862,
+                    "artist": "Sharnouby"
+                }
+            ],
+            "id": 857
+        }
+    ],
+    "singles": [
+        {
+            "name": "Haflet 9",
+            "release_date": "2024-11-17",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737d5c2a9ae779116e82de6e5a",
+            "track_url": "https://www.dropbox.com/scl/fi/bsk2ri8puad98zag2jm78/9.mp3?rlkey=9ohzdjenfj7wqtoajo7z7obsm&st=d2carduy&dl=1",
+            "id": 7764,
+            "artist": "Sharnouby"
+        },
+        {
+            "name": "Alby",
+            "release_date": "2024-10-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b27325f69285d2b5d41b59d5a284",
+            "track_url": "https://www.dropbox.com/scl/fi/ylkicx3l0a38jf5coqxlw/.mp3?rlkey=xbgvd27dswomzl8jdqjgq45s0&st=e85yocb0&dl=1",
+            "id": 7765,
+            "artist": "Sharnouby"
+        },
+        {
+            "name": "Hali",
+            "release_date": "2024-09-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b27326744bd2151571981afc0473",
+            "track_url": "https://www.dropbox.com/scl/fi/llu4rnhfgxosxtaz241yj/.mp3?rlkey=hf2yk9j5rm8cpson9xurd3wtg&st=pal25vy6&dl=1",
+            "id": 7766,
+            "artist": "Sharnouby"
+        },
+        {
+            "name": "Maleket Zamanek",
+            "release_date": "2024-09-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b273009c5d1e873e6456cf1ec6f0",
+            "track_url": "https://www.dropbox.com/scl/fi/00krfl5e0ju62a464oapp/.mp3?rlkey=v5myfcb7ysqs8i034fpwlt9d0&st=ostq2ocp&dl=1",
+            "id": 7767,
+            "artist": "Sharnouby"
+        },
+        {
+            "name": "Estaghnena",
+            "release_date": "2024-06-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b273370cba6891908c873a3fcebc",
+            "track_url": "https://www.dropbox.com/scl/fi/yk6np0fs8o08nbqe3f5zl/.mp3?rlkey=7tn6yrbhahas20cczgugca2ik&st=xai3x1oy&dl=1",
+            "id": 7768,
+            "artist": "Sharnouby"
+        },
+        {
+            "name": "Ala Babak Geet",
+            "release_date": "2024-03-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b27312e4eb7800445b442b78b9ed",
+            "track_url": "https://www.dropbox.com/scl/fi/autil94wgtfjhzw3fm64n/Ala.Babak.Geet-Sharnouby-MaTb3aa.Com.mp3?rlkey=nnwjiussvttc2z653c28x5htr&st=uqlv09cp&dl=1",
+            "id": 7769,
+            "artist": "Sharnouby"
+        },
+        {
+            "name": "Ma Kefaya",
+            "release_date": "2024-01-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730799f9ecd634c6d73deda2e5",
+            "track_url": "https://www.dropbox.com/scl/fi/iuhkux1o3au9i1bcnouqf/.mp3?rlkey=f1vsx8pqzr85hgv9lw4vy1527&st=ce2fan7x&dl=1",
+            "id": 7771,
+            "artist": "Sharnouby"
+        },
+        {
+            "name": "Kan Nefsi",
+            "release_date": "2024-01-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b27310c61585dc9a8748b443d4b7",
+            "track_url": "https://www.dropbox.com/scl/fi/2yqsrxzb33l91nid1w454/.mp3?rlkey=wcnubr0cr7945wlb97jbvtqd7&st=pxsa88lc&dl=1",
+            "id": 7772,
+            "artist": "Sharnouby"
+        },
+        {
+            "name": "إنتي الحياه (إيجار قديم)",
+            "release_date": "2022-12-06",
+            "image": "https://i.scdn.co/image/ab67616d0000b273be3aab43c8f4a11d35d6cb02",
+            "track_url": "https://www.dropbox.com/scl/fi/e0yjxptvfmltw6la0ezvp/.mp3?rlkey=lr3dg36alzniy3rd7gztjb2tg&st=2xdr5gaz&dl=1",
+            "id": 7775,
+            "artist": "Sharnouby"
+        },
+        {
+            "name": "أمانة عليك",
+            "release_date": "2022-11-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b273bdfc4493002d27add64b0540",
+            "track_url": "https://www.dropbox.com/scl/fi/hewt7hwcxc8v5t61q8y0p/.mp3?rlkey=awas8hcruout3h5yhywx4bcyq&st=r2cfai0d&dl=1",
+            "id": 7777,
+            "artist": "Sharnouby"
+        },
+        {
+            "name": "Eh El Lazaza Di",
+            "release_date": "2021-08-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b273cb78adfd08103da64574351a",
+            "track_url": "https://www.dropbox.com/scl/fi/2d0zrwltu05kda7w8qknj/.mp3?rlkey=ervqpey3ijr3ckb6x2pyk455s&st=6hvygabx&dl=1",
+            "id": 7778,
+            "artist": "Sharnouby"
+        },
+        {
+            "name": "Alby Ertah",
+            "release_date": "2021-06-29",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736f73677b252facbe1a850944",
+            "track_url": "https://www.dropbox.com/scl/fi/yudkn9hzun9dtaw21926g/.mp3?rlkey=66yoanb5gy3vq3rrayl608qb7&st=pzezkkrl&dl=1",
+            "id": 7779,
+            "artist": "Sharnouby"
+        },
+        {
+            "name": "Ahlamna",
+            "release_date": "2020-01-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b273af0d09105ad504883e7962bf",
+            "track_url": "https://www.dropbox.com/scl/fi/t1j329uy8szwnhc4d0hhp/.mp3?rlkey=6g1crh9cuocw7pjnsn22mbhd1&st=s9h9bnki&dl=1",
+            "id": 7781,
+            "artist": "Sharnouby"
+        }
+    ],
+    "popular_tracks": [
+        {
+            "name": "Alby Ertah",
+            "release_date": "2021-06-29",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736f73677b252facbe1a850944",
+            "track_url": "https://www.dropbox.com/scl/fi/yudkn9hzun9dtaw21926g/.mp3?rlkey=66yoanb5gy3vq3rrayl608qb7&st=pzezkkrl&dl=1",
+            "id": 7779,
+            "artist": "Sharnouby"
+        },
+        {
+            "name": "أمانة عليك",
+            "release_date": "2022-11-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b273bdfc4493002d27add64b0540",
+            "track_url": "https://www.dropbox.com/scl/fi/hewt7hwcxc8v5t61q8y0p/.mp3?rlkey=awas8hcruout3h5yhywx4bcyq&st=r2cfai0d&dl=1",
+            "id": 7777,
+            "artist": "Sharnouby"
+        },
+        {
+            "name": "إنتي الحياه (إيجار قديم)",
+            "release_date": "2022-12-06",
+            "image": "https://i.scdn.co/image/ab67616d0000b273be3aab43c8f4a11d35d6cb02",
+            "track_url": "https://www.dropbox.com/scl/fi/e0yjxptvfmltw6la0ezvp/.mp3?rlkey=lr3dg36alzniy3rd7gztjb2tg&st=2xdr5gaz&dl=1",
+            "id": 7775,
+            "artist": "Sharnouby"
+        },
+        {
+            "name": "Alby",
+            "release_date": "2024-10-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b27325f69285d2b5d41b59d5a284",
+            "track_url": "https://www.dropbox.com/scl/fi/ylkicx3l0a38jf5coqxlw/.mp3?rlkey=xbgvd27dswomzl8jdqjgq45s0&st=e85yocb0&dl=1",
+            "id": 7765,
+            "artist": "Sharnouby"
+        },
+        {
+            "name": "Haflet 9",
+            "release_date": "2024-11-17",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737d5c2a9ae779116e82de6e5a",
+            "track_url": "https://www.dropbox.com/scl/fi/bsk2ri8puad98zag2jm78/9.mp3?rlkey=9ohzdjenfj7wqtoajo7z7obsm&st=d2carduy&dl=1",
+            "id": 7764,
+            "artist": "Sharnouby"
+        },
+        {
+            "name": "Ma Kefaya",
+            "release_date": "2024-01-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730799f9ecd634c6d73deda2e5",
+            "track_url": "https://www.dropbox.com/scl/fi/iuhkux1o3au9i1bcnouqf/.mp3?rlkey=f1vsx8pqzr85hgv9lw4vy1527&st=ce2fan7x&dl=1",
+            "id": 7771,
+            "artist": "Sharnouby"
+        },
+        {
+            "name": "Maleket Zamanek",
+            "release_date": "2024-09-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b273009c5d1e873e6456cf1ec6f0",
+            "track_url": "https://www.dropbox.com/scl/fi/00krfl5e0ju62a464oapp/.mp3?rlkey=v5myfcb7ysqs8i034fpwlt9d0&st=ostq2ocp&dl=1",
+            "id": 7767,
+            "artist": "Sharnouby"
+        },
+        {
+            "name": "Hali",
+            "release_date": "2024-09-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b27326744bd2151571981afc0473",
+            "track_url": "https://www.dropbox.com/scl/fi/llu4rnhfgxosxtaz241yj/.mp3?rlkey=hf2yk9j5rm8cpson9xurd3wtg&st=pal25vy6&dl=1",
+            "id": 7766,
+            "artist": "Sharnouby"
+        },
+        {
+            "name": "Estaghnena",
+            "release_date": "2024-06-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b273370cba6891908c873a3fcebc",
+            "track_url": "https://www.dropbox.com/scl/fi/yk6np0fs8o08nbqe3f5zl/.mp3?rlkey=7tn6yrbhahas20cczgugca2ik&st=xai3x1oy&dl=1",
+            "id": 7768,
+            "artist": "Sharnouby"
+        }
+    ]
+}

@@ -1,0 +1,896 @@
+{
+    "artist": {
+        "id": "4139",
+        "name": "Abdelbaset Hamouda",
+        "image": "https://i.scdn.co/image/ab67616d0000b273d39f6009589a575600a53adc",
+        "background_image": "https://i.scdn.co/image/ab67616d00001e02d39f6009589a575600a53adc"
+    },
+    "albums": [
+        {
+            "name": "Sebony",
+            "release_date": "2019-01-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b1742871ea716bdfcf96eaeb",
+            "track_url": "https://open.spotify.com/album/1CK7xkmdlsYXFrVv71aq5O",
+            "tracks": [
+                {
+                    "name": "Sebony",
+                    "track_url": "",
+                    "duration_ms": 468009,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b1742871ea716bdfcf96eaeb",
+                    "id": 4141,
+                    "artist": "Abdelbaset Hamouda"
+                },
+                {
+                    "name": "Ayez Had Ydalany",
+                    "track_url": "",
+                    "duration_ms": 373185,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b1742871ea716bdfcf96eaeb",
+                    "id": 4142,
+                    "artist": "Abdelbaset Hamouda"
+                },
+                {
+                    "name": "Msh Ayez Had Ygeney",
+                    "track_url": "",
+                    "duration_ms": 518112,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b1742871ea716bdfcf96eaeb",
+                    "id": 4143,
+                    "artist": "Abdelbaset Hamouda"
+                },
+                {
+                    "name": "Habibi Kolo Hanan",
+                    "track_url": "",
+                    "duration_ms": 529084,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b1742871ea716bdfcf96eaeb",
+                    "id": 4144,
+                    "artist": "Abdelbaset Hamouda"
+                },
+                {
+                    "name": "Bah",
+                    "track_url": "",
+                    "duration_ms": 368666,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b1742871ea716bdfcf96eaeb",
+                    "id": 4145,
+                    "artist": "Abdelbaset Hamouda"
+                },
+                {
+                    "name": "Feen Omri",
+                    "track_url": "",
+                    "duration_ms": 435853,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b1742871ea716bdfcf96eaeb",
+                    "id": 4146,
+                    "artist": "Abdelbaset Hamouda"
+                },
+                {
+                    "name": "Mesh Qader",
+                    "track_url": "",
+                    "duration_ms": 493244,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b1742871ea716bdfcf96eaeb",
+                    "id": 4147,
+                    "artist": "Abdelbaset Hamouda"
+                },
+                {
+                    "name": "Garah Eih Ya Zaman",
+                    "track_url": "",
+                    "duration_ms": 575686,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b1742871ea716bdfcf96eaeb",
+                    "id": 4148,
+                    "artist": "Abdelbaset Hamouda"
+                }
+            ],
+            "id": 4140
+        },
+        {
+            "name": "Salefny Dehketak",
+            "release_date": "2019-01-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730d2df02e1275a2dc4a4da393",
+            "track_url": "https://open.spotify.com/album/3Zd1elKKTeiTvCbNbWg0BY",
+            "tracks": [
+                {
+                    "name": "Esmaholy",
+                    "track_url": "",
+                    "duration_ms": 306155,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730d2df02e1275a2dc4a4da393",
+                    "id": 4150,
+                    "artist": "Abdelbaset Hamouda"
+                },
+                {
+                    "name": "Salefny Dehketak",
+                    "track_url": "",
+                    "duration_ms": 313701,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730d2df02e1275a2dc4a4da393",
+                    "id": 4151,
+                    "artist": "Abdelbaset Hamouda"
+                },
+                {
+                    "name": "El Gaw Hady",
+                    "track_url": "",
+                    "duration_ms": 256045,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730d2df02e1275a2dc4a4da393",
+                    "id": 4152,
+                    "artist": "Abdelbaset Hamouda"
+                },
+                {
+                    "name": "Alamat Al Qiyamah",
+                    "track_url": "",
+                    "duration_ms": 428756,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730d2df02e1275a2dc4a4da393",
+                    "id": 4153,
+                    "artist": "Abdelbaset Hamouda"
+                },
+                {
+                    "name": "Adfa Nos Omry",
+                    "track_url": "",
+                    "duration_ms": 346348,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730d2df02e1275a2dc4a4da393",
+                    "id": 4154,
+                    "artist": "Abdelbaset Hamouda"
+                },
+                {
+                    "name": "Nefsy Ya Alam",
+                    "track_url": "",
+                    "duration_ms": 303438,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730d2df02e1275a2dc4a4da393",
+                    "id": 4155,
+                    "artist": "Abdelbaset Hamouda"
+                },
+                {
+                    "name": "Mahadesh Yeoly",
+                    "track_url": "",
+                    "duration_ms": 268283,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730d2df02e1275a2dc4a4da393",
+                    "id": 4156,
+                    "artist": "Abdelbaset Hamouda"
+                },
+                {
+                    "name": "ElDonya Garalha Eah",
+                    "track_url": "",
+                    "duration_ms": 404421,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730d2df02e1275a2dc4a4da393",
+                    "id": 4157,
+                    "artist": "Abdelbaset Hamouda"
+                }
+            ],
+            "id": 4149
+        },
+        {
+            "name": "Qadary",
+            "release_date": "2019-01-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739f53da7d61f7fefd49351ec6",
+            "track_url": "https://open.spotify.com/album/3AHI3sNkamQ6B9s2xGT3i1",
+            "tracks": [
+                {
+                    "name": "Lazem Ahgorak",
+                    "track_url": "",
+                    "duration_ms": 279797,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739f53da7d61f7fefd49351ec6",
+                    "id": 4159,
+                    "artist": "Abdelbaset Hamouda"
+                },
+                {
+                    "name": "En Olt Ah",
+                    "track_url": "",
+                    "duration_ms": 286223,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739f53da7d61f7fefd49351ec6",
+                    "id": 4160,
+                    "artist": "Abdelbaset Hamouda"
+                },
+                {
+                    "name": "Baa Keda",
+                    "track_url": "",
+                    "duration_ms": 281286,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739f53da7d61f7fefd49351ec6",
+                    "id": 4161,
+                    "artist": "Abdelbaset Hamouda"
+                },
+                {
+                    "name": "Qadary",
+                    "track_url": "",
+                    "duration_ms": 323761,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739f53da7d61f7fefd49351ec6",
+                    "id": 4162,
+                    "artist": "Abdelbaset Hamouda"
+                },
+                {
+                    "name": "Wala Kelma",
+                    "track_url": "",
+                    "duration_ms": 267520,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739f53da7d61f7fefd49351ec6",
+                    "id": 4163,
+                    "artist": "Abdelbaset Hamouda"
+                },
+                {
+                    "name": "Ah Men El Zaman",
+                    "track_url": "",
+                    "duration_ms": 328359,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739f53da7d61f7fefd49351ec6",
+                    "id": 4164,
+                    "artist": "Abdelbaset Hamouda"
+                },
+                {
+                    "name": "Mesh Farqa",
+                    "track_url": "",
+                    "duration_ms": 272953,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739f53da7d61f7fefd49351ec6",
+                    "id": 4165,
+                    "artist": "Abdelbaset Hamouda"
+                },
+                {
+                    "name": "Mawal Hayati",
+                    "track_url": "",
+                    "duration_ms": 492878,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739f53da7d61f7fefd49351ec6",
+                    "id": 4166,
+                    "artist": "Abdelbaset Hamouda"
+                }
+            ],
+            "id": 4158
+        },
+        {
+            "name": "Layali",
+            "release_date": "2019-01-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b273bbac71a23a119a696a3a282f",
+            "track_url": "https://open.spotify.com/album/1xpsRJcPkdVmVbzs5pJ6Sv",
+            "tracks": [
+                {
+                    "name": "Toqol Mtqolsh",
+                    "track_url": "",
+                    "duration_ms": 334236,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bbac71a23a119a696a3a282f",
+                    "id": 4168,
+                    "artist": "Abdelbaset Hamouda"
+                },
+                {
+                    "name": "Malo",
+                    "track_url": "",
+                    "duration_ms": 232803,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bbac71a23a119a696a3a282f",
+                    "id": 4169,
+                    "artist": "Abdelbaset Hamouda"
+                },
+                {
+                    "name": "Saaban Alaya",
+                    "track_url": "",
+                    "duration_ms": 298161,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bbac71a23a119a696a3a282f",
+                    "id": 4170,
+                    "artist": "Abdelbaset Hamouda"
+                },
+                {
+                    "name": "Layali",
+                    "track_url": "",
+                    "duration_ms": 513280,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bbac71a23a119a696a3a282f",
+                    "id": 4171,
+                    "artist": "Abdelbaset Hamouda"
+                },
+                {
+                    "name": "Meen Da",
+                    "track_url": "",
+                    "duration_ms": 284995,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bbac71a23a119a696a3a282f",
+                    "id": 4172,
+                    "artist": "Abdelbaset Hamouda"
+                },
+                {
+                    "name": "Bokra Hatendam",
+                    "track_url": "",
+                    "duration_ms": 295706,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bbac71a23a119a696a3a282f",
+                    "id": 4173,
+                    "artist": "Abdelbaset Hamouda"
+                },
+                {
+                    "name": "Ma Tqolena",
+                    "track_url": "",
+                    "duration_ms": 249234,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bbac71a23a119a696a3a282f",
+                    "id": 4174,
+                    "artist": "Abdelbaset Hamouda"
+                },
+                {
+                    "name": "Seboni Abki",
+                    "track_url": "",
+                    "duration_ms": 574040,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bbac71a23a119a696a3a282f",
+                    "id": 4175,
+                    "artist": "Abdelbaset Hamouda"
+                }
+            ],
+            "id": 4167
+        },
+        {
+            "name": "Kolak Agebny",
+            "release_date": "2019-01-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b6f8ab683aebbf1cbef0b85e",
+            "track_url": "https://open.spotify.com/album/7bDP2wd3ijXZIARnkpOWMm",
+            "tracks": [
+                {
+                    "name": "Kolak Agebny",
+                    "track_url": "",
+                    "duration_ms": 384104,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b6f8ab683aebbf1cbef0b85e",
+                    "id": 4177,
+                    "artist": "Abdelbaset Hamouda"
+                },
+                {
+                    "name": "Ah Yani Ya Albi",
+                    "track_url": "",
+                    "duration_ms": 336404,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b6f8ab683aebbf1cbef0b85e",
+                    "id": 4178,
+                    "artist": "Abdelbaset Hamouda"
+                },
+                {
+                    "name": "Elly Yezal Yezal",
+                    "track_url": "",
+                    "duration_ms": 567666,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b6f8ab683aebbf1cbef0b85e",
+                    "id": 4179,
+                    "artist": "Abdelbaset Hamouda"
+                },
+                {
+                    "name": "Eskot Law Samht",
+                    "track_url": "",
+                    "duration_ms": 424855,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b6f8ab683aebbf1cbef0b85e",
+                    "id": 4180,
+                    "artist": "Abdelbaset Hamouda"
+                },
+                {
+                    "name": "Khalas Ertaht",
+                    "track_url": "",
+                    "duration_ms": 451970,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b6f8ab683aebbf1cbef0b85e",
+                    "id": 4181,
+                    "artist": "Abdelbaset Hamouda"
+                },
+                {
+                    "name": "Bosy Cat",
+                    "track_url": "",
+                    "duration_ms": 383399,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b6f8ab683aebbf1cbef0b85e",
+                    "id": 4182,
+                    "artist": "Abdelbaset Hamouda"
+                },
+                {
+                    "name": "Wlad El Gharam",
+                    "track_url": "",
+                    "duration_ms": 464718,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b6f8ab683aebbf1cbef0b85e",
+                    "id": 4183,
+                    "artist": "Abdelbaset Hamouda"
+                },
+                {
+                    "name": "Matsahosh El Mawaga",
+                    "track_url": "",
+                    "duration_ms": 582739,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b6f8ab683aebbf1cbef0b85e",
+                    "id": 4184,
+                    "artist": "Abdelbaset Hamouda"
+                }
+            ],
+            "id": 4176
+        },
+        {
+            "name": "Hafla Magnona",
+            "release_date": "2019-01-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734d6b18cdcb2aef1ed7d1bcc3",
+            "track_url": "https://open.spotify.com/album/3VbmhllFY971MF6cALRjI8",
+            "tracks": [
+                {
+                    "name": "En Aadt Aaod Maak",
+                    "track_url": "",
+                    "duration_ms": 352574,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734d6b18cdcb2aef1ed7d1bcc3",
+                    "id": 4186,
+                    "artist": "Abdelbaset Hamouda"
+                },
+                {
+                    "name": "Yally Fe Baly",
+                    "track_url": "",
+                    "duration_ms": 362161,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734d6b18cdcb2aef1ed7d1bcc3",
+                    "id": 4187,
+                    "artist": "Abdelbaset Hamouda"
+                },
+                {
+                    "name": "Men Hawak",
+                    "track_url": "",
+                    "duration_ms": 407066,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734d6b18cdcb2aef1ed7d1bcc3",
+                    "id": 4188,
+                    "artist": "Abdelbaset Hamouda"
+                },
+                {
+                    "name": "Malo",
+                    "track_url": "",
+                    "duration_ms": 410592,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734d6b18cdcb2aef1ed7d1bcc3",
+                    "id": 4189,
+                    "artist": "Abdelbaset Hamouda"
+                },
+                {
+                    "name": "Ah Ya Alby",
+                    "track_url": "",
+                    "duration_ms": 525244,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734d6b18cdcb2aef1ed7d1bcc3",
+                    "id": 4190,
+                    "artist": "Abdelbaset Hamouda"
+                },
+                {
+                    "name": "Habeby Ya Asal",
+                    "track_url": "",
+                    "duration_ms": 376764,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734d6b18cdcb2aef1ed7d1bcc3",
+                    "id": 4191,
+                    "artist": "Abdelbaset Hamouda"
+                },
+                {
+                    "name": "Yakhti Esmaletein",
+                    "track_url": "",
+                    "duration_ms": 374517,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734d6b18cdcb2aef1ed7d1bcc3",
+                    "id": 4192,
+                    "artist": "Abdelbaset Hamouda"
+                },
+                {
+                    "name": "Enta Etkalemt kteer",
+                    "track_url": "",
+                    "duration_ms": 488411,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734d6b18cdcb2aef1ed7d1bcc3",
+                    "id": 4193,
+                    "artist": "Abdelbaset Hamouda"
+                }
+            ],
+            "id": 4185
+        },
+        {
+            "name": "Geit Ala El Garh",
+            "release_date": "2019-01-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b27364ce5349af3ad91381a8bde5",
+            "track_url": "https://open.spotify.com/album/6QWWgMR1OcQAc2YXUX1rJA",
+            "tracks": [
+                {
+                    "name": "Ana Shary",
+                    "track_url": "",
+                    "duration_ms": 374073,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27364ce5349af3ad91381a8bde5",
+                    "id": 4195,
+                    "artist": "Abdelbaset Hamouda"
+                },
+                {
+                    "name": "Abd El Basset Gai",
+                    "track_url": "",
+                    "duration_ms": 286928,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27364ce5349af3ad91381a8bde5",
+                    "id": 4196,
+                    "artist": "Abdelbaset Hamouda"
+                },
+                {
+                    "name": "Yally Betwhem Nafsak",
+                    "track_url": "",
+                    "duration_ms": 346723,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27364ce5349af3ad91381a8bde5",
+                    "id": 4197,
+                    "artist": "Abdelbaset Hamouda"
+                },
+                {
+                    "name": "Malesh Ya zaman",
+                    "track_url": "",
+                    "duration_ms": 296568,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27364ce5349af3ad91381a8bde5",
+                    "id": 4198,
+                    "artist": "Abdelbaset Hamouda"
+                },
+                {
+                    "name": "Mesh Fadelak",
+                    "track_url": "",
+                    "duration_ms": 366759,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27364ce5349af3ad91381a8bde5",
+                    "id": 4199,
+                    "artist": "Abdelbaset Hamouda"
+                },
+                {
+                    "name": "Eh Mesh Agbak",
+                    "track_url": "",
+                    "duration_ms": 342204,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27364ce5349af3ad91381a8bde5",
+                    "id": 4200,
+                    "artist": "Abdelbaset Hamouda"
+                },
+                {
+                    "name": "Geit Ala El Garh",
+                    "track_url": "",
+                    "duration_ms": 641227,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27364ce5349af3ad91381a8bde5",
+                    "id": 4201,
+                    "artist": "Abdelbaset Hamouda"
+                }
+            ],
+            "id": 4194
+        },
+        {
+            "name": "Delony",
+            "release_date": "2019-01-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b273cf4bcfe62346a9a5ad4453a0",
+            "track_url": "https://open.spotify.com/album/02U3FsNnHm2qXxggwXhrAU",
+            "tracks": [
+                {
+                    "name": "Edeny Albak",
+                    "track_url": "",
+                    "duration_ms": 284995,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cf4bcfe62346a9a5ad4453a0",
+                    "id": 4203,
+                    "artist": "Abdelbaset Hamouda"
+                },
+                {
+                    "name": "Nas",
+                    "track_url": "",
+                    "duration_ms": 371356,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cf4bcfe62346a9a5ad4453a0",
+                    "id": 4204,
+                    "artist": "Abdelbaset Hamouda"
+                },
+                {
+                    "name": "Delony",
+                    "track_url": "",
+                    "duration_ms": 274442,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cf4bcfe62346a9a5ad4453a0",
+                    "id": 4205,
+                    "artist": "Abdelbaset Hamouda"
+                },
+                {
+                    "name": "Andeny",
+                    "track_url": "",
+                    "duration_ms": 244741,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cf4bcfe62346a9a5ad4453a0",
+                    "id": 4206,
+                    "artist": "Abdelbaset Hamouda"
+                },
+                {
+                    "name": "Ah Ya Alby",
+                    "track_url": "",
+                    "duration_ms": 309838,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cf4bcfe62346a9a5ad4453a0",
+                    "id": 4207,
+                    "artist": "Abdelbaset Hamouda"
+                },
+                {
+                    "name": "Ah Mn El Layaly",
+                    "track_url": "",
+                    "duration_ms": 682501,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cf4bcfe62346a9a5ad4453a0",
+                    "id": 4208,
+                    "artist": "Abdelbaset Hamouda"
+                },
+                {
+                    "name": "Yane",
+                    "track_url": "",
+                    "duration_ms": 295810,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cf4bcfe62346a9a5ad4453a0",
+                    "id": 4209,
+                    "artist": "Abdelbaset Hamouda"
+                }
+            ],
+            "id": 4202
+        },
+        {
+            "name": "Darbt Maalem",
+            "release_date": "2019-01-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b054d71a3e01b59146418e17",
+            "track_url": "https://open.spotify.com/album/73dc4gBSKPXVBTY9UTpEsy",
+            "tracks": [
+                {
+                    "name": "Ya Basha",
+                    "track_url": "",
+                    "duration_ms": 411350,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b054d71a3e01b59146418e17",
+                    "id": 4211,
+                    "artist": "Abdelbaset Hamouda"
+                },
+                {
+                    "name": "Ana Mesh Arefny",
+                    "track_url": "",
+                    "duration_ms": 341315,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b054d71a3e01b59146418e17",
+                    "id": 4212,
+                    "artist": "Abdelbaset Hamouda"
+                },
+                {
+                    "name": "Beaklouk Mraba",
+                    "track_url": "",
+                    "duration_ms": 295366,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b054d71a3e01b59146418e17",
+                    "id": 4213,
+                    "artist": "Abdelbaset Hamouda"
+                },
+                {
+                    "name": "Darbt Maalem",
+                    "track_url": "",
+                    "duration_ms": 433005,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b054d71a3e01b59146418e17",
+                    "id": 4214,
+                    "artist": "Abdelbaset Hamouda"
+                },
+                {
+                    "name": "Ya Malemny El Hawa",
+                    "track_url": "",
+                    "duration_ms": 295183,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b054d71a3e01b59146418e17",
+                    "id": 4215,
+                    "artist": "Abdelbaset Hamouda"
+                },
+                {
+                    "name": "Damaety",
+                    "track_url": "",
+                    "duration_ms": 288182,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b054d71a3e01b59146418e17",
+                    "id": 4216,
+                    "artist": "Abdelbaset Hamouda"
+                },
+                {
+                    "name": "Mafesh Shokran",
+                    "track_url": "",
+                    "duration_ms": 317518,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b054d71a3e01b59146418e17",
+                    "id": 4217,
+                    "artist": "Abdelbaset Hamouda"
+                },
+                {
+                    "name": "keset El Khayen",
+                    "track_url": "",
+                    "duration_ms": 588643,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b054d71a3e01b59146418e17",
+                    "id": 4218,
+                    "artist": "Abdelbaset Hamouda"
+                }
+            ],
+            "id": 4210
+        },
+        {
+            "name": "Bedon Montag",
+            "release_date": "2019-01-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b27332beebc041c8d9488b71e796",
+            "track_url": "https://open.spotify.com/album/4nzxA0oxKghEBD6hSWeJL6",
+            "tracks": [
+                {
+                    "name": "Edeny Albak",
+                    "track_url": "",
+                    "duration_ms": 284995,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27332beebc041c8d9488b71e796",
+                    "id": 4220,
+                    "artist": "Abdelbaset Hamouda"
+                },
+                {
+                    "name": "Ya Negma Ya Okht El Amar",
+                    "track_url": "",
+                    "duration_ms": 262687,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27332beebc041c8d9488b71e796",
+                    "id": 4221,
+                    "artist": "Abdelbaset Hamouda"
+                },
+                {
+                    "name": "Kolo Ala Kolo",
+                    "track_url": "",
+                    "duration_ms": 331467,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27332beebc041c8d9488b71e796",
+                    "id": 4222,
+                    "artist": "Abdelbaset Hamouda"
+                },
+                {
+                    "name": "Fozdok Ya Memalah",
+                    "track_url": "",
+                    "duration_ms": 297874,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27332beebc041c8d9488b71e796",
+                    "id": 4223,
+                    "artist": "Abdelbaset Hamouda"
+                },
+                {
+                    "name": "Lazem Ahgorak",
+                    "track_url": "",
+                    "duration_ms": 266501,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27332beebc041c8d9488b71e796",
+                    "id": 4224,
+                    "artist": "Abdelbaset Hamouda"
+                },
+                {
+                    "name": "Ella Da",
+                    "track_url": "",
+                    "duration_ms": 484597,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27332beebc041c8d9488b71e796",
+                    "id": 4225,
+                    "artist": "Abdelbaset Hamouda"
+                },
+                {
+                    "name": "Yally Enta Maak El Mal",
+                    "track_url": "",
+                    "duration_ms": 175464,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27332beebc041c8d9488b71e796",
+                    "id": 4226,
+                    "artist": "Abdelbaset Hamouda"
+                },
+                {
+                    "name": "Goz Wala Fard",
+                    "track_url": "",
+                    "duration_ms": 322507,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27332beebc041c8d9488b71e796",
+                    "id": 4227,
+                    "artist": "Abdelbaset Hamouda"
+                }
+            ],
+            "id": 4219
+        }
+    ],
+    "singles": [
+        {
+            "name": "يومك بيضحك",
+            "release_date": "2024-12-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b273750b02d4f1bbb9494fb6103d",
+            "track_url": "",
+            "id": 4228,
+            "artist": "Abdelbaset Hamouda"
+        },
+        {
+            "name": "3Afareet",
+            "release_date": "2024-08-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b273886db68a181e8e1374349971",
+            "track_url": "",
+            "id": 4229,
+            "artist": "Abdelbaset Hamouda"
+        },
+        {
+            "name": "كرسي اعتراف",
+            "release_date": "2024-06-06",
+            "image": "https://i.scdn.co/image/ab67616d0000b273228bdaae306bb387db177f9d",
+            "track_url": "",
+            "id": 4230,
+            "artist": "Abdelbaset Hamouda"
+        },
+        {
+            "name": "ضرب نار",
+            "release_date": "2023-09-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b273bf4fe1047ba778a7c0534654",
+            "track_url": "",
+            "id": 4231,
+            "artist": "Abdelbaset Hamouda"
+        },
+        {
+            "name": "Khadt Balak",
+            "release_date": "2023-07-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b282c99714bfffaf3341eb2a",
+            "track_url": "",
+            "id": 4232,
+            "artist": "Abdelbaset Hamouda"
+        },
+        {
+            "name": "Fein el de7ka (Shalaby Movie)",
+            "release_date": "2023-01-12",
+            "image": "https://i.scdn.co/image/ab67616d0000b273698a8f35c1b2473575b7f8fc",
+            "track_url": "",
+            "id": 4233,
+            "artist": "Abdelbaset Hamouda"
+        },
+        {
+            "name": "Kolo Mashy",
+            "release_date": "2022-07-16",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731726f6257e271c9ebc9d508a",
+            "track_url": "",
+            "id": 4234,
+            "artist": "Abdelbaset Hamouda"
+        },
+        {
+            "name": "هات فلوس",
+            "release_date": "2022-02-17",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730c1f1a324b89ae29b3939151",
+            "track_url": "",
+            "id": 4235,
+            "artist": "Abdelbaset Hamouda"
+        },
+        {
+            "name": "لما السيجارة تنطفي",
+            "release_date": "2016-05-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27364b0f11ff59790b4a7ee01f0",
+            "track_url": "",
+            "id": 4236,
+            "artist": "Abdelbaset Hamouda"
+        },
+        {
+            "name": "طلقني",
+            "release_date": "2016-05-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739808fc1155a794dd26282955",
+            "track_url": "",
+            "id": 4237,
+            "artist": "Abdelbaset Hamouda"
+        },
+        {
+            "name": "الله يرحمك يا رجوله",
+            "release_date": "2016-05-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736b44bc5bf51ef58b6698a2b8",
+            "track_url": "",
+            "id": 4238,
+            "artist": "Abdelbaset Hamouda"
+        }
+    ],
+    "popular_tracks": [
+        {
+            "name": "El Gaw Hady",
+            "track_url": "",
+            "duration_ms": 256045,
+            "image": "https://i.scdn.co/image/ab67616d0000b2730d2df02e1275a2dc4a4da393",
+            "id": 4239,
+            "artist": "Abdelbaset Hamouda"
+        },
+        {
+            "name": "3Afareet",
+            "track_url": "",
+            "duration_ms": 155407,
+            "image": "https://i.scdn.co/image/ab67616d0000b273886db68a181e8e1374349971",
+            "id": 4240,
+            "artist": "Abdelbaset Hamouda"
+        },
+        {
+            "name": "Ana Mesh Arefny",
+            "track_url": "",
+            "duration_ms": 341315,
+            "image": "https://i.scdn.co/image/ab67616d0000b273b054d71a3e01b59146418e17",
+            "id": 4241,
+            "artist": "Abdelbaset Hamouda"
+        },
+        {
+            "name": "Kolak Agebny",
+            "track_url": "",
+            "duration_ms": 384104,
+            "image": "https://i.scdn.co/image/ab67616d0000b273b6f8ab683aebbf1cbef0b85e",
+            "id": 4242,
+            "artist": "Abdelbaset Hamouda"
+        },
+        {
+            "name": "Esmaholy",
+            "track_url": "",
+            "duration_ms": 306155,
+            "image": "https://i.scdn.co/image/ab67616d0000b2730d2df02e1275a2dc4a4da393",
+            "id": 4243,
+            "artist": "Abdelbaset Hamouda"
+        },
+        {
+            "name": "Ya Malemny El Hawa",
+            "track_url": "",
+            "duration_ms": 295183,
+            "image": "https://i.scdn.co/image/ab67616d0000b273b054d71a3e01b59146418e17",
+            "id": 4244,
+            "artist": "Abdelbaset Hamouda"
+        },
+        {
+            "name": "Edeny Albak",
+            "track_url": "",
+            "duration_ms": 284995,
+            "image": "https://i.scdn.co/image/ab67616d0000b27332beebc041c8d9488b71e796",
+            "id": 4245,
+            "artist": "Abdelbaset Hamouda"
+        },
+        {
+            "name": "Salefny Dehketak",
+            "track_url": "",
+            "duration_ms": 313701,
+            "image": "https://i.scdn.co/image/ab67616d0000b2730d2df02e1275a2dc4a4da393",
+            "id": 4246,
+            "artist": "Abdelbaset Hamouda"
+        },
+        {
+            "name": "Ana Shary",
+            "track_url": "",
+            "duration_ms": 374073,
+            "image": "https://i.scdn.co/image/ab67616d0000b27364ce5349af3ad91381a8bde5",
+            "id": 4247,
+            "artist": "Abdelbaset Hamouda"
+        },
+        {
+            "name": "Bosy Cat",
+            "track_url": "",
+            "duration_ms": 383399,
+            "image": "https://i.scdn.co/image/ab67616d0000b273b6f8ab683aebbf1cbef0b85e",
+            "id": 4248,
+            "artist": "Abdelbaset Hamouda"
+        }
+    ]
+}

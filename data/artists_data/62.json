@@ -1,0 +1,493 @@
+{
+    "artist": {
+        "id": "8417",
+        "name": "Omar Kamal",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb7db872393d6b517ec12d248f",
+        "background_image": "https://i.scdn.co/image/ab676161000051747db872393d6b517ec12d248f"
+    },
+    "albums": [],
+    "singles": [
+        {
+            "name": "إحنا البلد",
+            "release_date": "2024-09-03",
+            "image": "https://i.scdn.co/image/ab67616d0000b273dcf11351b946e18b7d2c266b",
+            "track_url": "",
+            "id": 8418,
+            "artist": "Omar Kamal"
+        },
+        {
+            "name": "قطر جيلك",
+            "release_date": "2024-06-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b27322d87cb80a223573304a48e6",
+            "track_url": "",
+            "id": 8419,
+            "artist": "Omar Kamal"
+        },
+        {
+            "name": "ولاد موت",
+            "release_date": "2024-06-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b423aabf7cfbaf19c8692146",
+            "track_url": "",
+            "id": 8420,
+            "artist": "Omar Kamal"
+        },
+        {
+            "name": "انا بطل السوق",
+            "release_date": "2024-06-06",
+            "image": "https://i.scdn.co/image/ab67616d0000b273bf588a09b076c24c086ed36b",
+            "track_url": "",
+            "id": 8421,
+            "artist": "Omar Kamal"
+        },
+        {
+            "name": "موال أبني",
+            "release_date": "2024-02-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b273525c2938a4c846775b7fe1a4",
+            "track_url": "",
+            "id": 8422,
+            "artist": "Omar Kamal"
+        },
+        {
+            "name": "يا ساتر",
+            "release_date": "2024-02-13",
+            "image": "https://i.scdn.co/image/ab67616d0000b273fb4e256808f88177d102ed49",
+            "track_url": "",
+            "id": 8423,
+            "artist": "Omar Kamal"
+        },
+        {
+            "name": "الساحر",
+            "release_date": "2024-02-12",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b5da1368b114c6737bc33c5c",
+            "track_url": "",
+            "id": 8424,
+            "artist": "Omar Kamal"
+        },
+        {
+            "name": "قصف جبهة",
+            "release_date": "2024-02-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739e23fb13c6cf7851a69f02b7",
+            "track_url": "",
+            "id": 8425,
+            "artist": "Omar Kamal"
+        },
+        {
+            "name": "صباحك فل",
+            "release_date": "2023-10-05",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737f3e4fa1cd532e9cb4c988c2",
+            "track_url": "",
+            "id": 8426,
+            "artist": "Omar Kamal"
+        },
+        {
+            "name": "انتي غلطة",
+            "release_date": "2023-09-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b27377350dca3deaddedb7bd1cb7",
+            "track_url": "",
+            "id": 8427,
+            "artist": "Omar Kamal"
+        },
+        {
+            "name": "في داهية",
+            "release_date": "2023-08-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b273db3a81379595afaf170f78ee",
+            "track_url": "",
+            "id": 8428,
+            "artist": "Omar Kamal"
+        },
+        {
+            "name": "انتي الترند (لفيت العالم)",
+            "release_date": "2023-08-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b009eae90fa04ed66b6abf3e",
+            "track_url": "",
+            "id": 8429,
+            "artist": "Omar Kamal"
+        },
+        {
+            "name": "السخان",
+            "release_date": "2023-07-26",
+            "image": "https://i.scdn.co/image/ab67616d0000b27339f1839d3bae24169b3a8a39",
+            "track_url": "",
+            "id": 8430,
+            "artist": "Omar Kamal"
+        },
+        {
+            "name": "موال اللعب ع الربحانة",
+            "release_date": "2023-07-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ad06aa75d2d408045047f630",
+            "track_url": "",
+            "id": 8431,
+            "artist": "Omar Kamal"
+        },
+        {
+            "name": "يا بيبي",
+            "release_date": "2023-06-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273926956d9b6b6ae060dd417c8",
+            "track_url": "",
+            "id": 8432,
+            "artist": "Omar Kamal"
+        },
+        {
+            "name": "يوهمك انك أمانه (تتر مسلسل مشوار الونش)",
+            "release_date": "2023-02-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736a6ba0ddaa9a4090a611cb11",
+            "track_url": "",
+            "id": 8433,
+            "artist": "Omar Kamal"
+        },
+        {
+            "name": "النجمة البعيدة",
+            "release_date": "2023-02-12",
+            "image": "https://i.scdn.co/image/ab67616d0000b27316245a00e9e863c675545056",
+            "track_url": "",
+            "id": 8434,
+            "artist": "Omar Kamal"
+        },
+        {
+            "name": "هجوم فجائي",
+            "release_date": "2022-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273dc27bfa83637b995625313f7",
+            "track_url": "",
+            "id": 8435,
+            "artist": "Omar Kamal"
+        },
+        {
+            "name": "اختي السند",
+            "release_date": "2022-12-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736786be028849fd7c73715ce5",
+            "track_url": "",
+            "id": 8436,
+            "artist": "Omar Kamal"
+        },
+        {
+            "name": "يحكي عن حال الناس",
+            "release_date": "2022-11-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b27396cd13bd4bb421693d7cd55e",
+            "track_url": "",
+            "id": 8437,
+            "artist": "Omar Kamal"
+        },
+        {
+            "name": "أنا منكو بعمل رجاله",
+            "release_date": "2022-10-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732bc3bdfe2b953a4f957671f4",
+            "track_url": "",
+            "id": 8438,
+            "artist": "Omar Kamal"
+        },
+        {
+            "name": "خلينا سهرانين",
+            "release_date": "2022-09-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b273226fe4f813e32cad28217dff",
+            "track_url": "",
+            "id": 8439,
+            "artist": "Omar Kamal"
+        },
+        {
+            "name": "اليوم يومك (من فيلم \"خطة مازنجر\")",
+            "release_date": "2022-08-22",
+            "image": "https://i.scdn.co/image/ab67616d0000b273cc2fdf1d2251b58faaa1fc29",
+            "track_url": "",
+            "id": 8440,
+            "artist": "Omar Kamal"
+        },
+        {
+            "name": "حلوين",
+            "release_date": "2022-07-14",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e3d1176e66023004ce6b6ee9",
+            "track_url": "",
+            "id": 8441,
+            "artist": "Omar Kamal"
+        },
+        {
+            "name": "أوبريت ست عظيمة",
+            "release_date": "2022-03-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b27398c318ba444aa2d26af0ad41",
+            "track_url": "",
+            "id": 8442,
+            "artist": "Omar Kamal"
+        },
+        {
+            "name": "البنات",
+            "release_date": "2022-02-16",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736124bd1aee14a3900e80f6d8",
+            "track_url": "",
+            "id": 8443,
+            "artist": "Omar Kamal"
+        },
+        {
+            "name": "Ahsn Ab (Original TV Show)",
+            "release_date": "2022-02-05",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733cf9eff414c19768d68e020d",
+            "track_url": "",
+            "id": 8444,
+            "artist": "Omar Kamal"
+        },
+        {
+            "name": "بحبك",
+            "release_date": "2022-01-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e8b30eeab76a51ffdb42670a",
+            "track_url": "",
+            "id": 8445,
+            "artist": "Omar Kamal"
+        },
+        {
+            "name": "انتي قلبي",
+            "release_date": "2021-12-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b27371799f104af1b3bc901189bc",
+            "track_url": "",
+            "id": 8446,
+            "artist": "Omar Kamal"
+        },
+        {
+            "name": "ضيعنا",
+            "release_date": "2021-11-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b27311246cd0b89265876a47faa4",
+            "track_url": "",
+            "id": 8447,
+            "artist": "Omar Kamal"
+        },
+        {
+            "name": "الملكي احسن فريق",
+            "release_date": "2021-09-06",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735059940d5060e074752bec50",
+            "track_url": "",
+            "id": 8448,
+            "artist": "Omar Kamal"
+        },
+        {
+            "name": "أخويا",
+            "release_date": "2021-08-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f82db9b2b71f6b403198f67e",
+            "track_url": "",
+            "id": 8449,
+            "artist": "Omar Kamal"
+        },
+        {
+            "name": "أنا العريس",
+            "release_date": "2021-06-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730a3da3c5bc330c01aad7456d",
+            "track_url": "",
+            "id": 8450,
+            "artist": "Omar Kamal"
+        },
+        {
+            "name": "قمر التيكتوكايه",
+            "release_date": "2021-06-16",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732675f54db980f313123ccca5",
+            "track_url": "",
+            "id": 8451,
+            "artist": "Omar Kamal"
+        },
+        {
+            "name": "أوعدك",
+            "release_date": "2021-06-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b27384a8f5d72abdce67cc30d8c3",
+            "track_url": "",
+            "id": 8452,
+            "artist": "Omar Kamal"
+        },
+        {
+            "name": "الخديوى بيعشق غزل",
+            "release_date": "2021-05-05",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738fd76f996437e93134f0b98d",
+            "track_url": "",
+            "id": 8453,
+            "artist": "Omar Kamal"
+        },
+        {
+            "name": "هنلبس عساكر",
+            "release_date": "2021-05-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739b201c4cf11ca44ccf7e26e2",
+            "track_url": "",
+            "id": 8454,
+            "artist": "Omar Kamal"
+        },
+        {
+            "name": "يلا بينا نتجوز",
+            "release_date": "2021-04-27",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736662ab676dd4ed594712bd4a",
+            "track_url": "",
+            "id": 8455,
+            "artist": "Omar Kamal"
+        },
+        {
+            "name": "وقت المصلحة",
+            "release_date": "2021-04-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b93ac720c975bf8efd54adef",
+            "track_url": "",
+            "id": 8456,
+            "artist": "Omar Kamal"
+        },
+        {
+            "name": "رجع رمضان",
+            "release_date": "2021-04-13",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733d6bf3b55f476aee251d7ed6",
+            "track_url": "",
+            "id": 8457,
+            "artist": "Omar Kamal"
+        },
+        {
+            "name": "يلا سلام",
+            "release_date": "2021-03-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f01327b3e9356552f0e5471d",
+            "track_url": "",
+            "id": 8458,
+            "artist": "Omar Kamal"
+        },
+        {
+            "name": "باي باي (Yalla Ns2f Llwatyen)",
+            "release_date": "2021-03-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f00f21313f371fe5b0f2c8c0",
+            "track_url": "",
+            "id": 8459,
+            "artist": "Omar Kamal"
+        },
+        {
+            "name": "اللي تقلان عليك",
+            "release_date": "2021-02-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b27342c20188e83f94f7ab4a47a9",
+            "track_url": "",
+            "id": 8460,
+            "artist": "Omar Kamal"
+        },
+        {
+            "name": "El Helwa Mehlwa",
+            "release_date": "2021-01-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b5a26e747a7c595b0e343531",
+            "track_url": "",
+            "id": 8461,
+            "artist": "Omar Kamal"
+        },
+        {
+            "name": "سوق الصحاب",
+            "release_date": "2021-01-20",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733997affd919b752442c5c6cd",
+            "track_url": "",
+            "id": 8462,
+            "artist": "Omar Kamal"
+        },
+        {
+            "name": "انتي معلمه",
+            "release_date": "2020-11-16",
+            "image": "https://i.scdn.co/image/ab67616d0000b27392a67571b92adba36c1c95af",
+            "track_url": "",
+            "id": 8463,
+            "artist": "Omar Kamal"
+        },
+        {
+            "name": "الجدع",
+            "release_date": "2020-09-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a4f6ae7981f156e9f7be8be5",
+            "track_url": "",
+            "id": 8464,
+            "artist": "Omar Kamal"
+        },
+        {
+            "name": "لغبطيطا",
+            "release_date": "2020-08-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a8d8c83929ea4d7e25337778",
+            "track_url": "",
+            "id": 8465,
+            "artist": "Omar Kamal"
+        },
+        {
+            "name": "رسالة في الغربة",
+            "release_date": "2020-07-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738a7a4be9c70d96d23e80b5b4",
+            "track_url": "",
+            "id": 8466,
+            "artist": "Omar Kamal"
+        },
+        {
+            "name": "Mahragan Chocolata Sayha Gowa Cake",
+            "release_date": "2020-05-27",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734e1f49541087b919f53c2170",
+            "track_url": "",
+            "id": 8467,
+            "artist": "Omar Kamal"
+        }
+    ],
+    "popular_tracks": [
+        {
+            "name": "انتي معلمه",
+            "track_url": "",
+            "duration_ms": 192094,
+            "image": "https://i.scdn.co/image/ab67616d0000b27392a67571b92adba36c1c95af",
+            "id": 8468,
+            "artist": "Omar Kamal"
+        },
+        {
+            "name": "لغبطيطا",
+            "track_url": "",
+            "duration_ms": 190222,
+            "image": "https://i.scdn.co/image/ab67616d0000b273a8d8c83929ea4d7e25337778",
+            "id": 8469,
+            "artist": "Omar Kamal"
+        },
+        {
+            "name": "Oud Al batal",
+            "track_url": "",
+            "duration_ms": 192122,
+            "image": "https://i.scdn.co/image/ab67616d0000b273697d105dd1bee123e3ded695",
+            "id": 8470,
+            "artist": "Omar Kamal"
+        },
+        {
+            "name": "Denna",
+            "track_url": "",
+            "duration_ms": 214674,
+            "image": "https://i.scdn.co/image/ab67616d0000b27311246cd0b89265876a47faa4",
+            "id": 8471,
+            "artist": "Omar Kamal"
+        },
+        {
+            "name": "انا بطل السوق",
+            "track_url": "",
+            "duration_ms": 335882,
+            "image": "https://i.scdn.co/image/ab67616d0000b273bf588a09b076c24c086ed36b",
+            "id": 8472,
+            "artist": "Omar Kamal"
+        },
+        {
+            "name": "السخان",
+            "track_url": "",
+            "duration_ms": 186427,
+            "image": "https://i.scdn.co/image/ab67616d0000b27339f1839d3bae24169b3a8a39",
+            "id": 8473,
+            "artist": "Omar Kamal"
+        },
+        {
+            "name": "قمر التيكتوكايه",
+            "track_url": "",
+            "duration_ms": 264057,
+            "image": "https://i.scdn.co/image/ab67616d0000b2732675f54db980f313123ccca5",
+            "id": 8474,
+            "artist": "Omar Kamal"
+        },
+        {
+            "name": "يا بيبي",
+            "track_url": "",
+            "duration_ms": 231272,
+            "image": "https://i.scdn.co/image/ab67616d0000b273926956d9b6b6ae060dd417c8",
+            "id": 8475,
+            "artist": "Omar Kamal"
+        },
+        {
+            "name": "Bonbony Sa2et Fi Nutella",
+            "track_url": "",
+            "duration_ms": 266434,
+            "image": "https://i.scdn.co/image/ab67616d0000b273e120f196e9345aab7374d837",
+            "id": 8476,
+            "artist": "Omar Kamal"
+        },
+        {
+            "name": "انتي قلبي",
+            "track_url": "",
+            "duration_ms": 192000,
+            "image": "https://i.scdn.co/image/ab67616d0000b27371799f104af1b3bc901189bc",
+            "id": 8477,
+            "artist": "Omar Kamal"
+        }
+    ]
+}

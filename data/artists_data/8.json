@@ -1,0 +1,1630 @@
+{
+    "artist": {
+        "id": "1678",
+        "name": "Mohamed Fouad",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebc5b5c63723bbdd92f99e5a5b",
+        "background_image": "https://i.scdn.co/image/ab67616100005174c5b5c63723bbdd92f99e5a5b"
+    },
+    "albums": [
+        {
+            "name": "Bean Edeak",
+            "release_date": "2010-06-14",
+            "image": "https://i.scdn.co/image/ab67616d0000b27306319ea49c96a72aa9796779",
+            "track_url": "https://open.spotify.com/album/1Jl1oogyub6Q8QwMpRlFpO",
+            "tracks": [
+                {
+                    "name": "Saat Bashtlak",
+                    "track_url": "https://www.dropbox.com/scl/fi/qo6qkm1lb719xbf43evbl/10._Saeat_Bshtak.mp3?rlkey=blvl69lsz9qcef53w45nc8zpv&st=8iakfom1&dl=1",
+                    "duration_ms": 217364,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27306319ea49c96a72aa9796779",
+                    "id": 1689,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Ben Edek",
+                    "track_url": "https://www.dropbox.com/scl/fi/4o6io0hf5q9p6px3mihj2/02._Byen_Edyk.mp3?rlkey=9nn12gdvy5gu9hzl9odkeivxa&st=y13t7976&dl=1",
+                    "duration_ms": 249417,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27306319ea49c96a72aa9796779",
+                    "id": 1690,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Eateb Alaya",
+                    "track_url": "https://www.dropbox.com/scl/fi/288lfjip2i6euy8mbvucv/08._Eetub__Alia.mp3?rlkey=jtn47hjuv1oiqlfvbrzvz5mt5&st=h6204gbi&dl=1",
+                    "duration_ms": 252995,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27306319ea49c96a72aa9796779",
+                    "id": 1691,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Khabini",
+                    "track_url": "https://www.dropbox.com/scl/fi/ug08rj8brnydav4wfeh1s/07.Khabyni.mp3?rlkey=udfboj21m30vqa7nsd36mu87t&st=m0d1jtmb&dl=1",
+                    "duration_ms": 239281,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27306319ea49c96a72aa9796779",
+                    "id": 1692,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Beshoula Keda",
+                    "track_url": "https://www.dropbox.com/scl/fi/na1dehlnj1jagsj443opf/03._Byshola_Keda.mp3?rlkey=6fu5um1zxtdgpvdbs2409wnjs&st=fs3c0rld&dl=1",
+                    "duration_ms": 256940,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27306319ea49c96a72aa9796779",
+                    "id": 1693,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Ebn Balad",
+                    "track_url": "https://www.dropbox.com/scl/fi/c1dt4lsseub2yw8ecokd2/01._Ebn_Balad.mp3?rlkey=p138avyeyl566qi3ozqplozwm&st=a3s2sbz7&dl=1",
+                    "duration_ms": 266997,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27306319ea49c96a72aa9796779",
+                    "id": 1694,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Ebn Balad (Remix)",
+                    "track_url": "https://www.dropbox.com/scl/fi/d524xug1o8lfshqvsqyvt/09.Ebn_Balad_-rimx.mp3?rlkey=tuxxlkj87m3a4dg9yhfxebi21&st=i2tvk8hb&dl=1",
+                    "duration_ms": 234814,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27306319ea49c96a72aa9796779",
+                    "id": 1695,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Law Yehsal Eh",
+                    "track_url": "https://www.dropbox.com/scl/fi/bh7gd5juvqz4o2s454jx4/04.Lo_yhsal_eah.mp3?rlkey=waa6l7ldj56pz40rvfvjl850z&st=sbx0tamq&dl=1",
+                    "duration_ms": 206445,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27306319ea49c96a72aa9796779",
+                    "id": 1696,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Elet Akel",
+                    "track_url": "https://www.dropbox.com/scl/fi/l5w11u0eyzcoboai2mfpq/06.Qalt_Akel.mp3?rlkey=d7xa6g3oejgeetbn5fknvcz2g&st=zyns2xjr&dl=1",
+                    "duration_ms": 205557,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27306319ea49c96a72aa9796779",
+                    "id": 1697,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Ghali",
+                    "track_url": "https://www.dropbox.com/scl/fi/xfdvm7wv8x5s10qov33k9/05.Ghaly.mp3?rlkey=gh2nzrdmtsbcedzd9kew28uy7&st=kskti2fn&dl=1",
+                    "duration_ms": 204800,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27306319ea49c96a72aa9796779",
+                    "id": 1698,
+                    "artist": "Mohamed Fouad"
+                }
+            ],
+            "id": 1688
+        },
+        {
+            "name": "Wala Nusi Kelma",
+            "release_date": "2007-10-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735e4e9015f41b2c17ae60a4d8",
+            "track_url": "https://open.spotify.com/album/4jWAslPeiqdaj81LTOoZ8R",
+            "tracks": [
+                {
+                    "name": "Tamini Alieak",
+                    "track_url": "https://www.dropbox.com/scl/fi/6bprnefxfigp81m30zwl3/02.Tamenny_Alaik.mp3?rlkey=cpnlz4ex2niaq1085y3w2x93p&st=hjnje5lb&dl=1",
+                    "duration_ms": 267937,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735e4e9015f41b2c17ae60a4d8",
+                    "id": 1700,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Mapiyarafnesh",
+                    "track_url": "https://www.dropbox.com/scl/fi/tbekluptk17cd8txe4ju9/04.Mabyearafneesh.mp3?rlkey=nw7njfpqm476k2kpnwb37992l&st=lix5w2w6&dl=1",
+                    "duration_ms": 285361,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735e4e9015f41b2c17ae60a4d8",
+                    "id": 1701,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Khadni Alhaneen",
+                    "track_url": "https://www.dropbox.com/scl/fi/7sy7rhsizyih0n7zi6bbq/10.Khadny_El-Hanin.mp3?rlkey=x9bkqoysfsj4u76ubmfu1ws8l&st=gt1ci0ev&dl=1",
+                    "duration_ms": 252551,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735e4e9015f41b2c17ae60a4d8",
+                    "id": 1702,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Shayef Nafsak",
+                    "track_url": "https://www.dropbox.com/scl/fi/ht7su0wl3fch0flp2tcvg/03.Shayef_Nafsak.mp3?rlkey=3pqt8f97sronc18kli5clpk42&st=42jdprs4&dl=1",
+                    "duration_ms": 283585,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735e4e9015f41b2c17ae60a4d8",
+                    "id": 1703,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Wala Nus Kelma",
+                    "track_url": "https://www.dropbox.com/scl/fi/mw1l4tlux11zw6wu664yb/05.Wla_Nos_Kelma.mp3?rlkey=twg3yqh6vzwuaufp0za2o4f43&st=gyt3o4m6&dl=1",
+                    "duration_ms": 243408,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735e4e9015f41b2c17ae60a4d8",
+                    "id": 1704,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Khayf Moot",
+                    "track_url": "https://www.dropbox.com/scl/fi/855bwcr2h98n3zu4nwbon/09.Khayef_Moot.mp3?rlkey=9cu87vtlliigsrxywy9k1423x&st=bqo330ct&dl=1",
+                    "duration_ms": 243461,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735e4e9015f41b2c17ae60a4d8",
+                    "id": 1705,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Makadbsh Aleiak",
+                    "track_url": "https://www.dropbox.com/scl/fi/1wnpkfprah0lrkd959w1c/08.Magdebsh_Alaik.mp3?rlkey=w3h38zh2xc75hwkdmg98ph0do&st=sys924am&dl=1",
+                    "duration_ms": 259866,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735e4e9015f41b2c17ae60a4d8",
+                    "id": 1706,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Lao Liea Hag",
+                    "track_url": "https://www.dropbox.com/scl/fi/z40b5ydq20u83gxkeckq6/07.Law_Leya_Haa.mp3?rlkey=cwf2dj7d8ilsyaou0g2r92c4w&st=tb40wpfs&dl=1",
+                    "duration_ms": 292362,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735e4e9015f41b2c17ae60a4d8",
+                    "id": 1707,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Yajit Yarahit",
+                    "track_url": "https://www.dropbox.com/scl/fi/09fydjzu9uwpctdheurbd/01.Ya_Gat_Ya_Rahet.mp3?rlkey=1fam2pz506wncxedonc8pvf4k&st=3alz3mu0&dl=1",
+                    "duration_ms": 238811,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735e4e9015f41b2c17ae60a4d8",
+                    "id": 1708,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Winti Janbe",
+                    "track_url": "https://www.dropbox.com/scl/fi/9rilga2lu7soiolj5oey1/06.Wenta_Ganby.mp3?rlkey=riw0vt84wdb1dkp1hbj1spkse&st=ky0y65s4&dl=1",
+                    "duration_ms": 262164,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735e4e9015f41b2c17ae60a4d8",
+                    "id": 1709,
+                    "artist": "Mohamed Fouad"
+                }
+            ],
+            "id": 1699
+        },
+        {
+            "name": "Habibi Ya",
+            "release_date": "2005-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273bf390f988be4ed1817b3278c",
+            "track_url": "https://open.spotify.com/album/3dal99ec3SgIPfDtMRuyb7",
+            "tracks": [
+                {
+                    "name": "Habibi Ya",
+                    "track_url": "https://www.dropbox.com/scl/fi/buqb9kem3kparhvcxd27w/02.Habibi_Ya.MP3?rlkey=ou1yqq9jipt637el49tupf4dh&st=2g5nvojy&dl=1",
+                    "duration_ms": 216006,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bf390f988be4ed1817b3278c",
+                    "id": 1711,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Heml Jarh",
+                    "track_url": "https://www.dropbox.com/scl/fi/l80t51eo0fdl74c023rlc/10.Heml_Jarh.MP3?rlkey=guwuz0gktntry90hea5ssqfui&st=68hwfl86&dl=1",
+                    "duration_ms": 218723,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bf390f988be4ed1817b3278c",
+                    "id": 1712,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Mali Bas",
+                    "track_url": "https://www.dropbox.com/scl/fi/gcgglq7nek9i3qnbwh0qa/08.Mali_Bas.MP3?rlkey=j2y4ynsucfdkv8lpoxz2d0byr&st=5zx9xch4&dl=1",
+                    "duration_ms": 209397,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bf390f988be4ed1817b3278c",
+                    "id": 1713,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Taib Taib",
+                    "track_url": "https://www.dropbox.com/scl/fi/susdc0nvvriia33ek173c/01.Taib_Taib.MP3?rlkey=cnrhtvx0vr3taq5zaerxch88x&st=uvfu0pdk&dl=1",
+                    "duration_ms": 235363,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bf390f988be4ed1817b3278c",
+                    "id": 1714,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Eih Khallak",
+                    "track_url": "https://www.dropbox.com/scl/fi/8752usu3rozl3vukqim0j/07.Eih_Khallak.MP3?rlkey=wxbd42ksh70410knivyrjbfyq&st=jnyvd754&dl=1",
+                    "duration_ms": 299650,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bf390f988be4ed1817b3278c",
+                    "id": 1715,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Hob Tani",
+                    "track_url": "https://www.dropbox.com/scl/fi/0v5ip7ootov2pfjotehqv/09.Hob_Tani.mp3?rlkey=9eun4e457yspt5odm4b20eqrt&st=jhz5rtvy&dl=1",
+                    "duration_ms": 229564,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bf390f988be4ed1817b3278c",
+                    "id": 1716,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Eih Da Gamalo",
+                    "track_url": "https://www.dropbox.com/scl/fi/wk9skb2yatddwg1pnfjbi/06.Eih_Da_Gamalo.MP3?rlkey=z1plfc9ccvelpsm24iolxxafl&st=1aa9bojq&dl=1",
+                    "duration_ms": 240901,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bf390f988be4ed1817b3278c",
+                    "id": 1717,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Ala Balo",
+                    "track_url": "https://www.dropbox.com/scl/fi/nwa3pxfrrahccof8wl7nx/05.Ala_Balo.MP3?rlkey=e1p3b7vg0dxnw1yh4isvhf9ki&st=1vgducmg&dl=1",
+                    "duration_ms": 263314,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bf390f988be4ed1817b3278c",
+                    "id": 1718,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Mafish Nasib",
+                    "track_url": "https://www.dropbox.com/scl/fi/ztr4n9zl1g0qjnszl0pn6/04.Mafish_Nasib.MP3?rlkey=p3kua5z3lfnee6n5cze7hflw6&st=dcl8cr0q&dl=1",
+                    "duration_ms": 217626,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bf390f988be4ed1817b3278c",
+                    "id": 1719,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Washak",
+                    "track_url": "https://www.dropbox.com/scl/fi/b4ng8dqzt0fgj73qv41f0/03.Washak.MP3?rlkey=xxz9bqfi6r12wh2lf2u57yjpf&st=ob09prnu&dl=1",
+                    "duration_ms": 269244,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bf390f988be4ed1817b3278c",
+                    "id": 1720,
+                    "artist": "Mohamed Fouad"
+                }
+            ],
+            "id": 1710
+        },
+        {
+            "name": "Shareeny",
+            "release_date": "2003-08-29",
+            "image": "https://i.scdn.co/image/ab67616d0000b273805666d358c2fc0fb59297d7",
+            "track_url": "https://open.spotify.com/album/4nK3YDuH6lC96wQXDDbZiZ",
+            "tracks": [
+                {
+                    "name": "Shareeny",
+                    "track_url": "https://www.dropbox.com/scl/fi/isnr47yitxqnd3gmiabwd/01.Shareeny.mp3?rlkey=81qqd63u362p8x13lcddnt7zx&st=t0xoi995&dl=1",
+                    "duration_ms": 259305,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273805666d358c2fc0fb59297d7",
+                    "id": 1722,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Alby",
+                    "track_url": "https://www.dropbox.com/scl/fi/zaue58gxb4r8kq57pnpfa/02.Alby.mp3?rlkey=390p08e3t86ecdw8s61g0bbky&st=0n1b573q&dl=1",
+                    "duration_ms": 281588,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273805666d358c2fc0fb59297d7",
+                    "id": 1723,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Ghasb Anny",
+                    "track_url": "https://www.dropbox.com/scl/fi/u3j33itb8gytkikhcbxnm/03.Ghasb_Anny.mp3?rlkey=xdvmjvga59w2om5e49yfiynio&st=cniswpy7&dl=1",
+                    "duration_ms": 276781,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273805666d358c2fc0fb59297d7",
+                    "id": 1724,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Gate Ganbak",
+                    "track_url": "https://www.dropbox.com/scl/fi/oyb4t7lk33qpipxro4ien/04.Gate_Ganbak.mp3?rlkey=ctjzca09jrr960v111e6qu190&st=8wrxqzn6&dl=1",
+                    "duration_ms": 218241,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273805666d358c2fc0fb59297d7",
+                    "id": 1725,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Hatmassel",
+                    "track_url": "https://www.dropbox.com/scl/fi/0983timeiarflag8a8mlz/05.Hatmassel.mp3?rlkey=ehrme8g7341mbs7e6wtz8v93q&st=ze2fdkss&dl=1",
+                    "duration_ms": 264138,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273805666d358c2fc0fb59297d7",
+                    "id": 1726,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Ya Hal Tara",
+                    "track_url": "https://www.dropbox.com/scl/fi/nvojxyl6poh2xb0g6knqz/06.Ya_Hal_Tara.mp3?rlkey=7mcf5rhgzfwi9dn1rgxi7dutk&st=3ck93nfy&dl=1",
+                    "duration_ms": 277878,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273805666d358c2fc0fb59297d7",
+                    "id": 1727,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Rohy Feeh",
+                    "track_url": "https://www.dropbox.com/scl/fi/msm4ysdw88606b7t8eo6k/07.Rohy_Feeh.mp3?rlkey=nxkm0lmn45eovt4xoacr3fn8d&st=9t4cr6ge&dl=1",
+                    "duration_ms": 195044,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273805666d358c2fc0fb59297d7",
+                    "id": 1728,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Wala Koll",
+                    "track_url": "https://www.dropbox.com/scl/fi/xor0iqnprwyurr9dknkr1/08.Wala_Koll.mp3?rlkey=3jyonrod81fw69r9e8ecdfayg&st=vesq5htq&dl=1",
+                    "duration_ms": 248908,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273805666d358c2fc0fb59297d7",
+                    "id": 1729,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "soalak",
+                    "track_url": "https://www.dropbox.com/scl/fi/o0fiuqcemx9517sjyydwk/09.Soalak.mp3?rlkey=i8435roxotyhln5445zdfg2ox&st=nryd4lhz&dl=1",
+                    "duration_ms": 277408,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273805666d358c2fc0fb59297d7",
+                    "id": 1730,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Ala Rahtak",
+                    "track_url": "https://www.dropbox.com/scl/fi/rcpccs5pb22u7c8ct8gpy/10.Ala_Rahtak.mp3?rlkey=jko0zf4fwgckbu1zf3l9y5af2&st=dlvxr12w&dl=1",
+                    "duration_ms": 292376,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273805666d358c2fc0fb59297d7",
+                    "id": 1731,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Rohy Feeh children version",
+                    "track_url": "https://www.dropbox.com/scl/fi/hpj262k22x96gf3jqdpcf/11.Rohy_Feeh_-Children_Version.mp3?rlkey=ldr9xwh9f6rlyn3m0emo2vm7t&st=wxfuf4w3&dl=1",
+                    "duration_ms": 196507,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273805666d358c2fc0fb59297d7",
+                    "id": 1732,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Haram",
+                    "track_url": "https://www.dropbox.com/scl/fi/2vee3fgyrs7yn6kqtriqq/12.Haram.mp3?rlkey=rgzijmeuwnn3ku7wnysseflu7&st=ny7lf2tg&dl=1",
+                    "duration_ms": 291854,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273805666d358c2fc0fb59297d7",
+                    "id": 1733,
+                    "artist": "Mohamed Fouad"
+                }
+            ],
+            "id": 1721
+        },
+        {
+            "name": "Kabr El Gharam",
+            "release_date": "2001-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27393f52927afa720478f9c0382",
+            "track_url": "https://open.spotify.com/album/1MBUj0sld10rCSON2Jsce9",
+            "tracks": [
+                {
+                    "name": "Am Hamza",
+                    "track_url": "https://www.dropbox.com/scl/fi/0ugrdcjskpgomud1v4rza/01.Am_Hamzah.mp3?rlkey=lks9ux190drhxbt5hh994pkwj&st=wn756cca&dl=1",
+                    "duration_ms": 186259,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27393f52927afa720478f9c0382",
+                    "id": 1735,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Anta",
+                    "track_url": "https://www.dropbox.com/scl/fi/hy39i1de7t7ivd8uffi0n/02.Enta.mp3?rlkey=2lhjrp469kifz5f2tl1vc5u94&st=qml6syt6&dl=1",
+                    "duration_ms": 271813,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27393f52927afa720478f9c0382",
+                    "id": 1736,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Ya Nasy Rohy",
+                    "track_url": "https://www.dropbox.com/scl/fi/b0oakmeyk0oq5bhd9gayf/03.Ya_Nasy_Rohy.mp3?rlkey=7rnh1tegcar9loyk791y3mp1b&st=3so85dyp&dl=1",
+                    "duration_ms": 304756,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27393f52927afa720478f9c0382",
+                    "id": 1737,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "W Bahb",
+                    "track_url": "https://www.dropbox.com/scl/fi/ab6njg3h56g1oflsxjbl6/04.W_Baheb.mp3?rlkey=ctcq1bfycp688az4juhnxedob&st=1phk1uab&dl=1",
+                    "duration_ms": 161298,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27393f52927afa720478f9c0382",
+                    "id": 1738,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Zay Eliela",
+                    "track_url": "https://www.dropbox.com/scl/fi/6hsvhaq9wtbomozxgletm/05.Zai_El-Laylah.mp3?rlkey=xczrewelocaltlcaiib20ctb0&st=2ntudcl1&dl=1",
+                    "duration_ms": 139544,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27393f52927afa720478f9c0382",
+                    "id": 1739,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Om Elshahed",
+                    "track_url": "https://www.dropbox.com/scl/fi/jue2slrvxpbihcsz4ybm5/06.Om_El-Shaheed.mp3?rlkey=x8imci6mq9d57rk5hoajaqonv&st=f4kzhxro&dl=1",
+                    "duration_ms": 114661,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27393f52927afa720478f9c0382",
+                    "id": 1740,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Allah Lw Narda",
+                    "track_url": "https://www.dropbox.com/scl/fi/ogdtu1cbiia8xmcyzwoni/07.Allah_Law_Nerda.mp3?rlkey=5kez1yzhjivrz790u8vtmt2ra&st=c2o2907n&dl=1",
+                    "duration_ms": 271813,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27393f52927afa720478f9c0382",
+                    "id": 1741,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Maaol",
+                    "track_url": "https://www.dropbox.com/scl/fi/lrf4alastaq1gz7l44hm8/08.Maaoul.mp3?rlkey=1h0tm0onwwuzctr82qbguevh5&st=5aw1iwt1&dl=1",
+                    "duration_ms": 227471,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27393f52927afa720478f9c0382",
+                    "id": 1742,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Leek Haq",
+                    "track_url": "https://www.dropbox.com/scl/fi/xf79kcxpc7k8gaxvpcbg2/09.Leek_Haa_Tezaal.mp3?rlkey=4qrpfoxq28ac05z5eghndp9uk&st=u5qz5z27&dl=1",
+                    "duration_ms": 248885,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27393f52927afa720478f9c0382",
+                    "id": 1743,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Msh Habebt Had Fena",
+                    "track_url": "https://www.dropbox.com/scl/fi/qntvc2g2sh80zbwe5jtbf/10.Mosh_Habibet_Had.mp3?rlkey=e27r2zt84h9610b26a62ijhuo&st=5la2nmxu&dl=1",
+                    "duration_ms": 302017,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27393f52927afa720478f9c0382",
+                    "id": 1744,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "kabr El Gharam",
+                    "track_url": "https://www.dropbox.com/scl/fi/ju0lvzpb7d28chjudzy4b/11.Keber_El-Gharam.mp3?rlkey=bh1tdua6sr6196qazgdndnp8d&st=13x2dgb9&dl=1",
+                    "duration_ms": 125511,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27393f52927afa720478f9c0382",
+                    "id": 1745,
+                    "artist": "Mohamed Fouad"
+                }
+            ],
+            "id": 1734
+        },
+        {
+            "name": "El Alb El Tayeb",
+            "release_date": "2000-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27387b41d4879e5a33223f7ba4c",
+            "track_url": "https://open.spotify.com/album/4PbrEu44oeURPVf6a2nSnX",
+            "tracks": [
+                {
+                    "name": "Low",
+                    "track_url": "https://www.dropbox.com/scl/fi/lgyyjvh7i4jt9m69t780y/08.Law.mp3?rlkey=enwayjdijmn4e4etd6wsxkcbm&st=by2v0xv1&dl=1",
+                    "duration_ms": 275382,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27387b41d4879e5a33223f7ba4c",
+                    "id": 1747,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Tani",
+                    "track_url": "https://www.dropbox.com/scl/fi/1t6ox52hbi1vo77isngn7/07.Tani.mp3?rlkey=bs33fsdccd42u4tlx4zcr1m1i&st=1wkxpmvj&dl=1",
+                    "duration_ms": 236878,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27387b41d4879e5a33223f7ba4c",
+                    "id": 1748,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Sa'ban",
+                    "track_url": "https://www.dropbox.com/scl/fi/47nn45fo0msyh8r70vi0p/06.Saaban.mp3?rlkey=05rdo7wyzq7e2lv7nd6b41cpu&st=brahgg25&dl=1",
+                    "duration_ms": 316107,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27387b41d4879e5a33223f7ba4c",
+                    "id": 1749,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Inta Wa Bas",
+                    "track_url": "https://www.dropbox.com/scl/fi/wauhgb3tfrs3drlqnbhus/05.Enta_We_Bas.mp3?rlkey=719rayvzsgvnectf11zuddcb3&st=618ae5g7&dl=1",
+                    "duration_ms": 249391,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27387b41d4879e5a33223f7ba4c",
+                    "id": 1750,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "El Alb El Tayeb",
+                    "track_url": "https://www.dropbox.com/scl/fi/8574ihfls43kdo2oe92ls/04.El_Kalb_El_Tayeb.mp3?rlkey=8emul50ye53wow8unjstbzals&st=mvkrl7pm&dl=1",
+                    "duration_ms": 306285,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27387b41d4879e5a33223f7ba4c",
+                    "id": 1751,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Khosarah",
+                    "track_url": "https://www.dropbox.com/scl/fi/20bgujb4ek4kh9j7uz6zp/03.Khosara.mp3?rlkey=sk9vutftq73s6j4xcqhchsriv&st=pfynw1l6&dl=1",
+                    "duration_ms": 316577,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27387b41d4879e5a33223f7ba4c",
+                    "id": 1752,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "La Azon",
+                    "track_url": "https://www.dropbox.com/scl/fi/65xfjjqqdpk9ubsy0bwel/02.La_Aazounn.mp3?rlkey=5z78esoefr0f0isueks91911j&st=jm1v6mpg&dl=1",
+                    "duration_ms": 227474,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27387b41d4879e5a33223f7ba4c",
+                    "id": 1753,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Feenak",
+                    "track_url": "https://www.dropbox.com/scl/fi/8t452fnfm1wka34i5rmth/01.Fainak.mp3?rlkey=m2dugbqvtgtphzuvd0f5byn6a&st=tmygufjt&dl=1",
+                    "duration_ms": 235232,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27387b41d4879e5a33223f7ba4c",
+                    "id": 1754,
+                    "artist": "Mohamed Fouad"
+                }
+            ],
+            "id": 1746
+        },
+        {
+            "name": "قلبي وروحي وعمري",
+            "release_date": "1999-02-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730a1eae77a7ea3cd9bca84da5",
+            "track_url": "https://open.spotify.com/album/7kHuWSyD2vpXBgsgqSfG6H",
+            "tracks": [
+                {
+                    "name": "قلبى و روحى و عمرى",
+                    "track_url": "https://www.dropbox.com/scl/fi/jr4phlk38bmob0aiz6u1p/03.Alby_W_Rohy_W_Omry.mp3?rlkey=vkako9u0pm0gk7q0v3r6o05st&st=v7lp9ijy&dl=1",
+                    "duration_ms": 288232,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730a1eae77a7ea3cd9bca84da5",
+                    "id": 1756,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "اجمل غرام",
+                    "track_url": "https://www.dropbox.com/scl/fi/sf09jabtsg0gyououipze/07.Agmal_Gharam.mp3?rlkey=fnx5t17fpvdgblsn32ljp774i&st=j12ptlbi&dl=1",
+                    "duration_ms": 281333,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730a1eae77a7ea3cd9bca84da5",
+                    "id": 1757,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "انا لو حبيبك",
+                    "track_url": "https://www.dropbox.com/scl/fi/12iiisle6wndmf8xtjb2f/05.Ana_Law_Habibak.mp3?rlkey=pnjo0kttyqkggnh9gw4dqw2l1&st=hih97w6e&dl=1",
+                    "duration_ms": 327130,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730a1eae77a7ea3cd9bca84da5",
+                    "id": 1758,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "لا عتاب ولا ندم",
+                    "track_url": "https://www.dropbox.com/scl/fi/5wo8tj4nfxkb0yk1i7x15/04.La_Etab_W_Nadam.mp3?rlkey=lfuylvgwffadi1gyuu2wa92ds&st=c97vmp3b&dl=1",
+                    "duration_ms": 268117,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730a1eae77a7ea3cd9bca84da5",
+                    "id": 1759,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "لا لا",
+                    "track_url": "https://www.dropbox.com/scl/fi/7cazdfiuwn16r0hqot1na/02.La_La.mp3?rlkey=7ciul7h3i1kks546ek97iipq4&st=202b6ohz&dl=1",
+                    "duration_ms": 292101,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730a1eae77a7ea3cd9bca84da5",
+                    "id": 1760,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "يا عينيك يا كلامك",
+                    "track_url": "https://www.dropbox.com/scl/fi/38be7hrd3xd8u2mnn6m0c/06.Ya_Einaik_Ya_Kalamak.mp3?rlkey=1fr89cvoqi7lxvz6or5na3wpn&st=dwav1ksr&dl=1",
+                    "duration_ms": 222872,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730a1eae77a7ea3cd9bca84da5",
+                    "id": 1761,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "يا رب",
+                    "track_url": "https://www.dropbox.com/scl/fi/1q9cf46px8dflyz2owr7z/08.Ya_Rab.mp3?rlkey=a22r3obz7y4zhaz271vpgmwpo&st=9r95hxk0&dl=1",
+                    "duration_ms": 180870,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730a1eae77a7ea3cd9bca84da5",
+                    "id": 1762,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "يلا هوا",
+                    "track_url": "https://www.dropbox.com/scl/fi/qtvptzb1275swmx6jmcqr/01.Yalla_Hawa.mp3?rlkey=jrtz9kn767u8fiiwfwl566kpd&st=oq3npfs2&dl=1",
+                    "duration_ms": 244652,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730a1eae77a7ea3cd9bca84da5",
+                    "id": 1763,
+                    "artist": "Mohamed Fouad"
+                }
+            ],
+            "id": 1755
+        },
+        {
+            "name": "Hayran",
+            "release_date": "1998-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c2143d660b13ed967f3814b3",
+            "track_url": "https://open.spotify.com/album/4QEWO0Xa509hrgU6jqGRBV",
+            "tracks": [
+                {
+                    "name": "Fakrak Ya Nassiny",
+                    "track_url": "https://www.dropbox.com/scl/fi/16f0o0cqbju968obo2qj5/01.Fakrak_Ya_Nasiny.mp3?rlkey=ci1xty3ol5hevifdhehsal1d9&st=9rwb4a1r&dl=1",
+                    "duration_ms": 360933,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c2143d660b13ed967f3814b3",
+                    "id": 1765,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Hansak",
+                    "track_url": "https://www.dropbox.com/scl/fi/zqgp8ke36nzve7v7s938g/02.Hansak.mp3?rlkey=usaarzivy5kayma6mcko9kh6p&st=gww2690u&dl=1",
+                    "duration_ms": 432352,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c2143d660b13ed967f3814b3",
+                    "id": 1766,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Menno Ya Layali",
+                    "track_url": "https://www.dropbox.com/scl/fi/5bjy1j3mzw61c2hwazw4n/03.Mennou_Lellah.mp3?rlkey=7hrlmijuzamveii3hxt4w8fz6&st=r7ol0h5h&dl=1",
+                    "duration_ms": 273998,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c2143d660b13ed967f3814b3",
+                    "id": 1767,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Aw2at Ya Donya",
+                    "track_url": "https://www.dropbox.com/scl/fi/3e0z39xo8huds80dk9vzz/04.Awkat_Ya_Dounya.mp3?rlkey=6fpyil7ruqo7upntidamjymdv&st=qtpjfopd&dl=1",
+                    "duration_ms": 299102,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c2143d660b13ed967f3814b3",
+                    "id": 1768,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Allemnak",
+                    "track_url": "https://www.dropbox.com/scl/fi/30t85f31bi7e4y60f46kw/05.Allemnak.mp3?rlkey=my1zg90n7d1l5ehpverzowbay&st=9jvx6bhn&dl=1",
+                    "duration_ms": 344293,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c2143d660b13ed967f3814b3",
+                    "id": 1769,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Dam3etin",
+                    "track_url": "https://www.dropbox.com/scl/fi/ia5g0kadgw1zjjve0jzgf/06.Damaaaten.mp3?rlkey=1ka9v2w583fw8k4d5eqxscn02&st=20s6z5qr&dl=1",
+                    "duration_ms": 348003,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c2143d660b13ed967f3814b3",
+                    "id": 1770,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Hayran",
+                    "track_url": "https://www.dropbox.com/scl/fi/p8k1k5sep28mi9tct69l4/07.Hayran.mp3?rlkey=3ddpvte9n563l0gkp3u3962ar&st=7of74p31&dl=1",
+                    "duration_ms": 289488,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c2143d660b13ed967f3814b3",
+                    "id": 1771,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "La Ya Alby",
+                    "track_url": "https://www.dropbox.com/scl/fi/8n09d137r5kx4anbg0m8o/08.Laa_Ya_Alby.mp3?rlkey=55vc85kztil6snt7ev08ux6c5&st=eqgz1vze&dl=1",
+                    "duration_ms": 351817,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c2143d660b13ed967f3814b3",
+                    "id": 1772,
+                    "artist": "Mohamed Fouad"
+                }
+            ],
+            "id": 1764
+        },
+        {
+            "name": "El Hob El Ha2e2y",
+            "release_date": "1998-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738490035799d59241e9b67f9f",
+            "track_url": "https://open.spotify.com/album/1rBP7yd7cCeXPrH2CveD75",
+            "tracks": [
+                {
+                    "name": "Kaddab",
+                    "track_url": "https://www.dropbox.com/scl/fi/g56s2kxgxy03ehslsxlrt/01.Kadab.mp3?rlkey=fzj7j9ygn2j74bw4tnyrv5vr8&st=0f7r67sd&dl=1",
+                    "duration_ms": 329508,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738490035799d59241e9b67f9f",
+                    "id": 1774,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Aheb Eh",
+                    "track_url": "https://www.dropbox.com/scl/fi/bmoxi50w1xg4pcnab7qd4/02.Ahebb_Eih.mp3?rlkey=iaut19772h6r5r8h2wtfu0ujr&st=hnnr5uzv&dl=1",
+                    "duration_ms": 274912,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738490035799d59241e9b67f9f",
+                    "id": 1775,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Esma3ny",
+                    "track_url": "https://www.dropbox.com/scl/fi/piyaloy15mbin5owrzs99/03.Esmaaany.mp3?rlkey=ttebwkwlpcore50o4dee4ofdd&st=h4cwpagz&dl=1",
+                    "duration_ms": 353018,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738490035799d59241e9b67f9f",
+                    "id": 1776,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Ana Law Olt",
+                    "track_url": "https://www.dropbox.com/scl/fi/l8nxzq4j2bgv1e031dq8p/04.Ana_Law_Olt.mp3?rlkey=jfg1mv71bk8evhhzp0pp956st&st=pg4nnlez&dl=1",
+                    "duration_ms": 279196,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738490035799d59241e9b67f9f",
+                    "id": 1777,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Shahdein Aleh",
+                    "track_url": "https://www.dropbox.com/scl/fi/96jov0m9l130uvrfww5g4/05.Shahdin_Alieh.mp3?rlkey=hm8mrkbzfc2exllybkxqcaqx1&st=iy2089cc&dl=1",
+                    "duration_ms": 277185,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738490035799d59241e9b67f9f",
+                    "id": 1778,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Rage3 Tany",
+                    "track_url": "https://www.dropbox.com/scl/fi/9ygzsohbd771m9pdeak3f/06.Rageaa_Tany.mp3?rlkey=tya8mzsr369pnwdexdotsr050&st=otqicr2d&dl=1",
+                    "duration_ms": 314122,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738490035799d59241e9b67f9f",
+                    "id": 1779,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Tehremny Leh",
+                    "track_url": "https://www.dropbox.com/scl/fi/2niqasdpfxvvqox30omu7/07.Tehremny_Leih.mp3?rlkey=o9pnak7cm7h5kuo7uq8yc3bws&st=pym91kjf&dl=1",
+                    "duration_ms": 280189,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738490035799d59241e9b67f9f",
+                    "id": 1780,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "El Hob El Ha2e2y",
+                    "track_url": "https://www.dropbox.com/scl/fi/8kr5k9nif7tggcndnx7z0/08.El_Hob_El_Hakiky.mp3?rlkey=77gu7d6j8jvqtvk8tgwo3quet&st=6osh70vh&dl=1",
+                    "duration_ms": 344137,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738490035799d59241e9b67f9f",
+                    "id": 1781,
+                    "artist": "Mohamed Fouad"
+                }
+            ],
+            "id": 1773
+        },
+        {
+            "name": "Nehlam",
+            "release_date": "1996-09-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b273214eea6f5023648844689790",
+            "track_url": "https://open.spotify.com/album/2fbHlcglhZkoTOWbvTbJGy",
+            "tracks": [
+                {
+                    "name": "Kollena",
+                    "track_url": "https://www.dropbox.com/scl/fi/0bs8r8rvw5u36j868kofm/01.Aol_Lena.mp3?rlkey=3vz7tq1mtm5epmz2grzl1hg9y&st=kuv20g3i&dl=1",
+                    "duration_ms": 225950,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273214eea6f5023648844689790",
+                    "id": 1783,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "We Bakina Etneen",
+                    "track_url": "https://www.dropbox.com/scl/fi/d6snm5zti5rrm8aa7jv11/05.We_Baqena_Etnain.mp3?rlkey=h1fulohxhipiy8xejv19ak1zl&st=ly8kjyig&dl=1",
+                    "duration_ms": 100830,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273214eea6f5023648844689790",
+                    "id": 1784,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Nehlam",
+                    "track_url": "https://www.dropbox.com/scl/fi/tbuuzj98zy8oc7brr6k83/04.Nehlam.mp3?rlkey=0y7hfxfmfk5ohr9ab8u1wnzch&st=nela7y0i&dl=1",
+                    "duration_ms": 153182,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273214eea6f5023648844689790",
+                    "id": 1785,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Ya Einy Aleina",
+                    "track_url": "https://www.dropbox.com/scl/fi/l62qnitnvwbm4o7ohsygb/06.Ya_Ainy_Alaina.mp3?rlkey=j1458fvej5znxyouxe3iqod6x&st=tojjkaui&dl=1",
+                    "duration_ms": 157126,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273214eea6f5023648844689790",
+                    "id": 1786,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "El Hob Akbar Bi Ktir",
+                    "track_url": "",
+                    "duration_ms": 246998,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273214eea6f5023648844689790",
+                    "id": 1787,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Hawed",
+                    "track_url": "https://www.dropbox.com/scl/fi/f441lf1ved5f7cvgr2okk/02.Hawed.mp3?rlkey=ufgefde4xgupohltwre6f6uzi&st=i8arc75h&dl=1",
+                    "duration_ms": 193558,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273214eea6f5023648844689790",
+                    "id": 1790,
+                    "artist": "Mohamed Fouad"
+                }
+            ],
+            "id": 1782
+        },
+        {
+            "name": "Habiena",
+            "release_date": "1995-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739718e5bc44069a6e1d33ac38",
+            "track_url": "https://open.spotify.com/album/3LPaVGexbZdxQe6UhPNs3X",
+            "tracks": [
+                {
+                    "name": "Habiena (Wenta B'eid)",
+                    "track_url": "https://www.dropbox.com/scl/fi/7pdr8wxn5rmeibbuevvro/01.Habena.mp3?rlkey=1obo5uyjhevvw29p74luugm9b&st=o9sjpi35&dl=1",
+                    "duration_ms": 333335,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739718e5bc44069a6e1d33ac38",
+                    "id": 1792,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Yaly Malkash Kbeer",
+                    "track_url": "https://www.dropbox.com/scl/fi/1k2apgqn2st7g6u6x455t/02.Yally_Malksh_Kebeer.mp3?rlkey=flm65ha1cy62qbtj6ljt1wrlt&st=ghj9j45h&dl=1",
+                    "duration_ms": 191111,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739718e5bc44069a6e1d33ac38",
+                    "id": 1793,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Hawadaak",
+                    "track_url": "https://www.dropbox.com/scl/fi/3azdahq1i5b9z2uawj6yh/03.Ha_Wadaak.mp3?rlkey=snivdr8rcy76kq8pmzxd3w9fo&st=miimene9&dl=1",
+                    "duration_ms": 402071,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739718e5bc44069a6e1d33ac38",
+                    "id": 1794,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Sadakt",
+                    "track_url": "https://www.dropbox.com/scl/fi/70pgzyxo8sgj4jvyjpn94/04.Sadaat.mp3?rlkey=kj38eova3qc0ugyr0rk8y5j07&st=buywv9bt&dl=1",
+                    "duration_ms": 256775,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739718e5bc44069a6e1d33ac38",
+                    "id": 1795,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "El Leil El Hady",
+                    "track_url": "https://www.dropbox.com/scl/fi/ellhrvk530fblz9rnt9uu/05.El_Leil_El_Hady.mp3?rlkey=u2dryuimuzmpa51seh5kbig7o&st=z5qkr13r&dl=1",
+                    "duration_ms": 272519,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739718e5bc44069a6e1d33ac38",
+                    "id": 1796,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Wadaana (Mshina Kteer)",
+                    "track_url": "https://www.dropbox.com/scl/fi/lwv5mwzxogexbdwu7koil/06.Wadaana.mp3?rlkey=0uz05xmpx0kewolt6pu7vuriy&st=rx1vefqu&dl=1",
+                    "duration_ms": 286295,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739718e5bc44069a6e1d33ac38",
+                    "id": 1797,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Meen Feena",
+                    "track_url": "https://www.dropbox.com/scl/fi/dx4hxcg5t8zvm1qrp5j1i/07.Meen_Fena.mp3?rlkey=dl8izhd64gp4b9f5qkdaz5yow&st=tjz12elp&dl=1",
+                    "duration_ms": 269471,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739718e5bc44069a6e1d33ac38",
+                    "id": 1798,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "El Shooq",
+                    "track_url": "https://www.dropbox.com/scl/fi/3yer8lvzbiazcybz28qrf/08.Elsho2.mp3?rlkey=qrkxb8nzcyrtf7c7eq6qtgkos&st=8ydpsyjt&dl=1",
+                    "duration_ms": 243887,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739718e5bc44069a6e1d33ac38",
+                    "id": 1799,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Wala Yhemek",
+                    "track_url": "https://www.dropbox.com/scl/fi/6h11unizcpldi2wkixxei/09.Wala_Yehmek.mp3?rlkey=bt8lsdqg87bxbzfb1tlno83fs&st=egpz8o53&dl=1",
+                    "duration_ms": 328679,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739718e5bc44069a6e1d33ac38",
+                    "id": 1800,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Einek Sah",
+                    "track_url": "https://www.dropbox.com/scl/fi/xs4wvjfvexndlqywjplad/10.3anek_-Sa7.mp3?rlkey=9xifqmr3flmvmu8098gg6aefk&st=mvguw51p&dl=1",
+                    "duration_ms": 252095,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739718e5bc44069a6e1d33ac38",
+                    "id": 1801,
+                    "artist": "Mohamed Fouad"
+                }
+            ],
+            "id": 1791
+        },
+        {
+            "name": "مشينا",
+            "release_date": "1991-09-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739ba6b0abce0f6b98f2f41d71",
+            "track_url": "https://open.spotify.com/album/3KZuogULhgXrMIOvArGEC7",
+            "tracks": [
+                {
+                    "name": "قرب تعالى",
+                    "track_url": "https://www.dropbox.com/scl/fi/f9fvluou4n2oecfyhgql8/01.Arab_Taala.mp3?rlkey=hx0so83mzt3wdqhvgrdvrxgr9&st=f3j7oy66&dl=1",
+                    "duration_ms": 181076,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739ba6b0abce0f6b98f2f41d71",
+                    "id": 1803,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "حاضر",
+                    "track_url": "https://www.dropbox.com/scl/fi/mnd8obj5ticc95fahgth4/05.Hader.mp3?rlkey=zd0bj8jzo9jh09aj7gfp9aq1q&st=ipwt9xsi&dl=1",
+                    "duration_ms": 309244,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739ba6b0abce0f6b98f2f41d71",
+                    "id": 1804,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "هاعلمك",
+                    "track_url": "https://www.dropbox.com/scl/fi/dje099oozvfd40g5v16j2/08.Haaalemak.mp3?rlkey=w9apbwspxu9dyj2pmlps9ilpg&st=cteos6y4&dl=1",
+                    "duration_ms": 249328,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739ba6b0abce0f6b98f2f41d71",
+                    "id": 1805,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "حبيت",
+                    "track_url": "https://www.dropbox.com/scl/fi/xza9w1dom5knmk4fe9akj/02.Habeat.mp3?rlkey=9mukea5z61ituxe685ss6knu1&st=g7r430xs&dl=1",
+                    "duration_ms": 252195,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739ba6b0abce0f6b98f2f41d71",
+                    "id": 1806,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "هستنى روحك",
+                    "track_url": "https://www.dropbox.com/scl/fi/f2csaa3490udhiu3qu933/06.Hatensa_Rohak.mp3?rlkey=oqqyq3gglp5hguuwph2ov1qz8&st=2eclysh1&dl=1",
+                    "duration_ms": 225711,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739ba6b0abce0f6b98f2f41d71",
+                    "id": 1807,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "كله الا دي",
+                    "track_url": "https://www.dropbox.com/scl/fi/cx8c2g6hg966w2txmq9r8/09.Kollo_Ella_Di.mp3?rlkey=xdlgvmrmkmr8gqmuh7tkhsdu5&st=lrabxlfz&dl=1",
+                    "duration_ms": 215102,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739ba6b0abce0f6b98f2f41d71",
+                    "id": 1808,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "مواعدانى",
+                    "track_url": "https://www.dropbox.com/scl/fi/tywjme6kgnq51xz9o7pd7/07.Mowaaaedny.mp3?rlkey=ghk8f6e9831991qpgvqogbxhy&st=hox3jwan&dl=1",
+                    "duration_ms": 257502,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739ba6b0abce0f6b98f2f41d71",
+                    "id": 1809,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "مشينا",
+                    "track_url": "https://www.dropbox.com/scl/fi/ag0f9hpmjx15s4naq77cw/04.Mesheena.mp3?rlkey=ms900rakkfxoegdrwwsoh8m97&st=6dm2tdhi&dl=1",
+                    "duration_ms": 231649,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739ba6b0abce0f6b98f2f41d71",
+                    "id": 1810,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "شجن",
+                    "track_url": "https://www.dropbox.com/scl/fi/oy6pjoci7qv1vyk7dgseh/10.Shaggan.mp3?rlkey=skcjr3cve1swipvarbl98mgef&st=ajmd106k&dl=1",
+                    "duration_ms": 255061,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739ba6b0abce0f6b98f2f41d71",
+                    "id": 1811,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "تعرفى",
+                    "track_url": "https://www.dropbox.com/scl/fi/1m5balnf5d5z3sk40ju28/03.Teaarafy.mp3?rlkey=bl04m3uwmv8k8i5l475ytaz1m&st=5kduxwz8&dl=1",
+                    "duration_ms": 206126,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739ba6b0abce0f6b98f2f41d71",
+                    "id": 1812,
+                    "artist": "Mohamed Fouad"
+                }
+            ],
+            "id": 1802
+        },
+        {
+            "name": "Sultan Zamany",
+            "release_date": "1989-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273622fd9baccfd0c3eb9273f46",
+            "track_url": "https://open.spotify.com/album/2ojUdczYFDJGwzDgxoDIWD",
+            "tracks": [
+                {
+                    "name": "Aash El Teb",
+                    "track_url": "https://www.dropbox.com/scl/fi/fr42asbphvezpsztniyds/01.Aash-El-Teb.mp3?rlkey=ouckplyj3gyfe9tk6apgjyuaq&st=hvbxssdl&dl=1",
+                    "duration_ms": 310256,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273622fd9baccfd0c3eb9273f46",
+                    "id": 1837,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Ala Einy",
+                    "track_url": "https://www.dropbox.com/scl/fi/4g2z40mcjhbglg8p8zf12/02.Ala-Aainy.mp3?rlkey=k5kw374b77ncbmplzq4e5b551&st=ewyw4aim&dl=1",
+                    "duration_ms": 234788,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273622fd9baccfd0c3eb9273f46",
+                    "id": 1838,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Baat El Sobh Mersal - Mawwal",
+                    "track_url": "https://www.dropbox.com/scl/fi/lcjiyyafxs93z250cznpx/03.Baat-El-Sobh-Mersal.mp3?rlkey=1w2f1uc8jkfklqi1pifnq4joh&st=pxuujjnp&dl=1",
+                    "duration_ms": 241005,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273622fd9baccfd0c3eb9273f46",
+                    "id": 1839,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "El Shams",
+                    "track_url": "https://www.dropbox.com/scl/fi/ahl0cuv6deoxfivn81bcx/04.El-Shams.mp3?rlkey=nqsuu11nc8267rykrh7qxe8l5&st=qqdc69t2&dl=1",
+                    "duration_ms": 244480,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273622fd9baccfd0c3eb9273f46",
+                    "id": 1840,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Fatima",
+                    "track_url": "https://www.dropbox.com/scl/fi/e15aqe208kzaalie9w31x/05.Fatima.mp3?rlkey=oclr3wd58wnnerbmkg4qu63ss&st=oyfe7ys5&dl=1",
+                    "duration_ms": 140747,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273622fd9baccfd0c3eb9273f46",
+                    "id": 1841,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Fe El Sekka",
+                    "track_url": "https://www.dropbox.com/scl/fi/27dn23m7p8mn5czki0sq1/09.Fe-Elseka.mp3?rlkey=7al2jnrgmvxgelp4q00baztnq&st=ha9x2p7q&dl=1",
+                    "duration_ms": 257174,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273622fd9baccfd0c3eb9273f46",
+                    "id": 1842,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Sultan Zamany",
+                    "track_url": "https://www.dropbox.com/scl/fi/w3649t4y2or87jzaefi3l/06.soltan-Zamany.mp3?rlkey=hiqf23qamh3yuilnsf2nt5b1m&st=yxssm5so&dl=1",
+                    "duration_ms": 257750,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273622fd9baccfd0c3eb9273f46",
+                    "id": 1843,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Ya Soghayar Ala El Hawa",
+                    "track_url": "https://www.dropbox.com/scl/fi/4frhrj2zie7rchvz3x0zo/08.Ya-Soghayar.mp3?rlkey=vbflsppfnss9ji9gawhxp51jp&st=m5xcswgi&dl=1",
+                    "duration_ms": 303856,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273622fd9baccfd0c3eb9273f46",
+                    "id": 1844,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Yanni",
+                    "track_url": "https://www.dropbox.com/scl/fi/wh00dfh9ditssihldchuf/07.Yany.mp3?rlkey=s691ka3x3jvh0w93mmacdz5ke&st=tszmy4d2&dl=1",
+                    "duration_ms": 238393,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273622fd9baccfd0c3eb9273f46",
+                    "id": 1845,
+                    "artist": "Mohamed Fouad"
+                }
+            ],
+            "id": 1836
+        },
+        {
+            "name": "Yany",
+            "release_date": "1988-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273beea1baf930851d5bd076e1f",
+            "track_url": "https://open.spotify.com/album/7kSn7ASjZESaaRqB0XyPDt",
+            "tracks": [
+                {
+                    "name": "Weilla",
+                    "track_url": "https://www.dropbox.com/scl/fi/s7ugq6ltc0qyfjc6mgluf/01.Welah.mp3?rlkey=pj9xfm92igzgm9qe6k98iyznw&st=1aiqt5ht&dl=1",
+                    "duration_ms": 202080,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273beea1baf930851d5bd076e1f",
+                    "id": 1847,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Yany",
+                    "track_url": "https://www.dropbox.com/scl/fi/toet4nrmqul58dwzu6jsr/02.Yani.mp3?rlkey=glzwt3v3ky7c9biboja7sh423&st=wbj93vuo&dl=1",
+                    "duration_ms": 238320,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273beea1baf930851d5bd076e1f",
+                    "id": 1848,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Tabbelly",
+                    "track_url": "https://www.dropbox.com/scl/fi/mlpy10umbh5b6ql72072h/03.Tabelly.mp3?rlkey=gssk03bs9rpqh0za66aausavy&st=bh967pgq&dl=1",
+                    "duration_ms": 273933,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273beea1baf930851d5bd076e1f",
+                    "id": 1849,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Hamdellah Ala El Salama",
+                    "track_url": "https://www.dropbox.com/scl/fi/aj854b89f4i94lz7wjw4w/04.Hamdelah_Aa_El_Salama.mp3?rlkey=ym9hbsesgk9zhkfvb8lhbctr7&st=5y5bbuh5&dl=1",
+                    "duration_ms": 238160,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273beea1baf930851d5bd076e1f",
+                    "id": 1850,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Ala Einy",
+                    "track_url": "https://www.dropbox.com/scl/fi/vd0a6aq2649o7jcx14ls3/05.Ala_Einy.mp3?rlkey=0bjx20akswz4idk59lh696e7x&st=u5ej8xjt&dl=1",
+                    "duration_ms": 234733,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273beea1baf930851d5bd076e1f",
+                    "id": 1851,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Marmareena",
+                    "track_url": "https://www.dropbox.com/scl/fi/l98e2u8or82yw547umlcf/06.Marmarina.mp3?rlkey=p69047pvbobraq3utlk94294x&st=bebn87x7&dl=1",
+                    "duration_ms": 227706,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273beea1baf930851d5bd076e1f",
+                    "id": 1852,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Fateema",
+                    "track_url": "https://www.dropbox.com/scl/fi/5qfwcksnzp9zl5eo4dk8i/07.Fatima.mp3?rlkey=l1apsx58x2fw4olbglq878ovc&st=6zpklsl3&dl=1",
+                    "duration_ms": 192266,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273beea1baf930851d5bd076e1f",
+                    "id": 1853,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "El Shams",
+                    "track_url": "https://www.dropbox.com/scl/fi/iefqrlw3pwu7gzngrxge9/08.El_Shams.mp3?rlkey=t891zdihy3wjnaczoe1mniml3&st=pj3paayh&dl=1",
+                    "duration_ms": 244413,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273beea1baf930851d5bd076e1f",
+                    "id": 1854,
+                    "artist": "Mohamed Fouad"
+                }
+            ],
+            "id": 1846
+        },
+        {
+            "name": "Hawed",
+            "release_date": "1987-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d6dece228dea2a956191e737",
+            "track_url": "https://open.spotify.com/album/2KxTzTyQXwzeceqhrtkguP",
+            "tracks": [
+                {
+                    "name": "Neheb Begad",
+                    "track_url": "https://www.dropbox.com/scl/fi/b1ps9k01gc6bs4rnhjxue/.mp3?rlkey=1tvvkoixn00u1ogsot9ufs4hi&st=72o1wjvb&dl=1",
+                    "duration_ms": 307946,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d6dece228dea2a956191e737",
+                    "id": 1868,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Hawed",
+                    "track_url": "https://www.dropbox.com/scl/fi/3vo87oa39s9rl77k4ae31/.mp3?rlkey=71w9bwx0zcqbs45gn5lkxzi4s&st=159jlemo&dl=1",
+                    "duration_ms": 252040,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d6dece228dea2a956191e737",
+                    "id": 1869,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "El Qolla",
+                    "track_url": "https://www.dropbox.com/scl/fi/b7oakuosmw6axn75ylq83/.mp3?rlkey=w5dpfzv7at90j3weid652nymp&st=n13k07p8&dl=1",
+                    "duration_ms": 278880,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d6dece228dea2a956191e737",
+                    "id": 1870,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Azez Alaya El Noum",
+                    "track_url": "https://www.dropbox.com/scl/fi/pd76crw9cncosthbi8wuf/.mp3?rlkey=4gnrptfmdf91w6tl7zss68si9&st=0kzv6hhi&dl=1",
+                    "duration_ms": 258946,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d6dece228dea2a956191e737",
+                    "id": 1871,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Shed El Rehal",
+                    "track_url": "https://www.dropbox.com/scl/fi/d06nxqcyym74p66tha77w/.mp3?rlkey=fimfdrszglh0exvjd0885tqr4&st=3m4hpvib&dl=1",
+                    "duration_ms": 360546,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d6dece228dea2a956191e737",
+                    "id": 1872,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Metgharrabeen",
+                    "track_url": "https://www.dropbox.com/scl/fi/ztntuw1vivfi2nyyyfopj/.mp3?rlkey=xvk7l1ojze6yw2ly1vi3adpcw&st=lhrlsbj8&dl=1",
+                    "duration_ms": 341666,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d6dece228dea2a956191e737",
+                    "id": 1873,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Saddakny Ya Sahby",
+                    "track_url": "https://www.dropbox.com/scl/fi/0dses8b8wcna45orc5zzz/.mp3?rlkey=ntxluqgdmsbsj7z3qru3m96vp&st=2cne5nz0&dl=1",
+                    "duration_ms": 356333,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d6dece228dea2a956191e737",
+                    "id": 1874,
+                    "artist": "Mohamed Fouad"
+                }
+            ],
+            "id": 1867
+        },
+        {
+            "name": "Fe El Sekka",
+            "release_date": "1985-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f399200f4385a02088a500a1",
+            "track_url": "https://open.spotify.com/album/3Z5v38eU96XZ3EPhPsjLhV",
+            "tracks": [
+                {
+                    "name": "Fe El Sekka",
+                    "track_url": "https://www.dropbox.com/scl/fi/i2l0tx1fvxah0w2u2j9m9/03.Fil_Seka.mp3?rlkey=ynxdx3f9j2kty30u459q4rh0x&st=pzqeew2s&dl=1",
+                    "duration_ms": 257106,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f399200f4385a02088a500a1",
+                    "id": 1876,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Ya Soghayar Ala El Hawa",
+                    "track_url": "https://www.dropbox.com/scl/fi/z92dm2v6to5k6oi8novvr/07.Ya_Sagheer_Ala_El_Hawa.mp3?rlkey=yzt3x0ldpf893c8cirksmga3w&st=yfav4wi5&dl=1",
+                    "duration_ms": 303786,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f399200f4385a02088a500a1",
+                    "id": 1877,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Gharkan Le Shoshty",
+                    "track_url": "https://www.dropbox.com/scl/fi/rh418sf5xz91sei7iljx1/04.Ghar2an.mp3?rlkey=aj39z8m5285s5fbeob8kt676w&st=8cq7iyb5&dl=1",
+                    "duration_ms": 296053,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f399200f4385a02088a500a1",
+                    "id": 1878,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Saber",
+                    "track_url": "https://www.dropbox.com/scl/fi/vl3z7c2q2curn1bf6psnx/05.Saber.mp3?rlkey=ii8omofdmwlu94eg304e50q7k&st=ryv9o35i&dl=1",
+                    "duration_ms": 359240,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f399200f4385a02088a500a1",
+                    "id": 1879,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Yalla Beena Yalla",
+                    "track_url": "https://www.dropbox.com/scl/fi/7b4ib1blz4mgq9kxhoizq/06.Yala_Bina_Yala.mp3?rlkey=6ww07pfpoix5paocrkbcjwvwl&st=cu992nuz&dl=1",
+                    "duration_ms": 237146,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f399200f4385a02088a500a1",
+                    "id": 1880,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Ya Tair Ya Ghareeb",
+                    "track_url": "https://www.dropbox.com/scl/fi/2isfe5z4t00uxyosirtds/08.Ya_Teir_Ya_Gharib.mp3?rlkey=79jyfyykqq83ukltt79v0tto5&st=7qcskvkj&dl=1",
+                    "duration_ms": 231960,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f399200f4385a02088a500a1",
+                    "id": 1881,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Baat El Sobh Mersal - Mawwal",
+                    "track_url": "https://www.dropbox.com/scl/fi/glnutq90fprgapd4ids8s/02.Ba3at_Mersal.mp3?rlkey=sbolu26oeup0h0thzbvohnw1e&st=8t3apjti&dl=1",
+                    "duration_ms": 240933,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f399200f4385a02088a500a1",
+                    "id": 1882,
+                    "artist": "Mohamed Fouad"
+                },
+                {
+                    "name": "Aash El Teb",
+                    "track_url": "https://www.dropbox.com/scl/fi/zwrg7g7vsqnuxmthzngph/01.Ash_El_Teb.mp3?rlkey=aq48kfij70tsj4m5sk5m2ps18&st=0ibfactu&dl=1",
+                    "duration_ms": 310186,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f399200f4385a02088a500a1",
+                    "id": 1883,
+                    "artist": "Mohamed Fouad"
+                }
+            ],
+            "id": 1875
+        }
+    ],
+    "singles": [
+        {
+            "name": "من أول يوم",
+            "release_date": "2023-07-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ca68bae908f2e8afd3353f57",
+            "track_url": "https://www.dropbox.com/scl/fi/d62z3p0jrh231a5xy4kzu/.mp3?rlkey=8t13bttrzoxqnfefttlko5p21&st=i2muijfp&dl=1",
+            "id": 1884,
+            "artist": "Mohamed Fouad"
+        },
+        {
+            "name": "علو السما",
+            "release_date": "2023-02-14",
+            "image": "https://i.scdn.co/image/ab67616d0000b273fa15a027e5a8b86ee13afe4a",
+            "track_url": "https://www.dropbox.com/scl/fi/pybud9slqhlfxvxn0289k/.mp3?rlkey=atzlfv8ajwoihsj2ykx5bqb6j&st=yak58nd3&dl=1",
+            "id": 1885,
+            "artist": "Mohamed Fouad"
+        },
+        {
+            "name": "Shaghalteny Leh ?!",
+            "release_date": "2021-11-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b273df962e058dccdc1442044962",
+            "track_url": "https://www.dropbox.com/scl/fi/2gt0g47opvjsmznb9kbkw/.mp3?rlkey=5twzsfh5oupvznyg5fkltrioe&st=65e4izds&dl=1",
+            "id": 1887,
+            "artist": "Mohamed Fouad"
+        },
+        {
+            "name": "Salam (Remix)",
+            "release_date": "2021-10-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732d2856fa304e711d53206607",
+            "track_url": "https://www.dropbox.com/scl/fi/cz6e5s9sj63mrdx7psd4l/.mp3?rlkey=vc1cm9e89jd65lw66d3kzwtlh&st=ccpf2ljj&dl=1",
+            "id": 1888,
+            "artist": "Mohamed Fouad"
+        },
+        {
+            "name": "Ahkelak",
+            "release_date": "2021-02-12",
+            "image": "https://i.scdn.co/image/ab67616d0000b273cfce4c9a898f43700facc213",
+            "track_url": "https://www.dropbox.com/scl/fi/a70fj9cw57akgtel5hnye/.mp3?rlkey=o561aoj43e8yxkwf96p6bvtoq&st=l6q1v16f&dl=1",
+            "id": 1889,
+            "artist": "Mohamed Fouad"
+        },
+        {
+            "name": "Leh",
+            "release_date": "2021-01-14",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e70a76304469b6e138b94c82",
+            "track_url": "https://www.dropbox.com/scl/fi/wgcacmyr9s3ctmqp1vse3/.mp3?rlkey=vzf1c9g8w6g89cfwediygkl0j&st=k9suvgkh&dl=1",
+            "id": 1890,
+            "artist": "Mohamed Fouad"
+        },
+        {
+            "name": "Marakeb El Nagah",
+            "release_date": "2020-08-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a6a08e3863200224cfd58645",
+            "track_url": "https://www.dropbox.com/scl/fi/101kd3domcpyff8nd4h5k/.mp3?rlkey=efln5g4pfzrsbh1xpxfrsdr76&st=nf7q0u8v&dl=1",
+            "id": 1891,
+            "artist": "Mohamed Fouad"
+        },
+        {
+            "name": "شكوى الى الله",
+            "release_date": "2020-07-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b27340a4888f56958efdd000c941",
+            "track_url": "https://www.dropbox.com/scl/fi/m5biv27hrqg63nvknn8lv/.mp3?rlkey=kngqygm5aguke2yqok0qbypr1&st=xie8n0i2&dl=1",
+            "id": 1892,
+            "artist": "Mohamed Fouad"
+        },
+        {
+            "name": "عيش الحياة",
+            "release_date": "2020",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b7bc3a50851ea2ae6cfeffb1",
+            "track_url": "https://www.dropbox.com/scl/fi/bsueinlftcjcn1ti1s6xk/.mp3?rlkey=g41rrip5hvizjzuyjj5uzcoor&st=257wjhrr&dl=1",
+            "id": 1893,
+            "artist": "Mohamed Fouad"
+        },
+        {
+            "name": "تفاصيل ما بينا",
+            "release_date": "2016",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a1395880bedd272ab4ad4190",
+            "track_url": "https://www.dropbox.com/scl/fi/yjtwzvukerrhgdevkdgcl/.mp3?rlkey=niby1082mgvzc4l2iokpih9sm&st=85iaeoke&dl=1",
+            "id": 1895,
+            "artist": "Mohamed Fouad"
+        },
+        {
+            "name": "Elly Nawy Ala Sahra",
+            "release_date": "2016",
+            "image": "https://i.scdn.co/image/ab67616d0000b273336e29252b130313a92d2406",
+            "track_url": "https://www.dropbox.com/scl/fi/9632z7dwkxlb53y3oycak/.mp3?rlkey=7g9qkdo9guvvcd0lsnqu9tqcx&st=p5xn0kdz&dl=1",
+            "id": 1896,
+            "artist": "Mohamed Fouad"
+        },
+        {
+            "name": "نفسيات (من مسلسل أرض النعام)",
+            "release_date": "2015",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ebb296d2891ed2898a45bf05",
+            "track_url": "https://www.dropbox.com/scl/fi/0orq7xk8dbsif28s52f7k/.mp3?rlkey=yjl5lv8444rnpalymqzt1okf4&st=oa0y5kan&dl=1",
+            "id": 1897,
+            "artist": "Mohamed Fouad"
+        },
+        {
+            "name": "سقف بيوتنا (من مسلسل أرض النعام)",
+            "release_date": "2015",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731271a4953d0b9a08cc198de9",
+            "track_url": "https://www.dropbox.com/scl/fi/402u2twg25z2wtecu1cmt/.mp3?rlkey=k61sazs0d0lroleo93l27fuuv&st=unascvc7&dl=1",
+            "id": 1898,
+            "artist": "Mohamed Fouad"
+        },
+        {
+            "name": "بسم الله",
+            "release_date": "2014",
+            "image": "https://i.scdn.co/image/ab67616d0000b27394eda2d20ab0ccbb093e4da6",
+            "track_url": "https://www.dropbox.com/scl/fi/jjm5hyxibk9vki7bxirfp/.mp3?rlkey=rh17npuqdj3ryzx94rr0azgnv&st=di4bpx7o&dl=1",
+            "id": 1899,
+            "artist": "Mohamed Fouad"
+        },
+        {
+            "name": "ايه اللي غير طبعنا",
+            "release_date": "2014",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d8b4cc7dc176fd35afc0e0c0",
+            "track_url": "https://www.dropbox.com/scl/fi/uz3wvxedtbt0mxb6c3sc0/.mp3?rlkey=6lqffk2x2b73du2stxt0htprx&st=ridx53fi&dl=1",
+            "id": 1900,
+            "artist": "Mohamed Fouad"
+        },
+        {
+            "name": "حبيبي يا وطن",
+            "release_date": "2013",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732c78681f10e302d1084d1112",
+            "track_url": "https://www.dropbox.com/scl/fi/mralqvtjy6e8syoicn1ai/.mp3?rlkey=mer1d6vwza8x7uouf7opcg8lp&st=apqvypod&dl=1",
+            "id": 1901,
+            "artist": "Mohamed Fouad"
+        },
+        {
+            "name": "مولد و سيرك (من مسلسل خطوط حمراء)",
+            "release_date": "2012",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733c85c8a367d5f2e62c347740",
+            "track_url": "https://www.dropbox.com/scl/fi/e4p338iom7y5mumx68l7u/.mp3?rlkey=6flxjssjdabnws4q66683d9un&st=jjyugk3h&dl=1",
+            "id": 1902,
+            "artist": "Mohamed Fouad"
+        },
+        {
+            "name": "أسباب كتير (من مسلسل خطوط حمراء)",
+            "release_date": "2012",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c0cdf2bfe3b417c5516394df",
+            "track_url": "https://www.dropbox.com/scl/fi/kp94xtphksyirefvl4g2m/.mp3?rlkey=qcr8j9lmnjyqjc0f3wfnh5dyz&st=ghmvh8op&dl=1",
+            "id": 1903,
+            "artist": "Mohamed Fouad"
+        },
+        {
+            "name": "بشبه عليك",
+            "release_date": "2011",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735cd153ba87e63fa9573e3445",
+            "track_url": "https://www.dropbox.com/scl/fi/7yj8reutplp2e7vbhy4ba/.mp3?rlkey=2181y0s199339ul0d7joi9oqd&st=7jh1xdd0&dl=1",
+            "id": 1904,
+            "artist": "Mohamed Fouad"
+        },
+        {
+            "name": "قلبنا علي بعضنا",
+            "release_date": "2010",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734bb5c7f9dbcbde96bff11e3a",
+            "track_url": "https://www.dropbox.com/scl/fi/f3efaevshclbvzlavzbzt/.mp3?rlkey=c6hwsyuw53s5goi8rhkyju2wc&st=lfhgxz2a&dl=1",
+            "id": 1906,
+            "artist": "Mohamed Fouad"
+        },
+        {
+            "name": "دوري بينا",
+            "release_date": "2010",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e43be8d3c8392691d07aa6f2",
+            "track_url": "https://www.dropbox.com/scl/fi/rv7eo8umix394648p33il/.mp3?rlkey=7ijuz3usvp47566ngluv7hvtw&st=gwttdg0c&dl=1",
+            "id": 1908,
+            "artist": "Mohamed Fouad"
+        },
+        {
+            "name": "اغلى من حياتي",
+            "release_date": "2010",
+            "image": "https://i.scdn.co/image/ab67616d0000b273424610846f26edb8ab604fc0",
+            "track_url": "https://www.dropbox.com/scl/fi/h9lth5a0qwtdulcy8xjc0/.mp3?rlkey=vdvxefgxsqbvibizg8lw9d19n&st=plxjqm95&dl=1",
+            "id": 1909,
+            "artist": "Mohamed Fouad"
+        },
+        {
+            "name": "Mehtar Ana",
+            "release_date": "2005",
+            "image": "https://i.scdn.co/image/ab67616d0000b27373ff19c4805e935f65ff60f5",
+            "track_url": "https://www.dropbox.com/scl/fi/2w4ews553wrodmzjo8lmi/.mp3?rlkey=iafl86egnjumambnzlm4so6j9&st=cualfrv8&dl=1",
+            "id": 1910,
+            "artist": "Mohamed Fouad"
+        },
+        {
+            "name": "Mategy Ne3mel Kda",
+            "release_date": "2005",
+            "image": "https://i.scdn.co/image/ab67616d0000b27303b480a23e0f8c62eacb3a43",
+            "track_url": "https://www.dropbox.com/scl/fi/stdwap3prcczm3kdpcylh/.mp3?rlkey=2p0xabdehcnrw4fobrjocn2xt&st=e4nvyt0p&dl=1",
+            "id": 1911,
+            "artist": "Mohamed Fouad"
+        },
+        {
+            "name": "الحب جاي",
+            "release_date": "2003",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730df70cc35ccbca59e2c4d29d",
+            "track_url": "https://www.dropbox.com/scl/fi/cfac17khh3jc2kdgod9qd/.mp3?rlkey=xagzal6o1n78bpmcrtw2zb9m1&st=79zraf84&dl=1",
+            "id": 1912,
+            "artist": "Mohamed Fouad"
+        },
+        {
+            "name": "إمام الدعاة (تتر بداية المسلسل)",
+            "release_date": "2003",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d8303464687057999bc6b9ba",
+            "track_url": "https://www.dropbox.com/scl/fi/eusfnzrugc2m9n92lqnlt/.mp3?rlkey=sp09ichrn2vu9u9q2vgxm5lqn&st=vdxnjbac&dl=1",
+            "id": 1913,
+            "artist": "Mohamed Fouad"
+        },
+        {
+            "name": "أمين (تتر نهايه مسلسل إمام الدعاة)",
+            "release_date": "2003",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730392dace179c9218a23e0d95",
+            "track_url": "https://www.dropbox.com/scl/fi/agklqhuqzv9wxbj12xbah/.mp3?rlkey=nbn6yws0epj2ah9q047y1x46w&st=cvgrog1h&dl=1",
+            "id": 1914,
+            "artist": "Mohamed Fouad"
+        },
+        {
+            "name": "الاقصى",
+            "release_date": "2002",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ea990e1e95d5354a1dd8f345",
+            "track_url": "",
+            "id": 1916,
+            "artist": "Mohamed Fouad"
+        },
+        {
+            "name": "Kamannana",
+            "release_date": "1998-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273418fa908f5c0bc2eca2c0d59",
+            "track_url": "https://www.dropbox.com/scl/fi/p1qutdp7v0y2eki1cmz1o/05.Kamanana.mp3?rlkey=q5o5stnw8jt6cyf76zzhwmlnr&st=l23yeln0&dl=1",
+            "id": 1917,
+            "artist": "Mohamed Fouad"
+        },
+        {
+            "name": "شيكا بيكا",
+            "release_date": "1991-02-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733ec975787a6caf9eaaf36e28",
+            "track_url": "https://www.dropbox.com/scl/fi/cr778rten6k3rlashr8rn/02.Amrica_Shika_Bika.mp3?rlkey=5q66dd28fc9b1di2mk8eov92l&st=qvu17cec&dl=1",
+            "id": 1918,
+            "artist": "Mohamed Fouad"
+        },
+        {
+            "name": "Kheffet Dammo",
+            "release_date": "1986-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273fd98d9e954ea838ff27d6b93",
+            "track_url": "https://www.dropbox.com/scl/fi/qgavaks3z31e6v6av4t6n/01.Kheffet_Dammo.mp3?rlkey=nr8pcrspnejjdbyfyujc95kff&st=0awp4coa&dl=1",
+            "id": 1921,
+            "artist": "Mohamed Fouad"
+        }
+    ],
+    "popular_tracks": [
+        {
+            "name": "Tamini Alieak",
+            "track_url": "https://www.dropbox.com/scl/fi/6bprnefxfigp81m30zwl3/02.Tamenny_Alaik.mp3?rlkey=cpnlz4ex2niaq1085y3w2x93p&st=hjnje5lb&dl=1",
+            "duration_ms": 267937,
+            "image": "https://i.scdn.co/image/ab67616d0000b2735e4e9015f41b2c17ae60a4d8",
+            "id": 1700,
+            "artist": "Mohamed Fouad"
+        },
+        {
+            "name": "Ahkelak",
+            "release_date": "2021-02-12",
+            "image": "https://i.scdn.co/image/ab67616d0000b273cfce4c9a898f43700facc213",
+            "track_url": "https://www.dropbox.com/scl/fi/a70fj9cw57akgtel5hnye/.mp3?rlkey=o561aoj43e8yxkwf96p6bvtoq&st=l6q1v16f&dl=1",
+            "id": 1889,
+            "artist": "Mohamed Fouad"
+        },
+        {
+            "name": "Habibi Ya",
+            "track_url": "https://www.dropbox.com/scl/fi/buqb9kem3kparhvcxd27w/02.Habibi_Ya.MP3?rlkey=ou1yqq9jipt637el49tupf4dh&st=l17eqwxq&dl=1",
+            "duration_ms": 216006,
+            "image": "https://i.scdn.co/image/ab67616d0000b2735c4e5d16b95689f7dc7fa4bf",
+            "id": 1924,
+            "artist": "Mohamed Fouad"
+        },
+        {
+            "name": "انا لو حبيبك",
+            "track_url": "https://www.dropbox.com/scl/fi/12iiisle6wndmf8xtjb2f/05.Ana_Law_Habibak.mp3?rlkey=pnjo0kttyqkggnh9gw4dqw2l1&st=hih97w6e&dl=1",
+            "duration_ms": 327130,
+            "image": "https://i.scdn.co/image/ab67616d0000b2730a1eae77a7ea3cd9bca84da5",
+            "id": 1758,
+            "artist": "Mohamed Fouad"
+        },
+        {
+            "name": "El Hob El Ha2e2y",
+            "track_url": "https://www.dropbox.com/scl/fi/8kr5k9nif7tggcndnx7z0/08.El_Hob_El_Hakiky.mp3?rlkey=77gu7d6j8jvqtvk8tgwo3quet&st=6osh70vh&dl=1",
+            "duration_ms": 344137,
+            "image": "https://i.scdn.co/image/ab67616d0000b2738490035799d59241e9b67f9f",
+            "id": 1781,
+            "artist": "Mohamed Fouad"
+        },
+        {
+            "name": "Fakrak Ya Nassiny",
+            "track_url": "https://www.dropbox.com/scl/fi/16f0o0cqbju968obo2qj5/01.Fakrak_Ya_Nasiny.mp3?rlkey=ci1xty3ol5hevifdhehsal1d9&st=9rwb4a1r&dl=1",
+            "duration_ms": 360933,
+            "image": "https://i.scdn.co/image/ab67616d0000b273c2143d660b13ed967f3814b3",
+            "id": 1765,
+            "artist": "Mohamed Fouad"
+        },
+        {
+            "name": "Kamannana",
+            "release_date": "1998-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273418fa908f5c0bc2eca2c0d59",
+            "track_url": "https://www.dropbox.com/scl/fi/p1qutdp7v0y2eki1cmz1o/05.Kamanana.mp3?rlkey=q5o5stnw8jt6cyf76zzhwmlnr&st=l23yeln0&dl=1",
+            "id": 1917,
+            "artist": "Mohamed Fouad"
+        },
+        {
+            "name": "Leh",
+            "release_date": "2021-01-14",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e70a76304469b6e138b94c82",
+            "track_url": "https://www.dropbox.com/scl/fi/wgcacmyr9s3ctmqp1vse3/.mp3?rlkey=vzf1c9g8w6g89cfwediygkl0j&st=k9suvgkh&dl=1",
+            "id": 1890,
+            "artist": "Mohamed Fouad"
+        },
+        {
+            "name": "Saat Bashtlak",
+            "track_url": "https://www.dropbox.com/scl/fi/qo6qkm1lb719xbf43evbl/10._Saeat_Bshtak.mp3?rlkey=blvl69lsz9qcef53w45nc8zpv&st=8iakfom1&dl=1",
+            "duration_ms": 217364,
+            "image": "https://i.scdn.co/image/ab67616d0000b27306319ea49c96a72aa9796779",
+            "id": 1689,
+            "artist": "Mohamed Fouad"
+        },
+        {
+            "name": "Mehtar Ana",
+            "release_date": "2005",
+            "image": "https://i.scdn.co/image/ab67616d0000b27373ff19c4805e935f65ff60f5",
+            "track_url": "https://www.dropbox.com/scl/fi/2w4ews553wrodmzjo8lmi/.mp3?rlkey=iafl86egnjumambnzlm4so6j9&st=cualfrv8&dl=1",
+            "id": 1910,
+            "artist": "Mohamed Fouad"
+        }
+    ]
+}

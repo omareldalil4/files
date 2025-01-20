@@ -1,0 +1,493 @@
+{
+    "artist": {
+        "id": "7869",
+        "name": "Wegz",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb185a8c7cf90489ccd67cc501",
+        "background_image": "https://i.scdn.co/image/ab67616100005174185a8c7cf90489ccd67cc501"
+    },
+    "albums": [],
+    "singles": [
+        {
+            "name": "أنا",
+            "release_date": "2024-11-27",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730f8addf610516f5eee9b296e",
+            "track_url": "",
+            "id": 7870,
+            "artist": "Wegz"
+        },
+        {
+            "name": "Al Araby Asly - العربي أصلي",
+            "release_date": "2024-10-17",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733901cbca8b19f002d891bdf0",
+            "track_url": "",
+            "id": 7871,
+            "artist": "Wegz"
+        },
+        {
+            "name": "A نفسك في",
+            "release_date": "2024-09-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b27369c2fdb5bec1fda7a3bd6d78",
+            "track_url": "",
+            "id": 7872,
+            "artist": "Wegz"
+        },
+        {
+            "name": "حلوة منك (من فيلم \"فوي! فوي! فوي!\")",
+            "release_date": "2023-09-06",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c99a843d419aa73437e823fc",
+            "track_url": "",
+            "id": 7873,
+            "artist": "Wegz"
+        },
+        {
+            "name": "الدنيا ايه",
+            "release_date": "2023-06-22",
+            "image": "https://i.scdn.co/image/ab67616d0000b273cc0f1cec82347e21854f36d2",
+            "track_url": "",
+            "id": 7874,
+            "artist": "Wegz"
+        },
+        {
+            "name": "Lamouni",
+            "release_date": "2023-06-16",
+            "image": "https://i.scdn.co/image/ab67616d0000b273be9553c587299d90ef0acda5",
+            "track_url": "",
+            "id": 7875,
+            "artist": "Wegz"
+        },
+        {
+            "name": "EZZ AL ARAB (Music from the FIFA World Cup Qatar 2022 Official Soundtrack)",
+            "release_date": "2022-12-14",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a31359b5ac473e7bfcf1cc58",
+            "track_url": "",
+            "id": 7876,
+            "artist": "Wegz"
+        },
+        {
+            "name": "Amira",
+            "release_date": "2022-08-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b273fc11250289b3b00325c27529",
+            "track_url": "",
+            "id": 7877,
+            "artist": "Wegz"
+        },
+        {
+            "name": "بعودة يا بلادى ( من فيلم \" كباتن الزعتري \")",
+            "release_date": "2022-03-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b273de281f7d5340aa9ed40d1f3e",
+            "track_url": "",
+            "id": 7878,
+            "artist": "Wegz"
+        },
+        {
+            "name": "البخت - ريمكس (Remix)",
+            "release_date": "2022-03-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b273312138bc9c959dba9ca07db5",
+            "track_url": "",
+            "id": 7879,
+            "artist": "Wegz"
+        },
+        {
+            "name": "البخت",
+            "release_date": "2022-02-26",
+            "image": "https://i.scdn.co/image/ab67616d0000b27320753d8abcc472e904ed9493",
+            "track_url": "",
+            "id": 7880,
+            "artist": "Wegz"
+        },
+        {
+            "name": "Akwa Mix",
+            "release_date": "2022-02-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c39c2632ebb3b896d80df583",
+            "track_url": "",
+            "id": 7881,
+            "artist": "Wegz"
+        },
+        {
+            "name": "مش خالصة",
+            "release_date": "2021-12-20",
+            "image": "https://i.scdn.co/image/ab67616d0000b27394af53eed433e4faebaab72b",
+            "track_url": "",
+            "id": 7882,
+            "artist": "Wegz"
+        },
+        {
+            "name": "Keify Keda",
+            "release_date": "2021-10-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c3173e0b4198ee8403fd90a5",
+            "track_url": "",
+            "id": 7883,
+            "artist": "Wegz"
+        },
+        {
+            "name": "عفاريت الأسفلت",
+            "release_date": "2021-07-17",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735a46f2cd563cf90828a467d3",
+            "track_url": "",
+            "id": 7884,
+            "artist": "Wegz"
+        },
+        {
+            "name": "خد و هات",
+            "release_date": "2021-05-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273081ca730b45e224d6a0b559a",
+            "track_url": "",
+            "id": 7885,
+            "artist": "Wegz"
+        },
+        {
+            "name": "Asyad El Soot",
+            "release_date": "2021-04-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739909ddb3ef9dad7e02311a69",
+            "track_url": "",
+            "id": 7886,
+            "artist": "Wegz"
+        },
+        {
+            "name": "حتتك بتتك (PUBG MOBILE 3rd Anniversary)",
+            "release_date": "2021-03-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c453d72ac9905581dfeeaf73",
+            "track_url": "",
+            "id": 7887,
+            "artist": "Wegz"
+        },
+        {
+            "name": "مش فير",
+            "release_date": "2021-02-06",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737771cea824c595346dd9946a",
+            "track_url": "",
+            "id": 7888,
+            "artist": "Wegz"
+        },
+        {
+            "name": "هاصلا",
+            "release_date": "2020-11-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b27319fbdcd9015dc8012b52c0bf",
+            "track_url": "",
+            "id": 7889,
+            "artist": "Wegz"
+        },
+        {
+            "name": "منحوس",
+            "release_date": "2020-09-05",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a40a378019337d807f9dd3c9",
+            "track_url": "",
+            "id": 7890,
+            "artist": "Wegz"
+        },
+        {
+            "name": "الغسالة",
+            "release_date": "2020-07-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ebcd257c221f01d19eed1a4a",
+            "track_url": "",
+            "id": 7891,
+            "artist": "Wegz"
+        },
+        {
+            "name": "زمبليطه",
+            "release_date": "2020-07-20",
+            "image": "https://i.scdn.co/image/ab67616d0000b273150af2f9829b30b08a438a25",
+            "track_url": "",
+            "id": 7892,
+            "artist": "Wegz"
+        },
+        {
+            "name": "سكيمو ريمكس",
+            "release_date": "2020-07-05",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739db8e20083572c82c9076ed9",
+            "track_url": "",
+            "id": 7893,
+            "artist": "Wegz"
+        },
+        {
+            "name": "سكيمو",
+            "release_date": "2020-07-05",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737716d7924e1fa35e569ffef2",
+            "track_url": "",
+            "id": 7894,
+            "artist": "Wegz"
+        },
+        {
+            "name": "تجار حرام",
+            "release_date": "2020-07-02",
+            "image": "https://i.scdn.co/image/ab67616d0000b27360875c7e295cba383047410a",
+            "track_url": "",
+            "id": 7895,
+            "artist": "Wegz"
+        },
+        {
+            "name": "بلارينا",
+            "release_date": "2020-05-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b273cb25e6ba09de4527d76d77ca",
+            "track_url": "",
+            "id": 7896,
+            "artist": "Wegz"
+        },
+        {
+            "name": "واحد وعشرين",
+            "release_date": "2020-02-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b273514ff26f08d99a94407c201e",
+            "track_url": "",
+            "id": 7897,
+            "artist": "Wegz"
+        },
+        {
+            "name": "علي بابا",
+            "release_date": "2020-02-17",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ec3d314c8c9469b8eb24bd97",
+            "track_url": "",
+            "id": 7898,
+            "artist": "Wegz"
+        },
+        {
+            "name": "نصين",
+            "release_date": "2020-02-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b273af8387ff5a16072fb2d39234",
+            "track_url": "",
+            "id": 7899,
+            "artist": "Wegz"
+        },
+        {
+            "name": "Bel Salama (Lorry Pt. 2 Remix)",
+            "release_date": "2020",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731d00e596be968284315df8fe",
+            "track_url": "",
+            "id": 7900,
+            "artist": "Wegz"
+        },
+        {
+            "name": "جزيرة البطل",
+            "release_date": "2019-10-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b273cf0aaf8343fb7d98bd13c1aa",
+            "track_url": "",
+            "id": 7901,
+            "artist": "Wegz"
+        },
+        {
+            "name": "دورك جي",
+            "release_date": "2019-09-29",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ed7d2b59a037921ea685e999",
+            "track_url": "",
+            "id": 7902,
+            "artist": "Wegz"
+        },
+        {
+            "name": "اي تي ام",
+            "release_date": "2019-09-29",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732d192388567a3852532a25d4",
+            "track_url": "",
+            "id": 7903,
+            "artist": "Wegz"
+        },
+        {
+            "name": "اليمامة",
+            "release_date": "2019-08-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b273cbc134a7c8a16c51224c1fc8",
+            "track_url": "",
+            "id": 7904,
+            "artist": "Wegz"
+        },
+        {
+            "name": "اللقطة",
+            "release_date": "2019-08-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b273da9cb89099fb80cbb1be174a",
+            "track_url": "",
+            "id": 7905,
+            "artist": "Wegz"
+        },
+        {
+            "name": "حواري",
+            "release_date": "2019-08-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737010ab84cac9dd064a020de0",
+            "track_url": "",
+            "id": 7906,
+            "artist": "Wegz"
+        },
+        {
+            "name": "كوزمو و وندا",
+            "release_date": "2019-07-27",
+            "image": "https://i.scdn.co/image/ab67616d0000b273520dbf61fd4fb0d6922331f7",
+            "track_url": "",
+            "id": 7907,
+            "artist": "Wegz"
+        },
+        {
+            "name": "سكرتي",
+            "release_date": "2019-06-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d2f6f58c972fb4d50ea376a6",
+            "track_url": "",
+            "id": 7908,
+            "artist": "Wegz"
+        },
+        {
+            "name": "بورش",
+            "release_date": "2019-06-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733ae7e16feeb34dbdbe1fc0e1",
+            "track_url": "",
+            "id": 7909,
+            "artist": "Wegz"
+        },
+        {
+            "name": "باظت",
+            "release_date": "2019-06-03",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734085eabd7b98e42907409afb",
+            "track_url": "",
+            "id": 7910,
+            "artist": "Wegz"
+        },
+        {
+            "name": "دوجو",
+            "release_date": "2019-05-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b27373847ff551828d5baee445b6",
+            "track_url": "",
+            "id": 7911,
+            "artist": "Wegz"
+        },
+        {
+            "name": "تي ان تي",
+            "release_date": "2019-05-06",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731b3ae98f56732e162f528063",
+            "track_url": "",
+            "id": 7912,
+            "artist": "Wegz"
+        },
+        {
+            "name": "Dah w Dah",
+            "release_date": "2019-04-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738f6af19c2d09306a4cf1ed37",
+            "track_url": "",
+            "id": 7913,
+            "artist": "Wegz"
+        },
+        {
+            "name": "ورديان",
+            "release_date": "2019-04-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e48f60e45f4a35fe5aa4f85d",
+            "track_url": "",
+            "id": 7914,
+            "artist": "Wegz"
+        },
+        {
+            "name": "متواليش",
+            "release_date": "2019-03-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734fa4c77f571e8f09d28158de",
+            "track_url": "",
+            "id": 7915,
+            "artist": "Wegz"
+        },
+        {
+            "name": "وينك اليوم",
+            "release_date": "2019-02-27",
+            "image": "https://i.scdn.co/image/ab67616d0000b27302039106103ab6fd1927c085",
+            "track_url": "",
+            "id": 7916,
+            "artist": "Wegz"
+        },
+        {
+            "name": "16 بار بالعربي",
+            "release_date": "2019-02-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a60cef541ef9f6fffbe9a815",
+            "track_url": "",
+            "id": 7917,
+            "artist": "Wegz"
+        },
+        {
+            "name": "مش هقولك بيبي",
+            "release_date": "2019-01-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b27383c3a3f712197b7aa91dc1f8",
+            "track_url": "",
+            "id": 7918,
+            "artist": "Wegz"
+        },
+        {
+            "name": "Madinat El Moznbeen",
+            "release_date": "2018-12-20",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e0074cfb2d1257046d638897",
+            "track_url": "",
+            "id": 7919,
+            "artist": "Wegz"
+        }
+    ],
+    "popular_tracks": [
+        {
+            "name": "البخت",
+            "track_url": "",
+            "duration_ms": 206112,
+            "image": "https://i.scdn.co/image/ab67616d0000b27320753d8abcc472e904ed9493",
+            "id": 7920,
+            "artist": "Wegz"
+        },
+        {
+            "name": "أنا",
+            "track_url": "",
+            "duration_ms": 105365,
+            "image": "https://i.scdn.co/image/ab67616d0000b2730f8addf610516f5eee9b296e",
+            "id": 7921,
+            "artist": "Wegz"
+        },
+        {
+            "name": "Amira",
+            "track_url": "",
+            "duration_ms": 269231,
+            "image": "https://i.scdn.co/image/ab67616d0000b273fc11250289b3b00325c27529",
+            "id": 7922,
+            "artist": "Wegz"
+        },
+        {
+            "name": "عفاريت الأسفلت",
+            "track_url": "",
+            "duration_ms": 204817,
+            "image": "https://i.scdn.co/image/ab67616d0000b2735a46f2cd563cf90828a467d3",
+            "id": 7923,
+            "artist": "Wegz"
+        },
+        {
+            "name": "ساليني",
+            "track_url": "",
+            "duration_ms": 174478,
+            "image": "https://i.scdn.co/image/ab67616d0000b2733a0d2041b50efb18ad7f4020",
+            "id": 7924,
+            "artist": "Wegz"
+        },
+        {
+            "name": "Bel Salama - Lorry Pt. 2 Remix",
+            "track_url": "",
+            "duration_ms": 193854,
+            "image": "https://i.scdn.co/image/ab67616d0000b2731d00e596be968284315df8fe",
+            "id": 7925,
+            "artist": "Wegz"
+        },
+        {
+            "name": "دورك جي",
+            "track_url": "",
+            "duration_ms": 257941,
+            "image": "https://i.scdn.co/image/ab67616d0000b273ed7d2b59a037921ea685e999",
+            "id": 7926,
+            "artist": "Wegz"
+        },
+        {
+            "name": "الدنيا ايه",
+            "track_url": "",
+            "duration_ms": 218718,
+            "image": "https://i.scdn.co/image/ab67616d0000b273cc0f1cec82347e21854f36d2",
+            "id": 7927,
+            "artist": "Wegz"
+        },
+        {
+            "name": "كان نفسي",
+            "track_url": "",
+            "duration_ms": 253342,
+            "image": "https://i.scdn.co/image/ab67616d0000b273cf0aaf8343fb7d98bd13c1aa",
+            "id": 7928,
+            "artist": "Wegz"
+        },
+        {
+            "name": "سكرتي",
+            "track_url": "",
+            "duration_ms": 210892,
+            "image": "https://i.scdn.co/image/ab67616d0000b273d2f6f58c972fb4d50ea376a6",
+            "id": 7929,
+            "artist": "Wegz"
+        }
+    ]
+}

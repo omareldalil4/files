@@ -1,0 +1,1282 @@
+{
+    "artist": {
+        "id": "8059",
+        "name": "Ragheb Alama",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb4b03c0f150304a3472292952",
+        "background_image": "https://i.scdn.co/image/ab676161000051744b03c0f150304a3472292952"
+    },
+    "albums": [
+        {
+            "name": "Habib Dehkati",
+            "release_date": "2014-09-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b273222f5bac1a1d1ac7369fa17a",
+            "track_url": "https://open.spotify.com/album/46BdKynnvjs2i9GatQxT3H",
+            "tracks": [
+                {
+                    "name": "Habib Dehkati",
+                    "track_url": "",
+                    "duration_ms": 243769,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273222f5bac1a1d1ac7369fa17a",
+                    "id": 8061,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Theb Rohak",
+                    "track_url": "",
+                    "duration_ms": 242762,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273222f5bac1a1d1ac7369fa17a",
+                    "id": 8062,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Zekrayat",
+                    "track_url": "",
+                    "duration_ms": 324268,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273222f5bac1a1d1ac7369fa17a",
+                    "id": 8063,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Ana Esmi Habibak",
+                    "track_url": "",
+                    "duration_ms": 247453,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273222f5bac1a1d1ac7369fa17a",
+                    "id": 8064,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Bhebak W Shta'tellak Nar",
+                    "track_url": "",
+                    "duration_ms": 195364,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273222f5bac1a1d1ac7369fa17a",
+                    "id": 8065,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Malioun Marra",
+                    "track_url": "",
+                    "duration_ms": 184221,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273222f5bac1a1d1ac7369fa17a",
+                    "id": 8066,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Ohdonni Aktar",
+                    "track_url": "",
+                    "duration_ms": 215697,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273222f5bac1a1d1ac7369fa17a",
+                    "id": 8067,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Shou Mahdoumi",
+                    "track_url": "",
+                    "duration_ms": 250278,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273222f5bac1a1d1ac7369fa17a",
+                    "id": 8068,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Ma Tdaya'nish",
+                    "track_url": "",
+                    "duration_ms": 228245,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273222f5bac1a1d1ac7369fa17a",
+                    "id": 8069,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Ma Bahazarsh",
+                    "track_url": "",
+                    "duration_ms": 318265,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273222f5bac1a1d1ac7369fa17a",
+                    "id": 8070,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Good Stuff",
+                    "track_url": "",
+                    "duration_ms": 236958,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273222f5bac1a1d1ac7369fa17a",
+                    "id": 8071,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Ana Daye' Men Dounak",
+                    "track_url": "",
+                    "duration_ms": 249862,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273222f5bac1a1d1ac7369fa17a",
+                    "id": 8072,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Ya Hayati - Remix",
+                    "track_url": "",
+                    "duration_ms": 223017,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273222f5bac1a1d1ac7369fa17a",
+                    "id": 8073,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Bous El'alam",
+                    "track_url": "",
+                    "duration_ms": 309043,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273222f5bac1a1d1ac7369fa17a",
+                    "id": 8074,
+                    "artist": "Ragheb Alama"
+                }
+            ],
+            "id": 8060
+        },
+        {
+            "name": "Dawa Al Lail & Hemdellah Al Salamah",
+            "release_date": "2011-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e0d2363b19bd656b92de5eb1",
+            "track_url": "https://open.spotify.com/album/5LNW5CIMvZjL74ep8ZT8wa",
+            "tracks": [
+                {
+                    "name": "Dawa Al Lail",
+                    "track_url": "",
+                    "duration_ms": 328573,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e0d2363b19bd656b92de5eb1",
+                    "id": 8076,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "La Tela ab Bel Nar",
+                    "track_url": "",
+                    "duration_ms": 305720,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e0d2363b19bd656b92de5eb1",
+                    "id": 8077,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Qoly L Jeranek",
+                    "track_url": "",
+                    "duration_ms": 243866,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e0d2363b19bd656b92de5eb1",
+                    "id": 8078,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Hamdilla A Salama",
+                    "track_url": "",
+                    "duration_ms": 414386,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e0d2363b19bd656b92de5eb1",
+                    "id": 8079,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Rahal",
+                    "track_url": "",
+                    "duration_ms": 362920,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e0d2363b19bd656b92de5eb1",
+                    "id": 8080,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Ala Dal ona",
+                    "track_url": "",
+                    "duration_ms": 324480,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e0d2363b19bd656b92de5eb1",
+                    "id": 8081,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Aan Jadd",
+                    "track_url": "",
+                    "duration_ms": 420373,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e0d2363b19bd656b92de5eb1",
+                    "id": 8082,
+                    "artist": "Ragheb Alama"
+                }
+            ],
+            "id": 8075
+        },
+        {
+            "name": "Tawam Rouhi-Rare Recording",
+            "release_date": "2010-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738317eac3ccf2990c5c82418e",
+            "track_url": "https://open.spotify.com/album/5LYtkPaB2a55ubV5pf2TUl",
+            "tracks": [
+                {
+                    "name": "Taouam Rouhi",
+                    "track_url": "",
+                    "duration_ms": 408253,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738317eac3ccf2990c5c82418e",
+                    "id": 8084,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Bahabk Zay Ma Enti",
+                    "track_url": "",
+                    "duration_ms": 258613,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738317eac3ccf2990c5c82418e",
+                    "id": 8085,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Aasht Leeki",
+                    "track_url": "",
+                    "duration_ms": 345373,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738317eac3ccf2990c5c82418e",
+                    "id": 8086,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Wla Yaala Aleek",
+                    "track_url": "",
+                    "duration_ms": 309573,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738317eac3ccf2990c5c82418e",
+                    "id": 8087,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Noatet Daafi",
+                    "track_url": "",
+                    "duration_ms": 337746,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738317eac3ccf2990c5c82418e",
+                    "id": 8088,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Yalayali Khabrina",
+                    "track_url": "",
+                    "duration_ms": 277640,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738317eac3ccf2990c5c82418e",
+                    "id": 8089,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Argouk Abaad",
+                    "track_url": "",
+                    "duration_ms": 382986,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738317eac3ccf2990c5c82418e",
+                    "id": 8090,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Nesset Ya Habeebi",
+                    "track_url": "",
+                    "duration_ms": 375666,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738317eac3ccf2990c5c82418e",
+                    "id": 8091,
+                    "artist": "Ragheb Alama"
+                }
+            ],
+            "id": 8083
+        },
+        {
+            "name": "Paris Concert - Live Rare Recording",
+            "release_date": "2010-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27372f6355bbf23e907f27f63dc",
+            "track_url": "https://open.spotify.com/album/52BHMCNJNZexrjtyWSJ5hP",
+            "tracks": [
+                {
+                    "name": "Bint El Sultan",
+                    "track_url": "",
+                    "duration_ms": 536626,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27372f6355bbf23e907f27f63dc",
+                    "id": 8093,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Rehlati",
+                    "track_url": "",
+                    "duration_ms": 262653,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27372f6355bbf23e907f27f63dc",
+                    "id": 8094,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Ya Rait",
+                    "track_url": "",
+                    "duration_ms": 445933,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27372f6355bbf23e907f27f63dc",
+                    "id": 8095,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Lyali",
+                    "track_url": "",
+                    "duration_ms": 114080,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27372f6355bbf23e907f27f63dc",
+                    "id": 8096,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Yaloumi",
+                    "track_url": "",
+                    "duration_ms": 362693,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27372f6355bbf23e907f27f63dc",
+                    "id": 8097,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Haiart Albi Weyak",
+                    "track_url": "",
+                    "duration_ms": 493786,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27372f6355bbf23e907f27f63dc",
+                    "id": 8098,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Ana Fi Intezarak",
+                    "track_url": "",
+                    "duration_ms": 396520,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27372f6355bbf23e907f27f63dc",
+                    "id": 8099,
+                    "artist": "Ragheb Alama"
+                }
+            ],
+            "id": 8092
+        },
+        {
+            "name": "The Selections-Special Edition",
+            "release_date": "2009-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736e3d82724c50d3ff6135b1ee",
+            "track_url": "https://open.spotify.com/album/65gE4nFDfySIuoutvtfqkT",
+            "tracks": [
+                {
+                    "name": "Ya Rait",
+                    "track_url": "",
+                    "duration_ms": 236466,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736e3d82724c50d3ff6135b1ee",
+                    "id": 8101,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Hamdilla A Salama",
+                    "track_url": "",
+                    "duration_ms": 408360,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736e3d82724c50d3ff6135b1ee",
+                    "id": 8102,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Sabheir Had",
+                    "track_url": "",
+                    "duration_ms": 462280,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736e3d82724c50d3ff6135b1ee",
+                    "id": 8103,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Albi Eshi’ha",
+                    "track_url": "",
+                    "duration_ms": 340586,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736e3d82724c50d3ff6135b1ee",
+                    "id": 8104,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Ahla Nar",
+                    "track_url": "",
+                    "duration_ms": 231733,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736e3d82724c50d3ff6135b1ee",
+                    "id": 8105,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Dal’ouna",
+                    "track_url": "",
+                    "duration_ms": 310520,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736e3d82724c50d3ff6135b1ee",
+                    "id": 8106,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Mush Muhim",
+                    "track_url": "",
+                    "duration_ms": 286760,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736e3d82724c50d3ff6135b1ee",
+                    "id": 8107,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Ya Hayatee",
+                    "track_url": "",
+                    "duration_ms": 373440,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736e3d82724c50d3ff6135b1ee",
+                    "id": 8108,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Moghram Ya Lail",
+                    "track_url": "",
+                    "duration_ms": 303986,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736e3d82724c50d3ff6135b1ee",
+                    "id": 8109,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Mukhtasar Ahlami",
+                    "track_url": "",
+                    "duration_ms": 245013,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736e3d82724c50d3ff6135b1ee",
+                    "id": 8110,
+                    "artist": "Ragheb Alama"
+                }
+            ],
+            "id": 8100
+        },
+        {
+            "name": "El Hob El Kebir",
+            "release_date": "2003-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273be6b3e1190093793d9b0af74",
+            "track_url": "https://open.spotify.com/album/1dj55G9LZC4mbe8KaFFmHa",
+            "tracks": [
+                {
+                    "name": "El Hob El Kebir",
+                    "track_url": "",
+                    "duration_ms": 315640,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273be6b3e1190093793d9b0af74",
+                    "id": 8112,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Nasini El Donya",
+                    "track_url": "",
+                    "duration_ms": 270200,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273be6b3e1190093793d9b0af74",
+                    "id": 8113,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Menak Lelah",
+                    "track_url": "",
+                    "duration_ms": 255333,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273be6b3e1190093793d9b0af74",
+                    "id": 8114,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Eshtaktelak Ana",
+                    "track_url": "",
+                    "duration_ms": 263986,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273be6b3e1190093793d9b0af74",
+                    "id": 8115,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Haneitlak",
+                    "track_url": "",
+                    "duration_ms": 206813,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273be6b3e1190093793d9b0af74",
+                    "id": 8116,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Elly Beyerdeek Yerdeni Ala Einy",
+                    "track_url": "",
+                    "duration_ms": 252946,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273be6b3e1190093793d9b0af74",
+                    "id": 8117,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Bahen Aleiky",
+                    "track_url": "",
+                    "duration_ms": 196600,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273be6b3e1190093793d9b0af74",
+                    "id": 8118,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Saab Tegheeb",
+                    "track_url": "",
+                    "duration_ms": 303440,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273be6b3e1190093793d9b0af74",
+                    "id": 8119,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Habebe Samaene",
+                    "track_url": "",
+                    "duration_ms": 248906,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273be6b3e1190093793d9b0af74",
+                    "id": 8120,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Moush Belkalam",
+                    "track_url": "",
+                    "duration_ms": 269413,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273be6b3e1190093793d9b0af74",
+                    "id": 8121,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Elly Eshtaktelak",
+                    "track_url": "",
+                    "duration_ms": 258426,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273be6b3e1190093793d9b0af74",
+                    "id": 8122,
+                    "artist": "Ragheb Alama"
+                }
+            ],
+            "id": 8111
+        },
+        {
+            "name": "Tab Leh",
+            "release_date": "2001-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b27351d144eb413d4c3ca9d251ba",
+            "track_url": "https://open.spotify.com/album/6VueuESALyDI69xyj26qao",
+            "tracks": [
+                {
+                    "name": "Tab Leih",
+                    "track_url": "",
+                    "duration_ms": 360533,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27351d144eb413d4c3ca9d251ba",
+                    "id": 8124,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Yerkhas El Ghaly",
+                    "track_url": "",
+                    "duration_ms": 236920,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27351d144eb413d4c3ca9d251ba",
+                    "id": 8125,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Seid El Ghalyen",
+                    "track_url": "",
+                    "duration_ms": 237226,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27351d144eb413d4c3ca9d251ba",
+                    "id": 8126,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Matolesh Baaden",
+                    "track_url": "",
+                    "duration_ms": 321560,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27351d144eb413d4c3ca9d251ba",
+                    "id": 8127,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Ala Kefak",
+                    "track_url": "",
+                    "duration_ms": 260600,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27351d144eb413d4c3ca9d251ba",
+                    "id": 8128,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Ahebak",
+                    "track_url": "",
+                    "duration_ms": 282600,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27351d144eb413d4c3ca9d251ba",
+                    "id": 8129,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Layalena El Adema",
+                    "track_url": "",
+                    "duration_ms": 289000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27351d144eb413d4c3ca9d251ba",
+                    "id": 8130,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Orbak Nar",
+                    "track_url": "",
+                    "duration_ms": 276480,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27351d144eb413d4c3ca9d251ba",
+                    "id": 8131,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Agmal Amira",
+                    "track_url": "",
+                    "duration_ms": 240960,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27351d144eb413d4c3ca9d251ba",
+                    "id": 8132,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Mabaash",
+                    "track_url": "",
+                    "duration_ms": 280013,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27351d144eb413d4c3ca9d251ba",
+                    "id": 8133,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Maa Baadena",
+                    "track_url": "",
+                    "duration_ms": 314120,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27351d144eb413d4c3ca9d251ba",
+                    "id": 8134,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "La Teoly La",
+                    "track_url": "",
+                    "duration_ms": 240613,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27351d144eb413d4c3ca9d251ba",
+                    "id": 8135,
+                    "artist": "Ragheb Alama"
+                }
+            ],
+            "id": 8123
+        },
+        {
+            "name": "Saharouny El Leil",
+            "release_date": "2001-02-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732ed485e924123db6ea1ce037",
+            "track_url": "https://open.spotify.com/album/1BKd2UgMze6ZoU5xbo8hWe",
+            "tracks": [
+                {
+                    "name": "Saharouny El Leil",
+                    "track_url": "",
+                    "duration_ms": 331493,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732ed485e924123db6ea1ce037",
+                    "id": 8137,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Alby Ehtar",
+                    "track_url": "",
+                    "duration_ms": 251146,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732ed485e924123db6ea1ce037",
+                    "id": 8138,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Habeb Albi",
+                    "track_url": "",
+                    "duration_ms": 332413,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732ed485e924123db6ea1ce037",
+                    "id": 8139,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Bahwak",
+                    "track_url": "",
+                    "duration_ms": 272266,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732ed485e924123db6ea1ce037",
+                    "id": 8140,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Lahzet Genon",
+                    "track_url": "",
+                    "duration_ms": 286000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732ed485e924123db6ea1ce037",
+                    "id": 8141,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Ya Salam",
+                    "track_url": "",
+                    "duration_ms": 317600,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732ed485e924123db6ea1ce037",
+                    "id": 8142,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Betgheb Betrouh",
+                    "track_url": "",
+                    "duration_ms": 262186,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732ed485e924123db6ea1ce037",
+                    "id": 8143,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Jeny",
+                    "track_url": "",
+                    "duration_ms": 272480,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732ed485e924123db6ea1ce037",
+                    "id": 8144,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Yalla Ya Shabab",
+                    "track_url": "",
+                    "duration_ms": 312520,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732ed485e924123db6ea1ce037",
+                    "id": 8145,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Awseflak Eh",
+                    "track_url": "",
+                    "duration_ms": 275200,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732ed485e924123db6ea1ce037",
+                    "id": 8146,
+                    "artist": "Ragheb Alama"
+                }
+            ],
+            "id": 8136
+        },
+        {
+            "name": "Alamteni",
+            "release_date": "1996",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b2d6b28f1aee24e99d41f4eb",
+            "track_url": "https://open.spotify.com/album/70vpi5Wao2BbLbzcOrYlnA",
+            "tracks": [
+                {
+                    "name": "Alamteni",
+                    "track_url": "",
+                    "duration_ms": 277000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b2d6b28f1aee24e99d41f4eb",
+                    "id": 8148,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Ya Rait",
+                    "track_url": "",
+                    "duration_ms": 241360,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b2d6b28f1aee24e99d41f4eb",
+                    "id": 8149,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Hamdilla A Salama",
+                    "track_url": "",
+                    "duration_ms": 409440,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b2d6b28f1aee24e99d41f4eb",
+                    "id": 8150,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Enti Wa Ana",
+                    "track_url": "",
+                    "duration_ms": 445160,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b2d6b28f1aee24e99d41f4eb",
+                    "id": 8151,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Raje'a La Eyonic",
+                    "track_url": "",
+                    "duration_ms": 474973,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b2d6b28f1aee24e99d41f4eb",
+                    "id": 8152,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Al Hadeeah",
+                    "track_url": "",
+                    "duration_ms": 289733,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b2d6b28f1aee24e99d41f4eb",
+                    "id": 8153,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "A'n Jad",
+                    "track_url": "",
+                    "duration_ms": 239093,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b2d6b28f1aee24e99d41f4eb",
+                    "id": 8154,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Ala Dal ona",
+                    "track_url": "",
+                    "duration_ms": 320440,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b2d6b28f1aee24e99d41f4eb",
+                    "id": 8155,
+                    "artist": "Ragheb Alama"
+                }
+            ],
+            "id": 8147
+        },
+        {
+            "name": "Farq Kebir",
+            "release_date": "1995-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273379fc7b7da8717ba519d6561",
+            "track_url": "https://open.spotify.com/album/21tGs5gQm6Keq7ZyjQ8FTS",
+            "tracks": [
+                {
+                    "name": "Fark Kebir",
+                    "track_url": "",
+                    "duration_ms": 320733,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273379fc7b7da8717ba519d6561",
+                    "id": 8157,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Sayedati Al Gamela",
+                    "track_url": "",
+                    "duration_ms": 377853,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273379fc7b7da8717ba519d6561",
+                    "id": 8158,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Ah ya Leil",
+                    "track_url": "",
+                    "duration_ms": 316920,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273379fc7b7da8717ba519d6561",
+                    "id": 8159,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Be Atm El Leil",
+                    "track_url": "",
+                    "duration_ms": 358866,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273379fc7b7da8717ba519d6561",
+                    "id": 8160,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Law Daret El Ayam",
+                    "track_url": "",
+                    "duration_ms": 377813,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273379fc7b7da8717ba519d6561",
+                    "id": 8161,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Ya Bouy",
+                    "track_url": "",
+                    "duration_ms": 311253,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273379fc7b7da8717ba519d6561",
+                    "id": 8162,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Kermalak",
+                    "track_url": "",
+                    "duration_ms": 288973,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273379fc7b7da8717ba519d6561",
+                    "id": 8163,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Wala Ad El Hob",
+                    "track_url": "",
+                    "duration_ms": 392426,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273379fc7b7da8717ba519d6561",
+                    "id": 8164,
+                    "artist": "Ragheb Alama"
+                }
+            ],
+            "id": 8156
+        },
+        {
+            "name": "Maygouz",
+            "release_date": "1995-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b70550be35843b6b4813ae9c",
+            "track_url": "https://open.spotify.com/album/3LDdD0Pbk3XTjKmjrIXXGl",
+            "tracks": [
+                {
+                    "name": "Maygouz",
+                    "track_url": "",
+                    "duration_ms": 323133,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b70550be35843b6b4813ae9c",
+                    "id": 8166,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Nassi",
+                    "track_url": "",
+                    "duration_ms": 354093,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b70550be35843b6b4813ae9c",
+                    "id": 8167,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Sahran Lameen",
+                    "track_url": "",
+                    "duration_ms": 288040,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b70550be35843b6b4813ae9c",
+                    "id": 8168,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Aakbal Al Aayzin",
+                    "track_url": "",
+                    "duration_ms": 363866,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b70550be35843b6b4813ae9c",
+                    "id": 8169,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Haram",
+                    "track_url": "",
+                    "duration_ms": 536626,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b70550be35843b6b4813ae9c",
+                    "id": 8170,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Enti Wa Ana",
+                    "track_url": "",
+                    "duration_ms": 444466,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b70550be35843b6b4813ae9c",
+                    "id": 8171,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Wayli Wah",
+                    "track_url": "",
+                    "duration_ms": 278933,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b70550be35843b6b4813ae9c",
+                    "id": 8172,
+                    "artist": "Ragheb Alama"
+                }
+            ],
+            "id": 8165
+        },
+        {
+            "name": "Alby Eshekha",
+            "release_date": "1995-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c0fc6372a9785ea9d7be0038",
+            "track_url": "https://open.spotify.com/album/75u5u50zTx0gw9RwVtwt90",
+            "tracks": [
+                {
+                    "name": "Albi Eshi’ha",
+                    "track_url": "",
+                    "duration_ms": 344766,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c0fc6372a9785ea9d7be0038",
+                    "id": 8174,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Shalou Ghazali",
+                    "track_url": "",
+                    "duration_ms": 423866,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c0fc6372a9785ea9d7be0038",
+                    "id": 8175,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Eshta'analak",
+                    "track_url": "",
+                    "duration_ms": 348280,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c0fc6372a9785ea9d7be0038",
+                    "id": 8176,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "A'l Howarah",
+                    "track_url": "",
+                    "duration_ms": 323026,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c0fc6372a9785ea9d7be0038",
+                    "id": 8177,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "A'ashet Al Asami",
+                    "track_url": "",
+                    "duration_ms": 455826,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c0fc6372a9785ea9d7be0038",
+                    "id": 8178,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Raje'a La Eyonic",
+                    "track_url": "",
+                    "duration_ms": 476453,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c0fc6372a9785ea9d7be0038",
+                    "id": 8179,
+                    "artist": "Ragheb Alama"
+                },
+                {
+                    "name": "Ma Tita'abesh Ma'aya",
+                    "track_url": "",
+                    "duration_ms": 420706,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c0fc6372a9785ea9d7be0038",
+                    "id": 8180,
+                    "artist": "Ragheb Alama"
+                }
+            ],
+            "id": 8173
+        }
+    ],
+    "singles": [
+        {
+            "name": "Beirut Wala Roma",
+            "release_date": "2024-07-26",
+            "image": "https://i.scdn.co/image/ab67616d0000b27391876246aba507a2d75010f5",
+            "track_url": "",
+            "id": 8181,
+            "artist": "Ragheb Alama"
+        },
+        {
+            "name": "Shu Aamel Fiyyi",
+            "release_date": "2024-05-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c9cd08f386abfe17ddd12553",
+            "track_url": "",
+            "id": 8182,
+            "artist": "Ragheb Alama"
+        },
+        {
+            "name": "ETTIEEL",
+            "release_date": "2024-04-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b27316ce8daa43fca69470453466",
+            "track_url": "",
+            "id": 8183,
+            "artist": "Ragheb Alama"
+        },
+        {
+            "name": "Yalla",
+            "release_date": "2023-08-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732db52e29010922efded8f41b",
+            "track_url": "",
+            "id": 8184,
+            "artist": "Ragheb Alama"
+        },
+        {
+            "name": "Fi kteer Helween",
+            "release_date": "2023-06-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b27392343271a03a83974830943b",
+            "track_url": "",
+            "id": 8185,
+            "artist": "Ragheb Alama"
+        },
+        {
+            "name": "نفرح بالحسين",
+            "release_date": "2023-05-29",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730a053039dbab6c44bbbe75f5",
+            "track_url": "",
+            "id": 8186,
+            "artist": "Ragheb Alama"
+        },
+        {
+            "name": "Kel Lahza W Enta Bkheir",
+            "release_date": "2022-08-27",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736ecb76d2f4452d9279daf556",
+            "track_url": "",
+            "id": 8187,
+            "artist": "Ragheb Alama"
+        },
+        {
+            "name": "إستمارة 6",
+            "release_date": "2022-07-29",
+            "image": "https://i.scdn.co/image/ab67616d0000b27383687d61229b0289bdafe3d5",
+            "track_url": "",
+            "id": 8188,
+            "artist": "Ragheb Alama"
+        },
+        {
+            "name": "Taalili",
+            "release_date": "2022-06-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b27391c7d4e4f188b9cd4deff035",
+            "track_url": "",
+            "id": 8189,
+            "artist": "Ragheb Alama"
+        },
+        {
+            "name": "Ya Rayt Fiyi khabiha (Instrumental - karaoke)",
+            "release_date": "2022-04-14",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730dd0eaba9cb295c9b235ef0e",
+            "track_url": "",
+            "id": 8190,
+            "artist": "Ragheb Alama"
+        },
+        {
+            "name": "Ya Rayt (Shkoon Remix)",
+            "release_date": "2022-03-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738c7ddc153aee2e45221f983c",
+            "track_url": "",
+            "id": 8191,
+            "artist": "Ragheb Alama"
+        },
+        {
+            "name": "Momken Azaalak",
+            "release_date": "2022-02-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ad3a7ea2bf435831190585bb",
+            "track_url": "",
+            "id": 8192,
+            "artist": "Ragheb Alama"
+        },
+        {
+            "name": "Eshtaktelak Ana (Instrumental)",
+            "release_date": "2021-11-03",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d4868b7897c2414c043904d4",
+            "track_url": "",
+            "id": 8193,
+            "artist": "Ragheb Alama"
+        },
+        {
+            "name": "Fawran Gharam",
+            "release_date": "2021-07-27",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736f6d2ef1583ca99a51e923e1",
+            "track_url": "",
+            "id": 8194,
+            "artist": "Ragheb Alama"
+        },
+        {
+            "name": "يا شعب زايد",
+            "release_date": "2021-07-16",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732c8f4cbfa16129bdb3fb1fcc",
+            "track_url": "",
+            "id": 8195,
+            "artist": "Ragheb Alama"
+        },
+        {
+            "name": "Elli Baana (RANDALL Remix)",
+            "release_date": "2021-01-29",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732e37171e6ef0affed0566e58",
+            "track_url": "",
+            "id": 8196,
+            "artist": "Ragheb Alama"
+        },
+        {
+            "name": "Entou Amalna",
+            "release_date": "2020-04-06",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e2b02e5b9b6cab5192b62ff5",
+            "track_url": "",
+            "id": 8197,
+            "artist": "Ragheb Alama"
+        },
+        {
+            "name": "Kan Gherek Ashtar",
+            "release_date": "2019-12-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735a3030f7909ab89457c396c3",
+            "track_url": "",
+            "id": 8198,
+            "artist": "Ragheb Alama"
+        },
+        {
+            "name": "Albi Ashe2ha (Remake Version)",
+            "release_date": "2019-05-02",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f0e21525af59bab2110062b3",
+            "track_url": "",
+            "id": 8199,
+            "artist": "Ragheb Alama"
+        },
+        {
+            "name": "Sodfi",
+            "release_date": "2019-04-05",
+            "image": "https://i.scdn.co/image/ab67616d0000b27358b983ea966e0f78c122c2da",
+            "track_url": "",
+            "id": 8200,
+            "artist": "Ragheb Alama"
+        },
+        {
+            "name": "Betzakar Ya Emmi (Remake Version)",
+            "release_date": "2019-03-26",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735db8013a3413e23333dc2c17",
+            "track_url": "",
+            "id": 8201,
+            "artist": "Ragheb Alama"
+        },
+        {
+            "name": "Yalla Habibi (Summer Hit)",
+            "release_date": "2018-12-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ffe1c656c9289de2f7db13ea",
+            "track_url": "",
+            "id": 8202,
+            "artist": "Ragheb Alama"
+        },
+        {
+            "name": "Redelli Kelmati",
+            "release_date": "2018-11-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732219349961d23ce3dc4a1d19",
+            "track_url": "",
+            "id": 8203,
+            "artist": "Ragheb Alama"
+        },
+        {
+            "name": "Trekni Lahali (Remix)",
+            "release_date": "2018-09-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27365b71edc8c73e7464fd5b69f",
+            "track_url": "",
+            "id": 8204,
+            "artist": "Ragheb Alama"
+        },
+        {
+            "name": "Elli Baana",
+            "release_date": "2018-06-14",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b1da42efd69b1b6b446f2b38",
+            "track_url": "",
+            "id": 8205,
+            "artist": "Ragheb Alama"
+        },
+        {
+            "name": "Baacha' Albik",
+            "release_date": "1994-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27388b0d655631c616070f7fab3",
+            "track_url": "",
+            "id": 8206,
+            "artist": "Ragheb Alama"
+        }
+    ],
+    "popular_tracks": [
+        {
+            "name": "Nasini El Donya",
+            "track_url": "",
+            "duration_ms": 270200,
+            "image": "https://i.scdn.co/image/ab67616d0000b273be6b3e1190093793d9b0af74",
+            "id": 8207,
+            "artist": "Ragheb Alama"
+        },
+        {
+            "name": "Elli Baana",
+            "track_url": "",
+            "duration_ms": 264480,
+            "image": "https://i.scdn.co/image/ab67616d0000b273b1da42efd69b1b6b446f2b38",
+            "id": 8208,
+            "artist": "Ragheb Alama"
+        },
+        {
+            "name": "Albi Ashe2ha - Remake Version",
+            "track_url": "",
+            "duration_ms": 230598,
+            "image": "https://i.scdn.co/image/ab67616d0000b273f0e21525af59bab2110062b3",
+            "id": 8209,
+            "artist": "Ragheb Alama"
+        },
+        {
+            "name": "Bhebak W Shta'tellak Nar",
+            "track_url": "",
+            "duration_ms": 195364,
+            "image": "https://i.scdn.co/image/ab67616d0000b273222f5bac1a1d1ac7369fa17a",
+            "id": 8210,
+            "artist": "Ragheb Alama"
+        },
+        {
+            "name": "Yalla Habibi - Summer Hit",
+            "track_url": "",
+            "duration_ms": 175781,
+            "image": "https://i.scdn.co/image/ab67616d0000b273ffe1c656c9289de2f7db13ea",
+            "id": 8211,
+            "artist": "Ragheb Alama"
+        },
+        {
+            "name": "Betgheb Betrouh",
+            "track_url": "",
+            "duration_ms": 262186,
+            "image": "https://i.scdn.co/image/ab67616d0000b2732ed485e924123db6ea1ce037",
+            "id": 8212,
+            "artist": "Ragheb Alama"
+        },
+        {
+            "name": "El Hob El Kebir",
+            "track_url": "",
+            "duration_ms": 315640,
+            "image": "https://i.scdn.co/image/ab67616d0000b273be6b3e1190093793d9b0af74",
+            "id": 8213,
+            "artist": "Ragheb Alama"
+        },
+        {
+            "name": "Albi Eshi’ha",
+            "track_url": "",
+            "duration_ms": 344766,
+            "image": "https://i.scdn.co/image/ab67616d0000b273c0fc6372a9785ea9d7be0038",
+            "id": 8214,
+            "artist": "Ragheb Alama"
+        },
+        {
+            "name": "إستمارة 6",
+            "track_url": "",
+            "duration_ms": 195818,
+            "image": "https://i.scdn.co/image/ab67616d0000b27383687d61229b0289bdafe3d5",
+            "id": 8215,
+            "artist": "Ragheb Alama"
+        },
+        {
+            "name": "Moghram Ya Lail",
+            "track_url": "",
+            "duration_ms": 303986,
+            "image": "https://i.scdn.co/image/ab67616d0000b2739012613f2235a9d118719dcd",
+            "id": 8216,
+            "artist": "Ragheb Alama"
+        }
+    ]
+}

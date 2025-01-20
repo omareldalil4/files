@@ -1,0 +1,634 @@
+{
+    "artist": {
+        "id": "6535",
+        "name": "Loai",
+        "image": "https://i.scdn.co/image/ab67616d0000b273b387feb33f26122076768b83",
+        "background_image": "https://i.scdn.co/image/ab67616d00001e02b387feb33f26122076768b83"
+    },
+    "albums": [
+        {
+            "name": "Meen Hayeadar",
+            "release_date": "2019-12-29",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731b5adb3931b15f53a3dd13ea",
+            "track_url": "https://open.spotify.com/album/05AI0DnDBLmwMWpssmJKdQ",
+            "tracks": [
+                {
+                    "name": "Ah Ya Shouq",
+                    "track_url": "",
+                    "duration_ms": 270480,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731b5adb3931b15f53a3dd13ea",
+                    "id": 6537,
+                    "artist": "Loai"
+                },
+                {
+                    "name": "Akhaaf Leeh",
+                    "track_url": "",
+                    "duration_ms": 253151,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731b5adb3931b15f53a3dd13ea",
+                    "id": 6538,
+                    "artist": "Loai"
+                },
+                {
+                    "name": "Dakat Albi",
+                    "track_url": "",
+                    "duration_ms": 234911,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731b5adb3931b15f53a3dd13ea",
+                    "id": 6539,
+                    "artist": "Loai"
+                },
+                {
+                    "name": "Lesa Ala Halak",
+                    "track_url": "",
+                    "duration_ms": 226416,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731b5adb3931b15f53a3dd13ea",
+                    "id": 6540,
+                    "artist": "Loai"
+                },
+                {
+                    "name": "Meen Hayadaar",
+                    "track_url": "",
+                    "duration_ms": 196608,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731b5adb3931b15f53a3dd13ea",
+                    "id": 6541,
+                    "artist": "Loai"
+                },
+                {
+                    "name": "Sorty",
+                    "track_url": "",
+                    "duration_ms": 258790,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731b5adb3931b15f53a3dd13ea",
+                    "id": 6542,
+                    "artist": "Loai"
+                },
+                {
+                    "name": "Talet Youm",
+                    "track_url": "",
+                    "duration_ms": 242688,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731b5adb3931b15f53a3dd13ea",
+                    "id": 6543,
+                    "artist": "Loai"
+                },
+                {
+                    "name": "Tesalni Leh",
+                    "track_url": "",
+                    "duration_ms": 236351,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731b5adb3931b15f53a3dd13ea",
+                    "id": 6544,
+                    "artist": "Loai"
+                },
+                {
+                    "name": "Wahed Men El Nas",
+                    "track_url": "",
+                    "duration_ms": 201216,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731b5adb3931b15f53a3dd13ea",
+                    "id": 6545,
+                    "artist": "Loai"
+                }
+            ],
+            "id": 6536
+        },
+        {
+            "name": "Ana Keda",
+            "release_date": "2019-12-16",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b387feb33f26122076768b83",
+            "track_url": "https://open.spotify.com/album/5yuGjPiwWQ7DcGaTRV0nJj",
+            "tracks": [
+                {
+                    "name": "Ana Keda",
+                    "track_url": "",
+                    "duration_ms": 287256,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b387feb33f26122076768b83",
+                    "id": 6547,
+                    "artist": "Loai"
+                },
+                {
+                    "name": "Ah Ya Aini Ya Leil",
+                    "track_url": "",
+                    "duration_ms": 272640,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b387feb33f26122076768b83",
+                    "id": 6548,
+                    "artist": "Loai"
+                },
+                {
+                    "name": "Allah Yesbar Alby",
+                    "track_url": "",
+                    "duration_ms": 287688,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b387feb33f26122076768b83",
+                    "id": 6549,
+                    "artist": "Loai"
+                },
+                {
+                    "name": "Awaa Tendam Youm",
+                    "track_url": "",
+                    "duration_ms": 234311,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b387feb33f26122076768b83",
+                    "id": 6550,
+                    "artist": "Loai"
+                },
+                {
+                    "name": "Law Terdaly",
+                    "track_url": "",
+                    "duration_ms": 223128,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b387feb33f26122076768b83",
+                    "id": 6551,
+                    "artist": "Loai"
+                },
+                {
+                    "name": "Leh La",
+                    "track_url": "",
+                    "duration_ms": 246911,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b387feb33f26122076768b83",
+                    "id": 6552,
+                    "artist": "Loai"
+                },
+                {
+                    "name": "Leh La - Remix",
+                    "track_url": "",
+                    "duration_ms": 248226,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b387feb33f26122076768b83",
+                    "id": 6553,
+                    "artist": "Loai"
+                },
+                {
+                    "name": "Men Feena",
+                    "track_url": "",
+                    "duration_ms": 298463,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b387feb33f26122076768b83",
+                    "id": 6554,
+                    "artist": "Loai"
+                },
+                {
+                    "name": "Outro",
+                    "track_url": "",
+                    "duration_ms": 191160,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b387feb33f26122076768b83",
+                    "id": 6555,
+                    "artist": "Loai"
+                },
+                {
+                    "name": "Sably Zekra",
+                    "track_url": "",
+                    "duration_ms": 316896,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b387feb33f26122076768b83",
+                    "id": 6556,
+                    "artist": "Loai"
+                }
+            ],
+            "id": 6546
+        },
+        {
+            "name": "Ala Khert Ellah",
+            "release_date": "2019-10-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b27363d7372c10024507b2c98f4f",
+            "track_url": "https://open.spotify.com/album/1NFCFbsUvnnpnvR9CPCBG0",
+            "tracks": [
+                {
+                    "name": "Ba2zeny",
+                    "track_url": "",
+                    "duration_ms": 266394,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27363d7372c10024507b2c98f4f",
+                    "id": 6558,
+                    "artist": "Loai"
+                },
+                {
+                    "name": "Parachute",
+                    "track_url": "",
+                    "duration_ms": 238536,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27363d7372c10024507b2c98f4f",
+                    "id": 6559,
+                    "artist": "Loai"
+                },
+                {
+                    "name": "Leya Fiha",
+                    "track_url": "",
+                    "duration_ms": 337251,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27363d7372c10024507b2c98f4f",
+                    "id": 6560,
+                    "artist": "Loai"
+                },
+                {
+                    "name": "El Leila Sahraneen",
+                    "track_url": "",
+                    "duration_ms": 226358,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27363d7372c10024507b2c98f4f",
+                    "id": 6561,
+                    "artist": "Loai"
+                },
+                {
+                    "name": "Nefsy Agarab",
+                    "track_url": "",
+                    "duration_ms": 303754,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27363d7372c10024507b2c98f4f",
+                    "id": 6562,
+                    "artist": "Loai"
+                },
+                {
+                    "name": "Ala Khert Ellah",
+                    "track_url": "",
+                    "duration_ms": 250432,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27363d7372c10024507b2c98f4f",
+                    "id": 6563,
+                    "artist": "Loai"
+                },
+                {
+                    "name": "Deqt Sabran",
+                    "track_url": "",
+                    "duration_ms": 300000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27363d7372c10024507b2c98f4f",
+                    "id": 6564,
+                    "artist": "Loai"
+                },
+                {
+                    "name": "Rakant El Mashaer",
+                    "track_url": "",
+                    "duration_ms": 238904,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27363d7372c10024507b2c98f4f",
+                    "id": 6565,
+                    "artist": "Loai"
+                }
+            ],
+            "id": 6557
+        },
+        {
+            "name": "Ayesheha",
+            "release_date": "2015-04-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273be2dbea55fdc6d819e26e330",
+            "track_url": "https://open.spotify.com/album/1nsVjVIifl8UbOt4RAHwvf",
+            "tracks": [
+                {
+                    "name": "Bahebak",
+                    "track_url": "",
+                    "duration_ms": 284278,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273be2dbea55fdc6d819e26e330",
+                    "id": 6567,
+                    "artist": "Loai"
+                },
+                {
+                    "name": "Ayesheha",
+                    "track_url": "",
+                    "duration_ms": 222812,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273be2dbea55fdc6d819e26e330",
+                    "id": 6568,
+                    "artist": "Loai"
+                },
+                {
+                    "name": "Ma Tendahlesh Behenya",
+                    "track_url": "",
+                    "duration_ms": 211997,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273be2dbea55fdc6d819e26e330",
+                    "id": 6569,
+                    "artist": "Loai"
+                },
+                {
+                    "name": "El Donia Tekhawef",
+                    "track_url": "",
+                    "duration_ms": 237493,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273be2dbea55fdc6d819e26e330",
+                    "id": 6570,
+                    "artist": "Loai"
+                },
+                {
+                    "name": "Wala Yenfaa Keda",
+                    "track_url": "",
+                    "duration_ms": 237623,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273be2dbea55fdc6d819e26e330",
+                    "id": 6571,
+                    "artist": "Loai"
+                },
+                {
+                    "name": "W Ektshaft",
+                    "track_url": "",
+                    "duration_ms": 204317,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273be2dbea55fdc6d819e26e330",
+                    "id": 6572,
+                    "artist": "Loai"
+                },
+                {
+                    "name": "Babaatlek El Salam",
+                    "track_url": "",
+                    "duration_ms": 229970,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273be2dbea55fdc6d819e26e330",
+                    "id": 6573,
+                    "artist": "Loai"
+                },
+                {
+                    "name": "Qalbain",
+                    "track_url": "",
+                    "duration_ms": 294257,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273be2dbea55fdc6d819e26e330",
+                    "id": 6574,
+                    "artist": "Loai"
+                },
+                {
+                    "name": "Fe El Emkan",
+                    "track_url": "",
+                    "duration_ms": 266175,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273be2dbea55fdc6d819e26e330",
+                    "id": 6575,
+                    "artist": "Loai"
+                },
+                {
+                    "name": "Kelma Menk",
+                    "track_url": "",
+                    "duration_ms": 229395,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273be2dbea55fdc6d819e26e330",
+                    "id": 6576,
+                    "artist": "Loai"
+                }
+            ],
+            "id": 6566
+        }
+    ],
+    "singles": [
+        {
+            "name": "Batalt Teeba",
+            "release_date": "2024-10-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d99964307d7d370945b9bb67",
+            "track_url": "",
+            "id": 6577,
+            "artist": "Loai"
+        },
+        {
+            "name": "Ah Ya Aini Ya Leil",
+            "release_date": "2023-07-06",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f36a9a53969c4618ec065972",
+            "track_url": "",
+            "id": 6578,
+            "artist": "Loai"
+        },
+        {
+            "name": "Bas Etamen",
+            "release_date": "2022-07-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b27365b61a322dcb5f3bf1547718",
+            "track_url": "",
+            "id": 6579,
+            "artist": "Loai"
+        },
+        {
+            "name": "El Gomhorya El Gededa",
+            "release_date": "2022-01-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739c4afb41163a29ff5ac5802c",
+            "track_url": "",
+            "id": 6580,
+            "artist": "Loai"
+        },
+        {
+            "name": "قرصة ثعبان",
+            "release_date": "2021-08-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732aa3475f1cc0289351432a04",
+            "track_url": "",
+            "id": 6581,
+            "artist": "Loai"
+        },
+        {
+            "name": "Zay El-Shams",
+            "release_date": "2021-04-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736c680ab7efd1c4a27eb2a988",
+            "track_url": "",
+            "id": 6582,
+            "artist": "Loai"
+        },
+        {
+            "name": "Samt El Kalam",
+            "release_date": "2021-03-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733ee185a144fe5d454401cfe0",
+            "track_url": "",
+            "id": 6583,
+            "artist": "Loai"
+        },
+        {
+            "name": "Meraytek (From Helwa Eldonya Sokar TV Series)",
+            "release_date": "2021-02-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c58d279d531da50d1e73c3c5",
+            "track_url": "",
+            "id": 6584,
+            "artist": "Loai"
+        },
+        {
+            "name": "Fataht Einaya (From Helwa Eldonia Sokar TV Series)",
+            "release_date": "2021-02-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b273601821dbad772356ab5aa952",
+            "track_url": "",
+            "id": 6585,
+            "artist": "Loai"
+        },
+        {
+            "name": "Wla Kelma (Remix)",
+            "release_date": "2020-06-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735f5118c6bab8949905171ad2",
+            "track_url": "",
+            "id": 6586,
+            "artist": "Loai"
+        },
+        {
+            "name": "Bageb Fe Sertak",
+            "release_date": "2020-02-27",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732c29891ad5045475dd9fb0f0",
+            "track_url": "",
+            "id": 6587,
+            "artist": "Loai"
+        },
+        {
+            "name": "Egyptian Romantic Mix: Ellila De / Mahma Olt",
+            "release_date": "2020-01-27",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ba48277d956d53219fd3a266",
+            "track_url": "",
+            "id": 6588,
+            "artist": "Loai"
+        },
+        {
+            "name": "Arabic Reggaeton Mix: Ergaa Yalla / Metalla' Einy / Dayman Tensany / Shaklak Fahem",
+            "release_date": "2019-12-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733c0c0e7c25fba54b4594d64b",
+            "track_url": "",
+            "id": 6589,
+            "artist": "Loai"
+        },
+        {
+            "name": "Egyptian Summer Mix",
+            "release_date": "2019-08-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e67ff4c4e579a689afb6657e",
+            "track_url": "",
+            "id": 6590,
+            "artist": "Loai"
+        },
+        {
+            "name": "Ellila De",
+            "release_date": "2018-08-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b27393966ae0a63ebb47cefacbf6",
+            "track_url": "",
+            "id": 6591,
+            "artist": "Loai"
+        },
+        {
+            "name": "Wad'taha",
+            "release_date": "2017-02-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738ec4d316363c6addf9635a15",
+            "track_url": "",
+            "id": 6592,
+            "artist": "Loai"
+        },
+        {
+            "name": "Yalli Taebna Senein Fi Hawah",
+            "release_date": "2016-04-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273115971b7b8c2b769047f8582",
+            "track_url": "",
+            "id": 6593,
+            "artist": "Loai"
+        },
+        {
+            "name": "Erga' Ya Zaman",
+            "release_date": "2015-07-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f126240555131460e2fd380f",
+            "track_url": "",
+            "id": 6594,
+            "artist": "Loai"
+        },
+        {
+            "name": "Alabt El Donia",
+            "release_date": "2015-03-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736192b780b462b0da9cb61ae9",
+            "track_url": "",
+            "id": 6595,
+            "artist": "Loai"
+        },
+        {
+            "name": "Alolak Any Eh",
+            "release_date": "2015-03-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b4e239b7eeb685297d68cd9d",
+            "track_url": "",
+            "id": 6596,
+            "artist": "Loai"
+        },
+        {
+            "name": "نقابل ناس (موسيقي)",
+            "release_date": "2015",
+            "image": "https://i.scdn.co/image/ab67616d0000b27365e050a7052bd2774b8444fe",
+            "track_url": "",
+            "id": 6597,
+            "artist": "Loai"
+        },
+        {
+            "name": "Welad El Neel",
+            "release_date": "2014-12-05",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f0f091dee1e31023ad9a0038",
+            "track_url": "",
+            "id": 6598,
+            "artist": "Loai"
+        },
+        {
+            "name": "Doaa Al Shifa",
+            "release_date": "2013-07-17",
+            "image": "https://i.scdn.co/image/ab67616d0000b27343e7df774cb5fda3f94e269b",
+            "track_url": "",
+            "id": 6599,
+            "artist": "Loai"
+        },
+        {
+            "name": "يانا يا هو",
+            "release_date": "2011-09-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27304947ce0fc2b10cf02466f37",
+            "track_url": "",
+            "id": 6600,
+            "artist": "Loai"
+        },
+        {
+            "name": "تحدي كبير",
+            "release_date": "2011-01-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b273bc21529466c6f141539c5bb5",
+            "track_url": "",
+            "id": 6601,
+            "artist": "Loai"
+        },
+        {
+            "name": "افتكر (موسيقي)",
+            "release_date": "2011",
+            "image": "https://i.scdn.co/image/ab67616d0000b273fefb778a125eaa5360672e4d",
+            "track_url": "",
+            "id": 6602,
+            "artist": "Loai"
+        }
+    ],
+    "popular_tracks": [
+        {
+            "name": "Ah Ya Aini Ya Leil",
+            "track_url": "",
+            "duration_ms": 272640,
+            "image": "https://i.scdn.co/image/ab67616d0000b273b387feb33f26122076768b83",
+            "id": 6603,
+            "artist": "Loai"
+        },
+        {
+            "name": "Ne'abel Nas",
+            "track_url": "",
+            "duration_ms": 244375,
+            "image": "https://i.scdn.co/image/ab67616d0000b273f126240555131460e2fd380f",
+            "id": 6604,
+            "artist": "Loai"
+        },
+        {
+            "name": "Wahed Men El Nas",
+            "track_url": "",
+            "duration_ms": 201216,
+            "image": "https://i.scdn.co/image/ab67616d0000b2731b5adb3931b15f53a3dd13ea",
+            "id": 6605,
+            "artist": "Loai"
+        },
+        {
+            "name": "Erga' Ya Zaman",
+            "track_url": "",
+            "duration_ms": 224470,
+            "image": "https://i.scdn.co/image/ab67616d0000b273f126240555131460e2fd380f",
+            "id": 6606,
+            "artist": "Loai"
+        },
+        {
+            "name": "Ah Ya Shouq",
+            "track_url": "",
+            "duration_ms": 270480,
+            "image": "https://i.scdn.co/image/ab67616d0000b2731b5adb3931b15f53a3dd13ea",
+            "id": 6607,
+            "artist": "Loai"
+        },
+        {
+            "name": "Ellila De",
+            "track_url": "",
+            "duration_ms": 211905,
+            "image": "https://i.scdn.co/image/ab67616d0000b27393966ae0a63ebb47cefacbf6",
+            "id": 6608,
+            "artist": "Loai"
+        },
+        {
+            "name": "Baladna",
+            "track_url": "",
+            "duration_ms": 189428,
+            "image": "https://i.scdn.co/image/ab67616d0000b2736192b780b462b0da9cb61ae9",
+            "id": 6609,
+            "artist": "Loai"
+        },
+        {
+            "name": "Sam'any",
+            "track_url": "",
+            "duration_ms": 182126,
+            "image": "https://i.scdn.co/image/ab67616d0000b2736192b780b462b0da9cb61ae9",
+            "id": 6610,
+            "artist": "Loai"
+        },
+        {
+            "name": "Men Feena",
+            "track_url": "",
+            "duration_ms": 298463,
+            "image": "https://i.scdn.co/image/ab67616d0000b273b387feb33f26122076768b83",
+            "id": 6611,
+            "artist": "Loai"
+        },
+        {
+            "name": "Akhaaf Leeh",
+            "track_url": "",
+            "duration_ms": 253151,
+            "image": "https://i.scdn.co/image/ab67616d0000b2731b5adb3931b15f53a3dd13ea",
+            "id": 6612,
+            "artist": "Loai"
+        }
+    ]
+}

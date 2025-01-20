@@ -1,0 +1,583 @@
+{
+    "artist": {
+        "id": "7987",
+        "name": "Saad Lamjarred",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb0532e56a22ca30b2b785455d",
+        "background_image": "https://i.scdn.co/image/ab676161000051740532e56a22ca30b2b785455d"
+    },
+    "albums": [
+        {
+            "name": "Wala Alik",
+            "release_date": "2013-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273866dbdf36ae682583d2538e8",
+            "track_url": "https://open.spotify.com/album/6RH2PVDNr6XSVBqCSM2VSn",
+            "tracks": [
+                {
+                    "name": "Wana Mali (club Edition)",
+                    "track_url": "",
+                    "duration_ms": 191660,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273866dbdf36ae682583d2538e8",
+                    "id": 7989,
+                    "artist": "Saad Lamjarred"
+                },
+                {
+                    "name": "Jiti Fe Bali",
+                    "track_url": "",
+                    "duration_ms": 221884,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273866dbdf36ae682583d2538e8",
+                    "id": 7990,
+                    "artist": "Saad Lamjarred"
+                },
+                {
+                    "name": "Waadini",
+                    "track_url": "",
+                    "duration_ms": 232489,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273866dbdf36ae682583d2538e8",
+                    "id": 7991,
+                    "artist": "Saad Lamjarred"
+                },
+                {
+                    "name": "Lemima",
+                    "track_url": "",
+                    "duration_ms": 235075,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273866dbdf36ae682583d2538e8",
+                    "id": 7992,
+                    "artist": "Saad Lamjarred"
+                },
+                {
+                    "name": "Aziz Ou Ghali",
+                    "track_url": "",
+                    "duration_ms": 217704,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273866dbdf36ae682583d2538e8",
+                    "id": 7993,
+                    "artist": "Saad Lamjarred"
+                },
+                {
+                    "name": "Salina",
+                    "track_url": "",
+                    "duration_ms": 277472,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273866dbdf36ae682583d2538e8",
+                    "id": 7994,
+                    "artist": "Saad Lamjarred"
+                },
+                {
+                    "name": "Lemen Nechki",
+                    "track_url": "",
+                    "duration_ms": 212741,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273866dbdf36ae682583d2538e8",
+                    "id": 7995,
+                    "artist": "Saad Lamjarred"
+                },
+                {
+                    "name": "Wala Alik",
+                    "track_url": "",
+                    "duration_ms": 213342,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273866dbdf36ae682583d2538e8",
+                    "id": 7996,
+                    "artist": "Saad Lamjarred"
+                },
+                {
+                    "name": "Wana Mali",
+                    "track_url": "",
+                    "duration_ms": 229511,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273866dbdf36ae682583d2538e8",
+                    "id": 7997,
+                    "artist": "Saad Lamjarred"
+                },
+                {
+                    "name": "Katnadini",
+                    "track_url": "",
+                    "duration_ms": 237740,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273866dbdf36ae682583d2538e8",
+                    "id": 7998,
+                    "artist": "Saad Lamjarred"
+                },
+                {
+                    "name": "Chemaa",
+                    "track_url": "",
+                    "duration_ms": 225697,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273866dbdf36ae682583d2538e8",
+                    "id": 7999,
+                    "artist": "Saad Lamjarred"
+                },
+                {
+                    "name": "Mal Hbibi",
+                    "track_url": "",
+                    "duration_ms": 195422,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273866dbdf36ae682583d2538e8",
+                    "id": 8000,
+                    "artist": "Saad Lamjarred"
+                }
+            ],
+            "id": 7988
+        }
+    ],
+    "singles": [
+        {
+            "name": "Homa Dol",
+            "release_date": "2024-11-26",
+            "image": "https://i.scdn.co/image/ab67616d0000b273389786b8e732998f25fc651c",
+            "track_url": "",
+            "id": 8001,
+            "artist": "Saad Lamjarred"
+        },
+        {
+            "name": "سقفة",
+            "release_date": "2024-10-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b273bb810d8222f88f121ebb827c",
+            "track_url": "",
+            "id": 8002,
+            "artist": "Saad Lamjarred"
+        },
+        {
+            "name": "Bashufak",
+            "release_date": "2024-07-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273023651ccfea34e9cfc8b4a28",
+            "track_url": "",
+            "id": 8003,
+            "artist": "Saad Lamjarred"
+        },
+        {
+            "name": "Ched Ched",
+            "release_date": "2024-07-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b8c9406b654f02bc01e4f5e8",
+            "track_url": "",
+            "id": 8004,
+            "artist": "Saad Lamjarred"
+        },
+        {
+            "name": "Mahboubi",
+            "release_date": "2024-06-17",
+            "image": "https://i.scdn.co/image/ab67616d0000b27318a560d14c935b938d6c13fe",
+            "track_url": "",
+            "id": 8005,
+            "artist": "Saad Lamjarred"
+        },
+        {
+            "name": "Carrousel",
+            "release_date": "2024-04-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b27367cd38429917c16c9a258999",
+            "track_url": "",
+            "id": 8006,
+            "artist": "Saad Lamjarred"
+        },
+        {
+            "name": "Me7tal El7ob",
+            "release_date": "2024-02-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732bd6401a3189e5257708185b",
+            "track_url": "",
+            "id": 8007,
+            "artist": "Saad Lamjarred"
+        },
+        {
+            "name": "3Ndi Fikra",
+            "release_date": "2024-01-22",
+            "image": "https://i.scdn.co/image/ab67616d0000b27358bebf63ba4c2e3d6bf576bd",
+            "track_url": "",
+            "id": 8008,
+            "artist": "Saad Lamjarred"
+        },
+        {
+            "name": "Noor El Sobh",
+            "release_date": "2023-08-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ca6e56c1bcdf96807dc131c1",
+            "track_url": "",
+            "id": 8009,
+            "artist": "Saad Lamjarred"
+        },
+        {
+            "name": "Guli Mata",
+            "release_date": "2023-07-12",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a7a285251f8615924c9cf287",
+            "track_url": "",
+            "id": 8010,
+            "artist": "Saad Lamjarred"
+        },
+        {
+            "name": "Ach Khbarek",
+            "release_date": "2023-05-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738d7e4a25308642acccd82a66",
+            "track_url": "",
+            "id": 8011,
+            "artist": "Saad Lamjarred"
+        },
+        {
+            "name": "Baddek Eih",
+            "release_date": "2022-09-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b273056cc61a5ab20bda9d8e99f1",
+            "track_url": "",
+            "id": 8012,
+            "artist": "Saad Lamjarred"
+        },
+        {
+            "name": "El Hala'",
+            "release_date": "2022-09-02",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c5ca5f185412efd1a736c492",
+            "track_url": "",
+            "id": 8013,
+            "artist": "Saad Lamjarred"
+        },
+        {
+            "name": "Alacheq Alhayem",
+            "release_date": "2022-08-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ebf61adfc600302420968f2f",
+            "track_url": "",
+            "id": 8014,
+            "artist": "Saad Lamjarred"
+        },
+        {
+            "name": "عاش حبيبنا الملك",
+            "release_date": "2022-07-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b27301def3d19e0da56869563f09",
+            "track_url": "",
+            "id": 8015,
+            "artist": "Saad Lamjarred"
+        },
+        {
+            "name": "من أول دقيقة (رودج ريمكس)",
+            "release_date": "2022-07-05",
+            "image": "https://i.scdn.co/image/ab67616d0000b273773645221ae47b2d316abc7f",
+            "track_url": "",
+            "id": 8016,
+            "artist": "Saad Lamjarred"
+        },
+        {
+            "name": "Ma Ahla Lmakan",
+            "release_date": "2022-05-29",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734aeca28188b3ceffdf0faca6",
+            "track_url": "",
+            "id": 8017,
+            "artist": "Saad Lamjarred"
+        },
+        {
+            "name": "Min Awel Dekika",
+            "release_date": "2022-05-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ff61555391eb9d9e25557807",
+            "track_url": "",
+            "id": 8018,
+            "artist": "Saad Lamjarred"
+        },
+        {
+            "name": "Altawbah",
+            "release_date": "2022-04-14",
+            "image": "https://i.scdn.co/image/ab67616d0000b27353d5dfc1d8edcccc87a5244d",
+            "track_url": "",
+            "id": 8019,
+            "artist": "Saad Lamjarred"
+        },
+        {
+            "name": "Ya Ayouni",
+            "release_date": "2022-01-16",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737886a43b1027a1a2cb31b001",
+            "track_url": "",
+            "id": 8020,
+            "artist": "Saad Lamjarred"
+        },
+        {
+            "name": "Enty Hayaty",
+            "release_date": "2021-07-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273af7137e3ecc3df054b4245d5",
+            "track_url": "",
+            "id": 8021,
+            "artist": "Saad Lamjarred"
+        },
+        {
+            "name": "Hadi Ghir Lbidaya",
+            "release_date": "2021-07-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a464188670f1f8d920a08dd8",
+            "track_url": "",
+            "id": 8022,
+            "artist": "Saad Lamjarred"
+        },
+        {
+            "name": "Nadi Ya Allah",
+            "release_date": "2021-05-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732fa2b690e7ab46563eb055c7",
+            "track_url": "",
+            "id": 8023,
+            "artist": "Saad Lamjarred"
+        },
+        {
+            "name": "Lghadi Wehdou",
+            "release_date": "2021-02-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732efb809c92d5bc428888f987",
+            "track_url": "",
+            "id": 8024,
+            "artist": "Saad Lamjarred"
+        },
+        {
+            "name": "Lewjah Tani",
+            "release_date": "2021-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c5328b094342600a3cd49453",
+            "track_url": "",
+            "id": 8025,
+            "artist": "Saad Lamjarred"
+        },
+        {
+            "name": "Adda El Kalam",
+            "release_date": "2020-07-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b27392067c24c9f85c2951d7c658",
+            "track_url": "",
+            "id": 8026,
+            "artist": "Saad Lamjarred"
+        },
+        {
+            "name": "Bab Alrajaa Feat Mohamed Reda",
+            "release_date": "2020-05-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b273bc12e74c8f054d80703de40c",
+            "track_url": "",
+            "id": 8027,
+            "artist": "Saad Lamjarred"
+        },
+        {
+            "name": "Chidde W Betzulfeat Salah El Kurdi",
+            "release_date": "2020-04-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738b35a5d66b84d30de425fa7b",
+            "track_url": "",
+            "id": 8028,
+            "artist": "Saad Lamjarred"
+        },
+        {
+            "name": "Asif Habibi Feat Fnaire",
+            "release_date": "2020-02-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736475b4831f9cb015405bed8e",
+            "track_url": "",
+            "id": 8029,
+            "artist": "Saad Lamjarred"
+        },
+        {
+            "name": "Daba Tzian",
+            "release_date": "2019-10-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b273eb6d420402a49ee514fc2bd7",
+            "track_url": "",
+            "id": 8030,
+            "artist": "Saad Lamjarred"
+        },
+        {
+            "name": "Salam",
+            "release_date": "2019-10-20",
+            "image": "https://i.scdn.co/image/ab67616d0000b273013eb718dc46d503b5c34953",
+            "track_url": "",
+            "id": 8031,
+            "artist": "Saad Lamjarred"
+        },
+        {
+            "name": "Ykhalik Lili",
+            "release_date": "2019-09-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b27383defd0e320e37a619b6cb4e",
+            "track_url": "",
+            "id": 8032,
+            "artist": "Saad Lamjarred"
+        },
+        {
+            "name": "Maak Ya Malikna",
+            "release_date": "2019-08-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739fe89594a8b2e8c9a83d61f0",
+            "track_url": "",
+            "id": 8033,
+            "artist": "Saad Lamjarred"
+        },
+        {
+            "name": "Ensay",
+            "release_date": "2019-07-17",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736b20fa85ab55a223633baff5",
+            "track_url": "",
+            "id": 8034,
+            "artist": "Saad Lamjarred"
+        },
+        {
+            "name": "Njiebk ( Acoustic Version )",
+            "release_date": "2019-07-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b27309e6370baefee91343a9a830",
+            "track_url": "",
+            "id": 8035,
+            "artist": "Saad Lamjarred"
+        },
+        {
+            "name": "Njibek",
+            "release_date": "2019-06-17",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d585e47b0cc238bd0b414b91",
+            "track_url": "",
+            "id": 8036,
+            "artist": "Saad Lamjarred"
+        },
+        {
+            "name": "Baddek Eih (Binte Dil Arabic)",
+            "release_date": "2018-12-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732c4b6d0eb75824db79fe7c93",
+            "track_url": "",
+            "id": 8037,
+            "artist": "Saad Lamjarred"
+        },
+        {
+            "name": "Casablanca",
+            "release_date": "2018-07-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b27344751a8c32e6ac4f4d6d89a6",
+            "track_url": "",
+            "id": 8038,
+            "artist": "Saad Lamjarred"
+        },
+        {
+            "name": "Ya Allah",
+            "release_date": "2018-06-05",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c070fd4050060855fbde8991",
+            "track_url": "",
+            "id": 8039,
+            "artist": "Saad Lamjarred"
+        },
+        {
+            "name": "Ghazali",
+            "release_date": "2018-03-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b273aafbb86ffc5002f30a2562e4",
+            "track_url": "",
+            "id": 8040,
+            "artist": "Saad Lamjarred"
+        },
+        {
+            "name": "Let Go",
+            "release_date": "2017-08-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731192f3e4cea336de63daa7e8",
+            "track_url": "",
+            "id": 8041,
+            "artist": "Saad Lamjarred"
+        },
+        {
+            "name": "Liletna Eid",
+            "release_date": "2017-05-05",
+            "image": "https://i.scdn.co/image/ab67616d0000b273bf66fe0ae4e0bb36df129156",
+            "track_url": "",
+            "id": 8042,
+            "artist": "Saad Lamjarred"
+        },
+        {
+            "name": "رحالة العصر الحديث",
+            "release_date": "2016-08-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a4e63c8062a8a97505a61d65",
+            "track_url": "",
+            "id": 8043,
+            "artist": "Saad Lamjarred"
+        },
+        {
+            "name": "Ana Machi Sahel",
+            "release_date": "2016-07-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d5112c737b4d27ba22f1a91b",
+            "track_url": "",
+            "id": 8044,
+            "artist": "Saad Lamjarred"
+        },
+        {
+            "name": "Lamaallem",
+            "release_date": "2015-05-02",
+            "image": "https://i.scdn.co/image/ab67616d0000b27341a74d76c0af60eda3b6f78a",
+            "track_url": "",
+            "id": 8045,
+            "artist": "Saad Lamjarred"
+        },
+        {
+            "name": "يا إنسان",
+            "release_date": "2014-09-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b27344bc177c236ddcebe6bb400c",
+            "track_url": "",
+            "id": 8046,
+            "artist": "Saad Lamjarred"
+        },
+        {
+            "name": "Enty",
+            "release_date": "2014-07-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d55a9cd011b3a0d79bd10f2d",
+            "track_url": "",
+            "id": 8047,
+            "artist": "Saad Lamjarred"
+        },
+        {
+            "name": "Sa'a Saida Feat Sofia Mountassir",
+            "release_date": "2012-12-22",
+            "image": "https://i.scdn.co/image/ab67616d0000b273fd5440dc45adfdd74e797dcf",
+            "track_url": "",
+            "id": 8048,
+            "artist": "Saad Lamjarred"
+        }
+    ],
+    "popular_tracks": [
+        {
+            "name": "Guli Mata",
+            "track_url": "",
+            "duration_ms": 235574,
+            "image": "https://i.scdn.co/image/ab67616d0000b273a7a285251f8615924c9cf287",
+            "id": 8049,
+            "artist": "Saad Lamjarred"
+        },
+        {
+            "name": "Homa Dol",
+            "track_url": "",
+            "duration_ms": 245624,
+            "image": "https://i.scdn.co/image/ab67616d0000b273389786b8e732998f25fc651c",
+            "id": 8050,
+            "artist": "Saad Lamjarred"
+        },
+        {
+            "name": "Ensay",
+            "track_url": "",
+            "duration_ms": 224391,
+            "image": "https://i.scdn.co/image/ab67616d0000b2736b20fa85ab55a223633baff5",
+            "id": 8051,
+            "artist": "Saad Lamjarred"
+        },
+        {
+            "name": "Min Awel Dekika",
+            "track_url": "",
+            "duration_ms": 272560,
+            "image": "https://i.scdn.co/image/ab67616d0000b273ff61555391eb9d9e25557807",
+            "id": 8052,
+            "artist": "Saad Lamjarred"
+        },
+        {
+            "name": "Lamaallem",
+            "track_url": "",
+            "duration_ms": 237714,
+            "image": "https://i.scdn.co/image/ab67616d0000b27341a74d76c0af60eda3b6f78a",
+            "id": 8053,
+            "artist": "Saad Lamjarred"
+        },
+        {
+            "name": "Mal Hbibi",
+            "track_url": "",
+            "duration_ms": 195422,
+            "image": "https://i.scdn.co/image/ab67616d0000b273866dbdf36ae682583d2538e8",
+            "id": 8054,
+            "artist": "Saad Lamjarred"
+        },
+        {
+            "name": "Lewjah Tani",
+            "track_url": "",
+            "duration_ms": 210967,
+            "image": "https://i.scdn.co/image/ab67616d0000b273c5328b094342600a3cd49453",
+            "id": 8055,
+            "artist": "Saad Lamjarred"
+        },
+        {
+            "name": "Carrousel",
+            "track_url": "",
+            "duration_ms": 156893,
+            "image": "https://i.scdn.co/image/ab67616d0000b27367cd38429917c16c9a258999",
+            "id": 8056,
+            "artist": "Saad Lamjarred"
+        },
+        {
+            "name": "Enty Hayaty",
+            "track_url": "",
+            "duration_ms": 255978,
+            "image": "https://i.scdn.co/image/ab67616d0000b273af7137e3ecc3df054b4245d5",
+            "id": 8057,
+            "artist": "Saad Lamjarred"
+        },
+        {
+            "name": "Casablanca",
+            "track_url": "",
+            "duration_ms": 167665,
+            "image": "https://i.scdn.co/image/ab67616d0000b27344751a8c32e6ac4f4d6d89a6",
+            "id": 8058,
+            "artist": "Saad Lamjarred"
+        }
+    ]
+}

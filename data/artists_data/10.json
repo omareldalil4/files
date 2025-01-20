@@ -1,0 +1,1005 @@
+{
+    "artist": {
+        "id": "2097",
+        "name": "Bahaa Sultan",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb0be95f3a807328147536bf67",
+        "background_image": "https://i.scdn.co/image/ab676161000051740be95f3a807328147536bf67"
+    },
+    "albums": [
+        {
+            "name": "Cigara",
+            "release_date": "2021-12-27",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731b305573dbefc00f35a7bf36",
+            "track_url": "https://open.spotify.com/album/6tlo8DzuR11Z9g8nHP8vd3",
+            "tracks": [
+                {
+                    "name": "Ta3ala Adalla3ak",
+                    "track_url": "https://www.dropbox.com/scl/fi/vaijk6dz6s34aj5wyrqxe/Albumaty.Com_bhaa_sltan_taaly_adlak.mp3?rlkey=721n30f5hobeewl9kgcu1n3d8&st=f26ppbr1&dl=1",
+                    "duration_ms": 211451,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731b305573dbefc00f35a7bf36",
+                    "id": 2099,
+                    "artist": "Bahaa Sultan"
+                },
+                {
+                    "name": "Layali Taweela",
+                    "track_url": "https://www.dropbox.com/scl/fi/yb8tpzjgxoonnjh9fev6g/Albumaty.Com_bhaa_sltan_lyaly_twylt.mp3?rlkey=t1bhfhc531sa5axfehrlzfwrq&st=8f780e89&dl=1",
+                    "duration_ms": 298681,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731b305573dbefc00f35a7bf36",
+                    "id": 2100,
+                    "artist": "Bahaa Sultan"
+                },
+                {
+                    "name": "3amleen El Sa7",
+                    "track_url": "https://www.dropbox.com/scl/fi/m2oeodfvlac46xcsx5uxz/Albumaty.Com_bhaa_sltan_aamlyn_alsh.mp3?rlkey=xtdnbtnvgmxolg8xs89jgeyhm&st=qgg8y92n&dl=1",
+                    "duration_ms": 273845,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731b305573dbefc00f35a7bf36",
+                    "id": 2101,
+                    "artist": "Bahaa Sultan"
+                },
+                {
+                    "name": "Da Hob Wala",
+                    "track_url": "https://www.dropbox.com/scl/fi/3ft6m4zeswjiv6juix2xv/Albumaty.Com_bhaa_sltan_dh_hb_wla.mp3?rlkey=13l51cq4578ws2vne4igyjpxp&st=ywcdqeh1&dl=1",
+                    "duration_ms": 265561,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731b305573dbefc00f35a7bf36",
+                    "id": 2102,
+                    "artist": "Bahaa Sultan"
+                },
+                {
+                    "name": "Ana Ghaltan",
+                    "track_url": "https://www.dropbox.com/scl/fi/2jje6aa81x21unpcqt6oh/Albumaty.Com_bhaa_sltan_ana_ghltan.mp3?rlkey=c5y9xr5l1obogsenzlzr1ql1h&st=3lzvdx1m&dl=1",
+                    "duration_ms": 267610,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731b305573dbefc00f35a7bf36",
+                    "id": 2103,
+                    "artist": "Bahaa Sultan"
+                },
+                {
+                    "name": "Malak",
+                    "track_url": "https://www.dropbox.com/scl/fi/c1gf5kfv9v7xb6bid5vn4/Albumaty.Com_bhaa_sltan_malk.mp3?rlkey=mp04xf3m3xcz3hrey5juia9at&st=d6aw1zj2&dl=1",
+                    "duration_ms": 240038,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731b305573dbefc00f35a7bf36",
+                    "id": 2104,
+                    "artist": "Bahaa Sultan"
+                },
+                {
+                    "name": "Youmin Helween",
+                    "track_url": "https://www.dropbox.com/scl/fi/d5uamlkrmehdqnsdi47uo/Albumaty.Com_bhaa_sltan_ywmyn_hlwyn.mp3?rlkey=izp8x6qtj64xbj5jmkq4eu20o&st=b9tcawgr&dl=1",
+                    "duration_ms": 320250,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731b305573dbefc00f35a7bf36",
+                    "id": 2105,
+                    "artist": "Bahaa Sultan"
+                },
+                {
+                    "name": "Meen Et3allem Bebalash",
+                    "track_url": "https://www.dropbox.com/scl/fi/6dqbvrqrpk1eorsy90gim/Albumaty.Com_bhaa_sltan_myn_atalm_bblash.mp3?rlkey=py8p7zjhq0zjp6o5pbv15lmc5&st=bj7hfjon&dl=1",
+                    "duration_ms": 247500,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731b305573dbefc00f35a7bf36",
+                    "id": 2106,
+                    "artist": "Bahaa Sultan"
+                },
+                {
+                    "name": "Ramy El Hemoul",
+                    "track_url": "https://www.dropbox.com/scl/fi/x763cqim28de0s9p7cw0g/Albumaty.Com_bhaa_sltan_ramy_alhmwl.mp3?rlkey=a07tvmui5qbh52rcad06i0xfn&st=4wado0w9&dl=1",
+                    "duration_ms": 265722,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731b305573dbefc00f35a7bf36",
+                    "id": 2107,
+                    "artist": "Bahaa Sultan"
+                },
+                {
+                    "name": "Samah Samah",
+                    "track_url": "https://www.dropbox.com/scl/fi/aa5x5skkgq9c4686izflh/Albumaty.Com_bhaa_sltan_smah_smah.mp3?rlkey=7upg45792fjfsju907oz7ys5m&st=i0ac87yn&dl=1",
+                    "duration_ms": 303906,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731b305573dbefc00f35a7bf36",
+                    "id": 2108,
+                    "artist": "Bahaa Sultan"
+                },
+                {
+                    "name": "Cigara",
+                    "track_url": "https://www.dropbox.com/scl/fi/pfpmiu0t50r05ts10vdp5/cigara.mp3?rlkey=tm7qa3fiepqf1t10wpjrx86uv&st=cx97fpie&dl=1",
+                    "duration_ms": 270329,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731b305573dbefc00f35a7bf36",
+                    "id": 2109,
+                    "artist": "Bahaa Sultan"
+                },
+                {
+                    "name": "Kadaba",
+                    "track_url": "https://www.dropbox.com/scl/fi/2betivxl1aak6iyh24a29/kadaba.mp3?rlkey=e2snachn2m88iikv2ujxttmwg&st=ydip91qb&dl=1",
+                    "duration_ms": 302513,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731b305573dbefc00f35a7bf36",
+                    "id": 2110,
+                    "artist": "Bahaa Sultan"
+                }
+            ],
+            "id": 2098
+        },
+        {
+            "name": "Bad3y Ya Rab",
+            "release_date": "2013-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273711a05edf74e4e4c9248b471",
+            "track_url": "https://open.spotify.com/album/5cX9C6vO4ZgDH1AzKEmzNY",
+            "tracks": [
+                {
+                    "name": "Deny We Denak",
+                    "track_url": "https://www.dropbox.com/scl/fi/kuxfxw9e5gmd7201w3u4e/1.Deeni_We_Deenak.mp3?rlkey=g5z9zwysv7o4hla0d599fpuos&st=r5nwqotu&dl=1",
+                    "duration_ms": 227186,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273711a05edf74e4e4c9248b471",
+                    "id": 2112,
+                    "artist": "Bahaa Sultan"
+                },
+                {
+                    "name": "Asfoura",
+                    "track_url": "https://www.dropbox.com/scl/fi/3e61g26m067fse8dtjfu9/09_-_3asfora.mp3?rlkey=gawqwdwxtmzg0yexevohqptd1&st=y7wj8o8b&dl=1",
+                    "duration_ms": 112953,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273711a05edf74e4e4c9248b471",
+                    "id": 2113,
+                    "artist": "Bahaa Sultan"
+                },
+                {
+                    "name": "Bad3y Ya Rab",
+                    "track_url": "https://www.dropbox.com/scl/fi/41c223b2rw13660rc68f2/10_-_Bad3y_Ya_Rab.mp3?rlkey=6q1z536xofedqqew9yxw7id9r&st=qolr96hx&dl=1",
+                    "duration_ms": 87327,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273711a05edf74e4e4c9248b471",
+                    "id": 2114,
+                    "artist": "Bahaa Sultan"
+                },
+                {
+                    "name": "Sa3ban 3la Alby",
+                    "track_url": "https://www.dropbox.com/scl/fi/2lskisj6deti2l7fbd7uq/11_-_Sa3ban.mp3?rlkey=odp61yr4uc58cjboyjpj4jf1n&st=567wt0jw&dl=1",
+                    "duration_ms": 107206,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273711a05edf74e4e4c9248b471",
+                    "id": 2115,
+                    "artist": "Bahaa Sultan"
+                },
+                {
+                    "name": "El Sheetan",
+                    "track_url": "https://www.dropbox.com/scl/fi/oe4aal5bfvjoerxexv53f/01_-_El_Shetaan.mp3?rlkey=gmgjjdxxv5tou9jtoi5q0n8sd&st=0etkugr7&dl=1",
+                    "duration_ms": 112039,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273711a05edf74e4e4c9248b471",
+                    "id": 2116,
+                    "artist": "Bahaa Sultan"
+                },
+                {
+                    "name": "Fe Set Ayam",
+                    "track_url": "https://www.dropbox.com/scl/fi/l9hnixxwb2j9kcv9dq2so/04_-__Fe_Set_Ayam.mp3?rlkey=c8haliqbevppeuz18f2zk21v1&st=lvnaltk0&dl=1",
+                    "duration_ms": 107206,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273711a05edf74e4e4c9248b471",
+                    "id": 2117,
+                    "artist": "Bahaa Sultan"
+                },
+                {
+                    "name": "Mahadesh Ye2ol",
+                    "track_url": "https://www.dropbox.com/scl/fi/mxfmlzililh847cnf5rwp/05_-_Ma7desh_Ya2ool.mp3?rlkey=h8mv80edas8zjik4jcs8rsi3k&st=0lub4q06&dl=1",
+                    "duration_ms": 147696,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273711a05edf74e4e4c9248b471",
+                    "id": 2118,
+                    "artist": "Bahaa Sultan"
+                },
+                {
+                    "name": "Mahama Hasally",
+                    "track_url": "https://www.dropbox.com/scl/fi/n1au2wn4hh5wd3955ge63/06_-_Mahma_7asaly.mp3?rlkey=fdvd08b24epr78vm2353csqhr&st=2a4hua2c&dl=1",
+                    "duration_ms": 94928,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273711a05edf74e4e4c9248b471",
+                    "id": 2119,
+                    "artist": "Bahaa Sultan"
+                },
+                {
+                    "name": "Ra3y Damerak",
+                    "track_url": "https://www.dropbox.com/scl/fi/83phbuwzgy1fkp2iiui4q/07_-_Ra3eey_Dameraak.mp3?rlkey=3kc36yw3wep2l5gu3z49bt5kp&st=d05danj7&dl=1",
+                    "duration_ms": 127817,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273711a05edf74e4e4c9248b471",
+                    "id": 2120,
+                    "artist": "Bahaa Sultan"
+                },
+                {
+                    "name": "Rabena Beywasena",
+                    "track_url": "https://www.dropbox.com/scl/fi/wi8tv58o64brju42ybjbc/08_-_Rabna_Bayseena.mp3?rlkey=z8sx6mlepatlizdba49zmecby&st=svqaj7n4&dl=1",
+                    "duration_ms": 102739,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273711a05edf74e4e4c9248b471",
+                    "id": 2121,
+                    "artist": "Bahaa Sultan"
+                },
+                {
+                    "name": "Ana",
+                    "track_url": "https://www.dropbox.com/scl/fi/qd7eeawdaro0x72t0mebz/02_-_Ana.mp3?rlkey=p8zovr0e4lxhx7f2i220xcabg&st=d9bf0p11&dl=1",
+                    "duration_ms": 116845,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273711a05edf74e4e4c9248b471",
+                    "id": 2122,
+                    "artist": "Bahaa Sultan"
+                },
+                {
+                    "name": "Bendwar Ala El Sa3ada",
+                    "track_url": "https://www.dropbox.com/scl/fi/m9nnbu0wr17eehmrxlqi8/03_-_Bandwar_3ala_El_Sa3ada.mp3?rlkey=kkwgdvoiqgu8qus3zyk19t4tp&st=3tlf6tyc&dl=1",
+                    "duration_ms": 253204,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273711a05edf74e4e4c9248b471",
+                    "id": 2123,
+                    "artist": "Bahaa Sultan"
+                },
+                {
+                    "name": "El Rehla",
+                    "track_url": "https://www.dropbox.com/scl/fi/vutk0waw6079cy126o42c/El-rehla.mp3?rlkey=fcob5bao7mikqd91kit43ozlo&st=1ujpkb9f&dl=1",
+                    "duration_ms": 139154,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273711a05edf74e4e4c9248b471",
+                    "id": 2124,
+                    "artist": "Bahaa Sultan"
+                }
+            ],
+            "id": 2111
+        },
+        {
+            "name": "Wo Malna",
+            "release_date": "2011-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735315d6bd26a48532e14bc5a3",
+            "track_url": "https://open.spotify.com/album/5YOnIhs1M9nPt7EyJCScER",
+            "tracks": [
+                {
+                    "name": "Ta3ala",
+                    "track_url": "https://www.dropbox.com/scl/fi/ostqoxnkatx1mc4iybr6p/01-Ta3ala.mp3?rlkey=stk5qwopobs3ltu2l0obu0luy&st=w5q0y2ls&dl=1",
+                    "duration_ms": 255634,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735315d6bd26a48532e14bc5a3",
+                    "id": 2126,
+                    "artist": "Bahaa Sultan"
+                },
+                {
+                    "name": "Ana Mosammem",
+                    "track_url": "https://www.dropbox.com/scl/fi/zyb3rh899ymfw2xnq45zd/02-Ana_Mosamem.mp3?rlkey=mrytvtvec0c5bev250w1eu9iv&st=7i5i8zfn&dl=1",
+                    "duration_ms": 323448,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735315d6bd26a48532e14bc5a3",
+                    "id": 2127,
+                    "artist": "Bahaa Sultan"
+                },
+                {
+                    "name": "El Warda",
+                    "track_url": "https://www.dropbox.com/scl/fi/2rziomjubjk8ye6qsap8e/03-El_Warda.mp3?rlkey=f0oh8tsi4ukxih0n0joueaian&st=zxd1kyx3&dl=1",
+                    "duration_ms": 266971,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735315d6bd26a48532e14bc5a3",
+                    "id": 2128,
+                    "artist": "Bahaa Sultan"
+                },
+                {
+                    "name": "Alby Anany",
+                    "track_url": "https://www.dropbox.com/scl/fi/mh83cwwa5k1gv54lxgt02/04-Albi_Anany.mp3?rlkey=ze1x0n10epz7uon02s82d1v9c&st=mps62v0f&dl=1",
+                    "duration_ms": 278804,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735315d6bd26a48532e14bc5a3",
+                    "id": 2129,
+                    "artist": "Bahaa Sultan"
+                },
+                {
+                    "name": "Khaletny Akhaf",
+                    "track_url": "https://www.dropbox.com/scl/fi/bds648vmayw03v0q3fstq/05-Khaltni_Akhaf.mp3?rlkey=hhdp9ij4lajua588eh5mv2cmu&st=jl6eihc5&dl=1",
+                    "duration_ms": 272222,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735315d6bd26a48532e14bc5a3",
+                    "id": 2130,
+                    "artist": "Bahaa Sultan"
+                },
+                {
+                    "name": "Bousa",
+                    "track_url": "https://www.dropbox.com/scl/fi/rh2zz9n11uqfka4jwxc9n/06-Bosaa.mp3?rlkey=renn0quee71g8yj818vo0a1so&st=9dr51tz9&dl=1",
+                    "duration_ms": 227552,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735315d6bd26a48532e14bc5a3",
+                    "id": 2131,
+                    "artist": "Bahaa Sultan"
+                },
+                {
+                    "name": "Ana",
+                    "track_url": "https://www.dropbox.com/scl/fi/qd7eeawdaro0x72t0mebz/02_-_Ana.mp3?rlkey=p8zovr0e4lxhx7f2i220xcabg&st=5udcy9q8&dl=1",
+                    "duration_ms": 212976,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735315d6bd26a48532e14bc5a3",
+                    "id": 2132,
+                    "artist": "Bahaa Sultan"
+                },
+                {
+                    "name": "100-100",
+                    "track_url": "https://www.dropbox.com/scl/fi/x7pqg4ii26flaubhy765i/08-100100.mp3?rlkey=mjgdgin4eic479wjckk6r3yz3&st=ti1nrjr9&dl=1",
+                    "duration_ms": 257619,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735315d6bd26a48532e14bc5a3",
+                    "id": 2133,
+                    "artist": "Bahaa Sultan"
+                },
+                {
+                    "name": "Zai Ma7na",
+                    "track_url": "https://www.dropbox.com/scl/fi/kcn8x5mw6xhpkqurxqvry/09-Zai_Ma_Ehna.mp3?rlkey=ouiyrpecltu064dkqcvt7i94n&st=wga724h5&dl=1",
+                    "duration_ms": 273684,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735315d6bd26a48532e14bc5a3",
+                    "id": 2134,
+                    "artist": "Bahaa Sultan"
+                },
+                {
+                    "name": "Teb2a Enta Elly leya",
+                    "track_url": "https://www.dropbox.com/scl/fi/z7t58ho73evgypgs5cuq5/10-Tebaaaa_Enta_Elly_Leyaa.mp3?rlkey=yjaoz80afrk6unyoh4vbt5k7s&st=iy7r39qr&dl=1",
+                    "duration_ms": 277080,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735315d6bd26a48532e14bc5a3",
+                    "id": 2135,
+                    "artist": "Bahaa Sultan"
+                },
+                {
+                    "name": "Wo Malna",
+                    "track_url": "https://www.dropbox.com/scl/fi/1wzplo2m3xt5me103wyra/11-We_Malnaa.mp3?rlkey=uz6vuh4dsry46xfx093ddfwcf&st=civwd4d7&dl=1",
+                    "duration_ms": 294922,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735315d6bd26a48532e14bc5a3",
+                    "id": 2136,
+                    "artist": "Bahaa Sultan"
+                }
+            ],
+            "id": 2125
+        },
+        {
+            "name": "Kan Zaman",
+            "release_date": "2006-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737f137528bb80b3d6666e9957",
+            "track_url": "https://open.spotify.com/album/21rR3ItCM20ox0nJ4QqBDi",
+            "tracks": [
+                {
+                    "name": "Tahady",
+                    "track_url": "https://www.dropbox.com/scl/fi/zlho7chmudrvhrkvso3yk/01.Tahady.mp3?rlkey=1k4qswgtdqh4f10a2gsoqsacw&st=ek2upmyo&dl=1",
+                    "duration_ms": 299859,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737f137528bb80b3d6666e9957",
+                    "id": 2138,
+                    "artist": "Bahaa Sultan"
+                },
+                {
+                    "name": "Khaleek Faker",
+                    "track_url": "https://www.dropbox.com/scl/fi/4sr24lxm3akqdp9l9mz4t/02.Khalik_Faker.mp3?rlkey=l2l560um843tldgpi6wdbz7x4&st=0bbh754k&dl=1",
+                    "duration_ms": 285335,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737f137528bb80b3d6666e9957",
+                    "id": 2139,
+                    "artist": "Bahaa Sultan"
+                },
+                {
+                    "name": "Kan Zaman",
+                    "track_url": "https://www.dropbox.com/scl/fi/um7ewmuv6qbfsaqy6k3hs/03.Kan_Zaman.mp3?rlkey=ak5f0zl9ujr6frjiplfc23l53&st=7by5rbc2&dl=1",
+                    "duration_ms": 232672,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737f137528bb80b3d6666e9957",
+                    "id": 2140,
+                    "artist": "Bahaa Sultan"
+                },
+                {
+                    "name": "W Bena2es Hayati Ma3ak",
+                    "track_url": "https://www.dropbox.com/scl/fi/5osd4sj5uymbecdz4z5ox/04.W_Bnaaes.mp3?rlkey=9bs56pfsxdyskilgtd6880c2e&st=5331rc24&dl=1",
+                    "duration_ms": 276349,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737f137528bb80b3d6666e9957",
+                    "id": 2141,
+                    "artist": "Bahaa Sultan"
+                },
+                {
+                    "name": "El Wad Albo Beyewga3o",
+                    "track_url": "https://www.dropbox.com/scl/fi/zf9r7mbko9m6puf4smdbv/05.El_Wad_Albo_Beywga3o.mp3?rlkey=uebmtvzto95w78y7sz9gzekk8&st=hurao4ia&dl=1",
+                    "duration_ms": 247196,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737f137528bb80b3d6666e9957",
+                    "id": 2142,
+                    "artist": "Bahaa Sultan"
+                },
+                {
+                    "name": "W Tendam Leh",
+                    "track_url": "https://www.dropbox.com/scl/fi/x5ko3q75ys472w4puxm3j/06.W_Tendam_Lieh.mp3?rlkey=l5mih39p7qhie3spgdlq380uv&st=hdkksu5a&dl=1",
+                    "duration_ms": 254563,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737f137528bb80b3d6666e9957",
+                    "id": 2143,
+                    "artist": "Bahaa Sultan"
+                },
+                {
+                    "name": "Ah Law Ashoufak",
+                    "track_url": "https://www.dropbox.com/scl/fi/e43us9dvejd0v1jghskly/07.Ah_Law_Ashofak.mp3?rlkey=9fmx01frw5ylh5a5m7wovrse5&st=4xkb0csr&dl=1",
+                    "duration_ms": 249129,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737f137528bb80b3d6666e9957",
+                    "id": 2144,
+                    "artist": "Bahaa Sultan"
+                },
+                {
+                    "name": "Albak Ya Hawl Allah",
+                    "track_url": "https://www.dropbox.com/scl/fi/vjlpggzvekcj3w4p7edr0/08.Albak_Ya_Hawl_Allah.mp3?rlkey=1jzxccrpkn4rr4akxxfpqt1g1&st=ef1rzjw6&dl=1",
+                    "duration_ms": 306259,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737f137528bb80b3d6666e9957",
+                    "id": 2145,
+                    "artist": "Bahaa Sultan"
+                }
+            ],
+            "id": 2137
+        },
+        {
+            "name": "Oum O2af",
+            "release_date": "2003-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27306d324a91bc92d49c2bb3f73",
+            "track_url": "https://open.spotify.com/album/7cyeJu1PlHROs9F0au7XCR",
+            "tracks": [
+                {
+                    "name": "Oum O2af",
+                    "track_url": "https://www.dropbox.com/scl/fi/q15lshu5bs6pkk9dgclkq/01.Oum_O2af.mp3?rlkey=tmulhe3lj9uen8t2eshakvtl0&st=5ptdoh72&dl=1",
+                    "duration_ms": 206080,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27306d324a91bc92d49c2bb3f73",
+                    "id": 2147,
+                    "artist": "Bahaa Sultan"
+                },
+                {
+                    "name": "Yally Baye3",
+                    "track_url": "https://www.dropbox.com/scl/fi/ezrfeuteosw8q5t5ksq1y/02.Yally_Bayeaa.mp3?rlkey=0z846rec03gegdw1t0dybfr3q&st=3jb4s1lm&dl=1",
+                    "duration_ms": 280842,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27306d324a91bc92d49c2bb3f73",
+                    "id": 2148,
+                    "artist": "Bahaa Sultan"
+                },
+                {
+                    "name": "3ally Beyehsally",
+                    "track_url": "https://www.dropbox.com/scl/fi/ryyncaxnk5w5uqwevulhx/03.Aally_Beyehsally.mp3?rlkey=ds2cgn25dd4c8spkknqviien2&st=iwrm3s72&dl=1",
+                    "duration_ms": 250148,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27306d324a91bc92d49c2bb3f73",
+                    "id": 2149,
+                    "artist": "Bahaa Sultan"
+                },
+                {
+                    "name": "Wayyak",
+                    "track_url": "https://www.dropbox.com/scl/fi/o0661xhfjn023k03ar0va/04.Wayak.mp3?rlkey=f0h4g4zsbj8z1sfnwk21nofr9&st=pu7m2u5t&dl=1",
+                    "duration_ms": 323526,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27306d324a91bc92d49c2bb3f73",
+                    "id": 2150,
+                    "artist": "Bahaa Sultan"
+                },
+                {
+                    "name": "Maktoub Alaya",
+                    "track_url": "https://www.dropbox.com/scl/fi/uzwmptvnueu0bniwhm4b3/05.Maktob_Aalya.mp3?rlkey=aad6jv0lnhenvosgg1sjfxrh1&st=lfxnipjg&dl=1",
+                    "duration_ms": 201404,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27306d324a91bc92d49c2bb3f73",
+                    "id": 2151,
+                    "artist": "Bahaa Sultan"
+                },
+                {
+                    "name": "Kol Dah",
+                    "track_url": "https://www.dropbox.com/scl/fi/rhunc5cams6vot9c4t2xl/06.Kol_Da.mp3?rlkey=qry4wquoewa62xkms1nmrextl&st=5xdw4b0y&dl=1",
+                    "duration_ms": 241606,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27306d324a91bc92d49c2bb3f73",
+                    "id": 2152,
+                    "artist": "Bahaa Sultan"
+                },
+                {
+                    "name": "Be Amaret Eh",
+                    "track_url": "https://www.dropbox.com/scl/fi/v6uqvjoguq7dttw3xsezh/07.B_Amaret_Eih.mp3?rlkey=noctqtkgolf0b68o85psn34x1&st=uge3j2aj&dl=1",
+                    "duration_ms": 302106,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27306d324a91bc92d49c2bb3f73",
+                    "id": 2153,
+                    "artist": "Bahaa Sultan"
+                },
+                {
+                    "name": "Ensa",
+                    "track_url": "https://www.dropbox.com/scl/fi/zeovd8r1401nvecr3ktdr/08.Insa.mp3?rlkey=kmjv746zm1bhhveprqdaxs5qd&st=jgzpm7vw&dl=1",
+                    "duration_ms": 251219,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27306d324a91bc92d49c2bb3f73",
+                    "id": 2154,
+                    "artist": "Bahaa Sultan"
+                }
+            ],
+            "id": 2146
+        },
+        {
+            "name": "Talat Da2aye2",
+            "release_date": "2001-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273489f910596afe947d2f84cec",
+            "track_url": "https://open.spotify.com/album/22THGuVusEvH8uSS36YwPE",
+            "tracks": [
+                {
+                    "name": "Ya Hagerny",
+                    "track_url": "https://www.dropbox.com/scl/fi/scs6bcwf4r7lcqbpukc8s/01.Ya_Hagerny.mp3?rlkey=efze0ubfvyp0a8d41lmyeexcu&st=h3rlz3hn&dl=1",
+                    "duration_ms": 347820,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273489f910596afe947d2f84cec",
+                    "id": 2156,
+                    "artist": "Bahaa Sultan"
+                },
+                {
+                    "name": "Talat Da2aye2",
+                    "track_url": "https://www.dropbox.com/scl/fi/omzzha552khop7ebjegne/02.Talat_Da2aye2.mp3?rlkey=idnswcboelz9km41j91acx3v2&st=698vdo4f&dl=1",
+                    "duration_ms": 250932,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273489f910596afe947d2f84cec",
+                    "id": 2157,
+                    "artist": "Bahaa Sultan"
+                },
+                {
+                    "name": "Garahny Marra",
+                    "track_url": "https://www.dropbox.com/scl/fi/4p6enel10drh6iccwa3zn/03.Garhny_Mara.mp3?rlkey=lq8ootqbkivhadfiy4u73551p&st=fz93awvm&dl=1",
+                    "duration_ms": 345573,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273489f910596afe947d2f84cec",
+                    "id": 2158,
+                    "artist": "Bahaa Sultan"
+                },
+                {
+                    "name": "Mayroddesh",
+                    "track_url": "https://www.dropbox.com/scl/fi/8pxrjwit3aprfkb9l7a5h/04.Mayrodesh.mp3?rlkey=xgje5k8q7fqig20i5ahl4ttjt&st=es02rqfu&dl=1",
+                    "duration_ms": 270550,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273489f910596afe947d2f84cec",
+                    "id": 2159,
+                    "artist": "Bahaa Sultan"
+                },
+                {
+                    "name": "El Shouk",
+                    "track_url": "https://www.dropbox.com/scl/fi/badpof5dubzy48zfj44m0/05.Al_Shok.mp3?rlkey=z1hqtvxtksk6opkwo3yll0ze2&st=vljh60t1&dl=1",
+                    "duration_ms": 272666,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273489f910596afe947d2f84cec",
+                    "id": 2160,
+                    "artist": "Bahaa Sultan"
+                },
+                {
+                    "name": "Rouhy Feik",
+                    "track_url": "https://www.dropbox.com/scl/fi/9dh408jran9kka5eh8juy/06.Rohy_Feek.mp3?rlkey=i5sqemtw8419235n5getitk8j&st=up72oeip&dl=1",
+                    "duration_ms": 286302,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273489f910596afe947d2f84cec",
+                    "id": 2161,
+                    "artist": "Bahaa Sultan"
+                },
+                {
+                    "name": "Law Be3teny",
+                    "track_url": "https://www.dropbox.com/scl/fi/trcpkeihrgbatp83wp1gl/07.Law_Be3teny.mp3?rlkey=6jzu0bf1li76q0sj024xj8ljp&st=kjfjtfg9&dl=1",
+                    "duration_ms": 328280,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273489f910596afe947d2f84cec",
+                    "id": 2162,
+                    "artist": "Bahaa Sultan"
+                },
+                {
+                    "name": "Ebn Adam",
+                    "track_url": "https://www.dropbox.com/scl/fi/npxj4mawpy63tfy9yoslh/08.Ebn_Adam.mp3?rlkey=ocpypdcv4nfjwt54eu8k2i7bq&st=z8hr79i7&dl=1",
+                    "duration_ms": 286850,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273489f910596afe947d2f84cec",
+                    "id": 2163,
+                    "artist": "Bahaa Sultan"
+                }
+            ],
+            "id": 2155
+        },
+        {
+            "name": "Yally Mashy",
+            "release_date": "1999-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a49137fba29d8f73f8747a48",
+            "track_url": "https://open.spotify.com/album/3axL9aPebifeaGhmtmPbKM",
+            "tracks": [
+                {
+                    "name": "Ya Tara",
+                    "track_url": "https://www.dropbox.com/scl/fi/rb7zstj95udea0784vgxk/01.Ya_Tara.mp3?rlkey=yxymt4u45snmddz0qef5ikdcy&st=wd1dls5l&dl=1",
+                    "duration_ms": 333557,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a49137fba29d8f73f8747a48",
+                    "id": 2165,
+                    "artist": "Bahaa Sultan"
+                },
+                {
+                    "name": "Hatendamo",
+                    "track_url": "https://www.dropbox.com/scl/fi/qwm4nj5g88zwrctn4wxfu/02.Hatendmo.mp3?rlkey=kc9xgns6q5afiwbkdz1jm3wcv&st=23ouda88&dl=1",
+                    "duration_ms": 258821,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a49137fba29d8f73f8747a48",
+                    "id": 2166,
+                    "artist": "Bahaa Sultan"
+                },
+                {
+                    "name": "Yally Mashy",
+                    "track_url": "https://www.dropbox.com/scl/fi/dbhn5jnsbn8fqqrt56jn2/03.Yally_Mashy.mp3?rlkey=h7ha7ax8m50zscblasxqi1y69&st=g2ei8nl2&dl=1",
+                    "duration_ms": 287242,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a49137fba29d8f73f8747a48",
+                    "id": 2167,
+                    "artist": "Bahaa Sultan"
+                },
+                {
+                    "name": "Ahl El Hawa",
+                    "track_url": "https://www.dropbox.com/scl/fi/5t8kcpmygedkw2e4p9r6p/04.Ahl_El_Hawa.mp3?rlkey=4u3j19iz9klmdo83mqx9xxntq&st=d0y32lhc&dl=1",
+                    "duration_ms": 290403,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a49137fba29d8f73f8747a48",
+                    "id": 2168,
+                    "artist": "Bahaa Sultan"
+                },
+                {
+                    "name": "Aally",
+                    "track_url": "https://www.dropbox.com/scl/fi/1troumzbzxbc87pf6cvex/05.Aally.mp3?rlkey=7qwjqe5ks4mashsc5drwg4mjr&st=pndkcaee&dl=1",
+                    "duration_ms": 191947,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a49137fba29d8f73f8747a48",
+                    "id": 2169,
+                    "artist": "Bahaa Sultan"
+                },
+                {
+                    "name": "Youmin W 3addo",
+                    "track_url": "https://www.dropbox.com/scl/fi/0xrgeq3aizod0q25z5gy6/06.Youmin_We_3ado.mp3?rlkey=pvm4rv3i6o85ql2quvi1dgtzj&st=xktergou&dl=1",
+                    "duration_ms": 392698,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a49137fba29d8f73f8747a48",
+                    "id": 2170,
+                    "artist": "Bahaa Sultan"
+                },
+                {
+                    "name": "Ehlef",
+                    "track_url": "https://www.dropbox.com/scl/fi/2wcwcoa6j053aiuh2q1pr/07.Ehlef.mp3?rlkey=zt8tb1ovv7as50ndj1nqupwsh&st=5k2wqv6i&dl=1",
+                    "duration_ms": 270080,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a49137fba29d8f73f8747a48",
+                    "id": 2171,
+                    "artist": "Bahaa Sultan"
+                },
+                {
+                    "name": "A2al Wageb",
+                    "track_url": "https://www.dropbox.com/scl/fi/r9l5x3699m8ce0umto1sw/08.A2al_Wageb.mp3?rlkey=dwnoxunkzgnny2aj4hj97q7p4&st=shofocvq&dl=1",
+                    "duration_ms": 350537,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a49137fba29d8f73f8747a48",
+                    "id": 2172,
+                    "artist": "Bahaa Sultan"
+                }
+            ],
+            "id": 2164
+        }
+    ],
+    "singles": [
+        {
+            "name": "حب حياتي (feat. Menna Shalaby)",
+            "release_date": "2024-12-20",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738afc43135fab5da7e5a2a06f",
+            "track_url": "https://www.dropbox.com/scl/fi/2usu93lqbseq145xwzzab/.mp3?rlkey=fvm8typcp1r5997lani2jhx03&st=2tt9e8o8&dl=1",
+            "id": 2173,
+            "artist": "Bahaa Sultan"
+        },
+        {
+            "name": "Ka'nek Mosaken",
+            "release_date": "2024-11-27",
+            "image": "https://i.scdn.co/image/ab67616d0000b273948aedb0e8862cd6e046fb2b",
+            "track_url": "https://www.dropbox.com/scl/fi/wkt35k1t9hmn0py63o4fj/.mp3?rlkey=03b9qydo2gtre1ehyxe0ivm3x&st=rc9ym8ew&dl=1",
+            "id": 2174,
+            "artist": "Bahaa Sultan"
+        },
+        {
+            "name": "انا من غيرك",
+            "release_date": "2024-10-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b273da90d5d0dcd186d0635d60fe",
+            "track_url": "https://www.dropbox.com/scl/fi/9s83jshpsdz2bmakixhva/.mp3?rlkey=pbjjgkpsaur1xmmgzes29mbll&st=kvbmw3cy&dl=1",
+            "id": 2175,
+            "artist": "Bahaa Sultan"
+        },
+        {
+            "name": "Elmzag 3enab",
+            "release_date": "2024-08-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739331f1b26747bcf8d0817968",
+            "track_url": "https://www.dropbox.com/scl/fi/59qzxm3yjlq5kykzdqqn8/.mp3?rlkey=a3vwgq7mnh7nrieqx0q23q4jn&st=uzu1sc75&dl=1",
+            "id": 2176,
+            "artist": "Bahaa Sultan"
+        },
+        {
+            "name": "Ama Atkalm",
+            "release_date": "2024-07-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739d2b43697c31a38bf9f061e2",
+            "track_url": "https://www.dropbox.com/scl/fi/bw61oilufzhiikhkqa20s/.mp3?rlkey=goh5jp0ddbmi3x1rr557plydu&st=7t2c48kb&dl=1",
+            "id": 2177,
+            "artist": "Bahaa Sultan"
+        },
+        {
+            "name": "Tenzl Feen",
+            "release_date": "2024-06-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737fd355685c05f8d20817b70e",
+            "track_url": "https://www.dropbox.com/scl/fi/apt17txrb6lanooe9wqn3/.mp3?rlkey=hdz2x03prp151m3pgcl21v9fq&st=c62kepcj&dl=1",
+            "id": 2178,
+            "artist": "Bahaa Sultan"
+        },
+        {
+            "name": "ابن اللعيبة تتر مسلسل كوبرا",
+            "release_date": "2024-03-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b273bd009efb5ac49c9f0eae44b8",
+            "track_url": "https://www.dropbox.com/scl/fi/4co0yneyhadebihfwed4x/.mp3?rlkey=hb3eckxg7mle780guerv69hlc&st=o2kd0900&dl=1",
+            "id": 2179,
+            "artist": "Bahaa Sultan"
+        },
+        {
+            "name": "الجايزة الكبرى - من مسلسل كوبرا",
+            "release_date": "2024-03-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b273eb53eecacfd3a167cb29f05d",
+            "track_url": "https://www.dropbox.com/scl/fi/m0r1y62sq7egcdefppadx/.mp3?rlkey=fv6qfq2n1mqv1axxpv02ofuvw&st=26typu7m&dl=1",
+            "id": 2180,
+            "artist": "Bahaa Sultan"
+        },
+        {
+            "name": "الخير دايرة",
+            "release_date": "2024-03-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b273433d003e3b6ae32e2f8138fd",
+            "track_url": "https://www.dropbox.com/scl/fi/wunfpmnn6dy3h8rwkmzwd/?rlkey=boncmq6kg4bldlkumff43rvhp&st=jau6bdxt&dl=1",
+            "id": 2181,
+            "artist": "Bahaa Sultan"
+        },
+        {
+            "name": "Marthnash",
+            "release_date": "2024-02-13",
+            "image": "https://i.scdn.co/image/ab67616d0000b27302b4c9316aff5847bd8f9cd4",
+            "track_url": "https://www.dropbox.com/scl/fi/bex0bmbqhwp7dr69c1we3/Marthnash.mp3?rlkey=m1tefro2kthzfqrf0vht90bwd&st=0v21ngjj&dl=1",
+            "id": 2182,
+            "artist": "Bahaa Sultan"
+        },
+        {
+            "name": "Kolo Falso",
+            "release_date": "2023-12-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738c98e3f6a6e43b744e278961",
+            "track_url": "https://www.dropbox.com/scl/fi/x5jcejlbc2wxago6vevk8/.mp3?rlkey=1k61a6hc5etxsvk0mkuivyyo3&st=raadf3vw&dl=1",
+            "id": 2183,
+            "artist": "Bahaa Sultan"
+        },
+        {
+            "name": "Abl Ma Amshy",
+            "release_date": "2023-12-22",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d963edff00775073f9c6670c",
+            "track_url": "https://www.dropbox.com/scl/fi/2woon31plpe1t6ut9obdk/.mp3?rlkey=x6i5f9gatj5p6uw2v4msp8p4r&st=kr1two4o&dl=1",
+            "id": 2184,
+            "artist": "Bahaa Sultan"
+        },
+        {
+            "name": "Dadena",
+            "release_date": "2023-10-13",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c35c59cb5a58d049ebe1207d",
+            "track_url": "https://www.dropbox.com/scl/fi/r44ohza61qmpznbw5yng5/Dadena.mp3?rlkey=2tsph4ww1hk77hin3hef7k438&st=7ky3y67m&dl=1",
+            "id": 2185,
+            "artist": "Bahaa Sultan"
+        },
+        {
+            "name": "El Dalaa",
+            "release_date": "2023-07-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731c273a5b2ad1667d03df065c",
+            "track_url": "https://www.dropbox.com/scl/fi/n5kbj2tw0rllmis8fceq5/.mp3?rlkey=z1cx03kwrliqetikz2cmkukdn&st=8uwvdx8b&dl=1",
+            "id": 2186,
+            "artist": "Bahaa Sultan"
+        },
+        {
+            "name": "El Gaw Wallaa",
+            "release_date": "2023-06-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b273bcead7f00422b703ec80b4f4",
+            "track_url": "https://www.dropbox.com/scl/fi/4e8nb619vpmjgo2psi4ip/.mp3?rlkey=1tbtrxa5vre97o5axfqm6t8pi&st=8fb97kuz&dl=1",
+            "id": 2187,
+            "artist": "Bahaa Sultan"
+        },
+        {
+            "name": "Shokr Khas",
+            "release_date": "2023-02-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b27343af0cb305067346c6ba08c4",
+            "track_url": "https://www.dropbox.com/scl/fi/zquaqdn32v2zzmt6pmsl4/.mp3?rlkey=ttctbjqctyl5o8gck6p737l77&st=takzw1qn&dl=1",
+            "id": 2188,
+            "artist": "Bahaa Sultan"
+        },
+        {
+            "name": "البيت وحش (من فيلم جروب الماميز)",
+            "release_date": "2023-02-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739da398d380e0324a078ce6d5",
+            "track_url": "https://www.dropbox.com/scl/fi/5n4d68b5hvvfzsghnvrb5/.mp3?rlkey=0jd9fqxvzxg6k40ward8kecov&st=zu33tj3j&dl=1",
+            "id": 2189,
+            "artist": "Bahaa Sultan"
+        },
+        {
+            "name": "El Omr Kollo",
+            "release_date": "2023-01-20",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737a490037a59d5d83834e3095",
+            "track_url": "https://www.dropbox.com/scl/fi/is97xq3ajk26jy11lhh96/ElOmr.Kollo.mp3?rlkey=ym0ar5dpjgtexxi6b0o5zc9va&st=hadm17gw&dl=1",
+            "id": 2190,
+            "artist": "Bahaa Sultan"
+        },
+        {
+            "name": "براحة يا شيخة",
+            "release_date": "2023-01-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b27399c7a9a26ea0f9774633016d",
+            "track_url": "https://www.dropbox.com/scl/fi/dupofsgpbf54arm4ugfu5/.mp3?rlkey=3k37gzs4xxjsz3gdopbwmh3c7&st=gip4nl7n&dl=1",
+            "id": 2191,
+            "artist": "Bahaa Sultan"
+        },
+        {
+            "name": "Qalb Eswed",
+            "release_date": "2022-11-02",
+            "image": "https://i.scdn.co/image/ab67616d0000b273017a1b0735a553e029a1832c",
+            "track_url": "https://www.dropbox.com/scl/fi/wqpgspcyxkksmsrqd8u1r/_klb_aswd.mp3?rlkey=hcu4tiar3mqvut70tvtcuyhps&st=4wqi2efk&dl=1",
+            "id": 2192,
+            "artist": "Bahaa Sultan"
+        },
+        {
+            "name": "Nadren Aalaya",
+            "release_date": "2022-10-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c7e5150df352d0cd92f07775",
+            "track_url": "https://www.dropbox.com/scl/fi/k02gosbiw7ot3sb2im8z2/ndra_alya.mp3?rlkey=b88mvxblk7hvge2d5f3yux5ll&st=xiogzpfh&dl=1",
+            "id": 2193,
+            "artist": "Bahaa Sultan"
+        },
+        {
+            "name": "Delwaqti Agabnako",
+            "release_date": "2022-09-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b27333aecfe2420c003d31cde6a3",
+            "track_url": "https://www.dropbox.com/scl/fi/wn1q7okrzfpezrlyk6hkm/.mp3?rlkey=o11y8bkqdj4or5ia20251q4o4&st=yh5k3ol8&dl=1",
+            "id": 2194,
+            "artist": "Bahaa Sultan"
+        },
+        {
+            "name": "أنا متفائل",
+            "release_date": "2021-07-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b27392621eb45ca707866451e148",
+            "track_url": "https://www.dropbox.com/scl/fi/2pqoqbwrusowwlolnzsh0/.mp3?rlkey=vni4nv9hvxbkb5csu0pvj6jzr&st=l26kg5gd&dl=1",
+            "id": 2195,
+            "artist": "Bahaa Sultan"
+        },
+        {
+            "name": "قلبى شايل",
+            "release_date": "2018-06-05",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736c290a83000879f75f414cc6",
+            "track_url": "https://www.dropbox.com/scl/fi/jswae40mrb5jia0oz0wzi/.mp3?rlkey=qcep1no0hp5r52bkkqskollej&st=pi096ij7&dl=1",
+            "id": 2196,
+            "artist": "Bahaa Sultan"
+        },
+        {
+            "name": "El Donya",
+            "release_date": "2016-03-05",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734f35ed04b72dd8e3637fdbfd",
+            "track_url": "https://www.dropbox.com/scl/fi/3uxqh53af9u0tno1ijzd7/.mp3?rlkey=zzkuby5i7iw9si34wp6b05evh&st=gy1dulpc&dl=1",
+            "id": 2197,
+            "artist": "Bahaa Sultan"
+        },
+        {
+            "name": "Fina Nghayir",
+            "release_date": "2016-02-27",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737a6db19ecb25b41165129d7c",
+            "track_url": "https://www.dropbox.com/scl/fi/sbhrnn32tikjpyi6krxu1/.mp3?rlkey=qt0ilq3nh7rt8num4f2vuixn7&st=anops2su&dl=1",
+            "id": 2198,
+            "artist": "Bahaa Sultan"
+        },
+        {
+            "name": "Ana Mesh Handam",
+            "release_date": "2014-04-16",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c2ffca7e82b98ae8525601c6",
+            "track_url": "https://www.dropbox.com/scl/fi/gdkc929c925tkgofon6oy/.mp3?rlkey=inkcpgdu0jg9yhj6hb0jranhu&st=smfzekur&dl=1",
+            "id": 2199,
+            "artist": "Bahaa Sultan"
+        },
+        {
+            "name": "Asebk",
+            "release_date": "2014-02-27",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f130f87e4b8392818764598d",
+            "track_url": "https://www.dropbox.com/scl/fi/a9bww6dm2vg7lnlkgc54a/.mp3?rlkey=svlsdhk5dhkscv3ks81fa76rv&st=y2i1vmmq&dl=1",
+            "id": 2200,
+            "artist": "Bahaa Sultan"
+        },
+        {
+            "name": "Welad Balady",
+            "release_date": "2014-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27303c6ee2a108dfa5d0b1a3676",
+            "track_url": "https://www.dropbox.com/scl/fi/e17cw7zo1ow4m9vgmjffn/.mp3?rlkey=nyw2uznw1b51a6njvn5pojxv6&st=5m9v9d20&dl=1",
+            "id": 2201,
+            "artist": "Bahaa Sultan"
+        },
+        {
+            "name": "Allahu Akbar",
+            "release_date": "2014-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27374150968060b87039a8c2101",
+            "track_url": "https://www.dropbox.com/scl/fi/7t2ljw4r5ucy191ip4d3q/.mp3?rlkey=vocgk9xvirkur60oux69vkrxg&st=oyudhive&dl=1",
+            "id": 2202,
+            "artist": "Bahaa Sultan"
+        },
+        {
+            "name": "Mazag El Kher - intro",
+            "release_date": "2013-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273598e3672b8688e8c20f8eb0b",
+            "track_url": "https://www.dropbox.com/scl/fi/59xl8ad8lqwktr94expj4/_-_.mp3?rlkey=0jmnu3nvet88b1io4y4pog8mz&st=kppx8b9c&dl=1",
+            "id": 2203,
+            "artist": "Bahaa Sultan"
+        },
+        {
+            "name": "Dawaran Shobra - Outro",
+            "release_date": "2013-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730142b5a314d15657e835c40b",
+            "track_url": "https://www.dropbox.com/scl/fi/pvt2gqj29xerogpouilbp/.mp3?rlkey=gdgpznlwejssvhr8ao1gpylam&st=bz3x9rm2&dl=1",
+            "id": 2204,
+            "artist": "Bahaa Sultan"
+        },
+        {
+            "name": "Dawaran Shobra - Intro",
+            "release_date": "2013-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e54fa2f5232385d93859c162",
+            "track_url": "https://www.dropbox.com/scl/fi/5e7vruqoesztwj26fbfju/.mp3?rlkey=wzihkyzr6016sjrocikuhkmkg&st=ms3w48nk&dl=1",
+            "id": 2205,
+            "artist": "Bahaa Sultan"
+        },
+        {
+            "name": "تتر مسلسل خرم ابرة",
+            "release_date": "2012-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27355aa82095c58e5ec07414048",
+            "track_url": "https://www.dropbox.com/scl/fi/wy4qng5nx3fs9fq8ca0x5/.mp3?rlkey=r1v7dnt8oak4kil287z4rhetx&st=nzivf0xq&dl=1",
+            "id": 2206,
+            "artist": "Bahaa Sultan"
+        },
+        {
+            "name": "Enty El Ghalya",
+            "release_date": "2011-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27309fe6b7ca62e0b720d69736c",
+            "track_url": "https://www.dropbox.com/scl/fi/4swsmctewlg3ejbipsdrr/.mp3?rlkey=zk62xb8184xjjtx0vrupey4r8&st=z1527k33&dl=1",
+            "id": 2207,
+            "artist": "Bahaa Sultan"
+        },
+        {
+            "name": "Ana Mesh Ma3ahom",
+            "release_date": "2007-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739b327467eab050f83b311579",
+            "track_url": "https://www.dropbox.com/scl/fi/owi3rdvf31kj91uuhhfxu/.mp3?rlkey=6zc7m6k2jya1kv8a2jin9xent&st=98h1yiep&dl=1",
+            "id": 2208,
+            "artist": "Bahaa Sultan"
+        },
+        {
+            "name": "Welne'ma Latzahzah",
+            "release_date": "1990-07-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b273691800b3a4cab453dde25b28",
+            "track_url": "https://www.dropbox.com/scl/fi/q0d0q8ss6zfrib4f6r0an/.mp3?rlkey=1tjco82hhelj03sgrr3sm9quj&st=bpbnud2d&dl=1",
+            "id": 2209,
+            "artist": "Bahaa Sultan"
+        },
+        {
+            "name": "Al Souq",
+            "release_date": "1990-07-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b273000feb3e865e221d51885773",
+            "track_url": "https://www.dropbox.com/scl/fi/tffb8lxlr63czcfluy77t/.mp3?rlkey=f3b0lyaemoqs4qn6iqhd3wtar&st=hltbdnkv&dl=1",
+            "id": 2210,
+            "artist": "Bahaa Sultan"
+        }
+    ],
+    "popular_tracks": [
+        {
+            "name": "انا من غيرك",
+            "track_url": "https://www.dropbox.com/scl/fi/9s83jshpsdz2bmakixhva/.mp3?rlkey=pbjjgkpsaur1xmmgzes29mbll&st=kvbmw3cy&dl=1",
+            "duration_ms": 211714,
+            "image": "https://i.scdn.co/image/ab67616d0000b273da90d5d0dcd186d0635d60fe",
+            "id": 2211,
+            "artist": "Bahaa Sultan"
+        },
+        {
+            "name": "El Dalaa",
+            "release_date": "2023-07-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731c273a5b2ad1667d03df065c",
+            "track_url": "https://www.dropbox.com/scl/fi/n5kbj2tw0rllmis8fceq5/.mp3?rlkey=z1cx03kwrliqetikz2cmkukdn&st=8uwvdx8b&dl=1",
+            "id": 2186,
+            "artist": "Bahaa Sultan"
+        },
+        {
+            "name": "براحة يا شيخة",
+            "release_date": "2023-01-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b27399c7a9a26ea0f9774633016d",
+            "track_url": "https://www.dropbox.com/scl/fi/dupofsgpbf54arm4ugfu5/.mp3?rlkey=3k37gzs4xxjsz3gdopbwmh3c7&st=gip4nl7n&dl=1",
+            "id": 2191,
+            "artist": "Bahaa Sultan"
+        },
+        {
+            "name": "Ana Mosammem",
+            "track_url": "https://www.dropbox.com/scl/fi/zyb3rh899ymfw2xnq45zd/02-Ana_Mosamem.mp3?rlkey=mrytvtvec0c5bev250w1eu9iv&st=7i5i8zfn&dl=1",
+            "duration_ms": 323448,
+            "image": "https://i.scdn.co/image/ab67616d0000b2735315d6bd26a48532e14bc5a3",
+            "id": 2127,
+            "artist": "Bahaa Sultan"
+        },
+        {
+            "name": "Ta3ala Adalla3ak",
+            "track_url": "https://www.dropbox.com/scl/fi/vaijk6dz6s34aj5wyrqxe/Albumaty.Com_bhaa_sltan_taaly_adlak.mp3?rlkey=721n30f5hobeewl9kgcu1n3d8&st=f26ppbr1&dl=1",
+            "duration_ms": 211451,
+            "image": "https://i.scdn.co/image/ab67616d0000b2731b305573dbefc00f35a7bf36",
+            "id": 2099,
+            "artist": "Bahaa Sultan"
+        },
+        {
+            "name": "Ana Ghaltan",
+            "track_url": "https://www.dropbox.com/scl/fi/2jje6aa81x21unpcqt6oh/Albumaty.Com_bhaa_sltan_ana_ghltan.mp3?rlkey=c5y9xr5l1obogsenzlzr1ql1h&st=3lzvdx1m&dl=1",
+            "duration_ms": 267610,
+            "image": "https://i.scdn.co/image/ab67616d0000b2731b305573dbefc00f35a7bf36",
+            "id": 2103,
+            "artist": "Bahaa Sultan"
+        },
+        {
+            "name": "Kolo Falso",
+            "release_date": "2023-12-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738c98e3f6a6e43b744e278961",
+            "track_url": "https://www.dropbox.com/scl/fi/x5jcejlbc2wxago6vevk8/.mp3?rlkey=1k61a6hc5etxsvk0mkuivyyo3&st=raadf3vw&dl=1",
+            "id": 2183,
+            "artist": "Bahaa Sultan"
+        },
+        {
+            "name": "El Wad Albo Beyewga3o",
+            "track_url": "https://www.dropbox.com/scl/fi/zf9r7mbko9m6puf4smdbv/05.El_Wad_Albo_Beywga3o.mp3?rlkey=uebmtvzto95w78y7sz9gzekk8&st=hurao4ia&dl=1",
+            "duration_ms": 247196,
+            "image": "https://i.scdn.co/image/ab67616d0000b2737f137528bb80b3d6666e9957",
+            "id": 2142,
+            "artist": "Bahaa Sultan"
+        },
+        {
+            "name": "Albak Ya Hawl Allah",
+            "track_url": "https://www.dropbox.com/scl/fi/vjlpggzvekcj3w4p7edr0/08.Albak_Ya_Hawl_Allah.mp3?rlkey=1jzxccrpkn4rr4akxxfpqt1g1&st=ef1rzjw6&dl=1",
+            "duration_ms": 306259,
+            "image": "https://i.scdn.co/image/ab67616d0000b2737f137528bb80b3d6666e9957",
+            "id": 2145,
+            "artist": "Bahaa Sultan"
+        },
+        {
+            "name": "Ya Tara",
+            "track_url": "https://www.dropbox.com/scl/fi/rb7zstj95udea0784vgxk/01.Ya_Tara.mp3?rlkey=yxymt4u45snmddz0qef5ikdcy&st=wd1dls5l&dl=1",
+            "duration_ms": 333557,
+            "image": "https://i.scdn.co/image/ab67616d0000b273a49137fba29d8f73f8747a48",
+            "id": 2165,
+            "artist": "Bahaa Sultan"
+        }
+    ]
+}

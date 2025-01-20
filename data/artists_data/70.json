@@ -1,0 +1,493 @@
+{
+    "artist": {
+        "id": "9402",
+        "name": "Essam Sasa",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebafd4138e95a69a71b0bdb694",
+        "background_image": "https://i.scdn.co/image/ab67616100005174afd4138e95a69a71b0bdb694"
+    },
+    "albums": [],
+    "singles": [
+        {
+            "name": "مجاريح ودي رايحه روحنا",
+            "release_date": "2024-12-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b27309c6320a124fdeb2ddd96244",
+            "track_url": "",
+            "id": 9403,
+            "artist": "Essam Sasa"
+        },
+        {
+            "name": "طيبة زمان قتلتها بسكينه (هان الغروب وشمس الحب غابت)",
+            "release_date": "2024-12-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a87ec8d5034a02548dd893b5",
+            "track_url": "",
+            "id": 9404,
+            "artist": "Essam Sasa"
+        },
+        {
+            "name": "كوكب الاندال",
+            "release_date": "2024-12-20",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739ef684f631d7b16d220bf5a4",
+            "track_url": "",
+            "id": 9405,
+            "artist": "Essam Sasa"
+        },
+        {
+            "name": "مين حبينا مين جمبنا",
+            "release_date": "2024-12-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730fe062384999254fa675ef36",
+            "track_url": "",
+            "id": 9406,
+            "artist": "Essam Sasa"
+        },
+        {
+            "name": "طال وقت الانتظار",
+            "release_date": "2024-12-03",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732e60dbcadaf7358ede9accc9",
+            "track_url": "",
+            "id": 9407,
+            "artist": "Essam Sasa"
+        },
+        {
+            "name": "اللي مني مجضاضني ( من بوقي بشيلها وبديكو )",
+            "release_date": "2024-12-03",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731b84ba202a4e95f4cddc2f61",
+            "track_url": "",
+            "id": 9408,
+            "artist": "Essam Sasa"
+        },
+        {
+            "name": "ايوه انا باين شكله كيوت لكن من جوايا جبروت",
+            "release_date": "2024-11-29",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c5c14b8018e7f96e48651c27",
+            "track_url": "",
+            "id": 9409,
+            "artist": "Essam Sasa"
+        },
+        {
+            "name": "يا دنيا فيكي البدع",
+            "release_date": "2024-11-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738c6ed0f89c18514985b02c1a",
+            "track_url": "",
+            "id": 9410,
+            "artist": "Essam Sasa"
+        },
+        {
+            "name": "اشبعو مني انا يمكن اموت (خايف ابان انا زعلان)",
+            "release_date": "2024-11-12",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735f533737d66785f4317d981c",
+            "track_url": "",
+            "id": 9411,
+            "artist": "Essam Sasa"
+        },
+        {
+            "name": "في ضهرك ابونتي (بلاش يا فراق)",
+            "release_date": "2024-10-22",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739e7b7a572d23b4e5d09ee8ee",
+            "track_url": "",
+            "id": 9412,
+            "artist": "Essam Sasa"
+        },
+        {
+            "name": "في ظهرك ابونتي",
+            "release_date": "2024-10-20",
+            "image": "https://i.scdn.co/image/ab67616d0000b273bf1e80b3bc2580deb6bea58f",
+            "track_url": "",
+            "id": 9413,
+            "artist": "Essam Sasa"
+        },
+        {
+            "name": "هلهوله عملنا نفسه العو",
+            "release_date": "2024-10-16",
+            "image": "https://i.scdn.co/image/ab67616d0000b273517bcf710df2efabfa202fe4",
+            "track_url": "",
+            "id": 9414,
+            "artist": "Essam Sasa"
+        },
+        {
+            "name": "اتربيت ع الاحترام ( الحياه مش جدعه )",
+            "release_date": "2024-10-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739df4b45191cbbafc154e0807",
+            "track_url": "",
+            "id": 9415,
+            "artist": "Essam Sasa"
+        },
+        {
+            "name": "شوفت حبيبي ( اربع حيطان وبدون زياره )",
+            "release_date": "2024-09-27",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c08b124d46422445943abc72",
+            "track_url": "",
+            "id": 9416,
+            "artist": "Essam Sasa"
+        },
+        {
+            "name": "انا مش غايب علشان اعود (اخويا ماضي ع الاحالة)",
+            "release_date": "2024-09-12",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f401002ea0e5a24782ba3723",
+            "track_url": "",
+            "id": 9417,
+            "artist": "Essam Sasa"
+        },
+        {
+            "name": "سامع كلاب بتنبح",
+            "release_date": "2024-09-03",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737e0fe63cc9e4bb42e83d7006",
+            "track_url": "",
+            "id": 9418,
+            "artist": "Essam Sasa"
+        },
+        {
+            "name": "شوفت الي حصل يا زماله",
+            "release_date": "2024-09-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ad0650c16724d90e2431b5e7",
+            "track_url": "",
+            "id": 9419,
+            "artist": "Essam Sasa"
+        },
+        {
+            "name": "عيني مدمعه من كتر ما اتأذيت",
+            "release_date": "2024-08-26",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ca6dff2c4db92ba66b39ee56",
+            "track_url": "",
+            "id": 9420,
+            "artist": "Essam Sasa"
+        },
+        {
+            "name": "الدنيا قاسيه اتشقلبت بيا في ثواني",
+            "release_date": "2024-08-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b27322bd979b0a65d7783c6becbb",
+            "track_url": "",
+            "id": 9421,
+            "artist": "Essam Sasa"
+        },
+        {
+            "name": "بعدين يا دنيا الفراق",
+            "release_date": "2024-08-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d6544e684d7f9c96d028b061",
+            "track_url": "",
+            "id": 9422,
+            "artist": "Essam Sasa"
+        },
+        {
+            "name": "انا جراح وقت العراك بقبض ارواح",
+            "release_date": "2024-08-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b27394f68befa51d4d9001b917fd",
+            "track_url": "",
+            "id": 9423,
+            "artist": "Essam Sasa"
+        },
+        {
+            "name": "كوكبنا باظ (لا مش عايزكو وعندي كتفي هوا بس يشيل)",
+            "release_date": "2024-08-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b27310703a60b5e0f7c881b01cb7",
+            "track_url": "",
+            "id": 9424,
+            "artist": "Essam Sasa"
+        },
+        {
+            "name": "عيني بتبكي م اللي فيا (كنتي عيني لكن عمتها)",
+            "release_date": "2024-07-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f99e89866a2c4bc231bb5f5e",
+            "track_url": "",
+            "id": 9425,
+            "artist": "Essam Sasa"
+        },
+        {
+            "name": "معلش عارف اني انا حرقك امور (سلاموز يؤبرني جمالك يا عنيا)",
+            "release_date": "2024-07-17",
+            "image": "https://i.scdn.co/image/ab67616d0000b273864e4d23a4ddc0121d3045dd",
+            "track_url": "",
+            "id": 9426,
+            "artist": "Essam Sasa"
+        },
+        {
+            "name": "انت عمال بتحلم بالفور يو",
+            "release_date": "2024-07-14",
+            "image": "https://i.scdn.co/image/ab67616d0000b273dcfae05ceb5485e4839084f9",
+            "track_url": "",
+            "id": 9427,
+            "artist": "Essam Sasa"
+        },
+        {
+            "name": "Bnt Ossol",
+            "release_date": "2024-07-03",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a667eb44b82f6865b1a7759e",
+            "track_url": "",
+            "id": 9428,
+            "artist": "Essam Sasa"
+        },
+        {
+            "name": "خارج عن مساري مخنوق ( مفتقد طموحي )",
+            "release_date": "2024-06-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a7b0ee55200b900b27c9451a",
+            "track_url": "",
+            "id": 9429,
+            "artist": "Essam Sasa"
+        },
+        {
+            "name": "من امتي كنا بنتهدد (من صغرنا عفاريت)",
+            "release_date": "2024-06-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735b34e2e0c847d204fcee3816",
+            "track_url": "",
+            "id": 9430,
+            "artist": "Essam Sasa"
+        },
+        {
+            "name": "خلصت وخلاص بطلت محبه واخلاص",
+            "release_date": "2024-06-16",
+            "image": "https://i.scdn.co/image/ab67616d0000b273db16a26ea7c86f70d9f70591",
+            "track_url": "",
+            "id": 9431,
+            "artist": "Essam Sasa"
+        },
+        {
+            "name": "احنا صيع منحرفين",
+            "release_date": "2024-06-06",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f909c33f44916072ff24a8a4",
+            "track_url": "",
+            "id": 9432,
+            "artist": "Essam Sasa"
+        },
+        {
+            "name": "كلها شايفه صاصا (ياه لو اموت دقيقه)",
+            "release_date": "2024-05-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b27306f04309195eac935e52880f",
+            "track_url": "",
+            "id": 9433,
+            "artist": "Essam Sasa"
+        },
+        {
+            "name": "اللي فات انسوه ( انا ليا هيبه في حضوري و غيابي )",
+            "release_date": "2024-05-02",
+            "image": "https://i.scdn.co/image/ab67616d0000b27367f0f78fc7450ed0749f881b",
+            "track_url": "",
+            "id": 9434,
+            "artist": "Essam Sasa"
+        },
+        {
+            "name": "طيب عايزنى قاسى",
+            "release_date": "2024-04-12",
+            "image": "https://i.scdn.co/image/ab67616d0000b273561e9769d6aae5af5ae3dc1c",
+            "track_url": "",
+            "id": 9435,
+            "artist": "Essam Sasa"
+        },
+        {
+            "name": "التزموا الصمت اسود الارض راجعين ( يابا احنا نغيب غيبتنا )",
+            "release_date": "2024-04-12",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d1a632bf3d9b6d5badd4c577",
+            "track_url": "",
+            "id": 9436,
+            "artist": "Essam Sasa"
+        },
+        {
+            "name": "Ahl El Hob",
+            "release_date": "2024-04-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d1da72b08bae08321bc7e4a7",
+            "track_url": "",
+            "id": 9437,
+            "artist": "Essam Sasa"
+        },
+        {
+            "name": "من فضل الاخصام خفو التخطير ( انا مش ع الدواق )",
+            "release_date": "2024-04-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735e67aa8cfa311ca2871e70ea",
+            "track_url": "",
+            "id": 9438,
+            "artist": "Essam Sasa"
+        },
+        {
+            "name": "يالي بتشتم في الحالات",
+            "release_date": "2024-04-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b273abd1e20692e2db937c9b5cc7",
+            "track_url": "",
+            "id": 9439,
+            "artist": "Essam Sasa"
+        },
+        {
+            "name": "صحاب ايه بلا نيله",
+            "release_date": "2024-03-29",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b68b54d4b3afbf97a7f709c9",
+            "track_url": "",
+            "id": 9440,
+            "artist": "Essam Sasa"
+        },
+        {
+            "name": "يلي بتكرهني تعالي اقولك",
+            "release_date": "2024-03-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732d4b7815f14d1397a744041a",
+            "track_url": "",
+            "id": 9441,
+            "artist": "Essam Sasa"
+        },
+        {
+            "name": "اتنين بمقام ملايين",
+            "release_date": "2024-03-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ffc20760534234c100768696",
+            "track_url": "",
+            "id": 9442,
+            "artist": "Essam Sasa"
+        },
+        {
+            "name": "حبك في القلب مجنني ( كلها بيعاني )",
+            "release_date": "2024-03-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d967768df992d559953ac694",
+            "track_url": "",
+            "id": 9443,
+            "artist": "Essam Sasa"
+        },
+        {
+            "name": "جمد عضلة قلبك (انا شبعان من السيط)",
+            "release_date": "2024-03-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b273974f007b5dc7a48e4a11344a",
+            "track_url": "",
+            "id": 9444,
+            "artist": "Essam Sasa"
+        },
+        {
+            "name": "جمد عضلة قلبك ( انا شبعان من السيط )",
+            "release_date": "2024-03-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b273999fc0591bbbe48322dad0b0",
+            "track_url": "",
+            "id": 9445,
+            "artist": "Essam Sasa"
+        },
+        {
+            "name": "بالحب بتمشي الدنيا وصفي النية و عيش برجولة",
+            "release_date": "2024-03-05",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f1e2ac3ea4b8cacd2732764f",
+            "track_url": "",
+            "id": 9446,
+            "artist": "Essam Sasa"
+        },
+        {
+            "name": "كل ليله دموع ( بتشاف اني ضعيف مانا حبيتك )",
+            "release_date": "2024-03-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730f81fba80dc82516301b1ced",
+            "track_url": "",
+            "id": 9447,
+            "artist": "Essam Sasa"
+        },
+        {
+            "name": "بطلي رن",
+            "release_date": "2024-03-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b27362525bea4d183571906fb2c8",
+            "track_url": "",
+            "id": 9448,
+            "artist": "Essam Sasa"
+        },
+        {
+            "name": "لفي لفه ساعة وارجعيلي",
+            "release_date": "2024-02-26",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737b37cea48152d4c10f4e2dd9",
+            "track_url": "",
+            "id": 9449,
+            "artist": "Essam Sasa"
+        },
+        {
+            "name": "جبت السحابه وهتتشد ( لو معملش انا مليون مشكله )",
+            "release_date": "2024-02-26",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ad6490312299a2f326f22f4f",
+            "track_url": "",
+            "id": 9450,
+            "artist": "Essam Sasa"
+        },
+        {
+            "name": "بنتدبك سوري (حمله وابن موت)",
+            "release_date": "2024-02-26",
+            "image": "https://i.scdn.co/image/ab67616d0000b273950dc558b41d3e416cd74ba0",
+            "track_url": "",
+            "id": 9451,
+            "artist": "Essam Sasa"
+        },
+        {
+            "name": "من غير اعذار من غير كلمه معلش",
+            "release_date": "2024-02-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e90ba9a562134b66c5a47bdf",
+            "track_url": "",
+            "id": 9452,
+            "artist": "Essam Sasa"
+        }
+    ],
+    "popular_tracks": [
+        {
+            "name": "سيبك من اللي خلع - من فيلم حمص وحلاوة",
+            "track_url": "",
+            "duration_ms": 172363,
+            "image": "https://i.scdn.co/image/ab67616d0000b273261fc5f212150ded60443e12",
+            "id": 9453,
+            "artist": "Essam Sasa"
+        },
+        {
+            "name": "احنا صيع منحرفين",
+            "track_url": "",
+            "duration_ms": 216000,
+            "image": "https://i.scdn.co/image/ab67616d0000b273f909c33f44916072ff24a8a4",
+            "id": 9454,
+            "artist": "Essam Sasa"
+        },
+        {
+            "name": "من فضل الاخصام خفو التخطير ( انا مش ع الدواق )",
+            "track_url": "",
+            "duration_ms": 179118,
+            "image": "https://i.scdn.co/image/ab67616d0000b2735e67aa8cfa311ca2871e70ea",
+            "id": 9455,
+            "artist": "Essam Sasa"
+        },
+        {
+            "name": "عره فافي عامل مغامر - بت انتي حب حياتي",
+            "track_url": "",
+            "duration_ms": 216816,
+            "image": "https://i.scdn.co/image/ab67616d0000b273f032994e1fcf8b701ab4e37f",
+            "id": 9456,
+            "artist": "Essam Sasa"
+        },
+        {
+            "name": "وسط دموع وجراح",
+            "track_url": "",
+            "duration_ms": 264196,
+            "image": "https://i.scdn.co/image/ab67616d0000b273e95e6fdaf76b08bcff4ec6cd",
+            "id": 9457,
+            "artist": "Essam Sasa"
+        },
+        {
+            "name": "اتنين بمقام ملايين",
+            "track_url": "",
+            "duration_ms": 173374,
+            "image": "https://i.scdn.co/image/ab67616d0000b273ffc20760534234c100768696",
+            "id": 9458,
+            "artist": "Essam Sasa"
+        },
+        {
+            "name": "عاشق الموت",
+            "track_url": "",
+            "duration_ms": 208065,
+            "image": "https://i.scdn.co/image/ab67616d0000b273e895bf55fa127bc916acff89",
+            "id": 9459,
+            "artist": "Essam Sasa"
+        },
+        {
+            "name": "انا مش غايب علشان اعود - اخويا ماضي ع الاحالة",
+            "track_url": "",
+            "duration_ms": 229111,
+            "image": "https://i.scdn.co/image/ab67616d0000b273f401002ea0e5a24782ba3723",
+            "id": 9460,
+            "artist": "Essam Sasa"
+        },
+        {
+            "name": "مسا مني ليكوا",
+            "track_url": "",
+            "duration_ms": 219813,
+            "image": "https://i.scdn.co/image/ab67616d0000b273508bba6160a1c9c83ded2476",
+            "id": 9461,
+            "artist": "Essam Sasa"
+        },
+        {
+            "name": "منحرفين ( في حضورنا الدنيا بتتشقلب )",
+            "track_url": "",
+            "duration_ms": 183196,
+            "image": "https://i.scdn.co/image/ab67616d0000b273ecde530758955d3705295710",
+            "id": 9462,
+            "artist": "Essam Sasa"
+        }
+    ]
+}

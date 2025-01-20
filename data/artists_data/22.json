@@ -1,0 +1,2180 @@
+{
+    "artist": {
+        "id": "3870",
+        "name": "George Wassouf",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb2ed5c0484adbed6ce08db985",
+        "background_image": "https://i.scdn.co/image/ab676161000051742ed5c0484adbed6ce08db985"
+    },
+    "albums": [
+        {
+            "name": "Georges Wassouf Classics Part 2",
+            "release_date": "2024-12-02",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730bddda74aa60f4a0df80d22d",
+            "track_url": "https://open.spotify.com/album/0b47dGfuziswxfTFMupFuv",
+            "tracks": [
+                {
+                    "name": "Mawal Medley 2 - Live From Lebanon",
+                    "track_url": "",
+                    "duration_ms": 384493,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730bddda74aa60f4a0df80d22d",
+                    "id": 3872,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Bethbneeni",
+                    "track_url": "",
+                    "duration_ms": 383666,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730bddda74aa60f4a0df80d22d",
+                    "id": 3873,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Bta'atebni 'Ala Kilmat - Live",
+                    "track_url": "",
+                    "duration_ms": 673106,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730bddda74aa60f4a0df80d22d",
+                    "id": 3874,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Yalli Ta'ebna Seneen Fi Hawah Live",
+                    "track_url": "",
+                    "duration_ms": 627653,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730bddda74aa60f4a0df80d22d",
+                    "id": 3875,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Quly Latkhbish Ya Zain",
+                    "track_url": "",
+                    "duration_ms": 325253,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730bddda74aa60f4a0df80d22d",
+                    "id": 3876,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Al Janob 'Mawal'",
+                    "track_url": "",
+                    "duration_ms": 272240,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730bddda74aa60f4a0df80d22d",
+                    "id": 3877,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Yalli Ta'ebna Seneen Fi Hawah",
+                    "track_url": "",
+                    "duration_ms": 64306,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730bddda74aa60f4a0df80d22d",
+                    "id": 3878,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Mawal Medley 3 - Live From Lebanon",
+                    "track_url": "",
+                    "duration_ms": 491173,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730bddda74aa60f4a0df80d22d",
+                    "id": 3879,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Salasel Fada",
+                    "track_url": "",
+                    "duration_ms": 193813,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730bddda74aa60f4a0df80d22d",
+                    "id": 3880,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Mahla Tamahl - Live",
+                    "track_url": "",
+                    "duration_ms": 90520,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730bddda74aa60f4a0df80d22d",
+                    "id": 3881,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Mawal Medley 12 - Live From Lebanon",
+                    "track_url": "",
+                    "duration_ms": 232666,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730bddda74aa60f4a0df80d22d",
+                    "id": 3882,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Awat Einy",
+                    "track_url": "",
+                    "duration_ms": 392146,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730bddda74aa60f4a0df80d22d",
+                    "id": 3883,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Mawal Medley 4 - Live From Lebanon",
+                    "track_url": "",
+                    "duration_ms": 110666,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730bddda74aa60f4a0df80d22d",
+                    "id": 3884,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Mawal Medley 11 - Live From Lebanon",
+                    "track_url": "",
+                    "duration_ms": 111266,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730bddda74aa60f4a0df80d22d",
+                    "id": 3885,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Albi Saeed - Live From Paris",
+                    "track_url": "",
+                    "duration_ms": 431480,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730bddda74aa60f4a0df80d22d",
+                    "id": 3886,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "La Tekoni Methi Gharik",
+                    "track_url": "",
+                    "duration_ms": 221146,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730bddda74aa60f4a0df80d22d",
+                    "id": 3887,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "El Lalah Eid",
+                    "track_url": "",
+                    "duration_ms": 136480,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730bddda74aa60f4a0df80d22d",
+                    "id": 3888,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Rouh Al Rouh - Live",
+                    "track_url": "",
+                    "duration_ms": 678760,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730bddda74aa60f4a0df80d22d",
+                    "id": 3889,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Mijana wa Atabaa Live",
+                    "track_url": "",
+                    "duration_ms": 227693,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730bddda74aa60f4a0df80d22d",
+                    "id": 3890,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Isma'ini BiKilmat - Live",
+                    "track_url": "",
+                    "duration_ms": 465186,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730bddda74aa60f4a0df80d22d",
+                    "id": 3891,
+                    "artist": "George Wassouf"
+                }
+            ],
+            "id": 3871
+        },
+        {
+            "name": "George Wassouf Classics",
+            "release_date": "2024-11-27",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731a23a8dcbcae77aafb531f07",
+            "track_url": "https://open.spotify.com/album/2UHnsDrwOPEuiAqxMXZGY0",
+            "tracks": [
+                {
+                    "name": "Kalam Ennas",
+                    "track_url": "",
+                    "duration_ms": 422653,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731a23a8dcbcae77aafb531f07",
+                    "id": 3893,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "El Hawa Sultan",
+                    "track_url": "",
+                    "duration_ms": 422666,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731a23a8dcbcae77aafb531f07",
+                    "id": 3894,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Helaf El Amar - Live",
+                    "track_url": "",
+                    "duration_ms": 396240,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731a23a8dcbcae77aafb531f07",
+                    "id": 3895,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Laiel El Ashekin",
+                    "track_url": "",
+                    "duration_ms": 378733,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731a23a8dcbcae77aafb531f07",
+                    "id": 3896,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Law Naweit",
+                    "track_url": "",
+                    "duration_ms": 380373,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731a23a8dcbcae77aafb531f07",
+                    "id": 3897,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Garahouna",
+                    "track_url": "",
+                    "duration_ms": 472200,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731a23a8dcbcae77aafb531f07",
+                    "id": 3898,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Erdha Bilnasseb",
+                    "track_url": "",
+                    "duration_ms": 390000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731a23a8dcbcae77aafb531f07",
+                    "id": 3899,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Gouli Wlatkhbish",
+                    "track_url": "",
+                    "duration_ms": 369760,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731a23a8dcbcae77aafb531f07",
+                    "id": 3900,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "El Houb El Awalani - 2000 Digital Remaster",
+                    "track_url": "",
+                    "duration_ms": 400066,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731a23a8dcbcae77aafb531f07",
+                    "id": 3901,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "El Kilmah El Taibah",
+                    "track_url": "",
+                    "duration_ms": 494773,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731a23a8dcbcae77aafb531f07",
+                    "id": 3902,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Had Yensa Alboh - Live",
+                    "track_url": "",
+                    "duration_ms": 506026,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731a23a8dcbcae77aafb531f07",
+                    "id": 3903,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Ba'eed Anak",
+                    "track_url": "",
+                    "duration_ms": 559220,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731a23a8dcbcae77aafb531f07",
+                    "id": 3904,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Aah Habaieb",
+                    "track_url": "",
+                    "duration_ms": 362600,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731a23a8dcbcae77aafb531f07",
+                    "id": 3905,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Salamtak Biyed Allah",
+                    "track_url": "",
+                    "duration_ms": 527586,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731a23a8dcbcae77aafb531f07",
+                    "id": 3906,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Ya Baya'ein El Hawa - 2000 Digital Remaster",
+                    "track_url": "",
+                    "duration_ms": 346973,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731a23a8dcbcae77aafb531f07",
+                    "id": 3907,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Al Ghali",
+                    "track_url": "",
+                    "duration_ms": 530120,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731a23a8dcbcae77aafb531f07",
+                    "id": 3908,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Shei Gharib",
+                    "track_url": "",
+                    "duration_ms": 676373,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731a23a8dcbcae77aafb531f07",
+                    "id": 3909,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Rouh Al Rouh",
+                    "track_url": "",
+                    "duration_ms": 671053,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731a23a8dcbcae77aafb531f07",
+                    "id": 3910,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Isma'ini BiKilmat",
+                    "track_url": "",
+                    "duration_ms": 449333,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731a23a8dcbcae77aafb531f07",
+                    "id": 3911,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Fakarouni",
+                    "track_url": "",
+                    "duration_ms": 660584,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731a23a8dcbcae77aafb531f07",
+                    "id": 3912,
+                    "artist": "George Wassouf"
+                }
+            ],
+            "id": 3892
+        },
+        {
+            "name": "انجح أغاني لجورج وسوف",
+            "release_date": "2023-10-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e9dbd20f0d6e8289a66a830e",
+            "track_url": "https://open.spotify.com/album/3TI5sobwgaWYZboNlAFnkw",
+            "tracks": [
+                {
+                    "name": "Laiel El Ashekin",
+                    "track_url": "",
+                    "duration_ms": 378733,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e9dbd20f0d6e8289a66a830e",
+                    "id": 3914,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Kalam Ennas",
+                    "track_url": "",
+                    "duration_ms": 422653,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e9dbd20f0d6e8289a66a830e",
+                    "id": 3915,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "El Hawa Sultan",
+                    "track_url": "",
+                    "duration_ms": 422666,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e9dbd20f0d6e8289a66a830e",
+                    "id": 3916,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Rohi Yanssmah",
+                    "track_url": "",
+                    "duration_ms": 630240,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e9dbd20f0d6e8289a66a830e",
+                    "id": 3917,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Erdha Bilnasseb",
+                    "track_url": "",
+                    "duration_ms": 390000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e9dbd20f0d6e8289a66a830e",
+                    "id": 3918,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Garahouna",
+                    "track_url": "",
+                    "duration_ms": 472200,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e9dbd20f0d6e8289a66a830e",
+                    "id": 3919,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "El Houb El Awalani - 2000 Digital Remaster",
+                    "track_url": "",
+                    "duration_ms": 400066,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e9dbd20f0d6e8289a66a830e",
+                    "id": 3920,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Law Naweit",
+                    "track_url": "",
+                    "duration_ms": 380373,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e9dbd20f0d6e8289a66a830e",
+                    "id": 3921,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Helaf El Amar - Live",
+                    "track_url": "",
+                    "duration_ms": 396240,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e9dbd20f0d6e8289a66a830e",
+                    "id": 3922,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Al Habaib",
+                    "track_url": "",
+                    "duration_ms": 527840,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e9dbd20f0d6e8289a66a830e",
+                    "id": 3923,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Gouli Wlatkhbish",
+                    "track_url": "",
+                    "duration_ms": 369760,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e9dbd20f0d6e8289a66a830e",
+                    "id": 3924,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "El Kilmah El Taibah",
+                    "track_url": "",
+                    "duration_ms": 494773,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e9dbd20f0d6e8289a66a830e",
+                    "id": 3925,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Had Yensa Alboh - Live",
+                    "track_url": "",
+                    "duration_ms": 506026,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e9dbd20f0d6e8289a66a830e",
+                    "id": 3926,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Ba'eed Anak",
+                    "track_url": "",
+                    "duration_ms": 559220,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e9dbd20f0d6e8289a66a830e",
+                    "id": 3927,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Bta'atebni 'Ala Kilmat",
+                    "track_url": "",
+                    "duration_ms": 409533,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e9dbd20f0d6e8289a66a830e",
+                    "id": 3928,
+                    "artist": "George Wassouf"
+                }
+            ],
+            "id": 3913
+        },
+        {
+            "name": "Asma'e Lah Al Hosna",
+            "release_date": "2018-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a617501a0c89c3a554d0a23e",
+            "track_url": "https://open.spotify.com/album/4JiuLw5iCdBHuze6b2S9Qi",
+            "tracks": [
+                {
+                    "name": "Arouh Li Min",
+                    "track_url": "",
+                    "duration_ms": 561023,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a617501a0c89c3a554d0a23e",
+                    "id": 3930,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Asma'e Lah Al Hosna",
+                    "track_url": "",
+                    "duration_ms": 416015,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a617501a0c89c3a554d0a23e",
+                    "id": 3931,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Foug Nakhel",
+                    "track_url": "",
+                    "duration_ms": 446014,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a617501a0c89c3a554d0a23e",
+                    "id": 3932,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Fi Lgawe Ghame",
+                    "track_url": "",
+                    "duration_ms": 442331,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a617501a0c89c3a554d0a23e",
+                    "id": 3933,
+                    "artist": "George Wassouf"
+                }
+            ],
+            "id": 3929
+        },
+        {
+            "name": "Ehdonou L2ayam (Live)",
+            "release_date": "2014-06-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739a57d742640c8e084c62d949",
+            "track_url": "https://open.spotify.com/album/5T0JRw0ZWxCv8eJt0QsSkn",
+            "tracks": [
+                {
+                    "name": "Garahouna Bi Remsh Ouyounha - Live",
+                    "track_url": "",
+                    "duration_ms": 633450,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739a57d742640c8e084c62d949",
+                    "id": 3935,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Bastanna Bil Youm Wel Youmein - Live",
+                    "track_url": "",
+                    "duration_ms": 414247,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739a57d742640c8e084c62d949",
+                    "id": 3936,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Khesert Kol El Nas - Live",
+                    "track_url": "",
+                    "duration_ms": 768328,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739a57d742640c8e084c62d949",
+                    "id": 3937,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Law Yewa3edni Lhawa - Live",
+                    "track_url": "",
+                    "duration_ms": 567696,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739a57d742640c8e084c62d949",
+                    "id": 3938,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Welli Dethom Zamani - Live",
+                    "track_url": "",
+                    "duration_ms": 371770,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739a57d742640c8e084c62d949",
+                    "id": 3939,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "3Allem Albi Shou2 - Live",
+                    "track_url": "",
+                    "duration_ms": 311429,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739a57d742640c8e084c62d949",
+                    "id": 3940,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Adouka Lmayass - Live",
+                    "track_url": "",
+                    "duration_ms": 446321,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739a57d742640c8e084c62d949",
+                    "id": 3941,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Ehdenou L2ayam - Live",
+                    "track_url": "",
+                    "duration_ms": 822187,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739a57d742640c8e084c62d949",
+                    "id": 3942,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Keda Kifaya - Live",
+                    "track_url": "",
+                    "duration_ms": 342295,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739a57d742640c8e084c62d949",
+                    "id": 3943,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Bet3atebni 3Ala Kelma - Live",
+                    "track_url": "",
+                    "duration_ms": 224855,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739a57d742640c8e084c62d949",
+                    "id": 3944,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Ba3eed 3Annak - Live",
+                    "track_url": "",
+                    "duration_ms": 326887,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739a57d742640c8e084c62d949",
+                    "id": 3945,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "El Hawa Sultan - Live",
+                    "track_url": "",
+                    "duration_ms": 126125,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739a57d742640c8e084c62d949",
+                    "id": 3946,
+                    "artist": "George Wassouf"
+                }
+            ],
+            "id": 3934
+        },
+        {
+            "name": "El Hob Shatter- Rare Recording",
+            "release_date": "2010-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e3dd414b102323ac03980de7",
+            "track_url": "https://open.spotify.com/album/0VjWwGKNPT1dufsmmKlzMW",
+            "tracks": [
+                {
+                    "name": "El Hob Shatter",
+                    "track_url": "",
+                    "duration_ms": 501266,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e3dd414b102323ac03980de7",
+                    "id": 3948,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Sayad Al Touyour",
+                    "track_url": "",
+                    "duration_ms": 779586,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e3dd414b102323ac03980de7",
+                    "id": 3949,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Batwanness Beek",
+                    "track_url": "",
+                    "duration_ms": 636733,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e3dd414b102323ac03980de7",
+                    "id": 3950,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Rouh Al Rouh",
+                    "track_url": "",
+                    "duration_ms": 671053,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e3dd414b102323ac03980de7",
+                    "id": 3951,
+                    "artist": "George Wassouf"
+                }
+            ],
+            "id": 3947
+        },
+        {
+            "name": "Allah Karim",
+            "release_date": "2009-05-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c9e122489f414e870604c722",
+            "track_url": "https://open.spotify.com/album/6z2UOXcWoWgRHInWIGHoNP",
+            "tracks": [
+                {
+                    "name": "El Ayam Di Saeba Shwaya",
+                    "track_url": "",
+                    "duration_ms": 217808,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c9e122489f414e870604c722",
+                    "id": 3953,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "La Trouh",
+                    "track_url": "",
+                    "duration_ms": 291186,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c9e122489f414e870604c722",
+                    "id": 3954,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Alsabr Taiyb",
+                    "track_url": "",
+                    "duration_ms": 335464,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c9e122489f414e870604c722",
+                    "id": 3955,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "El Dahab Ya Habibi",
+                    "track_url": "",
+                    "duration_ms": 352574,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c9e122489f414e870604c722",
+                    "id": 3956,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Allah Karim",
+                    "track_url": "",
+                    "duration_ms": 218880,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c9e122489f414e870604c722",
+                    "id": 3957,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Shokran",
+                    "track_url": "",
+                    "duration_ms": 273893,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c9e122489f414e870604c722",
+                    "id": 3958,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Min Hena We Rayeh",
+                    "track_url": "",
+                    "duration_ms": 281051,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c9e122489f414e870604c722",
+                    "id": 3959,
+                    "artist": "George Wassouf"
+                }
+            ],
+            "id": 3952
+        },
+        {
+            "name": "El Hawa Sultan Rare Recordings",
+            "release_date": "2008-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b5b545bd25ac331602b83b19",
+            "track_url": "https://open.spotify.com/album/4nYGZNrAnVp5Wk0bRLd6Cm",
+            "tracks": [
+                {
+                    "name": "El Hawa Sultan",
+                    "track_url": "",
+                    "duration_ms": 422666,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b5b545bd25ac331602b83b19",
+                    "id": 3961,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Helaf El Amar",
+                    "track_url": "",
+                    "duration_ms": 396240,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b5b545bd25ac331602b83b19",
+                    "id": 3962,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Gouli Wlatkhbish",
+                    "track_url": "",
+                    "duration_ms": 369760,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b5b545bd25ac331602b83b19",
+                    "id": 3963,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Rohi Yanssmah",
+                    "track_url": "",
+                    "duration_ms": 630240,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b5b545bd25ac331602b83b19",
+                    "id": 3964,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Al Habaib",
+                    "track_url": "",
+                    "duration_ms": 527840,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b5b545bd25ac331602b83b19",
+                    "id": 3965,
+                    "artist": "George Wassouf"
+                }
+            ],
+            "id": 3960
+        },
+        {
+            "name": "Shei Ghareeb",
+            "release_date": "2007-11-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b273dc268ebe608584d1b9ddbc9b",
+            "track_url": "https://open.spotify.com/album/3kyHemU32BEXEb29enpJe2",
+            "tracks": [
+                {
+                    "name": "Shei Gharib",
+                    "track_url": "",
+                    "duration_ms": 676373,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273dc268ebe608584d1b9ddbc9b",
+                    "id": 3967,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Ghalabah Fil Hob",
+                    "track_url": "",
+                    "duration_ms": 338733,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273dc268ebe608584d1b9ddbc9b",
+                    "id": 3968,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Wayya Al Qadar",
+                    "track_url": "",
+                    "duration_ms": 462160,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273dc268ebe608584d1b9ddbc9b",
+                    "id": 3969,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Sayyad Al Toyour",
+                    "track_url": "",
+                    "duration_ms": 781466,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273dc268ebe608584d1b9ddbc9b",
+                    "id": 3970,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Al Hob Shatir",
+                    "track_url": "",
+                    "duration_ms": 503933,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273dc268ebe608584d1b9ddbc9b",
+                    "id": 3971,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Al Ghali",
+                    "track_url": "",
+                    "duration_ms": 530120,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273dc268ebe608584d1b9ddbc9b",
+                    "id": 3972,
+                    "artist": "George Wassouf"
+                }
+            ],
+            "id": 3966
+        },
+        {
+            "name": "Rouh Al Rouh",
+            "release_date": "2007-11-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b273539596d5b764eb1987586f70",
+            "track_url": "https://open.spotify.com/album/6Ptw58l52u2ZRYuVeccE6H",
+            "tracks": [
+                {
+                    "name": "Rouh Al Rouh",
+                    "track_url": "",
+                    "duration_ms": 678760,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273539596d5b764eb1987586f70",
+                    "id": 3974,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Law Naweit",
+                    "track_url": "",
+                    "duration_ms": 598933,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273539596d5b764eb1987586f70",
+                    "id": 3975,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Garahouna",
+                    "track_url": "",
+                    "duration_ms": 414429,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273539596d5b764eb1987586f70",
+                    "id": 3976,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Bta'atebni 'Ala Kilmat",
+                    "track_url": "",
+                    "duration_ms": 673106,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273539596d5b764eb1987586f70",
+                    "id": 3977,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Ba'eed 'Anak",
+                    "track_url": "",
+                    "duration_ms": 580638,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273539596d5b764eb1987586f70",
+                    "id": 3978,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Isma'ini BiKilmat",
+                    "track_url": "",
+                    "duration_ms": 465186,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273539596d5b764eb1987586f70",
+                    "id": 3979,
+                    "artist": "George Wassouf"
+                }
+            ],
+            "id": 3973
+        },
+        {
+            "name": "Ouwidini",
+            "release_date": "2007-11-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b27342f015fde24696dd7b3930c2",
+            "track_url": "https://open.spotify.com/album/1D0w9yYOVOxp6cKsa5UnGC",
+            "tracks": [
+                {
+                    "name": "Ouwidini",
+                    "track_url": "",
+                    "duration_ms": 378426,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27342f015fde24696dd7b3930c2",
+                    "id": 3981,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Law Naweit",
+                    "track_url": "",
+                    "duration_ms": 380373,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27342f015fde24696dd7b3930c2",
+                    "id": 3982,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Rouh Al Rouh",
+                    "track_url": "",
+                    "duration_ms": 626093,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27342f015fde24696dd7b3930c2",
+                    "id": 3983,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Bta'atebni 'Ala Kilmat",
+                    "track_url": "",
+                    "duration_ms": 409533,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27342f015fde24696dd7b3930c2",
+                    "id": 3984,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Garahouna",
+                    "track_url": "",
+                    "duration_ms": 472200,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27342f015fde24696dd7b3930c2",
+                    "id": 3985,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Isma'ini BiKilmat",
+                    "track_url": "",
+                    "duration_ms": 449333,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27342f015fde24696dd7b3930c2",
+                    "id": 3986,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Salamtak Biyed Allah",
+                    "track_url": "",
+                    "duration_ms": 527586,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27342f015fde24696dd7b3930c2",
+                    "id": 3987,
+                    "artist": "George Wassouf"
+                }
+            ],
+            "id": 3980
+        },
+        {
+            "name": "Saharat La Tounsa ( Casino Du Liban) , Vol. 1 [Live]",
+            "release_date": "2006-08-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734354841bb2515c056dbcf242",
+            "track_url": "https://open.spotify.com/album/5NAEOpQsOjs4Fy2sBaDDk4",
+            "tracks": [
+                {
+                    "name": "Khesert Kol Lnass - Live",
+                    "track_url": "",
+                    "duration_ms": 383853,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734354841bb2515c056dbcf242",
+                    "id": 3989,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Alb L'ashek - Live",
+                    "track_url": "",
+                    "duration_ms": 406133,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734354841bb2515c056dbcf242",
+                    "id": 3990,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Saber We Radi - Live",
+                    "track_url": "",
+                    "duration_ms": 460573,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734354841bb2515c056dbcf242",
+                    "id": 3991,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Bestanna Bil Youm Wel Youmein - Live",
+                    "track_url": "",
+                    "duration_ms": 396853,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734354841bb2515c056dbcf242",
+                    "id": 3992,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Ayza Moegeza - Live",
+                    "track_url": "",
+                    "duration_ms": 198280,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734354841bb2515c056dbcf242",
+                    "id": 3993,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Ehdenou L'ayam - Live",
+                    "track_url": "",
+                    "duration_ms": 350173,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734354841bb2515c056dbcf242",
+                    "id": 3994,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Essmaouni - Live",
+                    "track_url": "",
+                    "duration_ms": 307106,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734354841bb2515c056dbcf242",
+                    "id": 3995,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Ya Habibi - Live",
+                    "track_url": "",
+                    "duration_ms": 252426,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734354841bb2515c056dbcf242",
+                    "id": 3996,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Allem Albi Lshou'e - Live",
+                    "track_url": "",
+                    "duration_ms": 315960,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734354841bb2515c056dbcf242",
+                    "id": 3997,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Habeit Ermi Lshabak - Live",
+                    "track_url": "",
+                    "duration_ms": 700066,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734354841bb2515c056dbcf242",
+                    "id": 3998,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Aye Dam'et Hozn - Live",
+                    "track_url": "",
+                    "duration_ms": 510306,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734354841bb2515c056dbcf242",
+                    "id": 3999,
+                    "artist": "George Wassouf"
+                }
+            ],
+            "id": 3988
+        },
+        {
+            "name": "Saharat La Tounsa ( Beyt Ldin) , Vol. 2 [Live]",
+            "release_date": "2006-08-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b273435760952d91e18a6f8ce9f9",
+            "track_url": "https://open.spotify.com/album/4MBb8tgFKPHon3cxEQe9Ib",
+            "tracks": [
+                {
+                    "name": "Eshak Akher Zaman - Live",
+                    "track_url": "",
+                    "duration_ms": 538653,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273435760952d91e18a6f8ce9f9",
+                    "id": 4001,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Kedah Kifaya - Live",
+                    "track_url": "",
+                    "duration_ms": 457840,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273435760952d91e18a6f8ce9f9",
+                    "id": 4002,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Youm El Wada'e - Live",
+                    "track_url": "",
+                    "duration_ms": 451640,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273435760952d91e18a6f8ce9f9",
+                    "id": 4003,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Tabib Garrah - Live",
+                    "track_url": "",
+                    "duration_ms": 370640,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273435760952d91e18a6f8ce9f9",
+                    "id": 4004,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Law Naweit - Live",
+                    "track_url": "",
+                    "duration_ms": 410560,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273435760952d91e18a6f8ce9f9",
+                    "id": 4005,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Erda Bil Nassib - Live",
+                    "track_url": "",
+                    "duration_ms": 363120,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273435760952d91e18a6f8ce9f9",
+                    "id": 4006,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Helef L'amar - Live",
+                    "track_url": "",
+                    "duration_ms": 465720,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273435760952d91e18a6f8ce9f9",
+                    "id": 4007,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "El Hob L'awalani - Live",
+                    "track_url": "",
+                    "duration_ms": 450866,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273435760952d91e18a6f8ce9f9",
+                    "id": 4008,
+                    "artist": "George Wassouf"
+                }
+            ],
+            "id": 4000
+        },
+        {
+            "name": "Saharat La Tounsa ( Beyt Ldin) , Vol. 1 [Live]",
+            "release_date": "2006-08-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736625ba259c3ca7a5af00334c",
+            "track_url": "https://open.spotify.com/album/7cVDpA84WSel4fvsqvgbxT",
+            "tracks": [
+                {
+                    "name": "Allah Karim - Live",
+                    "track_url": "",
+                    "duration_ms": 303960,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736625ba259c3ca7a5af00334c",
+                    "id": 4010,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "La Terouh - Live",
+                    "track_url": "",
+                    "duration_ms": 291066,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736625ba259c3ca7a5af00334c",
+                    "id": 4011,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Sayad Ltouyour - Live",
+                    "track_url": "",
+                    "duration_ms": 473893,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736625ba259c3ca7a5af00334c",
+                    "id": 4012,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "El Sabr Tayeb - Live",
+                    "track_url": "",
+                    "duration_ms": 342266,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736625ba259c3ca7a5af00334c",
+                    "id": 4013,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Shokran - Live",
+                    "track_url": "",
+                    "duration_ms": 233933,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736625ba259c3ca7a5af00334c",
+                    "id": 4014,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "El Hob Shater - Live",
+                    "track_url": "",
+                    "duration_ms": 422480,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736625ba259c3ca7a5af00334c",
+                    "id": 4015,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Min Hena Wrayeh - Live",
+                    "track_url": "",
+                    "duration_ms": 266013,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736625ba259c3ca7a5af00334c",
+                    "id": 4016,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "El Arib Mennak Baeed - Live",
+                    "track_url": "",
+                    "duration_ms": 375253,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736625ba259c3ca7a5af00334c",
+                    "id": 4017,
+                    "artist": "George Wassouf"
+                }
+            ],
+            "id": 4009
+        },
+        {
+            "name": "Heya El Ayam",
+            "release_date": "2006-07-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b27334d394744bb5a14e01887304",
+            "track_url": "https://open.spotify.com/album/6lTtK7kFnf6yfUOovoPPvh",
+            "tracks": [
+                {
+                    "name": "Layla Wadana (Ya Habibi)",
+                    "track_url": "",
+                    "duration_ms": 341146,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27334d394744bb5a14e01887304",
+                    "id": 4019,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "El Zaman Dawar",
+                    "track_url": "",
+                    "duration_ms": 299253,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27334d394744bb5a14e01887304",
+                    "id": 4020,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Mestni Meni Qyeh",
+                    "track_url": "",
+                    "duration_ms": 302960,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27334d394744bb5a14e01887304",
+                    "id": 4021,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Ghader El Nass",
+                    "track_url": "",
+                    "duration_ms": 289200,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27334d394744bb5a14e01887304",
+                    "id": 4022,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Hanenak Haneni",
+                    "track_url": "",
+                    "duration_ms": 304600,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27334d394744bb5a14e01887304",
+                    "id": 4023,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Heya El Ayam",
+                    "track_url": "",
+                    "duration_ms": 264893,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27334d394744bb5a14e01887304",
+                    "id": 4024,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Mestani Bel Youm Wel Youmaen",
+                    "track_url": "",
+                    "duration_ms": 293000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27334d394744bb5a14e01887304",
+                    "id": 4025,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Kesert Koul El Nass",
+                    "track_url": "",
+                    "duration_ms": 344360,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27334d394744bb5a14e01887304",
+                    "id": 4026,
+                    "artist": "George Wassouf"
+                }
+            ],
+            "id": 4018
+        },
+        {
+            "name": "Saharat La Tounsa ( Jounieh) , Vol. 2 [Live]",
+            "release_date": "2006-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273076949e8f0a553a0f65545c1",
+            "track_url": "https://open.spotify.com/album/6rJKsfy8cKgshTUYZh3Wfk",
+            "tracks": [
+                {
+                    "name": "Ehdenou L'ayam - Live",
+                    "track_url": "",
+                    "duration_ms": 592640,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273076949e8f0a553a0f65545c1",
+                    "id": 4028,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Khallik Hena - Live",
+                    "track_url": "",
+                    "duration_ms": 286786,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273076949e8f0a553a0f65545c1",
+                    "id": 4029,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Esmaouni - Live",
+                    "track_url": "",
+                    "duration_ms": 474373,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273076949e8f0a553a0f65545c1",
+                    "id": 4030,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Gana Lhawa - Live",
+                    "track_url": "",
+                    "duration_ms": 514893,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273076949e8f0a553a0f65545c1",
+                    "id": 4031,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Ya Zalemni - Live",
+                    "track_url": "",
+                    "duration_ms": 350133,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273076949e8f0a553a0f65545c1",
+                    "id": 4032,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Heya Layali Keda - Live",
+                    "track_url": "",
+                    "duration_ms": 681920,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273076949e8f0a553a0f65545c1",
+                    "id": 4033,
+                    "artist": "George Wassouf"
+                }
+            ],
+            "id": 4027
+        },
+        {
+            "name": "Saharat La Tounsa ( Jounieh) , Vol. 1 [Live]",
+            "release_date": "2006-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273da3785c7bb5ead0033713d7b",
+            "track_url": "https://open.spotify.com/album/2NfKV989x5Sz3zpdmdfB7K",
+            "tracks": [
+                {
+                    "name": "El Habayeb - Live",
+                    "track_url": "",
+                    "duration_ms": 334706,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273da3785c7bb5ead0033713d7b",
+                    "id": 4035,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "El Hob Koullou - Live",
+                    "track_url": "",
+                    "duration_ms": 122706,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273da3785c7bb5ead0033713d7b",
+                    "id": 4036,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Ataba Allouch - Live",
+                    "track_url": "",
+                    "duration_ms": 202213,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273da3785c7bb5ead0033713d7b",
+                    "id": 4037,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Minfakar Fi Nass - Live",
+                    "track_url": "",
+                    "duration_ms": 173120,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273da3785c7bb5ead0033713d7b",
+                    "id": 4038,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Akdeb Aleik - Live",
+                    "track_url": "",
+                    "duration_ms": 280040,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273da3785c7bb5ead0033713d7b",
+                    "id": 4039,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Ana Msafer ( El Asami) - Live",
+                    "track_url": "",
+                    "duration_ms": 312453,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273da3785c7bb5ead0033713d7b",
+                    "id": 4040,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Kil Lbishoufak - Live",
+                    "track_url": "",
+                    "duration_ms": 265693,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273da3785c7bb5ead0033713d7b",
+                    "id": 4041,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Koll Youm - Live",
+                    "track_url": "",
+                    "duration_ms": 296933,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273da3785c7bb5ead0033713d7b",
+                    "id": 4042,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Aalli Gara - Live",
+                    "track_url": "",
+                    "duration_ms": 224293,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273da3785c7bb5ead0033713d7b",
+                    "id": 4043,
+                    "artist": "George Wassouf"
+                }
+            ],
+            "id": 4034
+        },
+        {
+            "name": "Mawaweeel Mijana Wa Ataba (Live)",
+            "release_date": "2005-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733288ead359b7ca4fc2d9dde4",
+            "track_url": "https://open.spotify.com/album/18IASDlBFJNP9jET1zQuiL",
+            "tracks": [
+                {
+                    "name": "Hasbaya - Live",
+                    "track_url": "",
+                    "duration_ms": 1855860,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733288ead359b7ca4fc2d9dde4",
+                    "id": 4045,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Matrah Ma Entou Btesharou Bghani Ana - Live",
+                    "track_url": "",
+                    "duration_ms": 1215455,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733288ead359b7ca4fc2d9dde4",
+                    "id": 4046,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Dakhilak Mor Sawbi",
+                    "track_url": "",
+                    "duration_ms": 479331,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733288ead359b7ca4fc2d9dde4",
+                    "id": 4047,
+                    "artist": "George Wassouf"
+                }
+            ],
+            "id": 4044
+        },
+        {
+            "name": "Wassouf Remixed",
+            "release_date": "1999-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731cb101024f3839d71819377c",
+            "track_url": "https://open.spotify.com/album/4Dr9GpuwpkfLclv3CMLNYM",
+            "tracks": [
+                {
+                    "name": "Targahali - Ambient Remix",
+                    "track_url": "",
+                    "duration_ms": 363160,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731cb101024f3839d71819377c",
+                    "id": 4049,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Yalli Taebna Snin - Ambient Remix",
+                    "track_url": "",
+                    "duration_ms": 291266,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731cb101024f3839d71819377c",
+                    "id": 4050,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Ya Mowaldaneh - Club Remix",
+                    "track_url": "",
+                    "duration_ms": 187586,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731cb101024f3839d71819377c",
+                    "id": 4051,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Dibna Aa Ghiyabak - Ambient Remix",
+                    "track_url": "",
+                    "duration_ms": 295493,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731cb101024f3839d71819377c",
+                    "id": 4052,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Yalli Taebna Snin - Club Remix",
+                    "track_url": "",
+                    "duration_ms": 269226,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731cb101024f3839d71819377c",
+                    "id": 4053,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Terghalli - Club Remix",
+                    "track_url": "",
+                    "duration_ms": 218280,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731cb101024f3839d71819377c",
+                    "id": 4054,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Dibna Aa Ghiyabak - Club Remix",
+                    "track_url": "",
+                    "duration_ms": 232266,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731cb101024f3839d71819377c",
+                    "id": 4055,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Ya Mowaldaneh - Ambient Remix",
+                    "track_url": "",
+                    "duration_ms": 321213,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731cb101024f3839d71819377c",
+                    "id": 4056,
+                    "artist": "George Wassouf"
+                }
+            ],
+            "id": 4048
+        },
+        {
+            "name": "Sings Oum Kalsoum Vol 2",
+            "release_date": "1996-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273874dfc90f10facf17f73d57c",
+            "track_url": "https://open.spotify.com/album/4Q1mCfmfUg0HG14U7gavHQ",
+            "tracks": [
+                {
+                    "name": "Fakarouni",
+                    "track_url": "",
+                    "duration_ms": 660584,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273874dfc90f10facf17f73d57c",
+                    "id": 4058,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Ana Fi Intizarak",
+                    "track_url": "",
+                    "duration_ms": 963510,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273874dfc90f10facf17f73d57c",
+                    "id": 4059,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Habibi Yessa'd Awato",
+                    "track_url": "",
+                    "duration_ms": 172458,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273874dfc90f10facf17f73d57c",
+                    "id": 4060,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Siret Al Hob",
+                    "track_url": "",
+                    "duration_ms": 865819,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273874dfc90f10facf17f73d57c",
+                    "id": 4061,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Inta Feen Wal Hob Feen",
+                    "track_url": "",
+                    "duration_ms": 316792,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273874dfc90f10facf17f73d57c",
+                    "id": 4062,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Houwa Sahih Al Hawa Ghalab",
+                    "track_url": "",
+                    "duration_ms": 99224,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273874dfc90f10facf17f73d57c",
+                    "id": 4063,
+                    "artist": "George Wassouf"
+                }
+            ],
+            "id": 4057
+        },
+        {
+            "name": "Sings Oum Kalsoum Vol 1",
+            "release_date": "1996-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e365d0717833cb584c4cea26",
+            "track_url": "https://open.spotify.com/album/2DRPJjXDkzGfe1gFzPKZjP",
+            "tracks": [
+                {
+                    "name": "Ba'eed Anak",
+                    "track_url": "",
+                    "duration_ms": 559220,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e365d0717833cb584c4cea26",
+                    "id": 4065,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Al Atlal",
+                    "track_url": "",
+                    "duration_ms": 870277,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e365d0717833cb584c4cea26",
+                    "id": 4066,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Lissa Faker",
+                    "track_url": "",
+                    "duration_ms": 336535,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e365d0717833cb584c4cea26",
+                    "id": 4067,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Lessaber Hedoud",
+                    "track_url": "",
+                    "duration_ms": 351366,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e365d0717833cb584c4cea26",
+                    "id": 4068,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Marret Al Ayam",
+                    "track_url": "",
+                    "duration_ms": 391298,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e365d0717833cb584c4cea26",
+                    "id": 4069,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Inta Omri",
+                    "track_url": "",
+                    "duration_ms": 324936,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e365d0717833cb584c4cea26",
+                    "id": 4070,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Arouh Lemeen",
+                    "track_url": "",
+                    "duration_ms": 496767,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e365d0717833cb584c4cea26",
+                    "id": 4071,
+                    "artist": "George Wassouf"
+                }
+            ],
+            "id": 4064
+        },
+        {
+            "name": "Laiel El Ashekin",
+            "release_date": "1995-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273fabe69d31dfa5e5aac7807aa",
+            "track_url": "https://open.spotify.com/album/2j15uX0NoIyspkN9kwDnhs",
+            "tracks": [
+                {
+                    "name": "Erdha Bilnasseb",
+                    "track_url": "",
+                    "duration_ms": 390000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fabe69d31dfa5e5aac7807aa",
+                    "id": 4073,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Laiel El Ashekin",
+                    "track_url": "",
+                    "duration_ms": 378733,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fabe69d31dfa5e5aac7807aa",
+                    "id": 4074,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "El Kilmah El Taibah",
+                    "track_url": "",
+                    "duration_ms": 494773,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fabe69d31dfa5e5aac7807aa",
+                    "id": 4075,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Had Yensa Alboh",
+                    "track_url": "",
+                    "duration_ms": 506026,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fabe69d31dfa5e5aac7807aa",
+                    "id": 4076,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Aah Habaieb",
+                    "track_url": "",
+                    "duration_ms": 362600,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fabe69d31dfa5e5aac7807aa",
+                    "id": 4077,
+                    "artist": "George Wassouf"
+                },
+                {
+                    "name": "Lea'eb El Hawa",
+                    "track_url": "",
+                    "duration_ms": 345133,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fabe69d31dfa5e5aac7807aa",
+                    "id": 4078,
+                    "artist": "George Wassouf"
+                }
+            ],
+            "id": 4072
+        }
+    ],
+    "singles": [
+        {
+            "name": "ليل العاشقين",
+            "release_date": "2024-12-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732b821e4da6011353025e9f1b",
+            "track_url": "",
+            "id": 4079,
+            "artist": "George Wassouf"
+        },
+        {
+            "name": "اللي تعبنا سنين في هواه",
+            "release_date": "2024-12-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f223702429af40ff67b7f2e1",
+            "track_url": "",
+            "id": 4080,
+            "artist": "George Wassouf"
+        },
+        {
+            "name": "حبيت ارمي الشبك",
+            "release_date": "2024-11-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b273cab25f7077711adac1633ae3",
+            "track_url": "",
+            "id": 4081,
+            "artist": "George Wassouf"
+        },
+        {
+            "name": "ياللي تعبنا سنين في هواه",
+            "release_date": "2024-08-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b273602ded909097ae406e9d4b52",
+            "track_url": "",
+            "id": 4082,
+            "artist": "George Wassouf"
+        },
+        {
+            "name": "Raksa Espani",
+            "release_date": "2024-07-29",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f02c949588b3f38427c8dc6c",
+            "track_url": "",
+            "id": 4083,
+            "artist": "George Wassouf"
+        },
+        {
+            "name": "احضنوا الايام",
+            "release_date": "2024-06-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d544863d7460e54fdfca8aa5",
+            "track_url": "",
+            "id": 4084,
+            "artist": "George Wassouf"
+        },
+        {
+            "name": "Negm Aali",
+            "release_date": "2023-09-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732d75c70f38b4bce8ac90d461",
+            "track_url": "",
+            "id": 4085,
+            "artist": "George Wassouf"
+        },
+        {
+            "name": "Noss Omry",
+            "release_date": "2023-02-14",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730db6d49da824b6ae5a671a1d",
+            "track_url": "",
+            "id": 4086,
+            "artist": "George Wassouf"
+        },
+        {
+            "name": "Byetkallem Aalaya",
+            "release_date": "2022-11-26",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737b072fdec06276596d66ada2",
+            "track_url": "",
+            "id": 4087,
+            "artist": "George Wassouf"
+        },
+        {
+            "name": "Yah 3al Zaman",
+            "release_date": "2021-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733c8e4d0e32e6a855e9a08755",
+            "track_url": "",
+            "id": 4088,
+            "artist": "George Wassouf"
+        },
+        {
+            "name": "Seket El Kalam",
+            "release_date": "2019-04-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b273bff1f981cabfa8e7495352c1",
+            "track_url": "",
+            "id": 4089,
+            "artist": "George Wassouf"
+        },
+        {
+            "name": "Hal El Garih",
+            "release_date": "2019-01-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739e8a512a77845a85070e3a8d",
+            "track_url": "",
+            "id": 4090,
+            "artist": "George Wassouf"
+        },
+        {
+            "name": "Min Da Li Yakhodni Menak (Live)",
+            "release_date": "2019-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273314a7b7bb23dd19d05ab7bd4",
+            "track_url": "",
+            "id": 4091,
+            "artist": "George Wassouf"
+        },
+        {
+            "name": "2Olli 3Amalak Eih Albi (Live)",
+            "release_date": "2019-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ce439b2ceb05408cf9774715",
+            "track_url": "",
+            "id": 4092,
+            "artist": "George Wassouf"
+        },
+        {
+            "name": "Maliket Gamal El Rouh",
+            "release_date": "2018-11-26",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739a8b579d27742194523c6859",
+            "track_url": "",
+            "id": 4093,
+            "artist": "George Wassouf"
+        },
+        {
+            "name": "Byehsidouni",
+            "release_date": "2017-11-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e38233409137bd94a0b9209a",
+            "track_url": "",
+            "id": 4094,
+            "artist": "George Wassouf"
+        },
+        {
+            "name": "Bandahlak",
+            "release_date": "2017-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d2c2b700f1ea6c3a0677a55e",
+            "track_url": "",
+            "id": 4095,
+            "artist": "George Wassouf"
+        },
+        {
+            "name": "Yammaya",
+            "release_date": "2016-03-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b27310408e37860b4d10b1daa8ba",
+            "track_url": "",
+            "id": 4096,
+            "artist": "George Wassouf"
+        },
+        {
+            "name": "Sahra Helef L'2Amar (Live)",
+            "release_date": "2016-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d4a5c1ff5582344d27ea4979",
+            "track_url": "",
+            "id": 4097,
+            "artist": "George Wassouf"
+        },
+        {
+            "name": "Albi Da2 (Live)",
+            "release_date": "2015-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273bd3362d4e592697f0603388d",
+            "track_url": "",
+            "id": 4098,
+            "artist": "George Wassouf"
+        },
+        {
+            "name": "Law Nawet (Live)",
+            "release_date": "2014-06-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b273dcbd3cefc6753357062bc542",
+            "track_url": "",
+            "id": 4099,
+            "artist": "George Wassouf"
+        },
+        {
+            "name": "Tarakny W Ghab",
+            "release_date": "2014-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c3b1de103fab165b553e0675",
+            "track_url": "",
+            "id": 4100,
+            "artist": "George Wassouf"
+        },
+        {
+            "name": "Maryam",
+            "release_date": "2014-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273113838d526e0c98cc2ad4ad8",
+            "track_url": "",
+            "id": 4101,
+            "artist": "George Wassouf"
+        },
+        {
+            "name": "Dawara El Donia",
+            "release_date": "2012-10-14",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ae8b3351e58fde713b95de30",
+            "track_url": "",
+            "id": 4102,
+            "artist": "George Wassouf"
+        },
+        {
+            "name": "Mawal Nassim Al Sabah / Lahjor Gassrak (Live)",
+            "release_date": "2011-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273146c3d84dbb3e2f246ef0bc8",
+            "track_url": "",
+            "id": 4103,
+            "artist": "George Wassouf"
+        },
+        {
+            "name": "Hateit 3al Alb Eidi",
+            "release_date": "2011-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d93c18b3c2581864a00370c8",
+            "track_url": "",
+            "id": 4104,
+            "artist": "George Wassouf"
+        },
+        {
+            "name": "Dawwarah El Ayam",
+            "release_date": "2009-01-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739d77b6d8bb75fc7af9fc2ce4",
+            "track_url": "",
+            "id": 4105,
+            "artist": "George Wassouf"
+        },
+        {
+            "name": "Byesalouni Alik",
+            "release_date": "2009-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737b99c87c491a3b408cfd69ad",
+            "track_url": "",
+            "id": 4106,
+            "artist": "George Wassouf"
+        },
+        {
+            "name": "Amry Lellah (Live)",
+            "release_date": "2008-06-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b27352828e255ebde440a819217e",
+            "track_url": "",
+            "id": 4107,
+            "artist": "George Wassouf"
+        },
+        {
+            "name": "Kalamak Ya Habibi",
+            "release_date": "2008-04-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730d87d3c121da416be832cc21",
+            "track_url": "",
+            "id": 4108,
+            "artist": "George Wassouf"
+        },
+        {
+            "name": "Abou Ouyoun Gari'ah (Live)",
+            "release_date": "2005-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733d0d99b01d379b413d4a45e8",
+            "track_url": "",
+            "id": 4109,
+            "artist": "George Wassouf"
+        },
+        {
+            "name": "Amry Lellah",
+            "release_date": "2004-10-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e2e27e6b36efd60ed89157ee",
+            "track_url": "",
+            "id": 4110,
+            "artist": "George Wassouf"
+        },
+        {
+            "name": "Etakhart Ktir",
+            "release_date": "2004-04-27",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b22dcb33d39f030a7337a3ae",
+            "track_url": "",
+            "id": 4111,
+            "artist": "George Wassouf"
+        },
+        {
+            "name": "Salaf W Dayn",
+            "release_date": "2003-06-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d1e0cb736255b0b6480f6eae",
+            "track_url": "",
+            "id": 4112,
+            "artist": "George Wassouf"
+        },
+        {
+            "name": "Zaman Al'Ajayeb",
+            "release_date": "2002-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b35304d0f04f1753f7de4e60",
+            "track_url": "",
+            "id": 4113,
+            "artist": "George Wassouf"
+        },
+        {
+            "name": "Inta Gheirhom",
+            "release_date": "2002-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27375efb86bc5549771e29db552",
+            "track_url": "",
+            "id": 4114,
+            "artist": "George Wassouf"
+        },
+        {
+            "name": "Ya Alby Meen (Live)",
+            "release_date": "2001-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736be0c34494453efba72efd59",
+            "track_url": "",
+            "id": 4115,
+            "artist": "George Wassouf"
+        },
+        {
+            "name": "Leil El Ashekeen (Live)",
+            "release_date": "2001-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731d7d3bcc05d95efda0c52432",
+            "track_url": "",
+            "id": 4116,
+            "artist": "George Wassouf"
+        },
+        {
+            "name": "Law Naweit (Live)",
+            "release_date": "2001-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27364844a91084adfbd06c81f63",
+            "track_url": "",
+            "id": 4117,
+            "artist": "George Wassouf"
+        },
+        {
+            "name": "Had Yenssa Albou (Live)",
+            "release_date": "2001-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f1cf314d2ae3f389500079be",
+            "track_url": "",
+            "id": 4118,
+            "artist": "George Wassouf"
+        },
+        {
+            "name": "Erda Bel Naseeb (Live)",
+            "release_date": "2001-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737514db1c31d58288391a060d",
+            "track_url": "",
+            "id": 4119,
+            "artist": "George Wassouf"
+        },
+        {
+            "name": "El Hob El Awalany (Live)",
+            "release_date": "2001-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27331923fb1177b8aed8252f8f0",
+            "track_url": "",
+            "id": 4120,
+            "artist": "George Wassouf"
+        },
+        {
+            "name": "Bet3atebni Ala Kelama (Live)",
+            "release_date": "2001-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e7f49d78b364889638f67805",
+            "track_url": "",
+            "id": 4121,
+            "artist": "George Wassouf"
+        },
+        {
+            "name": "Dul Mush Habayeb",
+            "release_date": "2000-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732f382e385243bfddd538ffe1",
+            "track_url": "",
+            "id": 4122,
+            "artist": "George Wassouf"
+        },
+        {
+            "name": "Tabeeb Garah",
+            "release_date": "1999-03-05",
+            "image": "https://i.scdn.co/image/ab67616d0000b27346242ecd184d3d60e229fda0",
+            "track_url": "",
+            "id": 4123,
+            "artist": "George Wassouf"
+        },
+        {
+            "name": "Kalam El Nas (Live)",
+            "release_date": "1998-07-22",
+            "image": "https://i.scdn.co/image/ab67616d0000b273084f4f020fb89e519a5f2d4b",
+            "track_url": "",
+            "id": 4124,
+            "artist": "George Wassouf"
+        },
+        {
+            "name": "Yalli T3bna Snin Fi Hawak (Live)",
+            "release_date": "1998-06-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b27339f02ea92166642d51a9ec04",
+            "track_url": "",
+            "id": 4125,
+            "artist": "George Wassouf"
+        },
+        {
+            "name": "Wely Law Yedroun (Live)",
+            "release_date": "1998-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27343634a3103f1ddb94ce36e18",
+            "track_url": "",
+            "id": 4126,
+            "artist": "George Wassouf"
+        },
+        {
+            "name": "Ne3met Nissyan (Live)",
+            "release_date": "1998-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f0261bc2b372f6c7a60ce164",
+            "track_url": "",
+            "id": 4127,
+            "artist": "George Wassouf"
+        },
+        {
+            "name": "Ana Ba3sha'ak (Live)",
+            "release_date": "1998-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730908e785e21d9cf363cb7aa8",
+            "track_url": "",
+            "id": 4128,
+            "artist": "George Wassouf"
+        }
+    ],
+    "popular_tracks": [
+        {
+            "name": "خسرت كل الناس",
+            "track_url": "",
+            "duration_ms": 344360,
+            "image": "https://i.scdn.co/image/ab67616d0000b2734d2f66af818813a192cf7788",
+            "id": 4129,
+            "artist": "George Wassouf"
+        },
+        {
+            "name": "Helaf El Amar - Live",
+            "track_url": "",
+            "duration_ms": 396240,
+            "image": "https://i.scdn.co/image/ab67616d0000b273e9dbd20f0d6e8289a66a830e",
+            "id": 4130,
+            "artist": "George Wassouf"
+        },
+        {
+            "name": "El Hawa Sultan",
+            "track_url": "",
+            "duration_ms": 422666,
+            "image": "https://i.scdn.co/image/ab67616d0000b273e9dbd20f0d6e8289a66a830e",
+            "id": 4131,
+            "artist": "George Wassouf"
+        },
+        {
+            "name": "Kalam Ennas",
+            "track_url": "",
+            "duration_ms": 422653,
+            "image": "https://i.scdn.co/image/ab67616d0000b273e9dbd20f0d6e8289a66a830e",
+            "id": 4132,
+            "artist": "George Wassouf"
+        },
+        {
+            "name": "طبيب جراح",
+            "track_url": "",
+            "duration_ms": 381200,
+            "image": "https://i.scdn.co/image/ab67616d0000b273ef647c9c935036e350e99e53",
+            "id": 4133,
+            "artist": "George Wassouf"
+        },
+        {
+            "name": "Laiel El Ashekin",
+            "track_url": "",
+            "duration_ms": 378733,
+            "image": "https://i.scdn.co/image/ab67616d0000b273e9dbd20f0d6e8289a66a830e",
+            "id": 4134,
+            "artist": "George Wassouf"
+        },
+        {
+            "name": "Seket El Kalam",
+            "track_url": "",
+            "duration_ms": 255047,
+            "image": "https://i.scdn.co/image/ab67616d0000b273bff1f981cabfa8e7495352c1",
+            "id": 4135,
+            "artist": "George Wassouf"
+        },
+        {
+            "name": "Byehsidouni",
+            "track_url": "",
+            "duration_ms": 317779,
+            "image": "https://i.scdn.co/image/ab67616d0000b273e38233409137bd94a0b9209a",
+            "id": 4136,
+            "artist": "George Wassouf"
+        },
+        {
+            "name": "مستني باليوم واليومين",
+            "track_url": "",
+            "duration_ms": 293000,
+            "image": "https://i.scdn.co/image/ab67616d0000b2734d2f66af818813a192cf7788",
+            "id": 4137,
+            "artist": "George Wassouf"
+        },
+        {
+            "name": "Erdha Bilnasseb",
+            "track_url": "",
+            "duration_ms": 390000,
+            "image": "https://i.scdn.co/image/ab67616d0000b273e9dbd20f0d6e8289a66a830e",
+            "id": 4138,
+            "artist": "George Wassouf"
+        }
+    ]
+}

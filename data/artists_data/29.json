@@ -1,0 +1,392 @@
+{
+    "artist": {
+        "id": "4874",
+        "name": "Amir Eid",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb70416d32c0fbbc5dc953df8c",
+        "background_image": "https://i.scdn.co/image/ab6761610000517470416d32c0fbbc5dc953df8c"
+    },
+    "albums": [
+        {
+            "name": "Roxi",
+            "release_date": "2024-07-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737f55a5dd8674f8962ae4548b",
+            "track_url": "https://open.spotify.com/album/381pico3dKrtKOi7Dh59at",
+            "tracks": [
+                {
+                    "name": "Roxi (The Late Night Show)",
+                    "track_url": "",
+                    "duration_ms": 122440,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737f55a5dd8674f8962ae4548b",
+                    "id": 4876,
+                    "artist": "Amir Eid"
+                },
+                {
+                    "name": "Hagat Gowaya",
+                    "track_url": "",
+                    "duration_ms": 264851,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737f55a5dd8674f8962ae4548b",
+                    "id": 4877,
+                    "artist": "Amir Eid"
+                },
+                {
+                    "name": "Esmek Eh",
+                    "track_url": "",
+                    "duration_ms": 190328,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737f55a5dd8674f8962ae4548b",
+                    "id": 4878,
+                    "artist": "Amir Eid"
+                },
+                {
+                    "name": "Hob Taht El Enshaa",
+                    "track_url": "",
+                    "duration_ms": 202683,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737f55a5dd8674f8962ae4548b",
+                    "id": 4879,
+                    "artist": "Amir Eid"
+                },
+                {
+                    "name": "Nasy Kol Haga",
+                    "track_url": "",
+                    "duration_ms": 185895,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737f55a5dd8674f8962ae4548b",
+                    "id": 4880,
+                    "artist": "Amir Eid"
+                },
+                {
+                    "name": "Momken Nekhaf Sawa",
+                    "track_url": "",
+                    "duration_ms": 392000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737f55a5dd8674f8962ae4548b",
+                    "id": 4881,
+                    "artist": "Amir Eid"
+                },
+                {
+                    "name": "El Donia Hoss",
+                    "track_url": "",
+                    "duration_ms": 235056,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737f55a5dd8674f8962ae4548b",
+                    "id": 4882,
+                    "artist": "Amir Eid"
+                }
+            ],
+            "id": 4875
+        },
+        {
+            "name": "لما بنتولد",
+            "release_date": "2019-11-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c384190e6ad765510454f177",
+            "track_url": "https://open.spotify.com/album/5xWWNgZyd88PlUVRBReVaf",
+            "tracks": [
+                {
+                    "name": "لما بنتولد",
+                    "track_url": "",
+                    "duration_ms": 232048,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c384190e6ad765510454f177",
+                    "id": 4884,
+                    "artist": "Amir Eid"
+                },
+                {
+                    "name": "زي شمس و قمر",
+                    "track_url": "",
+                    "duration_ms": 108893,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c384190e6ad765510454f177",
+                    "id": 4885,
+                    "artist": "Amir Eid"
+                },
+                {
+                    "name": "يوم جديد",
+                    "track_url": "",
+                    "duration_ms": 49597,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c384190e6ad765510454f177",
+                    "id": 4886,
+                    "artist": "Amir Eid"
+                },
+                {
+                    "name": "صباح الخير",
+                    "track_url": "",
+                    "duration_ms": 199277,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c384190e6ad765510454f177",
+                    "id": 4887,
+                    "artist": "Amir Eid"
+                },
+                {
+                    "name": "صعب الاختيار",
+                    "track_url": "",
+                    "duration_ms": 49354,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c384190e6ad765510454f177",
+                    "id": 4888,
+                    "artist": "Amir Eid"
+                },
+                {
+                    "name": "سنين",
+                    "track_url": "",
+                    "duration_ms": 81284,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c384190e6ad765510454f177",
+                    "id": 4889,
+                    "artist": "Amir Eid"
+                },
+                {
+                    "name": "الدنيا",
+                    "track_url": "",
+                    "duration_ms": 51758,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c384190e6ad765510454f177",
+                    "id": 4890,
+                    "artist": "Amir Eid"
+                },
+                {
+                    "name": "عندي فكرة",
+                    "track_url": "",
+                    "duration_ms": 95000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c384190e6ad765510454f177",
+                    "id": 4891,
+                    "artist": "Amir Eid"
+                },
+                {
+                    "name": "حلمي انا - لما بنتولد",
+                    "track_url": "",
+                    "duration_ms": 128822,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c384190e6ad765510454f177",
+                    "id": 4892,
+                    "artist": "Amir Eid"
+                }
+            ],
+            "id": 4883
+        }
+    ],
+    "singles": [
+        {
+            "name": "Nasy Kol Haga",
+            "release_date": "2024-07-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b27325853ba1e2c0584092a1562f",
+            "track_url": "",
+            "id": 4893,
+            "artist": "Amir Eid"
+        },
+        {
+            "name": "Hob Taht El Enshaa",
+            "release_date": "2024-07-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b273067fb29133f44298a128363b",
+            "track_url": "",
+            "id": 4894,
+            "artist": "Amir Eid"
+        },
+        {
+            "name": "Hagat Gowaya",
+            "release_date": "2024-07-17",
+            "image": "https://i.scdn.co/image/ab67616d0000b27336dbb3dbc6ed24d7bd42cbaf",
+            "track_url": "",
+            "id": 4895,
+            "artist": "Amir Eid"
+        },
+        {
+            "name": "Esmek Eh",
+            "release_date": "2024-07-17",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ff76e99c2988686ce7d22a74",
+            "track_url": "",
+            "id": 4896,
+            "artist": "Amir Eid"
+        },
+        {
+            "name": "Arooh Le Fein",
+            "release_date": "2024-06-12",
+            "image": "https://i.scdn.co/image/ab67616d0000b273cda34f7284af30d72ab83a90",
+            "track_url": "",
+            "id": 4897,
+            "artist": "Amir Eid"
+        },
+        {
+            "name": "Bahlam",
+            "release_date": "2024-05-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732af46f8f470bf85e143f0b4c",
+            "track_url": "",
+            "id": 4898,
+            "artist": "Amir Eid"
+        },
+        {
+            "name": "معاك بطير",
+            "release_date": "2024-03-13",
+            "image": "https://i.scdn.co/image/ab67616d0000b273461fce4bcf6e3aa98d8d4acf",
+            "track_url": "",
+            "id": 4899,
+            "artist": "Amir Eid"
+        },
+        {
+            "name": "Law Kan",
+            "release_date": "2023-07-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737b54a7e1a80efae41931dddf",
+            "track_url": "",
+            "id": 4900,
+            "artist": "Amir Eid"
+        },
+        {
+            "name": "Wahshteeny",
+            "release_date": "2023-07-06",
+            "image": "https://i.scdn.co/image/ab67616d0000b273bb8d78099fc645aaee9037dc",
+            "track_url": "",
+            "id": 4901,
+            "artist": "Amir Eid"
+        },
+        {
+            "name": "Tayer",
+            "release_date": "2023-07-06",
+            "image": "https://i.scdn.co/image/ab67616d0000b273edb88819afe6eddba8919de7",
+            "track_url": "",
+            "id": 4902,
+            "artist": "Amir Eid"
+        },
+        {
+            "name": "Metkatef",
+            "release_date": "2023-07-06",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a6f768008bb0a2efe9833e7a",
+            "track_url": "",
+            "id": 4903,
+            "artist": "Amir Eid"
+        },
+        {
+            "name": "Khalik Wara El Forsa",
+            "release_date": "2023-03-29",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738038a97f6a22d7f19873506c",
+            "track_url": "",
+            "id": 4904,
+            "artist": "Amir Eid"
+        },
+        {
+            "name": "Ahlan W Sahlan (Hayah Kareema)",
+            "release_date": "2022-04-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739c323dd619e3a5b03afdd487",
+            "track_url": "",
+            "id": 4905,
+            "artist": "Amir Eid"
+        },
+        {
+            "name": "Mesh Saybani",
+            "release_date": "2022-01-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d1d30ad220951c23dfc9aec2",
+            "track_url": "",
+            "id": 4906,
+            "artist": "Amir Eid"
+        },
+        {
+            "name": "A3det Mazika",
+            "release_date": "2021-01-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b27316e0e2974b3dd4fc812e0069",
+            "track_url": "",
+            "id": 4907,
+            "artist": "Amir Eid"
+        },
+        {
+            "name": "Donia Gedida",
+            "release_date": "2020-12-12",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730d9b871158a3b4f6a7829950",
+            "track_url": "",
+            "id": 4908,
+            "artist": "Amir Eid"
+        },
+        {
+            "name": "Awel Mara Etabelna",
+            "release_date": "2020-02-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b27320e2b8450d1913f8d56276e2",
+            "track_url": "",
+            "id": 4909,
+            "artist": "Amir Eid"
+        },
+        {
+            "name": "Momken Keda",
+            "release_date": "2019-08-03",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e8b1a819ce27ba65beb85fec",
+            "track_url": "",
+            "id": 4910,
+            "artist": "Amir Eid"
+        },
+        {
+            "name": "Ana El Ahly",
+            "release_date": "2018-04-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b27369bedbfc2231dd36ce9ab463",
+            "track_url": "",
+            "id": 4911,
+            "artist": "Amir Eid"
+        }
+    ],
+    "popular_tracks": [
+        {
+            "name": "Esmek Eh",
+            "track_url": "",
+            "duration_ms": 190328,
+            "image": "https://i.scdn.co/image/ab67616d0000b2737f55a5dd8674f8962ae4548b",
+            "id": 4912,
+            "artist": "Amir Eid"
+        },
+        {
+            "name": "Wahshteeny",
+            "track_url": "",
+            "duration_ms": 148000,
+            "image": "https://i.scdn.co/image/ab67616d0000b273bb8d78099fc645aaee9037dc",
+            "id": 4913,
+            "artist": "Amir Eid"
+        },
+        {
+            "name": "Tayer",
+            "track_url": "",
+            "duration_ms": 174857,
+            "image": "https://i.scdn.co/image/ab67616d0000b273edb88819afe6eddba8919de7",
+            "id": 4914,
+            "artist": "Amir Eid"
+        },
+        {
+            "name": "Hagat Gowaya",
+            "track_url": "",
+            "duration_ms": 264851,
+            "image": "https://i.scdn.co/image/ab67616d0000b2737f55a5dd8674f8962ae4548b",
+            "id": 4915,
+            "artist": "Amir Eid"
+        },
+        {
+            "name": "Metkatef",
+            "track_url": "",
+            "duration_ms": 207120,
+            "image": "https://i.scdn.co/image/ab67616d0000b273a6f768008bb0a2efe9833e7a",
+            "id": 4916,
+            "artist": "Amir Eid"
+        },
+        {
+            "name": "Nasy Kol Haga",
+            "track_url": "",
+            "duration_ms": 185895,
+            "image": "https://i.scdn.co/image/ab67616d0000b2737f55a5dd8674f8962ae4548b",
+            "id": 4917,
+            "artist": "Amir Eid"
+        },
+        {
+            "name": "Hob Taht El Enshaa",
+            "track_url": "",
+            "duration_ms": 202683,
+            "image": "https://i.scdn.co/image/ab67616d0000b2737f55a5dd8674f8962ae4548b",
+            "id": 4918,
+            "artist": "Amir Eid"
+        },
+        {
+            "name": "Arooh Le Fein",
+            "track_url": "",
+            "duration_ms": 166956,
+            "image": "https://i.scdn.co/image/ab67616d0000b273cda34f7284af30d72ab83a90",
+            "id": 4919,
+            "artist": "Amir Eid"
+        },
+        {
+            "name": "Tallaa El Helw We Bas",
+            "track_url": "",
+            "duration_ms": 222824,
+            "image": "https://i.scdn.co/image/ab67616d0000b27368f8492f5d9657a4333216b3",
+            "id": 4920,
+            "artist": "Amir Eid"
+        },
+        {
+            "name": "Law Kan",
+            "track_url": "",
+            "duration_ms": 256320,
+            "image": "https://i.scdn.co/image/ab67616d0000b2737b54a7e1a80efae41931dddf",
+            "id": 4921,
+            "artist": "Amir Eid"
+        }
+    ]
+}

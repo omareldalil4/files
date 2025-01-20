@@ -1,0 +1,586 @@
+{
+    "artist": {
+        "id": "8778",
+        "name": "Wama",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb03bc66cc66be68a570b2a6dc",
+        "background_image": "https://i.scdn.co/image/ab6761610000517403bc66cc66be68a570b2a6dc"
+    },
+    "albums": [
+        {
+            "name": "El Seif Ebtada",
+            "release_date": "2019-08-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736d37a7d1647f3cd17b119903",
+            "track_url": "https://open.spotify.com/album/4nfduIDLeIte5K55pcyTmd",
+            "tracks": [
+                {
+                    "name": "Shams Bahr",
+                    "track_url": "",
+                    "duration_ms": 248840,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736d37a7d1647f3cd17b119903",
+                    "id": 8780,
+                    "artist": "Wama"
+                },
+                {
+                    "name": "Allah Al Gamal",
+                    "track_url": "",
+                    "duration_ms": 256173,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736d37a7d1647f3cd17b119903",
+                    "id": 8781,
+                    "artist": "Wama"
+                },
+                {
+                    "name": "Fatouma",
+                    "track_url": "",
+                    "duration_ms": 193413,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736d37a7d1647f3cd17b119903",
+                    "id": 8782,
+                    "artist": "Wama"
+                },
+                {
+                    "name": "Ala Fekra",
+                    "track_url": "",
+                    "duration_ms": 242226,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736d37a7d1647f3cd17b119903",
+                    "id": 8783,
+                    "artist": "Wama"
+                },
+                {
+                    "name": "Ketret Hekayaty",
+                    "track_url": "",
+                    "duration_ms": 245680,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736d37a7d1647f3cd17b119903",
+                    "id": 8784,
+                    "artist": "Wama"
+                },
+                {
+                    "name": "Yala Nor'os",
+                    "track_url": "",
+                    "duration_ms": 171666,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736d37a7d1647f3cd17b119903",
+                    "id": 8785,
+                    "artist": "Wama"
+                },
+                {
+                    "name": "Bethebi Nafsek",
+                    "track_url": "",
+                    "duration_ms": 230400,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736d37a7d1647f3cd17b119903",
+                    "id": 8786,
+                    "artist": "Wama"
+                },
+                {
+                    "name": "Esmaha Eh",
+                    "track_url": "",
+                    "duration_ms": 185866,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736d37a7d1647f3cd17b119903",
+                    "id": 8787,
+                    "artist": "Wama"
+                },
+                {
+                    "name": "Benetharab",
+                    "track_url": "",
+                    "duration_ms": 180800,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736d37a7d1647f3cd17b119903",
+                    "id": 8788,
+                    "artist": "Wama"
+                },
+                {
+                    "name": "El Seif Ebtada",
+                    "track_url": "",
+                    "duration_ms": 211693,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736d37a7d1647f3cd17b119903",
+                    "id": 8789,
+                    "artist": "Wama"
+                }
+            ],
+            "id": 8779
+        },
+        {
+            "name": "Rayha Gaya",
+            "release_date": "2013-12-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b27311d0fb4eb9be407bc454011e",
+            "track_url": "https://open.spotify.com/album/5K7DDI3qXmRpsOSR6jKjTr",
+            "tracks": [
+                {
+                    "name": "Tabaaad W Abaaad",
+                    "track_url": "",
+                    "duration_ms": 247145,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27311d0fb4eb9be407bc454011e",
+                    "id": 8791,
+                    "artist": "Wama"
+                },
+                {
+                    "name": "Alatool Basaal Aleah",
+                    "track_url": "",
+                    "duration_ms": 233171,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27311d0fb4eb9be407bc454011e",
+                    "id": 8792,
+                    "artist": "Wama"
+                },
+                {
+                    "name": "Amana",
+                    "track_url": "",
+                    "duration_ms": 257100,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27311d0fb4eb9be407bc454011e",
+                    "id": 8793,
+                    "artist": "Wama"
+                },
+                {
+                    "name": "Andi Kalam",
+                    "track_url": "",
+                    "duration_ms": 214442,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27311d0fb4eb9be407bc454011e",
+                    "id": 8794,
+                    "artist": "Wama"
+                },
+                {
+                    "name": "Aayesh Maak El Farha",
+                    "track_url": "",
+                    "duration_ms": 206082,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27311d0fb4eb9be407bc454011e",
+                    "id": 8795,
+                    "artist": "Wama"
+                },
+                {
+                    "name": "Rayha Gaya",
+                    "track_url": "",
+                    "duration_ms": 261718,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27311d0fb4eb9be407bc454011e",
+                    "id": 8796,
+                    "artist": "Wama"
+                },
+                {
+                    "name": "Khaf Ala Elii Benna",
+                    "track_url": "",
+                    "duration_ms": 255867,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27311d0fb4eb9be407bc454011e",
+                    "id": 8797,
+                    "artist": "Wama"
+                },
+                {
+                    "name": "Tergaa Wetaolli Waheshni",
+                    "track_url": "",
+                    "duration_ms": 247121,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27311d0fb4eb9be407bc454011e",
+                    "id": 8798,
+                    "artist": "Wama"
+                },
+                {
+                    "name": "Samehni",
+                    "track_url": "",
+                    "duration_ms": 217315,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27311d0fb4eb9be407bc454011e",
+                    "id": 8799,
+                    "artist": "Wama"
+                },
+                {
+                    "name": "Hob Aadi",
+                    "track_url": "",
+                    "duration_ms": 243385,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27311d0fb4eb9be407bc454011e",
+                    "id": 8800,
+                    "artist": "Wama"
+                },
+                {
+                    "name": "Eskot Mataolleesh",
+                    "track_url": "",
+                    "duration_ms": 206291,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27311d0fb4eb9be407bc454011e",
+                    "id": 8801,
+                    "artist": "Wama"
+                }
+            ],
+            "id": 8790
+        },
+        {
+            "name": "Merci Seigneur",
+            "release_date": "2009-04-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738a1354807d24f0df0f1e05b2",
+            "track_url": "https://open.spotify.com/album/2fyp2KBlteztJ7a3kqtV9s",
+            "tracks": [
+                {
+                    "name": "Conscience",
+                    "track_url": "",
+                    "duration_ms": 239307,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738a1354807d24f0df0f1e05b2",
+                    "id": 8803,
+                    "artist": "Wama"
+                },
+                {
+                    "name": "Maman",
+                    "track_url": "",
+                    "duration_ms": 276323,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738a1354807d24f0df0f1e05b2",
+                    "id": 8804,
+                    "artist": "Wama"
+                },
+                {
+                    "name": "Honneur aux DJ",
+                    "track_url": "",
+                    "duration_ms": 244793,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738a1354807d24f0df0f1e05b2",
+                    "id": 8805,
+                    "artist": "Wama"
+                },
+                {
+                    "name": "Ewe",
+                    "track_url": "",
+                    "duration_ms": 289567,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738a1354807d24f0df0f1e05b2",
+                    "id": 8806,
+                    "artist": "Wama"
+                },
+                {
+                    "name": "Sida - Remix",
+                    "track_url": "",
+                    "duration_ms": 264515,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738a1354807d24f0df0f1e05b2",
+                    "id": 8807,
+                    "artist": "Wama"
+                },
+                {
+                    "name": "Afrique",
+                    "track_url": "",
+                    "duration_ms": 145500,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738a1354807d24f0df0f1e05b2",
+                    "id": 8808,
+                    "artist": "Wama"
+                },
+                {
+                    "name": "Sabina",
+                    "track_url": "",
+                    "duration_ms": 240248,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738a1354807d24f0df0f1e05b2",
+                    "id": 8809,
+                    "artist": "Wama"
+                },
+                {
+                    "name": "Sida",
+                    "track_url": "",
+                    "duration_ms": 264515,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738a1354807d24f0df0f1e05b2",
+                    "id": 8810,
+                    "artist": "Wama"
+                },
+                {
+                    "name": "Force du mal",
+                    "track_url": "",
+                    "duration_ms": 247301,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738a1354807d24f0df0f1e05b2",
+                    "id": 8811,
+                    "artist": "Wama"
+                },
+                {
+                    "name": "Honneur aux DJ - Remix",
+                    "track_url": "",
+                    "duration_ms": 243539,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738a1354807d24f0df0f1e05b2",
+                    "id": 8812,
+                    "artist": "Wama"
+                }
+            ],
+            "id": 8802
+        },
+        {
+            "name": "No Olvidemos Lo Nuestro",
+            "release_date": "2003-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733476165d3f1a7ac0d8abc885",
+            "track_url": "https://open.spotify.com/album/3LhcIlhAkR9YByO0HnNt48",
+            "tracks": [
+                {
+                    "name": "Introducion",
+                    "track_url": "",
+                    "duration_ms": 57506,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733476165d3f1a7ac0d8abc885",
+                    "id": 8814,
+                    "artist": "Wama"
+                },
+                {
+                    "name": "No Olvidemos Lo Nuestro",
+                    "track_url": "",
+                    "duration_ms": 252013,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733476165d3f1a7ac0d8abc885",
+                    "id": 8815,
+                    "artist": "Wama"
+                },
+                {
+                    "name": "Lagon Wadubi",
+                    "track_url": "",
+                    "duration_ms": 247960,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733476165d3f1a7ac0d8abc885",
+                    "id": 8816,
+                    "artist": "Wama"
+                },
+                {
+                    "name": "Para Dios Somos Iguales",
+                    "track_url": "",
+                    "duration_ms": 295373,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733476165d3f1a7ac0d8abc885",
+                    "id": 8817,
+                    "artist": "Wama"
+                },
+                {
+                    "name": "Dimelo",
+                    "track_url": "",
+                    "duration_ms": 242200,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733476165d3f1a7ac0d8abc885",
+                    "id": 8818,
+                    "artist": "Wama"
+                },
+                {
+                    "name": "Silver Rebanes",
+                    "track_url": "",
+                    "duration_ms": 238013,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733476165d3f1a7ac0d8abc885",
+                    "id": 8819,
+                    "artist": "Wama"
+                },
+                {
+                    "name": "Hagon Nuguchu",
+                    "track_url": "",
+                    "duration_ms": 266293,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733476165d3f1a7ac0d8abc885",
+                    "id": 8820,
+                    "artist": "Wama"
+                },
+                {
+                    "name": "Tornabe",
+                    "track_url": "",
+                    "duration_ms": 314306,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733476165d3f1a7ac0d8abc885",
+                    "id": 8821,
+                    "artist": "Wama"
+                },
+                {
+                    "name": "Seis Hermanas",
+                    "track_url": "",
+                    "duration_ms": 270333,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733476165d3f1a7ac0d8abc885",
+                    "id": 8822,
+                    "artist": "Wama"
+                },
+                {
+                    "name": "Tornabe II",
+                    "track_url": "",
+                    "duration_ms": 314306,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733476165d3f1a7ac0d8abc885",
+                    "id": 8823,
+                    "artist": "Wama"
+                },
+                {
+                    "name": "No Digas No",
+                    "track_url": "",
+                    "duration_ms": 241266,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733476165d3f1a7ac0d8abc885",
+                    "id": 8824,
+                    "artist": "Wama"
+                },
+                {
+                    "name": "Yo Soy el Principe",
+                    "track_url": "",
+                    "duration_ms": 192133,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733476165d3f1a7ac0d8abc885",
+                    "id": 8825,
+                    "artist": "Wama"
+                }
+            ],
+            "id": 8813
+        }
+    ],
+    "singles": [
+        {
+            "name": "Mesh Helwa Bas",
+            "release_date": "2022-07-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b27310c12a5e99821643e7641555",
+            "track_url": "",
+            "id": 8826,
+            "artist": "Wama"
+        },
+        {
+            "name": "Negma Meadeya",
+            "release_date": "2021-07-29",
+            "image": "https://i.scdn.co/image/ab67616d0000b27375fec6e23dc0fe8eb2749998",
+            "track_url": "",
+            "id": 8827,
+            "artist": "Wama"
+        },
+        {
+            "name": "Fatouma",
+            "release_date": "2019-08-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733a9a8edea691f168bb6d30bb",
+            "track_url": "",
+            "id": 8828,
+            "artist": "Wama"
+        },
+        {
+            "name": "Benetharab",
+            "release_date": "2019-08-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b02a389c530807308b37f8e2",
+            "track_url": "",
+            "id": 8829,
+            "artist": "Wama"
+        },
+        {
+            "name": "Esmaha Eh",
+            "release_date": "2019-08-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b273393abf27aba737342738ec79",
+            "track_url": "",
+            "id": 8830,
+            "artist": "Wama"
+        },
+        {
+            "name": "Bethebi Nafsek",
+            "release_date": "2019-08-17",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731f41d799c940ec0f4c851415",
+            "track_url": "",
+            "id": 8831,
+            "artist": "Wama"
+        },
+        {
+            "name": "Yalla Nor'os",
+            "release_date": "2019-08-16",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ebe9640fc351428597da3f3b",
+            "track_url": "",
+            "id": 8832,
+            "artist": "Wama"
+        },
+        {
+            "name": "Ketret Hekataty",
+            "release_date": "2019-08-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ce3bf6ef994d19488253c38e",
+            "track_url": "",
+            "id": 8833,
+            "artist": "Wama"
+        },
+        {
+            "name": "Ala Fekra",
+            "release_date": "2019-08-14",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e80cb544f2c6083b53839390",
+            "track_url": "",
+            "id": 8834,
+            "artist": "Wama"
+        },
+        {
+            "name": "Allah Al Gamal",
+            "release_date": "2019-08-13",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730772976e291df7fdbef30880",
+            "track_url": "",
+            "id": 8835,
+            "artist": "Wama"
+        },
+        {
+            "name": "Elseif Ebtada",
+            "release_date": "2019-08-06",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731eab7cf9c0aa505d12a6c62a",
+            "track_url": "",
+            "id": 8836,
+            "artist": "Wama"
+        },
+        {
+            "name": "Shams Bahr",
+            "release_date": "2019-07-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b273450724ee77edef829d7f7935",
+            "track_url": "",
+            "id": 8837,
+            "artist": "Wama"
+        },
+        {
+            "name": "Ya Ghaly Alaya",
+            "release_date": "2018-11-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b273420ba9691aa4d86817ba6460",
+            "track_url": "",
+            "id": 8838,
+            "artist": "Wama"
+        },
+        {
+            "name": "Kan Nefsi",
+            "release_date": "2013-12-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d16f345004423e851afddf9e",
+            "track_url": "",
+            "id": 8839,
+            "artist": "Wama"
+        }
+    ],
+    "popular_tracks": [
+        {
+            "name": "Tehlefly Asada",
+            "track_url": "",
+            "duration_ms": 231328,
+            "image": "https://i.scdn.co/image/ab67616d0000b273420ba9691aa4d86817ba6460",
+            "id": 8840,
+            "artist": "Wama"
+        },
+        {
+            "name": "Negma Meadeya",
+            "track_url": "",
+            "duration_ms": 202394,
+            "image": "https://i.scdn.co/image/ab67616d0000b27375fec6e23dc0fe8eb2749998",
+            "id": 8841,
+            "artist": "Wama"
+        },
+        {
+            "name": "Fatouma",
+            "track_url": "",
+            "duration_ms": 193413,
+            "image": "https://i.scdn.co/image/ab67616d0000b2736d37a7d1647f3cd17b119903",
+            "id": 8842,
+            "artist": "Wama"
+        },
+        {
+            "name": "Ya Ghaly Alaya",
+            "track_url": "",
+            "duration_ms": 211214,
+            "image": "https://i.scdn.co/image/ab67616d0000b273420ba9691aa4d86817ba6460",
+            "id": 8843,
+            "artist": "Wama"
+        },
+        {
+            "name": "Ala Fekra",
+            "track_url": "",
+            "duration_ms": 242226,
+            "image": "https://i.scdn.co/image/ab67616d0000b2736d37a7d1647f3cd17b119903",
+            "id": 8844,
+            "artist": "Wama"
+        },
+        {
+            "name": "Benetharab",
+            "track_url": "",
+            "duration_ms": 180800,
+            "image": "https://i.scdn.co/image/ab67616d0000b2736d37a7d1647f3cd17b119903",
+            "id": 8845,
+            "artist": "Wama"
+        },
+        {
+            "name": "Bethebi Nafsek",
+            "track_url": "",
+            "duration_ms": 230400,
+            "image": "https://i.scdn.co/image/ab67616d0000b2736d37a7d1647f3cd17b119903",
+            "id": 8846,
+            "artist": "Wama"
+        },
+        {
+            "name": "Rayha Gaya",
+            "track_url": "",
+            "duration_ms": 261718,
+            "image": "https://i.scdn.co/image/ab67616d0000b27311d0fb4eb9be407bc454011e",
+            "id": 8847,
+            "artist": "Wama"
+        },
+        {
+            "name": "Shams Bahr",
+            "track_url": "",
+            "duration_ms": 248840,
+            "image": "https://i.scdn.co/image/ab67616d0000b2736d37a7d1647f3cd17b119903",
+            "id": 8848,
+            "artist": "Wama"
+        },
+        {
+            "name": "Alatool Basaal Aleah",
+            "track_url": "",
+            "duration_ms": 233171,
+            "image": "https://i.scdn.co/image/ab67616d0000b27311d0fb4eb9be407bc454011e",
+            "id": 8849,
+            "artist": "Wama"
+        }
+    ]
+}

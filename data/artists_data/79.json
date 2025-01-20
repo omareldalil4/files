@@ -1,0 +1,2607 @@
+{
+    "artist": {
+        "id": "11980",
+        "name": "Warda",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb949ffbefedf6fdf8b88cbe47",
+        "background_image": "https://i.scdn.co/image/ab67616100005174949ffbefedf6fdf8b88cbe47"
+    },
+    "albums": [
+        {
+            "name": "Warda",
+            "release_date": "2022-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27319c592ce58a0920f52574fff",
+            "track_url": "https://open.spotify.com/album/4W4IrH8opuP2IwdeHl7WnQ",
+            "tracks": [
+                {
+                    "name": "Fein Ayamak",
+                    "track_url": "",
+                    "duration_ms": 427747,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27319c592ce58a0920f52574fff",
+                    "id": 11982,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Hobbak Kadar",
+                    "track_url": "",
+                    "duration_ms": 559674,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27319c592ce58a0920f52574fff",
+                    "id": 11983,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Sotak Nadany",
+                    "track_url": "",
+                    "duration_ms": 344977,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27319c592ce58a0920f52574fff",
+                    "id": 11984,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Ya Leil Hafla",
+                    "track_url": "",
+                    "duration_ms": 641729,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27319c592ce58a0920f52574fff",
+                    "id": 11985,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Halby",
+                    "track_url": "",
+                    "duration_ms": 1396889,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27319c592ce58a0920f52574fff",
+                    "id": 11986,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Sahra",
+                    "track_url": "",
+                    "duration_ms": 1396889,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27319c592ce58a0920f52574fff",
+                    "id": 11987,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Hobby",
+                    "track_url": "",
+                    "duration_ms": 1396889,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27319c592ce58a0920f52574fff",
+                    "id": 11988,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Warda",
+                    "track_url": "",
+                    "duration_ms": 1611998,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27319c592ce58a0920f52574fff",
+                    "id": 11989,
+                    "artist": "Warda"
+                }
+            ],
+            "id": 11981
+        },
+        {
+            "name": "Hakollak Hagah",
+            "release_date": "2009-07-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b273876e56502faf9949a48e4d26",
+            "track_url": "https://open.spotify.com/album/2UnpFXiXGgtzuPx05lyqkW",
+            "tracks": [
+                {
+                    "name": "Hakollak Hagah",
+                    "track_url": "",
+                    "duration_ms": 255200,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273876e56502faf9949a48e4d26",
+                    "id": 11991,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Le'bet El Ayam",
+                    "track_url": "",
+                    "duration_ms": 884640,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273876e56502faf9949a48e4d26",
+                    "id": 11992,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Ya Nakhletain",
+                    "track_url": "",
+                    "duration_ms": 657000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273876e56502faf9949a48e4d26",
+                    "id": 11993,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Roahy We Roahy",
+                    "track_url": "",
+                    "duration_ms": 334000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273876e56502faf9949a48e4d26",
+                    "id": 11994,
+                    "artist": "Warda"
+                }
+            ],
+            "id": 11990
+        },
+        {
+            "name": "Law Mehtagly Ana Leya Meen Gheirak",
+            "release_date": "2000-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738d3455e9f6d65a7a78c8b5fb",
+            "track_url": "https://open.spotify.com/album/5TbpCn6koAdTDQshNNjiVZ",
+            "tracks": [
+                {
+                    "name": "Law Mehtagly",
+                    "track_url": "",
+                    "duration_ms": 313853,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738d3455e9f6d65a7a78c8b5fb",
+                    "id": 11996,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Ana Leya Meen Gheirak",
+                    "track_url": "",
+                    "duration_ms": 369413,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738d3455e9f6d65a7a78c8b5fb",
+                    "id": 11997,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Yah Al Donya",
+                    "track_url": "",
+                    "duration_ms": 363706,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738d3455e9f6d65a7a78c8b5fb",
+                    "id": 11998,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Law Kan Alaya",
+                    "track_url": "",
+                    "duration_ms": 360866,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738d3455e9f6d65a7a78c8b5fb",
+                    "id": 11999,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Wahda B Wahda",
+                    "track_url": "",
+                    "duration_ms": 214306,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738d3455e9f6d65a7a78c8b5fb",
+                    "id": 12000,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Menak Lelah",
+                    "track_url": "",
+                    "duration_ms": 423546,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738d3455e9f6d65a7a78c8b5fb",
+                    "id": 12001,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Al Henayena",
+                    "track_url": "",
+                    "duration_ms": 272293,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738d3455e9f6d65a7a78c8b5fb",
+                    "id": 12002,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Salam El Ahbab",
+                    "track_url": "",
+                    "duration_ms": 265080,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738d3455e9f6d65a7a78c8b5fb",
+                    "id": 12003,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Yal Ahbab",
+                    "track_url": "",
+                    "duration_ms": 278226,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738d3455e9f6d65a7a78c8b5fb",
+                    "id": 12004,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Aho Da El Kalam",
+                    "track_url": "",
+                    "duration_ms": 363013,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738d3455e9f6d65a7a78c8b5fb",
+                    "id": 12005,
+                    "artist": "Warda"
+                }
+            ],
+            "id": 11995
+        },
+        {
+            "name": "Marilyn Du Moyen-Orient / La Rose Algérienne",
+            "release_date": "2000-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27312ae6cd14fac682f7fce9d3f",
+            "track_url": "https://open.spotify.com/album/6fE5zAJgvlutMAs0S2qCFZ",
+            "tracks": [
+                {
+                    "name": "Layta lel barrak",
+                    "track_url": "",
+                    "duration_ms": 347813,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27312ae6cd14fac682f7fce9d3f",
+                    "id": 12007,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Warda",
+                    "track_url": "",
+                    "duration_ms": 1611998,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27312ae6cd14fac682f7fce9d3f",
+                    "id": 12008,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Yalli hawak",
+                    "track_url": "",
+                    "duration_ms": 272226,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27312ae6cd14fac682f7fce9d3f",
+                    "id": 12009,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Warda",
+                    "track_url": "",
+                    "duration_ms": 1611998,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27312ae6cd14fac682f7fce9d3f",
+                    "id": 12010,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Ya habibi taala elhaani",
+                    "track_url": "",
+                    "duration_ms": 333720,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27312ae6cd14fac682f7fce9d3f",
+                    "id": 12011,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Warda",
+                    "track_url": "",
+                    "duration_ms": 1611998,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27312ae6cd14fac682f7fce9d3f",
+                    "id": 12012,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Farraq ma be na",
+                    "track_url": "",
+                    "duration_ms": 359640,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27312ae6cd14fac682f7fce9d3f",
+                    "id": 12013,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Hobby",
+                    "track_url": "",
+                    "duration_ms": 1396889,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27312ae6cd14fac682f7fce9d3f",
+                    "id": 12014,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Askiniha",
+                    "track_url": "",
+                    "duration_ms": 385746,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27312ae6cd14fac682f7fce9d3f",
+                    "id": 12015,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Halby",
+                    "track_url": "",
+                    "duration_ms": 1396889,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27312ae6cd14fac682f7fce9d3f",
+                    "id": 12016,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Elward",
+                    "track_url": "",
+                    "duration_ms": 369080,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27312ae6cd14fac682f7fce9d3f",
+                    "id": 12017,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Sahra",
+                    "track_url": "",
+                    "duration_ms": 1396889,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27312ae6cd14fac682f7fce9d3f",
+                    "id": 12018,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Ahwa",
+                    "track_url": "",
+                    "duration_ms": 372453,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27312ae6cd14fac682f7fce9d3f",
+                    "id": 12019,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Ya Leil Hafla",
+                    "track_url": "",
+                    "duration_ms": 641729,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27312ae6cd14fac682f7fce9d3f",
+                    "id": 12020,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Konti elamani",
+                    "track_url": "",
+                    "duration_ms": 322466,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27312ae6cd14fac682f7fce9d3f",
+                    "id": 12021,
+                    "artist": "Warda"
+                }
+            ],
+            "id": 12006
+        },
+        {
+            "name": "Ergaa Le Hayatak",
+            "release_date": "1998-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738f1f7e504d2a7e91fabd75f6",
+            "track_url": "https://open.spotify.com/album/31ipNtjFTKqKeN8qbDIpes",
+            "tracks": [
+                {
+                    "name": "Ergaa Le Hayatak",
+                    "track_url": "",
+                    "duration_ms": 443468,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738f1f7e504d2a7e91fabd75f6",
+                    "id": 12023,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Matestahelsh",
+                    "track_url": "",
+                    "duration_ms": 439916,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738f1f7e504d2a7e91fabd75f6",
+                    "id": 12024,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Hobak Wesel Madah",
+                    "track_url": "",
+                    "duration_ms": 458724,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738f1f7e504d2a7e91fabd75f6",
+                    "id": 12025,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Batwanes Beek Live Record",
+                    "track_url": "",
+                    "duration_ms": 1231452,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738f1f7e504d2a7e91fabd75f6",
+                    "id": 12026,
+                    "artist": "Warda"
+                }
+            ],
+            "id": 12022
+        },
+        {
+            "name": "Invocations, Vol. 2",
+            "release_date": "1998-06-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f987b166e739d0136eebda72",
+            "track_url": "https://open.spotify.com/album/31LoxRQdnJsgeaQmPqP9Ue",
+            "tracks": [
+                {
+                    "name": "Al Abdo Raja",
+                    "track_url": "",
+                    "duration_ms": 82024,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f987b166e739d0136eebda72",
+                    "id": 12028,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Allah 3Ala Sajdeen",
+                    "track_url": "",
+                    "duration_ms": 211017,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f987b166e739d0136eebda72",
+                    "id": 12029,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Bamdah Gamalou",
+                    "track_url": "",
+                    "duration_ms": 908016,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f987b166e739d0136eebda72",
+                    "id": 12030,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "El Layaly El Helwa",
+                    "track_url": "",
+                    "duration_ms": 460016,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f987b166e739d0136eebda72",
+                    "id": 12031,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Eyyaka Na'abodou",
+                    "track_url": "",
+                    "duration_ms": 342021,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f987b166e739d0136eebda72",
+                    "id": 12032,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Jalla Mann Razaka",
+                    "track_url": "",
+                    "duration_ms": 97018,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f987b166e739d0136eebda72",
+                    "id": 12033,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Kon Ala El Donya",
+                    "track_url": "",
+                    "duration_ms": 129018,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f987b166e739d0136eebda72",
+                    "id": 12034,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Manar Al Huda",
+                    "track_url": "",
+                    "duration_ms": 395023,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f987b166e739d0136eebda72",
+                    "id": 12035,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Rabby Sharaat El Wedad",
+                    "track_url": "",
+                    "duration_ms": 144013,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f987b166e739d0136eebda72",
+                    "id": 12036,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Rabby Kareem",
+                    "track_url": "",
+                    "duration_ms": 173008,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f987b166e739d0136eebda72",
+                    "id": 12037,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Rabby Samee'on",
+                    "track_url": "",
+                    "duration_ms": 127007,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f987b166e739d0136eebda72",
+                    "id": 12038,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Resalet Mohamad",
+                    "track_url": "",
+                    "duration_ms": 681012,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f987b166e739d0136eebda72",
+                    "id": 12039,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Ya Man Yolabby Al Nida'a",
+                    "track_url": "",
+                    "duration_ms": 175020,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f987b166e739d0136eebda72",
+                    "id": 12040,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Ya Rab Kadder Najati",
+                    "track_url": "",
+                    "duration_ms": 123010,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f987b166e739d0136eebda72",
+                    "id": 12041,
+                    "artist": "Warda"
+                }
+            ],
+            "id": 12027
+        },
+        {
+            "name": "Bahr El Hob",
+            "release_date": "1997-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b208292b68ad2272a380baa6",
+            "track_url": "https://open.spotify.com/album/4cSXSK7bXA7xGiv6sXi5Pd",
+            "tracks": [
+                {
+                    "name": "Bahr El Hawa",
+                    "track_url": "",
+                    "duration_ms": 425012,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b208292b68ad2272a380baa6",
+                    "id": 12043,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Webtsafer",
+                    "track_url": "",
+                    "duration_ms": 574955,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b208292b68ad2272a380baa6",
+                    "id": 12044,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Shams El Kharif",
+                    "track_url": "",
+                    "duration_ms": 399856,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b208292b68ad2272a380baa6",
+                    "id": 12045,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Metgharaba",
+                    "track_url": "",
+                    "duration_ms": 928000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b208292b68ad2272a380baa6",
+                    "id": 12046,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Bahr El Hawa - Instrumental",
+                    "track_url": "",
+                    "duration_ms": 317022,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b208292b68ad2272a380baa6",
+                    "id": 12047,
+                    "artist": "Warda"
+                }
+            ],
+            "id": 12042
+        },
+        {
+            "name": "Mawasem",
+            "release_date": "1996-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b27356214d8e77d2225859ca7fb8",
+            "track_url": "https://open.spotify.com/album/006PAVNX2tPj87B09clQmj",
+            "tracks": [
+                {
+                    "name": "Mawasem",
+                    "track_url": "",
+                    "duration_ms": 361810,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27356214d8e77d2225859ca7fb8",
+                    "id": 12049,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Alah Yegazeek",
+                    "track_url": "",
+                    "duration_ms": 430355,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27356214d8e77d2225859ca7fb8",
+                    "id": 12050,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Gawabati",
+                    "track_url": "",
+                    "duration_ms": 527870,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27356214d8e77d2225859ca7fb8",
+                    "id": 12051,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Awsefak",
+                    "track_url": "",
+                    "duration_ms": 422179,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27356214d8e77d2225859ca7fb8",
+                    "id": 12052,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Entahena",
+                    "track_url": "",
+                    "duration_ms": 609581,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27356214d8e77d2225859ca7fb8",
+                    "id": 12053,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Men Radak Redo",
+                    "track_url": "",
+                    "duration_ms": 313117,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27356214d8e77d2225859ca7fb8",
+                    "id": 12054,
+                    "artist": "Warda"
+                }
+            ],
+            "id": 12048
+        },
+        {
+            "name": "Ha Asaharak",
+            "release_date": "1996-12-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27343c24c6ac9f70edfb0ae09b0",
+            "track_url": "https://open.spotify.com/album/5fGMwHAJgSrjfnhIGz47Wu",
+            "tracks": [
+                {
+                    "name": "Galak Youm",
+                    "track_url": "",
+                    "duration_ms": 378173,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27343c24c6ac9f70edfb0ae09b0",
+                    "id": 12056,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Ana Mesh Hena",
+                    "track_url": "",
+                    "duration_ms": 326453,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27343c24c6ac9f70edfb0ae09b0",
+                    "id": 12057,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Kheles El Kalam",
+                    "track_url": "",
+                    "duration_ms": 274560,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27343c24c6ac9f70edfb0ae09b0",
+                    "id": 12058,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Law Gai Teheb",
+                    "track_url": "",
+                    "duration_ms": 317280,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27343c24c6ac9f70edfb0ae09b0",
+                    "id": 12059,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Awel Ma Nesetak",
+                    "track_url": "",
+                    "duration_ms": 392706,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27343c24c6ac9f70edfb0ae09b0",
+                    "id": 12060,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Kalam Fel Hawa",
+                    "track_url": "",
+                    "duration_ms": 320440,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27343c24c6ac9f70edfb0ae09b0",
+                    "id": 12061,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Ha Asaharak",
+                    "track_url": "",
+                    "duration_ms": 330426,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27343c24c6ac9f70edfb0ae09b0",
+                    "id": 12062,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Egrahni",
+                    "track_url": "",
+                    "duration_ms": 251333,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27343c24c6ac9f70edfb0ae09b0",
+                    "id": 12063,
+                    "artist": "Warda"
+                }
+            ],
+            "id": 12055
+        },
+        {
+            "name": "Warda Sings Abou Baker Salem",
+            "release_date": "1996-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736eb4fbebc00dc914651ed4fa",
+            "track_url": "https://open.spotify.com/album/2l80IAYoOuJdzyk35XTS2f",
+            "tracks": [
+                {
+                    "name": "Khelly Asar Qalby",
+                    "track_url": "",
+                    "duration_ms": 467687,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736eb4fbebc00dc914651ed4fa",
+                    "id": 12065,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Ya Rad Ya Awwad",
+                    "track_url": "",
+                    "duration_ms": 378911,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736eb4fbebc00dc914651ed4fa",
+                    "id": 12066,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Ya Mrawah Beladak",
+                    "track_url": "",
+                    "duration_ms": 520511,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736eb4fbebc00dc914651ed4fa",
+                    "id": 12067,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Sibouh",
+                    "track_url": "",
+                    "duration_ms": 1141847,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736eb4fbebc00dc914651ed4fa",
+                    "id": 12068,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Khelly Asar Qalby",
+                    "track_url": "",
+                    "duration_ms": 202007,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736eb4fbebc00dc914651ed4fa",
+                    "id": 12069,
+                    "artist": "Warda"
+                }
+            ],
+            "id": 12064
+        },
+        {
+            "name": "Fein Ayamak Hobbak Adar",
+            "release_date": "1995-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b27342862c8fa7002c970bee1fb9",
+            "track_url": "https://open.spotify.com/album/51UKQP5iwaLlq7dXP4ZZr7",
+            "tracks": [
+                {
+                    "name": "Fein Ayamak",
+                    "track_url": "",
+                    "duration_ms": 433620,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27342862c8fa7002c970bee1fb9",
+                    "id": 12071,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Hobbak kadar",
+                    "track_url": "",
+                    "duration_ms": 565460,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27342862c8fa7002c970bee1fb9",
+                    "id": 12072,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Sotak Nadany",
+                    "track_url": "",
+                    "duration_ms": 351413,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27342862c8fa7002c970bee1fb9",
+                    "id": 12073,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Ya Leil Live Record",
+                    "track_url": "",
+                    "duration_ms": 645003,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27342862c8fa7002c970bee1fb9",
+                    "id": 12074,
+                    "artist": "Warda"
+                }
+            ],
+            "id": 12070
+        },
+        {
+            "name": "Au Palais des Congrès de Paris (Live)",
+            "release_date": "1995-09-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a4813115185655a4c702b1ab",
+            "track_url": "https://open.spotify.com/album/7tEVjnykq6qNvRSPDDdFlk",
+            "tracks": [
+                {
+                    "name": "Batwanes Bik - Live",
+                    "track_url": "",
+                    "duration_ms": 1190000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a4813115185655a4c702b1ab",
+                    "id": 12076,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Nar el Ghira - Live",
+                    "track_url": "",
+                    "duration_ms": 524945,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a4813115185655a4c702b1ab",
+                    "id": 12077,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Akdeb alik - Live",
+                    "track_url": "",
+                    "duration_ms": 204000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a4813115185655a4c702b1ab",
+                    "id": 12078,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Ya lil - Live",
+                    "track_url": "",
+                    "duration_ms": 470835,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a4813115185655a4c702b1ab",
+                    "id": 12079,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Fi youm wa lila - Live",
+                    "track_url": "",
+                    "duration_ms": 604000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a4813115185655a4c702b1ab",
+                    "id": 12080,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Mellit min el ghorba - Live",
+                    "track_url": "",
+                    "duration_ms": 458906,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a4813115185655a4c702b1ab",
+                    "id": 12081,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Fais comme l'oiseau - Live",
+                    "track_url": "",
+                    "duration_ms": 376000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a4813115185655a4c702b1ab",
+                    "id": 12082,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Harramt ahebak - Live",
+                    "track_url": "",
+                    "duration_ms": 676000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a4813115185655a4c702b1ab",
+                    "id": 12083,
+                    "artist": "Warda"
+                }
+            ],
+            "id": 12075
+        },
+        {
+            "name": "Dandana (Live)",
+            "release_date": "1995-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c76f93f0d608ad9eaebc8519",
+            "track_url": "https://open.spotify.com/album/1gdYPlAOwOP3Ce5KMQtutK",
+            "tracks": [
+                {
+                    "name": "Dandana - Live",
+                    "track_url": "",
+                    "duration_ms": 1747304,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c76f93f0d608ad9eaebc8519",
+                    "id": 12085,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Esmaouny - Live",
+                    "track_url": "",
+                    "duration_ms": 1748715,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c76f93f0d608ad9eaebc8519",
+                    "id": 12086,
+                    "artist": "Warda"
+                }
+            ],
+            "id": 12084
+        },
+        {
+            "name": "Rabea El Omr",
+            "release_date": "1994-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d50a50f4cac325896031fea3",
+            "track_url": "https://open.spotify.com/album/12yudDmhDwD8mIyxvxdveN",
+            "tracks": [
+                {
+                    "name": "Rabeaa El Omr",
+                    "track_url": "",
+                    "duration_ms": 914352,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d50a50f4cac325896031fea3",
+                    "id": 12088,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "El Mantek El Makloob",
+                    "track_url": "",
+                    "duration_ms": 907194,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d50a50f4cac325896031fea3",
+                    "id": 12089,
+                    "artist": "Warda"
+                }
+            ],
+            "id": 12087
+        },
+        {
+            "name": "Nar El Gheira",
+            "release_date": "1993-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e44f17a8ef085b7bcc8ef28d",
+            "track_url": "https://open.spotify.com/album/2R0dO5cPcx5HF6inllnTIL",
+            "tracks": [
+                {
+                    "name": "Nar El Ghera",
+                    "track_url": "",
+                    "duration_ms": 387566,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e44f17a8ef085b7bcc8ef28d",
+                    "id": 12091,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Ya Sidi",
+                    "track_url": "",
+                    "duration_ms": 482156,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e44f17a8ef085b7bcc8ef28d",
+                    "id": 12092,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Fark El Seneen",
+                    "track_url": "",
+                    "duration_ms": 473744,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e44f17a8ef085b7bcc8ef28d",
+                    "id": 12093,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Hobak Salehne",
+                    "track_url": "",
+                    "duration_ms": 911974,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e44f17a8ef085b7bcc8ef28d",
+                    "id": 12094,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Zarny Fe El Doha",
+                    "track_url": "",
+                    "duration_ms": 419148,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e44f17a8ef085b7bcc8ef28d",
+                    "id": 12095,
+                    "artist": "Warda"
+                }
+            ],
+            "id": 12090
+        },
+        {
+            "name": "Khaleek Maaya",
+            "release_date": "1993-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735eda6507f6637d887df55e04",
+            "track_url": "https://open.spotify.com/album/12Zk7CBSBmjL4tGEpQpupr",
+            "tracks": [
+                {
+                    "name": "Nesma We Shat",
+                    "track_url": "",
+                    "duration_ms": 370247,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735eda6507f6637d887df55e04",
+                    "id": 12097,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Mena ya Mena",
+                    "track_url": "",
+                    "duration_ms": 279289,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735eda6507f6637d887df55e04",
+                    "id": 12098,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Yah Ala Taem El Hayah",
+                    "track_url": "",
+                    "duration_ms": 442789,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735eda6507f6637d887df55e04",
+                    "id": 12099,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Ya Tareek",
+                    "track_url": "",
+                    "duration_ms": 286159,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735eda6507f6637d887df55e04",
+                    "id": 12100,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Kharetet Masr",
+                    "track_url": "",
+                    "duration_ms": 288066,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735eda6507f6637d887df55e04",
+                    "id": 12101,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Khaleek Maaya",
+                    "track_url": "",
+                    "duration_ms": 601535,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735eda6507f6637d887df55e04",
+                    "id": 12102,
+                    "artist": "Warda"
+                }
+            ],
+            "id": 12096
+        },
+        {
+            "name": "Warda Al Djazairia, Vol. 3",
+            "release_date": "1993-03-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739ecd68c3995abc344fea4c20",
+            "track_url": "https://open.spotify.com/album/1S2x4X1W9qJ4ESEbmdzKN1",
+            "tracks": [
+                {
+                    "name": "Min Baïd",
+                    "track_url": "",
+                    "duration_ms": 1774666,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739ecd68c3995abc344fea4c20",
+                    "id": 12104,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Esal Doumou Aïneya",
+                    "track_url": "",
+                    "duration_ms": 763133,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739ecd68c3995abc344fea4c20",
+                    "id": 12105,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Laabet Elayam",
+                    "track_url": "",
+                    "duration_ms": 1064200,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739ecd68c3995abc344fea4c20",
+                    "id": 12106,
+                    "artist": "Warda"
+                }
+            ],
+            "id": 12103
+        },
+        {
+            "name": "Haramt Ahebak",
+            "release_date": "1992-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735337e28a7fe8cb8b66d88667",
+            "track_url": "https://open.spotify.com/album/47QmEHiw3P8huVwZ0jHeUo",
+            "tracks": [
+                {
+                    "name": "Haramt Ahebak",
+                    "track_url": "",
+                    "duration_ms": 476487,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735337e28a7fe8cb8b66d88667",
+                    "id": 12108,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Ana Arfa",
+                    "track_url": "",
+                    "duration_ms": 382499,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735337e28a7fe8cb8b66d88667",
+                    "id": 12109,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Ehna Ely Eilom Alina",
+                    "track_url": "",
+                    "duration_ms": 498169,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735337e28a7fe8cb8b66d88667",
+                    "id": 12110,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Ya Leil",
+                    "track_url": "",
+                    "duration_ms": 743197,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735337e28a7fe8cb8b66d88667",
+                    "id": 12111,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Mehtagalak",
+                    "track_url": "",
+                    "duration_ms": 417999,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735337e28a7fe8cb8b66d88667",
+                    "id": 12112,
+                    "artist": "Warda"
+                }
+            ],
+            "id": 12107
+        },
+        {
+            "name": "Batwanes Beek",
+            "release_date": "1991-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a1582c880c8937fe2e168652",
+            "track_url": "https://open.spotify.com/album/3w6wliAjhJS16hZyimZpT7",
+            "tracks": [
+                {
+                    "name": "Batwanes Beek",
+                    "track_url": "",
+                    "duration_ms": 804402,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a1582c880c8937fe2e168652",
+                    "id": 12114,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Benkhaf M Elaayen",
+                    "track_url": "",
+                    "duration_ms": 427586,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a1582c880c8937fe2e168652",
+                    "id": 12115,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Ya Khsara",
+                    "track_url": "",
+                    "duration_ms": 496523,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a1582c880c8937fe2e168652",
+                    "id": 12116,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Malet Men Elghorba",
+                    "track_url": "",
+                    "duration_ms": 717362,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a1582c880c8937fe2e168652",
+                    "id": 12117,
+                    "artist": "Warda"
+                }
+            ],
+            "id": 12113
+        },
+        {
+            "name": "Kya El Galbi",
+            "release_date": "1990-07-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273896904bed3b7734b84c0c3c0",
+            "track_url": "https://open.spotify.com/album/3YNa9oj4kobwUGpljuwbgE",
+            "tracks": [
+                {
+                    "name": "Kya El Galbi",
+                    "track_url": "",
+                    "duration_ms": 265926,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273896904bed3b7734b84c0c3c0",
+                    "id": 12119,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Ila Bghate",
+                    "track_url": "",
+                    "duration_ms": 330948,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273896904bed3b7734b84c0c3c0",
+                    "id": 12120,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "He He He",
+                    "track_url": "",
+                    "duration_ms": 375055,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273896904bed3b7734b84c0c3c0",
+                    "id": 12121,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Ha Rayi Ha Lala",
+                    "track_url": "",
+                    "duration_ms": 374232,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273896904bed3b7734b84c0c3c0",
+                    "id": 12122,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Kiyti Ma Nebrachi",
+                    "track_url": "",
+                    "duration_ms": 291049,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273896904bed3b7734b84c0c3c0",
+                    "id": 12123,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Majach Bekri",
+                    "track_url": "",
+                    "duration_ms": 291270,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273896904bed3b7734b84c0c3c0",
+                    "id": 12124,
+                    "artist": "Warda"
+                }
+            ],
+            "id": 12118
+        },
+        {
+            "name": "Mataawednash",
+            "release_date": "1989-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273873b1542aa1d3290c8786b43",
+            "track_url": "https://open.spotify.com/album/7HItowo1apHhBjRInPjbUt",
+            "tracks": [
+                {
+                    "name": "Mataawednash",
+                    "track_url": "",
+                    "duration_ms": 1182368,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273873b1542aa1d3290c8786b43",
+                    "id": 12126,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Walah We Eder El Hob",
+                    "track_url": "",
+                    "duration_ms": 1149976,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273873b1542aa1d3290c8786b43",
+                    "id": 12127,
+                    "artist": "Warda"
+                }
+            ],
+            "id": 12125
+        },
+        {
+            "name": "Ehdono El Ayam Live",
+            "release_date": "1989-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732a2a774d8a0d742b651d39a7",
+            "track_url": "https://open.spotify.com/album/7H0bMnEdLVqwGNjyFOAO7M",
+            "tracks": [
+                {
+                    "name": "Ehdounoul Ayam Live",
+                    "track_url": "",
+                    "duration_ms": 2913738,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732a2a774d8a0d742b651d39a7",
+                    "id": 12129,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Aiza Aheb Live",
+                    "track_url": "",
+                    "duration_ms": 799413,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732a2a774d8a0d742b651d39a7",
+                    "id": 12130,
+                    "artist": "Warda"
+                }
+            ],
+            "id": 12128
+        },
+        {
+            "name": "Tabaan Ahbab",
+            "release_date": "1988-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b27341a626fd02badb12c1e9eb06",
+            "track_url": "https://open.spotify.com/album/6bfX0oLQDHDC5ruyiEv0CV",
+            "tracks": [
+                {
+                    "name": "Tabaan Ahbab",
+                    "track_url": "",
+                    "duration_ms": 1356579,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27341a626fd02badb12c1e9eb06",
+                    "id": 12132,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Mewashah Ya Leil Tol",
+                    "track_url": "",
+                    "duration_ms": 1280275,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27341a626fd02badb12c1e9eb06",
+                    "id": 12133,
+                    "artist": "Warda"
+                }
+            ],
+            "id": 12131
+        },
+        {
+            "name": "Makhtarnash Wala Fe El amsal",
+            "release_date": "1988-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738ace2b981a092ea652096fa6",
+            "track_url": "https://open.spotify.com/album/6xpsNDkgeWcVvKTkVsAuTN",
+            "tracks": [
+                {
+                    "name": "Makhtarnash",
+                    "track_url": "",
+                    "duration_ms": 1185790,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738ace2b981a092ea652096fa6",
+                    "id": 12135,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Wala Fe El Amsal",
+                    "track_url": "",
+                    "duration_ms": 1144255,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738ace2b981a092ea652096fa6",
+                    "id": 12136,
+                    "artist": "Warda"
+                }
+            ],
+            "id": 12134
+        },
+        {
+            "name": "Aayza Moujizah Live",
+            "release_date": "1988-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b0a88044cce843bcf887030e",
+            "track_url": "https://open.spotify.com/album/7Da1CrSFV5oDTQNpH80mFE",
+            "tracks": [
+                {
+                    "name": "Aayza Moujizah Live",
+                    "track_url": "",
+                    "duration_ms": 3090770,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b0a88044cce843bcf887030e",
+                    "id": 12138,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Dar Ya Dar",
+                    "track_url": "",
+                    "duration_ms": 828905,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b0a88044cce843bcf887030e",
+                    "id": 12139,
+                    "artist": "Warda"
+                }
+            ],
+            "id": 12137
+        },
+        {
+            "name": "Warda P2",
+            "release_date": "1988-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737868f7b964f5925bf6d8789f",
+            "track_url": "https://open.spotify.com/album/6iG2yz6UX6fURVZKbKUFgf",
+            "tracks": [
+                {
+                    "name": "Ma Endakch Fekrah Live",
+                    "track_url": "",
+                    "duration_ms": 3078335,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737868f7b964f5925bf6d8789f",
+                    "id": 12141,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Badoub Fel Hawa",
+                    "track_url": "",
+                    "duration_ms": 840895,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737868f7b964f5925bf6d8789f",
+                    "id": 12142,
+                    "artist": "Warda"
+                }
+            ],
+            "id": 12140
+        },
+        {
+            "name": "Safar",
+            "release_date": "1985-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273cba683d129af9cb9b84f657b",
+            "track_url": "https://open.spotify.com/album/0Z4lndjCFhpam1SJ3M4spj",
+            "tracks": [
+                {
+                    "name": "Safar Live Record",
+                    "track_url": "",
+                    "duration_ms": 1215439,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cba683d129af9cb9b84f657b",
+                    "id": 12144,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Alo Fe El Amsal Live Record",
+                    "track_url": "",
+                    "duration_ms": 1192686,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cba683d129af9cb9b84f657b",
+                    "id": 12145,
+                    "artist": "Warda"
+                }
+            ],
+            "id": 12143
+        },
+        {
+            "name": "El Omr Bada",
+            "release_date": "1984-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737980d1aea45c081f1f9e8d82",
+            "track_url": "https://open.spotify.com/album/1D1Yuxow26oq5lQpLgZPMX",
+            "tracks": [
+                {
+                    "name": "El Omr Bada",
+                    "track_url": "",
+                    "duration_ms": 990943,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737980d1aea45c081f1f9e8d82",
+                    "id": 12147,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Ayoha El Ensan",
+                    "track_url": "",
+                    "duration_ms": 1005414,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737980d1aea45c081f1f9e8d82",
+                    "id": 12148,
+                    "artist": "Warda"
+                }
+            ],
+            "id": 12146
+        },
+        {
+            "name": "Ahlan Ya Hob",
+            "release_date": "1983-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ccf0c3ffd9f5308b8dbe1a89",
+            "track_url": "https://open.spotify.com/album/7n4RUSjgGGeI8fG7xhZ7lv",
+            "tracks": [
+                {
+                    "name": "Ahlan Ya Hob",
+                    "track_url": "",
+                    "duration_ms": 1330770,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ccf0c3ffd9f5308b8dbe1a89",
+                    "id": 12150,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Nawy Aal Beaad",
+                    "track_url": "",
+                    "duration_ms": 319256,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ccf0c3ffd9f5308b8dbe1a89",
+                    "id": 12151,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "El Helm",
+                    "track_url": "",
+                    "duration_ms": 764487,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ccf0c3ffd9f5308b8dbe1a89",
+                    "id": 12152,
+                    "artist": "Warda"
+                }
+            ],
+            "id": 12149
+        },
+        {
+            "name": "Tasabeeh",
+            "release_date": "1982-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738b4eab8ee06234759ad04dae",
+            "track_url": "https://open.spotify.com/album/4HFawZfYlnMLpgdLKZrVmX",
+            "tracks": [
+                {
+                    "name": "Sobhan Alah Qader We Afwak",
+                    "track_url": "",
+                    "duration_ms": 280308,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738b4eab8ee06234759ad04dae",
+                    "id": 12154,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Ya Rab Wenta El Aziem",
+                    "track_url": "",
+                    "duration_ms": 213330,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738b4eab8ee06234759ad04dae",
+                    "id": 12155,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Meaasem El Rezq",
+                    "track_url": "",
+                    "duration_ms": 103014,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738b4eab8ee06234759ad04dae",
+                    "id": 12156,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Ala Kol Madna Helal",
+                    "track_url": "",
+                    "duration_ms": 164089,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738b4eab8ee06234759ad04dae",
+                    "id": 12157,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Tarnemet El Karawan",
+                    "track_url": "",
+                    "duration_ms": 168138,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738b4eab8ee06234759ad04dae",
+                    "id": 12158,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Aadeit Behar Ghorbty",
+                    "track_url": "",
+                    "duration_ms": 90659,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738b4eab8ee06234759ad04dae",
+                    "id": 12159,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Taala Allah",
+                    "track_url": "",
+                    "duration_ms": 134335,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738b4eab8ee06234759ad04dae",
+                    "id": 12160,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "El Leil Ala El Ard Saged",
+                    "track_url": "",
+                    "duration_ms": 143583,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738b4eab8ee06234759ad04dae",
+                    "id": 12161,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Sobhanak Allah Anta El Bedaya",
+                    "track_url": "",
+                    "duration_ms": 136164,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738b4eab8ee06234759ad04dae",
+                    "id": 12162,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Sobhan Allah Shayfak Be Kol El Gawareh",
+                    "track_url": "",
+                    "duration_ms": 165943,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738b4eab8ee06234759ad04dae",
+                    "id": 12163,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Sobhanak Allah Khalaqt Adam",
+                    "track_url": "",
+                    "duration_ms": 182636,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738b4eab8ee06234759ad04dae",
+                    "id": 12164,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Nadeet Aleik Fe Hamsety",
+                    "track_url": "",
+                    "duration_ms": 104503,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738b4eab8ee06234759ad04dae",
+                    "id": 12165,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Sagado El Malayka",
+                    "track_url": "",
+                    "duration_ms": 129450,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738b4eab8ee06234759ad04dae",
+                    "id": 12166,
+                    "artist": "Warda"
+                }
+            ],
+            "id": 12153
+        },
+        {
+            "name": "Aghany Film Sout El Hob",
+            "release_date": "1981-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b27398ff72f804c93f905fafe2dd",
+            "track_url": "https://open.spotify.com/album/6Lz9F8KhLcEJiH2xS0qJLI",
+            "tracks": [
+                {
+                    "name": "Eshterouny",
+                    "track_url": "",
+                    "duration_ms": 406333,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27398ff72f804c93f905fafe2dd",
+                    "id": 12168,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Tab Wana Maly",
+                    "track_url": "",
+                    "duration_ms": 394186,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27398ff72f804c93f905fafe2dd",
+                    "id": 12169,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "El Mowashah",
+                    "track_url": "",
+                    "duration_ms": 330560,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27398ff72f804c93f905fafe2dd",
+                    "id": 12170,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Mostaheel",
+                    "track_url": "",
+                    "duration_ms": 626453,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27398ff72f804c93f905fafe2dd",
+                    "id": 12171,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Rahhala",
+                    "track_url": "",
+                    "duration_ms": 411066,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27398ff72f804c93f905fafe2dd",
+                    "id": 12172,
+                    "artist": "Warda"
+                }
+            ],
+            "id": 12167
+        },
+        {
+            "name": "Aghany Film Hekayti Maa El Zaman",
+            "release_date": "1981-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736dfa3eec923689f37288a84d",
+            "track_url": "https://open.spotify.com/album/0xvi3kSMosBBjFoupocv4M",
+            "tracks": [
+                {
+                    "name": "Lola El Malama",
+                    "track_url": "",
+                    "duration_ms": 626360,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736dfa3eec923689f37288a84d",
+                    "id": 12174,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Bokra Ya Habiby",
+                    "track_url": "",
+                    "duration_ms": 528733,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736dfa3eec923689f37288a84d",
+                    "id": 12175,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Wahashtony",
+                    "track_url": "",
+                    "duration_ms": 493746,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736dfa3eec923689f37288a84d",
+                    "id": 12176,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Hekayti Maa El Zaman",
+                    "track_url": "",
+                    "duration_ms": 657346,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736dfa3eec923689f37288a84d",
+                    "id": 12177,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "El Mowashah",
+                    "track_url": "",
+                    "duration_ms": 330560,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736dfa3eec923689f37288a84d",
+                    "id": 12178,
+                    "artist": "Warda"
+                }
+            ],
+            "id": 12173
+        },
+        {
+            "name": "Warda P1",
+            "release_date": "1979-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733a2e0c568031e549bde5843e",
+            "track_url": "https://open.spotify.com/album/49F7g5A4y6GTyYPOhTFPA7",
+            "tracks": [
+                {
+                    "name": "Ya Habibi La Takol Li",
+                    "track_url": "",
+                    "duration_ms": 1959876,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733a2e0c568031e549bde5843e",
+                    "id": 12180,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Ale Eih Beyessalouni",
+                    "track_url": "",
+                    "duration_ms": 1741205,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733a2e0c568031e549bde5843e",
+                    "id": 12181,
+                    "artist": "Warda"
+                }
+            ],
+            "id": 12179
+        },
+        {
+            "name": "Warda P4",
+            "release_date": "1978-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731d932144d90242e384d8902d",
+            "track_url": "https://open.spotify.com/album/1NtkAJW4EtZVncYnsRs6lQ",
+            "tracks": [
+                {
+                    "name": "Law Enak Biid Anni Live",
+                    "track_url": "",
+                    "duration_ms": 2797075,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731d932144d90242e384d8902d",
+                    "id": 12183,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Magader",
+                    "track_url": "",
+                    "duration_ms": 540095,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731d932144d90242e384d8902d",
+                    "id": 12184,
+                    "artist": "Warda"
+                }
+            ],
+            "id": 12182
+        },
+        {
+            "name": "Kelmet Itab Live",
+            "release_date": "1977-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273175c5c13e7b725d3400b97cf",
+            "track_url": "https://open.spotify.com/album/4f3lnhC6Ne8iH0Xe2qt3l5",
+            "tracks": [
+                {
+                    "name": "Kelmet Itab Live",
+                    "track_url": "",
+                    "duration_ms": 2184373,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273175c5c13e7b725d3400b97cf",
+                    "id": 12186,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "We Maly Bas",
+                    "track_url": "",
+                    "duration_ms": 872477,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273175c5c13e7b725d3400b97cf",
+                    "id": 12187,
+                    "artist": "Warda"
+                }
+            ],
+            "id": 12185
+        },
+        {
+            "name": "Awraq El Ward",
+            "release_date": "1977-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273799ab7c03803b9a3aa97c92c",
+            "track_url": "https://open.spotify.com/album/3i4SzIZ68DibowUREszBvn",
+            "tracks": [
+                {
+                    "name": "Awraq El Ward",
+                    "track_url": "",
+                    "duration_ms": 168451,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273799ab7c03803b9a3aa97c92c",
+                    "id": 12189,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Eid El Om",
+                    "track_url": "",
+                    "duration_ms": 264399,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273799ab7c03803b9a3aa97c92c",
+                    "id": 12190,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Bosa Ala El Khad",
+                    "track_url": "",
+                    "duration_ms": 634319,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273799ab7c03803b9a3aa97c92c",
+                    "id": 12191,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "El Baghbaghan",
+                    "track_url": "",
+                    "duration_ms": 227958,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273799ab7c03803b9a3aa97c92c",
+                    "id": 12192,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Ah Yany Men El Hana",
+                    "track_url": "",
+                    "duration_ms": 235377,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273799ab7c03803b9a3aa97c92c",
+                    "id": 12193,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Yana Ya Hayrana",
+                    "track_url": "",
+                    "duration_ms": 220043,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273799ab7c03803b9a3aa97c92c",
+                    "id": 12194,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Agayeb",
+                    "track_url": "",
+                    "duration_ms": 287596,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273799ab7c03803b9a3aa97c92c",
+                    "id": 12195,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Salamtak Ya Hoby",
+                    "track_url": "",
+                    "duration_ms": 200895,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273799ab7c03803b9a3aa97c92c",
+                    "id": 12196,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Ah Law Abeltak Men Zaman",
+                    "track_url": "",
+                    "duration_ms": 275945,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273799ab7c03803b9a3aa97c92c",
+                    "id": 12197,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Taeesh We Teftekerny",
+                    "track_url": "",
+                    "duration_ms": 228428,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273799ab7c03803b9a3aa97c92c",
+                    "id": 12198,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Maaoul Aheb Tany",
+                    "track_url": "",
+                    "duration_ms": 258025,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273799ab7c03803b9a3aa97c92c",
+                    "id": 12199,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Ala Shat Bahrena",
+                    "track_url": "",
+                    "duration_ms": 158995,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273799ab7c03803b9a3aa97c92c",
+                    "id": 12200,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Baateb Aleik Ya Zaman",
+                    "track_url": "",
+                    "duration_ms": 316696,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273799ab7c03803b9a3aa97c92c",
+                    "id": 12201,
+                    "artist": "Warda"
+                }
+            ],
+            "id": 12188
+        },
+        {
+            "name": "Ah Ya Leil Ya Zaman, Vol. 1 (From \"Ah Ya Leil Ya Zaman\")",
+            "release_date": "1977-12-12",
+            "image": "https://i.scdn.co/image/ab67616d0000b27365d5020b72adad3f454b864a",
+            "track_url": "https://open.spotify.com/album/4d8tYb7xGcoCvnChVNwpOU",
+            "tracks": [
+                {
+                    "name": "Haneen",
+                    "track_url": "",
+                    "duration_ms": 729186,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27365d5020b72adad3f454b864a",
+                    "id": 12203,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Paris",
+                    "track_url": "",
+                    "duration_ms": 223346,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27365d5020b72adad3f454b864a",
+                    "id": 12204,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "El Shemoua",
+                    "track_url": "",
+                    "duration_ms": 429708,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27365d5020b72adad3f454b864a",
+                    "id": 12205,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Leil Ya Laialy",
+                    "track_url": "",
+                    "duration_ms": 625066,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27365d5020b72adad3f454b864a",
+                    "id": 12206,
+                    "artist": "Warda"
+                }
+            ],
+            "id": 12202
+        },
+        {
+            "name": "Ah Ya Leil Ya Zaman",
+            "release_date": "1977-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27364140dacbf0ad9a9ad391985",
+            "track_url": "https://open.spotify.com/album/5nzAkOy7BEsZRBww1smiiv",
+            "tracks": [
+                {
+                    "name": "Messa El Nour We El Hana",
+                    "track_url": "",
+                    "duration_ms": 299232,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27364140dacbf0ad9a9ad391985",
+                    "id": 12208,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Leil Ya Laialy",
+                    "track_url": "",
+                    "duration_ms": 625066,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27364140dacbf0ad9a9ad391985",
+                    "id": 12209,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Laialeena",
+                    "track_url": "",
+                    "duration_ms": 641880,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27364140dacbf0ad9a9ad391985",
+                    "id": 12210,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Haneen",
+                    "track_url": "",
+                    "duration_ms": 729186,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27364140dacbf0ad9a9ad391985",
+                    "id": 12211,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "El Shemoua",
+                    "track_url": "",
+                    "duration_ms": 428960,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27364140dacbf0ad9a9ad391985",
+                    "id": 12212,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Paris",
+                    "track_url": "",
+                    "duration_ms": 223346,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27364140dacbf0ad9a9ad391985",
+                    "id": 12213,
+                    "artist": "Warda"
+                }
+            ],
+            "id": 12207
+        },
+        {
+            "name": "Warda P3",
+            "release_date": "1976-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e789d4db740b368c8fa53191",
+            "track_url": "https://open.spotify.com/album/4fBQO2KXsJK9kiMkyYY3Jt",
+            "tracks": [
+                {
+                    "name": "Awa'aty Betehlaw Live Record",
+                    "track_url": "",
+                    "duration_ms": 3012820,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e789d4db740b368c8fa53191",
+                    "id": 12215,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Ahbabna Ya Eyn",
+                    "track_url": "",
+                    "duration_ms": 637819,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e789d4db740b368c8fa53191",
+                    "id": 12216,
+                    "artist": "Warda"
+                }
+            ],
+            "id": 12214
+        },
+        {
+            "name": "El Eyoun El Soud",
+            "release_date": "1974-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c6038da0c83a2e4f6a260a8b",
+            "track_url": "https://open.spotify.com/album/0tHwQaB3yiRXVFAkU4d2VX",
+            "tracks": [
+                {
+                    "name": "El Eyoun El Soud Live Record",
+                    "track_url": "",
+                    "duration_ms": 1821893,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c6038da0c83a2e4f6a260a8b",
+                    "id": 12218,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Walla Zaman",
+                    "track_url": "",
+                    "duration_ms": 464506,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c6038da0c83a2e4f6a260a8b",
+                    "id": 12219,
+                    "artist": "Warda"
+                }
+            ],
+            "id": 12217
+        },
+        {
+            "name": "El Tamr Henna",
+            "release_date": "1974-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d9b3e0ed82a8fbaf82b2d8dc",
+            "track_url": "https://open.spotify.com/album/5eIW5kZTPWe6PBB3gTTMbu",
+            "tracks": [
+                {
+                    "name": "Music",
+                    "track_url": "",
+                    "duration_ms": 175186,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d9b3e0ed82a8fbaf82b2d8dc",
+                    "id": 12221,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "El Nas El Helween",
+                    "track_url": "",
+                    "duration_ms": 293413,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d9b3e0ed82a8fbaf82b2d8dc",
+                    "id": 12222,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Helmet",
+                    "track_url": "",
+                    "duration_ms": 90960,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d9b3e0ed82a8fbaf82b2d8dc",
+                    "id": 12223,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Zamaan",
+                    "track_url": "",
+                    "duration_ms": 181213,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d9b3e0ed82a8fbaf82b2d8dc",
+                    "id": 12224,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Laly Ya Laialy",
+                    "track_url": "",
+                    "duration_ms": 127120,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d9b3e0ed82a8fbaf82b2d8dc",
+                    "id": 12225,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Tamr Henna - Intro",
+                    "track_url": "",
+                    "duration_ms": 67160,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d9b3e0ed82a8fbaf82b2d8dc",
+                    "id": 12226,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Habayebna Gom Be El Salama",
+                    "track_url": "",
+                    "duration_ms": 167680,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d9b3e0ed82a8fbaf82b2d8dc",
+                    "id": 12227,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Ghareeb",
+                    "track_url": "",
+                    "duration_ms": 111946,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d9b3e0ed82a8fbaf82b2d8dc",
+                    "id": 12228,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "El Kamar",
+                    "track_url": "",
+                    "duration_ms": 68493,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d9b3e0ed82a8fbaf82b2d8dc",
+                    "id": 12229,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Ebky Ya Sama",
+                    "track_url": "",
+                    "duration_ms": 108920,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d9b3e0ed82a8fbaf82b2d8dc",
+                    "id": 12230,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Yally Eyounak",
+                    "track_url": "",
+                    "duration_ms": 132520,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d9b3e0ed82a8fbaf82b2d8dc",
+                    "id": 12231,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Esmaany Ya Kamar",
+                    "track_url": "",
+                    "duration_ms": 188026,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d9b3e0ed82a8fbaf82b2d8dc",
+                    "id": 12232,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Ehna Ghalaba",
+                    "track_url": "",
+                    "duration_ms": 163800,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d9b3e0ed82a8fbaf82b2d8dc",
+                    "id": 12233,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Habiby Ya Hob - Kaddab",
+                    "track_url": "",
+                    "duration_ms": 110120,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d9b3e0ed82a8fbaf82b2d8dc",
+                    "id": 12234,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Awseek Ya Bahr El Hawa",
+                    "track_url": "",
+                    "duration_ms": 121013,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d9b3e0ed82a8fbaf82b2d8dc",
+                    "id": 12235,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Waad We Maktoub",
+                    "track_url": "",
+                    "duration_ms": 60880,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d9b3e0ed82a8fbaf82b2d8dc",
+                    "id": 12236,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Amm Ya Sayad",
+                    "track_url": "",
+                    "duration_ms": 106066,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d9b3e0ed82a8fbaf82b2d8dc",
+                    "id": 12237,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Ya Ghareeb",
+                    "track_url": "",
+                    "duration_ms": 150173,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d9b3e0ed82a8fbaf82b2d8dc",
+                    "id": 12238,
+                    "artist": "Warda"
+                },
+                {
+                    "name": "Ramena El Homoum",
+                    "track_url": "",
+                    "duration_ms": 277786,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d9b3e0ed82a8fbaf82b2d8dc",
+                    "id": 12239,
+                    "artist": "Warda"
+                }
+            ],
+            "id": 12220
+        }
+    ],
+    "singles": [
+        {
+            "name": "Zaman Maho Zamany",
+            "release_date": "2018-04-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f1a3fe89f09fdb2c32b6ad29",
+            "track_url": "",
+            "id": 12240,
+            "artist": "Warda"
+        },
+        {
+            "name": "Maula Way",
+            "release_date": "2017-07-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736b138d6ad85cf195e3a4ab81",
+            "track_url": "",
+            "id": 12241,
+            "artist": "Warda"
+        },
+        {
+            "name": "Elle Daa Men Omri",
+            "release_date": "2011-10-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e7233b1e9120c001df822e2e",
+            "track_url": "",
+            "id": 12242,
+            "artist": "Warda"
+        },
+        {
+            "name": "Law La2et El Farh Feya",
+            "release_date": "2000-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735db7c9aa5ce25fe35676e5f5",
+            "track_url": "",
+            "id": 12243,
+            "artist": "Warda"
+        },
+        {
+            "name": "Mawkeb El Sabr",
+            "release_date": "1996-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273afad1f6eed73c4aa0332b24c",
+            "track_url": "",
+            "id": 12244,
+            "artist": "Warda"
+        },
+        {
+            "name": "Le3bet El Ayyam",
+            "release_date": "1994-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738165fd83120789a60bd80fe1",
+            "track_url": "",
+            "id": 12245,
+            "artist": "Warda"
+        },
+        {
+            "name": "Les Feuilles Mortes",
+            "release_date": "1994",
+            "image": "https://i.scdn.co/image/ab67616d0000b27396a8cfe299697407374a3c19",
+            "track_url": "",
+            "id": 12246,
+            "artist": "Warda"
+        },
+        {
+            "name": "Ahbabina Ya Eyn - Magadire Live",
+            "release_date": "1992-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e92962a48ce7c0cf23d4a933",
+            "track_url": "",
+            "id": 12247,
+            "artist": "Warda"
+        },
+        {
+            "name": "Bawadaak",
+            "release_date": "1990-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733d718979d620898a2bf2b8f8",
+            "track_url": "",
+            "id": 12248,
+            "artist": "Warda"
+        },
+        {
+            "name": "Bahebak Sadaany Live",
+            "release_date": "1990-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d6359a6d91b25eba5451843a",
+            "track_url": "",
+            "id": 12249,
+            "artist": "Warda"
+        },
+        {
+            "name": "Akdeb Aleik Live",
+            "release_date": "1990-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d8b2b411b0a20a969a56f301",
+            "track_url": "",
+            "id": 12250,
+            "artist": "Warda"
+        },
+        {
+            "name": "Lebnan El Hob",
+            "release_date": "1989-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b27332df8fdf20aba0b9ae018a7a",
+            "track_url": "",
+            "id": 12251,
+            "artist": "Warda"
+        },
+        {
+            "name": "Kelmet Itab Live",
+            "release_date": "1988-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b01c1e2a07c514dbc4846021",
+            "track_url": "",
+            "id": 12252,
+            "artist": "Warda"
+        },
+        {
+            "name": "Foraq Ghazaly Live",
+            "release_date": "1987-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c8ed51d7381d243a27de8391",
+            "track_url": "",
+            "id": 12253,
+            "artist": "Warda"
+        },
+        {
+            "name": "Ala Bakhtena",
+            "release_date": "1986-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273283b06d9546813e8cd5faa8a",
+            "track_url": "",
+            "id": 12254,
+            "artist": "Warda"
+        },
+        {
+            "name": "Dandana (Paris Concert)",
+            "release_date": "1985-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27385fb1d34a2d7bd32f39443bb",
+            "track_url": "",
+            "id": 12255,
+            "artist": "Warda"
+        },
+        {
+            "name": "Ayamna Eid Live",
+            "release_date": "1984-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739e82de93c1320b22ac97e286",
+            "track_url": "",
+            "id": 12256,
+            "artist": "Warda"
+        },
+        {
+            "name": "La Mesh Keda",
+            "release_date": "1983-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738b97e1d60f0e78ba3a3815af",
+            "track_url": "",
+            "id": 12257,
+            "artist": "Warda"
+        },
+        {
+            "name": "Aslak Tethab Live",
+            "release_date": "1983-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732850a45b435c6f43bc68f81c",
+            "track_url": "",
+            "id": 12258,
+            "artist": "Warda"
+        },
+        {
+            "name": "Lazem Neftereq Live",
+            "release_date": "1982-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f3b572e27055ecac63770f1a",
+            "track_url": "",
+            "id": 12259,
+            "artist": "Warda"
+        },
+        {
+            "name": "Ahla El Layali",
+            "release_date": "1982-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739097fd5ea20afdf0bc8cdb0e",
+            "track_url": "",
+            "id": 12260,
+            "artist": "Warda"
+        },
+        {
+            "name": "Men Kol Bostan Warda",
+            "release_date": "1982-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733ac69bf8ce5e49e1ea9601d5",
+            "track_url": "",
+            "id": 12261,
+            "artist": "Warda"
+        },
+        {
+            "name": "Layali El Ghorba Live",
+            "release_date": "1981-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739a4d69ec33eb929f627994fd",
+            "track_url": "",
+            "id": 12262,
+            "artist": "Warda"
+        },
+        {
+            "name": "ليالى الغربه",
+            "release_date": "1981-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273973ea199f123eb7469a706a6",
+            "track_url": "",
+            "id": 12263,
+            "artist": "Warda"
+        },
+        {
+            "name": "Yama Layali Live",
+            "release_date": "1980-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734c7e6240708d12cd0806c3f5",
+            "track_url": "",
+            "id": 12264,
+            "artist": "Warda"
+        },
+        {
+            "name": "Sheoury Nahyetak Live",
+            "release_date": "1980-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ac562a8232a6ece3bf453aac",
+            "track_url": "",
+            "id": 12265,
+            "artist": "Warda"
+        },
+        {
+            "name": "Alby Saeed",
+            "release_date": "1980-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b27386832c82a705b61a52ecf912",
+            "track_url": "",
+            "id": 12266,
+            "artist": "Warda"
+        },
+        {
+            "name": "Ya Habibi La Takol Li Live",
+            "release_date": "1979-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273dccfc91ebd77cebcd11dfecd",
+            "track_url": "",
+            "id": 12267,
+            "artist": "Warda"
+        },
+        {
+            "name": "Ale Eih Beyessalouni Live",
+            "release_date": "1979-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735555d81192769f4dfd0dc94f",
+            "track_url": "",
+            "id": 12268,
+            "artist": "Warda"
+        },
+        {
+            "name": "Ale Eih Beyessalouni",
+            "release_date": "1979-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273bad6233cf171113502f330e7",
+            "track_url": "",
+            "id": 12269,
+            "artist": "Warda"
+        },
+        {
+            "name": "Ala Einy Live",
+            "release_date": "1979-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a8db11778a87ba98b65f7bf3",
+            "track_url": "",
+            "id": 12270,
+            "artist": "Warda"
+        },
+        {
+            "name": "Mabritouche",
+            "release_date": "1979-03-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c5a4425afb7db0299d14eb2f",
+            "track_url": "",
+            "id": 12271,
+            "artist": "Warda"
+        },
+        {
+            "name": "Ya Khabar",
+            "release_date": "1978-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d0eec829a844c91260aa9663",
+            "track_url": "",
+            "id": 12272,
+            "artist": "Warda"
+        },
+        {
+            "name": "Law Enak Biid Anni Live",
+            "release_date": "1978-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737e58eeeb0bc0a98e532abfbd",
+            "track_url": "",
+            "id": 12273,
+            "artist": "Warda"
+        },
+        {
+            "name": "Men Ben Olof Live",
+            "release_date": "1977-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b27315fcc3de084b81c82e2d61c7",
+            "track_url": "",
+            "id": 12274,
+            "artist": "Warda"
+        },
+        {
+            "name": "Fe Youm We Leila",
+            "release_date": "1977-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273326e52071456ef3c80ccb3f0",
+            "track_url": "",
+            "id": 12275,
+            "artist": "Warda"
+        },
+        {
+            "name": "Be Omry Koloh Habeitak",
+            "release_date": "1977-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b27301dab520ec0611ffbb7b4001",
+            "track_url": "",
+            "id": 12276,
+            "artist": "Warda"
+        },
+        {
+            "name": "Andah Aleik",
+            "release_date": "1977-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b27334a15a288cb4f1f8585c8b67",
+            "track_url": "",
+            "id": 12277,
+            "artist": "Warda"
+        },
+        {
+            "name": "Aiza Aheb - Ou Mali Bass Live",
+            "release_date": "1977-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732152e297507f4fe29acf45e1",
+            "track_url": "",
+            "id": 12278,
+            "artist": "Warda"
+        },
+        {
+            "name": "Ah Ya Leil Ya Zaman, Vol.2 (From \"Ah Ya Leil Ya Zaman\")",
+            "release_date": "1977-12-12",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c10f279223b0be54ee269c9d",
+            "track_url": "",
+            "id": 12279,
+            "artist": "Warda"
+        },
+        {
+            "name": "Ma Endakch Fekrah Live",
+            "release_date": "1976-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a31b362446a31a253ad1d976",
+            "track_url": "",
+            "id": 12280,
+            "artist": "Warda"
+        },
+        {
+            "name": "Aoukati Be Tehlaou Live Paris",
+            "release_date": "1976-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d0e4277b15a42431b2c90275",
+            "track_url": "",
+            "id": 12281,
+            "artist": "Warda"
+        },
+        {
+            "name": "Aayza Moujizah Live",
+            "release_date": "1976-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738fb01685ce8be9bccf18689e",
+            "track_url": "",
+            "id": 12282,
+            "artist": "Warda"
+        },
+        {
+            "name": "Ehdounoul Ayam Live",
+            "release_date": "1975-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f11b43ef53afd7fba9656755",
+            "track_url": "",
+            "id": 12283,
+            "artist": "Warda"
+        },
+        {
+            "name": "Law Saalook Live",
+            "release_date": "1975-12-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737a6cade3773a6eed278757a5",
+            "track_url": "",
+            "id": 12284,
+            "artist": "Warda"
+        },
+        {
+            "name": "Welad El Halal (Live Concert)",
+            "release_date": "1975-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e1cca0ff995ad27f01b6a108",
+            "track_url": "",
+            "id": 12285,
+            "artist": "Warda"
+        },
+        {
+            "name": "Welad El Halal",
+            "release_date": "1975-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27344608f6b6d2c7eae89dc9042",
+            "track_url": "",
+            "id": 12286,
+            "artist": "Warda"
+        },
+        {
+            "name": "Wamaloo (Live Concert)",
+            "release_date": "1975-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c157339dcc139cd8528fa48f",
+            "track_url": "",
+            "id": 12287,
+            "artist": "Warda"
+        },
+        {
+            "name": "Eih Walla Eih (Live Concert)",
+            "release_date": "1975-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27305e9dc5c3a006a86e0b38aa6",
+            "track_url": "",
+            "id": 12288,
+            "artist": "Warda"
+        },
+        {
+            "name": "Madritoush (Live Concert)",
+            "release_date": "1974-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f957fa49cc68d6df8df48bd9",
+            "track_url": "",
+            "id": 12289,
+            "artist": "Warda"
+        }
+    ],
+    "popular_tracks": [
+        {
+            "name": "Batwanes Beek",
+            "track_url": "",
+            "duration_ms": 804402,
+            "image": "https://i.scdn.co/image/ab67616d0000b273a1582c880c8937fe2e168652",
+            "id": 12290,
+            "artist": "Warda"
+        },
+        {
+            "name": "Tab Wana Maly",
+            "track_url": "",
+            "duration_ms": 394186,
+            "image": "https://i.scdn.co/image/ab67616d0000b27398ff72f804c93f905fafe2dd",
+            "id": 12291,
+            "artist": "Warda"
+        },
+        {
+            "name": "Haramt Ahebak",
+            "track_url": "",
+            "duration_ms": 476487,
+            "image": "https://i.scdn.co/image/ab67616d0000b2735337e28a7fe8cb8b66d88667",
+            "id": 12292,
+            "artist": "Warda"
+        },
+        {
+            "name": "Fe Youm We Leila Live",
+            "track_url": "",
+            "duration_ms": 3441840,
+            "image": "https://i.scdn.co/image/ab67616d0000b273326e52071456ef3c80ccb3f0",
+            "id": 12293,
+            "artist": "Warda"
+        },
+        {
+            "name": "Ale Eih Beyessalouni",
+            "track_url": "",
+            "duration_ms": 1741205,
+            "image": "https://i.scdn.co/image/ab67616d0000b2733a2e0c568031e549bde5843e",
+            "id": 12294,
+            "artist": "Warda"
+        },
+        {
+            "name": "Lola El Malama",
+            "track_url": "",
+            "duration_ms": 626360,
+            "image": "https://i.scdn.co/image/ab67616d0000b2736dfa3eec923689f37288a84d",
+            "id": 12295,
+            "artist": "Warda"
+        },
+        {
+            "name": "Akdeb Aleik Live",
+            "track_url": "",
+            "duration_ms": 3312720,
+            "image": "https://i.scdn.co/image/ab67616d0000b273d8b2b411b0a20a969a56f301",
+            "id": 12296,
+            "artist": "Warda"
+        },
+        {
+            "name": "Hakollak Hagah",
+            "track_url": "",
+            "duration_ms": 255200,
+            "image": "https://i.scdn.co/image/ab67616d0000b273876e56502faf9949a48e4d26",
+            "id": 12297,
+            "artist": "Warda"
+        },
+        {
+            "name": "Layalina",
+            "track_url": "",
+            "duration_ms": 649506,
+            "image": "https://i.scdn.co/image/ab67616d0000b273b14fed7e275cb98cdcca2535",
+            "id": 12298,
+            "artist": "Warda"
+        },
+        {
+            "name": "Bawadaak",
+            "track_url": "",
+            "duration_ms": 2198154,
+            "image": "https://i.scdn.co/image/ab67616d0000b2733d718979d620898a2bf2b8f8",
+            "id": 12299,
+            "artist": "Warda"
+        }
+    ]
+}

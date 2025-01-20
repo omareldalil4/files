@@ -1,0 +1,865 @@
+{
+    "artist": {
+        "id": "6734",
+        "name": "Mahmoud El Leithy",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb1b412c00e4c7362ce6280276",
+        "background_image": "https://i.scdn.co/image/ab676161000051741b412c00e4c7362ce6280276"
+    },
+    "albums": [
+        {
+            "name": "Aly Baba",
+            "release_date": "2018-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273becf9adeef726768b6ff1c80",
+            "track_url": "https://open.spotify.com/album/6IAASPHl5VUUCwAhvvuRby",
+            "tracks": [
+                {
+                    "name": "Rahawan",
+                    "track_url": "",
+                    "duration_ms": 240094,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273becf9adeef726768b6ff1c80",
+                    "id": 6736,
+                    "artist": "Mahmoud El Leithy"
+                },
+                {
+                    "name": "Aly Baba",
+                    "track_url": "",
+                    "duration_ms": 223747,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273becf9adeef726768b6ff1c80",
+                    "id": 6737,
+                    "artist": "Mahmoud El Leithy"
+                },
+                {
+                    "name": "Kollo Ella El Kedb",
+                    "track_url": "",
+                    "duration_ms": 343933,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273becf9adeef726768b6ff1c80",
+                    "id": 6738,
+                    "artist": "Mahmoud El Leithy"
+                },
+                {
+                    "name": "Yama Nas",
+                    "track_url": "",
+                    "duration_ms": 243763,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273becf9adeef726768b6ff1c80",
+                    "id": 6739,
+                    "artist": "Mahmoud El Leithy"
+                },
+                {
+                    "name": "Elly Gaia",
+                    "track_url": "",
+                    "duration_ms": 168112,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273becf9adeef726768b6ff1c80",
+                    "id": 6740,
+                    "artist": "Mahmoud El Leithy"
+                },
+                {
+                    "name": "Kont Tayeb",
+                    "track_url": "",
+                    "duration_ms": 350899,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273becf9adeef726768b6ff1c80",
+                    "id": 6741,
+                    "artist": "Mahmoud El Leithy"
+                },
+                {
+                    "name": "Banat Hawa",
+                    "track_url": "",
+                    "duration_ms": 194861,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273becf9adeef726768b6ff1c80",
+                    "id": 6742,
+                    "artist": "Mahmoud El Leithy"
+                },
+                {
+                    "name": "Anam Ezzay",
+                    "track_url": "",
+                    "duration_ms": 261178,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273becf9adeef726768b6ff1c80",
+                    "id": 6743,
+                    "artist": "Mahmoud El Leithy"
+                },
+                {
+                    "name": "Ya Ammena",
+                    "track_url": "",
+                    "duration_ms": 268190,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273becf9adeef726768b6ff1c80",
+                    "id": 6744,
+                    "artist": "Mahmoud El Leithy"
+                },
+                {
+                    "name": "Fein Habaiby",
+                    "track_url": "",
+                    "duration_ms": 233592,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273becf9adeef726768b6ff1c80",
+                    "id": 6745,
+                    "artist": "Mahmoud El Leithy"
+                },
+                {
+                    "name": "Azzebouna",
+                    "track_url": "",
+                    "duration_ms": 136301,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273becf9adeef726768b6ff1c80",
+                    "id": 6746,
+                    "artist": "Mahmoud El Leithy"
+                },
+                {
+                    "name": "El Nas Betakol Ba'd",
+                    "track_url": "",
+                    "duration_ms": 322850,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273becf9adeef726768b6ff1c80",
+                    "id": 6747,
+                    "artist": "Mahmoud El Leithy"
+                }
+            ],
+            "id": 6735
+        },
+        {
+            "name": "Mahmoud Ellithy's Songs",
+            "release_date": "2013-12-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f2708c177dd49ea7e7c9f0d0",
+            "track_url": "https://open.spotify.com/album/4pCg7FV1hI503OwG7YSMyK",
+            "tracks": [
+                {
+                    "name": "Agoz",
+                    "track_url": "",
+                    "duration_ms": 548832,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f2708c177dd49ea7e7c9f0d0",
+                    "id": 6749,
+                    "artist": "Mahmoud El Leithy"
+                },
+                {
+                    "name": "Al Anab",
+                    "track_url": "",
+                    "duration_ms": 276845,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f2708c177dd49ea7e7c9f0d0",
+                    "id": 6750,
+                    "artist": "Mahmoud El Leithy"
+                },
+                {
+                    "name": "Al Sabar Tayab",
+                    "track_url": "",
+                    "duration_ms": 330187,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f2708c177dd49ea7e7c9f0d0",
+                    "id": 6751,
+                    "artist": "Mahmoud El Leithy"
+                },
+                {
+                    "name": "Al Set Lama",
+                    "track_url": "",
+                    "duration_ms": 310125,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f2708c177dd49ea7e7c9f0d0",
+                    "id": 6752,
+                    "artist": "Mahmoud El Leithy"
+                },
+                {
+                    "name": "Asfouran",
+                    "track_url": "",
+                    "duration_ms": 328150,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f2708c177dd49ea7e7c9f0d0",
+                    "id": 6753,
+                    "artist": "Mahmoud El Leithy"
+                },
+                {
+                    "name": "Ashan Bahabak",
+                    "track_url": "",
+                    "duration_ms": 376999,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f2708c177dd49ea7e7c9f0d0",
+                    "id": 6754,
+                    "artist": "Mahmoud El Leithy"
+                },
+                {
+                    "name": "Al Anbayaa",
+                    "track_url": "",
+                    "duration_ms": 381074,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f2708c177dd49ea7e7c9f0d0",
+                    "id": 6755,
+                    "artist": "Mahmoud El Leithy"
+                },
+                {
+                    "name": "Al Donya Lasa Bekher",
+                    "track_url": "",
+                    "duration_ms": 254850,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f2708c177dd49ea7e7c9f0d0",
+                    "id": 6756,
+                    "artist": "Mahmoud El Leithy"
+                },
+                {
+                    "name": "El Zekr 1",
+                    "track_url": "",
+                    "duration_ms": 793286,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f2708c177dd49ea7e7c9f0d0",
+                    "id": 6757,
+                    "artist": "Mahmoud El Leithy"
+                },
+                {
+                    "name": "Bent Al Geran",
+                    "track_url": "",
+                    "duration_ms": 374204,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f2708c177dd49ea7e7c9f0d0",
+                    "id": 6758,
+                    "artist": "Mahmoud El Leithy"
+                },
+                {
+                    "name": "El Zekr 2",
+                    "track_url": "",
+                    "duration_ms": 644310,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f2708c177dd49ea7e7c9f0d0",
+                    "id": 6759,
+                    "artist": "Mahmoud El Leithy"
+                },
+                {
+                    "name": "Ashtrony",
+                    "track_url": "",
+                    "duration_ms": 519471,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f2708c177dd49ea7e7c9f0d0",
+                    "id": 6760,
+                    "artist": "Mahmoud El Leithy"
+                },
+                {
+                    "name": "Awaa",
+                    "track_url": "",
+                    "duration_ms": 363885,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f2708c177dd49ea7e7c9f0d0",
+                    "id": 6761,
+                    "artist": "Mahmoud El Leithy"
+                },
+                {
+                    "name": "Gena Gena",
+                    "track_url": "",
+                    "duration_ms": 346174,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f2708c177dd49ea7e7c9f0d0",
+                    "id": 6762,
+                    "artist": "Mahmoud El Leithy"
+                },
+                {
+                    "name": "Enty Yaly",
+                    "track_url": "",
+                    "duration_ms": 414145,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f2708c177dd49ea7e7c9f0d0",
+                    "id": 6763,
+                    "artist": "Mahmoud El Leithy"
+                },
+                {
+                    "name": "Goroh",
+                    "track_url": "",
+                    "duration_ms": 203311,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f2708c177dd49ea7e7c9f0d0",
+                    "id": 6764,
+                    "artist": "Mahmoud El Leithy"
+                },
+                {
+                    "name": "El Zekr 3",
+                    "track_url": "",
+                    "duration_ms": 545854,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f2708c177dd49ea7e7c9f0d0",
+                    "id": 6765,
+                    "artist": "Mahmoud El Leithy"
+                },
+                {
+                    "name": "El Zekr 4",
+                    "track_url": "",
+                    "duration_ms": 524120,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f2708c177dd49ea7e7c9f0d0",
+                    "id": 6766,
+                    "artist": "Mahmoud El Leithy"
+                },
+                {
+                    "name": "Marsal Al Hawa",
+                    "track_url": "",
+                    "duration_ms": 380029,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f2708c177dd49ea7e7c9f0d0",
+                    "id": 6767,
+                    "artist": "Mahmoud El Leithy"
+                },
+                {
+                    "name": "Mawal Al Mal",
+                    "track_url": "",
+                    "duration_ms": 475454,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f2708c177dd49ea7e7c9f0d0",
+                    "id": 6768,
+                    "artist": "Mahmoud El Leithy"
+                }
+            ],
+            "id": 6748
+        },
+        {
+            "name": "Souq El Banat",
+            "release_date": "2011-12-02",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b09f4a76ba758031f5addcc2",
+            "track_url": "https://open.spotify.com/album/2BUI2XnumWpg8GmwTJ9LWi",
+            "tracks": [
+                {
+                    "name": "Souq El Banat",
+                    "track_url": "",
+                    "duration_ms": 299400,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b09f4a76ba758031f5addcc2",
+                    "id": 6770,
+                    "artist": "Mahmoud El Leithy"
+                },
+                {
+                    "name": "El Bett El Gamda",
+                    "track_url": "",
+                    "duration_ms": 183706,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b09f4a76ba758031f5addcc2",
+                    "id": 6771,
+                    "artist": "Mahmoud El Leithy"
+                },
+                {
+                    "name": "Wennaby Ya Donia",
+                    "track_url": "",
+                    "duration_ms": 222378,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b09f4a76ba758031f5addcc2",
+                    "id": 6772,
+                    "artist": "Mahmoud El Leithy"
+                },
+                {
+                    "name": "Enta Ya Enta",
+                    "track_url": "",
+                    "duration_ms": 287422,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b09f4a76ba758031f5addcc2",
+                    "id": 6773,
+                    "artist": "Mahmoud El Leithy"
+                },
+                {
+                    "name": "Seebak Menhom Ya Alby",
+                    "track_url": "",
+                    "duration_ms": 308120,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b09f4a76ba758031f5addcc2",
+                    "id": 6774,
+                    "artist": "Mahmoud El Leithy"
+                },
+                {
+                    "name": "Menkom Lelah",
+                    "track_url": "",
+                    "duration_ms": 227496,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b09f4a76ba758031f5addcc2",
+                    "id": 6775,
+                    "artist": "Mahmoud El Leithy"
+                },
+                {
+                    "name": "Afadal Azizty",
+                    "track_url": "",
+                    "duration_ms": 334176,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b09f4a76ba758031f5addcc2",
+                    "id": 6776,
+                    "artist": "Mahmoud El Leithy"
+                },
+                {
+                    "name": "Yady El Zaman",
+                    "track_url": "",
+                    "duration_ms": 173376,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b09f4a76ba758031f5addcc2",
+                    "id": 6777,
+                    "artist": "Mahmoud El Leithy"
+                },
+                {
+                    "name": "Ya Marakby",
+                    "track_url": "",
+                    "duration_ms": 270096,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b09f4a76ba758031f5addcc2",
+                    "id": 6778,
+                    "artist": "Mahmoud El Leithy"
+                },
+                {
+                    "name": "A'l El Beit",
+                    "track_url": "",
+                    "duration_ms": 285574,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b09f4a76ba758031f5addcc2",
+                    "id": 6779,
+                    "artist": "Mahmoud El Leithy"
+                },
+                {
+                    "name": "Ommy",
+                    "track_url": "",
+                    "duration_ms": 368520,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b09f4a76ba758031f5addcc2",
+                    "id": 6780,
+                    "artist": "Mahmoud El Leithy"
+                }
+            ],
+            "id": 6769
+        }
+    ],
+    "singles": [
+        {
+            "name": "الحبل ع الجرار (الشغله شغلانتى)",
+            "release_date": "2024-12-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737fa6272a5cefed0dfb7809c2",
+            "track_url": "",
+            "id": 6781,
+            "artist": "Mahmoud El Leithy"
+        },
+        {
+            "name": "عايزه مني ايه (لايف)",
+            "release_date": "2024-12-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b273becde193f7962a9e9b2a14ce",
+            "track_url": "",
+            "id": 6782,
+            "artist": "Mahmoud El Leithy"
+        },
+        {
+            "name": "اول ما كتب القلم (لايف)",
+            "release_date": "2024-12-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b273cd73bb08b69e45d93c05d845",
+            "track_url": "",
+            "id": 6783,
+            "artist": "Mahmoud El Leithy"
+        },
+        {
+            "name": "شارع الخيانة",
+            "release_date": "2024-12-16",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b80ab483d7d63a1ea7677a80",
+            "track_url": "",
+            "id": 6784,
+            "artist": "Mahmoud El Leithy"
+        },
+        {
+            "name": "انا لا",
+            "release_date": "2024-12-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d5fad7c774b5f3c385ce6a04",
+            "track_url": "",
+            "id": 6785,
+            "artist": "Mahmoud El Leithy"
+        },
+        {
+            "name": "( يلا عادي ( عيشتهم ياما في خيري",
+            "release_date": "2024-11-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ae21a10a299242600391c30e",
+            "track_url": "",
+            "id": 6786,
+            "artist": "Mahmoud El Leithy"
+        },
+        {
+            "name": "انا البطل (نشره الاخبار)",
+            "release_date": "2024-10-29",
+            "image": "https://i.scdn.co/image/ab67616d0000b27343699b260bee2dd8cfdf7e67",
+            "track_url": "",
+            "id": 6787,
+            "artist": "Mahmoud El Leithy"
+        },
+        {
+            "name": "الباشا",
+            "release_date": "2024-09-02",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a1927ba5f73a68182e3b6fcb",
+            "track_url": "",
+            "id": 6788,
+            "artist": "Mahmoud El Leithy"
+        },
+        {
+            "name": "يا ابن كاري",
+            "release_date": "2024-08-17",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a49716e1cb00645ea5e385f4",
+            "track_url": "",
+            "id": 6789,
+            "artist": "Mahmoud El Leithy"
+        },
+        {
+            "name": "وفر دواك (لايف)",
+            "release_date": "2024-08-17",
+            "image": "https://i.scdn.co/image/ab67616d0000b273bbf0daa2f65e30f7ab8b7f6c",
+            "track_url": "",
+            "id": 6790,
+            "artist": "Mahmoud El Leithy"
+        },
+        {
+            "name": "الثبات الثبات",
+            "release_date": "2024-08-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b27317c94eec85bd6013b2ef028c",
+            "track_url": "",
+            "id": 6791,
+            "artist": "Mahmoud El Leithy"
+        },
+        {
+            "name": "نزلت بحر الحبيب",
+            "release_date": "2024-07-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b004c3ec86826bc9ce69c2af",
+            "track_url": "",
+            "id": 6792,
+            "artist": "Mahmoud El Leithy"
+        },
+        {
+            "name": "خد يالي بترغي في ضهري",
+            "release_date": "2024-07-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b273aeddd41c5e15612327ec51ea",
+            "track_url": "",
+            "id": 6793,
+            "artist": "Mahmoud El Leithy"
+        },
+        {
+            "name": "بشوات روح اسأل علينا",
+            "release_date": "2024-07-16",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b93325d370dac92126270748",
+            "track_url": "",
+            "id": 6794,
+            "artist": "Mahmoud El Leithy"
+        },
+        {
+            "name": "صعبان عليا",
+            "release_date": "2024-06-27",
+            "image": "https://i.scdn.co/image/ab67616d0000b27391aeeda4635cbeeda8d40cb6",
+            "track_url": "",
+            "id": 6795,
+            "artist": "Mahmoud El Leithy"
+        },
+        {
+            "name": "الليله الكبيره",
+            "release_date": "2024-06-26",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c9dd856f79573cd81da2f58f",
+            "track_url": "",
+            "id": 6796,
+            "artist": "Mahmoud El Leithy"
+        },
+        {
+            "name": "انا بطل السوق",
+            "release_date": "2024-06-06",
+            "image": "https://i.scdn.co/image/ab67616d0000b273bf588a09b076c24c086ed36b",
+            "track_url": "",
+            "id": 6797,
+            "artist": "Mahmoud El Leithy"
+        },
+        {
+            "name": "عم المجال",
+            "release_date": "2024-03-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a09e06c2d03ebbb4dc04104d",
+            "track_url": "",
+            "id": 6798,
+            "artist": "Mahmoud El Leithy"
+        },
+        {
+            "name": "كدة لا",
+            "release_date": "2024-02-17",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736dec7e9f07076b465c504ffc",
+            "track_url": "",
+            "id": 6799,
+            "artist": "Mahmoud El Leithy"
+        },
+        {
+            "name": "قصف جبهة",
+            "release_date": "2024-02-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739e23fb13c6cf7851a69f02b7",
+            "track_url": "",
+            "id": 6800,
+            "artist": "Mahmoud El Leithy"
+        },
+        {
+            "name": "Luxor Baladna",
+            "release_date": "2024-01-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b9c523db1ea6101bb000940d",
+            "track_url": "",
+            "id": 6801,
+            "artist": "Mahmoud El Leithy"
+        },
+        {
+            "name": "سبع طبقات",
+            "release_date": "2024-01-27",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739a461ed6804cae45b433bfa2",
+            "track_url": "",
+            "id": 6802,
+            "artist": "Mahmoud El Leithy"
+        },
+        {
+            "name": "ست البنات (من فيلم حمص وحلاوة)",
+            "release_date": "2024-01-20",
+            "image": "https://i.scdn.co/image/ab67616d0000b27364903262d693f42e760b3e0d",
+            "track_url": "",
+            "id": 6803,
+            "artist": "Mahmoud El Leithy"
+        },
+        {
+            "name": "الجدع",
+            "release_date": "2024-01-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ff1e5b51a2e1d6a15e9c155f",
+            "track_url": "",
+            "id": 6804,
+            "artist": "Mahmoud El Leithy"
+        },
+        {
+            "name": "Nos Banat Baldak",
+            "release_date": "2023-12-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b273efda617cb87cdc6cbc56aa0a",
+            "track_url": "",
+            "id": 6805,
+            "artist": "Mahmoud El Leithy"
+        },
+        {
+            "name": "أخوك يشرف بلد (من فيلم حمص وحلاوة)",
+            "release_date": "2023-12-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732f73e80fcf183b0a45573306",
+            "track_url": "",
+            "id": 6806,
+            "artist": "Mahmoud El Leithy"
+        },
+        {
+            "name": "مين انت مين قولنا",
+            "release_date": "2023-12-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b273387803c2c4a119fb39b29bba",
+            "track_url": "",
+            "id": 6807,
+            "artist": "Mahmoud El Leithy"
+        },
+        {
+            "name": "كنت فاكر",
+            "release_date": "2023-11-13",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c9210c0577938df8f683870d",
+            "track_url": "",
+            "id": 6808,
+            "artist": "Mahmoud El Leithy"
+        },
+        {
+            "name": "سيبك من اللي خلع (من فيلم حمص وحلاوة)",
+            "release_date": "2023-10-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273261fc5f212150ded60443e12",
+            "track_url": "",
+            "id": 6809,
+            "artist": "Mahmoud El Leithy"
+        },
+        {
+            "name": "سيبك من اللي خلع (من فيلم حمص وحلاوة)",
+            "release_date": "2023-10-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27311f9fa14ec086128c8c27f4a",
+            "track_url": "",
+            "id": 6810,
+            "artist": "Mahmoud El Leithy"
+        },
+        {
+            "name": "بيلوم عليا",
+            "release_date": "2023-09-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b27357aa160e016f2e97cd0cec0c",
+            "track_url": "",
+            "id": 6811,
+            "artist": "Mahmoud El Leithy"
+        },
+        {
+            "name": "انت اخويا",
+            "release_date": "2023-07-14",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b77eff737df6261ae21b6724",
+            "track_url": "",
+            "id": 6812,
+            "artist": "Mahmoud El Leithy"
+        },
+        {
+            "name": "الغل مني هاريكو",
+            "release_date": "2023-07-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738ed017aea7e673715bd600bb",
+            "track_url": "",
+            "id": 6813,
+            "artist": "Mahmoud El Leithy"
+        },
+        {
+            "name": "ماتعتبونيش",
+            "release_date": "2023-06-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b27307a0b58be9287affd71ef036",
+            "track_url": "",
+            "id": 6814,
+            "artist": "Mahmoud El Leithy"
+        },
+        {
+            "name": "Ya Abdo",
+            "release_date": "2023-04-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d52aa0e7de1cdedcb0e12805",
+            "track_url": "",
+            "id": 6815,
+            "artist": "Mahmoud El Leithy"
+        },
+        {
+            "name": "Aazbny Aazib",
+            "release_date": "2023-01-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d2e780a7f749b4230061f3f3",
+            "track_url": "",
+            "id": 6816,
+            "artist": "Mahmoud El Leithy"
+        },
+        {
+            "name": "انتي دنيا نحن دنيا (Dj Fam Remix)",
+            "release_date": "2023-01-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f37bbf1e9c4f1ad2e0c39b01",
+            "track_url": "",
+            "id": 6817,
+            "artist": "Mahmoud El Leithy"
+        },
+        {
+            "name": "هتيجى على سكتى (Live)",
+            "release_date": "2023-01-03",
+            "image": "https://i.scdn.co/image/ab67616d0000b273cb577589404284c66e7aafc0",
+            "track_url": "",
+            "id": 6818,
+            "artist": "Mahmoud El Leithy"
+        },
+        {
+            "name": "Talee Fiha",
+            "release_date": "2022-12-13",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e44dd31202f2013ddae239da",
+            "track_url": "",
+            "id": 6819,
+            "artist": "Mahmoud El Leithy"
+        },
+        {
+            "name": "El Agzakhana",
+            "release_date": "2022-11-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739d9c9c550046e077267684d4",
+            "track_url": "",
+            "id": 6820,
+            "artist": "Mahmoud El Leithy"
+        },
+        {
+            "name": "El Nos El Tani",
+            "release_date": "2022-10-06",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c066b430369f65b966f7a84e",
+            "track_url": "",
+            "id": 6821,
+            "artist": "Mahmoud El Leithy"
+        },
+        {
+            "name": "El Donya Zalmani",
+            "release_date": "2022-09-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b27363070306be6a442f9204a0dd",
+            "track_url": "",
+            "id": 6822,
+            "artist": "Mahmoud El Leithy"
+        },
+        {
+            "name": "Nazra Wahda",
+            "release_date": "2022-08-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738c6f42ea97445c1ba23c2461",
+            "track_url": "",
+            "id": 6823,
+            "artist": "Mahmoud El Leithy"
+        },
+        {
+            "name": "Donjwan (feat. Amr Yousef, Hassan Elraddad & Yara)",
+            "release_date": "2022-02-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b98563e9f8ca969ffa4a2319",
+            "track_url": "",
+            "id": 6824,
+            "artist": "Mahmoud El Leithy"
+        },
+        {
+            "name": "سمارة",
+            "release_date": "2021-09-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e2fcc7eea93125775a645e14",
+            "track_url": "",
+            "id": 6825,
+            "artist": "Mahmoud El Leithy"
+        },
+        {
+            "name": "7ataly Rouge",
+            "release_date": "2021-08-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738cde75d675d7fb59544853c3",
+            "track_url": "",
+            "id": 6826,
+            "artist": "Mahmoud El Leithy"
+        },
+        {
+            "name": "رجوله برجوله",
+            "release_date": "2021-07-20",
+            "image": "https://i.scdn.co/image/ab67616d0000b27346b7fd02ec47768ffdcde1f9",
+            "track_url": "",
+            "id": 6827,
+            "artist": "Mahmoud El Leithy"
+        },
+        {
+            "name": "Ya Lahwy (El Donya Mowala3a)",
+            "release_date": "2021-07-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735aee3f94d66fd3b3bf075f16",
+            "track_url": "",
+            "id": 6828,
+            "artist": "Mahmoud El Leithy"
+        },
+        {
+            "name": "كتف قانونى",
+            "release_date": "2020-08-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739e3b49d0ac7d3cd244f29ed3",
+            "track_url": "",
+            "id": 6829,
+            "artist": "Mahmoud El Leithy"
+        },
+        {
+            "name": "Taalan Aleina",
+            "release_date": "2020-06-27",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e5fcc2a0b2f9b811fa12e3f6",
+            "track_url": "",
+            "id": 6830,
+            "artist": "Mahmoud El Leithy"
+        }
+    ],
+    "popular_tracks": [
+        {
+            "name": "سيبك من اللي خلع - من فيلم حمص وحلاوة",
+            "track_url": "",
+            "duration_ms": 172363,
+            "image": "https://i.scdn.co/image/ab67616d0000b273261fc5f212150ded60443e12",
+            "id": 6831,
+            "artist": "Mahmoud El Leithy"
+        },
+        {
+            "name": "عم المجال",
+            "track_url": "",
+            "duration_ms": 220434,
+            "image": "https://i.scdn.co/image/ab67616d0000b273a09e06c2d03ebbb4dc04104d",
+            "id": 6832,
+            "artist": "Mahmoud El Leithy"
+        },
+        {
+            "name": "الغل مني هاريكو",
+            "track_url": "",
+            "duration_ms": 242308,
+            "image": "https://i.scdn.co/image/ab67616d0000b2738ed017aea7e673715bd600bb",
+            "id": 6833,
+            "artist": "Mahmoud El Leithy"
+        },
+        {
+            "name": "سطلانة",
+            "track_url": "",
+            "duration_ms": 195238,
+            "image": "https://i.scdn.co/image/ab67616d0000b2733efd711a07d7ad3af56f4524",
+            "id": 6834,
+            "artist": "Mahmoud El Leithy"
+        },
+        {
+            "name": "عم يا صياد",
+            "track_url": "",
+            "duration_ms": 339120,
+            "image": "https://i.scdn.co/image/ab67616d0000b273cb66472c8f408ae3d3042b70",
+            "id": 6835,
+            "artist": "Mahmoud El Leithy"
+        },
+        {
+            "name": "Ya Lahwy (El Donya Mowala3a)",
+            "track_url": "",
+            "duration_ms": 196522,
+            "image": "https://i.scdn.co/image/ab67616d0000b2735aee3f94d66fd3b3bf075f16",
+            "id": 6836,
+            "artist": "Mahmoud El Leithy"
+        },
+        {
+            "name": "حط ايده ياه",
+            "track_url": "",
+            "duration_ms": 242920,
+            "image": "https://i.scdn.co/image/ab67616d0000b273f8d74ebb16ee9b0f78474b4f",
+            "id": 6837,
+            "artist": "Mahmoud El Leithy"
+        },
+        {
+            "name": "Souq El Banat",
+            "track_url": "",
+            "duration_ms": 299400,
+            "image": "https://i.scdn.co/image/ab67616d0000b273b09f4a76ba758031f5addcc2",
+            "id": 6838,
+            "artist": "Mahmoud El Leithy"
+        },
+        {
+            "name": "أخوك يشرف بلد - من فيلم حمص وحلاوة",
+            "track_url": "",
+            "duration_ms": 362372,
+            "image": "https://i.scdn.co/image/ab67616d0000b2732f73e80fcf183b0a45573306",
+            "id": 6839,
+            "artist": "Mahmoud El Leithy"
+        },
+        {
+            "name": "انا بطل السوق",
+            "track_url": "",
+            "duration_ms": 335882,
+            "image": "https://i.scdn.co/image/ab67616d0000b273bf588a09b076c24c086ed36b",
+            "id": 6840,
+            "artist": "Mahmoud El Leithy"
+        }
+    ]
+}

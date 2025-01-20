@@ -1,0 +1,2167 @@
+{
+    "artist": {
+        "id": "591",
+        "name": "Tamer Hosny",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb7e96a37bf1bc63375b0e946d",
+        "background_image": "https://i.scdn.co/image/ab67616100005174393dd0be1629bbb73a4d1480"
+    },
+    "albums": [
+        {
+            "name": "هرمون السعادة",
+            "release_date": "2024-02-14",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735f69b3e1d1d7cc3f7b301ca4",
+            "track_url": "https://open.spotify.com/album/2TjoHRwrTEce1SJZBkZFXn",
+            "tracks": [
+                {
+                    "name": "هرمون السعادة - من فيلم تاج",
+                    "track_url": "https://www.dropbox.com/scl/fi/n3fvknyfmh53nti6q9alu/01-Hormone.ElSaada-MaTb3aa.Com.mp3?rlkey=mnfy1n08j1gkzedkrwjnggrjn&st=d739e85t&dl=1",
+                    "duration_ms": 167272,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735f69b3e1d1d7cc3f7b301ca4",
+                    "id": 593,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "مش هتغير عشان حد",
+                    "track_url": "https://www.dropbox.com/scl/fi/m4k052898rfaqosbayrun/03-Msh.Hatghyar.3ashn.Had-MaTb3aa.Com.mp3?rlkey=05g6txvm7iyrzi0qzjdqycifl&st=22mudujt&dl=1",
+                    "duration_ms": 173113,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735f69b3e1d1d7cc3f7b301ca4",
+                    "id": 594,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Mawahashtkesh !!?",
+                    "track_url": "https://www.dropbox.com/scl/fi/re2t5e9wh2qg2qq5j6lvb/Mawahashtekish-Tamer.Hosny-MaTb3aa.Com.mp3?rlkey=uye51qnnjpvyllbo5nk7tjc6k&st=xwam2odx&dl=1",
+                    "duration_ms": 327456,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735f69b3e1d1d7cc3f7b301ca4",
+                    "id": 595,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "معلش",
+                    "track_url": "https://www.dropbox.com/scl/fi/sqsfz6qap5qi6voxz1z9e/Maalish-Tamer.Hosny-MaTb3aa.Com.mp3?rlkey=ai2buv4u4v66bq1i7s10c73ku&st=18an2w23&dl=1",
+                    "duration_ms": 237871,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735f69b3e1d1d7cc3f7b301ca4",
+                    "id": 596,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Hawwa",
+                    "track_url": "https://www.dropbox.com/scl/fi/qwhh85ku7ytrioi9jgkn8/04-Hawa-MaTb3aa.Com.mp3?rlkey=6b0aw8t1kqd9svedzuqk6jauu&st=ciop4q1q&dl=1",
+                    "duration_ms": 187500,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735f69b3e1d1d7cc3f7b301ca4",
+                    "id": 597,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "موضوع رجوعنا",
+                    "track_url": "https://www.dropbox.com/scl/fi/mb8jjxujnqng16hitacni/07-Mawdoa.Rogoana-MaTb3aa.Com.mp3?rlkey=cq1pinr3nfeu65acngkdmwjpv&st=k3deeycj&dl=1",
+                    "duration_ms": 266341,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735f69b3e1d1d7cc3f7b301ca4",
+                    "id": 598,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "ولا يهمك",
+                    "track_url": "https://www.dropbox.com/scl/fi/fwgn1ewt1x1a92515forq/08-Wala.Yehmek-MaTb3aa.Com.mp3?rlkey=g56xejr20iwkoh6poj2n7rlfh&st=d5fe5ory&dl=1",
+                    "duration_ms": 231651,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735f69b3e1d1d7cc3f7b301ca4",
+                    "id": 599,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "٣٠ حياة",
+                    "track_url": "https://www.dropbox.com/scl/fi/ukksio9sfkjiaylcpnvmt/30.Hayah-Tamer.Hosny-MaTb3aa.Com.mp3?rlkey=xetbzn8tjrmqm4q6h00xpy9yj&st=a6rh7k9m&dl=1",
+                    "duration_ms": 318132,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735f69b3e1d1d7cc3f7b301ca4",
+                    "id": 600,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "تاج",
+                    "track_url": "https://www.dropbox.com/scl/fi/8kd2kn8zdpe9rdc3sfgtm/02-Tag-MaTb3aa.Com.mp3?rlkey=2hwpxegqm6jj7ljcw7vnlpody&st=9z7nhdm4&dl=1",
+                    "duration_ms": 187956,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735f69b3e1d1d7cc3f7b301ca4",
+                    "id": 601,
+                    "artist": "Tamer Hosny"
+                }
+            ],
+            "id": 592
+        },
+        {
+            "name": "Aashaangy",
+            "release_date": "2022-07-22",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c6b49e24db41cb9f9d2505bf",
+            "track_url": "https://open.spotify.com/album/6AgCloadQiCMgVoirgp5DO",
+            "tracks": [
+                {
+                    "name": "Leeh Tallah",
+                    "track_url": "https://www.dropbox.com/scl/fi/e94tiujuvqnynb4dhlrle/Leeh-tallah.mp3?rlkey=b0zws6nylgjqn3wscu9p4lvs7&st=r4zaqpv1&dl=1",
+                    "duration_ms": 193306,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c6b49e24db41cb9f9d2505bf",
+                    "id": 603,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Ahla Kalam",
+                    "track_url": "https://www.dropbox.com/scl/fi/jbx1fb6kxl0k5l4fh18vp/Ahla-kalam.mp3?rlkey=obqlhel4o3cv551aq9oz14qzg&st=sy6k6pep&dl=1",
+                    "duration_ms": 202500,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c6b49e24db41cb9f9d2505bf",
+                    "id": 604,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Mabagesh Bel Tareaa De",
+                    "track_url": "https://www.dropbox.com/scl/fi/79gq1rgliavrt0lgqcz1i/Ma-Bgysh-Baltrykt-Deh.mp3?rlkey=3etkf2qoomldi4dbr5xww2vie&st=ftrgsvvg&dl=1",
+                    "duration_ms": 177436,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c6b49e24db41cb9f9d2505bf",
+                    "id": 605,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Bood Moaakat",
+                    "track_url": "https://www.dropbox.com/scl/fi/epshnpukhszhoun8of5sr/Bood-Mokat.mp3?rlkey=vyn2iai8met4zahiqlu8541vp&st=t2cl4d1m&dl=1",
+                    "duration_ms": 224444,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c6b49e24db41cb9f9d2505bf",
+                    "id": 606,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Sawhna",
+                    "track_url": "https://www.dropbox.com/scl/fi/xdj52rabf6122cifc6yv1/Sawhna.mp3?rlkey=iiup2milydzzawt0bqjo16oa6&st=fpb2vrc4&dl=1",
+                    "duration_ms": 195164,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c6b49e24db41cb9f9d2505bf",
+                    "id": 607,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Zay Al Ayam De",
+                    "track_url": "https://www.dropbox.com/scl/fi/9w1fbaxaaqntfog8slwfv/Zay-Alayam-deh.mp3?rlkey=ggs8x7u8cea71alpw02zcz2fx&st=nl3ix6oj&dl=1",
+                    "duration_ms": 202666,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c6b49e24db41cb9f9d2505bf",
+                    "id": 608,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Khadna Manaaa",
+                    "track_url": "https://www.dropbox.com/scl/fi/qlwgonkx6l8i4x7hbbn4m/Khadna-Mnaat.mp3?rlkey=gg9pe5xddgahw9epmm34dskfn&st=p0ui2l5x&dl=1",
+                    "duration_ms": 193600,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c6b49e24db41cb9f9d2505bf",
+                    "id": 609,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Sagel Ya Tarekh",
+                    "track_url": "https://www.dropbox.com/scl/fi/10kqqjkgkwqnycdzmop2p/Sagel-Ya-Tarykh.mp3?rlkey=u8xjq8qstb1yps53juq4kaknq&st=9qeivcnh&dl=1",
+                    "duration_ms": 187960,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c6b49e24db41cb9f9d2505bf",
+                    "id": 610,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Aashaangy",
+                    "track_url": "https://www.dropbox.com/scl/fi/3trsl5rps087u38luiic1/Ashangy.mp3?rlkey=s19av3tdprd5yf3dee6ylq1os&st=mhjv1m3i&dl=1",
+                    "duration_ms": 219130,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c6b49e24db41cb9f9d2505bf",
+                    "id": 611,
+                    "artist": "Tamer Hosny"
+                }
+            ],
+            "id": 602
+        },
+        {
+            "name": "Khaleek Folazy",
+            "release_date": "2021-01-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b273068a10192e7395920953d54c",
+            "track_url": "https://open.spotify.com/album/6KNdxWaivqMU8fticlgR2L",
+            "tracks": [
+                {
+                    "name": "Awelny Kalam",
+                    "track_url": "https://www.dropbox.com/scl/fi/asy0dfvqixxier5yjd5rn/Awelny-Kalam.mp3?rlkey=qfi1aabe9pkrt57yhay8vkiha&st=te7xiqdy&dl=1",
+                    "duration_ms": 197789,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273068a10192e7395920953d54c",
+                    "id": 613,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Mabatalnash Ehsas",
+                    "track_url": "https://www.dropbox.com/scl/fi/9avit6vtq0b8g80q2rm3b/Mabatalnash-Ehsas.mp3?rlkey=23euftdknmwibx0l4r60dilu4&st=axk5k3kt&dl=1",
+                    "duration_ms": 179154,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273068a10192e7395920953d54c",
+                    "id": 614,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Ad El Foraq",
+                    "track_url": "https://www.dropbox.com/scl/fi/g1dpa0grblne3rq40vrbg/Ad-El-Foraq.mp3?rlkey=x7g9xf2pgw5psifvqxj19qwgv&st=367nsewn&dl=1",
+                    "duration_ms": 311634,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273068a10192e7395920953d54c",
+                    "id": 615,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Fagaa Eftaraana",
+                    "track_url": "https://www.dropbox.com/scl/fi/se2bx4uqrmv0ji8bre9i1/Fagaa-Eftaraana.mp3?rlkey=z0wu0yviv40g8zo2dw3akibjq&st=w71ppaq9&dl=1",
+                    "duration_ms": 235212,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273068a10192e7395920953d54c",
+                    "id": 616,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Nafs El Nehaya",
+                    "track_url": "https://www.dropbox.com/scl/fi/dsv7f6a5axzww5eb2xarx/Nafs-El-Nehaya.mp3?rlkey=w9m608f0ejdnk42j36px7nzem&st=mws3lcqy&dl=1",
+                    "duration_ms": 197342,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273068a10192e7395920953d54c",
+                    "id": 617,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Tamaateeny",
+                    "track_url": "https://www.dropbox.com/scl/fi/qbg7glmvktjer25s9v0cw/Tamaateeny.mp3?rlkey=hwbb90sv45mdmtaynsasojuiv&st=80b4il8g&dl=1",
+                    "duration_ms": 195500,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273068a10192e7395920953d54c",
+                    "id": 618,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Fe Gamal Keda",
+                    "track_url": "https://www.dropbox.com/scl/fi/8ix2d6j3aop3hy8mw6dgv/Fe-Gamal-Keda.mp3?rlkey=c7v1roj0p934nego7ieo66brx&st=yxgtvd9j&dl=1",
+                    "duration_ms": 210588,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273068a10192e7395920953d54c",
+                    "id": 619,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Karahteny Fel Hob",
+                    "track_url": "https://www.dropbox.com/scl/fi/ruluzu9lv0ixay1o4pwux/Karahteny-Fel-Hob.mp3?rlkey=98577qdydmfryd4ifwgiq2mzz&st=sy3k22ah&dl=1",
+                    "duration_ms": 206363,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273068a10192e7395920953d54c",
+                    "id": 620,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Be Alf Salama",
+                    "track_url": "https://www.dropbox.com/scl/fi/952kbrbv6iplk34f3sy9e/Be-Alf-Salama.mp3?rlkey=9ic78utmp1qz41jrs5xvj1ixq&st=it4nx9eb&dl=1",
+                    "duration_ms": 256000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273068a10192e7395920953d54c",
+                    "id": 621,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Khaleek Folazy",
+                    "track_url": "https://www.dropbox.com/scl/fi/m24f8v1aqh73yek323jf8/Khaleek-Folazy.mp3?rlkey=cg1f6ecqyjbnfasvcmadv78lz&st=kgngbklz&dl=1",
+                    "duration_ms": 242051,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273068a10192e7395920953d54c",
+                    "id": 622,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Ekhteraa",
+                    "track_url": "https://www.dropbox.com/scl/fi/cxbc3xq0alzs3jg6b3u9b/Ekhtraa.mp3?rlkey=os5z66jf5ka4budo67sqzqpqc&st=wos28haw&dl=1",
+                    "duration_ms": 183272,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273068a10192e7395920953d54c",
+                    "id": 623,
+                    "artist": "Tamer Hosny"
+                }
+            ],
+            "id": 612
+        },
+        {
+            "name": "Eish Besho'ak",
+            "release_date": "2018-08-03",
+            "image": "https://i.scdn.co/image/ab67616d0000b27309892f0ebd3303b938291715",
+            "track_url": "https://open.spotify.com/album/7u14kRIlBjFL0sAfNnaOis",
+            "tracks": [
+                {
+                    "name": "Lolak Habiby",
+                    "track_url": "https://www.dropbox.com/scl/fi/95nswvydttnf601ubz5n1/Lolak-Habiby.mp3?rlkey=wfhqqgeguuhigvq6jly0g4ks6&st=pu3oug7w&dl=1",
+                    "duration_ms": 175151,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27309892f0ebd3303b938291715",
+                    "id": 625,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Kabelteeny",
+                    "track_url": "https://www.dropbox.com/scl/fi/uup08m4fen12ec6rmo5h7/Kabelteeny.mp3?rlkey=pz41m19woi5m53chkn4phz939&st=cdjppvbj&dl=1",
+                    "duration_ms": 267023,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27309892f0ebd3303b938291715",
+                    "id": 626,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Nasseeny Leih",
+                    "track_url": "https://www.dropbox.com/scl/fi/qfzvcnurgl0vt4k6c4geb/Nasseeny-Leih.mp3?rlkey=zx10x5y7pier181s7mwml4p3x&st=p9oxb7oq&dl=1",
+                    "duration_ms": 247943,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27309892f0ebd3303b938291715",
+                    "id": 627,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Kefayak Aazar",
+                    "track_url": "https://www.dropbox.com/scl/fi/trh9kxq2pl8g54m23c7qj/Kefayak-Aazar.mp3?rlkey=5w563n5x8y8q3604tc9y6cy6d&st=s6zo4gpc&dl=1",
+                    "duration_ms": 253895,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27309892f0ebd3303b938291715",
+                    "id": 628,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Eish Besho'ak",
+                    "track_url": "https://www.dropbox.com/scl/fi/nr2ycqzz3kougso5zj2kq/Eish-Besho2ak.mp3?rlkey=i1efsiay8wgum3wdxzorp69bt&st=h1pvhn8x&dl=1",
+                    "duration_ms": 216815,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27309892f0ebd3303b938291715",
+                    "id": 629,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "We Akheeran",
+                    "track_url": "https://www.dropbox.com/scl/fi/m2wgcxhxd79rl96dobbtw/We-Akheeran.mp3?rlkey=vn71x7fn299zf2qpqte6owi39&st=pz8mwn7y&dl=1",
+                    "duration_ms": 201287,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27309892f0ebd3303b938291715",
+                    "id": 630,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "We Enta Maaya",
+                    "track_url": "https://www.dropbox.com/scl/fi/ntgsf5836ls3w9uj30ewh/We-Enta-Maaya.mp3?rlkey=4rqtv4g5lwcprjjsljml27dkb&st=htppy6je&dl=1",
+                    "duration_ms": 232463,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27309892f0ebd3303b938291715",
+                    "id": 631,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Hekayat El Hob",
+                    "track_url": "https://www.dropbox.com/scl/fi/cikzgtrb70470s5oq4x1k/Hekayat-El-Hob.mp3?rlkey=l1txd5gowvgasbls2cp1kacwt&st=gv4lupw8&dl=1",
+                    "duration_ms": 236520,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27309892f0ebd3303b938291715",
+                    "id": 632,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Taman Ekhteyar",
+                    "track_url": "https://www.dropbox.com/scl/fi/mhqzvjngj9i5zdob1l0lx/Taman-Ekhteyar.mp3?rlkey=osqpjfs6pqmnkby6wn26qgmxt&st=hoy62iiq&dl=1",
+                    "duration_ms": 250367,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27309892f0ebd3303b938291715",
+                    "id": 633,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Ward Senaaey",
+                    "track_url": "https://www.dropbox.com/scl/fi/xsk4hc61zg8fa1x8v43fl/Ward-Senaaey.mp3?rlkey=uw8mcm6wp0thfnhjuxt215dyo&st=n0ab6cxj&dl=1",
+                    "duration_ms": 222960,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27309892f0ebd3303b938291715",
+                    "id": 634,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Wala Youm Men Ayamo",
+                    "track_url": "https://www.dropbox.com/scl/fi/ls8p8bmiqd8azmbkierjh/Wala-Youm-Men-Ayamo.mp3?rlkey=l2b7kd549x1d4efx39uig08j9&st=2fwgnfp0&dl=1",
+                    "duration_ms": 264647,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27309892f0ebd3303b938291715",
+                    "id": 635,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "100 Wesh",
+                    "track_url": "https://www.dropbox.com/scl/fi/qn7kdbd4oys98la9vhfc2/100-Wesh.mp3?rlkey=lgtyc5u9k8zqso2k61yj5qbbn&st=qajte8o7&dl=1",
+                    "duration_ms": 334800,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27309892f0ebd3303b938291715",
+                    "id": 636,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Helm Seneen",
+                    "track_url": "https://www.dropbox.com/scl/fi/monh0bppj9dllf391rx2o/Helm-Seneen.mp3?rlkey=1e40972fc33fcv34k05tji2jz&st=j4nnem4d&dl=1",
+                    "duration_ms": 239351,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27309892f0ebd3303b938291715",
+                    "id": 637,
+                    "artist": "Tamer Hosny"
+                }
+            ],
+            "id": 624
+        },
+        {
+            "name": "Omry Ebtada",
+            "release_date": "2016-06-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d293170fab9e8083d35114d1",
+            "track_url": "https://open.spotify.com/album/59sHG6PDr7qGBkFsJ2upQ5",
+            "tracks": [
+                {
+                    "name": "Omry Ebtada",
+                    "track_url": "https://www.dropbox.com/scl/fi/8bsb8a0im8jvmxehsicxu/Omry-Ebtada.mp3?rlkey=lwtsl3wm73d98pbj4z5cdhbmh&st=4au6j6bq&dl=1",
+                    "duration_ms": 236426,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d293170fab9e8083d35114d1",
+                    "id": 639,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Ya Mali Aaeny",
+                    "track_url": "https://www.dropbox.com/scl/fi/g6ps6oomzzm67fp8g7p5m/02._Ya_Maly_Einy.mp3?rlkey=nayjsb0edof1481ta9n8adh9v&st=nsxunebu&dl=1",
+                    "duration_ms": 216320,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d293170fab9e8083d35114d1",
+                    "id": 640,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Nafs El Haneen",
+                    "track_url": "https://www.dropbox.com/scl/fi/41jm5vnu8ejngj3fyrhzk/Nafs-El-Hanen.mp3?rlkey=jbw0hji2qmgubhkinya6nv4i1&st=i8wf4mo9&dl=1",
+                    "duration_ms": 313306,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d293170fab9e8083d35114d1",
+                    "id": 641,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Ya Aayoon",
+                    "track_url": "https://www.dropbox.com/scl/fi/xag2uaw3e5x9v71wo8sdu/06._Ya_3youn.mp3?rlkey=jnmnieifesqpejpb405mmud2e&st=9z4c91oi&dl=1",
+                    "duration_ms": 284226,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d293170fab9e8083d35114d1",
+                    "id": 642,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "El Hares Allah",
+                    "track_url": "https://www.dropbox.com/scl/fi/zpulcv23fzw7unuvwx0sv/03._El_Hares_Allah.mp3?rlkey=t7dgz67g3ep18luwltc4qdk2g&st=mhs2g9tp&dl=1",
+                    "duration_ms": 208000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d293170fab9e8083d35114d1",
+                    "id": 643,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Kan Fe Wahda",
+                    "track_url": "https://www.dropbox.com/scl/fi/7tz7j7pxn4fjllwljxb03/10._Kan_Fe_Wa7da.mp3?rlkey=ppkz4puroceb8mglpx4ishdkl&st=o3vwusnu&dl=1",
+                    "duration_ms": 234640,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d293170fab9e8083d35114d1",
+                    "id": 644,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Fad Beya",
+                    "track_url": "https://www.dropbox.com/scl/fi/ehdrmc4yrirbk26lcstkw/04._Fad_Bya.mp3?rlkey=eicx5s04529nxsusz912m7dj6&st=8i6tl3ar&dl=1",
+                    "duration_ms": 240706,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d293170fab9e8083d35114d1",
+                    "id": 645,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Batelet El AAlam Fel Nakad",
+                    "track_url": "https://www.dropbox.com/scl/fi/jy0lg7eh23inq761bsc6o/08._Batalet_El_3alm_FlNakad.mp3?rlkey=87zx8i4qs3wk1byqzzioj1igt&st=rssw7zys&dl=1",
+                    "duration_ms": 203466,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d293170fab9e8083d35114d1",
+                    "id": 646,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Ehsasy Mabyekdebsh",
+                    "track_url": "https://www.dropbox.com/scl/fi/3shgvpbxtsjall1kyc56u/09._Ehsasy_Mabykdbsh.mp3?rlkey=2uoc8ffst3gibmh0o9ct7lp53&st=0sz4thj0&dl=1",
+                    "duration_ms": 266000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d293170fab9e8083d35114d1",
+                    "id": 647,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Habibi Khalas",
+                    "track_url": "https://www.dropbox.com/scl/fi/9wd9ith1qpfjv1bxn3rsk/07._Habeby_Khalas.mp3?rlkey=m9dgo52sshskbwj89ik0kx4n8&st=8vqu3kqw&dl=1",
+                    "duration_ms": 255400,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d293170fab9e8083d35114d1",
+                    "id": 648,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Shokran Ennak Fe Hayaty",
+                    "track_url": "https://www.dropbox.com/scl/fi/2vkmvpxlmbpcoew8uzthp/13._Shokran_Enk_Fe_Hayate.mp3?rlkey=o7l11e1pybru9jkk4341si26c&st=uug67n7d&dl=1",
+                    "duration_ms": 223493,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d293170fab9e8083d35114d1",
+                    "id": 649,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Ya Baaeed",
+                    "track_url": "https://www.dropbox.com/scl/fi/ud9ncz0gyeevd28sxm4se/11._Ya_B3eed.mp3?rlkey=7vw62i4vhvyb1b94gg7sy2sq2&st=aqc5xe9l&dl=1",
+                    "duration_ms": 226160,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d293170fab9e8083d35114d1",
+                    "id": 650,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Kaddab W Anany",
+                    "track_url": "https://www.dropbox.com/scl/fi/e9hmdj33xhftbx4jzm84c/12._Kdab_W_Anany.mp3?rlkey=wd2665vq2ubucp4s9xfmuelyy&st=jffg4xqy&dl=1",
+                    "duration_ms": 259186,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d293170fab9e8083d35114d1",
+                    "id": 651,
+                    "artist": "Tamer Hosny"
+                }
+            ],
+            "id": 638
+        },
+        {
+            "name": "180°",
+            "release_date": "2015-03-03",
+            "image": "https://i.scdn.co/image/ab67616d0000b27321e842adb444d95d795d5daa",
+            "track_url": "https://open.spotify.com/album/0ewDCHOmOjGuXre6Vuw6m5",
+            "tracks": [
+                {
+                    "name": "180 Darga",
+                    "track_url": "https://www.dropbox.com/scl/fi/75cy3ue9vuubb6iq7sfaj/04.180_Daraga.mp3?rlkey=gy7a5k818wi6n2js9ucvcrc03&st=qkd5ij7s&dl=1",
+                    "duration_ms": 307487,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27321e842adb444d95d795d5daa",
+                    "id": 653,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Kol Al Lahgat",
+                    "track_url": "https://www.dropbox.com/scl/fi/vd260i5vo9okjrv5p64nz/12.Bahebk_B_Kol_El_Loghat.mp3?rlkey=g6uhlde9o0xariumdaky7lsmy&st=qxg4rhiu&dl=1",
+                    "duration_ms": 264960,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27321e842adb444d95d795d5daa",
+                    "id": 654,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Etmany",
+                    "track_url": "https://www.dropbox.com/scl/fi/a8sduuwqo09rawowxhsft/09.Etamny.mp3?rlkey=dcv1ch90iqkcnf1euyvlds7zi&st=8wxehfcq&dl=1",
+                    "duration_ms": 269557,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27321e842adb444d95d795d5daa",
+                    "id": 655,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Meen Momkan",
+                    "track_url": "https://www.dropbox.com/scl/fi/s8boep4dvb6wa226tivgm/01.Meen_Momken.mp3?rlkey=xfqu3sv0or9h9wvg3i2urivw0&st=ab7zuhzm&dl=1",
+                    "duration_ms": 267807,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27321e842adb444d95d795d5daa",
+                    "id": 656,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Nergaa Tani",
+                    "track_url": "https://www.dropbox.com/scl/fi/5pawtqf63i2u3fl5h0epz/07.Nergaa_Tany.mp3?rlkey=h2g6ktyeasyf4gn9vihi5ykjc&st=1vz18i6x&dl=1",
+                    "duration_ms": 241188,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27321e842adb444d95d795d5daa",
+                    "id": 657,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Welcome To The Life",
+                    "track_url": "https://www.dropbox.com/scl/fi/69mz1k1ma5y0klz6a9fqq/08.Welcome_To_The_Life.mp3?rlkey=ta8jwhwm5zgdyf86r30yesyid&st=8uth9f1u&dl=1",
+                    "duration_ms": 239830,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27321e842adb444d95d795d5daa",
+                    "id": 658,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Fi Al Haiah",
+                    "track_url": "https://www.dropbox.com/scl/fi/5juiyxdwbkn2g4ktaec77/10.Fe_El_Hayah.mp3?rlkey=rwp1lkf8dambic00eqqmx3t0h&st=0abtfks9&dl=1",
+                    "duration_ms": 281626,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27321e842adb444d95d795d5daa",
+                    "id": 659,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Matetghairy Baa",
+                    "track_url": "https://www.dropbox.com/scl/fi/8c3vr1m9j5sf9bdmsbyfn/11.Mattghiry_Baaa.mp3?rlkey=bv2pv9qm215w2rzuy45ewha70&st=1wx09l2e&dl=1",
+                    "duration_ms": 263000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27321e842adb444d95d795d5daa",
+                    "id": 660,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Al Ouada Etfakit",
+                    "track_url": "https://www.dropbox.com/scl/fi/lp1ag38g998sgjt274xt8/06.El_Oada_Etfaket.mp3?rlkey=etm87tdihoqg1ycxvx3dflv4w&st=a2b3pkxs&dl=1",
+                    "duration_ms": 274024,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27321e842adb444d95d795d5daa",
+                    "id": 661,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Zai Al Nile",
+                    "track_url": "https://www.dropbox.com/scl/fi/70vxwb9mbl86lfpm0yzvk/05.Zay_El_Nile.mp3?rlkey=b6gy558xe0if4887hsf106euj&st=kbqi11z1&dl=1",
+                    "duration_ms": 252839,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27321e842adb444d95d795d5daa",
+                    "id": 662,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Dana Baba",
+                    "track_url": "https://www.dropbox.com/scl/fi/z1cp4zfviwqwqtgja3qb7/02.Da_Ana_Baba.mp3?rlkey=lixi0ksfn0wtniwxpoqkdbkup&st=35paq6bg&dl=1",
+                    "duration_ms": 236146,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27321e842adb444d95d795d5daa",
+                    "id": 663,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Kol Dah Ala Aieh",
+                    "track_url": "https://www.dropbox.com/scl/fi/m3lmvkw91eimwvheun660/03.Kol_Da_Ala_Eh.mp3?rlkey=n8b8x2trgkay7kz0529e4dy0p&st=ng28m7xe&dl=1",
+                    "duration_ms": 294687,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27321e842adb444d95d795d5daa",
+                    "id": 664,
+                    "artist": "Tamer Hosny"
+                }
+            ],
+            "id": 652
+        },
+        {
+            "name": "Bahebak Enta",
+            "release_date": "2013-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e1e79d36df0ae23225893bb1",
+            "track_url": "https://open.spotify.com/album/09Iegf49OXJtBrfuXHdFm5",
+            "tracks": [
+                {
+                    "name": "Bahebak Enta",
+                    "track_url": "https://www.dropbox.com/scl/fi/cx1cfg43uqh3mgu9wscs8/01._Bahebak_Enta.mp3?rlkey=jtmglzc1pd6n36y6k8rym5t1p&st=0hpk0da4&dl=1",
+                    "duration_ms": 367255,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e1e79d36df0ae23225893bb1",
+                    "id": 666,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Ya Bakht Elli Hathebeh",
+                    "track_url": "https://www.dropbox.com/scl/fi/a8tos3wvzkps3fr029xuo/02._Ya_Ba5t_Elly_Het7beh.mp3?rlkey=okq8e0oekpp28xa90zk28ul31&st=lkq99q8z&dl=1",
+                    "duration_ms": 237975,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e1e79d36df0ae23225893bb1",
+                    "id": 667,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Elly Rah",
+                    "track_url": "https://www.dropbox.com/scl/fi/hcr716a1bmd5mlcmr4ai5/03._Elly_Rah.mp3?rlkey=v30tu8k9cfluc5jqisbobxirz&st=r8zujgkl&dl=1",
+                    "duration_ms": 289985,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e1e79d36df0ae23225893bb1",
+                    "id": 668,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Yareet Terda",
+                    "track_url": "https://www.dropbox.com/scl/fi/0ast60o9ex82gjsed2lss/11._Ya_Ret_Terdy.mp3?rlkey=fv97dk29656z3d2tqua32eypy&st=v72iut34&dl=1",
+                    "duration_ms": 261381,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e1e79d36df0ae23225893bb1",
+                    "id": 669,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Magnoun Ana",
+                    "track_url": "https://www.dropbox.com/scl/fi/qa3gkkn0v2ocvx92yyhrd/05._Magnon_Ana.mp3?rlkey=t5o6w0c6jr2zbofbv8drjyz8p&st=kgs6s7yd&dl=1",
+                    "duration_ms": 250592,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e1e79d36df0ae23225893bb1",
+                    "id": 670,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Had Shabaho",
+                    "track_url": "https://www.dropbox.com/scl/fi/n5713tgna3fktpl7vjsve/04._Had_Shabahoh.mp3?rlkey=dtb84ga2iieelv16lrp8h1bmy&st=12ni334k&dl=1",
+                    "duration_ms": 201560,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e1e79d36df0ae23225893bb1",
+                    "id": 671,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Ta3ali Ne3esh",
+                    "track_url": "https://www.dropbox.com/scl/fi/hnwgo8dqjj3jqz72vscuu/06._T3ala_N3esh.mp3?rlkey=d1trfk15js89xl1yiawup4zvr&st=qj6rgjkk&dl=1",
+                    "duration_ms": 322115,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e1e79d36df0ae23225893bb1",
+                    "id": 672,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "W Men Ba3adi El Tofan",
+                    "track_url": "https://www.dropbox.com/scl/fi/vmw95qm2754yyza2yz81s/07._W_Mn_Ba3dy_Eltofan.mp3?rlkey=j2yvbuze27qdw7rtec4dqmtqw&st=lv2npj8e&dl=1",
+                    "duration_ms": 282749,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e1e79d36df0ae23225893bb1",
+                    "id": 673,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Safha Gededa",
+                    "track_url": "https://www.dropbox.com/scl/fi/8mfk1avhsxq3n8ytcn3r3/08._Saf7a_Gdeda.mp3?rlkey=3abp4uo7wq5rumqyivn84myd5&st=tlmv86ku&dl=1",
+                    "duration_ms": 254511,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e1e79d36df0ae23225893bb1",
+                    "id": 674,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Khalina Ekhwat",
+                    "track_url": "https://www.dropbox.com/scl/fi/4gt86en5sxcs6cely8h1f/09._5alena_E5wat.mp3?rlkey=og4b8xev25de8ahleweigy4wr&st=65mnxued&dl=1",
+                    "duration_ms": 227004,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e1e79d36df0ae23225893bb1",
+                    "id": 675,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Habet Etnen",
+                    "track_url": "https://www.dropbox.com/scl/fi/41lkcnh9b8jrliue40jew/10._Habet_Etnen.mp3?rlkey=ghhv46tpexiesl9py92qmooex&st=f01guaw8&dl=1",
+                    "duration_ms": 277916,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e1e79d36df0ae23225893bb1",
+                    "id": 676,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Ghorba",
+                    "track_url": "https://www.dropbox.com/scl/fi/q6hgxddp2vsj3tl72j5s0/12._Ghorba.mp3?rlkey=7vweiwf7lot6wa4ncneozbgvf&st=zexlhtr9&dl=1",
+                    "duration_ms": 236120,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e1e79d36df0ae23225893bb1",
+                    "id": 677,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Yaraito Had Yestahel",
+                    "track_url": "https://www.dropbox.com/scl/fi/oo715fbi14omhilj47x9k/13._Ya_Retoh_Yestahel.mp3?rlkey=7iq5joyy5dt18rriq2r1ibvl1&st=v9qf8zab&dl=1",
+                    "duration_ms": 278465,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e1e79d36df0ae23225893bb1",
+                    "id": 678,
+                    "artist": "Tamer Hosny"
+                }
+            ],
+            "id": 665
+        },
+        {
+            "name": "Elly Gai Ahla",
+            "release_date": "2011-06-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ee7433ad544ec159b76486f6",
+            "track_url": "https://open.spotify.com/album/4dNiQufKnaN7G4IvVpA4Zz",
+            "tracks": [
+                {
+                    "name": "Agmal Hedeya",
+                    "track_url": "https://www.dropbox.com/scl/fi/8kz28sqebi6wtwsxiz1io/09.Agmal_Hedeya.mp3?rlkey=3crp0cvz3rm46g2nezq1e78br&st=395qpr46&dl=1",
+                    "duration_ms": 247240,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ee7433ad544ec159b76486f6",
+                    "id": 680,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Akalemha",
+                    "track_url": "https://www.dropbox.com/scl/fi/oqsiiyagpkvoox8m1cp7h/03.Aklemha.mp3?rlkey=c0g8d8al22i6ann23rcznmyvc&st=zo3pvs9z&dl=1",
+                    "duration_ms": 233426,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ee7433ad544ec159b76486f6",
+                    "id": 681,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Ana Masry",
+                    "track_url": "https://www.dropbox.com/scl/fi/rmd9xk9dig4ssn8ci6wre/14.Ana_Masry.mp3?rlkey=qjz3x67uf506ugpmt7gqbuwjw&st=lmc9lp9g&dl=1",
+                    "duration_ms": 235800,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ee7433ad544ec159b76486f6",
+                    "id": 682,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Dayman Maak",
+                    "track_url": "https://www.dropbox.com/scl/fi/j2doamz6gvymuuu4cu1vt/04.Dayman_Maaak.mp3?rlkey=mrjqw9gwxd1nxj9k9trh2dkxt&st=v9l9whde&dl=1",
+                    "duration_ms": 295093,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ee7433ad544ec159b76486f6",
+                    "id": 683,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Elly Aada Aada",
+                    "track_url": "https://www.dropbox.com/scl/fi/g9jginc7oczd3716g2hcc/05.Elly_Aaada_Aaada.mp3?rlkey=283ikix6fwpfgnoxlaht68ypz&st=j507dj6t&dl=1",
+                    "duration_ms": 299520,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ee7433ad544ec159b76486f6",
+                    "id": 684,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Elly Gai Ahla",
+                    "track_url": "https://www.dropbox.com/scl/fi/qx5zc5l8qhmg3nk08mob1/01.Elly_Gai_Ahla.mp3?rlkey=0gsqw5lcvsxbppq2umzpdmfnu&st=li490ho7&dl=1",
+                    "duration_ms": 313346,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ee7433ad544ec159b76486f6",
+                    "id": 685,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Erfet Teghayar Men Nafsaha",
+                    "track_url": "https://www.dropbox.com/scl/fi/ua3bxfzcbnb6lqn1dm5sa/02.Erfet_Teghayar_Men_Nafsaha.mp3?rlkey=n833ulqsjlc7yszw3noukx708&st=md60w9ls&dl=1",
+                    "duration_ms": 298040,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ee7433ad544ec159b76486f6",
+                    "id": 686,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Ertah",
+                    "track_url": "https://www.dropbox.com/scl/fi/j1vzp3ezgzucfwgxqsjcu/10.Ertah.mp3?rlkey=t2tyzdjd6zxh1m3nmz015bgk6&st=52lbbp6d&dl=1",
+                    "duration_ms": 255386,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ee7433ad544ec159b76486f6",
+                    "id": 687,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Kammel Lewahdak",
+                    "track_url": "https://www.dropbox.com/scl/fi/w47w7mf5rbm4syrvmo3d5/07.Kammel_Lewahdak.mp3?rlkey=6ifn32z2t6allqypo7gqwwn1t&st=lmtg9xfp&dl=1",
+                    "duration_ms": 226280,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ee7433ad544ec159b76486f6",
+                    "id": 688,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Kol Yom Ahebo Tani",
+                    "track_url": "https://www.dropbox.com/scl/fi/mm0irse7argh6l0dky2x0/12.Kol_Yom_Ahebo_Tani.mp3?rlkey=07mr3u61qk2y0f1n6auomjz9s&st=w4ttg6xx&dl=1",
+                    "duration_ms": 288840,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ee7433ad544ec159b76486f6",
+                    "id": 689,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Matesaalnesh",
+                    "track_url": "https://www.dropbox.com/scl/fi/qxjprko0phpzc0a0ib4c9/08.Matesaaalnesh.mp3?rlkey=0ruucxrj84cq9l5bdv3g6ebwm&st=xzn8du9o&dl=1",
+                    "duration_ms": 240853,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ee7433ad544ec159b76486f6",
+                    "id": 690,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Mayhonsh Aalaya",
+                    "track_url": "https://www.dropbox.com/scl/fi/njgga2032gukoravo1ofd/06.Mayhonsh_Aaalaya.mp3?rlkey=plxy6mhke6akp0xoz9ue9vy2j&st=lblc57w1&dl=1",
+                    "duration_ms": 227186,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ee7433ad544ec159b76486f6",
+                    "id": 691,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Saaedny Ansak",
+                    "track_url": "https://www.dropbox.com/scl/fi/f6zskn4kq4h6kjjdr9ofq/11.Saaedny_Ansak.mp3?rlkey=haye963vdgczxht56tt1zgrvn&st=yvshnc4p&dl=1",
+                    "duration_ms": 209760,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ee7433ad544ec159b76486f6",
+                    "id": 692,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Wala Teswa El Donya",
+                    "track_url": "https://www.dropbox.com/scl/fi/0pbmrsm7ut6myt45njywk/13.Wala_Teswa_El_Donia.mp3?rlkey=ymd1lsysax025cg04o0pt27ko&st=q8qtzirq&dl=1",
+                    "duration_ms": 331293,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ee7433ad544ec159b76486f6",
+                    "id": 693,
+                    "artist": "Tamer Hosny"
+                }
+            ],
+            "id": 679
+        },
+        {
+            "name": "Ekhtart Sah",
+            "release_date": "2010-06-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731b1cc62b38ae667c7dc001e3",
+            "track_url": "https://open.spotify.com/album/3wfH8A6DyBlbWWyzonseqf",
+            "tracks": [
+                {
+                    "name": "Afalt Alby",
+                    "track_url": "https://www.dropbox.com/scl/fi/19eya1kskrb3lcbupo256/07.Aflt_Alby.mp3?rlkey=nlte39wq0ge6c09cao1ux1m6q&st=zn0ax2cs&dl=1",
+                    "duration_ms": 271840,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731b1cc62b38ae667c7dc001e3",
+                    "id": 695,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Ain Shams",
+                    "track_url": "https://www.dropbox.com/scl/fi/b3oe4gms60zlx3ueg1vu0/02.Ain_Shams.mp3?rlkey=y246okbkvpvom5cumlmxj864y&st=7u3w1r5j&dl=1",
+                    "duration_ms": 264626,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731b1cc62b38ae667c7dc001e3",
+                    "id": 696,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Betsaab Alaya Nafsy",
+                    "track_url": "https://www.dropbox.com/scl/fi/0vhvmb62vmyowldcw5ulr/11.Bets3ab_3alia_Nafsy.mp3?rlkey=n4qecx4yykmoy4q44gbrvyj7c&st=0zx02q1i&dl=1",
+                    "duration_ms": 224680,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731b1cc62b38ae667c7dc001e3",
+                    "id": 697,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Ekhtart Sah",
+                    "track_url": "https://www.dropbox.com/scl/fi/lna5nd6ymb2tymmn917ee/14.E5tart_Sa7.mp3?rlkey=16drd38z42mvskpniviu1qagx&st=7ta3jxs4&dl=1",
+                    "duration_ms": 260440,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731b1cc62b38ae667c7dc001e3",
+                    "id": 698,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Etamen",
+                    "track_url": "https://www.dropbox.com/scl/fi/udb8dg9kq7i98k0g7l5iu/04.Etamen.mp3?rlkey=z7f5d459gto1r9tw2ktnokrs0&st=nxhyyxmu&dl=1",
+                    "duration_ms": 316880,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731b1cc62b38ae667c7dc001e3",
+                    "id": 699,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Kam Wahed Fina",
+                    "track_url": "https://www.dropbox.com/scl/fi/oup9mj3clmzs00dplek1j/12.Kam_Wa7ed_Fina.mp3?rlkey=lvl3bhv27gyemxqagz5pzdbgr&st=owe1zu3m&dl=1",
+                    "duration_ms": 317453,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731b1cc62b38ae667c7dc001e3",
+                    "id": 700,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Law Hakon Gheir Leek",
+                    "track_url": "https://www.dropbox.com/scl/fi/zpboljk777sucfnl19tuw/01.Law_Hakon_3aer_Leek.mp3?rlkey=7pctjx9u6lmo4arhivobn5n9w&st=642xtz3w&dl=1",
+                    "duration_ms": 258506,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731b1cc62b38ae667c7dc001e3",
+                    "id": 701,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Lawel Mara",
+                    "track_url": "https://www.dropbox.com/scl/fi/zdglu6e5xl4u3i0l97ih3/05.Lawel_Mara.mp3?rlkey=nh0labeuff8oimj65ba2546or&st=bvev9cd0&dl=1",
+                    "duration_ms": 342000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731b1cc62b38ae667c7dc001e3",
+                    "id": 702,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Mestany El Yom",
+                    "track_url": "https://www.dropbox.com/scl/fi/tzz132bkbtjjlo5al5c8w/09.Mestany_El_Yom.mp3?rlkey=vqs40ggbt6ugfb55chhuh9s3z&st=ypemu933&dl=1",
+                    "duration_ms": 266066,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731b1cc62b38ae667c7dc001e3",
+                    "id": 703,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Seheit Ala Sotha",
+                    "track_url": "https://www.dropbox.com/scl/fi/zc0wnjbekdwpe177glgmu/03.Se7it_3ala_Sotha.mp3?rlkey=62u8v21fkq5c7lbolx43lrd42&st=ueohmuwk&dl=1",
+                    "duration_ms": 228213,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731b1cc62b38ae667c7dc001e3",
+                    "id": 704,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Sweet Melody",
+                    "track_url": "https://www.dropbox.com/scl/fi/m1ezwpdaj7hpmyzvc3bhw/06.Sweet_Melody.mp3?rlkey=gbbiixv9yu2a0c7d5453oeem2&st=lw6bcoj3&dl=1",
+                    "duration_ms": 224013,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731b1cc62b38ae667c7dc001e3",
+                    "id": 705,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Teaarafy",
+                    "track_url": "https://www.dropbox.com/scl/fi/vtvtanotu4k605caocjra/13.Te3rafy.mp3?rlkey=7k7dxqlx95yf3mxxn8rfektyc&st=1r7b3wll&dl=1",
+                    "duration_ms": 237306,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731b1cc62b38ae667c7dc001e3",
+                    "id": 706,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Ya Waheshny",
+                    "track_url": "https://www.dropbox.com/scl/fi/5obpr7hwj7pogeshhf3af/10.Ya_Wa7shny.mp3?rlkey=92cm2derdoicj6x79ikvoz6tk&st=mexhz1tz&dl=1",
+                    "duration_ms": 209706,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731b1cc62b38ae667c7dc001e3",
+                    "id": 707,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Yana Ya Mafish",
+                    "track_url": "https://www.dropbox.com/scl/fi/ofojmepfbaazfle5guc36/08.Yana_Ya_Mafish.mp3?rlkey=nckxvmzmm5nau9nq271lr71bs&st=83cv9svy&dl=1",
+                    "duration_ms": 271186,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731b1cc62b38ae667c7dc001e3",
+                    "id": 708,
+                    "artist": "Tamer Hosny"
+                }
+            ],
+            "id": 694
+        },
+        {
+            "name": "Haeesh Hayati",
+            "release_date": "2009-06-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b273acc04d2bbff3baaf286aeb45",
+            "track_url": "https://open.spotify.com/album/2ah8D4c5SgbK4yo9kRSdtj",
+            "tracks": [
+                {
+                    "name": "Koll Elly Fat",
+                    "track_url": "https://www.dropbox.com/scl/fi/ccksqieon0mu830ft14gj/01.Koll_Elly_Fat.mp3?rlkey=ukj2vga8mdqkzt5snpyymwme2&st=kc4qt49d&dl=1",
+                    "duration_ms": 233826,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273acc04d2bbff3baaf286aeb45",
+                    "id": 710,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Taaba Koll El Nas",
+                    "track_url": "https://www.dropbox.com/scl/fi/gw4shlq162ignzc6gis8k/02.Taaba_Koll_El_Nas.mp3?rlkey=6v6vir7y3akvkpnr1ffa9fdon&st=y9qirz5p&dl=1",
+                    "duration_ms": 268986,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273acc04d2bbff3baaf286aeb45",
+                    "id": 711,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Ya Habibi Shoof",
+                    "track_url": "https://www.dropbox.com/scl/fi/bwyf6np0qtvtmdtoqpvbz/03.Ya_Habibi_Shoof.mp3?rlkey=drltovedxy17jl17ctbqul8mn&st=gmt4hkhk&dl=1",
+                    "duration_ms": 294226,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273acc04d2bbff3baaf286aeb45",
+                    "id": 712,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Haeesh Hayati",
+                    "track_url": "https://www.dropbox.com/scl/fi/eywk4n69rtj7avy16k7o4/04.Haeesh_Hayati.mp3?rlkey=h5jfyzy19np0ady80edrj6sr4&st=gmzh2g7u&dl=1",
+                    "duration_ms": 292679,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273acc04d2bbff3baaf286aeb45",
+                    "id": 713,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "W Ahlam Leih",
+                    "track_url": "https://www.dropbox.com/scl/fi/exj33epfpd2i1647i7e6c/05.W_Ahlam_Leeh.mp3?rlkey=p6aqzpo6udy7i0cr89u05g5yl&st=bgxposi4&dl=1",
+                    "duration_ms": 297199,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273acc04d2bbff3baaf286aeb45",
+                    "id": 714,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Bagheer Aleiha",
+                    "track_url": "https://www.dropbox.com/scl/fi/yt733ixontos3cxt05ex7/06.Bagheer_Aleeha.mp3?rlkey=lpfdevq9upw0oa3opi22tbakc&st=snpl71aq&dl=1",
+                    "duration_ms": 279719,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273acc04d2bbff3baaf286aeb45",
+                    "id": 715,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Enta Mesheit",
+                    "track_url": "https://www.dropbox.com/scl/fi/4pbrs0cyb8drpc1a5rj8o/07.Enta_Mesheet.mp3?rlkey=hqn7etlpdfm4bkv3a2lezow7d&st=rxiqypfh&dl=1",
+                    "duration_ms": 257838,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273acc04d2bbff3baaf286aeb45",
+                    "id": 716,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Hagat Keteir",
+                    "track_url": "https://www.dropbox.com/scl/fi/5uo0aetbbf73o8bvb22t1/08.Hagat_Keteer.mp3?rlkey=s0a1hjzcb8pukng2jwenvwkdr&st=93guje64&dl=1",
+                    "duration_ms": 304999,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273acc04d2bbff3baaf286aeb45",
+                    "id": 717,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Khontek Embareh",
+                    "track_url": "https://www.dropbox.com/scl/fi/nroinc6hfklfc5580xy35/09.Khontek_Embareh.mp3?rlkey=cmjkqitwuks83vjqhm3k6nrfx&st=lq87mlut&dl=1",
+                    "duration_ms": 224212,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273acc04d2bbff3baaf286aeb45",
+                    "id": 718,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Hayati Fadak",
+                    "track_url": "https://www.dropbox.com/scl/fi/ruley5sasqzso3qubwpv8/10.Hayati_Fadak.mp3?rlkey=qg565jqfypajoj4ek4bly5zkp&st=7i6k5wws&dl=1",
+                    "duration_ms": 263559,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273acc04d2bbff3baaf286aeb45",
+                    "id": 719,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Rasmy Fahmy Nazmy",
+                    "track_url": "https://www.dropbox.com/scl/fi/qbowxnyoztgwwbyd168pd/11.Rasmy..Fahmy..Nazmy.mp3?rlkey=92yhcljrx805ac7jl5aqixf38&st=jp9ijw6n&dl=1",
+                    "duration_ms": 294546,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273acc04d2bbff3baaf286aeb45",
+                    "id": 720,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Taala Ergaa Tany",
+                    "track_url": "https://www.dropbox.com/scl/fi/cf42d7y7nophf32647a98/12.Taaala_Ergaaa_Tany.mp3?rlkey=76wtz04ugx1szwmthq4n9qp8x&st=ume4ctd1&dl=1",
+                    "duration_ms": 226826,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273acc04d2bbff3baaf286aeb45",
+                    "id": 721,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Beinak W Beiny",
+                    "track_url": "https://www.dropbox.com/scl/fi/k9zkliuypiwrv0hchcy4p/13.Bainak_W_Bainy.mp3?rlkey=a0c5aw41xvsopdob80vvxzzdr&st=cyx02xda&dl=1",
+                    "duration_ms": 290986,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273acc04d2bbff3baaf286aeb45",
+                    "id": 722,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Howa Fein",
+                    "track_url": "https://www.dropbox.com/scl/fi/4bvck4z4k7dz40tgniy8j/14.Howa_Fain.mp3?rlkey=e7apvzga0tywh4t0b5fem34ct&st=jkdy3yma&dl=1",
+                    "duration_ms": 290866,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273acc04d2bbff3baaf286aeb45",
+                    "id": 723,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Come Back To Me",
+                    "track_url": "https://www.dropbox.com/scl/fi/9zp40otj99tgrp8721q9p/15.Come_Back_To_Me.mp3?rlkey=647bnf7taddukk84t8pdmay7e&st=mym0r17p&dl=1",
+                    "duration_ms": 316959,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273acc04d2bbff3baaf286aeb45",
+                    "id": 724,
+                    "artist": "Tamer Hosny"
+                }
+            ],
+            "id": 709
+        },
+        {
+            "name": "Aarrab Kaman",
+            "release_date": "2008-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b535421892a06250939cbffb",
+            "track_url": "https://open.spotify.com/album/6VaGDV2Ov2PPKbX6hIgf7y",
+            "tracks": [
+                {
+                    "name": "Matwaseneesh",
+                    "track_url": "https://www.dropbox.com/scl/fi/iw0qnfy4wk6zos7icb5vk/01.Matwaseneesh.mp3?rlkey=lyrfhgyu3xjq4uti85h39q348&st=y23abgfn&dl=1",
+                    "duration_ms": 333191,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b535421892a06250939cbffb",
+                    "id": 726,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Dayeb",
+                    "track_url": "https://www.dropbox.com/scl/fi/869vxqmgi9whx32mexnyc/02.Dayeb.mp3?rlkey=sd0wm6hznwk6ca1dqf5pym2jo&st=8c4gttnu&dl=1",
+                    "duration_ms": 224574,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b535421892a06250939cbffb",
+                    "id": 727,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Bekelma Netsaleh",
+                    "track_url": "https://www.dropbox.com/scl/fi/funhoqa39bjhni775vyts/03.Bekelma_Netsaleh.mp3?rlkey=i82q6pmqv92psresdt1n42623&st=thyzl8d9&dl=1",
+                    "duration_ms": 227761,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b535421892a06250939cbffb",
+                    "id": 728,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Aarrab Kaman",
+                    "track_url": "https://www.dropbox.com/scl/fi/nycw709hqs9ukkwuznj2h/04.Arrab_Kaman.mp3?rlkey=eza69jdnnc34tluvybp1d6l9u&st=8nl6p99t&dl=1",
+                    "duration_ms": 240483,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b535421892a06250939cbffb",
+                    "id": 729,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Eskoty",
+                    "track_url": "https://www.dropbox.com/scl/fi/5k5qhnd037lwxao3uy3no/05.Eskoti.mp3?rlkey=m3g5g4dys0fczra5l1tnqc10w&st=wovdgcld&dl=1",
+                    "duration_ms": 236173,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b535421892a06250939cbffb",
+                    "id": 730,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Eftekerly",
+                    "track_url": "https://www.dropbox.com/scl/fi/mkyxnx2m4sfun2zcqdobb/06.Eftekerli.mp3?rlkey=w2164w35l2mzo3xfy4tes31pg&st=ppdspgiz&dl=1",
+                    "duration_ms": 209293,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b535421892a06250939cbffb",
+                    "id": 731,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Ya Ta3ebny",
+                    "track_url": "https://www.dropbox.com/scl/fi/9rbr6juyuxwa2mtn0swfx/07.Ya_Taaebny.mp3?rlkey=en4ch53q05yh62ku9lsj32mrl&st=4xsfohso&dl=1",
+                    "duration_ms": 254746,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b535421892a06250939cbffb",
+                    "id": 732,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Alby Elly Habbak",
+                    "track_url": "https://www.dropbox.com/scl/fi/7qf877kxxcv6eru0vogp2/08.Alby_Elly_Habbak.mp3?rlkey=yaakhd3nmpi3h5zdif7h3b9b3&st=qxluxf3v&dl=1",
+                    "duration_ms": 270628,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b535421892a06250939cbffb",
+                    "id": 733,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Esma W Nassib",
+                    "track_url": "https://www.dropbox.com/scl/fi/pbu91gyfld0x07fsy3s93/09.Esma_We_Naseeb.mp3?rlkey=cuvlsykb4tg3qjht5rzk8zqrl&st=kg7ubf9z&dl=1",
+                    "duration_ms": 225201,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b535421892a06250939cbffb",
+                    "id": 734,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Ba3eed 3an 3eny",
+                    "track_url": "https://www.dropbox.com/scl/fi/2ad2kfguigu7srt19cew8/10.Baaeed_Aan_Einny.mp3?rlkey=3f64h3kv3n3tonq8cd5lm8mp3&st=a9mszw4z&dl=1",
+                    "duration_ms": 250853,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b535421892a06250939cbffb",
+                    "id": 735,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Heya Di",
+                    "track_url": "https://www.dropbox.com/scl/fi/cvwliqwpqk37ltmnn17m4/11.Heya_Di.mp3?rlkey=hn6g9d4b0aoljjlmq2oyu3wgg&st=sp4gj34q&dl=1",
+                    "duration_ms": 236277,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b535421892a06250939cbffb",
+                    "id": 736,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Ayam Zaman",
+                    "track_url": "https://www.dropbox.com/scl/fi/99s3ib1ypzz6ckejlrjia/12.Ayam_Zaman.mp3?rlkey=5z7nqpffvfuh2wx30lwlvn2qa&st=3zffngmq&dl=1",
+                    "duration_ms": 304587,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b535421892a06250939cbffb",
+                    "id": 737,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Rouh Alby",
+                    "track_url": "https://www.dropbox.com/scl/fi/41xh5keifj51et8v5agms/13.Rooh_Alby.mp3?rlkey=pozg3hc3rn843jdazxs3kz9ig&st=sdnfdeoy&dl=1",
+                    "duration_ms": 210285,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b535421892a06250939cbffb",
+                    "id": 738,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "As3ab Ehsas",
+                    "track_url": "https://www.dropbox.com/scl/fi/q66dwxcbrp6fe4xziwrvd/14.Asaab_Ehsas.mp3?rlkey=b0qfem4h36aj2inbs8u41v4wq&st=o4idhad9&dl=1",
+                    "duration_ms": 242155,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b535421892a06250939cbffb",
+                    "id": 739,
+                    "artist": "Tamer Hosny"
+                }
+            ],
+            "id": 725
+        },
+        {
+            "name": "Ya Bent El Eih",
+            "release_date": "2007-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273652d75589e59453b6156abf4",
+            "track_url": "https://open.spotify.com/album/5ptbpLwbos10hG8LIZNrge",
+            "tracks": [
+                {
+                    "name": "Ya Bent El Eh",
+                    "track_url": "https://www.dropbox.com/scl/fi/apuyxi7zwfuj4at0bgyy3/01.Ya_Bent_El-Eih.mp3?rlkey=5wbkfnrch8vp78tgpp3epaae7&st=1cf7rwwo&dl=1",
+                    "duration_ms": 250880,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273652d75589e59453b6156abf4",
+                    "id": 741,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Makontesh Mebayen",
+                    "track_url": "https://www.dropbox.com/scl/fi/tl9pwvh1p8ie3e5hz08j9/02.Makontesh_Mebayen.mp3?rlkey=r2cbmvnwlqjtbkie4ei7ofcgo&st=tnkyo0vd&dl=1",
+                    "duration_ms": 324858,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273652d75589e59453b6156abf4",
+                    "id": 742,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "3reft Elly Feha",
+                    "track_url": "https://www.dropbox.com/scl/fi/1u047v5bt3x7cp1ls293w/03.Eareft_Elly_Fiha.mp3?rlkey=eev7vgb1knb3uxsso96ku39pw&st=8930m042&dl=1",
+                    "duration_ms": 235023,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273652d75589e59453b6156abf4",
+                    "id": 743,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Enta Waheshny",
+                    "track_url": "https://www.dropbox.com/scl/fi/2727cnjziebj7qv55z5db/04.Enta_Waheshny.mp3?rlkey=hr1l8rep1703o7w67s3965mtk&st=3641vfyu&dl=1",
+                    "duration_ms": 274442,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273652d75589e59453b6156abf4",
+                    "id": 744,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "E3tezry",
+                    "track_url": "https://www.dropbox.com/scl/fi/mgsqb1dn8hbgkqdadn0x9/05.Eatezry.mp3?rlkey=o0dysol8o5rwy6ednf2lxvcpp&st=fxunyo9e&dl=1",
+                    "duration_ms": 229720,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273652d75589e59453b6156abf4",
+                    "id": 745,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Seeb El Hob",
+                    "track_url": "https://www.dropbox.com/scl/fi/0pqeim6fwcd80fd3c797q/06.Seeb_El-Hob.mp3?rlkey=2wd3k8irkpky45mh8vk0nv5vw&st=estu2888&dl=1",
+                    "duration_ms": 240326,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273652d75589e59453b6156abf4",
+                    "id": 746,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Erga3ly",
+                    "track_url": "https://www.dropbox.com/scl/fi/c35razfqtim0sybyb21rk/07.Ergaaly.mp3?rlkey=2racz61xe9jj5cfe2q7my7tbu&st=f9ug9e6w&dl=1",
+                    "duration_ms": 230974,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273652d75589e59453b6156abf4",
+                    "id": 747,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Hases Bekhouf",
+                    "track_url": "https://www.dropbox.com/scl/fi/s53i4f00lxtv0qbm8w68n/08.Hases_Bekhof.mp3?rlkey=svog13lkdk4ybaheadirenf4o&st=csjn3xzc&dl=1",
+                    "duration_ms": 278595,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273652d75589e59453b6156abf4",
+                    "id": 748,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Mahadesh Hases Beya",
+                    "track_url": "https://www.dropbox.com/scl/fi/lhm4cthrx1co991kkpzgx/09.Mahadesh_Hases_Beyya.mp3?rlkey=hj87j3lry62za8tvqz12k93cb&st=qrxzi8f9&dl=1",
+                    "duration_ms": 308166,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273652d75589e59453b6156abf4",
+                    "id": 749,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Kol Sana Wenta Tayeb",
+                    "track_url": "https://www.dropbox.com/scl/fi/bywjx4dg99q6dm8m0a81a/10.Kol_Sana_Wenta_Tayeb.mp3?rlkey=37unz2cymflk2pq1j1s5tlwyw&st=rz6tyfz5&dl=1",
+                    "duration_ms": 272796,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273652d75589e59453b6156abf4",
+                    "id": 750,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Soutek",
+                    "track_url": "https://www.dropbox.com/scl/fi/zuelqjni41qm46ltjxpm3/11.Sotek.mp3?rlkey=lqpai14w3axg79tb7ibc021gn&st=s9fyn9cd&dl=1",
+                    "duration_ms": 256992,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273652d75589e59453b6156abf4",
+                    "id": 751,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Allah Yebarekly Fek",
+                    "track_url": "https://www.dropbox.com/scl/fi/hfd0mvrwtqzyzii3tqvtz/12.Allah_Yebarekly_Feek.mp3?rlkey=pzges21lujj049tijp6v16kga&st=b41rsq56&dl=1",
+                    "duration_ms": 243043,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273652d75589e59453b6156abf4",
+                    "id": 752,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Ana Wala 3aref",
+                    "track_url": "https://www.dropbox.com/scl/fi/ilekuy4ymoattzla79wyl/13.Ana_Wala_Aaref.mp3?rlkey=8n860tfkxltomdlpkz4offzv6&st=bai9b2pm&dl=1",
+                    "duration_ms": 291657,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273652d75589e59453b6156abf4",
+                    "id": 753,
+                    "artist": "Tamer Hosny"
+                }
+            ],
+            "id": 740
+        },
+        {
+            "name": "El Ganna Fi Beyoutna",
+            "release_date": "2007-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27369ec9fc3ad5e529eef10faf6",
+            "track_url": "https://open.spotify.com/album/0wOv5sjQ2MM0rkgpX4qKFx",
+            "tracks": [
+                {
+                    "name": "Shahr Ramadan",
+                    "track_url": "https://www.dropbox.com/scl/fi/0zrjqgi73wledyazwt3zw/01.Shahr_Ramadan.mp3?rlkey=198kx28x2jr0zei6ko2hcydpn&st=ifc1c251&dl=1",
+                    "duration_ms": 107232,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27369ec9fc3ad5e529eef10faf6",
+                    "id": 755,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Sahebny Yabouya",
+                    "track_url": "https://www.dropbox.com/scl/fi/bdz2l1y0xaqhq26z1did0/02.Sahebny_Ya_Aboya.mp3?rlkey=7zulr3sx35qvtfaeacpz1c85x&st=s8rzl3gj&dl=1",
+                    "duration_ms": 92813,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27369ec9fc3ad5e529eef10faf6",
+                    "id": 756,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Tegy Nensa",
+                    "track_url": "https://www.dropbox.com/scl/fi/fqjys153zcjcsgc17qrpa/03.Teegy_Nensa.mp3?rlkey=zv604uurrph7n7ygr7bmkvm4m&st=c7exwm8q&dl=1",
+                    "duration_ms": 68571,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27369ec9fc3ad5e529eef10faf6",
+                    "id": 757,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Law 3awez El Kher",
+                    "track_url": "https://www.dropbox.com/scl/fi/cqxpxoivpy45dew9p0c5u/04.Law_Aayez_El-Khair.mp3?rlkey=d7z18cpr1o7azfevlb5k3mlb7&st=r8b54nf4&dl=1",
+                    "duration_ms": 114155,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27369ec9fc3ad5e529eef10faf6",
+                    "id": 758,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "El Ganna Fi Beyoutna",
+                    "track_url": "https://www.dropbox.com/scl/fi/hc90abltgk22ht91kzrzf/05.El-Gana_Fe_Beyotna.mp3?rlkey=yvj1ignd5zcmjq88nyzjdgi4x&st=qu11qhtf&dl=1",
+                    "duration_ms": 109740,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27369ec9fc3ad5e529eef10faf6",
+                    "id": 759,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Ya Arham El Rahemin",
+                    "track_url": "https://www.dropbox.com/scl/fi/xsmc1re25guuuifazhxae/06.Ya_Arham_El-Rahmeen.mp3?rlkey=xe4005rsveuf9d0jngfuvaosq&st=w8h0caid&dl=1",
+                    "duration_ms": 107990,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27369ec9fc3ad5e529eef10faf6",
+                    "id": 760,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Wo Negehna El Sana Di",
+                    "track_url": "https://www.dropbox.com/scl/fi/h0wszu1pedgjs9bxb5uaq/07.W_Negehna_El-Sana_De.mp3?rlkey=r0je0c6glj93sd4ogtxk0x23q&st=gcersz0v&dl=1",
+                    "duration_ms": 241345,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27369ec9fc3ad5e529eef10faf6",
+                    "id": 761,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Yarab Ana Ta3ban",
+                    "track_url": "https://www.dropbox.com/scl/fi/jeiblm5gtf0yjl4kyfw4t/08.Ya_Rab_Ana_Taaban.mp3?rlkey=luoyl40dg69u3og4s5hv87ipm&st=scow2680&dl=1",
+                    "duration_ms": 94406,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27369ec9fc3ad5e529eef10faf6",
+                    "id": 762,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "W 3eneha Damma3et",
+                    "track_url": "https://www.dropbox.com/scl/fi/4x0jj3623mm4gasrwk4vh/09.W_Einaha_Damaaet.mp3?rlkey=w48lxts7hf6yqba3m1s12smf1&st=pn6yarrd&dl=1",
+                    "duration_ms": 97044,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27369ec9fc3ad5e529eef10faf6",
+                    "id": 763,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Ana Msh 3aref Atghayar",
+                    "track_url": "https://www.dropbox.com/scl/fi/d2kvb2mnwh6g0vddd0gni/10.Ana_Mesh_Aarif_Atghayar.mp3?rlkey=be6t0av5pqs5cz7xy0hwmuo7l&st=gnamlsq0&dl=1",
+                    "duration_ms": 236930,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27369ec9fc3ad5e529eef10faf6",
+                    "id": 764,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Sobhan Allah",
+                    "track_url": "https://www.dropbox.com/scl/fi/qvs12vgoedr05mza7u4w1/11.Subhan_Allah.mp3?rlkey=99nk3di6sm3kimsvy2u79v8ty&st=47qpbi55&dl=1",
+                    "duration_ms": 121913,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27369ec9fc3ad5e529eef10faf6",
+                    "id": 765,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Asmaa Aallh Al Hosna",
+                    "track_url": "https://www.dropbox.com/scl/fi/xmoty0gjqyl57dxrpsvls/12.Asmaa_Allah_Al-Husna.mp3?rlkey=tb421md7099pbu320obp943mv&st=5hnho10w&dl=1",
+                    "duration_ms": 188368,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27369ec9fc3ad5e529eef10faf6",
+                    "id": 766,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Deny W Denak",
+                    "track_url": "https://www.dropbox.com/scl/fi/td64k4dvxzahxxt4jp3gw/.mp3?rlkey=tp26iw4tqf896mcsxnyx5gb2s&st=qz0ec0x9&dl=1",
+                    "duration_ms": 254850,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27369ec9fc3ad5e529eef10faf6",
+                    "id": 767,
+                    "artist": "Tamer Hosny"
+                }
+            ],
+            "id": 754
+        },
+        {
+            "name": "Enaya Bethebbak",
+            "release_date": "2006-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27374290b249cf4c4d5add9d71d",
+            "track_url": "https://open.spotify.com/album/1KwWs7TGIb880VM14E9kq0",
+            "tracks": [
+                {
+                    "name": "Fatet 3alena",
+                    "track_url": "https://www.dropbox.com/scl/fi/5v7vnjhkoroo1hv23o33h/02.Fatet_Aalina.mp3?rlkey=2uukdiaiku8dt7srg2yxr17a1&st=aotm4q6v&dl=1",
+                    "duration_ms": 244349,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27374290b249cf4c4d5add9d71d",
+                    "id": 769,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Rayah Balak",
+                    "track_url": "https://www.dropbox.com/scl/fi/qetz8j2y20vavv41dsiby/01.Rayah_Balak.mp3?rlkey=3otqqigznw2a30yuje9pwlsx5&st=km3atgfi&dl=1",
+                    "duration_ms": 279170,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27374290b249cf4c4d5add9d71d",
+                    "id": 770,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Ba3eesh",
+                    "track_url": "https://www.dropbox.com/scl/fi/fmmjsz8wv23djfnegdzf6/03.Baeesh.mp3?rlkey=gysgnwkvpkkd9e2rscl4z230u&st=r1th6tqf&dl=1",
+                    "duration_ms": 264254,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27374290b249cf4c4d5add9d71d",
+                    "id": 771,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "El Wahida",
+                    "track_url": "https://www.dropbox.com/scl/fi/lo6aah9x9j3lg786zcxtc/04.El-Waheeda.mp3?rlkey=6y7ex8l67qmw5juq66zs77ydf&st=jz0ceiqu&dl=1",
+                    "duration_ms": 319268,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27374290b249cf4c4d5add9d71d",
+                    "id": 772,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Mayehremnish Mennak",
+                    "track_url": "https://www.dropbox.com/scl/fi/w5erokuboti194dvz3sie/05.Mayehrmneesh_Mennak.mp3?rlkey=7ge1cnvkcfvfujk26wc0fxmq8&st=irql257s&dl=1",
+                    "duration_ms": 235075,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27374290b249cf4c4d5add9d71d",
+                    "id": 773,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Enty Elly 3amalty",
+                    "track_url": "https://www.dropbox.com/scl/fi/yvszkkzuzoxx7klik97fk/06.Enty_Elly_Aamalty.mp3?rlkey=xta3v8twz15vkb553j1yocypd&st=f0uo9ugo&dl=1",
+                    "duration_ms": 280737,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27374290b249cf4c4d5add9d71d",
+                    "id": 774,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Rabbena Yewaffa2ek",
+                    "track_url": "https://www.dropbox.com/scl/fi/ewwdxbu1exv0olgx3fclv/07.Rabena_Yewafaaak.mp3?rlkey=b2itqktxepwoqrg6x1uc0v6tb&st=cpmlewnp&dl=1",
+                    "duration_ms": 275408,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27374290b249cf4c4d5add9d71d",
+                    "id": 775,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Ya3ny Khalas",
+                    "track_url": "https://www.dropbox.com/scl/fi/alo9al4gmt3zm7cqhzvbf/08.Yaani_Khalas.mp3?rlkey=cmi6x8af3j8k5xvhko33kgvuj&st=457e4xft&dl=1",
+                    "duration_ms": 242076,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27374290b249cf4c4d5add9d71d",
+                    "id": 776,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Etla3 Men Doul",
+                    "track_url": "https://www.dropbox.com/scl/fi/vuxdrwhswv5w06sbtuizd/09.Etlaa_Men_Dool.mp3?rlkey=vgkfp4zl1rbd6ned4ssmwldoq&st=3rgf4ouj&dl=1",
+                    "duration_ms": 224235,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27374290b249cf4c4d5add9d71d",
+                    "id": 777,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Enaya Bethebbak",
+                    "track_url": "https://www.dropbox.com/scl/fi/q5rzf7vq9089q470ir4b8/10.Einaya_Bet-hebak.mp3?rlkey=r74p7no4p9r86fp6wriylvo4c&st=ncl9xitt&dl=1",
+                    "duration_ms": 283402,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27374290b249cf4c4d5add9d71d",
+                    "id": 778,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Kol Marra",
+                    "track_url": "https://www.dropbox.com/scl/fi/q7ezrye833qbcs66dotbj/11.Kol_Marra.mp3?rlkey=77mzhqntvi59vl4jh8eufqzcm&st=jdagujfc&dl=1",
+                    "duration_ms": 168463,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27374290b249cf4c4d5add9d71d",
+                    "id": 779,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Nour Einy",
+                    "track_url": "https://www.dropbox.com/scl/fi/2ajhjx973j2hjhhtkp288/12.Nor_Einy.mp3?rlkey=jxzr9zbonhlarsesedd0ew3mm&st=gdlhx6oz&dl=1",
+                    "duration_ms": 243957,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27374290b249cf4c4d5add9d71d",
+                    "id": 780,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Hawsallek",
+                    "track_url": "https://www.dropbox.com/scl/fi/24ozym22ujv18hfhhn009/13.Hawsallek.mp3?rlkey=u5arryi5vwo4m5rcxdlpg4t4c&st=9jzypoxu&dl=1",
+                    "duration_ms": 139911,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27374290b249cf4c4d5add9d71d",
+                    "id": 781,
+                    "artist": "Tamer Hosny"
+                }
+            ],
+            "id": 768
+        },
+        {
+            "name": "Hob",
+            "release_date": "2004-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f38d8362d65506defd6e80df",
+            "track_url": "https://open.spotify.com/album/7d8fnty4m201yxUPu433YP",
+            "tracks": [
+                {
+                    "name": "Arrab Habiby",
+                    "track_url": "https://www.dropbox.com/scl/fi/k9an6guuxm4ihkfotbfim/01.Arrab_Habibi.mp3?rlkey=b4ynnb4o3sz12il951xh4xnne&st=g6johlca&dl=1",
+                    "duration_ms": 270341,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f38d8362d65506defd6e80df",
+                    "id": 783,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Hob",
+                    "track_url": "https://www.dropbox.com/scl/fi/qs2k5ifw2pma0pafmx1ux/02.Hob.mp3?rlkey=4telvxro09imt1pd4q8lmi8i1&st=w6sol92v&dl=1",
+                    "duration_ms": 279588,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f38d8362d65506defd6e80df",
+                    "id": 784,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Lamma Betkoun Ba3eed",
+                    "track_url": "https://www.dropbox.com/scl/fi/5opa93xrj0xz3lmi4pnx0/03.Lamma_Betkon_Beaeed.mp3?rlkey=ubd42tyj8dnkkqpzuvqzfkwou&st=lup87oro&dl=1",
+                    "duration_ms": 255895,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f38d8362d65506defd6e80df",
+                    "id": 785,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Enty Nesity Nafsek",
+                    "track_url": "https://www.dropbox.com/scl/fi/o8nwjvz838r1pqj3m0g85/04.Enty_Nesity_Nafsek.mp3?rlkey=08e6rnxsbmmle2jwko4iiqmzw&st=ujsmy11d&dl=1",
+                    "duration_ms": 276715,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f38d8362d65506defd6e80df",
+                    "id": 786,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "El Wehda Bete2telny",
+                    "track_url": "https://www.dropbox.com/scl/fi/ggvjeas6yllijalt0pv25/05.El-Wehda_Beteatelny.mp3?rlkey=xho8ba598rznqqtig0bkfbxoe&st=xt5zk22z&dl=1",
+                    "duration_ms": 231967,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f38d8362d65506defd6e80df",
+                    "id": 787,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Har2et Dam",
+                    "track_url": "https://www.dropbox.com/scl/fi/9he9hvfabd880kbk15px3/06.Haraet_Dam.mp3?rlkey=gmjgmw395kji2tn9qw22r3iv4&st=oezu6qp2&dl=1",
+                    "duration_ms": 192287,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f38d8362d65506defd6e80df",
+                    "id": 788,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Forsa Akhira",
+                    "track_url": "https://www.dropbox.com/scl/fi/9ztcciiqk702mykbuakoy/07.Forsa_Akhira.mp3?rlkey=h7icfjy90hpcs03uneod99865&st=cf18cuyn&dl=1",
+                    "duration_ms": 273188,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f38d8362d65506defd6e80df",
+                    "id": 789,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Enta Hayati",
+                    "track_url": "https://www.dropbox.com/scl/fi/po2ubyaiq6md4r6l4dal5/08.Enta_Hayaty.mp3?rlkey=5hkp8u7knqlec3s8akebs8fwj&st=uyzmaclu&dl=1",
+                    "duration_ms": 251010,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f38d8362d65506defd6e80df",
+                    "id": 790,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Awseflak",
+                    "track_url": "https://www.dropbox.com/scl/fi/96jqgp9nwt1hh3o9abtu4/09.Awseflak.mp3?rlkey=aad63cc5ug6tzjaeputiuefpl&st=fpkosilo&dl=1",
+                    "duration_ms": 267075,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f38d8362d65506defd6e80df",
+                    "id": 791,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Lessa Bahebbak",
+                    "track_url": "https://www.dropbox.com/scl/fi/6x8j4gk8buxczvovcg26i/10.Lessa_Bahebak.mp3?rlkey=th6huqbem8vml8ki62bj5xdne&st=v6g5x16l&dl=1",
+                    "duration_ms": 236564,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f38d8362d65506defd6e80df",
+                    "id": 792,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Yana Yana",
+                    "track_url": "https://www.dropbox.com/scl/fi/8wsntetb5t6qu6mj7zu23/11.Yana_Yana.mp3?rlkey=bbw4pvklnorjj553h1olv4i1f&st=xnec3vf5&dl=1",
+                    "duration_ms": 263575,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f38d8362d65506defd6e80df",
+                    "id": 793,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Olly Bahebbak",
+                    "track_url": "https://www.dropbox.com/scl/fi/k6qpo4yn9wrlsc4lrsbde/12.Oaly_Bahebak.mp3?rlkey=nbdxc7bsvowqa5u59trflgf4k&st=ys31ksnx&dl=1",
+                    "duration_ms": 257306,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f38d8362d65506defd6e80df",
+                    "id": 794,
+                    "artist": "Tamer Hosny"
+                },
+                {
+                    "name": "Mehtaglik Yamma",
+                    "track_url": "https://www.dropbox.com/scl/fi/hj50kfrfgkmck8fq6z2iw/13.Mehtaglek_Yamma.mp3?rlkey=hisb6zknjv6zwkmjexbylzak4&st=9hrzndxy&dl=1",
+                    "duration_ms": 223973,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f38d8362d65506defd6e80df",
+                    "id": 795,
+                    "artist": "Tamer Hosny"
+                }
+            ],
+            "id": 782
+        }
+    ],
+    "singles": [
+        {
+            "id": "1",
+            "name": "فعلا مبيتنسيش",
+            "artist": "Tamer Hosny, Ramy Sabry",
+            "album": "فعلا مبيتنسيش",
+            "release_date": "2025-01-06",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b6d363fc8888a68b31a8d3de",
+            "track_url": "https://www.dropbox.com/scl/fi/nrorrdeyidewu40lpvw3j/.mp3?rlkey=au6eso4qhpm1xuohnxjyzibun&st=0ufukl5f&dl=1",
+            "popularity": 0
+        },
+        {
+            "name": "معلمين",
+            "release_date": "2012-01-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e64096030e29107fb555aa81",
+            "track_url": "https://www.dropbox.com/scl/fi/18wjn6vou6enzipvwibug/.mp3?rlkey=jvwvcehqf23zorv0h9yt4yhkj&st=yzvyg6ck&dl=1",
+            "id": 839,
+            "artist": "Tamer Hosny"
+        },
+        {
+            "name": "يا نهار أبيض",
+            "release_date": "2024-08-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b0c6548834c3d72f9bd62408",
+            "track_url": "https://www.dropbox.com/scl/fi/1fiparwmltnxbuneck5xr/.mp3?rlkey=4hgjn1g262zrodb3pmmfjvjvm&st=nbhvsare&dl=1",
+            "id": 796,
+            "artist": "Tamer Hosny"
+        },
+        {
+            "name": "جامدين جامدين",
+            "release_date": "2024-07-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b27387d70a083af4facba25422f6",
+            "track_url": "https://www.dropbox.com/scl/fi/dt3q7s60o5piahdmnz4ll/.mp3?rlkey=yeo391ypg780hvc2nycigsbe6&st=6yho0kqz&dl=1",
+            "id": 797,
+            "artist": "Tamer Hosny"
+        },
+        {
+            "name": "مع السلامة يا مدرستي",
+            "release_date": "2024-05-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b27385c8e2243031eb842b9e0ea2",
+            "track_url": "https://www.dropbox.com/scl/fi/lsx9niclwn1322lajndii/.mp3?rlkey=6qn6f44611zapd4kpp226uza1&st=ihgt184u&dl=1",
+            "id": 798,
+            "artist": "Tamer Hosny"
+        },
+        {
+            "name": "قدها",
+            "release_date": "2024-04-22",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737be7791b9d4acceb524a1d70",
+            "track_url": "https://www.dropbox.com/scl/fi/bnrefalt0gtw5syfwvxo4/.mp3?rlkey=k07a8ipfbasw88oon5o9b4ils&st=jt7qb0jj&dl=1",
+            "id": 799,
+            "artist": "Tamer Hosny"
+        },
+        {
+            "name": "دعاء يا الله",
+            "release_date": "2024-03-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b273136d13d9808d203841288560",
+            "track_url": "https://www.dropbox.com/scl/fi/mgtzrh3ohq0ai9nlhrt7a/.mp3?rlkey=6tpddvcqyvmmunhfrloxaowor&st=13kgj4dk&dl=1",
+            "id": 801,
+            "artist": "Tamer Hosny"
+        },
+        {
+            "name": "٣٠ حياة",
+            "release_date": "2024-02-14",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732a889522c3ab16f67e11d7d8",
+            "track_url": "https://www.dropbox.com/scl/fi/ukksio9sfkjiaylcpnvmt/30.Hayah-Tamer.Hosny-MaTb3aa.Com.mp3?rlkey=xetbzn8tjrmqm4q6h00xpy9yj&st=a6rh7k9m&dl=1",
+            "id": 802,
+            "artist": "Tamer Hosny"
+        },
+        {
+            "name": "ولا يهمك",
+            "release_date": "2024-02-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f78a816bb2e5d4517775e7b6",
+            "track_url": "https://www.dropbox.com/scl/fi/fwgn1ewt1x1a92515forq/08-Wala.Yehmek-MaTb3aa.Com.mp3?rlkey=g56xejr20iwkoh6poj2n7rlfh&st=d5fe5ory&dl=1",
+            "id": 803,
+            "artist": "Tamer Hosny"
+        },
+        {
+            "name": "موضوع رجوعنا",
+            "release_date": "2024-02-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b27395e127fded0b7771235fd6dc",
+            "track_url": "https://www.dropbox.com/scl/fi/mb8jjxujnqng16hitacni/07-Mawdoa.Rogoana-MaTb3aa.Com.mp3?rlkey=cq1pinr3nfeu65acngkdmwjpv&st=k3deeycj&dl=1",
+            "id": 804,
+            "artist": "Tamer Hosny"
+        },
+        {
+            "name": "معلش",
+            "release_date": "2024-01-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b489f6be2eb2915b66849b27",
+            "track_url": "https://www.dropbox.com/scl/fi/sqsfz6qap5qi6voxz1z9e/Maalish-Tamer.Hosny-MaTb3aa.Com.mp3?rlkey=ai2buv4u4v66bq1i7s10c73ku&st=18an2w23&dl=1",
+            "id": 805,
+            "artist": "Tamer Hosny"
+        },
+        {
+            "name": "Mawahashtkesh !!?",
+            "release_date": "2024-01-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f2b95845993cb60442ce2f55",
+            "track_url": "https://www.dropbox.com/scl/fi/re2t5e9wh2qg2qq5j6lvb/Mawahashtekish-Tamer.Hosny-MaTb3aa.Com.mp3?rlkey=uye51qnnjpvyllbo5nk7tjc6k&st=xwam2odx&dl=1",
+            "id": 806,
+            "artist": "Tamer Hosny"
+        },
+        {
+            "name": "Hawwa",
+            "release_date": "2023-08-17",
+            "image": "https://i.scdn.co/image/ab67616d0000b273755590db6926abe9a802e183",
+            "track_url": "https://www.dropbox.com/scl/fi/qwhh85ku7ytrioi9jgkn8/04-Hawa-MaTb3aa.Com.mp3?rlkey=6b0aw8t1kqd9svedzuqk6jauu&st=ciop4q1q&dl=1",
+            "id": 807,
+            "artist": "Tamer Hosny"
+        },
+        {
+            "name": "مش هتغير عشان حد",
+            "release_date": "2023-07-22",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738e1cffdee53c8f0122aceb6c",
+            "track_url": "https://www.dropbox.com/scl/fi/m4k052898rfaqosbayrun/03-Msh.Hatghyar.3ashn.Had-MaTb3aa.Com.mp3?rlkey=05g6txvm7iyrzi0qzjdqycifl&st=22mudujt&dl=1",
+            "id": 808,
+            "artist": "Tamer Hosny"
+        },
+        {
+            "name": "تاج",
+            "release_date": "2023-07-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737ed34abf078e7c892e23213f",
+            "track_url": "https://www.dropbox.com/scl/fi/8kd2kn8zdpe9rdc3sfgtm/02-Tag-MaTb3aa.Com.mp3?rlkey=2hwpxegqm6jj7ljcw7vnlpody&st=9z7nhdm4&dl=1",
+            "id": 809,
+            "artist": "Tamer Hosny"
+        },
+        {
+            "name": "هرمون السعادة (من فيلم تاج)",
+            "release_date": "2023-06-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b273acad39b49282e71aac05bd9d",
+            "track_url": "https://www.dropbox.com/scl/fi/n3fvknyfmh53nti6q9alu/01-Hormone.ElSaada-MaTb3aa.Com.mp3?rlkey=mnfy1n08j1gkzedkrwjnggrjn&st=d739e85t&dl=1",
+            "id": 810,
+            "artist": "Tamer Hosny"
+        },
+        {
+            "name": "Hadalaany - From Bhabak Movie",
+            "track_url": "https://www.dropbox.com/scl/fi/0xbfgtfeul3wirhgxvsiz/Hadal3ny-Tamer.Hosny-MaTb3aa.Com.mp3?rlkey=i10puugtw8vnyrjh0xhkgsgbo&st=dpubp0ls&dl=1",
+            "duration_ms": 206015,
+            "image": "https://i.scdn.co/image/ab67616d0000b2731c46ed81dbd3ffebb43e8ba3",
+            "id": 853,
+            "artist": "Tamer Hosny"
+        },
+        {
+            "name": "Habitha Ya Nas - From Bhabak Movie",
+            "track_url": "https://www.dropbox.com/scl/fi/m60wu0tu4fiegsi2a6lx9/Habitha.YaNas-Tamer.Hosny-MaTb3aa.Com.mp3?rlkey=4993j2k3dqh79i6qfdf86fyzi&st=om9xmktm&dl=1",
+            "duration_ms": 155998,
+            "image": "https://i.scdn.co/image/ab67616d0000b2731c46ed81dbd3ffebb43e8ba3",
+            "id": 849,
+            "artist": "Tamer Hosny"
+        },
+        {
+            "name": "Enta Ekhtyar - From Bhabak Movie",
+            "track_url": "https://www.dropbox.com/scl/fi/j5eeo8zpma4sazhk5quo7/Enta.Ekhtyar-Tamer.Hosny-MaTb3aa.Com.mp3?rlkey=9ppu58d20fzqvcokpcapia1nm&st=14h39k3j&dl=1",
+            "duration_ms": 288000,
+            "image": "https://i.scdn.co/image/ab67616d0000b2731c46ed81dbd3ffebb43e8ba3",
+            "id": 850,
+            "artist": "Tamer Hosny"
+        },
+        {
+            "name": "Wenta Be3eed - From Bhabak Movie",
+            "track_url": "https://www.dropbox.com/scl/fi/th2fuc3vge2pprta9b44m/Wa.enta.b3eed-Tamer.Hosny-MaTb3aa.Com.mp3?rlkey=wnzlhigaad0gi898zus4v0zdp&st=pq3o8wq1&dl=1",
+            "duration_ms": 226190,
+            "image": "https://i.scdn.co/image/ab67616d0000b2731c46ed81dbd3ffebb43e8ba3",
+            "id": 846,
+            "artist": "Tamer Hosny"
+        },
+        {
+            "name": "Hatgawzek - From Bhabak Movie",
+            "release_date": "2023-01-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731c46ed81dbd3ffebb43e8ba3",
+            "track_url": "https://www.dropbox.com/scl/fi/f7lvltuwornhj17qq34al/Hatgawzek-Tamer.Hosny-MaTb3aa.Com.mp3?rlkey=5eh6656mykdzblvndzzgpk9t2&st=un8x1k9f&dl=1",
+            "id": 811,
+            "artist": "Tamer Hosny"
+        },
+        {
+            "name": "Haytna - From Bhabak Movie",
+            "release_date": "2021-08-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27329f5e86569cc8bea91ddefd3",
+            "track_url": "https://www.dropbox.com/scl/fi/slr74oawakyoued0mhn6n/Haytna-Tamer.Hosny-MaTb3aa.Com.mp3?rlkey=u6molo6jy90t6shg8qdtg607q&st=91fjwtoy&dl=1",
+            "id": 815,
+            "artist": "Tamer Hosny"
+        },
+        {
+            "name": "Ramadan Kareem",
+            "release_date": "2022-04-02",
+            "image": "https://i.scdn.co/image/ab67616d0000b27383837678c705c5543bbb7766",
+            "track_url": "https://www.dropbox.com/scl/fi/jb35z61vdksr32n87lvrx/Ramadan-Kareem.mp3?rlkey=l8yyhpvzjavzj3pi214nz0ose&st=znygnmr7&dl=1",
+            "id": 812,
+            "artist": "Tamer Hosny"
+        },
+        {
+            "name": "Ghany w sama3na",
+            "release_date": "2021-08-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27325647b92d2d540422ba0b91d",
+            "track_url": "https://www.dropbox.com/scl/fi/jejz1oe6uxh0es54k30lw/Ghany-w-sama3na.mp3?rlkey=p97h387rlc4s42cpj8a2uqsr3&st=zl9fvdbh&dl=1",
+            "id": 814,
+            "artist": "Tamer Hosny"
+        },
+        {
+            "name": "Saaba",
+            "release_date": "2021-07-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b27377b1400f2fa8028e5fa5b1d2",
+            "track_url": "https://www.dropbox.com/scl/fi/neq411wkv1zuctoyaf9nn/Saaba.mp3?rlkey=7flpiqzkumiplyaiexcfsewor&st=8xcrwtz2&dl=1",
+            "id": 816,
+            "artist": "Tamer Hosny"
+        },
+        {
+            "name": "Bahebak",
+            "release_date": "2021-07-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739081c993de7bc54fcf730595",
+            "track_url": "https://www.dropbox.com/scl/fi/jdzzhmzx0txqssvk7hb2b/Bahebak.mp3?rlkey=im5ema0wmkkg54kirl5sh5i3v&st=gv1wl9bt&dl=1",
+            "id": 817,
+            "artist": "Tamer Hosny"
+        },
+        {
+            "name": "Mesh Temsal",
+            "release_date": "2021-07-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f02e6d54f13233c89eb83578",
+            "track_url": "https://www.dropbox.com/scl/fi/4bakdqc706ujq58zayya9/Mesh-Temsal.mp3?rlkey=wme1g6qc3iv073exjusecyesa&st=gb3ncsn8&dl=1",
+            "id": 818,
+            "artist": "Tamer Hosny"
+        },
+        {
+            "name": "Kawkab Tany",
+            "release_date": "2021-07-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739bd3ee5d8fe8f56a2ad6a909",
+            "track_url": "https://www.dropbox.com/scl/fi/cz7dbdhr0kv9jnt5e5nac/Kawkab-Tany-Cover.mp3?rlkey=l7pwlvfvacfp9iprp53yn1cat&st=sebvc0fj&dl=1",
+            "id": 819,
+            "artist": "Tamer Hosny"
+        },
+        {
+            "name": "Forsa Gedeeda",
+            "release_date": "2021-04-13",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b6b95d02fa8955583765b6f5",
+            "track_url": "https://www.dropbox.com/scl/fi/ecu6yvguestnov4ishndr/Forsa-Gedida.mp3?rlkey=wdnjokvmijkjcocx6h07ae0cn&st=j2kysny2&dl=1",
+            "id": 820,
+            "artist": "Tamer Hosny"
+        },
+        {
+            "name": "Erfaa Edak",
+            "release_date": "2021-01-13",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731b16b37ca9fca7a2527fe29d",
+            "track_url": "https://www.dropbox.com/scl/fi/bqywi88821micvufxr4hg/Erfaa-Edak.mp3?rlkey=2aj80pvsdoa8yuiy3h9riuz0c&st=tz5eq5wy&dl=1",
+            "id": 821,
+            "artist": "Tamer Hosny"
+        },
+        {
+            "name": "Forset Omr",
+            "release_date": "2020-11-03",
+            "image": "https://i.scdn.co/image/ab67616d0000b27328ea680952ce5859f1f90536",
+            "track_url": "https://www.dropbox.com/scl/fi/vt1cfro6py43966wj424o/.mp3?rlkey=nzk2argndoz2twvzw7qn1rhla&st=9caxd9kb&dl=1",
+            "id": 822,
+            "artist": "Tamer Hosny"
+        },
+        {
+            "name": "Terga3lena Bel Salama",
+            "release_date": "2020-10-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734ee9d5122f33f59d4a76e2b7",
+            "track_url": "https://www.dropbox.com/scl/fi/izq3xjarqvsn7i58azr6p/Terga3lena-Bel-Salama.mp3?rlkey=0ienbbaxofr5jg9zl1ojf22pi&st=aqpdigk5&dl=1",
+            "id": 823,
+            "artist": "Tamer Hosny"
+        },
+        {
+            "name": "Ekhteraa",
+            "release_date": "2020-08-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737489ac844b31c062683e0159",
+            "track_url": "https://www.dropbox.com/scl/fi/cxbc3xq0alzs3jg6b3u9b/Ekhtraa.mp3?rlkey=os5z66jf5ka4budo67sqzqpqc&st=wos28haw&dl=1",
+            "id": 824,
+            "artist": "Tamer Hosny"
+        },
+        {
+            "name": "Wenta Ma'aia",
+            "release_date": "2020-05-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c39deba2dbe08200183b298b",
+            "track_url": "https://www.dropbox.com/scl/fi/01v8nvuq1lnerines5u4f/Wnta.Maayia.Remix-Tamer.Hosny-MaTb3aa.Com.mp3?rlkey=236j34w1qbknjbpdqa4apttye&st=sqrsrlop&dl=1",
+            "id": 825,
+            "artist": "Tamer Hosny"
+        },
+        {
+            "name": "El Lahza El Helwa",
+            "release_date": "2020-05-26",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f08bfdaa8ddfe7012b96cc31",
+            "track_url": "https://www.dropbox.com/scl/fi/amn8ug0yo72td51osmkzx/El-Lahza-El-7elwa.mp3?rlkey=ej3a6l188zdozayra3hgcdj7i&st=jbxkyr5n&dl=1",
+            "id": 826,
+            "artist": "Tamer Hosny"
+        },
+        {
+            "name": "Ya Farha",
+            "release_date": "2020-03-26",
+            "image": "https://t2.genius.com/unsafe/191x191/https%3A%2F%2Fimages.genius.com%2F02c2082cbd506fc87a77dbc2db746f2b.1000x1000x1.png",
+            "track_url": "https://www.dropbox.com/scl/fi/ps50sgzbmyupe03crudk1/Ya-Farha.mp3?rlkey=dopn2vjbnz3ihi8uz5wqaipmv&st=xvw1lbhj&dl=1",
+            "id": 827,
+            "artist": "Tamer Hosny"
+        },
+        {
+            "name": "Ehna Geel Gded",
+            "release_date": "2019-11-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734cca0ff0cd4d007d6e8f1359",
+            "track_url": "https://www.dropbox.com/scl/fi/vwormgzwui76ytthpfs9s/Ehna-Geel-Gded.mp3?rlkey=xvqy13zbmi5rflb7i48xmqg81&st=03zyysg1&dl=1",
+            "id": 828,
+            "artist": "Tamer Hosny"
+        },
+        {
+            "name": "Fark Kebir",
+            "release_date": "2019-05-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b1fbeb1c19f1428cf96c566b",
+            "track_url": "https://www.dropbox.com/scl/fi/ib23yp3ybu09idn9iq868/Fark-Kebir.mp3?rlkey=37dmlqe96lr26flbxdcbeiz3e&st=103l3izr&dl=1",
+            "id": 829,
+            "artist": "Tamer Hosny"
+        },
+        {
+            "name": "Rehlet El Hayah",
+            "release_date": "2018-09-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f9e4248a5ff4c6c11980c898",
+            "track_url": "https://www.dropbox.com/scl/fi/6ye2vhoboil3v47ccembo/14._Rehlet_El_Hayah.mp3?rlkey=lllwaw3z3cfhdgzrvkppszygq&st=unrjm61y&dl=1",
+            "id": 830,
+            "artist": "Tamer Hosny"
+        },
+        {
+            "name": "100 Wesh",
+            "release_date": "2018-08-03",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f723a14837730ee702c334ad",
+            "track_url": "https://www.dropbox.com/scl/fi/qn7kdbd4oys98la9vhfc2/100-Wesh.mp3?rlkey=lgtyc5u9k8zqso2k61yj5qbbn&st=qajte8o7&dl=1",
+            "id": 831,
+            "artist": "Tamer Hosny"
+        },
+        {
+            "name": "Eish Besho'ak",
+            "release_date": "2018-07-26",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738bfd0846aef46f00c03e8943",
+            "track_url": "https://www.dropbox.com/scl/fi/nr2ycqzz3kougso5zj2kq/Eish-Besho2ak.mp3?rlkey=i1efsiay8wgum3wdxzorp69bt&st=h1pvhn8x&dl=1",
+            "id": 832,
+            "artist": "Tamer Hosny"
+        },
+        {
+            "name": "Hakoullak Kelma",
+            "release_date": "2018-05-29",
+            "image": "https://i.scdn.co/image/ab67616d0000b273539fe48478fbe05c88202ee6",
+            "track_url": "https://www.dropbox.com/scl/fi/vdhsaf96d2kpvzdelrrka/Ha2olk-Kelma.mp3?rlkey=bmco4zj6qnlzu8f8ot1u22mpe&st=qk3mzril&dl=1",
+            "id": 833,
+            "artist": "Tamer Hosny"
+        },
+        {
+            "name": "Kol Haga Bena",
+            "release_date": "2018-04-17",
+            "image": "https://i.scdn.co/image/ab67616d0000b27394e5a4c811ff3e00b7d64853",
+            "track_url": "https://www.dropbox.com/scl/fi/jrj615ysqcn8wcasauho6/Kol-Haga-Bena.mp3?rlkey=4w525k4997yv1a7w143lf3ixv&st=rlk57x7f&dl=1",
+            "id": 834,
+            "artist": "Tamer Hosny"
+        },
+        {
+            "name": "Men Wara EL Shababik - Single",
+            "release_date": "2017-06-16",
+            "image": "https://i.scdn.co/image/ab67616d0000b273472d2340faaaf861f70fb821",
+            "track_url": "https://www.dropbox.com/scl/fi/6ml57bz21boqm98r1385d/.mp3?rlkey=0jxh02tbad9l9d860r4kawlye&st=k7e92s0u&dl=1",
+            "id": 835,
+            "artist": "Tamer Hosny"
+        },
+        {
+            "name": "وبعدين (من فيلم الحرب العالمية الثالثة)",
+            "release_date": "2017-01-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b27314c379acc528fe832ff872a8",
+            "track_url": "https://www.dropbox.com/scl/fi/qlwnu3jon9yp6o4qrzko7/.mp3?rlkey=szi31j8t0xynm9m6lofuraap4&st=6wncnuca&dl=1",
+            "id": 836,
+            "artist": "Tamer Hosny"
+        },
+        {
+            "name": "Set El Habayeb",
+            "release_date": "2012-04-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b27347d5ffe07a22c61a0bbdc359",
+            "track_url": "https://www.dropbox.com/scl/fi/bs7e5f0ej5zq2d3m3wt0k/.mp3?rlkey=fe33tlrwskar756mh6nr5a4sm&st=4rly2tbw&dl=1",
+            "id": 837,
+            "artist": "Tamer Hosny"
+        },
+        {
+            "name": "Bahebk Ya Masr",
+            "release_date": "2012-01-22",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ac3961c952740d01c8f989fd",
+            "track_url": "https://www.dropbox.com/scl/fi/nmejspy0wzx3omg142kow/.mp3?rlkey=vl1x561e2upzka2ddwrf07z1x&st=dyols1al&dl=1",
+            "id": 838,
+            "artist": "Tamer Hosny"
+        },
+        {
+            "name": "Ohdonny Awy",
+            "release_date": "2012-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733ea38e62c949f799c71b61b5",
+            "track_url": "https://www.dropbox.com/scl/fi/ccasy5f61gv803clvzsn7/.mp3?rlkey=b7r9r0urf6y74df7r5tlno1dc&st=ac2larar&dl=1",
+            "id": 840,
+            "artist": "Tamer Hosny"
+        },
+        {
+            "name": "Ana Khayef",
+            "release_date": "2011-07-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b273938148a308450e2ef378e7a3",
+            "track_url": "",
+            "id": 841,
+            "artist": "Tamer Hosny"
+        },
+        {
+            "name": "Malesh baadak",
+            "release_date": "2011-03-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b27336437db60527c27f19a821b2",
+            "track_url": "https://www.dropbox.com/scl/fi/kvuvl5fkhmruh34ng68ad/.mp3?rlkey=pct5393xuqklpmi6p7i2u48cn&st=lbtjuca3&dl=1",
+            "id": 842,
+            "artist": "Tamer Hosny"
+        },
+        {
+            "name": "Shofy Ba2a",
+            "release_date": "2011-01-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e6206ddb771ef4bead71801f",
+            "track_url": "https://www.dropbox.com/scl/fi/ggogs2ls1ts6dl6ndwrrz/Shoofy-Ba2a.mp3?rlkey=plgsfjnrostcxtlf45jzz9l3u&st=9byxtp3w&dl=1",
+            "id": 843,
+            "artist": "Tamer Hosny"
+        },
+        {
+            "name": "Dehketha Mabethazarsh",
+            "release_date": "2011-01-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b27329cb99be4bd2e1d604a07798",
+            "track_url": "https://www.dropbox.com/scl/fi/l8afxfdoommtk2okt8ku8/.mp3?rlkey=wp95yaypibfo8c2ls54i86lhi&st=de43ja6r&dl=1",
+            "id": 844,
+            "artist": "Tamer Hosny"
+        },
+        {
+            "name": "E7sas",
+            "release_date": "2010-11-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b273419df6edd0c2e41d76fa75e9",
+            "track_url": "",
+            "id": 845,
+            "artist": "Tamer Hosny"
+        }
+    ],
+    "popular_tracks": [
+        {
+            "name": "Wenta Be3eed - From Bhabak Movie",
+            "track_url": "https://www.dropbox.com/scl/fi/th2fuc3vge2pprta9b44m/Wa.enta.b3eed-Tamer.Hosny-MaTb3aa.Com.mp3?rlkey=wnzlhigaad0gi898zus4v0zdp&st=pq3o8wq1&dl=1",
+            "duration_ms": 226190,
+            "image": "https://i.scdn.co/image/ab67616d0000b2731c46ed81dbd3ffebb43e8ba3",
+            "id": 846,
+            "artist": "Tamer Hosny"
+        },
+        {
+            "name": "هرمون السعادة - من فيلم تاج",
+            "track_url": "https://www.dropbox.com/scl/fi/n3fvknyfmh53nti6q9alu/01-Hormone.ElSaada-MaTb3aa.Com.mp3?rlkey=mnfy1n08j1gkzedkrwjnggrjn&st=d739e85t&dl=1",
+            "duration_ms": 167272,
+            "image": "https://i.scdn.co/image/ab67616d0000b2735f69b3e1d1d7cc3f7b301ca4",
+            "id": 847,
+            "artist": "Tamer Hosny"
+        },
+        {
+            "name": "Erga3ly",
+            "track_url": "https://www.dropbox.com/scl/fi/c35razfqtim0sybyb21rk/07.Ergaaly.mp3?rlkey=2racz61xe9jj5cfe2q7my7tbu&st=f9ug9e6w&dl=1",
+            "duration_ms": 230974,
+            "image": "https://i.scdn.co/image/ab67616d0000b273652d75589e59453b6156abf4",
+            "id": 848,
+            "artist": "Tamer Hosny"
+        },
+        {
+            "name": "Habitha Ya Nas - From Bhabak Movie",
+            "track_url": "https://www.dropbox.com/scl/fi/m60wu0tu4fiegsi2a6lx9/Habitha.YaNas-Tamer.Hosny-MaTb3aa.Com.mp3?rlkey=4993j2k3dqh79i6qfdf86fyzi&st=om9xmktm&dl=1",
+            "duration_ms": 155998,
+            "image": "https://i.scdn.co/image/ab67616d0000b2731c46ed81dbd3ffebb43e8ba3",
+            "id": 849,
+            "artist": "Tamer Hosny"
+        },
+        {
+            "name": "Enta Ekhtyar - From Bhabak Movie",
+            "track_url": "https://www.dropbox.com/scl/fi/j5eeo8zpma4sazhk5quo7/Enta.Ekhtyar-Tamer.Hosny-MaTb3aa.Com.mp3?rlkey=9ppu58d20fzqvcokpcapia1nm&st=14h39k3j&dl=1",
+            "duration_ms": 288000,
+            "image": "https://i.scdn.co/image/ab67616d0000b2731c46ed81dbd3ffebb43e8ba3",
+            "id": 850,
+            "artist": "Tamer Hosny"
+        },
+        {
+            "name": "Mawahashtkesh !!?",
+            "track_url": "https://www.dropbox.com/scl/fi/re2t5e9wh2qg2qq5j6lvb/Mawahashtekish-Tamer.Hosny-MaTb3aa.Com.mp3?rlkey=uye51qnnjpvyllbo5nk7tjc6k&st=xwam2odx&dl=1",
+            "duration_ms": 327456,
+            "image": "https://i.scdn.co/image/ab67616d0000b2735f69b3e1d1d7cc3f7b301ca4",
+            "id": 851,
+            "artist": "Tamer Hosny"
+        },
+        {
+            "name": "موضوع رجوعنا",
+            "track_url": "https://www.dropbox.com/scl/fi/mb8jjxujnqng16hitacni/07-Mawdoa.Rogoana-MaTb3aa.Com.mp3?rlkey=cq1pinr3nfeu65acngkdmwjpv&st=k3deeycj&dl=1",
+            "duration_ms": 266341,
+            "image": "https://i.scdn.co/image/ab67616d0000b2735f69b3e1d1d7cc3f7b301ca4",
+            "id": 852,
+            "artist": "Tamer Hosny"
+        },
+        {
+            "name": "Hadalaany - From Bhabak Movie",
+            "track_url": "https://www.dropbox.com/scl/fi/0xbfgtfeul3wirhgxvsiz/Hadal3ny-Tamer.Hosny-MaTb3aa.Com.mp3?rlkey=i10puugtw8vnyrjh0xhkgsgbo&st=dpubp0ls&dl=1",
+            "duration_ms": 206015,
+            "image": "https://i.scdn.co/image/ab67616d0000b2731c46ed81dbd3ffebb43e8ba3",
+            "id": 853,
+            "artist": "Tamer Hosny"
+        },
+        {
+            "name": "Ya Ta3ebny",
+            "track_url": "https://www.dropbox.com/scl/fi/9rbr6juyuxwa2mtn0swfx/07.Ya_Taaebny.mp3?rlkey=en4ch53q05yh62ku9lsj32mrl&st=4xsfohso&dl=1",
+            "duration_ms": 254746,
+            "image": "https://i.scdn.co/image/ab67616d0000b273b535421892a06250939cbffb",
+            "id": 854,
+            "artist": "Tamer Hosny"
+        },
+        {
+            "name": "Nasseeny Leih",
+            "track_url": "https://www.dropbox.com/scl/fi/qfzvcnurgl0vt4k6c4geb/Nasseeny-Leih.mp3?rlkey=zx10x5y7pier181s7mwml4p3x&st=p9oxb7oq&dl=1",
+            "duration_ms": 247943,
+            "image": "https://i.scdn.co/image/ab67616d0000b27309892f0ebd3303b938291715",
+            "id": 855,
+            "artist": "Tamer Hosny"
+        }
+    ]
+}

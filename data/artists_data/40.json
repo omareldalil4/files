@@ -1,0 +1,812 @@
+{
+    "artist": {
+        "id": "6099",
+        "name": "Jannat",
+        "image": "https://i.scdn.co/image/ab67616d0000b2738b58f14eee38636f8bfd622f",
+        "background_image": "https://i.scdn.co/image/ab67616d00001e028b58f14eee38636f8bfd622f"
+    },
+    "albums": [
+        {
+            "name": "Ana Fe Entezarak",
+            "release_date": "2020-08-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b273faa259e9f6f9002509ebeb17",
+            "track_url": "https://open.spotify.com/album/52cOnYhDDFZJyeRbKb585k",
+            "tracks": [
+                {
+                    "name": "Ana Fe Entezarak",
+                    "track_url": "",
+                    "duration_ms": 239766,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273faa259e9f6f9002509ebeb17",
+                    "id": 6101,
+                    "artist": "Jannat"
+                },
+                {
+                    "name": "Ewaa",
+                    "track_url": "",
+                    "duration_ms": 278470,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273faa259e9f6f9002509ebeb17",
+                    "id": 6102,
+                    "artist": "Jannat"
+                },
+                {
+                    "name": "Ahla Men El Ahlam",
+                    "track_url": "",
+                    "duration_ms": 222251,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273faa259e9f6f9002509ebeb17",
+                    "id": 6103,
+                    "artist": "Jannat"
+                },
+                {
+                    "name": "Demoo Webaket",
+                    "track_url": "",
+                    "duration_ms": 274650,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273faa259e9f6f9002509ebeb17",
+                    "id": 6104,
+                    "artist": "Jannat"
+                },
+                {
+                    "name": "Rayka",
+                    "track_url": "",
+                    "duration_ms": 211585,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273faa259e9f6f9002509ebeb17",
+                    "id": 6105,
+                    "artist": "Jannat"
+                },
+                {
+                    "name": "Bard El Wehdah",
+                    "track_url": "",
+                    "duration_ms": 296475,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273faa259e9f6f9002509ebeb17",
+                    "id": 6106,
+                    "artist": "Jannat"
+                },
+                {
+                    "name": "Sabaty El Enfiaaly",
+                    "track_url": "",
+                    "duration_ms": 211910,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273faa259e9f6f9002509ebeb17",
+                    "id": 6107,
+                    "artist": "Jannat"
+                },
+                {
+                    "name": "Fhemt Aasdak",
+                    "track_url": "",
+                    "duration_ms": 220625,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273faa259e9f6f9002509ebeb17",
+                    "id": 6108,
+                    "artist": "Jannat"
+                },
+                {
+                    "name": "Elly Teshofo",
+                    "track_url": "",
+                    "duration_ms": 255787,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273faa259e9f6f9002509ebeb17",
+                    "id": 6109,
+                    "artist": "Jannat"
+                },
+                {
+                    "name": "El Zalim",
+                    "track_url": "",
+                    "duration_ms": 215505,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273faa259e9f6f9002509ebeb17",
+                    "id": 6110,
+                    "artist": "Jannat"
+                },
+                {
+                    "name": "Ana Estagelt",
+                    "track_url": "",
+                    "duration_ms": 253606,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273faa259e9f6f9002509ebeb17",
+                    "id": 6111,
+                    "artist": "Jannat"
+                }
+            ],
+            "id": 6100
+        },
+        {
+            "name": "Be Nafs Elkalam",
+            "release_date": "2019-04-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b27362814250cec1925b85e3fc3e",
+            "track_url": "https://open.spotify.com/album/19o5i0hp4euWfq8EON0QHk",
+            "tracks": [
+                {
+                    "name": "Aiza Araab",
+                    "track_url": "",
+                    "duration_ms": 243435,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27362814250cec1925b85e3fc3e",
+                    "id": 6113,
+                    "artist": "Jannat"
+                },
+                {
+                    "name": "Akhat Karar",
+                    "track_url": "",
+                    "duration_ms": 238654,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27362814250cec1925b85e3fc3e",
+                    "id": 6114,
+                    "artist": "Jannat"
+                },
+                {
+                    "name": "Akher Ahzani",
+                    "track_url": "",
+                    "duration_ms": 280502,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27362814250cec1925b85e3fc3e",
+                    "id": 6115,
+                    "artist": "Jannat"
+                },
+                {
+                    "name": "Esal Megarab",
+                    "track_url": "",
+                    "duration_ms": 255608,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27362814250cec1925b85e3fc3e",
+                    "id": 6116,
+                    "artist": "Jannat"
+                },
+                {
+                    "name": "Mish Regola",
+                    "track_url": "",
+                    "duration_ms": 247928,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27362814250cec1925b85e3fc3e",
+                    "id": 6117,
+                    "artist": "Jannat"
+                },
+                {
+                    "name": "Akid Zealet",
+                    "track_url": "",
+                    "duration_ms": 216659,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27362814250cec1925b85e3fc3e",
+                    "id": 6118,
+                    "artist": "Jannat"
+                },
+                {
+                    "name": "100 Dalel",
+                    "track_url": "",
+                    "duration_ms": 284081,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27362814250cec1925b85e3fc3e",
+                    "id": 6119,
+                    "artist": "Jannat"
+                },
+                {
+                    "name": "Ma Tetklimsh",
+                    "track_url": "",
+                    "duration_ms": 201482,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27362814250cec1925b85e3fc3e",
+                    "id": 6120,
+                    "artist": "Jannat"
+                },
+                {
+                    "name": "Be Nafs Elkalam",
+                    "track_url": "",
+                    "duration_ms": 274808,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27362814250cec1925b85e3fc3e",
+                    "id": 6121,
+                    "artist": "Jannat"
+                },
+                {
+                    "name": "Batal Teghani",
+                    "track_url": "",
+                    "duration_ms": 272770,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27362814250cec1925b85e3fc3e",
+                    "id": 6122,
+                    "artist": "Jannat"
+                }
+            ],
+            "id": 6112
+        },
+        {
+            "name": "Jannat Pushpo",
+            "release_date": "2015",
+            "image": "https://i.scdn.co/image/ab67616d0000b273440d8fc7762d6f6d2b47f6ba",
+            "track_url": "https://open.spotify.com/album/7xY37daUVsYkKEaxFlnpKk",
+            "tracks": [
+                {
+                    "name": "Jodi Meghe Chand Dake",
+                    "track_url": "",
+                    "duration_ms": 359184,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273440d8fc7762d6f6d2b47f6ba",
+                    "id": 6124,
+                    "artist": "Jannat"
+                },
+                {
+                    "name": "Tomari Maje",
+                    "track_url": "",
+                    "duration_ms": 326009,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273440d8fc7762d6f6d2b47f6ba",
+                    "id": 6125,
+                    "artist": "Jannat"
+                },
+                {
+                    "name": "Valobeshe Ei Amake",
+                    "track_url": "",
+                    "duration_ms": 315011,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273440d8fc7762d6f6d2b47f6ba",
+                    "id": 6126,
+                    "artist": "Jannat"
+                },
+                {
+                    "name": "Valobasha Kichu Bujena",
+                    "track_url": "",
+                    "duration_ms": 298005,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273440d8fc7762d6f6d2b47f6ba",
+                    "id": 6127,
+                    "artist": "Jannat"
+                },
+                {
+                    "name": "Kotobar Vule Jabo",
+                    "track_url": "",
+                    "duration_ms": 301506,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273440d8fc7762d6f6d2b47f6ba",
+                    "id": 6128,
+                    "artist": "Jannat"
+                },
+                {
+                    "name": "Choker Shimana Chere",
+                    "track_url": "",
+                    "duration_ms": 286015,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273440d8fc7762d6f6d2b47f6ba",
+                    "id": 6129,
+                    "artist": "Jannat"
+                },
+                {
+                    "name": "Ami Tomar Moto Noi",
+                    "track_url": "",
+                    "duration_ms": 313966,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273440d8fc7762d6f6d2b47f6ba",
+                    "id": 6130,
+                    "artist": "Jannat"
+                },
+                {
+                    "name": "Obohela Jotoi Koro",
+                    "track_url": "",
+                    "duration_ms": 266502,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273440d8fc7762d6f6d2b47f6ba",
+                    "id": 6131,
+                    "artist": "Jannat"
+                }
+            ],
+            "id": 6123
+        },
+        {
+            "name": "Hob Gamed",
+            "release_date": "2014-07-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e3708f02d9435de3e1f05a24",
+            "track_url": "https://open.spotify.com/album/1ihVpKlwgh2pXDF6b7PmMq",
+            "tracks": [
+                {
+                    "name": "El Badi Azlam",
+                    "track_url": "",
+                    "duration_ms": 293015,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e3708f02d9435de3e1f05a24",
+                    "id": 6133,
+                    "artist": "Jannat"
+                },
+                {
+                    "name": "Hob Gamed",
+                    "track_url": "",
+                    "duration_ms": 187010,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e3708f02d9435de3e1f05a24",
+                    "id": 6134,
+                    "artist": "Jannat"
+                },
+                {
+                    "name": "Ayishne Aktar",
+                    "track_url": "",
+                    "duration_ms": 285570,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e3708f02d9435de3e1f05a24",
+                    "id": 6135,
+                    "artist": "Jannat"
+                },
+                {
+                    "name": "Keda Ya habibi",
+                    "track_url": "",
+                    "duration_ms": 206184,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e3708f02d9435de3e1f05a24",
+                    "id": 6136,
+                    "artist": "Jannat"
+                },
+                {
+                    "name": "Waheshni",
+                    "track_url": "",
+                    "duration_ms": 237531,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e3708f02d9435de3e1f05a24",
+                    "id": 6137,
+                    "artist": "Jannat"
+                },
+                {
+                    "name": "Shokran Ala Elresala",
+                    "track_url": "",
+                    "duration_ms": 273789,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e3708f02d9435de3e1f05a24",
+                    "id": 6138,
+                    "artist": "Jannat"
+                },
+                {
+                    "name": "Ana Nesetak",
+                    "track_url": "",
+                    "duration_ms": 254563,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e3708f02d9435de3e1f05a24",
+                    "id": 6139,
+                    "artist": "Jannat"
+                },
+                {
+                    "name": "Matkhafsh men bokra",
+                    "track_url": "",
+                    "duration_ms": 240613,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e3708f02d9435de3e1f05a24",
+                    "id": 6140,
+                    "artist": "Jannat"
+                },
+                {
+                    "name": "Hadret elmohem",
+                    "track_url": "",
+                    "duration_ms": 243382,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e3708f02d9435de3e1f05a24",
+                    "id": 6141,
+                    "artist": "Jannat"
+                },
+                {
+                    "name": "Awlad we beit",
+                    "track_url": "",
+                    "duration_ms": 225933,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e3708f02d9435de3e1f05a24",
+                    "id": 6142,
+                    "artist": "Jannat"
+                },
+                {
+                    "name": "Mesa Elgamal",
+                    "track_url": "",
+                    "duration_ms": 237296,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e3708f02d9435de3e1f05a24",
+                    "id": 6143,
+                    "artist": "Jannat"
+                },
+                {
+                    "name": "Mesh Wofaa Ala Had",
+                    "track_url": "",
+                    "duration_ms": 188421,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e3708f02d9435de3e1f05a24",
+                    "id": 6144,
+                    "artist": "Jannat"
+                },
+                {
+                    "name": "Fakrt Tol Elyoum",
+                    "track_url": "",
+                    "duration_ms": 290847,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e3708f02d9435de3e1f05a24",
+                    "id": 6145,
+                    "artist": "Jannat"
+                }
+            ],
+            "id": 6132
+        },
+        {
+            "name": "Hob Emtelak",
+            "release_date": "2013-10-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738b58f14eee38636f8bfd622f",
+            "track_url": "https://open.spotify.com/album/6sjEZxXzUccxxRukfuTVRk",
+            "tracks": [
+                {
+                    "name": "Aala Fekra",
+                    "track_url": "",
+                    "duration_ms": 240194,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738b58f14eee38636f8bfd622f",
+                    "id": 6147,
+                    "artist": "Jannat"
+                },
+                {
+                    "name": "Aashan Khatro",
+                    "track_url": "",
+                    "duration_ms": 219479,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738b58f14eee38636f8bfd622f",
+                    "id": 6148,
+                    "artist": "Jannat"
+                },
+                {
+                    "name": "Ana Donyeto",
+                    "track_url": "",
+                    "duration_ms": 269477,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738b58f14eee38636f8bfd622f",
+                    "id": 6149,
+                    "artist": "Jannat"
+                },
+                {
+                    "name": "Domeny Bwayonak",
+                    "track_url": "",
+                    "duration_ms": 295966,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738b58f14eee38636f8bfd622f",
+                    "id": 6150,
+                    "artist": "Jannat"
+                },
+                {
+                    "name": "Esmaa Kalamy",
+                    "track_url": "",
+                    "duration_ms": 244321,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738b58f14eee38636f8bfd622f",
+                    "id": 6151,
+                    "artist": "Jannat"
+                },
+                {
+                    "name": "Eltefla Elbaryaa",
+                    "track_url": "",
+                    "duration_ms": 277314,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738b58f14eee38636f8bfd622f",
+                    "id": 6152,
+                    "artist": "Jannat"
+                },
+                {
+                    "name": "Gayalak",
+                    "track_url": "",
+                    "duration_ms": 258166,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738b58f14eee38636f8bfd622f",
+                    "id": 6153,
+                    "artist": "Jannat"
+                },
+                {
+                    "name": "Kheet Daa'eef",
+                    "track_url": "",
+                    "duration_ms": 215822,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738b58f14eee38636f8bfd622f",
+                    "id": 6154,
+                    "artist": "Jannat"
+                },
+                {
+                    "name": "Hob Emtelak",
+                    "track_url": "",
+                    "duration_ms": 230111,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738b58f14eee38636f8bfd622f",
+                    "id": 6155,
+                    "artist": "Jannat"
+                },
+                {
+                    "name": "Lw Mertaha Maah",
+                    "track_url": "",
+                    "duration_ms": 261197,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738b58f14eee38636f8bfd622f",
+                    "id": 6156,
+                    "artist": "Jannat"
+                },
+                {
+                    "name": "Meen Beyaeesh",
+                    "track_url": "",
+                    "duration_ms": 232122,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738b58f14eee38636f8bfd622f",
+                    "id": 6157,
+                    "artist": "Jannat"
+                }
+            ],
+            "id": 6146
+        },
+        {
+            "name": "Elli Beni We Benak",
+            "release_date": "2013-10-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b27354a5917c6387c44f67a69ad6",
+            "track_url": "https://open.spotify.com/album/1jp2wpxmZGNXWq1tpSOZLH",
+            "tracks": [
+                {
+                    "name": "Betmor Be Aazma",
+                    "track_url": "",
+                    "duration_ms": 210922,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27354a5917c6387c44f67a69ad6",
+                    "id": 6159,
+                    "artist": "Jannat"
+                },
+                {
+                    "name": "Elli Beni We Benak",
+                    "track_url": "",
+                    "duration_ms": 225933,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27354a5917c6387c44f67a69ad6",
+                    "id": 6160,
+                    "artist": "Jannat"
+                },
+                {
+                    "name": "Gdeed",
+                    "track_url": "",
+                    "duration_ms": 285508,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27354a5917c6387c44f67a69ad6",
+                    "id": 6161,
+                    "artist": "Jannat"
+                },
+                {
+                    "name": "Kelmet Bahebbek",
+                    "track_url": "",
+                    "duration_ms": 226158,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27354a5917c6387c44f67a69ad6",
+                    "id": 6162,
+                    "artist": "Jannat"
+                },
+                {
+                    "name": "Lahza",
+                    "track_url": "",
+                    "duration_ms": 247244,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27354a5917c6387c44f67a69ad6",
+                    "id": 6163,
+                    "artist": "Jannat"
+                },
+                {
+                    "name": "Magetsh Leh",
+                    "track_url": "",
+                    "duration_ms": 275518,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27354a5917c6387c44f67a69ad6",
+                    "id": 6164,
+                    "artist": "Jannat"
+                },
+                {
+                    "name": "Weadert Tebaed",
+                    "track_url": "",
+                    "duration_ms": 251154,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27354a5917c6387c44f67a69ad6",
+                    "id": 6165,
+                    "artist": "Jannat"
+                },
+                {
+                    "name": "Alak Beaah",
+                    "track_url": "",
+                    "duration_ms": 262143,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27354a5917c6387c44f67a69ad6",
+                    "id": 6166,
+                    "artist": "Jannat"
+                }
+            ],
+            "id": 6158
+        }
+    ],
+    "singles": [
+        {
+            "name": "كأنك روح",
+            "release_date": "2024-12-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273228b9040f06226a4657aa2cc",
+            "track_url": "",
+            "id": 6167,
+            "artist": "Jannat"
+        },
+        {
+            "name": "خلصتني",
+            "release_date": "2024-11-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b27335b23bb40d4e64d2e94f4e26",
+            "track_url": "",
+            "id": 6168,
+            "artist": "Jannat"
+        },
+        {
+            "name": "لو اتجوزت",
+            "release_date": "2024-08-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273eeca57b3e7083f78a907185d",
+            "track_url": "",
+            "id": 6169,
+            "artist": "Jannat"
+        },
+        {
+            "name": "Wa7da W7da",
+            "release_date": "2024-06-12",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f44f4542a9c551eafe0e4598",
+            "track_url": "",
+            "id": 6170,
+            "artist": "Jannat"
+        },
+        {
+            "name": "حبنا و حكاياته [من مسلسل بقينا اتنين]",
+            "release_date": "2024-03-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f57e7262fe288c2e7e40871e",
+            "track_url": "",
+            "id": 6171,
+            "artist": "Jannat"
+        },
+        {
+            "name": "ست الدنيا",
+            "release_date": "2024-03-22",
+            "image": "https://i.scdn.co/image/ab67616d0000b27337225cfd393d2bfa68ced218",
+            "track_url": "",
+            "id": 6172,
+            "artist": "Jannat"
+        },
+        {
+            "name": "Elshamkh El Gowwani",
+            "release_date": "2024-01-03",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735955edb6ea0625ebaa6797e7",
+            "track_url": "",
+            "id": 6173,
+            "artist": "Jannat"
+        },
+        {
+            "name": "و كأنك سكر",
+            "release_date": "2023-05-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b27385230e7e52db7e0a20e0930f",
+            "track_url": "",
+            "id": 6174,
+            "artist": "Jannat"
+        },
+        {
+            "name": "Tere Deewane",
+            "release_date": "2023-03-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732d36ba19396e9d1b7f6aba8a",
+            "track_url": "",
+            "id": 6175,
+            "artist": "Jannat"
+        },
+        {
+            "name": "El Tofah w El Farawla",
+            "release_date": "2023-02-20",
+            "image": "https://i.scdn.co/image/ab67616d0000b273990f1f85949cebac4c1c363d",
+            "track_url": "",
+            "id": 6176,
+            "artist": "Jannat"
+        },
+        {
+            "name": "Ya Bakhty Beh",
+            "release_date": "2022-11-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ad197adeab5d8a65441f3a5d",
+            "track_url": "",
+            "id": 6177,
+            "artist": "Jannat"
+        },
+        {
+            "name": "سيد الأحباب",
+            "release_date": "2022-05-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a79d9e8ef542a7aa0799714b",
+            "track_url": "",
+            "id": 6178,
+            "artist": "Jannat"
+        },
+        {
+            "name": "Abtal Baldna",
+            "release_date": "2020-04-02",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734b12b326a514210bfcca6d18",
+            "track_url": "",
+            "id": 6179,
+            "artist": "Jannat"
+        },
+        {
+            "name": "Ya Ilahi",
+            "release_date": "2019-07-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b27336b0d5aa4cbcf78a21d61cbf",
+            "track_url": "",
+            "id": 6180,
+            "artist": "Jannat"
+        },
+        {
+            "name": "Estahmlni",
+            "release_date": "2019-02-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b27391347d05f44ae7cbed425c1c",
+            "track_url": "",
+            "id": 6181,
+            "artist": "Jannat"
+        },
+        {
+            "name": "Ramadan",
+            "release_date": "2019-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b294844d7ab2305b952ed236",
+            "track_url": "",
+            "id": 6182,
+            "artist": "Jannat"
+        },
+        {
+            "name": "Enta El Ehsas",
+            "release_date": "2018-07-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b273deb7d037da5e575e8f5db46b",
+            "track_url": "",
+            "id": 6183,
+            "artist": "Jannat"
+        },
+        {
+            "name": "Islamic",
+            "release_date": "2017-02-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b27390709f708fd405a6dbfcbdca",
+            "track_url": "",
+            "id": 6184,
+            "artist": "Jannat"
+        },
+        {
+            "name": "Agbany Shakhsito - Single",
+            "release_date": "2016-04-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b9bcf664a3f94b719fbd3750",
+            "track_url": "",
+            "id": 6185,
+            "artist": "Jannat"
+        },
+        {
+            "name": "Aktar Men Sana",
+            "release_date": "2013-10-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b273024c54400df6e80c78799e2a",
+            "track_url": "",
+            "id": 6186,
+            "artist": "Jannat"
+        },
+        {
+            "name": "Al Istighfar",
+            "release_date": "2013-03-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a9218972915e2d1a264a67e3",
+            "track_url": "",
+            "id": 6187,
+            "artist": "Jannat"
+        },
+        {
+            "name": "Ereft Rabbak",
+            "release_date": "2012-03-05",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f66ef26c0bb8620fe5e36b09",
+            "track_url": "",
+            "id": 6188,
+            "artist": "Jannat"
+        }
+    ],
+    "popular_tracks": [
+        {
+            "name": "Hob Emtelak",
+            "track_url": "",
+            "duration_ms": 230111,
+            "image": "https://i.scdn.co/image/ab67616d0000b2738b58f14eee38636f8bfd622f",
+            "id": 6189,
+            "artist": "Jannat"
+        },
+        {
+            "name": "Esmaa Kalamy",
+            "track_url": "",
+            "duration_ms": 244321,
+            "image": "https://i.scdn.co/image/ab67616d0000b2738b58f14eee38636f8bfd622f",
+            "id": 6190,
+            "artist": "Jannat"
+        },
+        {
+            "name": "كأنك روح",
+            "track_url": "",
+            "duration_ms": 250635,
+            "image": "https://i.scdn.co/image/ab67616d0000b273228b9040f06226a4657aa2cc",
+            "id": 6191,
+            "artist": "Jannat"
+        },
+        {
+            "name": "Kelmet Bahebbek",
+            "track_url": "",
+            "duration_ms": 226158,
+            "image": "https://i.scdn.co/image/ab67616d0000b27354a5917c6387c44f67a69ad6",
+            "id": 6192,
+            "artist": "Jannat"
+        },
+        {
+            "name": "و كأنك سكر",
+            "track_url": "",
+            "duration_ms": 228530,
+            "image": "https://i.scdn.co/image/ab67616d0000b27385230e7e52db7e0a20e0930f",
+            "id": 6193,
+            "artist": "Jannat"
+        },
+        {
+            "name": "Meen Beyaeesh",
+            "track_url": "",
+            "duration_ms": 232122,
+            "image": "https://i.scdn.co/image/ab67616d0000b2738b58f14eee38636f8bfd622f",
+            "id": 6194,
+            "artist": "Jannat"
+        },
+        {
+            "name": "خلصتني",
+            "track_url": "",
+            "duration_ms": 268223,
+            "image": "https://i.scdn.co/image/ab67616d0000b27335b23bb40d4e64d2e94f4e26",
+            "id": 6195,
+            "artist": "Jannat"
+        },
+        {
+            "name": "Ana Donyeto",
+            "track_url": "",
+            "duration_ms": 269477,
+            "image": "https://i.scdn.co/image/ab67616d0000b2738b58f14eee38636f8bfd622f",
+            "id": 6196,
+            "artist": "Jannat"
+        },
+        {
+            "name": "Gayalak",
+            "track_url": "",
+            "duration_ms": 258166,
+            "image": "https://i.scdn.co/image/ab67616d0000b2738b58f14eee38636f8bfd622f",
+            "id": 6197,
+            "artist": "Jannat"
+        },
+        {
+            "name": "Habibi Ala Neyatoh (New Version)",
+            "track_url": "",
+            "duration_ms": 158851,
+            "image": "https://i.scdn.co/image/ab67616d0000b273b3b7786deb2db245c66bfc61",
+            "id": 6198,
+            "artist": "Jannat"
+        }
+    ]
+}

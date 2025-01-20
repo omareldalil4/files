@@ -1,0 +1,1077 @@
+{
+    "artist": {
+        "id": "5708",
+        "name": "Hamza Namira",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebe29a2105931492a5d4bcdb5f",
+        "background_image": "https://i.scdn.co/image/ab67616100005174e29a2105931492a5d4bcdb5f"
+    },
+    "albums": [
+        {
+            "name": "LIVE IN TORONTO",
+            "release_date": "2024-07-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739fad2ff75eaccd82cccbcd41",
+            "track_url": "https://open.spotify.com/album/3gKyg4kT1UPBchE4IXj4JS",
+            "tracks": [
+                {
+                    "name": "فاضي شوية - Live",
+                    "track_url": "",
+                    "duration_ms": 383811,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739fad2ff75eaccd82cccbcd41",
+                    "id": 5710,
+                    "artist": "Hamza Namira"
+                },
+                {
+                    "name": "انت مين - Live",
+                    "track_url": "",
+                    "duration_ms": 223574,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739fad2ff75eaccd82cccbcd41",
+                    "id": 5711,
+                    "artist": "Hamza Namira"
+                },
+                {
+                    "name": "تذكرتي - Live",
+                    "track_url": "",
+                    "duration_ms": 207989,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739fad2ff75eaccd82cccbcd41",
+                    "id": 5712,
+                    "artist": "Hamza Namira"
+                },
+                {
+                    "name": "رياح الحياة - Live",
+                    "track_url": "",
+                    "duration_ms": 256341,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739fad2ff75eaccd82cccbcd41",
+                    "id": 5713,
+                    "artist": "Hamza Namira"
+                },
+                {
+                    "name": "اسكندرية - Live",
+                    "track_url": "",
+                    "duration_ms": 238492,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739fad2ff75eaccd82cccbcd41",
+                    "id": 5714,
+                    "artist": "Hamza Namira"
+                },
+                {
+                    "name": "چلچل عليه الرمان - Live",
+                    "track_url": "",
+                    "duration_ms": 246960,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739fad2ff75eaccd82cccbcd41",
+                    "id": 5715,
+                    "artist": "Hamza Namira"
+                },
+                {
+                    "name": "لعله خير - Live",
+                    "track_url": "",
+                    "duration_ms": 229829,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739fad2ff75eaccd82cccbcd41",
+                    "id": 5716,
+                    "artist": "Hamza Namira"
+                },
+                {
+                    "name": "إنسان - Live",
+                    "track_url": "",
+                    "duration_ms": 201168,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739fad2ff75eaccd82cccbcd41",
+                    "id": 5717,
+                    "artist": "Hamza Namira"
+                },
+                {
+                    "name": "اهو ده اللي صار - Live",
+                    "track_url": "",
+                    "duration_ms": 209472,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739fad2ff75eaccd82cccbcd41",
+                    "id": 5718,
+                    "artist": "Hamza Namira"
+                },
+                {
+                    "name": "غروب - Live",
+                    "track_url": "",
+                    "duration_ms": 237208,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739fad2ff75eaccd82cccbcd41",
+                    "id": 5719,
+                    "artist": "Hamza Namira"
+                },
+                {
+                    "name": "احلم معايا - Live",
+                    "track_url": "",
+                    "duration_ms": 161540,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739fad2ff75eaccd82cccbcd41",
+                    "id": 5720,
+                    "artist": "Hamza Namira"
+                }
+            ],
+            "id": 5709
+        },
+        {
+            "name": "Raye2",
+            "release_date": "2023-09-27",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731998931ef4ecbb2ad9f26b3e",
+            "track_url": "https://open.spotify.com/album/1pSEP1POnPOIDGaNol4mOs",
+            "tracks": [
+                {
+                    "name": "Raye2",
+                    "track_url": "",
+                    "duration_ms": 227767,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731998931ef4ecbb2ad9f26b3e",
+                    "id": 5722,
+                    "artist": "Hamza Namira"
+                },
+                {
+                    "name": "Eskendereya",
+                    "track_url": "",
+                    "duration_ms": 217099,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731998931ef4ecbb2ad9f26b3e",
+                    "id": 5723,
+                    "artist": "Hamza Namira"
+                },
+                {
+                    "name": "Ghoroub",
+                    "track_url": "",
+                    "duration_ms": 236800,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731998931ef4ecbb2ad9f26b3e",
+                    "id": 5724,
+                    "artist": "Hamza Namira"
+                },
+                {
+                    "name": "Reyah El Hayah",
+                    "track_url": "",
+                    "duration_ms": 229025,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731998931ef4ecbb2ad9f26b3e",
+                    "id": 5725,
+                    "artist": "Hamza Namira"
+                },
+                {
+                    "name": "Ana El Tayeb",
+                    "track_url": "",
+                    "duration_ms": 204458,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731998931ef4ecbb2ad9f26b3e",
+                    "id": 5726,
+                    "artist": "Hamza Namira"
+                },
+                {
+                    "name": "La3allo Khair",
+                    "track_url": "",
+                    "duration_ms": 219469,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731998931ef4ecbb2ad9f26b3e",
+                    "id": 5727,
+                    "artist": "Hamza Namira"
+                },
+                {
+                    "name": "Mesh Saleem",
+                    "track_url": "",
+                    "duration_ms": 213387,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731998931ef4ecbb2ad9f26b3e",
+                    "id": 5728,
+                    "artist": "Hamza Namira"
+                },
+                {
+                    "name": "Shiekh El Arab",
+                    "track_url": "",
+                    "duration_ms": 227797,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731998931ef4ecbb2ad9f26b3e",
+                    "id": 5729,
+                    "artist": "Hamza Namira"
+                },
+                {
+                    "name": "3alam Kaddaba",
+                    "track_url": "",
+                    "duration_ms": 230672,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731998931ef4ecbb2ad9f26b3e",
+                    "id": 5730,
+                    "artist": "Hamza Namira"
+                },
+                {
+                    "name": "Akeed Rag3een",
+                    "track_url": "",
+                    "duration_ms": 147738,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731998931ef4ecbb2ad9f26b3e",
+                    "id": 5731,
+                    "artist": "Hamza Namira"
+                },
+                {
+                    "name": "Merayat",
+                    "track_url": "",
+                    "duration_ms": 213114,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731998931ef4ecbb2ad9f26b3e",
+                    "id": 5732,
+                    "artist": "Hamza Namira"
+                },
+                {
+                    "name": "Werge3na Lewaga3 El Alb",
+                    "track_url": "",
+                    "duration_ms": 188652,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731998931ef4ecbb2ad9f26b3e",
+                    "id": 5733,
+                    "artist": "Hamza Namira"
+                },
+                {
+                    "name": "Ya Safeena",
+                    "track_url": "",
+                    "duration_ms": 249600,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731998931ef4ecbb2ad9f26b3e",
+                    "id": 5734,
+                    "artist": "Hamza Namira"
+                }
+            ],
+            "id": 5721
+        },
+        {
+            "name": "نمرة لاونج",
+            "release_date": "2022-12-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b27381bfae34994ae0abf3bd0719",
+            "track_url": "https://open.spotify.com/album/57JjIqgBvkneWhxrdMk5q2",
+            "tracks": [
+                {
+                    "name": "فاضي شوية",
+                    "track_url": "",
+                    "duration_ms": 249655,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27381bfae34994ae0abf3bd0719",
+                    "id": 5736,
+                    "artist": "Hamza Namira"
+                },
+                {
+                    "name": "معلش",
+                    "track_url": "",
+                    "duration_ms": 177719,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27381bfae34994ae0abf3bd0719",
+                    "id": 5737,
+                    "artist": "Hamza Namira"
+                },
+                {
+                    "name": "القصة واللي كان",
+                    "track_url": "",
+                    "duration_ms": 212684,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27381bfae34994ae0abf3bd0719",
+                    "id": 5738,
+                    "artist": "Hamza Namira"
+                },
+                {
+                    "name": "داري يا قلبي",
+                    "track_url": "",
+                    "duration_ms": 294611,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27381bfae34994ae0abf3bd0719",
+                    "id": 5739,
+                    "artist": "Hamza Namira"
+                },
+                {
+                    "name": "استعيذوا",
+                    "track_url": "",
+                    "duration_ms": 232184,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27381bfae34994ae0abf3bd0719",
+                    "id": 5740,
+                    "artist": "Hamza Namira"
+                },
+                {
+                    "name": "فيه ناس",
+                    "track_url": "",
+                    "duration_ms": 198512,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27381bfae34994ae0abf3bd0719",
+                    "id": 5741,
+                    "artist": "Hamza Namira"
+                },
+                {
+                    "name": "طعم البعاد",
+                    "track_url": "",
+                    "duration_ms": 191118,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27381bfae34994ae0abf3bd0719",
+                    "id": 5742,
+                    "artist": "Hamza Namira"
+                },
+                {
+                    "name": "بلدي",
+                    "track_url": "",
+                    "duration_ms": 136441,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27381bfae34994ae0abf3bd0719",
+                    "id": 5743,
+                    "artist": "Hamza Namira"
+                }
+            ],
+            "id": 5735
+        },
+        {
+            "name": "Mawloud Sanat 80",
+            "release_date": "2020-12-16",
+            "image": "https://i.scdn.co/image/ab67616d0000b27315f9f150da5529e4dfc87e81",
+            "track_url": "https://open.spotify.com/album/3l4HXkpmAhcVi6moAigDT7",
+            "tracks": [
+                {
+                    "name": "Mawloud Sanat 80",
+                    "track_url": "",
+                    "duration_ms": 214140,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27315f9f150da5529e4dfc87e81",
+                    "id": 5745,
+                    "artist": "Hamza Namira"
+                },
+                {
+                    "name": "El Waqaa El Akheera",
+                    "track_url": "",
+                    "duration_ms": 247664,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27315f9f150da5529e4dfc87e81",
+                    "id": 5746,
+                    "artist": "Hamza Namira"
+                },
+                {
+                    "name": "Esta3izo",
+                    "track_url": "",
+                    "duration_ms": 232106,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27315f9f150da5529e4dfc87e81",
+                    "id": 5747,
+                    "artist": "Hamza Namira"
+                },
+                {
+                    "name": "Setta Sabahan",
+                    "track_url": "",
+                    "duration_ms": 214316,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27315f9f150da5529e4dfc87e81",
+                    "id": 5748,
+                    "artist": "Hamza Namira"
+                },
+                {
+                    "name": "Fady Shewaya",
+                    "track_url": "",
+                    "duration_ms": 231735,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27315f9f150da5529e4dfc87e81",
+                    "id": 5749,
+                    "artist": "Hamza Namira"
+                },
+                {
+                    "name": "Mesh Mohem",
+                    "track_url": "",
+                    "duration_ms": 203348,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27315f9f150da5529e4dfc87e81",
+                    "id": 5750,
+                    "artist": "Hamza Namira"
+                },
+                {
+                    "name": "Yaba",
+                    "track_url": "",
+                    "duration_ms": 204892,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27315f9f150da5529e4dfc87e81",
+                    "id": 5751,
+                    "artist": "Hamza Namira"
+                },
+                {
+                    "name": "Ahkeelak Khoofy",
+                    "track_url": "",
+                    "duration_ms": 220932,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27315f9f150da5529e4dfc87e81",
+                    "id": 5752,
+                    "artist": "Hamza Namira"
+                },
+                {
+                    "name": "Ma'lesh",
+                    "track_url": "",
+                    "duration_ms": 208004,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27315f9f150da5529e4dfc87e81",
+                    "id": 5753,
+                    "artist": "Hamza Namira"
+                },
+                {
+                    "name": "El Kessa Welly Kan",
+                    "track_url": "",
+                    "duration_ms": 201595,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27315f9f150da5529e4dfc87e81",
+                    "id": 5754,
+                    "artist": "Hamza Namira"
+                },
+                {
+                    "name": "Ghenwa Leek Men Alby",
+                    "track_url": "",
+                    "duration_ms": 240001,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27315f9f150da5529e4dfc87e81",
+                    "id": 5755,
+                    "artist": "Hamza Namira"
+                },
+                {
+                    "name": "Feeh Nas",
+                    "track_url": "",
+                    "duration_ms": 204231,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27315f9f150da5529e4dfc87e81",
+                    "id": 5756,
+                    "artist": "Hamza Namira"
+                }
+            ],
+            "id": 5744
+        },
+        {
+            "name": "Hateer Min Tany",
+            "release_date": "2018-03-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f8288374941c6f49cd24275c",
+            "track_url": "https://open.spotify.com/album/1m6CW0zW5998gmVkfI2GBl",
+            "tracks": [
+                {
+                    "name": "Bos Bos",
+                    "track_url": "",
+                    "duration_ms": 225829,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f8288374941c6f49cd24275c",
+                    "id": 5758,
+                    "artist": "Hamza Namira"
+                },
+                {
+                    "name": "Dari Ya Alby",
+                    "track_url": "",
+                    "duration_ms": 292807,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f8288374941c6f49cd24275c",
+                    "id": 5759,
+                    "artist": "Hamza Namira"
+                },
+                {
+                    "name": "Dari Ya Alby (Acoustic Version)",
+                    "track_url": "",
+                    "duration_ms": 211540,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f8288374941c6f49cd24275c",
+                    "id": 5760,
+                    "artist": "Hamza Namira"
+                },
+                {
+                    "name": "El Wad El Abeet",
+                    "track_url": "",
+                    "duration_ms": 215250,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f8288374941c6f49cd24275c",
+                    "id": 5761,
+                    "artist": "Hamza Namira"
+                },
+                {
+                    "name": "Hateer Min Tany",
+                    "track_url": "",
+                    "duration_ms": 247563,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f8288374941c6f49cd24275c",
+                    "id": 5762,
+                    "artist": "Hamza Namira"
+                },
+                {
+                    "name": "Madadd",
+                    "track_url": "",
+                    "duration_ms": 224262,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f8288374941c6f49cd24275c",
+                    "id": 5763,
+                    "artist": "Hamza Namira"
+                },
+                {
+                    "name": "Sheekayyo",
+                    "track_url": "",
+                    "duration_ms": 209111,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f8288374941c6f49cd24275c",
+                    "id": 5764,
+                    "artist": "Hamza Namira"
+                },
+                {
+                    "name": "Shuwayyet Habayeb",
+                    "track_url": "",
+                    "duration_ms": 220579,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f8288374941c6f49cd24275c",
+                    "id": 5765,
+                    "artist": "Hamza Namira"
+                },
+                {
+                    "name": "Wala Sohba Ahla",
+                    "track_url": "",
+                    "duration_ms": 216112,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f8288374941c6f49cd24275c",
+                    "id": 5766,
+                    "artist": "Hamza Namira"
+                },
+                {
+                    "name": "Zahra",
+                    "track_url": "",
+                    "duration_ms": 178443,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f8288374941c6f49cd24275c",
+                    "id": 5767,
+                    "artist": "Hamza Namira"
+                }
+            ],
+            "id": 5757
+        },
+        {
+            "name": "Insan",
+            "release_date": "2011-07-12",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ef029742aa2f7342b3b5daaf",
+            "track_url": "https://open.spotify.com/album/25sFJREkcJj3KchmkfkcKt",
+            "tracks": [
+                {
+                    "name": "Insan",
+                    "track_url": "",
+                    "duration_ms": 211186,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ef029742aa2f7342b3b5daaf",
+                    "id": 5769,
+                    "artist": "Hamza Namira"
+                },
+                {
+                    "name": "El-Midan",
+                    "track_url": "",
+                    "duration_ms": 275653,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ef029742aa2f7342b3b5daaf",
+                    "id": 5770,
+                    "artist": "Hamza Namira"
+                },
+                {
+                    "name": "Hansa",
+                    "track_url": "",
+                    "duration_ms": 261666,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ef029742aa2f7342b3b5daaf",
+                    "id": 5771,
+                    "artist": "Hamza Namira"
+                },
+                {
+                    "name": "Taghreeba II (Tazkarti)",
+                    "track_url": "",
+                    "duration_ms": 203706,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ef029742aa2f7342b3b5daaf",
+                    "id": 5772,
+                    "artist": "Hamza Namira"
+                },
+                {
+                    "name": "Ya Muhawwin",
+                    "track_url": "",
+                    "duration_ms": 264760,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ef029742aa2f7342b3b5daaf",
+                    "id": 5773,
+                    "artist": "Hamza Namira"
+                },
+                {
+                    "name": "Ewidooni",
+                    "track_url": "",
+                    "duration_ms": 277626,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ef029742aa2f7342b3b5daaf",
+                    "id": 5774,
+                    "artist": "Hamza Namira"
+                },
+                {
+                    "name": "Ibn El-Watan",
+                    "track_url": "",
+                    "duration_ms": 208186,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ef029742aa2f7342b3b5daaf",
+                    "id": 5775,
+                    "artist": "Hamza Namira"
+                },
+                {
+                    "name": "Balady Ya Balady",
+                    "track_url": "",
+                    "duration_ms": 245546,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ef029742aa2f7342b3b5daaf",
+                    "id": 5776,
+                    "artist": "Hamza Namira"
+                },
+                {
+                    "name": "Ya Hanah!",
+                    "track_url": "",
+                    "duration_ms": 243680,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ef029742aa2f7342b3b5daaf",
+                    "id": 5777,
+                    "artist": "Hamza Namira"
+                },
+                {
+                    "name": "Doori",
+                    "track_url": "",
+                    "duration_ms": 264266,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ef029742aa2f7342b3b5daaf",
+                    "id": 5778,
+                    "artist": "Hamza Namira"
+                },
+                {
+                    "name": "Haser Hesarak",
+                    "track_url": "",
+                    "duration_ms": 225813,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ef029742aa2f7342b3b5daaf",
+                    "id": 5779,
+                    "artist": "Hamza Namira"
+                },
+                {
+                    "name": "Ala Bab Allah",
+                    "track_url": "",
+                    "duration_ms": 224186,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ef029742aa2f7342b3b5daaf",
+                    "id": 5780,
+                    "artist": "Hamza Namira"
+                },
+                {
+                    "name": "Wushoosh",
+                    "track_url": "",
+                    "duration_ms": 203240,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ef029742aa2f7342b3b5daaf",
+                    "id": 5781,
+                    "artist": "Hamza Namira"
+                },
+                {
+                    "name": "Sout",
+                    "track_url": "",
+                    "duration_ms": 445666,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ef029742aa2f7342b3b5daaf",
+                    "id": 5782,
+                    "artist": "Hamza Namira"
+                },
+                {
+                    "name": "Hila Hila - Bonus Track",
+                    "track_url": "",
+                    "duration_ms": 242320,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ef029742aa2f7342b3b5daaf",
+                    "id": 5783,
+                    "artist": "Hamza Namira"
+                },
+                {
+                    "name": "Esmy Masr - Live-Bonus Track",
+                    "track_url": "",
+                    "duration_ms": 162800,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ef029742aa2f7342b3b5daaf",
+                    "id": 5784,
+                    "artist": "Hamza Namira"
+                }
+            ],
+            "id": 5768
+        },
+        {
+            "name": "Dream With Me - Ehlam Ma'aya",
+            "release_date": "2009-01-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b27312eecd645b3be44dee66618e",
+            "track_url": "https://open.spotify.com/album/1IYMu5tmN10oJl5j8xoczc",
+            "tracks": [
+                {
+                    "name": "The Swing - Morgiha",
+                    "track_url": "",
+                    "duration_ms": 249760,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27312eecd645b3be44dee66618e",
+                    "id": 5786,
+                    "artist": "Hamza Namira"
+                },
+                {
+                    "name": "Dream With Me - Ehlam Ma'aya",
+                    "track_url": "",
+                    "duration_ms": 213400,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27312eecd645b3be44dee66618e",
+                    "id": 5787,
+                    "artist": "Hamza Namira"
+                },
+                {
+                    "name": "When We Were Young - Konna Wehna Soghar",
+                    "track_url": "",
+                    "duration_ms": 258386,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27312eecd645b3be44dee66618e",
+                    "id": 5788,
+                    "artist": "Hamza Namira"
+                },
+                {
+                    "name": "Open Your Eyes - Fattah Shababik 'Eineek",
+                    "track_url": "",
+                    "duration_ms": 271653,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27312eecd645b3be44dee66618e",
+                    "id": 5789,
+                    "artist": "Hamza Namira"
+                },
+                {
+                    "name": "Tighten Up Your Belt - Shedd El Hizam",
+                    "track_url": "",
+                    "duration_ms": 266293,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27312eecd645b3be44dee66618e",
+                    "id": 5790,
+                    "artist": "Hamza Namira"
+                },
+                {
+                    "name": "O Bird - Ya Tair",
+                    "track_url": "",
+                    "duration_ms": 263600,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27312eecd645b3be44dee66618e",
+                    "id": 5791,
+                    "artist": "Hamza Namira"
+                },
+                {
+                    "name": "While I Was Running - Wana fi Tareeqy",
+                    "track_url": "",
+                    "duration_ms": 286066,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27312eecd645b3be44dee66618e",
+                    "id": 5792,
+                    "artist": "Hamza Namira"
+                },
+                {
+                    "name": "Alienation 1 - Al Taghreeba 1",
+                    "track_url": "",
+                    "duration_ms": 213226,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27312eecd645b3be44dee66618e",
+                    "id": 5793,
+                    "artist": "Hamza Namira"
+                },
+                {
+                    "name": "O Lord - Ya Rabb",
+                    "track_url": "",
+                    "duration_ms": 243133,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27312eecd645b3be44dee66618e",
+                    "id": 5794,
+                    "artist": "Hamza Namira"
+                },
+                {
+                    "name": "Dream With Me - Ehlam Ma'aya - Acoustic Version",
+                    "track_url": "",
+                    "duration_ms": 225720,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27312eecd645b3be44dee66618e",
+                    "id": 5795,
+                    "artist": "Hamza Namira"
+                }
+            ],
+            "id": 5785
+        }
+    ],
+    "singles": [
+        {
+            "name": "Estanno Shewaya",
+            "release_date": "2024-09-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b273de464c4c4de92ac67d120f45",
+            "track_url": "",
+            "id": 5796,
+            "artist": "Hamza Namira"
+        },
+        {
+            "name": "سر إلهي",
+            "release_date": "2024-03-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736509298c9283d05d89a5a958",
+            "track_url": "",
+            "id": 5797,
+            "artist": "Hamza Namira"
+        },
+        {
+            "name": "Ya Safeena",
+            "release_date": "2023-09-06",
+            "image": "https://i.scdn.co/image/ab67616d0000b273cc3454d15ccb24e053033dd7",
+            "track_url": "",
+            "id": 5798,
+            "artist": "Hamza Namira"
+        },
+        {
+            "name": "Werge3na Lewaga3 El Alb",
+            "release_date": "2023-09-06",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733af4648dd9aaddf747d0727b",
+            "track_url": "",
+            "id": 5799,
+            "artist": "Hamza Namira"
+        },
+        {
+            "name": "Merayat",
+            "release_date": "2023-08-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730ec7818e83b67fe85dd75fb6",
+            "track_url": "",
+            "id": 5800,
+            "artist": "Hamza Namira"
+        },
+        {
+            "name": "Akeed Rag3een",
+            "release_date": "2023-08-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f18280d8c6f5b31fd240939f",
+            "track_url": "",
+            "id": 5801,
+            "artist": "Hamza Namira"
+        },
+        {
+            "name": "3alam Kaddaba",
+            "release_date": "2023-08-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d44031e86b0c4ac0b3eb85f1",
+            "track_url": "",
+            "id": 5802,
+            "artist": "Hamza Namira"
+        },
+        {
+            "name": "Shiekh El Arab",
+            "release_date": "2023-08-16",
+            "image": "https://i.scdn.co/image/ab67616d0000b273300783a4d169e7f73d74ee1d",
+            "track_url": "",
+            "id": 5803,
+            "artist": "Hamza Namira"
+        },
+        {
+            "name": "Mesh Saleem",
+            "release_date": "2023-08-16",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737af967b1fb7c82eb10f23a61",
+            "track_url": "",
+            "id": 5804,
+            "artist": "Hamza Namira"
+        },
+        {
+            "name": "La3allo Khair",
+            "release_date": "2023-08-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b273531df5af50782074f936d393",
+            "track_url": "",
+            "id": 5805,
+            "artist": "Hamza Namira"
+        },
+        {
+            "name": "Ana El Tayeb",
+            "release_date": "2023-08-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738ca9f4b061f9f985e6a8ed58",
+            "track_url": "",
+            "id": 5806,
+            "artist": "Hamza Namira"
+        },
+        {
+            "name": "Reyah El Hayah",
+            "release_date": "2023-08-02",
+            "image": "https://i.scdn.co/image/ab67616d0000b27310f66e7b55dfe039a0c9bbbf",
+            "track_url": "",
+            "id": 5807,
+            "artist": "Hamza Namira"
+        },
+        {
+            "name": "Ghoroub",
+            "release_date": "2023-07-26",
+            "image": "https://i.scdn.co/image/ab67616d0000b273fc14936075b84a914252b529",
+            "track_url": "",
+            "id": 5808,
+            "artist": "Hamza Namira"
+        },
+        {
+            "name": "Eskendereya",
+            "release_date": "2023-07-26",
+            "image": "https://i.scdn.co/image/ab67616d0000b273fa60c0c4aa94b20d622f0deb",
+            "track_url": "",
+            "id": 5809,
+            "artist": "Hamza Namira"
+        },
+        {
+            "name": "Raye2",
+            "release_date": "2023-07-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d9afedd7c4e4d1cf3bea4616",
+            "track_url": "",
+            "id": 5810,
+            "artist": "Hamza Namira"
+        },
+        {
+            "name": "جوايا نور ما ينطفيش",
+            "release_date": "2023-03-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b27334636b9202d636b75a6a2dcc",
+            "track_url": "",
+            "id": 5811,
+            "artist": "Hamza Namira"
+        },
+        {
+            "name": "قبل الفجر",
+            "release_date": "2020-03-27",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731918f457803cbd9bdf519d24",
+            "track_url": "",
+            "id": 5812,
+            "artist": "Hamza Namira"
+        },
+        {
+            "name": "سري في بالي تخبى",
+            "release_date": "2020-03-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b273cdc15733e953531b9e21ef99",
+            "track_url": "",
+            "id": 5813,
+            "artist": "Hamza Namira"
+        },
+        {
+            "name": "كفوكم (Kevokim)",
+            "release_date": "2020-02-29",
+            "image": "https://i.scdn.co/image/ab67616d0000b27367371534273eeadd1b4f55b7",
+            "track_url": "",
+            "id": 5814,
+            "artist": "Hamza Namira"
+        },
+        {
+            "name": "يا ولد عمي",
+            "release_date": "2020-02-22",
+            "image": "https://i.scdn.co/image/ab67616d0000b273bb962fe13c9e7fca81d2fb3d",
+            "track_url": "",
+            "id": 5815,
+            "artist": "Hamza Namira"
+        },
+        {
+            "name": "وين الغالي",
+            "release_date": "2020-02-17",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b0acc0055b6047b27086f62e",
+            "track_url": "",
+            "id": 5816,
+            "artist": "Hamza Namira"
+        },
+        {
+            "name": "صاحب السعادة",
+            "release_date": "2020-02-17",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738e8343265f604cf3df157d04",
+            "track_url": "",
+            "id": 5817,
+            "artist": "Hamza Namira"
+        },
+        {
+            "name": "يا ديرتي",
+            "release_date": "2020-02-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273579de00a5013dcf2a81ab2ec",
+            "track_url": "",
+            "id": 5818,
+            "artist": "Hamza Namira"
+        },
+        {
+            "name": "Hekayet Tefl",
+            "release_date": "2019-02-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736aaba5a12b6b3b74bbbafd0d",
+            "track_url": "",
+            "id": 5819,
+            "artist": "Hamza Namira"
+        },
+        {
+            "name": "إرضي علينا يا لميمة",
+            "release_date": "2018-12-29",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739ced64991e7dda0c9a85f0f6",
+            "track_url": "",
+            "id": 5820,
+            "artist": "Hamza Namira"
+        },
+        {
+            "name": "نازاني - فلكلور أرميني",
+            "release_date": "2018-12-22",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ace8777d56c2c7ba1a69dfb6",
+            "track_url": "",
+            "id": 5821,
+            "artist": "Hamza Namira"
+        },
+        {
+            "name": "العيطة (feat. Habib Belk)",
+            "release_date": "2018-12-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736141c058e0da445a71fb30e6",
+            "track_url": "",
+            "id": 5822,
+            "artist": "Hamza Namira"
+        },
+        {
+            "name": "الحضرة التونسية - البردة",
+            "release_date": "2018-12-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730161df586bca97f4548d293e",
+            "track_url": "",
+            "id": 5823,
+            "artist": "Hamza Namira"
+        },
+        {
+            "name": "أيوب وناعسة",
+            "release_date": "2018-12-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737572311f6bb35420de1d3b30",
+            "track_url": "",
+            "id": 5824,
+            "artist": "Hamza Namira"
+        },
+        {
+            "name": "قمر الغربة (feat. Artmasta)",
+            "release_date": "2018-11-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733ecd9dd287eaa48a26d79fab",
+            "track_url": "",
+            "id": 5825,
+            "artist": "Hamza Namira"
+        },
+        {
+            "name": "الصينية (feat. Autostrad) [Hamza Namira Remix]",
+            "release_date": "2018-10-27",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739c9b15efcf7d7e00ce9e0c8f",
+            "track_url": "",
+            "id": 5826,
+            "artist": "Hamza Namira"
+        },
+        {
+            "name": "دار يا دار (feat. Eftekasat)",
+            "release_date": "2018-10-13",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736b7a21d3ae2aaa0cb10ff485",
+            "track_url": "",
+            "id": 5827,
+            "artist": "Hamza Namira"
+        },
+        {
+            "name": "يامّه مويل الهوى (feat. Frankly Jazz)",
+            "release_date": "2018-10-06",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733355e0c2409d1a14f92b7c56",
+            "track_url": "",
+            "id": 5828,
+            "artist": "Hamza Namira"
+        },
+        {
+            "name": "خليلي",
+            "release_date": "2018-09-29",
+            "image": "https://i.scdn.co/image/ab67616d0000b27300c132fb6aa2334b05db7546",
+            "track_url": "",
+            "id": 5829,
+            "artist": "Hamza Namira"
+        },
+        {
+            "name": "Dari Ya Alby",
+            "release_date": "2018-02-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c2228ce3bb97ef17c8ded7f0",
+            "track_url": "",
+            "id": 5830,
+            "artist": "Hamza Namira"
+        }
+    ],
+    "popular_tracks": [
+        {
+            "name": "Reyah El Hayah",
+            "track_url": "",
+            "duration_ms": 229025,
+            "image": "https://i.scdn.co/image/ab67616d0000b2731998931ef4ecbb2ad9f26b3e",
+            "id": 5831,
+            "artist": "Hamza Namira"
+        },
+        {
+            "name": "Dari Ya Alby",
+            "track_url": "",
+            "duration_ms": 270237,
+            "image": "https://i.scdn.co/image/ab67616d0000b273c2228ce3bb97ef17c8ded7f0",
+            "id": 5832,
+            "artist": "Hamza Namira"
+        },
+        {
+            "name": "Fady Shewaya",
+            "track_url": "",
+            "duration_ms": 231735,
+            "image": "https://i.scdn.co/image/ab67616d0000b27315f9f150da5529e4dfc87e81",
+            "id": 5833,
+            "artist": "Hamza Namira"
+        },
+        {
+            "name": "Tasna'o Almustaheel",
+            "track_url": "",
+            "duration_ms": 180826,
+            "image": "https://i.scdn.co/image/ab67616d0000b273d79817fbaff90241579e218f",
+            "id": 5834,
+            "artist": "Hamza Namira"
+        },
+        {
+            "name": "Raye2",
+            "track_url": "",
+            "duration_ms": 227767,
+            "image": "https://i.scdn.co/image/ab67616d0000b2731998931ef4ecbb2ad9f26b3e",
+            "id": 5835,
+            "artist": "Hamza Namira"
+        },
+        {
+            "name": "Estanno Shewaya",
+            "track_url": "",
+            "duration_ms": 224634,
+            "image": "https://i.scdn.co/image/ab67616d0000b273de464c4c4de92ac67d120f45",
+            "id": 5836,
+            "artist": "Hamza Namira"
+        },
+        {
+            "name": "3alam Kaddaba",
+            "track_url": "",
+            "duration_ms": 230672,
+            "image": "https://i.scdn.co/image/ab67616d0000b2731998931ef4ecbb2ad9f26b3e",
+            "id": 5837,
+            "artist": "Hamza Namira"
+        },
+        {
+            "name": "Ghoroub",
+            "track_url": "",
+            "duration_ms": 236800,
+            "image": "https://i.scdn.co/image/ab67616d0000b2731998931ef4ecbb2ad9f26b3e",
+            "id": 5838,
+            "artist": "Hamza Namira"
+        },
+        {
+            "name": "Dari Ya Alby (Acoustic Version)",
+            "track_url": "",
+            "duration_ms": 211540,
+            "image": "https://i.scdn.co/image/ab67616d0000b273f8288374941c6f49cd24275c",
+            "id": 5839,
+            "artist": "Hamza Namira"
+        },
+        {
+            "name": "El Waqaa El Akheera",
+            "track_url": "",
+            "duration_ms": 247664,
+            "image": "https://i.scdn.co/image/ab67616d0000b27315f9f150da5529e4dfc87e81",
+            "id": 5840,
+            "artist": "Hamza Namira"
+        }
+    ]
+}

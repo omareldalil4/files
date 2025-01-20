@@ -1,0 +1,464 @@
+{
+    "artist": {
+        "id": "7930",
+        "name": "Ruby",
+        "image": "https://i.scdn.co/image/ab67616d0000b273dbdf708a2eb203816ed14c6d",
+        "background_image": "https://i.scdn.co/image/ab67616d00001e02db2e2784780ac0d00df0fa63"
+    },
+    "albums": [
+        {
+            "name": "Meshit Wara Ehsasy",
+            "release_date": "2018-07-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730a358a61ce3b37dd38cf4d3a",
+            "track_url": "https://open.spotify.com/album/1TH64EGsmgeST01D2bwAfx",
+            "tracks": [
+                {
+                    "name": "Meshit Wara Ehsasy",
+                    "track_url": "",
+                    "duration_ms": 284213,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730a358a61ce3b37dd38cf4d3a",
+                    "id": 7932,
+                    "artist": "Ruby"
+                },
+                {
+                    "name": "Maly",
+                    "track_url": "",
+                    "duration_ms": 254439,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730a358a61ce3b37dd38cf4d3a",
+                    "id": 7933,
+                    "artist": "Ruby"
+                },
+                {
+                    "name": "Maly House",
+                    "track_url": "",
+                    "duration_ms": 306468,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730a358a61ce3b37dd38cf4d3a",
+                    "id": 7934,
+                    "artist": "Ruby"
+                },
+                {
+                    "name": "Meshit Wara Ehsasy Oriental",
+                    "track_url": "",
+                    "duration_ms": 298197,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730a358a61ce3b37dd38cf4d3a",
+                    "id": 7935,
+                    "artist": "Ruby"
+                },
+                {
+                    "name": "Ah Mn Amayloh",
+                    "track_url": "",
+                    "duration_ms": 176979,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730a358a61ce3b37dd38cf4d3a",
+                    "id": 7936,
+                    "artist": "Ruby"
+                },
+                {
+                    "name": "Mesh Hatedar",
+                    "track_url": "",
+                    "duration_ms": 474005,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730a358a61ce3b37dd38cf4d3a",
+                    "id": 7937,
+                    "artist": "Ruby"
+                },
+                {
+                    "name": "Essalny Hateraf",
+                    "track_url": "",
+                    "duration_ms": 201226,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730a358a61ce3b37dd38cf4d3a",
+                    "id": 7938,
+                    "artist": "Ruby"
+                },
+                {
+                    "name": "Ya Emma Ana",
+                    "track_url": "",
+                    "duration_ms": 249095,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730a358a61ce3b37dd38cf4d3a",
+                    "id": 7939,
+                    "artist": "Ruby"
+                },
+                {
+                    "name": "El Manea Kheir",
+                    "track_url": "",
+                    "duration_ms": 218432,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730a358a61ce3b37dd38cf4d3a",
+                    "id": 7940,
+                    "artist": "Ruby"
+                },
+                {
+                    "name": "Bashtaa Leneik",
+                    "track_url": "",
+                    "duration_ms": 195935,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730a358a61ce3b37dd38cf4d3a",
+                    "id": 7941,
+                    "artist": "Ruby"
+                }
+            ],
+            "id": 7931
+        },
+        {
+            "name": "Eba Abelny",
+            "release_date": "2005-09-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273eec7b64b4deaedf0bae9016e",
+            "track_url": "https://open.spotify.com/album/18hMYQuTWVT03fhBbtT8kp",
+            "tracks": [
+                {
+                    "name": "Enta Aaref Leih",
+                    "track_url": "",
+                    "duration_ms": 267200,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273eec7b64b4deaedf0bae9016e",
+                    "id": 7943,
+                    "artist": "Ruby"
+                },
+                {
+                    "name": "Kol Ma Aollo Ah",
+                    "track_url": "",
+                    "duration_ms": 212049,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273eec7b64b4deaedf0bae9016e",
+                    "id": 7944,
+                    "artist": "Ruby"
+                },
+                {
+                    "name": "Eba Abelny",
+                    "track_url": "",
+                    "duration_ms": 226479,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273eec7b64b4deaedf0bae9016e",
+                    "id": 7945,
+                    "artist": "Ruby"
+                },
+                {
+                    "name": "Leih Beydary Keda",
+                    "track_url": "",
+                    "duration_ms": 315991,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273eec7b64b4deaedf0bae9016e",
+                    "id": 7946,
+                    "artist": "Ruby"
+                },
+                {
+                    "name": "Ana Omry Mastaneit Had",
+                    "track_url": "",
+                    "duration_ms": 240438,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273eec7b64b4deaedf0bae9016e",
+                    "id": 7947,
+                    "artist": "Ruby"
+                },
+                {
+                    "name": "Ghawy",
+                    "track_url": "",
+                    "duration_ms": 229551,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273eec7b64b4deaedf0bae9016e",
+                    "id": 7948,
+                    "artist": "Ruby"
+                },
+                {
+                    "name": "Maiel Ya Liel",
+                    "track_url": "",
+                    "duration_ms": 226280,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273eec7b64b4deaedf0bae9016e",
+                    "id": 7949,
+                    "artist": "Ruby"
+                },
+                {
+                    "name": "Nazra",
+                    "track_url": "",
+                    "duration_ms": 208559,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273eec7b64b4deaedf0bae9016e",
+                    "id": 7950,
+                    "artist": "Ruby"
+                }
+            ],
+            "id": 7942
+        }
+    ],
+    "singles": [
+        {
+            "name": "اورنچ فري ماكس عيش كله فري - روبي",
+            "release_date": "2024-09-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734788c5d23e1d33653adc4fcc",
+            "track_url": "",
+            "id": 7951,
+            "artist": "Ruby"
+        },
+        {
+            "name": "Hetta Tanya (Aly Fathalla MDLBEAST Remix)",
+            "release_date": "2024-09-05",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737a18ccfdb52f65fc0c04512c",
+            "track_url": "",
+            "id": 7952,
+            "artist": "Ruby"
+        },
+        {
+            "name": "السنبلاوين (من فيلم عصابة الماكس)",
+            "release_date": "2024-08-16",
+            "image": "https://i.scdn.co/image/ab67616d0000b273431a58cb8a1d12a1c7e77cdb",
+            "track_url": "",
+            "id": 7953,
+            "artist": "Ruby"
+        },
+        {
+            "name": "خد بوسة (من فيلم عصابة الماكس)",
+            "release_date": "2024-06-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b27334a20902e6e690819a7c390b",
+            "track_url": "",
+            "id": 7954,
+            "artist": "Ruby"
+        },
+        {
+            "name": "الليلة حلوة",
+            "release_date": "2024-05-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737f7e4257974a6851b457ca68",
+            "track_url": "",
+            "id": 7955,
+            "artist": "Ruby"
+        },
+        {
+            "name": "اش اش",
+            "release_date": "2024-03-14",
+            "image": "https://i.scdn.co/image/ab67616d0000b27351fee44d276489dd27c83d79",
+            "track_url": "",
+            "id": 7956,
+            "artist": "Ruby"
+        },
+        {
+            "name": "Nadl Wa Ayouta",
+            "release_date": "2024-03-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f7422048933268c9bd08698f",
+            "track_url": "",
+            "id": 7957,
+            "artist": "Ruby"
+        },
+        {
+            "name": "لو يرجع",
+            "release_date": "2024-02-14",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c1fd2aa4b1fc78e3f74f5c42",
+            "track_url": "",
+            "id": 7958,
+            "artist": "Ruby"
+        },
+        {
+            "name": "3 ساعات متواصله",
+            "release_date": "2023-12-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e1d30187cccdeb2926216e9e",
+            "track_url": "",
+            "id": 7959,
+            "artist": "Ruby"
+        },
+        {
+            "name": "ليه بيداري كده (ريمكس)",
+            "release_date": "2023-11-02",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733e56b9a1af18732c22a6bd99",
+            "track_url": "",
+            "id": 7960,
+            "artist": "Ruby"
+        },
+        {
+            "name": "Ya Layaly",
+            "release_date": "2023-07-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b273dbdf708a2eb203816ed14c6d",
+            "track_url": "",
+            "id": 7961,
+            "artist": "Ruby"
+        },
+        {
+            "name": "استنى",
+            "release_date": "2023-03-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d37009c936389a0b9985bd6e",
+            "track_url": "",
+            "id": 7962,
+            "artist": "Ruby"
+        },
+        {
+            "name": "Heaty (From Group El Mamies Movie)",
+            "release_date": "2023-01-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738dfc0e28b643e1bb49d4614a",
+            "track_url": "",
+            "id": 7963,
+            "artist": "Ruby"
+        },
+        {
+            "name": "3asal Ya Nas",
+            "release_date": "2022-12-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730ae72ef1b86f831b212b10b8",
+            "track_url": "",
+            "id": 7964,
+            "artist": "Ruby"
+        },
+        {
+            "name": "Namet Nenna",
+            "release_date": "2022-06-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b5690e0d5337c2662a3a4596",
+            "track_url": "",
+            "id": 7965,
+            "artist": "Ruby"
+        },
+        {
+            "name": "فل الفل",
+            "release_date": "2022-05-26",
+            "image": "https://i.scdn.co/image/ab67616d0000b273691b1bf20eaec56671570b5b",
+            "track_url": "",
+            "id": 7966,
+            "artist": "Ruby"
+        },
+        {
+            "name": "Le Awel Marra",
+            "release_date": "2021-11-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738aee40e89c0992639cb258c2",
+            "track_url": "",
+            "id": 7967,
+            "artist": "Ruby"
+        },
+        {
+            "name": "Lazeat Khofash",
+            "release_date": "2021-08-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c8edbcbc306d91783b97c24a",
+            "track_url": "",
+            "id": 7968,
+            "artist": "Ruby"
+        },
+        {
+            "name": "Omak W Abok",
+            "release_date": "2021-08-02",
+            "image": "https://i.scdn.co/image/ab67616d0000b27333219dbf2be4e909afd349c0",
+            "track_url": "",
+            "id": 7969,
+            "artist": "Ruby"
+        },
+        {
+            "name": "Alby Plastic",
+            "release_date": "2021-05-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273536d677108280943ba573e1e",
+            "track_url": "",
+            "id": 7970,
+            "artist": "Ruby"
+        },
+        {
+            "name": "Yal Romoush",
+            "release_date": "2021-04-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b27360d1e83be473cffa0cc09591",
+            "track_url": "",
+            "id": 7971,
+            "artist": "Ruby"
+        },
+        {
+            "name": "واحدة جديدة",
+            "release_date": "2021-03-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b27323069e668f4b46111c15b377",
+            "track_url": "",
+            "id": 7972,
+            "artist": "Ruby"
+        },
+        {
+            "name": "Ana Law Zalana",
+            "release_date": "2021-03-16",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d96896b484b9480cd44b7e57",
+            "track_url": "",
+            "id": 7973,
+            "artist": "Ruby"
+        },
+        {
+            "name": "Hetta Tanya",
+            "release_date": "2021-03-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b27311efb523a5a5cfc34a67ad57",
+            "track_url": "",
+            "id": 7974,
+            "artist": "Ruby"
+        },
+        {
+            "name": "Ebaa Abelny",
+            "release_date": "2005-09-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27394c002e2dbd37a17c5f43f29",
+            "track_url": "",
+            "id": 7975,
+            "artist": "Ruby"
+        },
+        {
+            "name": "Eba Abelny",
+            "release_date": "2005",
+            "image": "https://i.scdn.co/image/ab67616d0000b27388fbbbca2e2feaf41f58ce13",
+            "track_url": "",
+            "id": 7976,
+            "artist": "Ruby"
+        }
+    ],
+    "popular_tracks": [
+        {
+            "name": "Ya Layaly",
+            "track_url": "",
+            "duration_ms": 190714,
+            "image": "https://i.scdn.co/image/ab67616d0000b273dbdf708a2eb203816ed14c6d",
+            "id": 7977,
+            "artist": "Ruby"
+        },
+        {
+            "name": "Hetta Tanya",
+            "track_url": "",
+            "duration_ms": 199288,
+            "image": "https://i.scdn.co/image/ab67616d0000b27311efb523a5a5cfc34a67ad57",
+            "id": 7978,
+            "artist": "Ruby"
+        },
+        {
+            "name": "Leih Beydary Keda",
+            "track_url": "",
+            "duration_ms": 315991,
+            "image": "https://i.scdn.co/image/ab67616d0000b273eec7b64b4deaedf0bae9016e",
+            "id": 7979,
+            "artist": "Ruby"
+        },
+        {
+            "name": "Namet Nenna",
+            "track_url": "",
+            "duration_ms": 201463,
+            "image": "https://i.scdn.co/image/ab67616d0000b273b5690e0d5337c2662a3a4596",
+            "id": 7980,
+            "artist": "Ruby"
+        },
+        {
+            "name": "Alby Plastic",
+            "track_url": "",
+            "duration_ms": 211064,
+            "image": "https://i.scdn.co/image/ab67616d0000b273536d677108280943ba573e1e",
+            "id": 7981,
+            "artist": "Ruby"
+        },
+        {
+            "name": "Enta Aaref Leih",
+            "track_url": "",
+            "duration_ms": 267200,
+            "image": "https://i.scdn.co/image/ab67616d0000b273eec7b64b4deaedf0bae9016e",
+            "id": 7982,
+            "artist": "Ruby"
+        },
+        {
+            "name": "3 ساعات متواصله",
+            "track_url": "",
+            "duration_ms": 191578,
+            "image": "https://i.scdn.co/image/ab67616d0000b273e1d30187cccdeb2926216e9e",
+            "id": 7983,
+            "artist": "Ruby"
+        },
+        {
+            "name": "الليلة حلوة",
+            "track_url": "",
+            "duration_ms": 175652,
+            "image": "https://i.scdn.co/image/ab67616d0000b2737f7e4257974a6851b457ca68",
+            "id": 7984,
+            "artist": "Ruby"
+        },
+        {
+            "name": "Yal Romoush",
+            "track_url": "",
+            "duration_ms": 282155,
+            "image": "https://i.scdn.co/image/ab67616d0000b27360d1e83be473cffa0cc09591",
+            "id": 7985,
+            "artist": "Ruby"
+        },
+        {
+            "name": "استنى",
+            "track_url": "",
+            "duration_ms": 103785,
+            "image": "https://i.scdn.co/image/ab67616d0000b273d37009c936389a0b9985bd6e",
+            "id": 7986,
+            "artist": "Ruby"
+        }
+    ]
+}

@@ -1,0 +1,609 @@
+{
+    "artist": {
+        "id": "8342",
+        "name": "Nedaa Shrara",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb15cc02f4240857ae044e2a25",
+        "background_image": "https://i.scdn.co/image/ab6761610000517415cc02f4240857ae044e2a25"
+    },
+    "albums": [
+        {
+            "name": "Zaffat (زفّات)",
+            "release_date": "2023-03-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b273405a1a9ef6e01bf2dc7b819b",
+            "track_url": "https://open.spotify.com/album/1HclI53mRznftr7jpo4i7A",
+            "tracks": [
+                {
+                    "name": "يا فرحة",
+                    "track_url": "",
+                    "duration_ms": 275559,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273405a1a9ef6e01bf2dc7b819b",
+                    "id": 8344,
+                    "artist": "Nedaa Shrara"
+                },
+                {
+                    "name": "يا عبارات الفرح",
+                    "track_url": "",
+                    "duration_ms": 367328,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273405a1a9ef6e01bf2dc7b819b",
+                    "id": 8345,
+                    "artist": "Nedaa Shrara"
+                },
+                {
+                    "name": "سارة القلب",
+                    "track_url": "",
+                    "duration_ms": 324244,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273405a1a9ef6e01bf2dc7b819b",
+                    "id": 8346,
+                    "artist": "Nedaa Shrara"
+                },
+                {
+                    "name": "هبت نسايم",
+                    "track_url": "",
+                    "duration_ms": 347033,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273405a1a9ef6e01bf2dc7b819b",
+                    "id": 8347,
+                    "artist": "Nedaa Shrara"
+                },
+                {
+                    "name": "شعاع",
+                    "track_url": "",
+                    "duration_ms": 388614,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273405a1a9ef6e01bf2dc7b819b",
+                    "id": 8348,
+                    "artist": "Nedaa Shrara"
+                },
+                {
+                    "name": "جوهره",
+                    "track_url": "",
+                    "duration_ms": 357249,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273405a1a9ef6e01bf2dc7b819b",
+                    "id": 8349,
+                    "artist": "Nedaa Shrara"
+                }
+            ],
+            "id": 8343
+        },
+        {
+            "name": "دعاء مع نداء",
+            "release_date": "2020-04-27",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730026158f59b94ffa6e9291c5",
+            "track_url": "https://open.spotify.com/album/4ZbCC1WlXh1BcP580zXXHa",
+            "tracks": [
+                {
+                    "name": "ادعوك يا مولاي",
+                    "track_url": "",
+                    "duration_ms": 72355,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730026158f59b94ffa6e9291c5",
+                    "id": 8351,
+                    "artist": "Nedaa Shrara"
+                },
+                {
+                    "name": "يا قاضي الحاجات",
+                    "track_url": "",
+                    "duration_ms": 63076,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730026158f59b94ffa6e9291c5",
+                    "id": 8352,
+                    "artist": "Nedaa Shrara"
+                },
+                {
+                    "name": "اللهم اني أسألك",
+                    "track_url": "",
+                    "duration_ms": 97233,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730026158f59b94ffa6e9291c5",
+                    "id": 8353,
+                    "artist": "Nedaa Shrara"
+                },
+                {
+                    "name": "اليك مددت يدي",
+                    "track_url": "",
+                    "duration_ms": 65044,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730026158f59b94ffa6e9291c5",
+                    "id": 8354,
+                    "artist": "Nedaa Shrara"
+                },
+                {
+                    "name": "سبحان من هو",
+                    "track_url": "",
+                    "duration_ms": 68716,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730026158f59b94ffa6e9291c5",
+                    "id": 8355,
+                    "artist": "Nedaa Shrara"
+                },
+                {
+                    "name": "صيام الصائمين",
+                    "track_url": "",
+                    "duration_ms": 67338,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730026158f59b94ffa6e9291c5",
+                    "id": 8356,
+                    "artist": "Nedaa Shrara"
+                },
+                {
+                    "name": "اللهم لا تحرمنا اجر الصيام",
+                    "track_url": "",
+                    "duration_ms": 67341,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730026158f59b94ffa6e9291c5",
+                    "id": 8357,
+                    "artist": "Nedaa Shrara"
+                },
+                {
+                    "name": "اني ظلمة نفسي",
+                    "track_url": "",
+                    "duration_ms": 72802,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730026158f59b94ffa6e9291c5",
+                    "id": 8358,
+                    "artist": "Nedaa Shrara"
+                },
+                {
+                    "name": "اللهم اجعلني",
+                    "track_url": "",
+                    "duration_ms": 79046,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730026158f59b94ffa6e9291c5",
+                    "id": 8359,
+                    "artist": "Nedaa Shrara"
+                },
+                {
+                    "name": "انت ربي",
+                    "track_url": "",
+                    "duration_ms": 62117,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730026158f59b94ffa6e9291c5",
+                    "id": 8360,
+                    "artist": "Nedaa Shrara"
+                },
+                {
+                    "name": "اللهم اسالك",
+                    "track_url": "",
+                    "duration_ms": 102497,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730026158f59b94ffa6e9291c5",
+                    "id": 8361,
+                    "artist": "Nedaa Shrara"
+                },
+                {
+                    "name": "ارحم اخي",
+                    "track_url": "",
+                    "duration_ms": 62780,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730026158f59b94ffa6e9291c5",
+                    "id": 8362,
+                    "artist": "Nedaa Shrara"
+                },
+                {
+                    "name": "يا حنان يا منان",
+                    "track_url": "",
+                    "duration_ms": 62847,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730026158f59b94ffa6e9291c5",
+                    "id": 8363,
+                    "artist": "Nedaa Shrara"
+                },
+                {
+                    "name": "طهر قلبي",
+                    "track_url": "",
+                    "duration_ms": 52761,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730026158f59b94ffa6e9291c5",
+                    "id": 8364,
+                    "artist": "Nedaa Shrara"
+                },
+                {
+                    "name": "يا رحمان ارحمني",
+                    "track_url": "",
+                    "duration_ms": 39551,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730026158f59b94ffa6e9291c5",
+                    "id": 8365,
+                    "artist": "Nedaa Shrara"
+                },
+                {
+                    "name": "اعوذ بكلمات الله",
+                    "track_url": "",
+                    "duration_ms": 49521,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730026158f59b94ffa6e9291c5",
+                    "id": 8366,
+                    "artist": "Nedaa Shrara"
+                },
+                {
+                    "name": "لا تجعلني اخشى سواك",
+                    "track_url": "",
+                    "duration_ms": 31891,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730026158f59b94ffa6e9291c5",
+                    "id": 8367,
+                    "artist": "Nedaa Shrara"
+                },
+                {
+                    "name": "لا في مالي ولا في اهلي",
+                    "track_url": "",
+                    "duration_ms": 68708,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730026158f59b94ffa6e9291c5",
+                    "id": 8368,
+                    "artist": "Nedaa Shrara"
+                },
+                {
+                    "name": "كافئتني بعد الصبر",
+                    "track_url": "",
+                    "duration_ms": 64224,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730026158f59b94ffa6e9291c5",
+                    "id": 8369,
+                    "artist": "Nedaa Shrara"
+                },
+                {
+                    "name": "اني اسالك يا الله",
+                    "track_url": "",
+                    "duration_ms": 66412,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730026158f59b94ffa6e9291c5",
+                    "id": 8370,
+                    "artist": "Nedaa Shrara"
+                }
+            ],
+            "id": 8350
+        },
+        {
+            "name": "Baadou Etrak",
+            "release_date": "2018-02-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a08c6bcfd86da7dfa893c9a2",
+            "track_url": "https://open.spotify.com/album/4MEBBWxpUQ9fiyiLuSSg1s",
+            "tracks": [
+                {
+                    "name": "Ya Nour",
+                    "track_url": "",
+                    "duration_ms": 250032,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a08c6bcfd86da7dfa893c9a2",
+                    "id": 8372,
+                    "artist": "Nedaa Shrara"
+                },
+                {
+                    "name": "Baadou Etrak",
+                    "track_url": "",
+                    "duration_ms": 230142,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a08c6bcfd86da7dfa893c9a2",
+                    "id": 8373,
+                    "artist": "Nedaa Shrara"
+                },
+                {
+                    "name": "Adawar Alek",
+                    "track_url": "",
+                    "duration_ms": 243757,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a08c6bcfd86da7dfa893c9a2",
+                    "id": 8374,
+                    "artist": "Nedaa Shrara"
+                },
+                {
+                    "name": "Yejrahni",
+                    "track_url": "",
+                    "duration_ms": 232531,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a08c6bcfd86da7dfa893c9a2",
+                    "id": 8375,
+                    "artist": "Nedaa Shrara"
+                },
+                {
+                    "name": "Kalam Fi Kalam",
+                    "track_url": "",
+                    "duration_ms": 310510,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a08c6bcfd86da7dfa893c9a2",
+                    "id": 8376,
+                    "artist": "Nedaa Shrara"
+                },
+                {
+                    "name": "Sahrana Ana",
+                    "track_url": "",
+                    "duration_ms": 235012,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a08c6bcfd86da7dfa893c9a2",
+                    "id": 8377,
+                    "artist": "Nedaa Shrara"
+                },
+                {
+                    "name": "Dayaana El Hob",
+                    "track_url": "",
+                    "duration_ms": 288030,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a08c6bcfd86da7dfa893c9a2",
+                    "id": 8378,
+                    "artist": "Nedaa Shrara"
+                },
+                {
+                    "name": "Betkhoun",
+                    "track_url": "",
+                    "duration_ms": 382025,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a08c6bcfd86da7dfa893c9a2",
+                    "id": 8379,
+                    "artist": "Nedaa Shrara"
+                },
+                {
+                    "name": "Madam Maaya El Gomar",
+                    "track_url": "",
+                    "duration_ms": 235503,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a08c6bcfd86da7dfa893c9a2",
+                    "id": 8380,
+                    "artist": "Nedaa Shrara"
+                },
+                {
+                    "name": "Ebn El Nashama",
+                    "track_url": "",
+                    "duration_ms": 228033,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a08c6bcfd86da7dfa893c9a2",
+                    "id": 8381,
+                    "artist": "Nedaa Shrara"
+                },
+                {
+                    "name": "Hab El Saad",
+                    "track_url": "",
+                    "duration_ms": 190509,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a08c6bcfd86da7dfa893c9a2",
+                    "id": 8382,
+                    "artist": "Nedaa Shrara"
+                },
+                {
+                    "name": "Ana Ourduniya",
+                    "track_url": "",
+                    "duration_ms": 254039,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a08c6bcfd86da7dfa893c9a2",
+                    "id": 8383,
+                    "artist": "Nedaa Shrara"
+                }
+            ],
+            "id": 8371
+        }
+    ],
+    "singles": [
+        {
+            "name": "حوش الدلع",
+            "release_date": "2024-11-13",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736e541351fc816ab9a493edfd",
+            "track_url": "",
+            "id": 8384,
+            "artist": "Nedaa Shrara"
+        },
+        {
+            "name": "ودع كل شي",
+            "release_date": "2024-11-02",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732a42e7411919cff35d32fbff",
+            "track_url": "",
+            "id": 8385,
+            "artist": "Nedaa Shrara"
+        },
+        {
+            "name": "نفخر بملكة هاشمية",
+            "release_date": "2024-08-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b27369486caa8ef7036855e2c8ee",
+            "track_url": "",
+            "id": 8386,
+            "artist": "Nedaa Shrara"
+        },
+        {
+            "name": "Set el Aarayes",
+            "release_date": "2024-07-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b27332a5841fd70e13ea37684ec6",
+            "track_url": "",
+            "id": 8387,
+            "artist": "Nedaa Shrara"
+        },
+        {
+            "name": "تعرف احساس",
+            "release_date": "2024-04-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736cde6b62456cff26c8ea07d6",
+            "track_url": "",
+            "id": 8388,
+            "artist": "Nedaa Shrara"
+        },
+        {
+            "name": "كلك إلي",
+            "release_date": "2024-03-06",
+            "image": "https://i.scdn.co/image/ab67616d0000b27326e9912884f1458966642a29",
+            "track_url": "",
+            "id": 8389,
+            "artist": "Nedaa Shrara"
+        },
+        {
+            "name": "إلنا معاد",
+            "release_date": "2024-03-06",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739a3dc9ec51b7f15166c052c4",
+            "track_url": "",
+            "id": 8390,
+            "artist": "Nedaa Shrara"
+        },
+        {
+            "name": "حدوتة منسية (من مسلسل حدوتة منسية)",
+            "release_date": "2024-01-26",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f2c5b7a050bc050fb7914711",
+            "track_url": "",
+            "id": 8391,
+            "artist": "Nedaa Shrara"
+        },
+        {
+            "name": "ومعاك",
+            "release_date": "2023-09-22",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738ac0b55f007c538e4543d73c",
+            "track_url": "",
+            "id": 8392,
+            "artist": "Nedaa Shrara"
+        },
+        {
+            "name": "طمنها",
+            "release_date": "2023-08-16",
+            "image": "https://i.scdn.co/image/ab67616d0000b273fc9a5c514c011ef1b4c63de0",
+            "track_url": "",
+            "id": 8393,
+            "artist": "Nedaa Shrara"
+        },
+        {
+            "name": "احبك",
+            "release_date": "2023-07-27",
+            "image": "https://i.scdn.co/image/ab67616d0000b273fdb59b5ac620a6a7f3a48ee2",
+            "track_url": "",
+            "id": 8394,
+            "artist": "Nedaa Shrara"
+        },
+        {
+            "name": "Myeet Bab",
+            "release_date": "2023-05-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d964d3db9b755b4ddd03bf74",
+            "track_url": "",
+            "id": 8395,
+            "artist": "Nedaa Shrara"
+        },
+        {
+            "name": "Set Elbanat (Hennat El Aarous)",
+            "release_date": "2023-05-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737cd563e7007a06e1b9cb90c0",
+            "track_url": "",
+            "id": 8396,
+            "artist": "Nedaa Shrara"
+        },
+        {
+            "name": "Qalbi Yehbk",
+            "release_date": "2023-04-22",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733d7775c326efe55cd205ec1d",
+            "track_url": "",
+            "id": 8397,
+            "artist": "Nedaa Shrara"
+        },
+        {
+            "name": "أكتم",
+            "release_date": "2022-11-26",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c7edc1af186c83f7d71578d0",
+            "track_url": "",
+            "id": 8398,
+            "artist": "Nedaa Shrara"
+        },
+        {
+            "name": "Aheb Essmi",
+            "release_date": "2022-08-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738b37408f396c51ed568a7dbb",
+            "track_url": "",
+            "id": 8399,
+            "artist": "Nedaa Shrara"
+        },
+        {
+            "name": "نداء فلسطين",
+            "release_date": "2021-12-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b27391421215db78565897af5929",
+            "track_url": "",
+            "id": 8400,
+            "artist": "Nedaa Shrara"
+        },
+        {
+            "name": "Enta Farha",
+            "release_date": "2021-11-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b27360560a269d803e17e9c3d8c0",
+            "track_url": "",
+            "id": 8401,
+            "artist": "Nedaa Shrara"
+        },
+        {
+            "name": "Alhali",
+            "release_date": "2021-02-22",
+            "image": "https://i.scdn.co/image/ab67616d0000b273eed962cea8c42925120fba7f",
+            "track_url": "",
+            "id": 8402,
+            "artist": "Nedaa Shrara"
+        },
+        {
+            "name": "Shorout",
+            "release_date": "2020-06-05",
+            "image": "https://i.scdn.co/image/ab67616d0000b27326d491f178f0fb743fe40dae",
+            "track_url": "",
+            "id": 8403,
+            "artist": "Nedaa Shrara"
+        },
+        {
+            "name": "Bas Yo'borni",
+            "release_date": "2019-12-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ac8438fb6c96098fbb21af87",
+            "track_url": "",
+            "id": 8404,
+            "artist": "Nedaa Shrara"
+        },
+        {
+            "name": "Habaytak Bel Thalata",
+            "release_date": "2019-03-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732373dc949fa61a7fc9c2e28b",
+            "track_url": "",
+            "id": 8405,
+            "artist": "Nedaa Shrara"
+        },
+        {
+            "name": "Daragat",
+            "release_date": "2019-02-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736b643834ddcd03d707216726",
+            "track_url": "",
+            "id": 8406,
+            "artist": "Nedaa Shrara"
+        }
+    ],
+    "popular_tracks": [
+        {
+            "name": "ومعاك",
+            "track_url": "",
+            "duration_ms": 235750,
+            "image": "https://i.scdn.co/image/ab67616d0000b2738ac0b55f007c538e4543d73c",
+            "id": 8407,
+            "artist": "Nedaa Shrara"
+        },
+        {
+            "name": "Habaytak Bel Thalata",
+            "track_url": "",
+            "duration_ms": 216656,
+            "image": "https://i.scdn.co/image/ab67616d0000b2732373dc949fa61a7fc9c2e28b",
+            "id": 8408,
+            "artist": "Nedaa Shrara"
+        },
+        {
+            "name": "Enta Farha",
+            "track_url": "",
+            "duration_ms": 292760,
+            "image": "https://i.scdn.co/image/ab67616d0000b27360560a269d803e17e9c3d8c0",
+            "id": 8409,
+            "artist": "Nedaa Shrara"
+        },
+        {
+            "name": "تعرف احساس",
+            "track_url": "",
+            "duration_ms": 187894,
+            "image": "https://i.scdn.co/image/ab67616d0000b2736cde6b62456cff26c8ea07d6",
+            "id": 8410,
+            "artist": "Nedaa Shrara"
+        },
+        {
+            "name": "Alhali",
+            "track_url": "",
+            "duration_ms": 183401,
+            "image": "https://i.scdn.co/image/ab67616d0000b273eed962cea8c42925120fba7f",
+            "id": 8411,
+            "artist": "Nedaa Shrara"
+        },
+        {
+            "name": "ودع كل شي",
+            "track_url": "",
+            "duration_ms": 235974,
+            "image": "https://i.scdn.co/image/ab67616d0000b2732a42e7411919cff35d32fbff",
+            "id": 8412,
+            "artist": "Nedaa Shrara"
+        },
+        {
+            "name": "Sahrana Ana",
+            "track_url": "",
+            "duration_ms": 235012,
+            "image": "https://i.scdn.co/image/ab67616d0000b273a08c6bcfd86da7dfa893c9a2",
+            "id": 8413,
+            "artist": "Nedaa Shrara"
+        },
+        {
+            "name": "طمنها",
+            "track_url": "",
+            "duration_ms": 244428,
+            "image": "https://i.scdn.co/image/ab67616d0000b273fc9a5c514c011ef1b4c63de0",
+            "id": 8414,
+            "artist": "Nedaa Shrara"
+        },
+        {
+            "name": "حدوتة منسية - تتر مسلسل حدوتة منسية",
+            "track_url": "",
+            "duration_ms": 237000,
+            "image": "https://i.scdn.co/image/ab67616d0000b273f2c5b7a050bc050fb7914711",
+            "id": 8415,
+            "artist": "Nedaa Shrara"
+        },
+        {
+            "name": "حوش الدلع",
+            "track_url": "",
+            "duration_ms": 130169,
+            "image": "https://i.scdn.co/image/ab67616d0000b2736e541351fc816ab9a493edfd",
+            "id": 8416,
+            "artist": "Nedaa Shrara"
+        }
+    ]
+}

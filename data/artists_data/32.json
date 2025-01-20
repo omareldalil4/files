@@ -1,0 +1,1159 @@
+{
+    "artist": {
+        "id": "5024",
+        "name": "Cairokee",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb031d0209d9cb8abbc0505769",
+        "background_image": "https://i.scdn.co/image/ab67616100005174031d0209d9cb8abbc0505769"
+    },
+    "albums": [
+        {
+            "name": "Roma",
+            "release_date": "2022-09-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736609642c8f294da97bd0f76b",
+            "track_url": "https://open.spotify.com/album/6ucy4v9cUETA0yRQx8D34F",
+            "tracks": [
+                {
+                    "name": "Matwhashneesh",
+                    "track_url": "",
+                    "duration_ms": 247163,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736609642c8f294da97bd0f76b",
+                    "id": 5026,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "James Dean",
+                    "track_url": "",
+                    "duration_ms": 244729,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736609642c8f294da97bd0f76b",
+                    "id": 5027,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "Tarantino",
+                    "track_url": "",
+                    "duration_ms": 182096,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736609642c8f294da97bd0f76b",
+                    "id": 5028,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "Costarica",
+                    "track_url": "",
+                    "duration_ms": 225751,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736609642c8f294da97bd0f76b",
+                    "id": 5029,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "Nefsy Ahbek",
+                    "track_url": "",
+                    "duration_ms": 257656,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736609642c8f294da97bd0f76b",
+                    "id": 5030,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "Roberto",
+                    "track_url": "",
+                    "duration_ms": 206048,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736609642c8f294da97bd0f76b",
+                    "id": 5031,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "Roma",
+                    "track_url": "",
+                    "duration_ms": 270985,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736609642c8f294da97bd0f76b",
+                    "id": 5032,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "Basrah w Atooh",
+                    "track_url": "",
+                    "duration_ms": 237832,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736609642c8f294da97bd0f76b",
+                    "id": 5033,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "Ana Negm",
+                    "track_url": "",
+                    "duration_ms": 241852,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736609642c8f294da97bd0f76b",
+                    "id": 5034,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "Johnny Cash",
+                    "track_url": "",
+                    "duration_ms": 166910,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736609642c8f294da97bd0f76b",
+                    "id": 5035,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "Zaman El Kalam",
+                    "track_url": "",
+                    "duration_ms": 210155,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736609642c8f294da97bd0f76b",
+                    "id": 5036,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "Samurai",
+                    "track_url": "",
+                    "duration_ms": 177281,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736609642c8f294da97bd0f76b",
+                    "id": 5037,
+                    "artist": "Cairokee"
+                }
+            ],
+            "id": 5025
+        },
+        {
+            "name": "Classics, Vol. 1",
+            "release_date": "2021-11-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738be26cad2402384f56e7453b",
+            "track_url": "https://open.spotify.com/album/2RIKImF4ssZBfCw3EJBKpk",
+            "tracks": [
+                {
+                    "name": "Helmy Ana",
+                    "track_url": "",
+                    "duration_ms": 623699,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738be26cad2402384f56e7453b",
+                    "id": 5039,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "El Khat Dah Khaty",
+                    "track_url": "",
+                    "duration_ms": 319287,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738be26cad2402384f56e7453b",
+                    "id": 5040,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "Hatelna Bel Ba'y Leban",
+                    "track_url": "",
+                    "duration_ms": 273283,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738be26cad2402384f56e7453b",
+                    "id": 5041,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "Ana El Sot",
+                    "track_url": "",
+                    "duration_ms": 230407,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738be26cad2402384f56e7453b",
+                    "id": 5042,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "Laken Ehsasi",
+                    "track_url": "",
+                    "duration_ms": 303246,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738be26cad2402384f56e7453b",
+                    "id": 5043,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "Ma A'ad Sagheran",
+                    "track_url": "",
+                    "duration_ms": 404712,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738be26cad2402384f56e7453b",
+                    "id": 5044,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "Marbout Be Astek",
+                    "track_url": "",
+                    "duration_ms": 219633,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738be26cad2402384f56e7453b",
+                    "id": 5045,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "Ya Abyad Ya Eswed",
+                    "track_url": "",
+                    "duration_ms": 286225,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738be26cad2402384f56e7453b",
+                    "id": 5046,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "Kont Faker",
+                    "track_url": "",
+                    "duration_ms": 379069,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738be26cad2402384f56e7453b",
+                    "id": 5047,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "Ethbat Makanak",
+                    "track_url": "",
+                    "duration_ms": 366212,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738be26cad2402384f56e7453b",
+                    "id": 5048,
+                    "artist": "Cairokee"
+                }
+            ],
+            "id": 5038
+        },
+        {
+            "name": "كايروكي من الاستوديو",
+            "release_date": "2020-04-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b9653c54a65d441e2e80d7cf",
+            "track_url": "https://open.spotify.com/album/7h5YXGDPG5nC2yNfRe5lLp",
+            "tracks": [
+                {
+                    "name": "بنخاف - كايروكي من الاستوديو",
+                    "track_url": "",
+                    "duration_ms": 237283,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b9653c54a65d441e2e80d7cf",
+                    "id": 5050,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "نقطة بيضا - كايروكي من الاستوديو",
+                    "track_url": "",
+                    "duration_ms": 231724,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b9653c54a65d441e2e80d7cf",
+                    "id": 5051,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "حلمي أنا - كايروكي من الاستوديو",
+                    "track_url": "",
+                    "duration_ms": 361751,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b9653c54a65d441e2e80d7cf",
+                    "id": 5052,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "إضحك - كايروكي من الاستوديو",
+                    "track_url": "",
+                    "duration_ms": 221987,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b9653c54a65d441e2e80d7cf",
+                    "id": 5053,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "كل حاجة بتعدي - كايروكي من الاستوديو",
+                    "track_url": "",
+                    "duration_ms": 204326,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b9653c54a65d441e2e80d7cf",
+                    "id": 5054,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "السكة شمال - كايروكي من الاستوديو",
+                    "track_url": "",
+                    "duration_ms": 133443,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b9653c54a65d441e2e80d7cf",
+                    "id": 5055,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "نعدي الشارع سوا - كايروكي من الاستوديو",
+                    "track_url": "",
+                    "duration_ms": 375388,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b9653c54a65d441e2e80d7cf",
+                    "id": 5056,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "هاتلنا بالباقي لبان - كايروكي من الاستوديو",
+                    "track_url": "",
+                    "duration_ms": 289811,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b9653c54a65d441e2e80d7cf",
+                    "id": 5057,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "ليلى - كايروكي من الاستوديو",
+                    "track_url": "",
+                    "duration_ms": 212000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b9653c54a65d441e2e80d7cf",
+                    "id": 5058,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "ناس و ناس - كايروكي من الاستوديو",
+                    "track_url": "",
+                    "duration_ms": 113504,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b9653c54a65d441e2e80d7cf",
+                    "id": 5059,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "أنا الصوت - كايروكي من الاستوديو",
+                    "track_url": "",
+                    "duration_ms": 222585,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b9653c54a65d441e2e80d7cf",
+                    "id": 5060,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "وانا مع نفسي قاعد - كايروكي من الاستوديو",
+                    "track_url": "",
+                    "duration_ms": 226666,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b9653c54a65d441e2e80d7cf",
+                    "id": 5061,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "لكن إحساسي مش كفاية - كايروكي من الاستوديو",
+                    "track_url": "",
+                    "duration_ms": 192000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b9653c54a65d441e2e80d7cf",
+                    "id": 5062,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "الملك - كايروكي من الاستوديو",
+                    "track_url": "",
+                    "duration_ms": 206482,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b9653c54a65d441e2e80d7cf",
+                    "id": 5063,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "غمض عينك - كايروكي من الاستوديو",
+                    "track_url": "",
+                    "duration_ms": 173107,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b9653c54a65d441e2e80d7cf",
+                    "id": 5064,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "مربوط بآستيك - كايروكي من الاستوديو",
+                    "track_url": "",
+                    "duration_ms": 249000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b9653c54a65d441e2e80d7cf",
+                    "id": 5065,
+                    "artist": "Cairokee"
+                }
+            ],
+            "id": 5049
+        },
+        {
+            "name": "The Ugly Ducklings",
+            "release_date": "2019-03-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b63970a41ac4f8dbe38a6a2c",
+            "track_url": "https://open.spotify.com/album/3qUJmOiTghFa50cr7FybK6",
+            "tracks": [
+                {
+                    "name": "Benkhaf",
+                    "track_url": "",
+                    "duration_ms": 211091,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b63970a41ac4f8dbe38a6a2c",
+                    "id": 5067,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "Kan Lak Ma'aya",
+                    "track_url": "",
+                    "duration_ms": 225343,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b63970a41ac4f8dbe38a6a2c",
+                    "id": 5068,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "Ya Abyad Ya Eswed",
+                    "track_url": "",
+                    "duration_ms": 275479,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b63970a41ac4f8dbe38a6a2c",
+                    "id": 5069,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "Hatlena Bel Ba'y Leban",
+                    "track_url": "",
+                    "duration_ms": 276572,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b63970a41ac4f8dbe38a6a2c",
+                    "id": 5070,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "Yalla Neghany",
+                    "track_url": "",
+                    "duration_ms": 205128,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b63970a41ac4f8dbe38a6a2c",
+                    "id": 5071,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "Ana El Segara",
+                    "track_url": "",
+                    "duration_ms": 220939,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b63970a41ac4f8dbe38a6a2c",
+                    "id": 5072,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "Ma A'ad Sagheran",
+                    "track_url": "",
+                    "duration_ms": 400091,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b63970a41ac4f8dbe38a6a2c",
+                    "id": 5073,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "Ana El Sout",
+                    "track_url": "",
+                    "duration_ms": 224515,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b63970a41ac4f8dbe38a6a2c",
+                    "id": 5074,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "Hob Hob",
+                    "track_url": "",
+                    "duration_ms": 190997,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b63970a41ac4f8dbe38a6a2c",
+                    "id": 5075,
+                    "artist": "Cairokee"
+                }
+            ],
+            "id": 5066
+        },
+        {
+            "name": "Noaata Beida",
+            "release_date": "2017-07-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736efbd75abe13bae3db5d0723",
+            "track_url": "https://open.spotify.com/album/12ngwNxLOjTaOOsIHZCkib",
+            "tracks": [
+                {
+                    "name": "Noaata Beida",
+                    "track_url": "",
+                    "duration_ms": 243362,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736efbd75abe13bae3db5d0723",
+                    "id": 5077,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "Hodna",
+                    "track_url": "",
+                    "duration_ms": 269210,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736efbd75abe13bae3db5d0723",
+                    "id": 5078,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "Kont Faker",
+                    "track_url": "",
+                    "duration_ms": 304396,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736efbd75abe13bae3db5d0723",
+                    "id": 5079,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "Edhak",
+                    "track_url": "",
+                    "duration_ms": 219567,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736efbd75abe13bae3db5d0723",
+                    "id": 5080,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "Layla",
+                    "track_url": "",
+                    "duration_ms": 224590,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736efbd75abe13bae3db5d0723",
+                    "id": 5081,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "Dinosaur",
+                    "track_url": "",
+                    "duration_ms": 257308,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736efbd75abe13bae3db5d0723",
+                    "id": 5082,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "El Seka Shemal Fe Shemal",
+                    "track_url": "",
+                    "duration_ms": 251239,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736efbd75abe13bae3db5d0723",
+                    "id": 5083,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "El Keif",
+                    "track_url": "",
+                    "duration_ms": 225555,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736efbd75abe13bae3db5d0723",
+                    "id": 5084,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "Aam Ghareeb",
+                    "track_url": "",
+                    "duration_ms": 221945,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736efbd75abe13bae3db5d0723",
+                    "id": 5085,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "Akher Oghnya",
+                    "track_url": "",
+                    "duration_ms": 287375,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736efbd75abe13bae3db5d0723",
+                    "id": 5086,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "Noaata Beida 2",
+                    "track_url": "",
+                    "duration_ms": 316428,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736efbd75abe13bae3db5d0723",
+                    "id": 5087,
+                    "artist": "Cairokee"
+                }
+            ],
+            "id": 5076
+        },
+        {
+            "name": "El Sekka Shemal",
+            "release_date": "2015-07-03",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b12788e6033b542e48ca2505",
+            "track_url": "https://open.spotify.com/album/0FuUPAyE7B43Bo8PueM6c1",
+            "tracks": [
+                {
+                    "name": "Eaadet Nazar",
+                    "track_url": "",
+                    "duration_ms": 261410,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b12788e6033b542e48ca2505",
+                    "id": 5089,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "El Khat Dah Khatty",
+                    "track_url": "",
+                    "duration_ms": 308452,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b12788e6033b542e48ca2505",
+                    "id": 5090,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "Agmal Ma Andy",
+                    "track_url": "",
+                    "duration_ms": 267586,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b12788e6033b542e48ca2505",
+                    "id": 5091,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "El Sekka Shemal",
+                    "track_url": "",
+                    "duration_ms": 196253,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b12788e6033b542e48ca2505",
+                    "id": 5092,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "Ghareeb Fi Belad Ghareeba",
+                    "track_url": "",
+                    "duration_ms": 265402,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b12788e6033b542e48ca2505",
+                    "id": 5093,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "Yama Fil Habs Mazaleem",
+                    "track_url": "",
+                    "duration_ms": 298421,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b12788e6033b542e48ca2505",
+                    "id": 5094,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "Nefsy Afagar",
+                    "track_url": "",
+                    "duration_ms": 170666,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b12788e6033b542e48ca2505",
+                    "id": 5095,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "Ana Mesh Ader",
+                    "track_url": "",
+                    "duration_ms": 262290,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b12788e6033b542e48ca2505",
+                    "id": 5096,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "Lamma Etaabelna",
+                    "track_url": "",
+                    "duration_ms": 175401,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b12788e6033b542e48ca2505",
+                    "id": 5097,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "Telea El Sabah",
+                    "track_url": "",
+                    "duration_ms": 178886,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b12788e6033b542e48ca2505",
+                    "id": 5098,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "Massraheya",
+                    "track_url": "",
+                    "duration_ms": 197416,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b12788e6033b542e48ca2505",
+                    "id": 5099,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "Yatara Faker",
+                    "track_url": "",
+                    "duration_ms": 325031,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b12788e6033b542e48ca2505",
+                    "id": 5100,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "Fi El Nehaya",
+                    "track_url": "",
+                    "duration_ms": 147910,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b12788e6033b542e48ca2505",
+                    "id": 5101,
+                    "artist": "Cairokee"
+                }
+            ],
+            "id": 5088
+        },
+        {
+            "name": "Nas W Nas",
+            "release_date": "2015-03-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b27307145aee437516762bb8c7e1",
+            "track_url": "https://open.spotify.com/album/1a1zXakQQwA2aaACChPeFi",
+            "tracks": [
+                {
+                    "name": "Walla Ma Aayez",
+                    "track_url": "",
+                    "duration_ms": 214866,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27307145aee437516762bb8c7e1",
+                    "id": 5103,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "Qabl El Wosool",
+                    "track_url": "",
+                    "duration_ms": 253226,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27307145aee437516762bb8c7e1",
+                    "id": 5104,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "Geina El Donia Fi Laffa",
+                    "track_url": "",
+                    "duration_ms": 286040,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27307145aee437516762bb8c7e1",
+                    "id": 5105,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "Kol Haga Betaady",
+                    "track_url": "",
+                    "duration_ms": 201266,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27307145aee437516762bb8c7e1",
+                    "id": 5106,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "Neaady El Sharea Sawa",
+                    "track_url": "",
+                    "duration_ms": 282733,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27307145aee437516762bb8c7e1",
+                    "id": 5107,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "Marboot Be Astek",
+                    "track_url": "",
+                    "duration_ms": 232573,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27307145aee437516762bb8c7e1",
+                    "id": 5108,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "Ghammad Einak",
+                    "track_url": "",
+                    "duration_ms": 232946,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27307145aee437516762bb8c7e1",
+                    "id": 5109,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "El Baka Baka",
+                    "track_url": "",
+                    "duration_ms": 207466,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27307145aee437516762bb8c7e1",
+                    "id": 5110,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "Ala El Hamesh",
+                    "track_url": "",
+                    "duration_ms": 261545,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27307145aee437516762bb8c7e1",
+                    "id": 5111,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "Nas w Nas",
+                    "track_url": "",
+                    "duration_ms": 282453,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27307145aee437516762bb8c7e1",
+                    "id": 5112,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "El Television",
+                    "track_url": "",
+                    "duration_ms": 299333,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27307145aee437516762bb8c7e1",
+                    "id": 5113,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "Geina El Donia Fi Laffa - Remix",
+                    "track_url": "",
+                    "duration_ms": 285040,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27307145aee437516762bb8c7e1",
+                    "id": 5114,
+                    "artist": "Cairokee"
+                }
+            ],
+            "id": 5102
+        },
+        {
+            "name": "Wana Maa Nafsy Aaed",
+            "release_date": "2012-06-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27369d0b6f294111d18e6b1a94d",
+            "track_url": "https://open.spotify.com/album/59gEd1l0GhBXgmz7rFsRjc",
+            "tracks": [
+                {
+                    "name": "El Malek",
+                    "track_url": "",
+                    "duration_ms": 207574,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27369d0b6f294111d18e6b1a94d",
+                    "id": 5116,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "Kol Youm Momken Yekon Bedaya",
+                    "track_url": "",
+                    "duration_ms": 229913,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27369d0b6f294111d18e6b1a94d",
+                    "id": 5117,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "Bokra Al Shams Tetlaa",
+                    "track_url": "",
+                    "duration_ms": 256276,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27369d0b6f294111d18e6b1a94d",
+                    "id": 5118,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "Wana Maa Nafsy Aaed",
+                    "track_url": "",
+                    "duration_ms": 243164,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27369d0b6f294111d18e6b1a94d",
+                    "id": 5119,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "Law Kan Andy Guitar",
+                    "track_url": "",
+                    "duration_ms": 228179,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27369d0b6f294111d18e6b1a94d",
+                    "id": 5120,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "Souty",
+                    "track_url": "",
+                    "duration_ms": 223877,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27369d0b6f294111d18e6b1a94d",
+                    "id": 5121,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "Bas'al Aleky",
+                    "track_url": "",
+                    "duration_ms": 251142,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27369d0b6f294111d18e6b1a94d",
+                    "id": 5122,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "Tayeh",
+                    "track_url": "",
+                    "duration_ms": 257664,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27369d0b6f294111d18e6b1a94d",
+                    "id": 5123,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "Laken Ehsasy Mesh Kefaya",
+                    "track_url": "",
+                    "duration_ms": 288328,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27369d0b6f294111d18e6b1a94d",
+                    "id": 5124,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "Mestany",
+                    "track_url": "",
+                    "duration_ms": 196612,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27369d0b6f294111d18e6b1a94d",
+                    "id": 5125,
+                    "artist": "Cairokee"
+                }
+            ],
+            "id": 5115
+        },
+        {
+            "name": "Matloob Zaeem",
+            "release_date": "2012-01-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b273bbe418c4ee9a782cc88c25c3",
+            "track_url": "https://open.spotify.com/album/1TIDLQOlQR5Ky49YjMxxxt",
+            "tracks": [
+                {
+                    "name": "Yeady El Seef",
+                    "track_url": "",
+                    "duration_ms": 222135,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bbe418c4ee9a782cc88c25c3",
+                    "id": 5127,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "Sout El Horeya",
+                    "track_url": "",
+                    "duration_ms": 239651,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bbe418c4ee9a782cc88c25c3",
+                    "id": 5128,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "Matloob Zaeem",
+                    "track_url": "",
+                    "duration_ms": 258622,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bbe418c4ee9a782cc88c25c3",
+                    "id": 5129,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "Yalmidan",
+                    "track_url": "",
+                    "duration_ms": 279756,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bbe418c4ee9a782cc88c25c3",
+                    "id": 5130,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "El Wad Betaa El Mazzika",
+                    "track_url": "",
+                    "duration_ms": 212558,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bbe418c4ee9a782cc88c25c3",
+                    "id": 5131,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "Efred Genahak",
+                    "track_url": "",
+                    "duration_ms": 268904,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bbe418c4ee9a782cc88c25c3",
+                    "id": 5132,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "Ghareeb",
+                    "track_url": "",
+                    "duration_ms": 265717,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bbe418c4ee9a782cc88c25c3",
+                    "id": 5133,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "Ethbat Makanak",
+                    "track_url": "",
+                    "duration_ms": 283217,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bbe418c4ee9a782cc88c25c3",
+                    "id": 5134,
+                    "artist": "Cairokee"
+                },
+                {
+                    "name": "Helmy Ana",
+                    "track_url": "",
+                    "duration_ms": 341583,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bbe418c4ee9a782cc88c25c3",
+                    "id": 5135,
+                    "artist": "Cairokee"
+                }
+            ],
+            "id": 5126
+        }
+    ],
+    "singles": [
+        {
+            "name": "Telk Qadeya",
+            "release_date": "2023-11-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b273088987dbb32f01c23274d1da",
+            "track_url": "",
+            "id": 5136,
+            "artist": "Cairokee"
+        },
+        {
+            "name": "James Dean",
+            "release_date": "2022-09-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738ca67f34f389efe448014123",
+            "track_url": "",
+            "id": 5137,
+            "artist": "Cairokee"
+        },
+        {
+            "name": "Ya Abyad Ya Eswed",
+            "release_date": "2021-09-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b27396874edc92a0e299e691936e",
+            "track_url": "",
+            "id": 5138,
+            "artist": "Cairokee"
+        },
+        {
+            "name": "Marbout Be Astek",
+            "release_date": "2021-09-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f7f5f84c14f1d01267f069d2",
+            "track_url": "",
+            "id": 5139,
+            "artist": "Cairokee"
+        },
+        {
+            "name": "Ma A'ad Sagheran",
+            "release_date": "2021-09-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f70ad0abf4052dea9dd7ca07",
+            "track_url": "",
+            "id": 5140,
+            "artist": "Cairokee"
+        },
+        {
+            "name": "Laken Ehsasi",
+            "release_date": "2021-09-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732046e9de9968c2ac94c5060b",
+            "track_url": "",
+            "id": 5141,
+            "artist": "Cairokee"
+        },
+        {
+            "name": "Kont Faker",
+            "release_date": "2021-09-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b273badc6af34ea82766cb8238c5",
+            "track_url": "",
+            "id": 5142,
+            "artist": "Cairokee"
+        },
+        {
+            "name": "Helmy Ana",
+            "release_date": "2021-09-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b273361e08aa6ebdf7dca4f2e5e1",
+            "track_url": "",
+            "id": 5143,
+            "artist": "Cairokee"
+        },
+        {
+            "name": "Hatelna Bel Ba'y Leban",
+            "release_date": "2021-09-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b729a34336e78278ec0812d2",
+            "track_url": "",
+            "id": 5144,
+            "artist": "Cairokee"
+        },
+        {
+            "name": "Ethbat Makanak",
+            "release_date": "2021-09-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b27308076317e55ed866f26a919c",
+            "track_url": "",
+            "id": 5145,
+            "artist": "Cairokee"
+        },
+        {
+            "name": "El Khat Dah Khaty",
+            "release_date": "2021-09-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b27350045cf07909691a3e8e1c46",
+            "track_url": "",
+            "id": 5146,
+            "artist": "Cairokee"
+        },
+        {
+            "name": "Ana El Sot",
+            "release_date": "2021-09-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b273503f8a1fb88a25371e7baf2f",
+            "track_url": "",
+            "id": 5147,
+            "artist": "Cairokee"
+        },
+        {
+            "name": "Samurai",
+            "release_date": "2021-03-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b27337e605339f56f7f13c9846c5",
+            "track_url": "",
+            "id": 5148,
+            "artist": "Cairokee"
+        },
+        {
+            "name": "Seto Basbesetlo",
+            "release_date": "2021-03-17",
+            "image": "https://i.scdn.co/image/ab67616d0000b27390d502b57ef9b3231c448003",
+            "track_url": "",
+            "id": 5149,
+            "artist": "Cairokee"
+        },
+        {
+            "name": "Sarah",
+            "release_date": "2019-04-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739b16c7e81e66768c33dcd268",
+            "track_url": "",
+            "id": 5150,
+            "artist": "Cairokee"
+        },
+        {
+            "name": "Dinosaur",
+            "release_date": "2017-08-02",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d908f79ebf7ec2d7c194de1c",
+            "track_url": "",
+            "id": 5151,
+            "artist": "Cairokee"
+        },
+        {
+            "name": "Nas Betoros We Nas Betmoot",
+            "release_date": "2014-02-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b28254fb0b3deaf15d78fcad",
+            "track_url": "",
+            "id": 5152,
+            "artist": "Cairokee"
+        },
+        {
+            "name": "Mekameleen",
+            "release_date": "2013-08-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b27328ff8988c7a0e011e536083d",
+            "track_url": "",
+            "id": 5153,
+            "artist": "Cairokee"
+        },
+        {
+            "name": "Mat El Kalam",
+            "release_date": "2013-03-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b273009cca44e1eade17d7aa928e",
+            "track_url": "",
+            "id": 5154,
+            "artist": "Cairokee"
+        },
+        {
+            "name": "Etganen",
+            "release_date": "2013-02-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b273add815c10384f0e134fd6e27",
+            "track_url": "",
+            "id": 5155,
+            "artist": "Cairokee"
+        },
+        {
+            "name": "Ehna El Shaab",
+            "release_date": "2012-09-22",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731d1a8f73a331732c898965b9",
+            "track_url": "",
+            "id": 5156,
+            "artist": "Cairokee"
+        }
+    ],
+    "popular_tracks": [
+        {
+            "name": "Basrah w Atooh",
+            "track_url": "",
+            "duration_ms": 237832,
+            "image": "https://i.scdn.co/image/ab67616d0000b2736609642c8f294da97bd0f76b",
+            "id": 5157,
+            "artist": "Cairokee"
+        },
+        {
+            "name": "Ana Negm",
+            "track_url": "",
+            "duration_ms": 241852,
+            "image": "https://i.scdn.co/image/ab67616d0000b2736609642c8f294da97bd0f76b",
+            "id": 5158,
+            "artist": "Cairokee"
+        },
+        {
+            "name": "Nefsy Ahbek",
+            "track_url": "",
+            "duration_ms": 257656,
+            "image": "https://i.scdn.co/image/ab67616d0000b2736609642c8f294da97bd0f76b",
+            "id": 5159,
+            "artist": "Cairokee"
+        },
+        {
+            "name": "Roma",
+            "track_url": "",
+            "duration_ms": 270985,
+            "image": "https://i.scdn.co/image/ab67616d0000b2736609642c8f294da97bd0f76b",
+            "id": 5160,
+            "artist": "Cairokee"
+        },
+        {
+            "name": "Samurai",
+            "track_url": "",
+            "duration_ms": 177281,
+            "image": "https://i.scdn.co/image/ab67616d0000b2736609642c8f294da97bd0f76b",
+            "id": 5161,
+            "artist": "Cairokee"
+        },
+        {
+            "name": "ليلى - كايروكي من الاستوديو",
+            "track_url": "",
+            "duration_ms": 212000,
+            "image": "https://i.scdn.co/image/ab67616d0000b273b9653c54a65d441e2e80d7cf",
+            "id": 5162,
+            "artist": "Cairokee"
+        },
+        {
+            "name": "El Seka Shemal Fe Shemal",
+            "track_url": "",
+            "duration_ms": 251239,
+            "image": "https://i.scdn.co/image/ab67616d0000b2736efbd75abe13bae3db5d0723",
+            "id": 5163,
+            "artist": "Cairokee"
+        },
+        {
+            "name": "James Dean",
+            "track_url": "",
+            "duration_ms": 244729,
+            "image": "https://i.scdn.co/image/ab67616d0000b2736609642c8f294da97bd0f76b",
+            "id": 5164,
+            "artist": "Cairokee"
+        },
+        {
+            "name": "Kan Lak Ma'aya",
+            "track_url": "",
+            "duration_ms": 225343,
+            "image": "https://i.scdn.co/image/ab67616d0000b273b63970a41ac4f8dbe38a6a2c",
+            "id": 5165,
+            "artist": "Cairokee"
+        },
+        {
+            "name": "كل حاجة بتعدي - كايروكي من الاستوديو",
+            "track_url": "",
+            "duration_ms": 204326,
+            "image": "https://i.scdn.co/image/ab67616d0000b273b9653c54a65d441e2e80d7cf",
+            "id": 5166,
+            "artist": "Cairokee"
+        }
+    ]
+}

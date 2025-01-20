@@ -1,0 +1,1153 @@
+{
+    "artist": {
+        "id": "1523",
+        "name": "Ramy Sabry",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb699e60132a156c56ec2a2387",
+        "background_image": "https://i.scdn.co/image/ab67616100005174699e60132a156c56ec2a2387"
+    },
+    "albums": [
+        {
+            "name": "أنا جامد كده كده",
+            "release_date": "2024-08-14",
+            "image": "https://i.scdn.co/image/ab67616d00001e027d8b077945be6e3e4f2d9ea8",
+            "track_url": "https://open.spotify.com/album/2rNjGXX2kPVeONjCGhrgp2",
+            "tracks": [
+                {
+                    "name": "أنا جامد كده كده",
+                    "track_url": "https://www.dropbox.com/scl/fi/6clxjlv4ibufiqgu70k9z/.mp3?rlkey=u20k6fggvfmjtyplgmb4dmm8t&st=sinxowfs&dl=1",
+                    "duration_ms": 248000,
+                    "image": "https://i.scdn.co/image/ab67616d00001e027d8b077945be6e3e4f2d9ea8",
+                    "id": 12386,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "على بالي",
+                    "track_url": "https://www.dropbox.com/scl/fi/cnd7towupn9o61ajyz5nn/.mp3?rlkey=9vp24wf8yl19nnckaqspryldu&st=4bmlijfq&dl=1",
+                    "duration_ms": 248000,
+                    "image": "https://i.scdn.co/image/ab67616d00001e027d8b077945be6e3e4f2d9ea8",
+                    "id": 12387,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "كنا معديين",
+                    "track_url": "https://www.dropbox.com/scl/fi/vobuvuau13drfjym8q4c3/.mp3?rlkey=78ljyu0sjenie2li1mor1el0s&st=55c99pq7&dl=1",
+                    "duration_ms": 248000,
+                    "image": "https://i.scdn.co/image/ab67616d00001e027d8b077945be6e3e4f2d9ea8",
+                    "id": 12388,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "مابتحصليش كتير",
+                    "track_url": "https://www.dropbox.com/scl/fi/14de1poknp8iogndkgqva/.mp3?rlkey=x83w7b75ahtu97mpkd5lkq4ee&st=d9l75dsl&dl=1",
+                    "duration_ms": 248000,
+                    "image": "https://i.scdn.co/image/ab67616d00001e027d8b077945be6e3e4f2d9ea8",
+                    "id": 12389,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "كداب",
+                    "track_url": "https://www.dropbox.com/scl/fi/ijps2gyjndojqqlne0iy5/.mp3?rlkey=5wpdfs81uh9rbutp8f2mp9kae&st=wzym2747&dl=1",
+                    "duration_ms": 248000,
+                    "image": "https://i.scdn.co/image/ab67616d00001e027d8b077945be6e3e4f2d9ea8",
+                    "id": 12390,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "فيها ايه",
+                    "track_url": "https://www.dropbox.com/scl/fi/2non7896wh2hqgxibams8/.mp3?rlkey=7f48y4sjfwgmcfgzmb3uyasvu&st=jpxdlr1m&dl=1",
+                    "duration_ms": 248000,
+                    "image": "https://i.scdn.co/image/ab67616d00001e027d8b077945be6e3e4f2d9ea8",
+                    "id": 12391,
+                    "artist": "Ramy Sabry"
+                }
+            ],
+            "id": 12385
+        },
+        {
+            "name": "النهايات اخلاق",
+            "release_date": "2024-01-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b273eb7b7d3930c3ccd57fd91800",
+            "track_url": "https://open.spotify.com/album/2rNjGXX2kPVeONjCGhrgp2",
+            "tracks": [
+                {
+                    "name": "النهايات اخلاق",
+                    "track_url": "https://www.dropbox.com/scl/fi/pmukdavf94kuo0iwvxt3f/El-Nehyat-Akhlaa.mp3?rlkey=1rxx7weh4auaf9kean9lym6mj&st=d0ti2qiy&dl=1",
+                    "duration_ms": 248000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273eb7b7d3930c3ccd57fd91800",
+                    "id": 1531,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "بين الحيطان",
+                    "track_url": "https://www.dropbox.com/scl/fi/gmqpcp4whtfia8jjf206l/Ben-El-Hettan.mp3?rlkey=96g5pia5lo45cwh10uhjho8ia&st=syy72ei5&dl=1",
+                    "duration_ms": 192872,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273eb7b7d3930c3ccd57fd91800",
+                    "id": 1532,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "جت سليمة",
+                    "track_url": "https://www.dropbox.com/scl/fi/2elg6fw1j10t0ozzudtat/Gat-Salema.mp3?rlkey=0u553loppjz4epu4wjruhjo1u&st=2fcexay0&dl=1",
+                    "duration_ms": 231303,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273eb7b7d3930c3ccd57fd91800",
+                    "id": 1533,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "كل سنة",
+                    "track_url": "https://www.dropbox.com/scl/fi/e6v4t92xddmxerjrnk1b1/Kol-Sana.mp3?rlkey=3j5h9jmi5vlzngkwb3hq55tee&st=tzapgdnk&dl=1",
+                    "duration_ms": 183506,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273eb7b7d3930c3ccd57fd91800",
+                    "id": 1534,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "بحكي عليكي",
+                    "track_url": "https://www.dropbox.com/scl/fi/guj1z3uhtlpmu0bqx7wnv/Bahki-Aleky.mp3?rlkey=5xzghpizpsb4s4yjmypdvaepk&st=czjsxcb5&dl=1",
+                    "duration_ms": 244500,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273eb7b7d3930c3ccd57fd91800",
+                    "id": 1535,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "مبسوط يابعد",
+                    "track_url": "https://www.dropbox.com/scl/fi/eky82ldv86t1gm7u8pfj0/Mabsot-Ya-Bo3d.mp3?rlkey=jxsfpz0lsbmi05q1hllp755xt&st=uc7ly2pb&dl=1",
+                    "duration_ms": 267680,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273eb7b7d3930c3ccd57fd91800",
+                    "id": 1536,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "النجومية",
+                    "track_url": "https://www.dropbox.com/scl/fi/604xlp3coczlgh344plb9/El-Nogomia.mp3?rlkey=d4jfjrwdq5ssf406m2rfpur65&st=k3hgd6p3&dl=1",
+                    "duration_ms": 170076,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273eb7b7d3930c3ccd57fd91800",
+                    "id": 1537,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "أمانة ياقلبي",
+                    "track_url": "https://www.dropbox.com/scl/fi/gze8bcf3a2gg1l6x15bvt/Amana-Ya-Alby.mp3?rlkey=3dx7pfu49tzop22uzroukd3hu&st=7zlxv892&dl=1",
+                    "duration_ms": 220588,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273eb7b7d3930c3ccd57fd91800",
+                    "id": 1538,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "جامد",
+                    "track_url": "https://www.dropbox.com/scl/fi/dl40re4clsggf2ve274sz/Gamed.mp3?rlkey=gcyltewfru8mw4l87abdztpfh&st=qphjj6xt&dl=1",
+                    "duration_ms": 176727,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273eb7b7d3930c3ccd57fd91800",
+                    "id": 1539,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "أمانة ياقلبي ريميكس",
+                    "track_url": "https://www.dropbox.com/scl/fi/6m7imwpgtuod4xag0xv21/Amana-Ya-Alby-remix.mp3?rlkey=m957uhimdd8dyojxsoqefjkgu&st=04nrsbkm&dl=1",
+                    "duration_ms": 257000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273eb7b7d3930c3ccd57fd91800",
+                    "id": 1540,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "حلفتك بالليالي",
+                    "track_url": "https://www.dropbox.com/scl/fi/5dk087m7hcg5r26554428/Halftk-Bel-Layali.mp3?rlkey=707xkhkkbzehxkxlxdz7i3pn5&st=4cy9gx26&dl=1",
+                    "duration_ms": 255750,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273eb7b7d3930c3ccd57fd91800",
+                    "id": 1541,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "ليك غلاوة عندي",
+                    "track_url": "https://www.dropbox.com/scl/fi/mndnmbfy9yd7hjl6ihqda/Lek-Ghalawa-3ndy.mp3?rlkey=s3ypsh8wcx7icybzwhxfsgk8n&st=w0et9qbu&dl=1",
+                    "duration_ms": 226449,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273eb7b7d3930c3ccd57fd91800",
+                    "id": 1542,
+                    "artist": "Ramy Sabry"
+                }
+            ],
+            "id": 1530
+        },
+        {
+            "name": "معايا هتبدع",
+            "release_date": "2023-01-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e540a204f66307bd2455a708",
+            "track_url": "https://open.spotify.com/album/08JBX3tJAbu2ctc7Ui3hXF",
+            "tracks": [
+                {
+                    "name": "معايا هتبدع",
+                    "track_url": "https://www.dropbox.com/scl/fi/f5d6eqhaa5h7y7rc78xl5/asmeona.com_ramy_sbry_maaya_tbda.mp3?rlkey=kxutv8uz0gof5dbwvnd7pnkgp&st=543ebght&dl=1",
+                    "duration_ms": 196417,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e540a204f66307bd2455a708",
+                    "id": 1544,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "يمكن خير",
+                    "track_url": "https://www.dropbox.com/scl/fi/4oemilvjagyb0ib3rwgzf/bregaraab.Com_ramy_sbry_ymkn_khyr.mp3?rlkey=8bj0m5cs3n5i4q3z934oqp9jr&st=sak799c0&dl=1",
+                    "duration_ms": 216356,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e540a204f66307bd2455a708",
+                    "id": 1545,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "لما بيوحشني",
+                    "track_url": "https://www.dropbox.com/scl/fi/ljgywzxcbq8ztp0w4gzkg/asmeona.com_ramy_sbry_lma_bywhshny.mp3?rlkey=0wahevehts2os49efjcg6fdi4&st=jbq9sb9d&dl=1",
+                    "duration_ms": 272433,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e540a204f66307bd2455a708",
+                    "id": 1546,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "احنا في حتة تانية",
+                    "track_url": "https://www.dropbox.com/scl/fi/qm1lp5rv72qn3jp2x5kqu/bregaraab.Com_ramy_sbry_ahna_fy_hth_tanyt.mp3?rlkey=kzeewsy47hbtqrtearpusphjg&st=fplywhmn&dl=1",
+                    "duration_ms": 198545,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e540a204f66307bd2455a708",
+                    "id": 1547,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "انت الأصل",
+                    "track_url": "https://www.dropbox.com/scl/fi/99ossycyiud04vz2sy0gz/asmeona.com_ramy_sbry_ant_alasl.mp3?rlkey=o0cb0fjlq0i39du0z2qmr1859&st=nxheexbg&dl=1",
+                    "duration_ms": 177560,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e540a204f66307bd2455a708",
+                    "id": 1548,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "بتفتكرني ساعات",
+                    "track_url": "https://www.dropbox.com/scl/fi/562d3c9mpj4qtqkbxlvyo/bregaraab.Com_ramy_sbry_btftkrny_saaat.mp3?rlkey=sfnszm2ic7wbpm1tuo58l7h7p&st=0orbb1bt&dl=1",
+                    "duration_ms": 217787,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e540a204f66307bd2455a708",
+                    "id": 1549,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "حبينا",
+                    "track_url": "https://www.dropbox.com/scl/fi/g1p37xnwcairbbyhu8ele/bregaraab.Com_ramy_sbry_hbyna.mp3?rlkey=zq648gwdxsnx4ys2oeuhueupt&st=jb0frnea&dl=1",
+                    "duration_ms": 198855,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e540a204f66307bd2455a708",
+                    "id": 1550,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "فاكر نفسك هدية",
+                    "track_url": "https://www.dropbox.com/scl/fi/v9qjp2i5yzf6px9hpoj7n/asmeona.com_ramy_sbry_fakr_nfsk_hdyt.mp3?rlkey=qvlbv2tsbu2z01tby6nd7e929&st=2usha80e&dl=1",
+                    "duration_ms": 205301,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e540a204f66307bd2455a708",
+                    "id": 1551,
+                    "artist": "Ramy Sabry"
+                }
+            ],
+            "id": 1543
+        },
+        {
+            "name": "Farek Maak",
+            "release_date": "2019-08-02",
+            "image": "https://i.scdn.co/image/ab67616d0000b27390cfc58b2a5ddcd6b0932cb9",
+            "track_url": "https://open.spotify.com/album/0zt22H9eN3LdvDc8U4PzUM",
+            "tracks": [
+                {
+                    "name": "Bitaa Banat",
+                    "track_url": "https://www.dropbox.com/scl/fi/6qw3lkpm91fo0tlulhnhg/Ahmedwap.Com_ramy_sbry_btaa_zman.mp3?rlkey=6v0aooh0uz5zd5tpuhicwi4n2&st=y0tnffb0&dl=1",
+                    "duration_ms": 236320,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27390cfc58b2a5ddcd6b0932cb9",
+                    "id": 1553,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "Ana Baba",
+                    "track_url": "https://www.dropbox.com/scl/fi/5wuizvrif3s17fhd4tehb/Ahmedwap.Com_ramy_sbry_ana_baba.mp3?rlkey=3lpr3kyda5y3gupmgtp4rdym6&st=qwwo4qzk&dl=1",
+                    "duration_ms": 211613,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27390cfc58b2a5ddcd6b0932cb9",
+                    "id": 1554,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "Hawel Tensany",
+                    "track_url": "https://www.dropbox.com/scl/fi/dcjba2e663sfjx8wn5144/Ahmedwap.Com_ramy_sbry_hawl_tnsany.mp3?rlkey=kvspbjlmfhh1elnbj1un7p3h3&st=vfklyvpj&dl=1",
+                    "duration_ms": 219533,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27390cfc58b2a5ddcd6b0932cb9",
+                    "id": 1555,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "Olt Elly Aandy",
+                    "track_url": "https://www.dropbox.com/scl/fi/gm3706tdvi2kv46g7n0te/Ahmedwap.Com_ramy_sbry_kwlt_alli_andy.mp3?rlkey=dlfdhadqdtf1idwwp886g0111&st=85rm76mu&dl=1",
+                    "duration_ms": 209600,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27390cfc58b2a5ddcd6b0932cb9",
+                    "id": 1556,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "Howa Fi Keda",
+                    "track_url": "https://www.dropbox.com/scl/fi/s4znkhz21471odukxhwln/Ahmedwap.Com_ramy_sbry_hwh_fyh_kdt.mp3?rlkey=1damxfd7qii204yms91alvxt8&st=0352jybx&dl=1",
+                    "duration_ms": 221613,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27390cfc58b2a5ddcd6b0932cb9",
+                    "id": 1557,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "W Ba Abel Nas",
+                    "track_url": "https://www.dropbox.com/scl/fi/i7gv0nhrzj0wy2f6eg49m/Ahmedwap.Com_ramy_sbry_wbkabl_nas.mp3?rlkey=ov5rrxr9t5w2crxmbpm4yk81v&st=lgyp8864&dl=1",
+                    "duration_ms": 283786,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27390cfc58b2a5ddcd6b0932cb9",
+                    "id": 1558,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "Ana Baatereflek",
+                    "track_url": "https://www.dropbox.com/scl/fi/o136amzh0ktcr9idy1a81/Ahmedwap.Com_ramy_sbry_ana_batrflk.mp3?rlkey=56d9c8oa2x8v189bv7pieekfr&st=kfsf5wto&dl=1",
+                    "duration_ms": 233533,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27390cfc58b2a5ddcd6b0932cb9",
+                    "id": 1559,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "Saaban Aalaya",
+                    "track_url": "https://www.dropbox.com/scl/fi/0cv6w12c8dd7r789ignef/Ahmedwap.Com_ramy_sbry_saban_alya.mp3?rlkey=d9jybgnwvto592o9wuzpouwrv&st=vj9jkgle&dl=1",
+                    "duration_ms": 234346,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27390cfc58b2a5ddcd6b0932cb9",
+                    "id": 1560,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "W Aagaby Aleik Ya Zaman",
+                    "track_url": "https://www.dropbox.com/scl/fi/qmicadavqvjyx6v52e9v5/Ahmedwap.Com_ramy_sbry_wagby_alyk_ya_zmn.mp3?rlkey=nbrwxkvsbk9b58rj1ubuf6xj9&st=ayn0pyes&dl=1",
+                    "duration_ms": 211946,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27390cfc58b2a5ddcd6b0932cb9",
+                    "id": 1561,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "Hekayet Hobena",
+                    "track_url": "https://www.dropbox.com/scl/fi/q8954osfcwh5d7wc4klsm/Ahmedwap.Com_ramy_sbry_hkayt_hbna.mp3?rlkey=kmrxc62cpcgphlmlps107sgps&st=t6pzf3sg&dl=1",
+                    "duration_ms": 247893,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27390cfc58b2a5ddcd6b0932cb9",
+                    "id": 1562,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "Btehtamy",
+                    "track_url": "https://www.dropbox.com/scl/fi/vsu948v3ijdzxapu0xcmn/Ahmedwap.Com_ramy_sbry_bthtmy.mp3?rlkey=e2u4v5ug3ixsp1fowc3r3ufn4&st=l8fop7pt&dl=1",
+                    "duration_ms": 191986,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27390cfc58b2a5ddcd6b0932cb9",
+                    "id": 1563,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "Farek Maak",
+                    "track_url": "https://www.dropbox.com/scl/fi/ztuqnqz5602u32nhng6jo/Ahmedwap.Com_ramy_sbry_fark_maak.mp3?rlkey=eqsxc0t0sgsc3jvhdl1fvws0y&st=8nqwiew5&dl=1",
+                    "duration_ms": 207986,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27390cfc58b2a5ddcd6b0932cb9",
+                    "id": 1564,
+                    "artist": "Ramy Sabry"
+                }
+            ],
+            "id": 1552
+        },
+        {
+            "name": "Al Ragel",
+            "release_date": "2017-07-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b27359860f2fb6aa6a54cc69eb42",
+            "track_url": "https://open.spotify.com/album/4gJoOfYhpNVQ1vgmUQ4oZa",
+            "tracks": [
+                {
+                    "name": "El Ragel",
+                    "track_url": "https://www.dropbox.com/scl/fi/ex6mbx34wv1rti55w7pdd/Ahmedwap.Com_ramy_sbry_alragl.mp3?rlkey=ynkaj9trhkn97ht24p5v8wao5&st=6bipastk&dl=1",
+                    "duration_ms": 170946,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27359860f2fb6aa6a54cc69eb42",
+                    "id": 1566,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "Ana Bansa Nafsy",
+                    "track_url": "https://www.dropbox.com/scl/fi/j1h8uygywsh8jqainw6uv/Ahmedwap.Com_ramy_sbry_ana_bnsy_nfsy.mp3?rlkey=e82hx3zzz45rnehwd05odnuxz&st=p8bywiai&dl=1",
+                    "duration_ms": 272946,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27359860f2fb6aa6a54cc69eb42",
+                    "id": 1567,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "Battaly Baa",
+                    "track_url": "https://www.dropbox.com/scl/fi/2j04uqu0skwlwlol4xxrg/Ahmedwap.Com_ramy_sbry_btly_bky.mp3?rlkey=ito8f9nda0v49bvz94mcynjqu&st=xb84s0at&dl=1",
+                    "duration_ms": 258253,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27359860f2fb6aa6a54cc69eb42",
+                    "id": 1568,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "Ghaly",
+                    "track_url": "https://www.dropbox.com/scl/fi/lsyj26pn8wc9u6uyn3uu8/Ahmedwap.Com_ramy_sbry_ghaly.mp3?rlkey=m56lcttiv5j780gq82bbdlnlv&st=lzxblyf5&dl=1",
+                    "duration_ms": 301800,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27359860f2fb6aa6a54cc69eb42",
+                    "id": 1569,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "Mahabetsh",
+                    "track_url": "https://www.dropbox.com/scl/fi/iomyxbynyr57jjpr0iirr/Ahmedwap.Com_ramy_sbry_mahbtsh.mp3?rlkey=ozj7fupxi7qfdd13ae81980y9&st=39iapj94&dl=1",
+                    "duration_ms": 301373,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27359860f2fb6aa6a54cc69eb42",
+                    "id": 1570,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "Helwa",
+                    "track_url": "https://www.dropbox.com/scl/fi/0acb6nginlu7tk4j759cq/Ahmedwap.Com_ramy_sbry_hlwt.mp3?rlkey=i80k6yi2vcomyfx6fn1d7s2t7&st=9v1rmy3z&dl=1",
+                    "duration_ms": 200746,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27359860f2fb6aa6a54cc69eb42",
+                    "id": 1571,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "Etabelna",
+                    "track_url": "https://www.dropbox.com/scl/fi/531a1kefqgqxxdfjfk8ob/Ahmedwap.Com_ramy_sbry_atkablna.mp3?rlkey=gh76yllvn3q38vwvvphly3b35&st=73novq2i&dl=1",
+                    "duration_ms": 260453,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27359860f2fb6aa6a54cc69eb42",
+                    "id": 1572,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "Amel Teel",
+                    "track_url": "https://www.dropbox.com/scl/fi/mbv3ac6ju6d8875a2ge4m/Ahmedwap.Com_ramy_sbry_aaml_tkyl.mp3?rlkey=c78yb0qe3is48ohcfqhspt592&st=cp7cxidk&dl=1",
+                    "duration_ms": 192573,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27359860f2fb6aa6a54cc69eb42",
+                    "id": 1573,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "Hob Omry",
+                    "track_url": "https://www.dropbox.com/scl/fi/5j4p3fwses02z7nyw3j5v/Ahmedwap.Com_ramy_sbry_hb_amry.mp3?rlkey=4q250lmagjr1fm3ivf5bp9b08&st=mqkuwkbr&dl=1",
+                    "duration_ms": 233013,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27359860f2fb6aa6a54cc69eb42",
+                    "id": 1574,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "Mafesh Wahed Bytaalem",
+                    "track_url": "https://www.dropbox.com/scl/fi/422zhny760hzzbqw1a23e/Ahmedwap.Com_ramy_sbry_mfysh_wahd_bytalm.mp3?rlkey=s1ym3iwfikgsgdhhhv7wzs8ty&st=toq2m3lv&dl=1",
+                    "duration_ms": 255213,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27359860f2fb6aa6a54cc69eb42",
+                    "id": 1575,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "Msh Gai Afakarha",
+                    "track_url": "https://www.dropbox.com/scl/fi/h4rijsk68l55adwe7xllf/Ahmedwap.Com_ramy_sbry_msh_gay_afkrha.mp3?rlkey=stbxvjpmbgx6ty37zu9ep8sna&st=bsroqeqb&dl=1",
+                    "duration_ms": 283346,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27359860f2fb6aa6a54cc69eb42",
+                    "id": 1576,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "Khosara Omry",
+                    "track_url": "https://www.dropbox.com/scl/fi/0zcpr71pd8ijye5391agh/Ahmedwap.Com_ramy_sbry_khsart_amry.mp3?rlkey=jfm24bivpnd07uyhwinyh00aq&st=m9f8d96z&dl=1",
+                    "duration_ms": 334666,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27359860f2fb6aa6a54cc69eb42",
+                    "id": 1577,
+                    "artist": "Ramy Sabry"
+                }
+            ],
+            "id": 1565
+        },
+        {
+            "name": "Agmal Layaly Omry",
+            "release_date": "2015-11-02",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c183fff460e7aeb5a2a97d60",
+            "track_url": "https://open.spotify.com/album/7DFycaqMjOZVNMjfW7pC8V",
+            "tracks": [
+                {
+                    "name": "Agmal Layaly",
+                    "track_url": "https://www.dropbox.com/scl/fi/853w1hwleyzjnpayphmo7/Agmal-lyaly-omry.mp3?rlkey=xyjn6pgwhk343h8t4du3qizkh&st=qwvxsqwd&dl=1",
+                    "duration_ms": 267093,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c183fff460e7aeb5a2a97d60",
+                    "id": 1579,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "Taali",
+                    "track_url": "https://www.dropbox.com/scl/fi/7fofnuoqqetfeg5bq23ss/Ahmedwap.Com_ramy_sbry_taaly.mp3?rlkey=6ysa3wljtcga0in5s09swf8oj&st=6rg3m9po&dl=1",
+                    "duration_ms": 235866,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c183fff460e7aeb5a2a97d60",
+                    "id": 1580,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "Nefsaha Teshofny",
+                    "track_url": "https://www.dropbox.com/scl/fi/bhclujydym2s6g2esq55f/.mp3?rlkey=meomi84o9y9bqfxjtkp5sfv4g&st=4yblc5eu&dl=1",
+                    "duration_ms": 269786,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c183fff460e7aeb5a2a97d60",
+                    "id": 1581,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "Eih Ely Yemnaa",
+                    "track_url": "https://www.dropbox.com/scl/fi/2dwilln1mvmq06f8ir749/ayt_alli_ymna.mp3?rlkey=sd36400z9zxdj8uxx9dq8vaem&st=p7e17fy6&dl=1",
+                    "duration_ms": 256105,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c183fff460e7aeb5a2a97d60",
+                    "id": 1582,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "Masadaat Etabelna",
+                    "track_url": "https://www.dropbox.com/scl/fi/dyev6j96r1wxh45ajy9vv/Ahmedwap.Com_ramy_sbry_ma_sdkt_atkablna.mp3?rlkey=vabv6xaoew8ks588q8rf3ykwi&st=cdj3oc6s&dl=1",
+                    "duration_ms": 274960,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c183fff460e7aeb5a2a97d60",
+                    "id": 1583,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "Weselt Le Eih",
+                    "track_url": "https://www.dropbox.com/scl/fi/64hspvln7b46vaetd0cl3/Ahmedwap.Com_ramy_sbry_wslt_layt.mp3?rlkey=v11jq2ux25z9qg3rlhvcrujoo&st=6hvjlx5x&dl=1",
+                    "duration_ms": 269146,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c183fff460e7aeb5a2a97d60",
+                    "id": 1584,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "Youm Mataabelna",
+                    "track_url": "https://www.dropbox.com/scl/fi/mte839sjgcu3321mgi4ra/Ahmedwap.Com_ramy_sbry_ywm_ma_atkablna.mp3?rlkey=hdgdxr7t6477347iff26x7pwh&st=jkmdmgc0&dl=1",
+                    "duration_ms": 295026,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c183fff460e7aeb5a2a97d60",
+                    "id": 1585,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "Waad Meny",
+                    "track_url": "https://www.dropbox.com/scl/fi/lzew5tkcl55r2o5e8662w/Ahmedwap.Com_ramy_sbry_wad_mny.mp3?rlkey=uiyx2o8tq2bn4n29ocmj744wr&st=eqwkk2mp&dl=1",
+                    "duration_ms": 301960,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c183fff460e7aeb5a2a97d60",
+                    "id": 1586,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "Sahl El Kalam",
+                    "track_url": "https://www.dropbox.com/scl/fi/0kgll0szehwo9ix6epyfu/Ahmedwap.Com_ramy_sbry_shl_alklam.mp3?rlkey=jbhy6k87ccs6x0q888mrjy6n7&st=xd9fpzvw&dl=1",
+                    "duration_ms": 251986,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c183fff460e7aeb5a2a97d60",
+                    "id": 1587,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "Maak",
+                    "track_url": "https://www.dropbox.com/scl/fi/um6i02tpeqsbtuassgou3/Ahmedwap.Com_ramy_sbry_maak.mp3?rlkey=37ot5451ufkdjziqn1df53onw&st=v8z90zv8&dl=1",
+                    "duration_ms": 207546,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c183fff460e7aeb5a2a97d60",
+                    "id": 1588,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "Fi Kol Makan",
+                    "track_url": "https://www.dropbox.com/scl/fi/gly8fb12wavmd7cilupmv/.mp3?rlkey=fr91bq90oiekykc6nokvfvshu&st=g8eh3c7f&dl=1",
+                    "duration_ms": 277013,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c183fff460e7aeb5a2a97d60",
+                    "id": 1589,
+                    "artist": "Ramy Sabry"
+                }
+            ],
+            "id": 1578
+        },
+        {
+            "name": "Wana Maah",
+            "release_date": "2013-06-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ce0e286963a14fd32f6246ba",
+            "track_url": "https://open.spotify.com/album/05ecm3CC65QmMywPdWBreK",
+            "tracks": [
+                {
+                    "name": "Wana Maah",
+                    "track_url": "https://www.dropbox.com/scl/fi/h9yibhxz5v1mr5927s2vf/Ahmedwap.Com_ramy_sbry_wana_maah.mp3?rlkey=xne9t1poy7igmml9v9y43ac0k&st=r3fpnki7&dl=1",
+                    "duration_ms": 283520,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ce0e286963a14fd32f6246ba",
+                    "id": 1591,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "Bartah",
+                    "track_url": "https://www.dropbox.com/scl/fi/v1sq60tbbjvrt428hx14c/Ahmedwap.Com_ramy_sbry_brtah.mp3?rlkey=2z8ove5yhi7gy6b7d4zwtqevg&st=4bbin1sv&dl=1",
+                    "duration_ms": 264840,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ce0e286963a14fd32f6246ba",
+                    "id": 1592,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "Asebak Youmein",
+                    "track_url": "https://www.dropbox.com/scl/fi/osq1tlmd743y8b5x7jjcn/Ahmedwap.Com_ramy_sbry_asybk_ywmyn.mp3?rlkey=mo7h0l878hdr2zaoc867i1w20&st=ddndszaf&dl=1",
+                    "duration_ms": 251800,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ce0e286963a14fd32f6246ba",
+                    "id": 1593,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "Mosh Farea",
+                    "track_url": "https://www.dropbox.com/scl/fi/yjyg8ytcpby1gfi4azbf1/Ahmedwap.Com_ramy_sbry_msh_fark.mp3?rlkey=4u4rx0hp99xky5b8gh0lwlxjm&st=js138f2a&dl=1",
+                    "duration_ms": 261493,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ce0e286963a14fd32f6246ba",
+                    "id": 1594,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "Heya Leih Betsal",
+                    "track_url": "https://www.dropbox.com/scl/fi/m3vwzaohr1wbike3wb4e7/Ahmedwap.Com_ramy_sbry_hya_lyt_btsal.mp3?rlkey=i5zi2g85zgcggybfv1fxeuzq7&st=jokdyqrb&dl=1",
+                    "duration_ms": 248253,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ce0e286963a14fd32f6246ba",
+                    "id": 1595,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "Arabny Leik",
+                    "track_url": "https://www.dropbox.com/scl/fi/w2zg8mebndyt81uppy3ir/Ahmedwap.Com_ramy_sbry_krbny_lyk.mp3?rlkey=a2qdn80uqcgu3m6xcauasu8fa&st=i2jwbbqn&dl=1",
+                    "duration_ms": 272586,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ce0e286963a14fd32f6246ba",
+                    "id": 1596,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "Maak Ana",
+                    "track_url": "https://www.dropbox.com/scl/fi/sj3fceuft7i9ngtecvsbw/Ahmedwap.Com_ramy_sbry_maak_ana.mp3?rlkey=y2k3na0c7syris9mdfspxsxfj&st=qp24l3i7&dl=1",
+                    "duration_ms": 237040,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ce0e286963a14fd32f6246ba",
+                    "id": 1597,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "Masaaltneesh",
+                    "track_url": "https://www.dropbox.com/scl/fi/ajkshhzzyqabp7b7vsjq7/Ahmedwap.Com_ramy_sbry_msaltnysh.mp3?rlkey=15jvqq906ucu9lg2z01e32ugj&st=uhn8be4q&dl=1",
+                    "duration_ms": 295480,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ce0e286963a14fd32f6246ba",
+                    "id": 1598,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "Beterga Leih",
+                    "track_url": "https://www.dropbox.com/scl/fi/rte7ysg1mrv2vhjei1qzk/Ahmedwap.Com_ramy_sbry_btrga_lyt.mp3?rlkey=1uyyfbox46pmlhldjmr3ka23f&st=tkj3q3cp&dl=1",
+                    "duration_ms": 244706,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ce0e286963a14fd32f6246ba",
+                    "id": 1599,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "Maa El Ayam",
+                    "track_url": "https://www.dropbox.com/scl/fi/52q48ozuim9xx7825sxuy/Ahmedwap.Com_ramy_sbry_ma_alayam.mp3?rlkey=940yvfj47w0b9kylhx1xh2n6h&st=3pgrqord&dl=1",
+                    "duration_ms": 236533,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ce0e286963a14fd32f6246ba",
+                    "id": 1600,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "Haras Wala Tekhawen",
+                    "track_url": "https://www.dropbox.com/scl/fi/wxbte9n1bcfj189bb4t6f/Ahmedwap.Com_ramy_sbry_hrs_wla_tkhwn.mp3?rlkey=682d7yuxmyd07uuylai94jb8p&st=x04f1ai2&dl=1",
+                    "duration_ms": 253826,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ce0e286963a14fd32f6246ba",
+                    "id": 1601,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "Hawel Dayman",
+                    "track_url": "https://www.dropbox.com/scl/fi/5t09gbh9hkao04f44jhd6/Ahmedwap.Com_ramy_sbry_hawl_dayma.mp3?rlkey=xh0hxtuact4ewrgjoy1udq9vv&st=ikpihmtn&dl=1",
+                    "duration_ms": 252080,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ce0e286963a14fd32f6246ba",
+                    "id": 1602,
+                    "artist": "Ramy Sabry"
+                }
+            ],
+            "id": 1590
+        },
+        {
+            "name": "Ghammadt Einy",
+            "release_date": "2008-11-03",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733275fe306d63679330a0e03c",
+            "track_url": "https://open.spotify.com/album/5MEuEykFRIz02ahOZhmpuq",
+            "tracks": [
+                {
+                    "name": "Fi Eih",
+                    "track_url": "https://www.dropbox.com/scl/fi/0onnexdexa7yp7mp2hahr/Ahmedwap.Com_ramy_sbry_fy_ayt.mp3?rlkey=n0a017lttaj8b95b0saskzisk&st=u4t6x6kx&dl=1",
+                    "duration_ms": 210131,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733275fe306d63679330a0e03c",
+                    "id": 1604,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "Gowaya Hateish",
+                    "track_url": "https://www.dropbox.com/scl/fi/s0iw2i9j8ser3jstpda2f/Ahmedwap.Com_ramy_sbry_gwaya_htaysh.mp3?rlkey=hulayna9cpljuuv6e5vmwtk5h&st=bf7w7vn5&dl=1",
+                    "duration_ms": 291280,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733275fe306d63679330a0e03c",
+                    "id": 1605,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "El Kalam Kolloh Aady",
+                    "track_url": "https://www.dropbox.com/scl/fi/omb861nkdh7i5j2jtot90/Ahmedwap.Com_ramy_sbry_alklam_klh.mp3?rlkey=7wx3rmbuitylk5jgqy8b465oo&st=tw41lh0a&dl=1",
+                    "duration_ms": 233587,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733275fe306d63679330a0e03c",
+                    "id": 1606,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "Kelma",
+                    "track_url": "https://www.dropbox.com/scl/fi/7m0u7orphbdij3sp8mlaq/Ahmedwap.Com_ramy_sbry_klmt.mp3?rlkey=2b6s556ti0nksokbr3aersf7i&st=ox18nr1k&dl=1",
+                    "duration_ms": 250320,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733275fe306d63679330a0e03c",
+                    "id": 1607,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "Law Hatta Mesh Shayfek",
+                    "track_url": "https://www.dropbox.com/scl/fi/q6bxfmvut89njq0nvxt5i/Ahmedwap.Com_ramy_sbry_lw_hty_msh_shayfk.mp3?rlkey=3dq7vo4asgz2sa7yfa9uhmoh5&st=1hd4d0hz&dl=1",
+                    "duration_ms": 280187,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733275fe306d63679330a0e03c",
+                    "id": 1608,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "Ma Balash",
+                    "track_url": "https://www.dropbox.com/scl/fi/0uuwdsau0amgam3w9ofe5/Ahmedwap.Com_ramy_sbry_mablash.mp3?rlkey=huwf606n8zzdx72brnv2sxj08&st=4rz7uvfd&dl=1",
+                    "duration_ms": 236693,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733275fe306d63679330a0e03c",
+                    "id": 1609,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "Faker Zaman",
+                    "track_url": "https://www.dropbox.com/scl/fi/iyvffhcs6mpk8651nnq4k/Ahmedwap.Com_ramy_sbry_fakr_zman.mp3?rlkey=yl7zya4mquw1ttqitjb9hgdfl&st=63ib8del&dl=1",
+                    "duration_ms": 272693,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733275fe306d63679330a0e03c",
+                    "id": 1610,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "Wemnein",
+                    "track_url": "https://www.dropbox.com/scl/fi/qs73ceklblc80yci1lsrv/Ahmedwap.Com_ramy_sbry_wmnyn.mp3?rlkey=nb889j0l1c0jyjhfqzh4km5dr&st=96scbdum&dl=1",
+                    "duration_ms": 240733,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733275fe306d63679330a0e03c",
+                    "id": 1611,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "Bahess Beih",
+                    "track_url": "https://www.dropbox.com/scl/fi/7vfox7ewo57bw4ixkz5cm/Ahmedwap.Com_ramy_sbry_bhs_byt.mp3?rlkey=0vrtzsj09qq8kxce9w3nm6l27&st=sjcoiz39&dl=1",
+                    "duration_ms": 258000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733275fe306d63679330a0e03c",
+                    "id": 1612,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "Agabetny",
+                    "track_url": "https://www.dropbox.com/scl/fi/ibbt670wi4qai77asjmha/Ahmedwap.Com_ramy_sbry_agbtny.mp3?rlkey=lddy9c98xnv9or5l7soy3grfu&st=ud9sia3b&dl=1",
+                    "duration_ms": 254293,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733275fe306d63679330a0e03c",
+                    "id": 1613,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "Nefsy Aaraf",
+                    "track_url": "https://www.dropbox.com/scl/fi/q484h80rar6to3ujm3ve3/Ahmedwap.Com_ramy_sbry_nfsy_aarf.mp3?rlkey=h1cvbzo042rw44v9mnjoxuvff&st=82kmj6wn&dl=1",
+                    "duration_ms": 155067,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733275fe306d63679330a0e03c",
+                    "id": 1614,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "Dah Elly Bastannah",
+                    "track_url": "https://www.dropbox.com/scl/fi/ju4zd6rzzrfm39gpaq22r/Ahmedwap.Com_ramy_sbry_dh_alli_bstnat.mp3?rlkey=z657qwsbm5m7hd257s9wp6u9h&st=ys6nm0yp&dl=1",
+                    "duration_ms": 242987,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733275fe306d63679330a0e03c",
+                    "id": 1615,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "Ghammadt Einy",
+                    "track_url": "https://www.dropbox.com/scl/fi/io5chchq8v3doo3i82yrd/Ahmedwap.Com_ramy_sbry_ghmdt_ayny.mp3?rlkey=z13cvaizk3nhw83vei7dssnan&st=nql7k9wz&dl=1",
+                    "duration_ms": 235987,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733275fe306d63679330a0e03c",
+                    "id": 1616,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "Bahebek Ya Omy",
+                    "track_url": "https://www.dropbox.com/scl/fi/dgai98oqst5p6mj3y92lx/Ahmedwap.Com_ramy_sbry_ya_amy.mp3?rlkey=x6rwfs4oobxtoxiu3b637x58w&st=s3y0ix8s&dl=1",
+                    "duration_ms": 185093,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733275fe306d63679330a0e03c",
+                    "id": 1617,
+                    "artist": "Ramy Sabry"
+                }
+            ],
+            "id": 1603
+        },
+        {
+            "name": "Habibi Al Awalany",
+            "release_date": "2006-01-03",
+            "image": "https://i1.sndcdn.com/artworks-000106602703-nuw6gy-t1080x1080.jpg",
+            "track_url": "https://open.spotify.com/album/5MEuEykFRIz02ahOZhmpuq",
+            "tracks": [
+                {
+                    "name": "Alf Mashallah",
+                    "track_url": "https://www.dropbox.com/scl/fi/nag7s8buxbfu5k3vt7p7z/Ahmedwap.Com_ramy_sbry_alf_mshallh_alyk.mp3?rlkey=yvtwfiyej0xdfdhak7kuh9j1j&st=clgypeen&dl=1",
+                    "duration_ms": 210131,
+                    "image": "https://i1.sndcdn.com/artworks-000106602703-nuw6gy-t1080x1080.jpg",
+                    "id": 12392,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "Bahebak",
+                    "track_url": "https://www.dropbox.com/scl/fi/m434hj2gt4qvnteo41cgs/Ahmedwap.Com_ramy_sbry_bhbk.mp3?rlkey=i1v2vg91t3wo7hroe934yo3b3&st=ugmeipvy&dl=1",
+                    "duration_ms": 210131,
+                    "image": "https://i1.sndcdn.com/artworks-000106602703-nuw6gy-t1080x1080.jpg",
+                    "id": 12393,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "Fargt Elnas Aalya",
+                    "track_url": "https://www.dropbox.com/scl/fi/hke1o2hi8s1pn3mtue8vb/Ahmedwap.Com_ramy_sbry_frgt_alnas_alya.mp3?rlkey=j83rz00jkkwlyriqxu3lmlbki&st=0hg5co4t&dl=1",
+                    "duration_ms": 210131,
+                    "image": "https://i1.sndcdn.com/artworks-000106602703-nuw6gy-t1080x1080.jpg",
+                    "id": 12394,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "Hatbeed Youm",
+                    "track_url": "https://www.dropbox.com/scl/fi/tev3nlf6glo0fu8ih0u56/Ahmedwap.Com_ramy_sbry_htbad_ywm.mp3?rlkey=v61ius1j6e144bx3q720sna2w&st=v79icexr&dl=1",
+                    "duration_ms": 210131,
+                    "image": "https://i1.sndcdn.com/artworks-000106602703-nuw6gy-t1080x1080.jpg",
+                    "id": 12395,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "La Ya Alby",
+                    "track_url": "https://www.dropbox.com/scl/fi/qcp8ocuun8jev05lg8kq0/Ahmedwap.Com_ramy_sbry_la_ya_klby.mp3?rlkey=6ckckc8jmrowts1ktzkfamfxu&st=z7q1t961&dl=1",
+                    "duration_ms": 210131,
+                    "image": "https://i1.sndcdn.com/artworks-000106602703-nuw6gy-t1080x1080.jpg",
+                    "id": 12396,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "Layaly",
+                    "track_url": "https://www.dropbox.com/scl/fi/etmmo1f9emwcsz1zce8o9/Ahmedwap.Com_ramy_sbry_lyaly.mp3?rlkey=8dqche9jjyv03w2fv1zlzo6cr&st=xb8qeos8&dl=1",
+                    "duration_ms": 210131,
+                    "image": "https://i1.sndcdn.com/artworks-000106602703-nuw6gy-t1080x1080.jpg",
+                    "id": 12397,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "Lama Enta Teamel Keda",
+                    "track_url": "https://www.dropbox.com/scl/fi/6b6h1alxvnei80sczvznk/Ahmedwap.Com_ramy_sbry_lma_ant_taml_kdh.mp3?rlkey=ukjhc4jtmysud1p3dprh9edlq&st=ry0eznrd&dl=1",
+                    "duration_ms": 210131,
+                    "image": "https://i1.sndcdn.com/artworks-000106602703-nuw6gy-t1080x1080.jpg",
+                    "id": 12398,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "Mosh Ana",
+                    "track_url": "https://www.dropbox.com/scl/fi/nh6b72t5t46zt493exsrg/Ahmedwap.Com_ramy_sbry_msh_ana.mp3?rlkey=kofj8nbrodg2fz6sstvyzblqh&st=adzuw6u8&dl=1",
+                    "duration_ms": 210131,
+                    "image": "https://i1.sndcdn.com/artworks-000106602703-nuw6gy-t1080x1080.jpg",
+                    "id": 12399,
+                    "artist": "Ramy Sabry"
+                },
+                {
+                    "name": "Seket Leh",
+                    "track_url": "https://www.dropbox.com/scl/fi/evmqt7cfh1umw2nxnqpcc/Ahmedwap.Com_ramy_sbry_skt_lyh.mp3?rlkey=2jgk0mw66iew49ybkky3ckm8s&st=qs3t6juy&dl=1",
+                    "duration_ms": 210131,
+                    "image": "https://i1.sndcdn.com/artworks-000106602703-nuw6gy-t1080x1080.jpg",
+                    "id": 12400,
+                    "artist": "Ramy Sabry"
+                }
+            ],
+            "id": 12401
+        }
+    ],
+    "singles": [
+        {
+            "id": "1",
+            "name": "فعلا مبيتنسيش",
+            "artist": "Tamer Hosny, Ramy Sabry",
+            "album": "فعلا مبيتنسيش",
+            "release_date": "2025-01-06",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b6d363fc8888a68b31a8d3de",
+            "track_url": "https://www.dropbox.com/scl/fi/nrorrdeyidewu40lpvw3j/.mp3?rlkey=au6eso4qhpm1xuohnxjyzibun&st=0ufukl5f&dl=1",
+            "popularity": 0
+        },
+        {
+            "name": "Ahly Ahly من مسلسل تيتة زوزو",
+            "release_date": "2024-09-22",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739580ffb2cd946c7f1f013453",
+            "track_url": "https://www.dropbox.com/scl/fi/qq415nyh6394jx0veuxyf/.mp3?rlkey=1a2b7sqle3a9824gsp87v7emb&st=x4peb1ob&dl=1",
+            "id": 1623,
+            "artist": "Ramy Sabry"
+        },
+        {
+            "name": "أنا جامد كده كده",
+            "release_date": "2024-08-14",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737d8b077945be6e3e4f2d9ea8",
+            "track_url": "https://www.dropbox.com/scl/fi/tc14lz20u5zkjumt8miuf/.mp3?rlkey=p95rpwbt4pt0ijxx5jrvjkrtw&st=x9tp7lgf&dl=1",
+            "id": 1625,
+            "artist": "Ramy Sabry"
+        },
+        {
+            "name": "Attraction (Arabic Remix)",
+            "release_date": "2024-06-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735feef95e4f1594ed96a33579",
+            "track_url": "https://www.dropbox.com/scl/fi/oj0i8n6u7bgx39hmntwrf/ATTRACTION.mp3?rlkey=n2qqgbdl38h70b34uoniiian9&st=t2gi4cjd&dl=1",
+            "id": 1626,
+            "artist": "Ramy Sabry"
+        },
+        {
+            "name": "لذاذة (من مسلسل بابا جه)",
+            "release_date": "2024-03-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737e4dfc6d1debe68b43de1dd5",
+            "track_url": "https://www.dropbox.com/scl/fi/n3oma2i1ybkpgvdk6waby/.mp3?rlkey=14mxa3moc8q6w5zwcvqkzp8x5&st=08yke3s1&dl=1",
+            "id": 1627,
+            "artist": "Ramy Sabry"
+        },
+        {
+            "name": "ميدلي (بين الحيطان - بحكي عليكي - جت سليمة)",
+            "release_date": "2024-02-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b273020b8215d22a6fb1178463b5",
+            "track_url": "https://www.dropbox.com/scl/fi/kyc3jmi6mwc8srv7gvdlr/.mp3?rlkey=3z60y9tyz8h5j4iytmsmsi4t7&st=0j6wtx95&dl=1",
+            "id": 1628,
+            "artist": "Ramy Sabry"
+        },
+        {
+            "name": "كعبك علي",
+            "release_date": "2023-07-27",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732fbfbaef7e75f729b5494375",
+            "track_url": "https://www.dropbox.com/scl/fi/l239ue0n6q60edcdzbch2/asmeona.com_ramy_sbry_kabk_aly.mp3?rlkey=zti1nw63j6bgb2jvfixlvcefb&st=ixjto0tb&dl=1",
+            "id": 1641,
+            "artist": "Ramy Sabry"
+        },
+        {
+            "name": "ملك الفرفشة",
+            "release_date": "2023-07-05",
+            "image": "https://i.scdn.co/image/ab67616d0000b27372dfd7737215ee31013fc491",
+            "track_url": "https://www.dropbox.com/scl/fi/q0r6bkvpcfj5k8fc14aar/.mp3?rlkey=c7pzzgp2ubif5dqq9pz2wxetw&st=xcev4q1o&dl=1",
+            "id": 1642,
+            "artist": "Ramy Sabry"
+        },
+        {
+            "name": "يمكن خير (Instrumental)",
+            "release_date": "2023-01-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736c9f745a48499104383e0489",
+            "track_url": "https://www.dropbox.com/scl/fi/ajcdgqheca8g1nb1q8xdd/.mp3?rlkey=z5zhxx2bcrydmbc459t0sytvr&st=yq3zisfq&dl=1",
+            "id": 1644,
+            "artist": "Ramy Sabry"
+        },
+        {
+            "name": "Ebdaa",
+            "release_date": "2022-10-29",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a7dbbec04a7a250ac50f520f",
+            "track_url": "https://www.dropbox.com/scl/fi/wx6hs7dxp0fyfl59ai8ag/_-Ramy-Sabry-Ebdaa.mp3.crdownload?rlkey=ihqragrjd2lkvc7m1zwdxbnbk&st=fsalf64p&dl=1",
+            "id": 1645,
+            "artist": "Ramy Sabry"
+        },
+        {
+            "name": "W lessa Yama",
+            "release_date": "2022-08-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d942a053bd39caa653e744f9",
+            "track_url": "https://www.dropbox.com/scl/fi/qmac0fvfnqajdgq3riyg8/asmeona.com_ramy_sbry_wlsh_yama.mp3?rlkey=qy47eavurcdcj1g1tucs80u9y&st=yrovvunj&dl=1",
+            "id": 1646,
+            "artist": "Ramy Sabry"
+        },
+        {
+            "name": "Enty Genan",
+            "release_date": "2022-07-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d39da08c85e00258afa91783",
+            "track_url": "https://www.dropbox.com/scl/fi/hgzprzdqilwd7kz95n2nx/asmeona.com_ramy_sbry_anty_gnan.mp3?rlkey=trew51prhlj4mods5mfpisipd&st=h612rquv&dl=1",
+            "id": 1647,
+            "artist": "Ramy Sabry"
+        },
+        {
+            "name": "مكانك فوق",
+            "release_date": "2022-06-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733a5398fb253ff72341252129",
+            "track_url": "https://www.dropbox.com/scl/fi/z8ccob8hkp66eff8r55d2/.mp3?rlkey=paq2iutm7pzcmiij4xhixukyn&st=kflwj7ae&dl=1",
+            "id": 1649,
+            "artist": "Ramy Sabry"
+        },
+        {
+            "name": "Heya",
+            "release_date": "2022-06-05",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c9518267bf7794a8f55ba2b0",
+            "track_url": "https://www.dropbox.com/scl/fi/z80iibp0iywgn8f4konnn/asmeona.com_ramy_sbry_hy.mp3?rlkey=q1azqy2xmdjotpiyexj3ecvut&st=ftz5fv3i&dl=1",
+            "id": 1650,
+            "artist": "Ramy Sabry"
+        },
+        {
+            "name": "M3a Nafsi",
+            "release_date": "2022-02-20",
+            "image": "https://i.scdn.co/image/ab67616d0000b27379c25db5aa28dc81e7f475d1",
+            "track_url": "https://www.dropbox.com/scl/fi/kbqpmpikjk5ijkdcp5k8t/asmeona.com_ramy_sbry_ma_nfsy.mp3?rlkey=7t2gdhu4iszsts8jblk43kwfc&st=8s0gthu3&dl=1",
+            "id": 1651,
+            "artist": "Ramy Sabry"
+        },
+        {
+            "name": "Hamoot Men Gherha",
+            "release_date": "2021-11-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b273310002d5810eb8d8e01043c3",
+            "track_url": "https://www.dropbox.com/scl/fi/3sl3mdsjq24h1437dj5tb/.mp3?rlkey=csigcq5ywrdykt57bjrlegx4w&st=szh3ljga&dl=1",
+            "id": 1652,
+            "artist": "Ramy Sabry"
+        },
+        {
+            "name": "Beyharak Fi Elmashaer",
+            "release_date": "2021-08-22",
+            "image": "https://i.scdn.co/image/ab67616d0000b27330cbcb7d40a228a25327ac0b",
+            "track_url": "https://www.dropbox.com/scl/fi/pw1abye23nbu4z2odahmm/.mp3?rlkey=l6bmdpt7kpoenx9cbp3566hq9&st=khhg3tsx&dl=1",
+            "id": 1657,
+            "artist": "Ramy Sabry"
+        },
+        {
+            "name": "Halet Ektaab",
+            "release_date": "2021-08-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c7c096c241e156462bcb899a",
+            "track_url": "https://www.dropbox.com/scl/fi/rfnc1zanja9dzhfhp8t3i/.mp3?rlkey=tym5wca9epzuwqucw62mngsf7&st=hk3aba83&dl=1",
+            "id": 1658,
+            "artist": "Ramy Sabry"
+        },
+        {
+            "name": "Enty Bethazary",
+            "release_date": "2021-07-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b273cad9086409b83ddd555f1bc0",
+            "track_url": "https://www.dropbox.com/scl/fi/rgi4srbxy3dqaosbzi7s5/Ahmedwap.Com_ramy_sbry_anty_bthzry.mp3?rlkey=fjear0bbr3y9rp9e0hj3yobfr&st=6tc1tpcy&dl=1",
+            "id": 1659,
+            "artist": "Ramy Sabry"
+        },
+        {
+            "name": "Oyouno Lama Ablony",
+            "release_date": "2021-02-12",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ea62762f83a27db54538e453",
+            "track_url": "https://www.dropbox.com/scl/fi/cormyfvriokpjeoc5r6tm/Ahmedwap.Com_ramy_sbry_aywnh_lma_kablwny.mp3?rlkey=l1e7y4p9qda9e09mpxn7tj93w&st=6o66ucsr&dl=1",
+            "id": 1661,
+            "artist": "Ramy Sabry"
+        },
+        {
+            "name": "Shattabna",
+            "release_date": "2021-01-17",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ed2735575868110c3023bcd3",
+            "track_url": "https://www.dropbox.com/scl/fi/lqtbjrzqq66k4ohizk6mg/Ahmedwap.Com_ramy_sbry_shtbna.mp3?rlkey=rqvbh4yxwsvs8ykip31vnh10m&st=sgcazgx2&dl=1",
+            "id": 1662,
+            "artist": "Ramy Sabry"
+        },
+        {
+            "name": "Mesh Mertaheen (From Talaktok Nafsy TV Series)",
+            "release_date": "2020-10-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733ab241b57e4db55dfd23f3d1",
+            "track_url": "https://www.dropbox.com/scl/fi/pyvw9awi2fjitt5flck25/.mp3?rlkey=xwax41jlge9zev9vuwgxw5ipf&st=h0lasi7z&dl=1",
+            "id": 1663,
+            "artist": "Ramy Sabry"
+        },
+        {
+            "name": "Khaleny Ashofak Tany",
+            "release_date": "2020-10-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735a46b593ae6ef2d075f20385",
+            "track_url": "https://www.dropbox.com/scl/fi/dzscevlt3e057h61l3fxf/.mp3?rlkey=wwwx5mtca0tw76s8heu3m484b&st=0hwkhmgn&dl=1",
+            "id": 1664,
+            "artist": "Ramy Sabry"
+        },
+        {
+            "name": "khateera",
+            "release_date": "2020-07-29",
+            "image": "https://i.scdn.co/image/ab67616d0000b273473a77a2426fa80a7c73ba31",
+            "track_url": "https://www.dropbox.com/scl/fi/tguu8p38ynd270txg2ynk/.mp3?rlkey=vrdxwesweoe5ygiwtgltz8f48&st=14so8i53&dl=1",
+            "id": 1665,
+            "artist": "Ramy Sabry"
+        },
+        {
+            "name": "Forsa Tanya (Music from the Original TV Series)",
+            "release_date": "2020-05-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b273707974c9321ae2c639476baf",
+            "track_url": "https://www.dropbox.com/scl/fi/6rgu7eqqbdqtzyxpl0nmh/.mp3?rlkey=bxsbnj8f3mj829lfagavsq0c0&st=djic4u1h&dl=1",
+            "id": 1666,
+            "artist": "Ramy Sabry"
+        },
+        {
+            "name": "Hayaty Msh Tamam",
+            "release_date": "2020-02-13",
+            "image": "https://i.scdn.co/image/ab67616d0000b27398ac4ef6ebd139680f4c040f",
+            "track_url": "https://www.dropbox.com/scl/fi/rjhnt9vhmfkazhc2dzhx4/.mp3?rlkey=0605m1yikzse4buw4p5mkbzc4&st=664nkdlj&dl=1",
+            "id": 1667,
+            "artist": "Ramy Sabry"
+        }
+    ],
+    "popular_tracks": [
+        {
+            "name": "يمكن خير",
+            "track_url": "https://www.dropbox.com/scl/fi/4oemilvjagyb0ib3rwgzf/bregaraab.Com_ramy_sbry_ymkn_khyr.mp3?rlkey=8bj0m5cs3n5i4q3z934oqp9jr&st=sak799c0&dl=1",
+            "duration_ms": 216356,
+            "image": "https://i.scdn.co/image/ab67616d0000b273e540a204f66307bd2455a708",
+            "id": 1668,
+            "artist": "Ramy Sabry"
+        },
+        {
+            "name": "لما بيوحشني",
+            "track_url": "https://www.dropbox.com/scl/fi/ljgywzxcbq8ztp0w4gzkg/asmeona.com_ramy_sbry_lma_bywhshny.mp3?rlkey=0wahevehts2os49efjcg6fdi4&st=jbq9sb9d&dl=1",
+            "duration_ms": 272433,
+            "image": "https://i.scdn.co/image/ab67616d0000b273e540a204f66307bd2455a708",
+            "id": 1669,
+            "artist": "Ramy Sabry"
+        },
+        {
+            "name": "Seket Leh",
+            "track_url": "https://www.dropbox.com/scl/fi/evmqt7cfh1umw2nxnqpcc/Ahmedwap.Com_ramy_sbry_skt_lyh.mp3?rlkey=2jgk0mw66iew49ybkky3ckm8s&st=diblx37w&dl=1",
+            "duration_ms": 281756,
+            "image": "https://i.scdn.co/image/ab67616d0000b273333d76e72f156c7be1d165c3",
+            "id": 1670,
+            "artist": "Ramy Sabry"
+        },
+        {
+            "name": "Forsa Tanya - Music from the Original TV Series",
+            "track_url": "https://www.dropbox.com/scl/fi/6rgu7eqqbdqtzyxpl0nmh/.mp3?rlkey=bxsbnj8f3mj829lfagavsq0c0&st=djic4u1h&dl=1",
+            "duration_ms": 246121,
+            "image": "https://i.scdn.co/image/ab67616d0000b273707974c9321ae2c639476baf",
+            "id": 1671,
+            "artist": "Ramy Sabry"
+        },
+        {
+            "name": "Hayaty Msh Tamam",
+            "track_url": "https://www.dropbox.com/scl/fi/rjhnt9vhmfkazhc2dzhx4/.mp3?rlkey=0605m1yikzse4buw4p5mkbzc4&st=664nkdlj&dl=1",
+            "duration_ms": 195048,
+            "image": "https://i.scdn.co/image/ab67616d0000b27398ac4ef6ebd139680f4c040f",
+            "id": 1672,
+            "artist": "Ramy Sabry"
+        },
+        {
+            "name": "بين الحيطان",
+            "track_url": "https://www.dropbox.com/scl/fi/gmqpcp4whtfia8jjf206l/Ben-El-Hettan.mp3?rlkey=96g5pia5lo45cwh10uhjho8ia&st=syy72ei5&dl=1",
+            "duration_ms": 192872,
+            "image": "https://i.scdn.co/image/ab67616d0000b273eb7b7d3930c3ccd57fd91800",
+            "id": 1673,
+            "artist": "Ramy Sabry"
+        },
+        {
+            "name": "بحكي عليكي",
+            "track_url": "https://www.dropbox.com/scl/fi/guj1z3uhtlpmu0bqx7wnv/Bahki-Aleky.mp3?rlkey=5xzghpizpsb4s4yjmypdvaepk&st=czjsxcb5&dl=1",
+            "duration_ms": 244500,
+            "image": "https://i.scdn.co/image/ab67616d0000b273eb7b7d3930c3ccd57fd91800",
+            "id": 1674,
+            "artist": "Ramy Sabry"
+        },
+        {
+            "name": "بتفتكرني ساعات",
+            "track_url": "https://www.dropbox.com/scl/fi/562d3c9mpj4qtqkbxlvyo/bregaraab.Com_ramy_sbry_btftkrny_saaat.mp3?rlkey=sfnszm2ic7wbpm1tuo58l7h7p&st=0orbb1bt&dl=1",
+            "duration_ms": 217787,
+            "image": "https://i.scdn.co/image/ab67616d0000b273e540a204f66307bd2455a708",
+            "id": 1675,
+            "artist": "Ramy Sabry"
+        },
+        {
+            "name": "Enty Genan",
+            "track_url": "https://www.dropbox.com/scl/fi/hgzprzdqilwd7kz95n2nx/asmeona.com_ramy_sbry_anty_gnan.mp3?rlkey=trew51prhlj4mods5mfpisipd&st=h612rquv&dl=1",
+            "duration_ms": 185104,
+            "image": "https://i.scdn.co/image/ab67616d0000b273d39da08c85e00258afa91783",
+            "id": 1676,
+            "artist": "Ramy Sabry"
+        },
+        {
+            "name": "Bahebak",
+            "track_url": "https://www.dropbox.com/scl/fi/m434hj2gt4qvnteo41cgs/Ahmedwap.Com_ramy_sbry_bhbk.mp3?rlkey=i1v2vg91t3wo7hroe934yo3b3&st=ihet7kwr&dl=1",
+            "duration_ms": 254824,
+            "image": "https://i.scdn.co/image/ab67616d0000b273333d76e72f156c7be1d165c3",
+            "id": 1677,
+            "artist": "Ramy Sabry"
+        }
+    ]
+}

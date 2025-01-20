@@ -1,0 +1,2806 @@
+{
+    "artist": {
+        "id": "4529",
+        "name": "Ahmed Adaweya",
+        "image": "https://i.scdn.co/image/ab67616d0000b27380a998fd93491d1c7e4825c5",
+        "background_image": "https://i.scdn.co/image/ab67616d00001e0280a998fd93491d1c7e4825c5"
+    },
+    "albums": [
+        {
+            "name": "El Ostaz",
+            "release_date": "2018-03-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732c36bc0be45521e8033e3da9",
+            "track_url": "https://open.spotify.com/album/3J8t51g0S9Gwa6xUfGwlzU",
+            "tracks": [
+                {
+                    "name": "Elly Ekhtasho Mato",
+                    "track_url": "",
+                    "duration_ms": 293080,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732c36bc0be45521e8033e3da9",
+                    "id": 4531,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "El Helw Wasal",
+                    "track_url": "",
+                    "duration_ms": 138840,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732c36bc0be45521e8033e3da9",
+                    "id": 4532,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "El Metsaltan",
+                    "track_url": "",
+                    "duration_ms": 365064,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732c36bc0be45521e8033e3da9",
+                    "id": 4533,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Mawal",
+                    "track_url": "",
+                    "duration_ms": 360186,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732c36bc0be45521e8033e3da9",
+                    "id": 4534,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Ana Ayesh Wel Salam",
+                    "track_url": "",
+                    "duration_ms": 304426,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732c36bc0be45521e8033e3da9",
+                    "id": 4535,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "El Ostaz",
+                    "track_url": "",
+                    "duration_ms": 256200,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732c36bc0be45521e8033e3da9",
+                    "id": 4536,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Ghanni Ya Aam",
+                    "track_url": "",
+                    "duration_ms": 269293,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732c36bc0be45521e8033e3da9",
+                    "id": 4537,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Ergeaa Insan",
+                    "track_url": "",
+                    "duration_ms": 314066,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732c36bc0be45521e8033e3da9",
+                    "id": 4538,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Kalemny",
+                    "track_url": "",
+                    "duration_ms": 258653,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732c36bc0be45521e8033e3da9",
+                    "id": 4539,
+                    "artist": "Ahmed Adaweya"
+                }
+            ],
+            "id": 4530
+        },
+        {
+            "name": "Mawaweel Pt.2",
+            "release_date": "2014-03-13",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736541bd42990cbc754f95b5a4",
+            "track_url": "https://open.spotify.com/album/5V5qj9RJbM8vlDgOpO2n8W",
+            "tracks": [
+                {
+                    "name": "Rabeit Welady Fi Shababy",
+                    "track_url": "",
+                    "duration_ms": 284133,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736541bd42990cbc754f95b5a4",
+                    "id": 4541,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Forak El Habayeb",
+                    "track_url": "",
+                    "duration_ms": 231386,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736541bd42990cbc754f95b5a4",
+                    "id": 4542,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Ana Baheb Khamsa",
+                    "track_url": "",
+                    "duration_ms": 253573,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736541bd42990cbc754f95b5a4",
+                    "id": 4543,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Ana Saber",
+                    "track_url": "",
+                    "duration_ms": 538880,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736541bd42990cbc754f95b5a4",
+                    "id": 4544,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Habeit Gedeid",
+                    "track_url": "",
+                    "duration_ms": 231746,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736541bd42990cbc754f95b5a4",
+                    "id": 4545,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Raho El Habayeb",
+                    "track_url": "",
+                    "duration_ms": 359000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736541bd42990cbc754f95b5a4",
+                    "id": 4546,
+                    "artist": "Ahmed Adaweya"
+                }
+            ],
+            "id": 4540
+        },
+        {
+            "name": "Ahmed Adaweya",
+            "release_date": "2000-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27362e95e18fce2d749d5a9a590",
+            "track_url": "https://open.spotify.com/album/4gd3kGfdo4RwjTGJ6UBzzN",
+            "tracks": [
+                {
+                    "name": "Ta'Abet Men Elhomoul",
+                    "track_url": "",
+                    "duration_ms": 414760,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27362e95e18fce2d749d5a9a590",
+                    "id": 4548,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Change, Ghayer ghayer",
+                    "track_url": "",
+                    "duration_ms": 245306,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27362e95e18fce2d749d5a9a590",
+                    "id": 4549,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Quida ou quida",
+                    "track_url": "",
+                    "duration_ms": 303333,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27362e95e18fce2d749d5a9a590",
+                    "id": 4550,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Houmma mouch houmma",
+                    "track_url": "",
+                    "duration_ms": 355893,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27362e95e18fce2d749d5a9a590",
+                    "id": 4551,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "A'abet men el homoui",
+                    "track_url": "",
+                    "duration_ms": 414760,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27362e95e18fce2d749d5a9a590",
+                    "id": 4552,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Garel hana can' hana",
+                    "track_url": "",
+                    "duration_ms": 277666,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27362e95e18fce2d749d5a9a590",
+                    "id": 4553,
+                    "artist": "Ahmed Adaweya"
+                }
+            ],
+            "id": 4547
+        },
+        {
+            "name": "Change",
+            "release_date": "1998-06-22",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734620b5bf3b54e1630c95d5f7",
+            "track_url": "https://open.spotify.com/album/7D2s1B6BQm881eXPCbcAro",
+            "tracks": [
+                {
+                    "name": "Change, ghayer ghayer",
+                    "track_url": "",
+                    "duration_ms": 245306,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734620b5bf3b54e1630c95d5f7",
+                    "id": 4555,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Houmma mouch houmma",
+                    "track_url": "",
+                    "duration_ms": 355893,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734620b5bf3b54e1630c95d5f7",
+                    "id": 4556,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Garél hana can' hana",
+                    "track_url": "",
+                    "duration_ms": 277666,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734620b5bf3b54e1630c95d5f7",
+                    "id": 4557,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Tetla'a tenzel",
+                    "track_url": "",
+                    "duration_ms": 214506,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734620b5bf3b54e1630c95d5f7",
+                    "id": 4558,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Quida ou quida",
+                    "track_url": "",
+                    "duration_ms": 303333,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734620b5bf3b54e1630c95d5f7",
+                    "id": 4559,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Ta'abet men elhomoul",
+                    "track_url": "",
+                    "duration_ms": 414760,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734620b5bf3b54e1630c95d5f7",
+                    "id": 4560,
+                    "artist": "Ahmed Adaweya"
+                }
+            ],
+            "id": 4554
+        },
+        {
+            "name": "Adaweyat 4",
+            "release_date": "1997-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733e300819c93c765ad91d5ff6",
+            "track_url": "https://open.spotify.com/album/6k0VeTknW9wWQy9xBw7V4s",
+            "tracks": [
+                {
+                    "name": "Ya Taebny",
+                    "track_url": "",
+                    "duration_ms": 764826,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733e300819c93c765ad91d5ff6",
+                    "id": 4562,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Welad El Gharam",
+                    "track_url": "",
+                    "duration_ms": 624706,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733e300819c93c765ad91d5ff6",
+                    "id": 4563,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Ah Ya Zaman - Mawwal",
+                    "track_url": "",
+                    "duration_ms": 293253,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733e300819c93c765ad91d5ff6",
+                    "id": 4564,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Aghrab",
+                    "track_url": "",
+                    "duration_ms": 560186,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733e300819c93c765ad91d5ff6",
+                    "id": 4565,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Men Baad Tairy Ma Laf Beya - Mawwal",
+                    "track_url": "",
+                    "duration_ms": 473733,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733e300819c93c765ad91d5ff6",
+                    "id": 4566,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Rawak",
+                    "track_url": "",
+                    "duration_ms": 453853,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733e300819c93c765ad91d5ff6",
+                    "id": 4567,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Ya Helw Koul Le El Hawa - Mawwal",
+                    "track_url": "",
+                    "duration_ms": 258653,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733e300819c93c765ad91d5ff6",
+                    "id": 4568,
+                    "artist": "Ahmed Adaweya"
+                }
+            ],
+            "id": 4561
+        },
+        {
+            "name": "Shouf Ya Alby",
+            "release_date": "1995-09-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739adb1a51e74a5110f3906496",
+            "track_url": "https://open.spotify.com/album/6m2olggjzhYJvIvvbe4I5S",
+            "tracks": [
+                {
+                    "name": "Kan Malna Bel Sahar",
+                    "track_url": "",
+                    "duration_ms": 335208,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739adb1a51e74a5110f3906496",
+                    "id": 4570,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Ehna Ely Awednah",
+                    "track_url": "",
+                    "duration_ms": 278070,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739adb1a51e74a5110f3906496",
+                    "id": 4571,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Gamal W Fih El Alam",
+                    "track_url": "",
+                    "duration_ms": 260555,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739adb1a51e74a5110f3906496",
+                    "id": 4572,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Had Yhebak Keda",
+                    "track_url": "",
+                    "duration_ms": 246061,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739adb1a51e74a5110f3906496",
+                    "id": 4573,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "El Hekaya Fi Kelmeten",
+                    "track_url": "",
+                    "duration_ms": 346731,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739adb1a51e74a5110f3906496",
+                    "id": 4574,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Ya Helwa Ya Sheek",
+                    "track_url": "",
+                    "duration_ms": 289734,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739adb1a51e74a5110f3906496",
+                    "id": 4575,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Shouf Ya Alby",
+                    "track_url": "",
+                    "duration_ms": 222372,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739adb1a51e74a5110f3906496",
+                    "id": 4576,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Konna Fein",
+                    "track_url": "",
+                    "duration_ms": 279125,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739adb1a51e74a5110f3906496",
+                    "id": 4577,
+                    "artist": "Ahmed Adaweya"
+                }
+            ],
+            "id": 4569
+        },
+        {
+            "name": "Senin Takhodna",
+            "release_date": "1993-06-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b273021818c9d17208e63620091e",
+            "track_url": "https://open.spotify.com/album/4dQmcf4dFexOUerrwbceKR",
+            "tracks": [
+                {
+                    "name": "Khalas Etnasena",
+                    "track_url": "",
+                    "duration_ms": 356684,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273021818c9d17208e63620091e",
+                    "id": 4579,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Yally Btet'al Aleina",
+                    "track_url": "",
+                    "duration_ms": 290235,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273021818c9d17208e63620091e",
+                    "id": 4580,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Akhretha Eih",
+                    "track_url": "",
+                    "duration_ms": 302531,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273021818c9d17208e63620091e",
+                    "id": 4581,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Haremna Men Onsak",
+                    "track_url": "",
+                    "duration_ms": 253173,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273021818c9d17208e63620091e",
+                    "id": 4582,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Dawar A'l Hanan",
+                    "track_url": "",
+                    "duration_ms": 281697,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273021818c9d17208e63620091e",
+                    "id": 4583,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Senin Takhodna",
+                    "track_url": "",
+                    "duration_ms": 308446,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273021818c9d17208e63620091e",
+                    "id": 4584,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Ala Fein",
+                    "track_url": "",
+                    "duration_ms": 336918,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273021818c9d17208e63620091e",
+                    "id": 4585,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Masadak Eskekna",
+                    "track_url": "",
+                    "duration_ms": 248850,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273021818c9d17208e63620091e",
+                    "id": 4586,
+                    "artist": "Ahmed Adaweya"
+                }
+            ],
+            "id": 4578
+        },
+        {
+            "name": "Adaweyat, Vol. 3",
+            "release_date": "1993-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27366fcb0b17195628412f34963",
+            "track_url": "https://open.spotify.com/album/7lsv6fprL85gxN7zERl0Km",
+            "tracks": [
+                {
+                    "name": "Ya Zayed Fe El Halawa - Radio Edit",
+                    "track_url": "",
+                    "duration_ms": 398986,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27366fcb0b17195628412f34963",
+                    "id": 4588,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Aha Aho",
+                    "track_url": "",
+                    "duration_ms": 305066,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27366fcb0b17195628412f34963",
+                    "id": 4589,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Salamat Ya Einaya",
+                    "track_url": "",
+                    "duration_ms": 220693,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27366fcb0b17195628412f34963",
+                    "id": 4590,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Beng Beng",
+                    "track_url": "",
+                    "duration_ms": 403320,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27366fcb0b17195628412f34963",
+                    "id": 4591,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Katr El Saeid - Katr El Habayeb",
+                    "track_url": "",
+                    "duration_ms": 555880,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27366fcb0b17195628412f34963",
+                    "id": 4592,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Ya Betaa El Tofah - Mawwal",
+                    "track_url": "",
+                    "duration_ms": 750520,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27366fcb0b17195628412f34963",
+                    "id": 4593,
+                    "artist": "Ahmed Adaweya"
+                }
+            ],
+            "id": 4587
+        },
+        {
+            "name": "Adaweya 92",
+            "release_date": "1992-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738aa4248d708197897c56b6c9",
+            "track_url": "https://open.spotify.com/album/0zu8eXIpvwnngs0pFKHepg",
+            "tracks": [
+                {
+                    "name": "Medley: Magnoun / Seeb We Ana Aseeb / Mawal Amrak Ageeb - Medley",
+                    "track_url": "",
+                    "duration_ms": 636213,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738aa4248d708197897c56b6c9",
+                    "id": 4595,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Homma - Remix",
+                    "track_url": "",
+                    "duration_ms": 357653,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738aa4248d708197897c56b6c9",
+                    "id": 4596,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Medley: Ayela Tayha / Meet Foul We Ashara / El Marasseel - Medley",
+                    "track_url": "",
+                    "duration_ms": 251346,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738aa4248d708197897c56b6c9",
+                    "id": 4597,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Medley: Shaarek Hanneteeh / Ya Zayed Fe El Halawa / Talbeenak Be El Halal - Medley",
+                    "track_url": "",
+                    "duration_ms": 333680,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738aa4248d708197897c56b6c9",
+                    "id": 4598,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Wasso Aleina",
+                    "track_url": "",
+                    "duration_ms": 359893,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738aa4248d708197897c56b6c9",
+                    "id": 4599,
+                    "artist": "Ahmed Adaweya"
+                }
+            ],
+            "id": 4594
+        },
+        {
+            "name": "Shaabeyat Hamid El Shaery & Adaweya",
+            "release_date": "1991-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737522b5f60ffc8b43a1ac41b7",
+            "track_url": "https://open.spotify.com/album/4ONdiXNw8nghbXanxZJpdE",
+            "tracks": [
+                {
+                    "name": "Zahma",
+                    "track_url": "",
+                    "duration_ms": 561110,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737522b5f60ffc8b43a1ac41b7",
+                    "id": 4601,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Shaabeyat Saeedy",
+                    "track_url": "",
+                    "duration_ms": 673149,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737522b5f60ffc8b43a1ac41b7",
+                    "id": 4602,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Ma Balash El Loun da Maana",
+                    "track_url": "",
+                    "duration_ms": 502648,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737522b5f60ffc8b43a1ac41b7",
+                    "id": 4603,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Bekam El Ward",
+                    "track_url": "",
+                    "duration_ms": 231862,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737522b5f60ffc8b43a1ac41b7",
+                    "id": 4604,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "El Fasl",
+                    "track_url": "",
+                    "duration_ms": 402573,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737522b5f60ffc8b43a1ac41b7",
+                    "id": 4605,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Ella da Ya Ozzal",
+                    "track_url": "",
+                    "duration_ms": 628688,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737522b5f60ffc8b43a1ac41b7",
+                    "id": 4606,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Ana Saber",
+                    "track_url": "",
+                    "duration_ms": 277551,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737522b5f60ffc8b43a1ac41b7",
+                    "id": 4607,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "El Karettah",
+                    "track_url": "",
+                    "duration_ms": 338050,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737522b5f60ffc8b43a1ac41b7",
+                    "id": 4608,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Kan Andy Ghazal",
+                    "track_url": "",
+                    "duration_ms": 357694,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737522b5f60ffc8b43a1ac41b7",
+                    "id": 4609,
+                    "artist": "Ahmed Adaweya"
+                }
+            ],
+            "id": 4600
+        },
+        {
+            "name": "Mawaweel Adaweya, Vol. 3 (Mawwal)",
+            "release_date": "1991-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b16b917207fd5b700e4b82b4",
+            "track_url": "https://open.spotify.com/album/5OrX1xpxbocJ1oVnuhuIj3",
+            "tracks": [
+                {
+                    "name": "Ah Ya Zaman - Mawwal",
+                    "track_url": "",
+                    "duration_ms": 138786,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b16b917207fd5b700e4b82b4",
+                    "id": 4611,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Men Baad Tairy Ma Laf Beya - Mawwal",
+                    "track_url": "",
+                    "duration_ms": 482773,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b16b917207fd5b700e4b82b4",
+                    "id": 4612,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Yally Maak El Kersh - Mawwal",
+                    "track_url": "",
+                    "duration_ms": 266133,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b16b917207fd5b700e4b82b4",
+                    "id": 4613,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Ya Helw Koul Le El Hawa - Mawwal",
+                    "track_url": "",
+                    "duration_ms": 177800,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b16b917207fd5b700e4b82b4",
+                    "id": 4614,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Ashek Ya Einy Alaya - Mawwal",
+                    "track_url": "",
+                    "duration_ms": 260466,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b16b917207fd5b700e4b82b4",
+                    "id": 4615,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Kady El Koudah - Mawwal",
+                    "track_url": "",
+                    "duration_ms": 256613,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b16b917207fd5b700e4b82b4",
+                    "id": 4616,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "El Leil Law Taal - Mawwal",
+                    "track_url": "",
+                    "duration_ms": 335346,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b16b917207fd5b700e4b82b4",
+                    "id": 4617,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Ya Tair Ya Ghareeb - Mawwal",
+                    "track_url": "",
+                    "duration_ms": 199000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b16b917207fd5b700e4b82b4",
+                    "id": 4618,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Baat El Sobh Mersal - Mawwal",
+                    "track_url": "",
+                    "duration_ms": 189093,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b16b917207fd5b700e4b82b4",
+                    "id": 4619,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "El Meghanawateya - Mawwal",
+                    "track_url": "",
+                    "duration_ms": 77946,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b16b917207fd5b700e4b82b4",
+                    "id": 4620,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "El Khassees - Mawwal",
+                    "track_url": "",
+                    "duration_ms": 168413,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b16b917207fd5b700e4b82b4",
+                    "id": 4621,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Gamal El Mahamel - Mawwal",
+                    "track_url": "",
+                    "duration_ms": 170453,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b16b917207fd5b700e4b82b4",
+                    "id": 4622,
+                    "artist": "Ahmed Adaweya"
+                }
+            ],
+            "id": 4610
+        },
+        {
+            "name": "Adaweya 91",
+            "release_date": "1991-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738190d377dc5b2008c411b72d",
+            "track_url": "https://open.spotify.com/album/3PFHcibdrJfdRBsGkHcnpK",
+            "tracks": [
+                {
+                    "name": "Medley: Ma Balash El Loun da Maana / Gouz Walla Fard / Fozdouk Ya Memalah / Ya Taebny / Bent El Sultan - Medley",
+                    "track_url": "",
+                    "duration_ms": 590000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738190d377dc5b2008c411b72d",
+                    "id": 4624,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Medley: Ella da Ya Ozzal / Hallak Housh / Rassy Rassy / Count De Mont Cristo / Habiby Ya Asal - Medley",
+                    "track_url": "",
+                    "duration_ms": 429133,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738190d377dc5b2008c411b72d",
+                    "id": 4625,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Medley: Salametha Um Hassan / Ahl El Hawa / Etaallemouha Baka / El Sah El Dah Embo / Hez Ya Hob / Ya Leil Ya Basha - Medley",
+                    "track_url": "",
+                    "duration_ms": 593986,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738190d377dc5b2008c411b72d",
+                    "id": 4626,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Ya Taebny",
+                    "track_url": "",
+                    "duration_ms": 337466,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738190d377dc5b2008c411b72d",
+                    "id": 4627,
+                    "artist": "Ahmed Adaweya"
+                }
+            ],
+            "id": 4623
+        },
+        {
+            "name": "Magareeh",
+            "release_date": "1989-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27380d1c81323571c0a8bd883f7",
+            "track_url": "https://open.spotify.com/album/49JdPolESdssjutYOlfyd8",
+            "tracks": [
+                {
+                    "name": "Wehyatek En Eisht",
+                    "track_url": "",
+                    "duration_ms": 185800,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27380d1c81323571c0a8bd883f7",
+                    "id": 4629,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "El Eish We El Malh - Mawwal",
+                    "track_url": "",
+                    "duration_ms": 217800,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27380d1c81323571c0a8bd883f7",
+                    "id": 4630,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Ashek Ya Einy Alaya",
+                    "track_url": "",
+                    "duration_ms": 265573,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27380d1c81323571c0a8bd883f7",
+                    "id": 4631,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Magareeh",
+                    "track_url": "",
+                    "duration_ms": 434440,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27380d1c81323571c0a8bd883f7",
+                    "id": 4632,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "El Zaman - Mawwal",
+                    "track_url": "",
+                    "duration_ms": 140266,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27380d1c81323571c0a8bd883f7",
+                    "id": 4633,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Wasso Aleina",
+                    "track_url": "",
+                    "duration_ms": 358453,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27380d1c81323571c0a8bd883f7",
+                    "id": 4634,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "El Meghanawateya - Mawwal",
+                    "track_url": "",
+                    "duration_ms": 234040,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27380d1c81323571c0a8bd883f7",
+                    "id": 4635,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "El Khassees - Mawwal",
+                    "track_url": "",
+                    "duration_ms": 232706,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27380d1c81323571c0a8bd883f7",
+                    "id": 4636,
+                    "artist": "Ahmed Adaweya"
+                }
+            ],
+            "id": 4628
+        },
+        {
+            "name": "Mawaweel Adaweya, Vol. 2",
+            "release_date": "1987-05-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734b1aa00d49191035c2c22a14",
+            "track_url": "https://open.spotify.com/album/0sHMzZ4RWtgqTp5fUR92ne",
+            "tracks": [
+                {
+                    "name": "Rabbeit Welady Fe Shababy (Mawwal)",
+                    "track_url": "",
+                    "duration_ms": 274024,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734b1aa00d49191035c2c22a14",
+                    "id": 4638,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "El Saheb Elly Masheto (Mawwal)",
+                    "track_url": "",
+                    "duration_ms": 146468,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734b1aa00d49191035c2c22a14",
+                    "id": 4639,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "El Maal Law Maal Sahebo (Mawwal)",
+                    "track_url": "",
+                    "duration_ms": 220421,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734b1aa00d49191035c2c22a14",
+                    "id": 4640,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "El Helw Yenhab (Mawwal)",
+                    "track_url": "",
+                    "duration_ms": 161332,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734b1aa00d49191035c2c22a14",
+                    "id": 4641,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Forak El Habayeb (Mawwal)",
+                    "track_url": "",
+                    "duration_ms": 220107,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734b1aa00d49191035c2c22a14",
+                    "id": 4642,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Karam El Habayeb Tarah (Mawwal)",
+                    "track_url": "",
+                    "duration_ms": 136620,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734b1aa00d49191035c2c22a14",
+                    "id": 4643,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Ya Alby Meen Azzebak (Mawwal)",
+                    "track_url": "",
+                    "duration_ms": 186958,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734b1aa00d49191035c2c22a14",
+                    "id": 4644,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Ghadr El Zamaan (Mawwal)",
+                    "track_url": "",
+                    "duration_ms": 49658,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734b1aa00d49191035c2c22a14",
+                    "id": 4645,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Baheb Khamsa (Mawwal)",
+                    "track_url": "",
+                    "duration_ms": 250801,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734b1aa00d49191035c2c22a14",
+                    "id": 4646,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Ana Saber (Radio Edit)",
+                    "track_url": "",
+                    "duration_ms": 536189,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734b1aa00d49191035c2c22a14",
+                    "id": 4647,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Baheb Gedid (Mawwal)",
+                    "track_url": "",
+                    "duration_ms": 230478,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734b1aa00d49191035c2c22a14",
+                    "id": 4648,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Raho El Habayeb (Mawwal)",
+                    "track_url": "",
+                    "duration_ms": 359366,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734b1aa00d49191035c2c22a14",
+                    "id": 4649,
+                    "artist": "Ahmed Adaweya"
+                }
+            ],
+            "id": 4637
+        },
+        {
+            "name": "Nameema",
+            "release_date": "1986-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273eeb51b28886e65923a4b2295",
+            "track_url": "https://open.spotify.com/album/2eRuS4bx5bBraSX7uhuDri",
+            "tracks": [
+                {
+                    "name": "Bagheer Ala El Set",
+                    "track_url": "",
+                    "duration_ms": 369093,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273eeb51b28886e65923a4b2295",
+                    "id": 4651,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Ya Taebny",
+                    "track_url": "",
+                    "duration_ms": 767106,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273eeb51b28886e65923a4b2295",
+                    "id": 4652,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Nameema",
+                    "track_url": "",
+                    "duration_ms": 368573,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273eeb51b28886e65923a4b2295",
+                    "id": 4653,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Ya Betaa El Tofah - Mawwal",
+                    "track_url": "",
+                    "duration_ms": 749400,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273eeb51b28886e65923a4b2295",
+                    "id": 4654,
+                    "artist": "Ahmed Adaweya"
+                }
+            ],
+            "id": 4650
+        },
+        {
+            "name": "El Marasseel",
+            "release_date": "1986-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736d689951ec55f58eccc53c52",
+            "track_url": "https://open.spotify.com/album/5gBZyZ9WAMUI3695JK8nhF",
+            "tracks": [
+                {
+                    "name": "Rasy Rasy",
+                    "track_url": "",
+                    "duration_ms": 276226,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736d689951ec55f58eccc53c52",
+                    "id": 4656,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Feeh Fark",
+                    "track_url": "",
+                    "duration_ms": 587186,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736d689951ec55f58eccc53c52",
+                    "id": 4657,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Ana Elly Alby Eshtak - Mawwal",
+                    "track_url": "",
+                    "duration_ms": 526920,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736d689951ec55f58eccc53c52",
+                    "id": 4658,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "El Marasseel",
+                    "track_url": "",
+                    "duration_ms": 454093,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736d689951ec55f58eccc53c52",
+                    "id": 4659,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "A La Una",
+                    "track_url": "",
+                    "duration_ms": 564906,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736d689951ec55f58eccc53c52",
+                    "id": 4660,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "El Leil Law Taal - Mawwal",
+                    "track_url": "",
+                    "duration_ms": 338400,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736d689951ec55f58eccc53c52",
+                    "id": 4661,
+                    "artist": "Ahmed Adaweya"
+                }
+            ],
+            "id": 4655
+        },
+        {
+            "name": "Allemnak El Hessab",
+            "release_date": "1986-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ac20ac1d15b9f56305b71905",
+            "track_url": "https://open.spotify.com/album/1QCi7KTTefVJvAQy55R99f",
+            "tracks": [
+                {
+                    "name": "Rawak",
+                    "track_url": "",
+                    "duration_ms": 453026,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ac20ac1d15b9f56305b71905",
+                    "id": 4663,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Allemnak El Hessab",
+                    "track_url": "",
+                    "duration_ms": 390573,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ac20ac1d15b9f56305b71905",
+                    "id": 4664,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Addy El Marakeb",
+                    "track_url": "",
+                    "duration_ms": 411693,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ac20ac1d15b9f56305b71905",
+                    "id": 4665,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Kharg Habiby We Lam Yaoud",
+                    "track_url": "",
+                    "duration_ms": 723040,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ac20ac1d15b9f56305b71905",
+                    "id": 4666,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Yally Maak El Kersh - Mawwal",
+                    "track_url": "",
+                    "duration_ms": 257773,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ac20ac1d15b9f56305b71905",
+                    "id": 4667,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Ya Helw Koul Le El Hawa - Mawwal",
+                    "track_url": "",
+                    "duration_ms": 261839,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ac20ac1d15b9f56305b71905",
+                    "id": 4668,
+                    "artist": "Ahmed Adaweya"
+                }
+            ],
+            "id": 4662
+        },
+        {
+            "name": "Talbeenak Be El Halal",
+            "release_date": "1985-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273962c781b2a3a572e28399a55",
+            "track_url": "https://open.spotify.com/album/7vEylZSvUPQycLfTlAtD8Z",
+            "tracks": [
+                {
+                    "name": "Benessaalak Soual - Talbeenak Be El Halal",
+                    "track_url": "",
+                    "duration_ms": 529480,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273962c781b2a3a572e28399a55",
+                    "id": 4670,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Meya Messa",
+                    "track_url": "",
+                    "duration_ms": 520773,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273962c781b2a3a572e28399a55",
+                    "id": 4671,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "El Um - Mawwal",
+                    "track_url": "",
+                    "duration_ms": 161293,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273962c781b2a3a572e28399a55",
+                    "id": 4672,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Aghrab",
+                    "track_url": "",
+                    "duration_ms": 560893,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273962c781b2a3a572e28399a55",
+                    "id": 4673,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Donia Gharoura",
+                    "track_url": "",
+                    "duration_ms": 354986,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273962c781b2a3a572e28399a55",
+                    "id": 4674,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Ah Ya Zaman - Mawwal",
+                    "track_url": "",
+                    "duration_ms": 291480,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273962c781b2a3a572e28399a55",
+                    "id": 4675,
+                    "artist": "Ahmed Adaweya"
+                }
+            ],
+            "id": 4669
+        },
+        {
+            "name": "Sahra Maa Adaweya",
+            "release_date": "1985-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273587bd410b65565ec3703125f",
+            "track_url": "https://open.spotify.com/album/1D3XLLTnG2u3vkKE0Qy1G0",
+            "tracks": [
+                {
+                    "name": "El Sah El Dah Embo",
+                    "track_url": "",
+                    "duration_ms": 147480,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273587bd410b65565ec3703125f",
+                    "id": 4677,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Salametha Um Hassan",
+                    "track_url": "",
+                    "duration_ms": 282880,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273587bd410b65565ec3703125f",
+                    "id": 4678,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Kollo Ala Kollo",
+                    "track_url": "",
+                    "duration_ms": 277453,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273587bd410b65565ec3703125f",
+                    "id": 4679,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Ya Alby Seebak (Mawwal)",
+                    "track_url": "",
+                    "duration_ms": 186106,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273587bd410b65565ec3703125f",
+                    "id": 4680,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Atshan (Mawwal)",
+                    "track_url": "",
+                    "duration_ms": 226880,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273587bd410b65565ec3703125f",
+                    "id": 4681,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Habba Fouk We Habba Tahat",
+                    "track_url": "",
+                    "duration_ms": 199440,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273587bd410b65565ec3703125f",
+                    "id": 4682,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Set El Hawanem",
+                    "track_url": "",
+                    "duration_ms": 222853,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273587bd410b65565ec3703125f",
+                    "id": 4683,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Etaallemouha Baka",
+                    "track_url": "",
+                    "duration_ms": 295573,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273587bd410b65565ec3703125f",
+                    "id": 4684,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "El Farha De",
+                    "track_url": "",
+                    "duration_ms": 244826,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273587bd410b65565ec3703125f",
+                    "id": 4685,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Baheb Gedid - Mawwal",
+                    "track_url": "",
+                    "duration_ms": 230040,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273587bd410b65565ec3703125f",
+                    "id": 4686,
+                    "artist": "Ahmed Adaweya"
+                }
+            ],
+            "id": 4676
+        },
+        {
+            "name": "Mawaweel Adaweya",
+            "release_date": "1985-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27317a9219bab0b9c9097cfeedd",
+            "track_url": "https://open.spotify.com/album/6fJ5YB0NotBIib6DdyTX92",
+            "tracks": [
+                {
+                    "name": "Ya Helw Khalefteny",
+                    "track_url": "",
+                    "duration_ms": 231760,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27317a9219bab0b9c9097cfeedd",
+                    "id": 4688,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Bolbol We Taar Fe El Hawa",
+                    "track_url": "",
+                    "duration_ms": 156213,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27317a9219bab0b9c9097cfeedd",
+                    "id": 4689,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Ana Elly Rameet El Zahr",
+                    "track_url": "",
+                    "duration_ms": 260946,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27317a9219bab0b9c9097cfeedd",
+                    "id": 4690,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Ya Alby Sabrk Ala Elly Rah",
+                    "track_url": "",
+                    "duration_ms": 500213,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27317a9219bab0b9c9097cfeedd",
+                    "id": 4691,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Ya Negma Ya Okht El Amar",
+                    "track_url": "",
+                    "duration_ms": 186866,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27317a9219bab0b9c9097cfeedd",
+                    "id": 4692,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "El Alb Elly Engarah",
+                    "track_url": "",
+                    "duration_ms": 272146,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27317a9219bab0b9c9097cfeedd",
+                    "id": 4693,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Ya Alby Seebak",
+                    "track_url": "",
+                    "duration_ms": 181933,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27317a9219bab0b9c9097cfeedd",
+                    "id": 4694,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Agaby Ya Zaman",
+                    "track_url": "",
+                    "duration_ms": 162573,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27317a9219bab0b9c9097cfeedd",
+                    "id": 4695,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Atshan",
+                    "track_url": "",
+                    "duration_ms": 189533,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27317a9219bab0b9c9097cfeedd",
+                    "id": 4696,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Sabah El Sabah",
+                    "track_url": "",
+                    "duration_ms": 728146,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27317a9219bab0b9c9097cfeedd",
+                    "id": 4697,
+                    "artist": "Ahmed Adaweya"
+                }
+            ],
+            "id": 4687
+        },
+        {
+            "name": "Beit Adaweya",
+            "release_date": "1985-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736e53d604aaa89c0957928f78",
+            "track_url": "https://open.spotify.com/album/0sw4r5S9RJDIlKsyExmxMx",
+            "tracks": [
+                {
+                    "name": "Ahla El Ersan",
+                    "track_url": "",
+                    "duration_ms": 153704,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736e53d604aaa89c0957928f78",
+                    "id": 4699,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Bent El Amir",
+                    "track_url": "",
+                    "duration_ms": 646582,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736e53d604aaa89c0957928f78",
+                    "id": 4700,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Ella da Ya Ozzal",
+                    "track_url": "",
+                    "duration_ms": 665652,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736e53d604aaa89c0957928f78",
+                    "id": 4701,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Habiby Ya Asal",
+                    "track_url": "",
+                    "duration_ms": 334226,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736e53d604aaa89c0957928f78",
+                    "id": 4702,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Instrumental",
+                    "track_url": "",
+                    "duration_ms": 402285,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736e53d604aaa89c0957928f78",
+                    "id": 4703,
+                    "artist": "Ahmed Adaweya"
+                }
+            ],
+            "id": 4698
+        },
+        {
+            "name": "Adaweya Fe London",
+            "release_date": "1985-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734a244600583bd93c703c6bf1",
+            "track_url": "https://open.spotify.com/album/4oQ0pyUd0FsIMVJnKdhXLn",
+            "tracks": [
+                {
+                    "name": "Little Up",
+                    "track_url": "",
+                    "duration_ms": 59626,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734a244600583bd93c703c6bf1",
+                    "id": 4705,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Ya Leil Ya Basha",
+                    "track_url": "",
+                    "duration_ms": 558626,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734a244600583bd93c703c6bf1",
+                    "id": 4706,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Ya Einak Ya Gabayrak",
+                    "track_url": "",
+                    "duration_ms": 434840,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734a244600583bd93c703c6bf1",
+                    "id": 4707,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Mawaweel Shaabeya",
+                    "track_url": "",
+                    "duration_ms": 388506,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734a244600583bd93c703c6bf1",
+                    "id": 4708,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Eddeelo Eddy",
+                    "track_url": "",
+                    "duration_ms": 712133,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734a244600583bd93c703c6bf1",
+                    "id": 4709,
+                    "artist": "Ahmed Adaweya"
+                }
+            ],
+            "id": 4704
+        },
+        {
+            "name": "Mawaweel Pt.1",
+            "release_date": "1984-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738aa40430d3dc6229534f8e99",
+            "track_url": "https://open.spotify.com/album/7qaz0jbHLolapJxqzSlSzX",
+            "tracks": [
+                {
+                    "name": "Ya Helw Khalefteny",
+                    "track_url": "",
+                    "duration_ms": 645226,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738aa40430d3dc6229534f8e99",
+                    "id": 4711,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "El Alb Elly Engarah",
+                    "track_url": "",
+                    "duration_ms": 192240,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738aa40430d3dc6229534f8e99",
+                    "id": 4712,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Ana Elly Rameit El Zahr",
+                    "track_url": "",
+                    "duration_ms": 113266,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738aa40430d3dc6229534f8e99",
+                    "id": 4713,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Ya Alby Sabrak Ala Elly Rah",
+                    "track_url": "",
+                    "duration_ms": 159040,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738aa40430d3dc6229534f8e99",
+                    "id": 4714,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Ya Negma Ya Okht El Amar",
+                    "track_url": "",
+                    "duration_ms": 135600,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738aa40430d3dc6229534f8e99",
+                    "id": 4715,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Bolbol We Tar Fel Hawa",
+                    "track_url": "",
+                    "duration_ms": 187786,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738aa40430d3dc6229534f8e99",
+                    "id": 4716,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Ya Alby Seebak",
+                    "track_url": "",
+                    "duration_ms": 531240,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738aa40430d3dc6229534f8e99",
+                    "id": 4717,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Agaby Ya Zaman",
+                    "track_url": "",
+                    "duration_ms": 200360,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738aa40430d3dc6229534f8e99",
+                    "id": 4718,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Atshaan",
+                    "track_url": "",
+                    "duration_ms": 214013,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738aa40430d3dc6229534f8e99",
+                    "id": 4719,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Sabah El Sabah Ya Leil",
+                    "track_url": "",
+                    "duration_ms": 189840,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738aa40430d3dc6229534f8e99",
+                    "id": 4720,
+                    "artist": "Ahmed Adaweya"
+                }
+            ],
+            "id": 4710
+        },
+        {
+            "name": "Ya Leil Yabou Chouk",
+            "release_date": "1984",
+            "image": "https://i.scdn.co/image/ab67616d0000b273acc3a44e86151a9f3c8e71b9",
+            "track_url": "https://open.spotify.com/album/29XFb9hrB9pSZnXf6MJD3D",
+            "tracks": [
+                {
+                    "name": "Ya Leil Yabou Chouk",
+                    "track_url": "",
+                    "duration_ms": 339340,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273acc3a44e86151a9f3c8e71b9",
+                    "id": 4722,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Ya Nazil Essouk",
+                    "track_url": "",
+                    "duration_ms": 336360,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273acc3a44e86151a9f3c8e71b9",
+                    "id": 4723,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Nass Lama Bakhti",
+                    "track_url": "",
+                    "duration_ms": 254050,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273acc3a44e86151a9f3c8e71b9",
+                    "id": 4724,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Bidamia Aini",
+                    "track_url": "",
+                    "duration_ms": 233510,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273acc3a44e86151a9f3c8e71b9",
+                    "id": 4725,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Sib Tarik El Ouaje",
+                    "track_url": "",
+                    "duration_ms": 229460,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273acc3a44e86151a9f3c8e71b9",
+                    "id": 4726,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Ioua Tiaachir",
+                    "track_url": "",
+                    "duration_ms": 252440,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273acc3a44e86151a9f3c8e71b9",
+                    "id": 4727,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Ya Leil Yabou Chouk - Instrumental",
+                    "track_url": "",
+                    "duration_ms": 206679,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273acc3a44e86151a9f3c8e71b9",
+                    "id": 4728,
+                    "artist": "Ahmed Adaweya"
+                }
+            ],
+            "id": 4721
+        },
+        {
+            "name": "Ehna El Meallemeen (From \"Motassawel\")",
+            "release_date": "1983-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734d3651465a48250e15b13dd8",
+            "track_url": "https://open.spotify.com/album/7ETG2HYjpxMi5mJvuPkVY4",
+            "tracks": [
+                {
+                    "name": "Ehna El Meallemeen",
+                    "track_url": "",
+                    "duration_ms": 1220773,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734d3651465a48250e15b13dd8",
+                    "id": 4730,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Ya Donia Domty Le Meen - Mawwal",
+                    "track_url": "",
+                    "duration_ms": 99960,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734d3651465a48250e15b13dd8",
+                    "id": 4731,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Sahsah Ya Maalama",
+                    "track_url": "",
+                    "duration_ms": 1112000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734d3651465a48250e15b13dd8",
+                    "id": 4732,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Ya Donia Bethayary El Ghalban - Mawwal",
+                    "track_url": "",
+                    "duration_ms": 196360,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734d3651465a48250e15b13dd8",
+                    "id": 4733,
+                    "artist": "Ahmed Adaweya"
+                }
+            ],
+            "id": 4729
+        },
+        {
+            "name": "Taa Taah",
+            "release_date": "1982-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739897f051b215b920ed1f740d",
+            "track_url": "https://open.spotify.com/album/7taHORoDxX2MvHmf6ob7zg",
+            "tracks": [
+                {
+                    "name": "Setto",
+                    "track_url": "",
+                    "duration_ms": 702600,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739897f051b215b920ed1f740d",
+                    "id": 4735,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Addeek Tekoul Makhatesh",
+                    "track_url": "",
+                    "duration_ms": 399906,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739897f051b215b920ed1f740d",
+                    "id": 4736,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "El Salamlek",
+                    "track_url": "",
+                    "duration_ms": 460346,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739897f051b215b920ed1f740d",
+                    "id": 4737,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Taa Taah",
+                    "track_url": "",
+                    "duration_ms": 316786,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739897f051b215b920ed1f740d",
+                    "id": 4738,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Ala Fein",
+                    "track_url": "",
+                    "duration_ms": 363933,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739897f051b215b920ed1f740d",
+                    "id": 4739,
+                    "artist": "Ahmed Adaweya"
+                }
+            ],
+            "id": 4734
+        },
+        {
+            "name": "El Monady",
+            "release_date": "1981-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27339052c9547c6ff20b31d89ba",
+            "track_url": "https://open.spotify.com/album/6Q6MwQF74au90umLXUqOiw",
+            "tracks": [
+                {
+                    "name": "Ayela Tayha",
+                    "track_url": "",
+                    "duration_ms": 984493,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27339052c9547c6ff20b31d89ba",
+                    "id": 4741,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Eid El Melad - Ya Setta Ala Setta",
+                    "track_url": "",
+                    "duration_ms": 1215946,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27339052c9547c6ff20b31d89ba",
+                    "id": 4742,
+                    "artist": "Ahmed Adaweya"
+                }
+            ],
+            "id": 4740
+        },
+        {
+            "name": "Kalak",
+            "release_date": "1979-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d2cb3d50eaba6027bdfc871c",
+            "track_url": "https://open.spotify.com/album/2MDAOIviCslpMbinTRC51d",
+            "tracks": [
+                {
+                    "name": "Magnoun",
+                    "track_url": "",
+                    "duration_ms": 400520,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d2cb3d50eaba6027bdfc871c",
+                    "id": 4744,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Kalak",
+                    "track_url": "",
+                    "duration_ms": 246493,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d2cb3d50eaba6027bdfc871c",
+                    "id": 4745,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Take It Easy",
+                    "track_url": "",
+                    "duration_ms": 470600,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d2cb3d50eaba6027bdfc871c",
+                    "id": 4746,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Alo",
+                    "track_url": "",
+                    "duration_ms": 401986,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d2cb3d50eaba6027bdfc871c",
+                    "id": 4747,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Ah We Ah - Mawwal",
+                    "track_url": "",
+                    "duration_ms": 367960,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d2cb3d50eaba6027bdfc871c",
+                    "id": 4748,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Tersem Ala Meen (Um El Belad) - Mawwal",
+                    "track_url": "",
+                    "duration_ms": 333626,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d2cb3d50eaba6027bdfc871c",
+                    "id": 4749,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Shayebteny Ya Zaman - Mawwal",
+                    "track_url": "",
+                    "duration_ms": 198573,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d2cb3d50eaba6027bdfc871c",
+                    "id": 4750,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Lammeit Cart El Habayeb - Mawwal",
+                    "track_url": "",
+                    "duration_ms": 390160,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d2cb3d50eaba6027bdfc871c",
+                    "id": 4751,
+                    "artist": "Ahmed Adaweya"
+                }
+            ],
+            "id": 4743
+        },
+        {
+            "name": "Atareek",
+            "release_date": "1979-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27338ad3cbaec9fdad6cc57408c",
+            "track_url": "https://open.spotify.com/album/3QdnRLotuUuszbZRHyf5by",
+            "tracks": [
+                {
+                    "name": "Atareek",
+                    "track_url": "",
+                    "duration_ms": 272186,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27338ad3cbaec9fdad6cc57408c",
+                    "id": 4753,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Eish Halak",
+                    "track_url": "",
+                    "duration_ms": 363506,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27338ad3cbaec9fdad6cc57408c",
+                    "id": 4754,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "El Eyoun El Khodr",
+                    "track_url": "",
+                    "duration_ms": 412626,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27338ad3cbaec9fdad6cc57408c",
+                    "id": 4755,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Hakam El Zaman - Mawwal",
+                    "track_url": "",
+                    "duration_ms": 571480,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27338ad3cbaec9fdad6cc57408c",
+                    "id": 4756,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Kady El Koudah - Mawwal",
+                    "track_url": "",
+                    "duration_ms": 253240,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27338ad3cbaec9fdad6cc57408c",
+                    "id": 4757,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Nasseem El Ahbab",
+                    "track_url": "",
+                    "duration_ms": 292653,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27338ad3cbaec9fdad6cc57408c",
+                    "id": 4758,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Samak Shabar",
+                    "track_url": "",
+                    "duration_ms": 238280,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27338ad3cbaec9fdad6cc57408c",
+                    "id": 4759,
+                    "artist": "Ahmed Adaweya"
+                }
+            ],
+            "id": 4752
+        },
+        {
+            "name": "Ya Leil Yabo El Shouq",
+            "release_date": "1978-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735aa470bbb3be8c119cad78f5",
+            "track_url": "https://open.spotify.com/album/5Xk5T33JiiULn1vCwb1xdY",
+            "tracks": [
+                {
+                    "name": "Ya Leil Yabo El Shouq",
+                    "track_url": "",
+                    "duration_ms": 476487,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735aa470bbb3be8c119cad78f5",
+                    "id": 4761,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Ya Nazel El Souq",
+                    "track_url": "",
+                    "duration_ms": 406139,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735aa470bbb3be8c119cad78f5",
+                    "id": 4762,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Nas Leiha Bakht",
+                    "track_url": "",
+                    "duration_ms": 464419,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735aa470bbb3be8c119cad78f5",
+                    "id": 4763,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Badamaa Einy",
+                    "track_url": "",
+                    "duration_ms": 423511,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735aa470bbb3be8c119cad78f5",
+                    "id": 4764,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Seeb El Tareeq El Eweg",
+                    "track_url": "",
+                    "duration_ms": 437539,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735aa470bbb3be8c119cad78f5",
+                    "id": 4765,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Ewaa Teasher",
+                    "track_url": "",
+                    "duration_ms": 466404,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735aa470bbb3be8c119cad78f5",
+                    "id": 4766,
+                    "artist": "Ahmed Adaweya"
+                }
+            ],
+            "id": 4760
+        },
+        {
+            "name": "Ahom Ahom Ahom",
+            "release_date": "1978-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735011a17a98519afc2d6ca5de",
+            "track_url": "https://open.spotify.com/album/3sN8xWvmwlb5ngUoqQNFDs",
+            "tracks": [
+                {
+                    "name": "Hez Ya Hob",
+                    "track_url": "",
+                    "duration_ms": 235253,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735011a17a98519afc2d6ca5de",
+                    "id": 4768,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Sheesh Beesh",
+                    "track_url": "",
+                    "duration_ms": 740453,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735011a17a98519afc2d6ca5de",
+                    "id": 4769,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Eid El Melad - Setta Ala Setta Version 2",
+                    "track_url": "",
+                    "duration_ms": 521653,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735011a17a98519afc2d6ca5de",
+                    "id": 4770,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Ayela Tayha - Version 2",
+                    "track_url": "",
+                    "duration_ms": 583400,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735011a17a98519afc2d6ca5de",
+                    "id": 4771,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Welad El Gharam",
+                    "track_url": "",
+                    "duration_ms": 624880,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735011a17a98519afc2d6ca5de",
+                    "id": 4772,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Atshan - Mawwal",
+                    "track_url": "",
+                    "duration_ms": 239573,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735011a17a98519afc2d6ca5de",
+                    "id": 4773,
+                    "artist": "Ahmed Adaweya"
+                }
+            ],
+            "id": 4767
+        },
+        {
+            "name": "Zahma",
+            "release_date": "1977-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738ecfcf9f6901b582ed4b156e",
+            "track_url": "https://open.spotify.com/album/12yNPhio8sXpJoidYABXsF",
+            "tracks": [
+                {
+                    "name": "Zahma",
+                    "track_url": "",
+                    "duration_ms": 562920,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738ecfcf9f6901b582ed4b156e",
+                    "id": 4775,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Teegy",
+                    "track_url": "",
+                    "duration_ms": 585733,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738ecfcf9f6901b582ed4b156e",
+                    "id": 4776,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Ya Wad Ya Manzoum",
+                    "track_url": "",
+                    "duration_ms": 175440,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738ecfcf9f6901b582ed4b156e",
+                    "id": 4777,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Wallah We Leab El Hawa",
+                    "track_url": "",
+                    "duration_ms": 443880,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738ecfcf9f6901b582ed4b156e",
+                    "id": 4778,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Amalt Gammal - Mawwal",
+                    "track_url": "",
+                    "duration_ms": 465360,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738ecfcf9f6901b582ed4b156e",
+                    "id": 4779,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Kholkhal - Mawwal",
+                    "track_url": "",
+                    "duration_ms": 413773,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738ecfcf9f6901b582ed4b156e",
+                    "id": 4780,
+                    "artist": "Ahmed Adaweya"
+                }
+            ],
+            "id": 4774
+        },
+        {
+            "name": "Salam Merabaa",
+            "release_date": "1977-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731751f789500fc1cb44c8f398",
+            "track_url": "https://open.spotify.com/album/1MOqZNlnfEbTEvi0MIVY3d",
+            "tracks": [
+                {
+                    "name": "Salam Merabaa",
+                    "track_url": "",
+                    "duration_ms": 705240,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731751f789500fc1cb44c8f398",
+                    "id": 4782,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Ekteb Lena Ya Kady",
+                    "track_url": "",
+                    "duration_ms": 449573,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731751f789500fc1cb44c8f398",
+                    "id": 4783,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Hady Bady Ya Nono",
+                    "track_url": "",
+                    "duration_ms": 618640,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731751f789500fc1cb44c8f398",
+                    "id": 4784,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "El Dor El Awalany",
+                    "track_url": "",
+                    "duration_ms": 403013,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731751f789500fc1cb44c8f398",
+                    "id": 4785,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Hatebky Ala Eih - Mawwal",
+                    "track_url": "",
+                    "duration_ms": 135733,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731751f789500fc1cb44c8f398",
+                    "id": 4786,
+                    "artist": "Ahmed Adaweya"
+                }
+            ],
+            "id": 4781
+        },
+        {
+            "name": "Karakashangy",
+            "release_date": "1977-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27333bf97d1b2984ab5d3de6a7d",
+            "track_url": "https://open.spotify.com/album/3zUFC2HxxlZpR0DRNqeOP6",
+            "tracks": [
+                {
+                    "name": "Karakashangy",
+                    "track_url": "",
+                    "duration_ms": 211373,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27333bf97d1b2984ab5d3de6a7d",
+                    "id": 4788,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Ya Zayed Fe El Halawa",
+                    "track_url": "",
+                    "duration_ms": 771240,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27333bf97d1b2984ab5d3de6a7d",
+                    "id": 4789,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Habiby Ya Asal",
+                    "track_url": "",
+                    "duration_ms": 334226,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27333bf97d1b2984ab5d3de6a7d",
+                    "id": 4790,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Baheb Khamsa - Mawwal",
+                    "track_url": "",
+                    "duration_ms": 564466,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27333bf97d1b2984ab5d3de6a7d",
+                    "id": 4791,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Ana Saber - Extended",
+                    "track_url": "",
+                    "duration_ms": 679400,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27333bf97d1b2984ab5d3de6a7d",
+                    "id": 4792,
+                    "artist": "Ahmed Adaweya"
+                }
+            ],
+            "id": 4787
+        },
+        {
+            "name": "Bent El Sultan",
+            "release_date": "1977-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27380a998fd93491d1c7e4825c5",
+            "track_url": "https://open.spotify.com/album/0I6lv4caXn9qcknACFmszM",
+            "tracks": [
+                {
+                    "name": "Bent El Sultan",
+                    "track_url": "",
+                    "duration_ms": 764400,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27380a998fd93491d1c7e4825c5",
+                    "id": 4794,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Count De Mont Cristo",
+                    "track_url": "",
+                    "duration_ms": 458346,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27380a998fd93491d1c7e4825c5",
+                    "id": 4795,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Sabah El Sabah",
+                    "track_url": "",
+                    "duration_ms": 645386,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27380a998fd93491d1c7e4825c5",
+                    "id": 4796,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Um Abdo Fein",
+                    "track_url": "",
+                    "duration_ms": 310013,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27380a998fd93491d1c7e4825c5",
+                    "id": 4797,
+                    "artist": "Ahmed Adaweya"
+                }
+            ],
+            "id": 4793
+        },
+        {
+            "name": "Adaweya 77",
+            "release_date": "1977-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273805735171a06659726bfa4d7",
+            "track_url": "https://open.spotify.com/album/3SznVLlZoZWdkQfsy0bb5r",
+            "tracks": [
+                {
+                    "name": "Meet Fol - Remix",
+                    "track_url": "",
+                    "duration_ms": 617173,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273805735171a06659726bfa4d7",
+                    "id": 4799,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Ana Saber - Remix",
+                    "track_url": "",
+                    "duration_ms": 762040,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273805735171a06659726bfa4d7",
+                    "id": 4800,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Seeb Wana Aseeb - Remix",
+                    "track_url": "",
+                    "duration_ms": 818986,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273805735171a06659726bfa4d7",
+                    "id": 4801,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Alby El Kasy",
+                    "track_url": "",
+                    "duration_ms": 392880,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273805735171a06659726bfa4d7",
+                    "id": 4802,
+                    "artist": "Ahmed Adaweya"
+                }
+            ],
+            "id": 4798
+        },
+        {
+            "name": "Gouz Walla Fard",
+            "release_date": "1975-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273aad3946f82bcbed371ddbe0a",
+            "track_url": "https://open.spotify.com/album/6Qp0DlVcO1SLllB2njkCnm",
+            "tracks": [
+                {
+                    "name": "Gouz Walla Fard",
+                    "track_url": "",
+                    "duration_ms": 381306,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273aad3946f82bcbed371ddbe0a",
+                    "id": 4804,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Hallak Housh",
+                    "track_url": "",
+                    "duration_ms": 330400,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273aad3946f82bcbed371ddbe0a",
+                    "id": 4805,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Men Baad Tairy Ma Laf Beya - Mawwal",
+                    "track_url": "",
+                    "duration_ms": 474080,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273aad3946f82bcbed371ddbe0a",
+                    "id": 4806,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Katr El Saeid - Katr El Habayeb",
+                    "track_url": "",
+                    "duration_ms": 579506,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273aad3946f82bcbed371ddbe0a",
+                    "id": 4807,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Ya Helw El Malameh",
+                    "track_url": "",
+                    "duration_ms": 574120,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273aad3946f82bcbed371ddbe0a",
+                    "id": 4808,
+                    "artist": "Ahmed Adaweya"
+                }
+            ],
+            "id": 4803
+        },
+        {
+            "name": "Bos Shouf Adaweya Beyeamel Eih",
+            "release_date": "1975-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735dfae112380f99cfb903cd4e",
+            "track_url": "https://open.spotify.com/album/58BusdwmcvZT183SlI81wP",
+            "tracks": [
+                {
+                    "name": "Fozdouk Ya Memalah",
+                    "track_url": "",
+                    "duration_ms": 558560,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735dfae112380f99cfb903cd4e",
+                    "id": 4810,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Ana Elly Rameet El Zahr - Mawwal",
+                    "track_url": "",
+                    "duration_ms": 170040,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735dfae112380f99cfb903cd4e",
+                    "id": 4811,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Bos Shouf Adaweya",
+                    "track_url": "",
+                    "duration_ms": 72546,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735dfae112380f99cfb903cd4e",
+                    "id": 4812,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Yakhty Esmalletein",
+                    "track_url": "",
+                    "duration_ms": 365653,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735dfae112380f99cfb903cd4e",
+                    "id": 4813,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Beng",
+                    "track_url": "",
+                    "duration_ms": 411266,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735dfae112380f99cfb903cd4e",
+                    "id": 4814,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Ma Balash El Loun da Maana",
+                    "track_url": "",
+                    "duration_ms": 504680,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735dfae112380f99cfb903cd4e",
+                    "id": 4815,
+                    "artist": "Ahmed Adaweya"
+                }
+            ],
+            "id": 4809
+        },
+        {
+            "name": "Adaweyat, Vol. 2",
+            "release_date": "1975-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ad262c971a12c2d42f39babf",
+            "track_url": "https://open.spotify.com/album/6GbV2a764gwrcifjycRKsO",
+            "tracks": [
+                {
+                    "name": "Ya Leil Ya Basha",
+                    "track_url": "",
+                    "duration_ms": 571680,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ad262c971a12c2d42f39babf",
+                    "id": 4817,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Yakhty Esmalletein",
+                    "track_url": "",
+                    "duration_ms": 499986,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ad262c971a12c2d42f39babf",
+                    "id": 4818,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Kalak",
+                    "track_url": "",
+                    "duration_ms": 244573,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ad262c971a12c2d42f39babf",
+                    "id": 4819,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Hallak Housh",
+                    "track_url": "",
+                    "duration_ms": 333906,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ad262c971a12c2d42f39babf",
+                    "id": 4820,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Ella da Ya Ozzal",
+                    "track_url": "",
+                    "duration_ms": 627666,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ad262c971a12c2d42f39babf",
+                    "id": 4821,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Adaweya Music",
+                    "track_url": "",
+                    "duration_ms": 232346,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ad262c971a12c2d42f39babf",
+                    "id": 4822,
+                    "artist": "Ahmed Adaweya"
+                }
+            ],
+            "id": 4816
+        },
+        {
+            "name": "Adaweyat, Pt. 1 (Reverb)",
+            "release_date": "1974-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d25eab7e2c5f21b71981698d",
+            "track_url": "https://open.spotify.com/album/5i9Qh3Qb63qgFqpaeRaGS7",
+            "tracks": [
+                {
+                    "name": "Bent El Sultan - Reverb",
+                    "track_url": "",
+                    "duration_ms": 577586,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d25eab7e2c5f21b71981698d",
+                    "id": 4824,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Ma Balash El Loun da Maana - Reverb",
+                    "track_url": "",
+                    "duration_ms": 507853,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d25eab7e2c5f21b71981698d",
+                    "id": 4825,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "El Sah El Dah Embo - Reverb",
+                    "track_url": "",
+                    "duration_ms": 139280,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d25eab7e2c5f21b71981698d",
+                    "id": 4826,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Seeb Wana Aseeb - Reverb",
+                    "track_url": "",
+                    "duration_ms": 664773,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d25eab7e2c5f21b71981698d",
+                    "id": 4827,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Teegy - Reverb",
+                    "track_url": "",
+                    "duration_ms": 578146,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d25eab7e2c5f21b71981698d",
+                    "id": 4828,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Bolbol We Tar Fe El Hawa - Reverb",
+                    "track_url": "",
+                    "duration_ms": 156653,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d25eab7e2c5f21b71981698d",
+                    "id": 4829,
+                    "artist": "Ahmed Adaweya"
+                },
+                {
+                    "name": "Ana Atlob Men Allah - Reverb",
+                    "track_url": "",
+                    "duration_ms": 135333,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d25eab7e2c5f21b71981698d",
+                    "id": 4830,
+                    "artist": "Ahmed Adaweya"
+                }
+            ],
+            "id": 4823
+        }
+    ],
+    "singles": [
+        {
+            "name": "Nas Men Baladna",
+            "release_date": "2018-06-06",
+            "image": "https://i.scdn.co/image/ab67616d0000b273eaeceee1029cc47732958b06",
+            "track_url": "",
+            "id": 4831,
+            "artist": "Ahmed Adaweya"
+        },
+        {
+            "name": "Bab El Shaareya",
+            "release_date": "2018-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730a43546db266f57fbc7ff129",
+            "track_url": "",
+            "id": 4832,
+            "artist": "Ahmed Adaweya"
+        },
+        {
+            "name": "Elly Ekhtasho Mato",
+            "release_date": "2017-03-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b27375dd7f929cebd6e79c0efebd",
+            "track_url": "",
+            "id": 4833,
+            "artist": "Ahmed Adaweya"
+        },
+        {
+            "name": "El Metsaltan",
+            "release_date": "2016-11-14",
+            "image": "https://i.scdn.co/image/ab67616d0000b27382f2ff13b91e8a70342e50d1",
+            "track_url": "",
+            "id": 4834,
+            "artist": "Ahmed Adaweya"
+        },
+        {
+            "name": "صح النوم",
+            "release_date": "2015-08-02",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b59e978cb7ec5f49a921c996",
+            "track_url": "",
+            "id": 4835,
+            "artist": "Ahmed Adaweya"
+        },
+        {
+            "name": "قليل الاصل",
+            "release_date": "2015-07-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27316ab2956f341f0f887abc0cd",
+            "track_url": "",
+            "id": 4836,
+            "artist": "Ahmed Adaweya"
+        },
+        {
+            "name": "Ahmed Adaweya, Change",
+            "release_date": "2012-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733d07d140e7834fa7f475cf6f",
+            "track_url": "",
+            "id": 4837,
+            "artist": "Ahmed Adaweya"
+        },
+        {
+            "name": "ياتري من بعد خلي مين",
+            "release_date": "2005-07-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b27363a56bc1c7319cd3b5868973",
+            "track_url": "",
+            "id": 4838,
+            "artist": "Ahmed Adaweya"
+        },
+        {
+            "name": "يا تلحقيني",
+            "release_date": "2005-07-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736fff12ed9f46a2fe674ca923",
+            "track_url": "",
+            "id": 4839,
+            "artist": "Ahmed Adaweya"
+        },
+        {
+            "name": "Ahmed Adaweya Mix",
+            "release_date": "1998-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732c67ff5295719b0492a99f58",
+            "track_url": "",
+            "id": 4840,
+            "artist": "Ahmed Adaweya"
+        },
+        {
+            "name": "موال بنت البلد",
+            "release_date": "1992-01-16",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c35ee36867aa75a72da74bd1",
+            "track_url": "",
+            "id": 4841,
+            "artist": "Ahmed Adaweya"
+        },
+        {
+            "name": "شبابيك الحو",
+            "release_date": "1991-01-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b27397dccae83c9aaf7cb5a8009d",
+            "track_url": "",
+            "id": 4842,
+            "artist": "Ahmed Adaweya"
+        },
+        {
+            "name": "Yally Maak El Kersh (Mawwal)",
+            "release_date": "1991-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273469b86d6e7f3764ddf1d4876",
+            "track_url": "",
+            "id": 4843,
+            "artist": "Ahmed Adaweya"
+        },
+        {
+            "name": "Ya Helw Koul Le El Hawa (Mawwal)",
+            "release_date": "1991-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273993b41504fa1d3b068ad5039",
+            "track_url": "",
+            "id": 4844,
+            "artist": "Ahmed Adaweya"
+        },
+        {
+            "name": "Gamal El Mahamel (Mawwal)",
+            "release_date": "1991-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27399c7ef087df8e860c2309adf",
+            "track_url": "",
+            "id": 4845,
+            "artist": "Ahmed Adaweya"
+        },
+        {
+            "name": "El Meghanawateya (Mawwal)",
+            "release_date": "1991-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27322fce4829e93976bc8708a7a",
+            "track_url": "",
+            "id": 4846,
+            "artist": "Ahmed Adaweya"
+        },
+        {
+            "name": "El Leil Law Taal (Mawwal)",
+            "release_date": "1991-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d0f6f6abcdeb5222533120c9",
+            "track_url": "",
+            "id": 4847,
+            "artist": "Ahmed Adaweya"
+        },
+        {
+            "name": "El Khassees (Mawwal)",
+            "release_date": "1991-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27350a54ddf47d1743d31d5ef05",
+            "track_url": "",
+            "id": 4848,
+            "artist": "Ahmed Adaweya"
+        },
+        {
+            "name": "Ah Ya Zaman (Mawwal)",
+            "release_date": "1991-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e7935c03cc0fcfc632c2cba6",
+            "track_url": "",
+            "id": 4849,
+            "artist": "Ahmed Adaweya"
+        },
+        {
+            "name": "يا ميت خسارة",
+            "release_date": "1990-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27308bdeced28785bd4357b9766",
+            "track_url": "",
+            "id": 4850,
+            "artist": "Ahmed Adaweya"
+        },
+        {
+            "name": "يا لهوى بالى",
+            "release_date": "1990-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27376b5720746617b736c26367a",
+            "track_url": "",
+            "id": 4851,
+            "artist": "Ahmed Adaweya"
+        },
+        {
+            "name": "ولا كل من قال موال",
+            "release_date": "1990-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27385def99fd2b73f1da7063103",
+            "track_url": "",
+            "id": 4852,
+            "artist": "Ahmed Adaweya"
+        },
+        {
+            "name": "موال عجبى",
+            "release_date": "1990-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735ed563472f9f162849d511f8",
+            "track_url": "",
+            "id": 4853,
+            "artist": "Ahmed Adaweya"
+        },
+        {
+            "name": "موال ابن البلد",
+            "release_date": "1990-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734af2d721bb441444580cebb2",
+            "track_url": "",
+            "id": 4854,
+            "artist": "Ahmed Adaweya"
+        },
+        {
+            "name": "تخون عيشى ليه",
+            "release_date": "1990-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739b4f77714c5ce0f356c6ff21",
+            "track_url": "",
+            "id": 4855,
+            "artist": "Ahmed Adaweya"
+        },
+        {
+            "name": "بتاعت الودع",
+            "release_date": "1990-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730b65122dd7c451e978f2a8c3",
+            "track_url": "",
+            "id": 4856,
+            "artist": "Ahmed Adaweya"
+        },
+        {
+            "name": "Ashek Ya Einy Alaya (Mawwal)",
+            "release_date": "1989-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d98774d51e9f9074aad9d7db",
+            "track_url": "",
+            "id": 4857,
+            "artist": "Ahmed Adaweya"
+        },
+        {
+            "name": "Wallah We Naweito Ala El Safar",
+            "release_date": "1980-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e2ed86db190b7dde90868325",
+            "track_url": "",
+            "id": 4858,
+            "artist": "Ahmed Adaweya"
+        },
+        {
+            "name": "Dawara El Donia (Mawwal)",
+            "release_date": "1980-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f5b98bad1fedbfc990efb59c",
+            "track_url": "",
+            "id": 4859,
+            "artist": "Ahmed Adaweya"
+        },
+        {
+            "name": "Kady El Koudah (Mawwal)",
+            "release_date": "1979-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d2bd86f75629936ef65cdbe2",
+            "track_url": "",
+            "id": 4860,
+            "artist": "Ahmed Adaweya"
+        },
+        {
+            "name": "Bent El Sultan (Remix)",
+            "release_date": "1977-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27367986cdc1c18a4c0cdcf71dd",
+            "track_url": "",
+            "id": 4861,
+            "artist": "Ahmed Adaweya"
+        },
+        {
+            "name": "Men Baad Tairy Ma Laf Beya (Mawwal)",
+            "release_date": "1975-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e2693deb83f9ea6034b3a36e",
+            "track_url": "",
+            "id": 4862,
+            "artist": "Ahmed Adaweya"
+        },
+        {
+            "name": "Aho Aha",
+            "release_date": "1973-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27338741d3f4ded3cf5d1fd3f36",
+            "track_url": "",
+            "id": 4863,
+            "artist": "Ahmed Adaweya"
+        }
+    ],
+    "popular_tracks": [
+        {
+            "name": "El Nas El Ray'ah",
+            "track_url": "",
+            "duration_ms": 211600,
+            "image": "https://i.scdn.co/image/ab67616d0000b2735336a20b67b721c6291816be",
+            "id": 4864,
+            "artist": "Ahmed Adaweya"
+        },
+        {
+            "name": "Bent El Soltan",
+            "track_url": "",
+            "duration_ms": 761457,
+            "image": "https://i.scdn.co/image/ab67616d0000b27301db355749e3c4e9ac7966c1",
+            "id": 4865,
+            "artist": "Ahmed Adaweya"
+        },
+        {
+            "name": "صح النوم",
+            "track_url": "",
+            "duration_ms": 273763,
+            "image": "https://i.scdn.co/image/ab67616d0000b273b59e978cb7ec5f49a921c996",
+            "id": 4866,
+            "artist": "Ahmed Adaweya"
+        },
+        {
+            "name": "El Sah El Dah Embo",
+            "track_url": "",
+            "duration_ms": 145803,
+            "image": "https://i.scdn.co/image/ab67616d0000b273938a4de8ec23f71b4f8be96a",
+            "id": 4867,
+            "artist": "Ahmed Adaweya"
+        },
+        {
+            "name": "Balash El Loun Da Meana",
+            "track_url": "",
+            "duration_ms": 501695,
+            "image": "https://i.scdn.co/image/ab67616d0000b273f683da8b6da8db5d804a4c1e",
+            "id": 4868,
+            "artist": "Ahmed Adaweya"
+        },
+        {
+            "name": "Zahma",
+            "track_url": "",
+            "duration_ms": 567210,
+            "image": "https://i.scdn.co/image/ab67616d0000b2733ff794a7620494120023b01b",
+            "id": 4869,
+            "artist": "Ahmed Adaweya"
+        },
+        {
+            "name": "Karakashangy",
+            "track_url": "",
+            "duration_ms": 211423,
+            "image": "https://i.scdn.co/image/ab67616d0000b273cba1381bd3a1b75218bcdc1c",
+            "id": 4870,
+            "artist": "Ahmed Adaweya"
+        },
+        {
+            "name": "Salametha Om Hassan",
+            "track_url": "",
+            "duration_ms": 279916,
+            "image": "https://i.scdn.co/image/ab67616d0000b273938a4de8ec23f71b4f8be96a",
+            "id": 4871,
+            "artist": "Ahmed Adaweya"
+        },
+        {
+            "name": "Kolo Ala Kolo",
+            "track_url": "",
+            "duration_ms": 274979,
+            "image": "https://i.scdn.co/image/ab67616d0000b273938a4de8ec23f71b4f8be96a",
+            "id": 4872,
+            "artist": "Ahmed Adaweya"
+        },
+        {
+            "name": "Haba Foq We Haba Taht",
+            "track_url": "",
+            "duration_ms": 196742,
+            "image": "https://i.scdn.co/image/ab67616d0000b273938a4de8ec23f71b4f8be96a",
+            "id": 4873,
+            "artist": "Ahmed Adaweya"
+        }
+    ]
+}

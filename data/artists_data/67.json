@@ -1,0 +1,425 @@
+{
+    "artist": {
+        "id": "8940",
+        "name": "Mohamed Adaweya",
+        "image": "https://i.scdn.co/image/ab67616d0000b2731f788e4d0949107b269eaa1d",
+        "background_image": "https://i.scdn.co/image/ab67616d00001e021f788e4d0949107b269eaa1d"
+    },
+    "albums": [
+        {
+            "name": "Sekout Khalas",
+            "release_date": "2018-06-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731f788e4d0949107b269eaa1d",
+            "track_url": "https://open.spotify.com/album/7z7LQMipPM5o6wDgFTKplV",
+            "tracks": [
+                {
+                    "name": "Baalo Kam Youm",
+                    "track_url": "",
+                    "duration_ms": 274559,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731f788e4d0949107b269eaa1d",
+                    "id": 8942,
+                    "artist": "Mohamed Adaweya"
+                },
+                {
+                    "name": "Ay Haga",
+                    "track_url": "",
+                    "duration_ms": 246060,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731f788e4d0949107b269eaa1d",
+                    "id": 8943,
+                    "artist": "Mohamed Adaweya"
+                },
+                {
+                    "name": "Khat Brayaak",
+                    "track_url": "",
+                    "duration_ms": 324891,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731f788e4d0949107b269eaa1d",
+                    "id": 8944,
+                    "artist": "Mohamed Adaweya"
+                },
+                {
+                    "name": "Sekout Khalas",
+                    "track_url": "",
+                    "duration_ms": 271698,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731f788e4d0949107b269eaa1d",
+                    "id": 8945,
+                    "artist": "Mohamed Adaweya"
+                },
+                {
+                    "name": "Ya Set El Banat",
+                    "track_url": "",
+                    "duration_ms": 180900,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731f788e4d0949107b269eaa1d",
+                    "id": 8946,
+                    "artist": "Mohamed Adaweya"
+                },
+                {
+                    "name": "Ana El Ghaltan",
+                    "track_url": "",
+                    "duration_ms": 353252,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731f788e4d0949107b269eaa1d",
+                    "id": 8947,
+                    "artist": "Mohamed Adaweya"
+                },
+                {
+                    "name": "Ana Tagek",
+                    "track_url": "",
+                    "duration_ms": 258314,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731f788e4d0949107b269eaa1d",
+                    "id": 8948,
+                    "artist": "Mohamed Adaweya"
+                },
+                {
+                    "name": "Kan Ya Makan",
+                    "track_url": "",
+                    "duration_ms": 332274,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731f788e4d0949107b269eaa1d",
+                    "id": 8949,
+                    "artist": "Mohamed Adaweya"
+                },
+                {
+                    "name": "Wana Ragea",
+                    "track_url": "",
+                    "duration_ms": 264913,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731f788e4d0949107b269eaa1d",
+                    "id": 8950,
+                    "artist": "Mohamed Adaweya"
+                },
+                {
+                    "name": "Habiby Feen Matkoun",
+                    "track_url": "",
+                    "duration_ms": 275835,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731f788e4d0949107b269eaa1d",
+                    "id": 8951,
+                    "artist": "Mohamed Adaweya"
+                },
+                {
+                    "name": "Shayef",
+                    "track_url": "",
+                    "duration_ms": 263786,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731f788e4d0949107b269eaa1d",
+                    "id": 8952,
+                    "artist": "Mohamed Adaweya"
+                },
+                {
+                    "name": "Allelty Men Nafsek",
+                    "track_url": "",
+                    "duration_ms": 359299,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731f788e4d0949107b269eaa1d",
+                    "id": 8953,
+                    "artist": "Mohamed Adaweya"
+                },
+                {
+                    "name": "Kalam Fi Kalam",
+                    "track_url": "",
+                    "duration_ms": 317040,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731f788e4d0949107b269eaa1d",
+                    "id": 8954,
+                    "artist": "Mohamed Adaweya"
+                },
+                {
+                    "name": "Bent Halal",
+                    "track_url": "",
+                    "duration_ms": 327032,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731f788e4d0949107b269eaa1d",
+                    "id": 8955,
+                    "artist": "Mohamed Adaweya"
+                }
+            ],
+            "id": 8941
+        },
+        {
+            "name": "Matsibona",
+            "release_date": "1996-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a0e4781706ef0c3015063dca",
+            "track_url": "https://open.spotify.com/album/4B7K5knDMexbKXUIAfDTJp",
+            "tracks": [
+                {
+                    "name": "Matsibona",
+                    "track_url": "",
+                    "duration_ms": 368013,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a0e4781706ef0c3015063dca",
+                    "id": 8957,
+                    "artist": "Mohamed Adaweya"
+                },
+                {
+                    "name": "Bet Oully",
+                    "track_url": "",
+                    "duration_ms": 298004,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a0e4781706ef0c3015063dca",
+                    "id": 8958,
+                    "artist": "Mohamed Adaweya"
+                },
+                {
+                    "name": "Etaalemt El Mawaeid",
+                    "track_url": "",
+                    "duration_ms": 281025,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a0e4781706ef0c3015063dca",
+                    "id": 8959,
+                    "artist": "Mohamed Adaweya"
+                },
+                {
+                    "name": "Ana Wenty",
+                    "track_url": "",
+                    "duration_ms": 283010,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a0e4781706ef0c3015063dca",
+                    "id": 8960,
+                    "artist": "Mohamed Adaweya"
+                },
+                {
+                    "name": "Estany Esstaniny",
+                    "track_url": "",
+                    "duration_ms": 319007,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a0e4781706ef0c3015063dca",
+                    "id": 8961,
+                    "artist": "Mohamed Adaweya"
+                },
+                {
+                    "name": "Sotek Ahla",
+                    "track_url": "",
+                    "duration_ms": 316003,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a0e4781706ef0c3015063dca",
+                    "id": 8962,
+                    "artist": "Mohamed Adaweya"
+                },
+                {
+                    "name": "Men Baeid L'baeid",
+                    "track_url": "",
+                    "duration_ms": 307017,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a0e4781706ef0c3015063dca",
+                    "id": 8963,
+                    "artist": "Mohamed Adaweya"
+                },
+                {
+                    "name": "Betouly Alaya Soghayar",
+                    "track_url": "",
+                    "duration_ms": 268016,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a0e4781706ef0c3015063dca",
+                    "id": 8964,
+                    "artist": "Mohamed Adaweya"
+                }
+            ],
+            "id": 8956
+        },
+        {
+            "name": "Allemny Aghanny",
+            "release_date": "1995-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e17d0e703308e7a86caad204",
+            "track_url": "https://open.spotify.com/album/71OrmVmHzTIqUmabnZe6GR",
+            "tracks": [
+                {
+                    "name": "La A'araf Ahzan",
+                    "track_url": "",
+                    "duration_ms": 275017,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e17d0e703308e7a86caad204",
+                    "id": 8966,
+                    "artist": "Mohamed Adaweya"
+                },
+                {
+                    "name": "Zahma Ya Donya",
+                    "track_url": "",
+                    "duration_ms": 227004,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e17d0e703308e7a86caad204",
+                    "id": 8967,
+                    "artist": "Mohamed Adaweya"
+                },
+                {
+                    "name": "Ya Teiry Teer w Ally",
+                    "track_url": "",
+                    "duration_ms": 142001,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e17d0e703308e7a86caad204",
+                    "id": 8968,
+                    "artist": "Mohamed Adaweya"
+                },
+                {
+                    "name": "Dawar A'l Hanan",
+                    "track_url": "",
+                    "duration_ms": 284003,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e17d0e703308e7a86caad204",
+                    "id": 8969,
+                    "artist": "Mohamed Adaweya"
+                },
+                {
+                    "name": "Law Kont Makany",
+                    "track_url": "",
+                    "duration_ms": 120006,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e17d0e703308e7a86caad204",
+                    "id": 8970,
+                    "artist": "Mohamed Adaweya"
+                },
+                {
+                    "name": "Allemny Aghanny",
+                    "track_url": "",
+                    "duration_ms": 219010,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e17d0e703308e7a86caad204",
+                    "id": 8971,
+                    "artist": "Mohamed Adaweya"
+                },
+                {
+                    "name": "Ghannet Lel Alam",
+                    "track_url": "",
+                    "duration_ms": 235023,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e17d0e703308e7a86caad204",
+                    "id": 8972,
+                    "artist": "Mohamed Adaweya"
+                },
+                {
+                    "name": "Menin Li Fein",
+                    "track_url": "",
+                    "duration_ms": 224000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e17d0e703308e7a86caad204",
+                    "id": 8973,
+                    "artist": "Mohamed Adaweya"
+                }
+            ],
+            "id": 8965
+        }
+    ],
+    "singles": [
+        {
+            "name": "Msh Bel Sahel",
+            "release_date": "2021-02-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a287018072300177ae192eae",
+            "track_url": "",
+            "id": 8974,
+            "artist": "Mohamed Adaweya"
+        },
+        {
+            "name": "Sabaa Sanayea",
+            "release_date": "2020-04-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b27327ff52c97e456f286263d465",
+            "track_url": "",
+            "id": 8975,
+            "artist": "Mohamed Adaweya"
+        },
+        {
+            "name": "Doaa Ya Rab Ana Badelak",
+            "release_date": "2020-04-26",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738fe5ca49424344471a70dcb9",
+            "track_url": "",
+            "id": 8976,
+            "artist": "Mohamed Adaweya"
+        },
+        {
+            "name": "Doaa Ehfz Bladana",
+            "release_date": "2020-04-26",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733c6d09e01e92a9d3ea250794",
+            "track_url": "",
+            "id": 8977,
+            "artist": "Mohamed Adaweya"
+        },
+        {
+            "name": "Abtal Baldna",
+            "release_date": "2020-04-02",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734b12b326a514210bfcca6d18",
+            "track_url": "",
+            "id": 8978,
+            "artist": "Mohamed Adaweya"
+        },
+        {
+            "name": "Kan Nefsi Aish Fe El Khair",
+            "release_date": "2018-04-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739dd98ca33c70d687f49644f4",
+            "track_url": "",
+            "id": 8979,
+            "artist": "Mohamed Adaweya"
+        },
+        {
+            "name": "Hot Nafsak Makano",
+            "release_date": "2018-04-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b27315cb8595bd3af7ff0e812eb0",
+            "track_url": "",
+            "id": 8980,
+            "artist": "Mohamed Adaweya"
+        },
+        {
+            "name": "Makhtartesh Haga",
+            "release_date": "2018-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273567c1725febff3d9e13b5021",
+            "track_url": "",
+            "id": 8981,
+            "artist": "Mohamed Adaweya"
+        }
+    ],
+    "popular_tracks": [
+        {
+            "name": "Baalo Kam Youm",
+            "track_url": "",
+            "duration_ms": 274559,
+            "image": "https://i.scdn.co/image/ab67616d0000b2731f788e4d0949107b269eaa1d",
+            "id": 8982,
+            "artist": "Mohamed Adaweya"
+        },
+        {
+            "name": "Ana Tagek",
+            "track_url": "",
+            "duration_ms": 258314,
+            "image": "https://i.scdn.co/image/ab67616d0000b2731f788e4d0949107b269eaa1d",
+            "id": 8983,
+            "artist": "Mohamed Adaweya"
+        },
+        {
+            "name": "Makhtartesh Haga",
+            "track_url": "",
+            "duration_ms": 273163,
+            "image": "https://i.scdn.co/image/ab67616d0000b273567c1725febff3d9e13b5021",
+            "id": 8984,
+            "artist": "Mohamed Adaweya"
+        },
+        {
+            "name": "Kan Nefsi Aish Fe El Khair",
+            "track_url": "",
+            "duration_ms": 247562,
+            "image": "https://i.scdn.co/image/ab67616d0000b2739dd98ca33c70d687f49644f4",
+            "id": 8985,
+            "artist": "Mohamed Adaweya"
+        },
+        {
+            "name": "Allelty Men Nafsek",
+            "track_url": "",
+            "duration_ms": 359299,
+            "image": "https://i.scdn.co/image/ab67616d0000b2731f788e4d0949107b269eaa1d",
+            "id": 8986,
+            "artist": "Mohamed Adaweya"
+        },
+        {
+            "name": "Shayef",
+            "track_url": "",
+            "duration_ms": 263786,
+            "image": "https://i.scdn.co/image/ab67616d0000b2731f788e4d0949107b269eaa1d",
+            "id": 8987,
+            "artist": "Mohamed Adaweya"
+        },
+        {
+            "name": "Ay Haga",
+            "track_url": "",
+            "duration_ms": 246060,
+            "image": "https://i.scdn.co/image/ab67616d0000b2731f788e4d0949107b269eaa1d",
+            "id": 8988,
+            "artist": "Mohamed Adaweya"
+        },
+        {
+            "name": "Ya Set El Banat",
+            "track_url": "",
+            "duration_ms": 180900,
+            "image": "https://i.scdn.co/image/ab67616d0000b2731f788e4d0949107b269eaa1d",
+            "id": 8989,
+            "artist": "Mohamed Adaweya"
+        },
+        {
+            "name": "Khat Brayaak",
+            "track_url": "",
+            "duration_ms": 324891,
+            "image": "https://i.scdn.co/image/ab67616d0000b2731f788e4d0949107b269eaa1d",
+            "id": 8990,
+            "artist": "Mohamed Adaweya"
+        },
+        {
+            "name": "Kan Ya Makan",
+            "track_url": "",
+            "duration_ms": 332274,
+            "image": "https://i.scdn.co/image/ab67616d0000b2731f788e4d0949107b269eaa1d",
+            "id": 8991,
+            "artist": "Mohamed Adaweya"
+        }
+    ]
+}

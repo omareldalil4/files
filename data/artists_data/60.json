@@ -1,0 +1,205 @@
+{
+    "artist": {
+        "id": "8317",
+        "name": "Nawal",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebd8670549c746ad0515a9d896",
+        "background_image": "https://i.scdn.co/image/ab67616100005174d8670549c746ad0515a9d896"
+    },
+    "albums": [],
+    "singles": [
+        {
+            "name": "يا خيبتو",
+            "release_date": "2024-05-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b273699be93938ef8cf6b0b3f6ef",
+            "track_url": "",
+            "id": 8318,
+            "artist": "Nawal"
+        },
+        {
+            "name": "خلصانه (من مسلسل فراوله)",
+            "release_date": "2024-04-03",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730009b0e7b5e96d27b5471bc0",
+            "track_url": "",
+            "id": 8319,
+            "artist": "Nawal"
+        },
+        {
+            "name": "انا بلا فخر",
+            "release_date": "2024-02-17",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f49dbdf911ccddd825c430b0",
+            "track_url": "",
+            "id": 8320,
+            "artist": "Nawal"
+        },
+        {
+            "name": "لسه شوفتوا حاجه",
+            "release_date": "2024-01-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a83ede45adceb10135c94875",
+            "track_url": "",
+            "id": 8321,
+            "artist": "Nawal"
+        },
+        {
+            "name": "على كيفي",
+            "release_date": "2023-06-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735d6feb8083484eb0b1ab91e1",
+            "track_url": "",
+            "id": 8322,
+            "artist": "Nawal"
+        },
+        {
+            "name": "بقول للناس كلام",
+            "release_date": "2023-03-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b273fb03b8dac1981a54ed11f511",
+            "track_url": "",
+            "id": 8323,
+            "artist": "Nawal"
+        },
+        {
+            "name": "عينك",
+            "release_date": "2023-01-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b27396471fc3f4b180275cfc5e08",
+            "track_url": "",
+            "id": 8324,
+            "artist": "Nawal"
+        },
+        {
+            "name": "كيوتة",
+            "release_date": "2022-07-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f2020e0c97777a8376a50d77",
+            "track_url": "",
+            "id": 8325,
+            "artist": "Nawal"
+        },
+        {
+            "name": "مخصماك",
+            "release_date": "2022-02-14",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c3d50977465fb0be3457d60b",
+            "track_url": "",
+            "id": 8326,
+            "artist": "Nawal"
+        },
+        {
+            "name": "فضفض",
+            "release_date": "2021-07-13",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f834989755592d601181d2c5",
+            "track_url": "",
+            "id": 8327,
+            "artist": "Nawal"
+        },
+        {
+            "name": "عاشت للحب",
+            "release_date": "2021-02-20",
+            "image": "https://i.scdn.co/image/ab67616d0000b27300c086c3198555f1b4887fd5",
+            "track_url": "",
+            "id": 8328,
+            "artist": "Nawal"
+        },
+        {
+            "name": "عارف بجد",
+            "release_date": "2021-02-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b273986a509dea5835d9b072630c",
+            "track_url": "",
+            "id": 8329,
+            "artist": "Nawal"
+        },
+        {
+            "name": "عد الجمايل",
+            "release_date": "2019-12-20",
+            "image": "https://i.scdn.co/image/ab67616d0000b27374ee28416cff87e5802077ff",
+            "track_url": "",
+            "id": 8330,
+            "artist": "Nawal"
+        },
+        {
+            "name": "بنتي حبيبتي",
+            "release_date": "2019-10-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b6c3c33665cd727deacc5185",
+            "track_url": "",
+            "id": 8331,
+            "artist": "Nawal"
+        }
+    ],
+    "popular_tracks": [
+        {
+            "name": "مخصماك",
+            "track_url": "",
+            "duration_ms": 194769,
+            "image": "https://i.scdn.co/image/ab67616d0000b273c3d50977465fb0be3457d60b",
+            "id": 8332,
+            "artist": "Nawal"
+        },
+        {
+            "name": "لسه شوفتوا حاجه",
+            "track_url": "",
+            "duration_ms": 215000,
+            "image": "https://i.scdn.co/image/ab67616d0000b273a83ede45adceb10135c94875",
+            "id": 8333,
+            "artist": "Nawal"
+        },
+        {
+            "name": "انا بلا فخر",
+            "track_url": "",
+            "duration_ms": 152941,
+            "image": "https://i.scdn.co/image/ab67616d0000b273f49dbdf911ccddd825c430b0",
+            "id": 8334,
+            "artist": "Nawal"
+        },
+        {
+            "name": "يا خيبتو",
+            "track_url": "",
+            "duration_ms": 183143,
+            "image": "https://i.scdn.co/image/ab67616d0000b273699be93938ef8cf6b0b3f6ef",
+            "id": 8335,
+            "artist": "Nawal"
+        },
+        {
+            "name": "على كيفي",
+            "track_url": "",
+            "duration_ms": 186258,
+            "image": "https://i.scdn.co/image/ab67616d0000b2735d6feb8083484eb0b1ab91e1",
+            "id": 8336,
+            "artist": "Nawal"
+        },
+        {
+            "name": "عينك",
+            "track_url": "",
+            "duration_ms": 162725,
+            "image": "https://i.scdn.co/image/ab67616d0000b27396471fc3f4b180275cfc5e08",
+            "id": 8337,
+            "artist": "Nawal"
+        },
+        {
+            "name": "كيوتة",
+            "track_url": "",
+            "duration_ms": 192330,
+            "image": "https://i.scdn.co/image/ab67616d0000b273f2020e0c97777a8376a50d77",
+            "id": 8338,
+            "artist": "Nawal"
+        },
+        {
+            "name": "خلصانه - من مسلسل فراوله",
+            "track_url": "",
+            "duration_ms": 153990,
+            "image": "https://i.scdn.co/image/ab67616d0000b2730009b0e7b5e96d27b5471bc0",
+            "id": 8339,
+            "artist": "Nawal"
+        },
+        {
+            "name": "عارف بجد",
+            "track_url": "",
+            "duration_ms": 239130,
+            "image": "https://i.scdn.co/image/ab67616d0000b273986a509dea5835d9b072630c",
+            "id": 8340,
+            "artist": "Nawal"
+        },
+        {
+            "name": "بنتي حبيبتي",
+            "track_url": "",
+            "duration_ms": 202408,
+            "image": "https://i.scdn.co/image/ab67616d0000b273b6c3c33665cd727deacc5185",
+            "id": 8341,
+            "artist": "Nawal"
+        }
+    ]
+}

@@ -1,0 +1,1470 @@
+{
+    "artist": {
+        "id": "1325",
+        "name": "Ramy Gamal",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebe6f54bd6b2dc38363c8f9448",
+        "background_image": "https://i.scdn.co/image/ab67616100005174b0380dc055255e9416a9c5b3"
+    },
+    "albums": [
+        {
+            "name": "خليني أشوفك",
+            "release_date": "2024-04-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e86cb10736a59a6235abe3e9",
+            "track_url": "https://open.spotify.com/album/5AOlSMT6DqsUBN4tgLiikm",
+            "tracks": [
+                {
+                    "name": "خليني أشوفك",
+                    "track_url": "https://www.dropbox.com/scl/fi/6ktu2k14h8s6sp2ht261k/Albumaty.Com_ramy_gmal_khlyni_ashwfk.mp3?rlkey=ubcsztf94wp2qk5p50ywi1g6n&st=fr4iqdjb&dl=1",
+                    "duration_ms": 192750,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e86cb10736a59a6235abe3e9",
+                    "id": 1327,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "بقول واكدب",
+                    "track_url": "https://www.dropbox.com/scl/fi/nwuqttvb8oyg27epwok5l/Albumaty.Com_ramy_gmal_bkwl_wakdb.mp3?rlkey=g7h9afzckyc7w313nhsb5nhds&st=huv6wauk&dl=1",
+                    "duration_ms": 280975,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e86cb10736a59a6235abe3e9",
+                    "id": 1328,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "بضيع وقت",
+                    "track_url": "https://www.dropbox.com/scl/fi/nsv57y3f76q2a7tntuswu/Albumaty.Com_ramy_gmal_bdya_wkt.mp3?rlkey=bi5rxn5okjlfzjxtqnf2eofbi&st=5gq76xy3&dl=1",
+                    "duration_ms": 228139,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e86cb10736a59a6235abe3e9",
+                    "id": 1329,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "فستانك ابيض",
+                    "track_url": "https://www.dropbox.com/scl/fi/kbd4cp71wbb83i4q4m2hc/Albumaty.Com_ramy_gmal_fstank_abyd.mp3?rlkey=px3hmmflqpsh7detxzmxam18u&st=i5j67h5u&dl=1",
+                    "duration_ms": 198000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e86cb10736a59a6235abe3e9",
+                    "id": 1330,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "اوقات",
+                    "track_url": "https://www.dropbox.com/scl/fi/sllf8hadrdn48em24vl59/Albumaty.Com_ramy_gmal_awkat.mp3?rlkey=r1y8rlnlnkavketme69bhjjqq&st=1dyat57k&dl=1",
+                    "duration_ms": 180000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e86cb10736a59a6235abe3e9",
+                    "id": 1331,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "قلبي خام",
+                    "track_url": "https://www.dropbox.com/scl/fi/k58o5yqyd2ynray5q5cfb/Albumaty.Com_ramy_gmal_klby_kham.mp3?rlkey=odjx2nrzp932jmkg39rcfqn4h&st=59apld7z&dl=1",
+                    "duration_ms": 243396,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e86cb10736a59a6235abe3e9",
+                    "id": 1332,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "اهو",
+                    "track_url": "https://www.dropbox.com/scl/fi/dcl4p782e7f1k4nm3eckn/Albumaty.Com_ramy_gmal_ahw.mp3?rlkey=5bej4lj0ium0e4xbwj357msxd&st=t4pqwu8a&dl=1",
+                    "duration_ms": 159360,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e86cb10736a59a6235abe3e9",
+                    "id": 1333,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "سوء تفاهم",
+                    "track_url": "https://www.dropbox.com/scl/fi/djqwjpfigywzi57wdx45w/Albumaty.Com_ramy_gmal_swa_tfahm.mp3?rlkey=vxf873dzl08umy2wcd3s9uclz&st=vbral34d&dl=1",
+                    "duration_ms": 173076,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e86cb10736a59a6235abe3e9",
+                    "id": 1334,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "بيكلموني",
+                    "track_url": "https://www.dropbox.com/scl/fi/j7entw0mb2xfi777ol0qy/Albumaty.Com_ramy_gmal_byklmwny.mp3?rlkey=qrzqpms3q0tckupy1vozzgytz&st=wugu4dr5&dl=1",
+                    "duration_ms": 316250,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e86cb10736a59a6235abe3e9",
+                    "id": 1335,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "هنسى اسمك",
+                    "track_url": "https://www.dropbox.com/scl/fi/p622ai4p3ed08qoud36yt/Albumaty.Com_ramy_gmal_hnsy_asmk.mp3?rlkey=2o8tclhf84znm8jebeegp8qj2&st=3ull1bmm&dl=1",
+                    "duration_ms": 215624,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e86cb10736a59a6235abe3e9",
+                    "id": 1336,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "ذكريات هوانا",
+                    "track_url": "https://www.dropbox.com/scl/fi/a48grofsqn1tqfp4077c0/Albumaty.Com_ramy_gmal_zkryat_hwana.mp3?rlkey=yzw8c3tx3ezlmx9sxg3aida8u&st=qgucz769&dl=1",
+                    "duration_ms": 264444,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e86cb10736a59a6235abe3e9",
+                    "id": 1337,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "قولى اه",
+                    "track_url": "https://www.dropbox.com/scl/fi/nair9ox55eav0etmkcx3f/Albumaty.Com_ramy_gmal_kwly_ah.mp3?rlkey=td6bji5d5cw6u8a7evzw0w0ba&st=lwnyteci&dl=1",
+                    "duration_ms": 190857,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e86cb10736a59a6235abe3e9",
+                    "id": 1338,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "شاهد الله",
+                    "track_url": "https://www.dropbox.com/scl/fi/6v7zbskxga4c7e22kkxoc/Albumaty.Com_ramy_gmal_shahd_allh.mp3?rlkey=rbeco660j0d0wrfqf3z0hhsop&st=gjht0dh5&dl=1",
+                    "duration_ms": 168620,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e86cb10736a59a6235abe3e9",
+                    "id": 1339,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "انت مين",
+                    "track_url": "https://www.dropbox.com/scl/fi/blukog3u3qvnpzo64t70y/Albumaty.Com_ramy_gmal_ant_myn.mp3?rlkey=36vdf750gfm2ni62lkpwf2fcu&st=nzqic1vu&dl=1",
+                    "duration_ms": 255223,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e86cb10736a59a6235abe3e9",
+                    "id": 1340,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "عادي انساك",
+                    "track_url": "https://www.dropbox.com/scl/fi/i8ve3y6bptif2ftapjr1e/Albumaty.Com_ramy_gmal_aady_ansak.mp3?rlkey=hbc5128bg8sck0y8cm4bxhy82&st=8oh2mc9y&dl=1",
+                    "duration_ms": 227294,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e86cb10736a59a6235abe3e9",
+                    "id": 1341,
+                    "artist": "Ramy Gamal"
+                }
+            ],
+            "id": 1326
+        },
+        {
+            "name": "Yestahel Bostein",
+            "release_date": "2022-08-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b27387636dbef3e53e9cf1cf4c76",
+            "track_url": "https://open.spotify.com/album/2uLzLpqeN8sKUQafQWAEqD",
+            "tracks": [
+                {
+                    "name": "Yestahel Bostein",
+                    "track_url": "https://www.dropbox.com/scl/fi/o99yo97x0033f7a91pz7y/Albumaty.Com_ramy_gmal_ystahl_bwstyn.mp3?rlkey=x3uslkkh1yzl8y31jwwfs74rt&st=mnsn4cte&dl=1",
+                    "duration_ms": 186923,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27387636dbef3e53e9cf1cf4c76",
+                    "id": 1343,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Ba'eit Akhaf",
+                    "track_url": "https://www.dropbox.com/scl/fi/okrcg283uvkbrq6svtu1y/Albumaty.Com_ramy_gmal_bkyt_akhaf.mp3?rlkey=ps7rwzsbn5tmgonize63jc6z3&st=lzkr21uk&dl=1",
+                    "duration_ms": 237000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27387636dbef3e53e9cf1cf4c76",
+                    "id": 1344,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Khaleena A’din",
+                    "track_url": "https://www.dropbox.com/scl/fi/87fpte024k7hbgk1445mv/Albumaty.Com_ramy_gmal_khlyna_kaadyn.mp3?rlkey=vyqwddfkojui1tmrgz7nxvlgr&st=in0makez&dl=1",
+                    "duration_ms": 276792,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27387636dbef3e53e9cf1cf4c76",
+                    "id": 1345,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Mawkef Da’af",
+                    "track_url": "https://www.dropbox.com/scl/fi/fi1v1jv8wylgm5j8rr5he/Albumaty.Com_ramy_gmal_mwkf_daf.mp3?rlkey=nvel8d54tzo3liqde8jw5qy7r&st=jnx26y6l&dl=1",
+                    "duration_ms": 230424,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27387636dbef3e53e9cf1cf4c76",
+                    "id": 1346,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Amar W Mnawar",
+                    "track_url": "https://www.dropbox.com/scl/fi/d6nactx81y5yf5q696lx6/Albumaty.Com_ramy_gmal_kmr_wmnwr.mp3?rlkey=wmawl6bl585fyrgph8vq3ujef&st=gr9t78x8&dl=1",
+                    "duration_ms": 158863,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27387636dbef3e53e9cf1cf4c76",
+                    "id": 1347,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Ana Dala'at",
+                    "track_url": "https://www.dropbox.com/scl/fi/y6lg7i4bewb0zdac6kqe4/Albumaty.Com_ramy_gmal_ana_dlat.mp3?rlkey=3xe7p0ejpixg84z62xbs722zf&st=3ol2448p&dl=1",
+                    "duration_ms": 183333,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27387636dbef3e53e9cf1cf4c76",
+                    "id": 1348,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Meseery Ansak",
+                    "track_url": "https://www.dropbox.com/scl/fi/rpfjhxkifwr5riizbqytr/Albumaty.Com_ramy_gmal_msyry_ansak.mp3?rlkey=oal9b1bzgzewqfh5wq962leax&st=60ddg73w&dl=1",
+                    "duration_ms": 277411,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27387636dbef3e53e9cf1cf4c76",
+                    "id": 1349,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Kalimeeny Showaya Anny",
+                    "track_url": "https://www.dropbox.com/scl/fi/yk28zfuzezk6vutfjbmix/Albumaty.Com_ramy_gmal_klmyny_shwyh_any.mp3?rlkey=o666ceg4tiud0mnoyltadj5ra&st=wctjxd7i&dl=1",
+                    "duration_ms": 265074,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27387636dbef3e53e9cf1cf4c76",
+                    "id": 1350,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Shoft El Haqeeqa",
+                    "track_url": "https://www.dropbox.com/scl/fi/f84ouuyeq5qmieadpzqcl/Albumaty.Com_ramy_gmal_shwft_alhkykt.mp3?rlkey=dj167d0coyw83qvcmh9y1rly0&st=v8enh4vb&dl=1",
+                    "duration_ms": 237272,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27387636dbef3e53e9cf1cf4c76",
+                    "id": 1351,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Adebetna El Donia",
+                    "track_url": "https://www.dropbox.com/scl/fi/33pexjmx0qklhyyz2ot8l/Albumaty.Com_ramy_gmal_adbtna_aldnya.mp3?rlkey=p6rtcbn3q158aelnir624j1nm&st=1ky9djde&dl=1",
+                    "duration_ms": 178214,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27387636dbef3e53e9cf1cf4c76",
+                    "id": 1352,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Fe Gamal Keda",
+                    "track_url": "https://www.dropbox.com/scl/fi/fk9viosamruio72mm43vs/Albumaty.Com_ramy_gmal_fy_gmal_kdh.mp3?rlkey=sjf6rm5yiefi9ekps0w5yvw40&st=ssagfgae&dl=1",
+                    "duration_ms": 250666,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27387636dbef3e53e9cf1cf4c76",
+                    "id": 1353,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Sebna Ba’ad",
+                    "track_url": "https://www.dropbox.com/scl/fi/l5cue9tpiriq036e22olr/Albumaty.Com_ramy_gmal_sybna_bad.mp3?rlkey=7wwatug7tekigasxieq7oprot&st=6fvcq5hh&dl=1",
+                    "duration_ms": 264214,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27387636dbef3e53e9cf1cf4c76",
+                    "id": 1354,
+                    "artist": "Ramy Gamal"
+                }
+            ],
+            "id": 1342
+        },
+        {
+            "name": "W Lessa",
+            "release_date": "2022-02-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735fc29ae78a90a295733805f9",
+            "track_url": "https://open.spotify.com/album/6E1ne0bHftKD55fxH4pJ4K",
+            "tracks": [
+                {
+                    "name": "W Lessa",
+                    "track_url": "https://www.dropbox.com/scl/fi/mqyqsjfzyszxwa8i6mtm4/Albumaty.Com_ramy_gmal_wlsh.mp3?rlkey=x2jkhgyijar7nozmtdhiuvlkl&st=wq8ivawe&dl=1",
+                    "duration_ms": 279000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735fc29ae78a90a295733805f9",
+                    "id": 1356,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Mabtkbareesh",
+                    "track_url": "https://www.dropbox.com/scl/fi/vjmdmfdtiqxa8pkbqlimh/Albumaty.Com_ramy_gmal_mbtkbrysh.mp3?rlkey=08amvh642c0jvvnr58zlq73vh&st=1jxn4nw5&dl=1",
+                    "duration_ms": 244000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735fc29ae78a90a295733805f9",
+                    "id": 1357,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Deeiah Wahda",
+                    "track_url": "https://www.dropbox.com/scl/fi/fbozcnkg8s7ye9qfbqrwu/Albumaty.Com_ramy_gmal_dkykt_wahdh.mp3?rlkey=nci04zj8xginpblaj6nr0ct09&st=ey63dvon&dl=1",
+                    "duration_ms": 230943,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735fc29ae78a90a295733805f9",
+                    "id": 1358,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Ellet El Ehsas",
+                    "track_url": "https://www.dropbox.com/scl/fi/1t57wzusktg3z9d55vqaf/Albumaty.Com_ramy_gmal_klt_alahsas.mp3?rlkey=lcadh2olg03o0somack3hj59q&st=tmno0z5h&dl=1",
+                    "duration_ms": 221538,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735fc29ae78a90a295733805f9",
+                    "id": 1359,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Kona Momken Netefeq",
+                    "track_url": "https://www.dropbox.com/scl/fi/2tzk9bm71dh8v2dciptjz/Albumaty.Com_ramy_gmal_kna_mmkn_ntfk.mp3?rlkey=5dy3km3x86pq2twv50j1cmfp2&st=xcq5urty&dl=1",
+                    "duration_ms": 286363,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735fc29ae78a90a295733805f9",
+                    "id": 1360,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Khaleeky",
+                    "track_url": "https://www.dropbox.com/scl/fi/gg2bwgo1c6ietoav09qhi/Albumaty.Com_ramy_gmal_khlyky.mp3?rlkey=vqp6mnyokq88fw0akj0sthv94&st=9zvotvky&dl=1",
+                    "duration_ms": 244895,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735fc29ae78a90a295733805f9",
+                    "id": 1361,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Lessa El Kalam Zaalan",
+                    "track_url": "https://www.dropbox.com/scl/fi/drt26vjk6y1smd95fq85a/Albumaty.Com_ramy_gmal_lsh_alklam_zalan.mp3?rlkey=tanhqun7mhxta4gma44jir42b&st=1ngn528h&dl=1",
+                    "duration_ms": 275820,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735fc29ae78a90a295733805f9",
+                    "id": 1362,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Fe Ghamdet Ein",
+                    "track_url": "https://www.dropbox.com/scl/fi/p7z4y58ox3kwagw01cpcq/Albumaty.Com_ramy_gmal_fy_ghmdt_ayn.mp3?rlkey=3u9jcnyplnds7pfb5x2h2qt03&st=3b1r9stj&dl=1",
+                    "duration_ms": 205813,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735fc29ae78a90a295733805f9",
+                    "id": 1363,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "El Gaw Gamed",
+                    "track_url": "https://www.dropbox.com/scl/fi/4ajdh268fpj42d7i9y9y4/Albumaty.Com_ramy_gmal_algw_gamd.mp3?rlkey=s05tezplnrn1ims628kxit6iy&st=d2f2qwsh&dl=1",
+                    "duration_ms": 227826,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735fc29ae78a90a295733805f9",
+                    "id": 1364,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Mish Habayib",
+                    "track_url": "https://www.dropbox.com/scl/fi/eho2v462s1yotj1ugnk7c/Albumaty.Com_ramy_gmal_msh_hbayb.mp3?rlkey=d3gw0lh76zyyufpttwj8xik2n&st=p4w1w5sz&dl=1",
+                    "duration_ms": 201000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735fc29ae78a90a295733805f9",
+                    "id": 1365,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Hekayat Gameela",
+                    "track_url": "https://www.dropbox.com/scl/fi/ua4dctchuttls8tdtltuh/Albumaty.Com_ramy_gmal_hkayat_gmylt.mp3?rlkey=ubwpmgoc709gep14s7j5ytj36&st=5vne5j9f&dl=1",
+                    "duration_ms": 244954,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735fc29ae78a90a295733805f9",
+                    "id": 1366,
+                    "artist": "Ramy Gamal"
+                }
+            ],
+            "id": 1355
+        },
+        {
+            "name": "Ana Lewahdy",
+            "release_date": "2020-02-16",
+            "image": "https://i.scdn.co/image/ab67616d0000b27363fb2002c65b0d0d43e38f5a",
+            "track_url": "https://open.spotify.com/album/5kCjElMfWpyzsb0NulgnAW",
+            "tracks": [
+                {
+                    "name": "Adef Ya Marakby",
+                    "track_url": "https://www.dropbox.com/scl/fi/bjm40ckrqmuqh8gis52qt/09-Adef.Ya.Marakby-MaTb3aa.Com.mp3?rlkey=u5iqoibvbrgoitqzjcfcznwhj&st=q178bhp1&dl=1",
+                    "duration_ms": 234626,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27363fb2002c65b0d0d43e38f5a",
+                    "id": 1368,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Ana Lewahdy",
+                    "track_url": "https://www.dropbox.com/scl/fi/iy33ku52qqibutgkhlold/10-Ana.Lewahdy-MaTb3aa.Com.mp3?rlkey=0p3a4483crzary1s3wgvtuabu&st=wxa27n2l&dl=1",
+                    "duration_ms": 294285,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27363fb2002c65b0d0d43e38f5a",
+                    "id": 1369,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Ba’ad Ma Agheeb",
+                    "track_url": "https://www.dropbox.com/scl/fi/gv7oan29m891unfthzn71/07-Baad.Ma.Agheeb-MaTb3aa.Com.mp3?rlkey=b4pphx83hwmxxwlhvl31l1xzh&st=b3fc988r&dl=1",
+                    "duration_ms": 195264,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27363fb2002c65b0d0d43e38f5a",
+                    "id": 1370,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Elly Meshio",
+                    "track_url": "https://www.dropbox.com/scl/fi/0w92cwvpm4f9z5l22g623/11-Elly.Meshio-MaTb3aa.Com.mp3?rlkey=7grt5813cei8v4dans47ie7vh&st=16bv4fuo&dl=1",
+                    "duration_ms": 305713,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27363fb2002c65b0d0d43e38f5a",
+                    "id": 1371,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Estaghneit",
+                    "track_url": "https://www.dropbox.com/scl/fi/o5ht49bq9mv00vg4c66vu/04-Estaghneit-MaTb3aa.Com.mp3?rlkey=yqtzf6ionaa2qg8aqmdl1epzu&st=riy7plml&dl=1",
+                    "duration_ms": 188697,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27363fb2002c65b0d0d43e38f5a",
+                    "id": 1372,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Fahmany",
+                    "track_url": "https://www.dropbox.com/scl/fi/kkh2ggx289qk8f2ky3xuj/05-Fahmany-MaTb3aa.Com.mp3?rlkey=z89qkg82aq4lvm5lju24atrxx&st=j0gvvhji&dl=1",
+                    "duration_ms": 242666,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27363fb2002c65b0d0d43e38f5a",
+                    "id": 1373,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Fekret El-Metsab",
+                    "track_url": "https://www.dropbox.com/scl/fi/kbuh6q5fcyn5araxbpkah/06-Fekret.ElMetsab-MaTb3aa.Com.mp3?rlkey=6kg2cs7qktzpyeqi7ge6pbc6u&st=5ewe6cx2&dl=1",
+                    "duration_ms": 243691,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27363fb2002c65b0d0d43e38f5a",
+                    "id": 1374,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Law A’al Nesyan",
+                    "track_url": "https://www.dropbox.com/scl/fi/0hg11rj5qtrun1esxfcye/12-Law.Aal.Nesyan-MaTb3aa.Com.mp3?rlkey=xlli6pw8uo9as35qo07dvzeol&st=0xx09qz4&dl=1",
+                    "duration_ms": 271058,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27363fb2002c65b0d0d43e38f5a",
+                    "id": 1375,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Le Albak Salam",
+                    "track_url": "https://www.dropbox.com/scl/fi/qtjn8aov2yy8pjs17oswp/03-Leqalbk.Salam-MaTb3aa.Com.mp3?rlkey=cqz8wt5a680bpqdddj3mddo7s&st=vyfdkhm3&dl=1",
+                    "duration_ms": 250908,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27363fb2002c65b0d0d43e38f5a",
+                    "id": 1376,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Maghertesh",
+                    "track_url": "https://www.dropbox.com/scl/fi/whlxg2s7d3o09azi9ellj/13-Maghertesh-MaTb3aa.Com.mp3?rlkey=0h549t5vy4kyiy9qv96i2jsjx&st=f4x8x0f0&dl=1",
+                    "duration_ms": 261456,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27363fb2002c65b0d0d43e38f5a",
+                    "id": 1377,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Meen Gheirak Fe El-Alb",
+                    "track_url": "https://www.dropbox.com/scl/fi/05vre89jjg4vfvczqg78z/14-Meen.Gheirak.Fe.El-Alb-MaTb3aa.Com.mp3?rlkey=ukieor3ssjrwgbqi6vkfiq5c1&st=scuwjdz0&dl=1",
+                    "duration_ms": 266808,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27363fb2002c65b0d0d43e38f5a",
+                    "id": 1378,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Msh Melahez Haga",
+                    "track_url": "https://www.dropbox.com/scl/fi/t85wcs4fwtlbf8q7kntv9/08-Mish.Melahez.Haga-MaTb3aa.Com.mp3?rlkey=0pw6z7mfdoi5mugcvfgfxb4ar&st=ijb9rmoh&dl=1",
+                    "duration_ms": 272561,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27363fb2002c65b0d0d43e38f5a",
+                    "id": 1379,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Oyounak Khatar",
+                    "track_url": "https://www.dropbox.com/scl/fi/9r7gl8af51ep293lpn7pn/15-Oyounak.Khatar-MaTb3aa.Com.mp3?rlkey=mdq8u1sb6rz6cufk0r0oeuwcb&st=xz4mh9pw&dl=1",
+                    "duration_ms": 262956,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27363fb2002c65b0d0d43e38f5a",
+                    "id": 1380,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Beehom Kolohom",
+                    "track_url": "https://www.dropbox.com/scl/fi/dy66vfxxceua5yl3eqv6a/02-Behom.Kolohom-MaTb3aa.Com.mp3?rlkey=n3aijhvfrz760vfepr55lh08z&st=7od1wyuq&dl=1",
+                    "duration_ms": 228570,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27363fb2002c65b0d0d43e38f5a",
+                    "id": 1381,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Sa'af",
+                    "track_url": "https://www.dropbox.com/scl/fi/ss37n25iqxmqqcde52usv/01-Saaf-Ramy.Gamal-MaTb3aa.Com.mp3?rlkey=zbf0vvgv1n6sjymri79l7s0ra&st=c725b5in&dl=1",
+                    "duration_ms": 216666,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27363fb2002c65b0d0d43e38f5a",
+                    "id": 1382,
+                    "artist": "Ramy Gamal"
+                }
+            ],
+            "id": 1367
+        },
+        {
+            "name": "Layalina",
+            "release_date": "2018-07-27",
+            "image": "https://i.scdn.co/image/ab67616d0000b273611b8b31d23fcc43e1451395",
+            "track_url": "https://open.spotify.com/album/0IS5I08Uw4cVS3f84n2WlO",
+            "tracks": [
+                {
+                    "name": "Layalina",
+                    "track_url": "https://www.dropbox.com/scl/fi/eufdr9hrd54k56mmnvwe5/05-Layalina-MaTb3aa.Com.mp3?rlkey=p8xe5jxwyhxsknve0pmmd3n89&st=1ywhewwp&dl=1",
+                    "duration_ms": 292896,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273611b8b31d23fcc43e1451395",
+                    "id": 1384,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Rah Le Halo",
+                    "track_url": "https://www.dropbox.com/scl/fi/xbrd1s6oigr9nxj5uzmo1/07-Rah.Le.Halo-MaTb3aa.Com.mp3?rlkey=32g9mztw6sn82mpgajesoe7l5&st=tz2vyywh&dl=1",
+                    "duration_ms": 234107,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273611b8b31d23fcc43e1451395",
+                    "id": 1385,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Di El Oyoun",
+                    "track_url": "https://www.dropbox.com/scl/fi/0qo4924z8r94op4u7lepi/09-Di.ElOyoun-MaTb3aa.Com.mp3?rlkey=dlsk8qhrjzbzb3d4v85dgvz1p&st=8xq6as69&dl=1",
+                    "duration_ms": 262179,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273611b8b31d23fcc43e1451395",
+                    "id": 1386,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Fou’",
+                    "track_url": "https://www.dropbox.com/scl/fi/f6scg65bfhfu9ljr8j6uz/10-Fou2-MaTb3aa.Com.mp3?rlkey=owt24vzwdtq78q7m2fufp6h94&st=ol3hcbrn&dl=1",
+                    "duration_ms": 238652,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273611b8b31d23fcc43e1451395",
+                    "id": 1387,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Min Kiteer",
+                    "track_url": "https://www.dropbox.com/scl/fi/29d8x7fukcs6vl3xpwhbp/15-Min.Kiteer-MaTb3aa.Com.mp3?rlkey=yk3tqfnv4b06wtqf9pqzbjj5o&st=6k2mvebn&dl=1",
+                    "duration_ms": 296700,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273611b8b31d23fcc43e1451395",
+                    "id": 1388,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Mesh Kefaya",
+                    "track_url": "https://www.dropbox.com/scl/fi/idv94s861au6q1p3dj3l8/14-Mesh.Kefaya-MaTb3aa.Com.mp3?rlkey=33ftgdppx0t1ebdctilhq08p6&st=4nbxjw4g&dl=1",
+                    "duration_ms": 336307,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273611b8b31d23fcc43e1451395",
+                    "id": 1389,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "El Nazra El Oula",
+                    "track_url": "https://www.dropbox.com/scl/fi/tjw195h6wl7l4zmm1szt6/03-ElNazra.ElOola-MaTb3aa.Com.mp3?rlkey=p8nexsitu9bar5vjtucyol2wo&st=j07ehb4o&dl=1",
+                    "duration_ms": 230700,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273611b8b31d23fcc43e1451395",
+                    "id": 1390,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Garabt Ansak",
+                    "track_url": "https://www.dropbox.com/scl/fi/99ysehv2l9jea1u02tjnu/11-Garabt.Ansak-MaTb3aa.Com.mp3?rlkey=5jj09zi69849qv7d5pq4wbnty&st=btuo1hae&dl=1",
+                    "duration_ms": 267827,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273611b8b31d23fcc43e1451395",
+                    "id": 1391,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Rabateeny",
+                    "track_url": "https://www.dropbox.com/scl/fi/0cbzuaxnct15ctxhlkwwx/16-Rabateeny-MaTb3aa.Com.mp3?rlkey=ocj9v0218igoiza3k6tzoclmq&st=gp5g0jy7&dl=1",
+                    "duration_ms": 234283,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273611b8b31d23fcc43e1451395",
+                    "id": 1392,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Ansaha Leh",
+                    "track_url": "https://www.dropbox.com/scl/fi/vbh3787bwgx2mfcuovlas/18-Ansaha.Leh-MaTb3aa.Com.mp3?rlkey=t7zuc4laow5v1yrcinjv3wbm8&st=4cvk5wjl&dl=1",
+                    "duration_ms": 237035,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273611b8b31d23fcc43e1451395",
+                    "id": 1393,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Matezlimnish",
+                    "track_url": "https://www.dropbox.com/scl/fi/jg9sid78h9glnvgmb4787/06-Matezlimneesh-MaTb3aa.Com.mp3?rlkey=mxpde7hd8wwk2pg3acw8xp7jq&st=b2rcieoa&dl=1",
+                    "duration_ms": 295241,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273611b8b31d23fcc43e1451395",
+                    "id": 1394,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Bahawel Ansak",
+                    "track_url": "https://www.dropbox.com/scl/fi/kynhcy5ca35vfsl1bgsg3/02-Bahawel.Ansaky-MaTb3aa.Com.mp3?rlkey=fdcm54dzk2v3irrv3xohi1nms&st=1ueifjop&dl=1",
+                    "duration_ms": 290094,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273611b8b31d23fcc43e1451395",
+                    "id": 1395,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Lola",
+                    "track_url": "https://www.dropbox.com/scl/fi/iyqgg8fk3ft2fh2yrim2d/12-Lola-MaTb3aa.Com.mp3?rlkey=pie2xlb92e030at4v8karl6mv&st=ossz6mvq&dl=1",
+                    "duration_ms": 201714,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273611b8b31d23fcc43e1451395",
+                    "id": 1396,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Hakhonik",
+                    "track_url": "https://www.dropbox.com/scl/fi/fgp3jpfxwr98uw1etcghj/04-Hakhoonek-MaTb3aa.Com.mp3?rlkey=r32jwm6qt1j518dqev1kjiy0l&st=cs2svpdl&dl=1",
+                    "duration_ms": 239258,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273611b8b31d23fcc43e1451395",
+                    "id": 1397,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Matkalimnash",
+                    "track_url": "https://www.dropbox.com/scl/fi/yxr7p1b2yvssqdhbpakp6/13-Matkalimnash-MaTb3aa.Com.mp3?rlkey=hw3juwfhlk1znzphjcrcul02x&st=opswf63o&dl=1",
+                    "duration_ms": 258391,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273611b8b31d23fcc43e1451395",
+                    "id": 1398,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Te’eshy Leya",
+                    "track_url": "https://www.dropbox.com/scl/fi/h89hvznutpxwxsm7x4rrf/17-Teeshy.Leya-MaTb3aa.Com.mp3?rlkey=f4k6pj7l31tzq1zx7wsulnyu1&st=tr9nwo9q&dl=1",
+                    "duration_ms": 220171,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273611b8b31d23fcc43e1451395",
+                    "id": 1399,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Mafeesh Menha",
+                    "track_url": "https://www.dropbox.com/scl/fi/evlnia6s4zr3a0ey7plr1/01-Mafeesh.Menha-MaTb3aa.Com.mp3?rlkey=4tpnj9wzxs4hrqmswsuaiz56z&st=5s6xp25k&dl=1",
+                    "duration_ms": 265200,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273611b8b31d23fcc43e1451395",
+                    "id": 1400,
+                    "artist": "Ramy Gamal"
+                }
+            ],
+            "id": 1383
+        },
+        {
+            "name": "Malnash Ella Baa'd",
+            "release_date": "2016-07-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736fc716c59f4a59daa2f1e961",
+            "track_url": "https://open.spotify.com/album/2awZZLm4Qk6UQm2fgwqrys",
+            "tracks": [
+                {
+                    "name": "Ew'ediny",
+                    "track_url": "https://www.dropbox.com/scl/fi/djljaz9g5efrvtumdzf4o/01_-_Ewediny.mp3?rlkey=l3gr9ff04spefte8vq3p966qf&st=mbx5awx5&dl=1",
+                    "duration_ms": 343376,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736fc716c59f4a59daa2f1e961",
+                    "id": 1402,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Malnash Ella Baa'd",
+                    "track_url": "https://www.dropbox.com/scl/fi/b96eqngr2jkrt41gzs3lu/02_-_Malnash_Ella_Baad.mp3?rlkey=kx87lfx2ocb088mawll4mb446&st=danohycw&dl=1",
+                    "duration_ms": 246054,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736fc716c59f4a59daa2f1e961",
+                    "id": 1403,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Matenseesh",
+                    "track_url": "https://www.dropbox.com/scl/fi/ijz65e5q0zjr5fya4crf7/03_-_Matensish.mp3?rlkey=shcfgzhidnqahohgo5sbkinvj&st=prx22772&dl=1",
+                    "duration_ms": 284705,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736fc716c59f4a59daa2f1e961",
+                    "id": 1404,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Taa'alaly",
+                    "track_url": "https://www.dropbox.com/scl/fi/zrtovm14anlfzkdt0xi25/04_-_Taaalaly.mp3?rlkey=qjn2kpphyockjrtwj5gdsgmwu&st=wvzvxp6o&dl=1",
+                    "duration_ms": 251980,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736fc716c59f4a59daa2f1e961",
+                    "id": 1405,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Khasemna Baa'd",
+                    "track_url": "https://www.dropbox.com/scl/fi/68rnluk4focw5uww3uy24/05_-_Khasemna_Baad.mp3?rlkey=d9gxdlx5eq36fkeu6ackcghso&st=xeklj1ny&dl=1",
+                    "duration_ms": 244719,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736fc716c59f4a59daa2f1e961",
+                    "id": 1406,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Ezay Hanergaa'",
+                    "track_url": "https://www.dropbox.com/scl/fi/56ppzwn8myk0aga4twjyg/06_-_Ezay_Hanergaa.mp3?rlkey=7hu5zs6mkkwg01ev9g0nqiacg&st=vjnfn8rw&dl=1",
+                    "duration_ms": 255557,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736fc716c59f4a59daa2f1e961",
+                    "id": 1407,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Halla Halla",
+                    "track_url": "https://www.dropbox.com/scl/fi/byutmumf2gbh6dff0x3ja/07_-_Halla_Halla.mp3?rlkey=umb3z1cfr5ggfh5sxus3x32fw&st=doz0vrhd&dl=1",
+                    "duration_ms": 205214,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736fc716c59f4a59daa2f1e961",
+                    "id": 1408,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Ya Alby",
+                    "track_url": "https://www.dropbox.com/scl/fi/d6n8ox8ot5cqhrpql7tqx/08_-_Ya_Alby.mp3?rlkey=kptlc7nggvqjs4vffsj3dnqm0&st=4nkmt9sx&dl=1",
+                    "duration_ms": 217602,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736fc716c59f4a59daa2f1e961",
+                    "id": 1409,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "El Nadam",
+                    "track_url": "https://www.dropbox.com/scl/fi/unana0v7rpyfzwc1vb1qo/09_-_El_Nadam.mp3?rlkey=7s5nn28l01ovrwwiaqrfddj2c&st=wkcg16ip&dl=1",
+                    "duration_ms": 230472,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736fc716c59f4a59daa2f1e961",
+                    "id": 1410,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Earefto Leh",
+                    "track_url": "https://www.dropbox.com/scl/fi/144em8iahzci8hib5stbu/10_-_Erefto_Leh.mp3?rlkey=ysg7zi7g2618pzhwaknduhfkw&st=g9zgfyd0&dl=1",
+                    "duration_ms": 321168,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736fc716c59f4a59daa2f1e961",
+                    "id": 1411,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Mat Elly Fat",
+                    "track_url": "https://www.dropbox.com/scl/fi/31z4qc8cdj4dlmitzwjrp/11_-_Mat_Elly_Fat.mp3?rlkey=njkjekwgn1tl3zqt3r0y8dshh&st=fllql0xb&dl=1",
+                    "duration_ms": 216852,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736fc716c59f4a59daa2f1e961",
+                    "id": 1412,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Habiby Taala",
+                    "track_url": "https://www.dropbox.com/scl/fi/7tftzhzhyyszde5k9n4wz/12_-_Habiby_Taala.mp3?rlkey=1qro5ehya9jmqrpv0m1ergixs&st=jx18dixx&dl=1",
+                    "duration_ms": 234683,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736fc716c59f4a59daa2f1e961",
+                    "id": 1413,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Alamet Estefham",
+                    "track_url": "https://www.dropbox.com/scl/fi/uvx28vp4fiuvio5706v1e/13_-_Alamet_Estefham.mp3?rlkey=oqeomnr76039402stxgwdh5jh&st=qagynknb&dl=1",
+                    "duration_ms": 282396,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736fc716c59f4a59daa2f1e961",
+                    "id": 1414,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Far' Fi Hayaty",
+                    "track_url": "https://www.dropbox.com/scl/fi/toztw0qfax93omw2jnc2i/14_-_Faraa_Fi_Hayaty.mp3?rlkey=h8ivkk9a47ta0hh99265nkq4r&st=cv4bcwgq&dl=1",
+                    "duration_ms": 267889,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736fc716c59f4a59daa2f1e961",
+                    "id": 1415,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Di'eft",
+                    "track_url": "https://www.dropbox.com/scl/fi/fr76i6t252r5mkgmqmrnw/15_-_Dieft.mp3?rlkey=0av9fufdube73rlzzebv1mm4p&st=5vlqorrq&dl=1",
+                    "duration_ms": 248136,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736fc716c59f4a59daa2f1e961",
+                    "id": 1416,
+                    "artist": "Ramy Gamal"
+                }
+            ],
+            "id": 1401
+        },
+        {
+            "name": "Fatra Msh Sahla",
+            "release_date": "2013-10-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b273835ee7b592b5eff5093105ca",
+            "track_url": "https://open.spotify.com/album/6c60WJ9BBza4OTMCeRE8uK",
+            "tracks": [
+                {
+                    "name": "Ensaha We Ertah",
+                    "track_url": "https://www.dropbox.com/scl/fi/uzm0dd66j4gcen2m8uf55/01.Ensaha_we_Ertah.mp3?rlkey=n3jd4me80bsy8v2tgp795q7kr&st=1c77in6e&dl=1",
+                    "duration_ms": 255085,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273835ee7b592b5eff5093105ca",
+                    "id": 1434,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Fatra Mesh Sahla",
+                    "track_url": "https://www.dropbox.com/scl/fi/okprc6px14i941g6y5ayq/02._Fatra_Mesh_Sahla.mp3?rlkey=s1clga4std8wfmt91g4ss5atw&st=0z4mroyl&dl=1",
+                    "duration_ms": 250409,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273835ee7b592b5eff5093105ca",
+                    "id": 1435,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Alby Melk Leek",
+                    "track_url": "https://www.dropbox.com/scl/fi/f4lrcyuwmbmn48dn2btmq/03.Alby_Melk_Leek.mp3?rlkey=03trrvimz8nz75wbkbr1u4c6b&st=s8hifcl2&dl=1",
+                    "duration_ms": 285701,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273835ee7b592b5eff5093105ca",
+                    "id": 1436,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Sahranalak Oyoni",
+                    "track_url": "https://www.dropbox.com/scl/fi/y9j8cdp3wpxpn38dltwpd/04.Sahranalak_Oyony.mp3?rlkey=q6fmriwvxjncz5hpoq65d62b7&st=rmou3f1f&dl=1",
+                    "duration_ms": 261093,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273835ee7b592b5eff5093105ca",
+                    "id": 1437,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Odet Zanb",
+                    "track_url": "https://www.dropbox.com/scl/fi/ynh5ijy855qtqkcvcwzx7/05.Oodet_Zanb.mp3?rlkey=hhhrzh6oq7tsnblrxuzzc304w&st=91k1342j&dl=1",
+                    "duration_ms": 207516,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273835ee7b592b5eff5093105ca",
+                    "id": 1438,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Hekayet Roh",
+                    "track_url": "https://www.dropbox.com/scl/fi/8ac99m6idz8wxsgiyp6rb/06.Hekayet_Roh.mp3?rlkey=axtruiu3wqdji6pzjmtawhxlu&st=ttvy46yp&dl=1",
+                    "duration_ms": 356153,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273835ee7b592b5eff5093105ca",
+                    "id": 1439,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Zay El-Shams",
+                    "track_url": "https://www.dropbox.com/scl/fi/gz0ok6dxc15sz5zxh1bya/07.Zay_El-Shams.mp3?rlkey=gzxjz0jjesi4wh7w0j2br0ehj&st=05fsrw54&dl=1",
+                    "duration_ms": 270236,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273835ee7b592b5eff5093105ca",
+                    "id": 1440,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Farhan Beshakl",
+                    "track_url": "https://www.dropbox.com/scl/fi/kuq59f2tgxk6o05jl215q/08.Farhan_Beshakl.mp3?rlkey=ft1zi9rumto78edxq96ngxcn5&st=cihllkfa&dl=1",
+                    "duration_ms": 273763,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273835ee7b592b5eff5093105ca",
+                    "id": 1441,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Amal Yeegy Alaya",
+                    "track_url": "https://www.dropbox.com/scl/fi/360t5l6pgi04zll1m14xs/09.Ammal_Yeegy_Allaya.mp3?rlkey=zf44a06zq9lu1oasm9xegyl39&st=0uaq96lk&dl=1",
+                    "duration_ms": 248790,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273835ee7b592b5eff5093105ca",
+                    "id": 1442,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Wahsheen Baad",
+                    "track_url": "https://www.dropbox.com/scl/fi/18zzkmqdjpujpid5j66p5/10.Wahsheen_Baad.mp3?rlkey=ios178vljqo7svbr9qqrggp7n&st=3rveq1z3&dl=1",
+                    "duration_ms": 178285,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273835ee7b592b5eff5093105ca",
+                    "id": 1443,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Matetmaneesh",
+                    "track_url": "https://www.dropbox.com/scl/fi/ahnszl441t1dmd4ob6j45/11.Matetmaneesh.mp3?rlkey=o1k2bbsaqj5sz916utm6qhfvc&st=qii2sag7&dl=1",
+                    "duration_ms": 216528,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273835ee7b592b5eff5093105ca",
+                    "id": 1444,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Bekelmetein",
+                    "track_url": "https://www.dropbox.com/scl/fi/i5uyo7awovsa5fk76n3jn/12.Bekelmetein.mp3?rlkey=piecm15l8wu61hq2k06xi2wz5&st=esruh1gs&dl=1",
+                    "duration_ms": 238080,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273835ee7b592b5eff5093105ca",
+                    "id": 1445,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Gat Saleema",
+                    "track_url": "https://www.dropbox.com/scl/fi/ahs98uur7pmdkn93eooka/13.Gat_Saleema.mp3?rlkey=miw4srelf326lz4qx9b8l6f0c&st=h109f47b&dl=1",
+                    "duration_ms": 263601,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273835ee7b592b5eff5093105ca",
+                    "id": 1446,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Teady Seneen",
+                    "track_url": "https://www.dropbox.com/scl/fi/mlcqqv6v09prn1mfbd87u/14.Teaddy_Seneen.mp3?rlkey=t1nyp21oeltbwyd926xnf5dud&st=15o7et5h&dl=1",
+                    "duration_ms": 258194,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273835ee7b592b5eff5093105ca",
+                    "id": 1447,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Mata'alemnash",
+                    "track_url": "https://www.dropbox.com/scl/fi/53ztwdp6dtb5px9u8g3uu/15.Mataalemnash.mp3?rlkey=4eb3iq5ryt32hhlz7c18s5mr8&st=qwysqoss&dl=1",
+                    "duration_ms": 102138,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273835ee7b592b5eff5093105ca",
+                    "id": 1448,
+                    "artist": "Ramy Gamal"
+                }
+            ],
+            "id": 1433
+        },
+        {
+            "name": "Malish Daawa Behad",
+            "release_date": "2011-01-26",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735a2fd635ed33bc09522e97fe",
+            "track_url": "https://open.spotify.com/album/0ecrWPvRpBov0cjMmysvQF",
+            "tracks": [
+                {
+                    "name": "Odamy",
+                    "track_url": "https://www.dropbox.com/scl/fi/w6y73o7qavrkzsxqq8sae/01-Odamy-MaTb3aa.Com.mp3?rlkey=j53ueey5mp4gypaewzc00suvj&st=fwkegywd&dl=1",
+                    "duration_ms": 299960,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735a2fd635ed33bc09522e97fe",
+                    "id": 1450,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Mafadsh Beya",
+                    "track_url": "https://www.dropbox.com/scl/fi/1k1froerf6121ggbtf1lk/11-Mfadshy.Bya-MaTb3aa.Com.mp3?rlkey=nc2wrupclmk8tnwlcwooykqcb&st=bq0fkz7o&dl=1",
+                    "duration_ms": 307120,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735a2fd635ed33bc09522e97fe",
+                    "id": 1451,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Mesh Kadab",
+                    "track_url": "https://www.dropbox.com/scl/fi/xy7gi8b3svu1mjy70x9tz/10-Mesh.Kdab-MaTb3aa.Com.mp3?rlkey=oiis1tzyymx2cxcz569ifv980&st=kqytg1ub&dl=1",
+                    "duration_ms": 261506,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735a2fd635ed33bc09522e97fe",
+                    "id": 1452,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Nadeely",
+                    "track_url": "https://www.dropbox.com/scl/fi/g8khmr0aa1qc7ma6mywb4/12-Nadely-MaTb3aa.Com.mp3?rlkey=k9xdvljx87t9g5jxl2l6njm2m&st=lfg43cgw&dl=1",
+                    "duration_ms": 281533,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735a2fd635ed33bc09522e97fe",
+                    "id": 1453,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Hasal Kheir",
+                    "track_url": "https://www.dropbox.com/scl/fi/2xw8bj1gmyhtwgybkm7yr/02-Hasl.5eer-MaTb3aa.Com.mp3?rlkey=ly6roprka5eiv5wzo9xghoaok&st=ff2eny3j&dl=1",
+                    "duration_ms": 186026,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735a2fd635ed33bc09522e97fe",
+                    "id": 1454,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Foat Metaakhar",
+                    "track_url": "https://www.dropbox.com/scl/fi/biyhlkydb7smhk44a3p1e/04-Fo2t.Meta5r-MaTb3aa.Com.mp3?rlkey=pks2h3kty7k8uiptpjhng8udw&st=97ivqbyp&dl=1",
+                    "duration_ms": 317546,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735a2fd635ed33bc09522e97fe",
+                    "id": 1455,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Hakhaf Men Eih",
+                    "track_url": "https://www.dropbox.com/scl/fi/9tfekqdb0jf7oc5k921fh/06-H5af.Men.Eyh-MaTb3aa.Com.mp3?rlkey=xh142kofb851gmcs0f5xhazcv&st=4t2c3mkc&dl=1",
+                    "duration_ms": 260760,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735a2fd635ed33bc09522e97fe",
+                    "id": 1456,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Hatefrea Eih",
+                    "track_url": "https://www.dropbox.com/scl/fi/v3nvvs9cf9b2pijrun9q1/07-Hatfr2.Eyh-MaTb3aa.Com.mp3?rlkey=d2y535jvxq5f5l1x7wkk4tndt&st=qa3l3u3i&dl=1",
+                    "duration_ms": 230760,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735a2fd635ed33bc09522e97fe",
+                    "id": 1457,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Yekhalik Leya",
+                    "track_url": "https://www.dropbox.com/scl/fi/hz8ywfaz7ffvj0yhm0rcr/13-Ye5lek.Leya-MaTb3aa.Com.mp3?rlkey=7gid85wf6mgc13qqi73pfrasw&st=u4uipdu4&dl=1",
+                    "duration_ms": 203493,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735a2fd635ed33bc09522e97fe",
+                    "id": 1458,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Etfadal Emshy",
+                    "track_url": "https://www.dropbox.com/scl/fi/t7kssewz4gf7pn6renqal/03-Etfadl.Emshy-MaTb3aa.Com.mp3?rlkey=j4q6iqdv7zs59u1or3aikkeln&st=iksb4qbj&dl=1",
+                    "duration_ms": 273240,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735a2fd635ed33bc09522e97fe",
+                    "id": 1459,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Mesh Be Mazagak",
+                    "track_url": "https://www.dropbox.com/scl/fi/d3mfgk52bpzf0x4ahagaz/09-Mesh.Bemzagk-MaTb3aa.Com.mp3?rlkey=jow5knngg7i3jd7d20hpgna0i&st=118nhvtq&dl=1",
+                    "duration_ms": 221893,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735a2fd635ed33bc09522e97fe",
+                    "id": 1460,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Getlak",
+                    "track_url": "https://www.dropbox.com/scl/fi/uqe8b1ptse9zh0849mt5o/05-Getlak-MaTb3aa.Com.mp3?rlkey=966sl7mydskhdt0ktx59vhuqw&st=rqd6s55l&dl=1",
+                    "duration_ms": 201506,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735a2fd635ed33bc09522e97fe",
+                    "id": 1461,
+                    "artist": "Ramy Gamal"
+                },
+                {
+                    "name": "Malish Daawa Behad",
+                    "track_url": "https://www.dropbox.com/scl/fi/abow3g5ly8oxr88d4nmze/08-Malesh.D3wh.Ba7d-MaTb3aa.Com.mp3?rlkey=1a2q7xva2mc0vm5co9fapbaim&st=qztze279&dl=1",
+                    "duration_ms": 247773,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735a2fd635ed33bc09522e97fe",
+                    "id": 1462,
+                    "artist": "Ramy Gamal"
+                }
+            ],
+            "id": 1449
+        }
+    ],
+    "singles": [
+        {
+            "id": "3",
+            "name": "حياتي الحلوة",
+            "artist": "Ramy Gamal",
+            "release_date": "2024-12-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b27304487254ec34b90facb45591",
+            "track_url": "https://www.dropbox.com/scl/fi/gzj8jc00lvwoir459hwd7/Hayati.ElHelwa-Ramy.Gamal-MaTb3aa.Com.mp3?rlkey=jorqp9ok6e3d9g5f5zamjm8ae&st=bshfb9nf&dl=1"
+        },
+        {
+            "name": "ولا بفتكرك",
+            "release_date": "2024-12-02",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738f846f2f48392e25f6320a1c",
+            "track_url": "https://www.dropbox.com/scl/fi/teydifn5coraaoypzquw6/.mp3?rlkey=kellqls9ql4ydq46ptl3aw480&st=ofnxdyu4&dl=1",
+            "id": 1463,
+            "artist": "Ramy Gamal"
+        },
+        {
+            "name": "نومي مخاصمني",
+            "release_date": "2024-11-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737999baefde683e5226cb93d2",
+            "track_url": "https://www.dropbox.com/scl/fi/gifgiq66enszudnrga7d6/.mp3?rlkey=as74o7cwa3uw5vfu2xv3kdwz3&st=mbo5w8s2&dl=1",
+            "id": 1464,
+            "artist": "Ramy Gamal"
+        },
+        {
+            "name": "وجوده تعبني",
+            "release_date": "2024-10-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273bd88c79a998fff2c19ab2e07",
+            "track_url": "https://www.dropbox.com/scl/fi/4vqp1y4cfsio5jyrvj5nr/.mp3?rlkey=31b6zsxy8yx0qfjgcezhdoo6x&st=m4mutu17&dl=1",
+            "id": 1465,
+            "artist": "Ramy Gamal"
+        },
+        {
+            "name": "على الرايق",
+            "release_date": "2024-08-14",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e649f1bac1392f1199b9f6c5",
+            "track_url": "https://www.dropbox.com/scl/fi/q5x4ua96jq1x9nzorfkr3/.mp3?rlkey=0dytulhbvo0c6nn5qiz0ctlqn&st=p0v2rbbe&dl=1",
+            "id": 1466,
+            "artist": "Ramy Gamal"
+        },
+        {
+            "name": "حالته صعبة",
+            "release_date": "2024-08-14",
+            "image": "https://i.scdn.co/image/ab67616d0000b27311b69c9b9075c7b85d8333e9",
+            "track_url": "https://www.dropbox.com/scl/fi/csa2914tdbx1xjdbxwez0/.mp3?rlkey=m9tnuo64tq5kukcy4krcqdz2l&st=iljn5toh&dl=1",
+            "id": 1467,
+            "artist": "Ramy Gamal"
+        },
+        {
+            "name": "مش عايشين",
+            "release_date": "2024-08-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b273601a75c14dec947e4e6d0cfa",
+            "track_url": "https://www.dropbox.com/scl/fi/clf7k06252123x6rt3d5k/.mp3?rlkey=f6k77egjcqlnr75srh9h0jldn&st=ku6ucfhc&dl=1",
+            "id": 1468,
+            "artist": "Ramy Gamal"
+        },
+        {
+            "name": "برود ببرود",
+            "release_date": "2024-07-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ca48aa1637782083bb318c4a",
+            "track_url": "https://www.dropbox.com/scl/fi/wzansi2l96fia326dye77/.mp3?rlkey=v624fqzpqg9hirsfmy6tao755&st=8bhuaqg5&dl=1",
+            "id": 1469,
+            "artist": "Ramy Gamal"
+        },
+        {
+            "name": "يا دمعي",
+            "release_date": "2024-06-26",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c6bf1c8e4c38adeb87e9a373",
+            "track_url": "https://www.dropbox.com/scl/fi/th8x3rltcceg8tv1kygcf/.mp3?rlkey=9cb59fjlwqprs7xj10sfvg2gk&st=370surz0&dl=1",
+            "id": 1470,
+            "artist": "Ramy Gamal"
+        },
+        {
+            "name": "بقول واكدب",
+            "release_date": "2024-04-17",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b1f465507045a9ad98dd9b67",
+            "track_url": "",
+            "id": 1471,
+            "artist": "Ramy Gamal"
+        },
+        {
+            "name": "خليني أشوفك",
+            "release_date": "2024-04-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b3433119883f67acffaf0e64",
+            "track_url": "",
+            "id": 1472,
+            "artist": "Ramy Gamal"
+        },
+        {
+            "name": "بقيس الجمال بيكي",
+            "release_date": "2024-02-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ca8c3c95754816378bb88ef8",
+            "track_url": "https://www.dropbox.com/scl/fi/p0i1k8x0se8e01qgx9nh8/.mp3?rlkey=1vhb83s6o5i5uq0xr45felenf&st=hlicme0u&dl=1",
+            "id": 1473,
+            "artist": "Ramy Gamal"
+        },
+        {
+            "name": "ابن امبارح",
+            "release_date": "2024-01-26",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737b53e39d282d68ff3a86028b",
+            "track_url": "https://www.dropbox.com/scl/fi/dmpqvuj7veb80h1us47iq/.mp3?rlkey=imlby3u83yiul4l0suz620r82&st=w8d6b7lv&dl=1",
+            "id": 1474,
+            "artist": "Ramy Gamal"
+        },
+        {
+            "name": "هي حكاية",
+            "release_date": "2024-01-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b1e8ac6e1b23a76bc9017390",
+            "track_url": "https://www.dropbox.com/scl/fi/tkbpc4tz88wpz1rhjvuqi/.mp3?rlkey=rx5wt2sbtbtsd2blw3holc149&st=pz383v8l&dl=1",
+            "id": 1475,
+            "artist": "Ramy Gamal"
+        },
+        {
+            "name": "بعده فارق",
+            "release_date": "2024-01-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b273dea47455ecdb21d1fbc1f250",
+            "track_url": "https://www.dropbox.com/scl/fi/15o7qiwb0wybecfbhf457/.mp3?rlkey=s4ski4ahqhrrzum4jqboskmxc&st=n7u4ot5t&dl=1",
+            "id": 1476,
+            "artist": "Ramy Gamal"
+        },
+        {
+            "name": "دوخناك يا فراق",
+            "release_date": "2024-01-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b27302af932fd59acafac779b978",
+            "track_url": "https://www.dropbox.com/scl/fi/x6rjrif8ira8df40dhqug/.mp3?rlkey=05d7fz4mzo3gmfj7iwuwmhkg5&st=csalguol&dl=1",
+            "id": 1477,
+            "artist": "Ramy Gamal"
+        },
+        {
+            "name": "اهي مشيت",
+            "release_date": "2023-12-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b273274d11c7181f1fc70dff70d2",
+            "track_url": "https://www.dropbox.com/scl/fi/v2kfifn9zgdgc6d6hfqxl/.mp3?rlkey=x1psysqez0ddly2zq8qc05nbf&st=7jmi0qtr&dl=1",
+            "id": 1478,
+            "artist": "Ramy Gamal"
+        },
+        {
+            "name": "جيت متأخر",
+            "release_date": "2023-11-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f06308fc357051e3a55c2e5b",
+            "track_url": "https://www.dropbox.com/scl/fi/rtxcxr22tfcgjvfplnjeq/.mp3?rlkey=99ckm07vmnp6w6e95n647347b&st=iubv7vrv&dl=1",
+            "id": 1479,
+            "artist": "Ramy Gamal"
+        },
+        {
+            "name": "هيبدأ يتكلم",
+            "release_date": "2023-09-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730a6b15977209e47e8fd505df",
+            "track_url": "https://www.dropbox.com/scl/fi/pnze1pb829ubzwd2pmo33/.mp3?rlkey=nnqh0p24slq3lmf87n3qqhwgt&st=pif1w27u&dl=1",
+            "id": 1480,
+            "artist": "Ramy Gamal"
+        },
+        {
+            "name": "حكايتنا منهيه",
+            "release_date": "2023-08-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b273899c5f759e9d1f7496e40a3f",
+            "track_url": "https://www.dropbox.com/scl/fi/bmy1o19p3ws7u4ramg5q7/.mp3?rlkey=v7ew9bzi9vxvsmngman0xiw8o&st=3x3elyxc&dl=1",
+            "id": 1482,
+            "artist": "Ramy Gamal"
+        },
+        {
+            "name": "يلا بينا",
+            "release_date": "2023-07-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f517fa58543b1871eb29d52f",
+            "track_url": "https://www.dropbox.com/scl/fi/ioqm21zixdvvbscgf34gk/.mp3?rlkey=2k5amxpbggblfynsjkf5zwu2l&st=2c4exjet&dl=1",
+            "id": 1483,
+            "artist": "Ramy Gamal"
+        },
+        {
+            "name": "GPS",
+            "release_date": "2023-07-13",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732b6c9dc0295ec90c1669f126",
+            "track_url": "https://www.dropbox.com/scl/fi/y62gqsvpgklfolvi62i6m/GPS.mp3?rlkey=jklqdgqkkccpm7lrvyp29ebj4&st=irt9hi47&dl=1",
+            "id": 1484,
+            "artist": "Ramy Gamal"
+        },
+        {
+            "name": "وسط الوشوش (تتر مسلسل بنون)",
+            "release_date": "2023-06-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b273bcaa988221fe0585c7e9c123",
+            "track_url": "https://www.dropbox.com/scl/fi/7qm4gyaf2h5plo9gf00pr/.mp3?rlkey=he48zbalgt5cfrgcyzk3k1gd0&st=dqkurioq&dl=1",
+            "id": 1485,
+            "artist": "Ramy Gamal"
+        },
+        {
+            "name": "كلمة سلام",
+            "release_date": "2023-05-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736c55895d65473f7915a3cc70",
+            "track_url": "https://www.dropbox.com/scl/fi/sn0ofgpq2uhoi9f3lzntm/.mp3?rlkey=fw3irnyi9ayivz6a8syo7jz61&st=wnvg8mis&dl=1",
+            "id": 1486,
+            "artist": "Ramy Gamal"
+        },
+        {
+            "name": "لحظة بعادك",
+            "release_date": "2023-04-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734984d161945ef0287d7a12d0",
+            "track_url": "https://www.dropbox.com/scl/fi/jq72o7lqt2cqzo88l4xcm/.mp3?rlkey=rhbw8by0ukl9iy7yy6oax1538&st=u6jrc8x6&dl=1",
+            "id": 1487,
+            "artist": "Ramy Gamal"
+        },
+        {
+            "name": "شقة",
+            "release_date": "2023-04-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739d6d7eb050d73d65c8f8313b",
+            "track_url": "https://www.dropbox.com/scl/fi/r5h2ky4poijwn881gi97y/.mp3?rlkey=lkxpl1f87r817am3xvcowt0an&st=a3k15f79&dl=1",
+            "id": 1488,
+            "artist": "Ramy Gamal"
+        },
+        {
+            "name": "علامه للتاريخ",
+            "release_date": "2023-03-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b273126c88fc81245842fb4dae58",
+            "track_url": "https://www.dropbox.com/scl/fi/qx260n9j7ik2lu9wci73z/.mp3?rlkey=r6j7qhxdtvt09f72cpw5alnhk&st=sqowyh4i&dl=1",
+            "id": 1489,
+            "artist": "Ramy Gamal"
+        },
+        {
+            "name": "عاملة ايه ؟؟",
+            "release_date": "2023-02-06",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736cb15556c580800c4fe9ccd7",
+            "track_url": "https://www.dropbox.com/scl/fi/v3vblyo56scxbsjeils36/.mp3?rlkey=1l572j47w6jkbmqmmnhhzg8qv&st=o7abstdm&dl=1",
+            "id": 1490,
+            "artist": "Ramy Gamal"
+        },
+        {
+            "name": "El Batta El Soda",
+            "release_date": "2022-12-22",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734635a644841ac01fe9d74f19",
+            "track_url": "https://www.dropbox.com/scl/fi/zpxli0kg99233l3fq90gm/.mp3?rlkey=lwnjcnqamznoy93cuii9m7tch&st=uff0ip2a&dl=1",
+            "id": 1491,
+            "artist": "Ramy Gamal"
+        },
+        {
+            "name": "Sebna Ba’ad",
+            "release_date": "2022-08-12",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734157b2b17999ca62a7b708ce",
+            "track_url": "https://www.dropbox.com/scl/fi/l5cue9tpiriq036e22olr/Albumaty.Com_ramy_gmal_sybna_bad.mp3?rlkey=7wwatug7tekigasxieq7oprot&st=d81dc5dn&dl=1",
+            "id": 1492,
+            "artist": "Ramy Gamal"
+        },
+        {
+            "name": "Fe Gamal Keda",
+            "release_date": "2022-08-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734db0b3a58819b8814ec2c3c5",
+            "track_url": "https://www.dropbox.com/scl/fi/fk9viosamruio72mm43vs/Albumaty.Com_ramy_gmal_fy_gmal_kdh.mp3?rlkey=sjf6rm5yiefi9ekps0w5yvw40&st=dsyivzkx&dl=1",
+            "id": 1493,
+            "artist": "Ramy Gamal"
+        },
+        {
+            "name": "Adebetna El Donia",
+            "release_date": "2022-08-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b273bcd3976a87da5c4da754d8ed",
+            "track_url": "https://www.dropbox.com/scl/fi/33pexjmx0qklhyyz2ot8l/Albumaty.Com_ramy_gmal_adbtna_aldnya.mp3?rlkey=p6rtcbn3q158aelnir624j1nm&st=mj6pvmb7&dl=1",
+            "id": 1494,
+            "artist": "Ramy Gamal"
+        },
+        {
+            "name": "Shoft El Haqeeqa",
+            "release_date": "2022-08-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c61e45e050665db4fb3a7744",
+            "track_url": "https://www.dropbox.com/scl/fi/f84ouuyeq5qmieadpzqcl/Albumaty.Com_ramy_gmal_shwft_alhkykt.mp3?rlkey=dj167d0coyw83qvcmh9y1rly0&st=n0vqeqg5&dl=1",
+            "id": 1495,
+            "artist": "Ramy Gamal"
+        },
+        {
+            "name": "Kalimeeny Showaya Anny",
+            "release_date": "2022-08-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734af1d5baa5aa971b5e5a46b0",
+            "track_url": "https://www.dropbox.com/scl/fi/yk28zfuzezk6vutfjbmix/Albumaty.Com_ramy_gmal_klmyny_shwyh_any.mp3?rlkey=o666ceg4tiud0mnoyltadj5ra&st=dghvalrs&dl=1",
+            "id": 1496,
+            "artist": "Ramy Gamal"
+        },
+        {
+            "name": "Meseery Ansak",
+            "release_date": "2022-08-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e10de8a0127d9b37076670ba",
+            "track_url": "https://www.dropbox.com/scl/fi/rpfjhxkifwr5riizbqytr/Albumaty.Com_ramy_gmal_msyry_ansak.mp3?rlkey=oal9b1bzgzewqfh5wq962leax&st=lkamab7z&dl=1",
+            "id": 1497,
+            "artist": "Ramy Gamal"
+        },
+        {
+            "name": "Ana Dala'at",
+            "release_date": "2022-08-06",
+            "image": "https://i.scdn.co/image/ab67616d0000b27307787bf95daf6e0b64fd87b6",
+            "track_url": "https://www.dropbox.com/scl/fi/y6lg7i4bewb0zdac6kqe4/Albumaty.Com_ramy_gmal_ana_dlat.mp3?rlkey=3xe7p0ejpixg84z62xbs722zf&st=g1d3xhqo&dl=1",
+            "id": 1498,
+            "artist": "Ramy Gamal"
+        },
+        {
+            "name": "Amar W Mnawar",
+            "release_date": "2022-08-05",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e01bb4ebdc0a5daaaeb2e13c",
+            "track_url": "https://www.dropbox.com/scl/fi/d6nactx81y5yf5q696lx6/Albumaty.Com_ramy_gmal_kmr_wmnwr.mp3?rlkey=wmawl6bl585fyrgph8vq3ujef&st=k8ksh7qp&dl=1",
+            "id": 1499,
+            "artist": "Ramy Gamal"
+        },
+        {
+            "name": "Mawkef Da’af",
+            "release_date": "2022-08-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738cc380baf3fd1190cbf8d987",
+            "track_url": "https://www.dropbox.com/scl/fi/fi1v1jv8wylgm5j8rr5he/Albumaty.Com_ramy_gmal_mwkf_daf.mp3?rlkey=nvel8d54tzo3liqde8jw5qy7r&st=xnjh6z8y&dl=1",
+            "id": 1500,
+            "artist": "Ramy Gamal"
+        },
+        {
+            "name": "Khaleena A’din",
+            "release_date": "2022-08-03",
+            "image": "https://i.scdn.co/image/ab67616d0000b27375e902a9fc35a521c787de58",
+            "track_url": "https://www.dropbox.com/scl/fi/87fpte024k7hbgk1445mv/Albumaty.Com_ramy_gmal_khlyna_kaadyn.mp3?rlkey=vyqwddfkojui1tmrgz7nxvlgr&st=wkcs8ogt&dl=1",
+            "id": 1501,
+            "artist": "Ramy Gamal"
+        },
+        {
+            "name": "Baeit Akhaf",
+            "release_date": "2022-08-02",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a86e809b77d1c3e0c1c09aef",
+            "track_url": "https://www.dropbox.com/scl/fi/okrcg283uvkbrq6svtu1y/Albumaty.Com_ramy_gmal_bkyt_akhaf.mp3?rlkey=ps7rwzsbn5tmgonize63jc6z3&st=a62k6ela&dl=1",
+            "id": 1502,
+            "artist": "Ramy Gamal"
+        },
+        {
+            "name": "Yestahel Bostein",
+            "release_date": "2022-07-26",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731618dd12df9f6e25757cc570",
+            "track_url": "https://www.dropbox.com/scl/fi/o99yo97x0033f7a91pz7y/Albumaty.Com_ramy_gmal_ystahl_bwstyn.mp3?rlkey=x3uslkkh1yzl8y31jwwfs74rt&st=mnsn4cte&dl=1",
+            "id": 1503,
+            "artist": "Ramy Gamal"
+        },
+        {
+            "name": "Ella Alhozn",
+            "release_date": "2022-02-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b273dabb410b45e32138048442e9",
+            "track_url": "https://www.dropbox.com/scl/fi/zqzk4tj1t2at2zsclc5w8/.mp3?rlkey=92oxn98itrdqq863k500hazzd&st=97wp2efi&dl=1",
+            "id": 1504,
+            "artist": "Ramy Gamal"
+        },
+        {
+            "name": "Hekayat Gameela",
+            "release_date": "2022-02-02",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735d053c6b9cf5a79acb1c05f1",
+            "track_url": "https://www.dropbox.com/scl/fi/5hl8zfum5d0ihq5l1h1hw/.mp3?rlkey=199neive0ls8rchd0enp1i6p4&st=jmgg9w4z&dl=1",
+            "id": 1505,
+            "artist": "Ramy Gamal"
+        },
+        {
+            "name": "Mish Habayib",
+            "release_date": "2022-01-14",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b98a1dc4c2eee7b53efa0cb6",
+            "track_url": "https://www.dropbox.com/scl/fi/c0qk37e0pwz82crl24dnx/.mp3?rlkey=2vc0ek9fj78yuok263dccquj0&st=bo31zalr&dl=1",
+            "id": 1506,
+            "artist": "Ramy Gamal"
+        },
+        {
+            "name": "El Gaw Gamed",
+            "release_date": "2021-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273229f8471b8435971c210b29b",
+            "track_url": "https://www.dropbox.com/scl/fi/twnem3q3ko96clwcdpzys/.mp3?rlkey=hsgmxnq3rk1vxhzsuiu6ws48p&st=7jgxh3j9&dl=1",
+            "id": 1507,
+            "artist": "Ramy Gamal"
+        },
+        {
+            "name": "Fe Ghamdet Ein",
+            "release_date": "2021-12-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736c8ca17ce064440d0cb8859e",
+            "track_url": "https://www.dropbox.com/scl/fi/84ifxuzp1h3wxnirgrd5e/.mp3?rlkey=q6zl48rqoehtth416h0vy3bbp&st=cjf4onvd&dl=1",
+            "id": 1508,
+            "artist": "Ramy Gamal"
+        },
+        {
+            "name": "Lessa El Kalam Zaalan",
+            "release_date": "2021-11-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738a0eebc32f4a64f2a697023c",
+            "track_url": "https://www.dropbox.com/scl/fi/drt26vjk6y1smd95fq85a/Albumaty.Com_ramy_gmal_lsh_alklam_zalan.mp3?rlkey=tanhqun7mhxta4gma44jir42b&st=faqn5rtp&dl=1",
+            "id": 1509,
+            "artist": "Ramy Gamal"
+        },
+        {
+            "name": "Khaleeky",
+            "release_date": "2021-10-05",
+            "image": "https://i.scdn.co/image/ab67616d0000b273771d0ab7895c344abd561a0d",
+            "track_url": "https://www.dropbox.com/scl/fi/gg2bwgo1c6ietoav09qhi/Albumaty.Com_ramy_gmal_khlyky.mp3?rlkey=vqp6mnyokq88fw0akj0sthv94&st=fe1h55ri&dl=1",
+            "id": 1510,
+            "artist": "Ramy Gamal"
+        },
+        {
+            "name": "Kona Momken Netefeq",
+            "release_date": "2021-08-20",
+            "image": "https://i.scdn.co/image/ab67616d0000b27332f1fa7d88d448fd6670b1dd",
+            "track_url": "https://www.dropbox.com/scl/fi/2tzk9bm71dh8v2dciptjz/Albumaty.Com_ramy_gmal_kna_mmkn_ntfk.mp3?rlkey=5dy3km3x86pq2twv50j1cmfp2&st=6jh2lgre&dl=1",
+            "id": 1511,
+            "artist": "Ramy Gamal"
+        },
+        {
+            "name": "Ellet El Ehsas",
+            "release_date": "2021-07-12",
+            "image": "https://i.scdn.co/image/ab67616d0000b27368b26749a0c78bd49089b051",
+            "track_url": "https://www.dropbox.com/scl/fi/1t57wzusktg3z9d55vqaf/Albumaty.Com_ramy_gmal_klt_alahsas.mp3?rlkey=lcadh2olg03o0somack3hj59q&st=dzj9sp2k&dl=1",
+            "id": 1512,
+            "artist": "Ramy Gamal"
+        }
+    ],
+    "popular_tracks": [
+        {
+            "name": "جيت متأخر",
+            "track_url": "https://www.dropbox.com/scl/fi/rtxcxr22tfcgjvfplnjeq/.mp3?rlkey=99ckm07vmnp6w6e95n647347b&st=iubv7vrv&dl=1",
+            "duration_ms": 198571,
+            "image": "https://i.scdn.co/image/ab67616d0000b273f06308fc357051e3a55c2e5b",
+            "id": 1513,
+            "artist": "Ramy Gamal"
+        },
+        {
+            "name": "لحظة بعادك",
+            "track_url": "https://www.dropbox.com/scl/fi/jq72o7lqt2cqzo88l4xcm/.mp3?rlkey=rhbw8by0ukl9iy7yy6oax1538&st=u6jrc8x6&dl=1",
+            "duration_ms": 221379,
+            "image": "https://i.scdn.co/image/ab67616d0000b2734984d161945ef0287d7a12d0",
+            "id": 1514,
+            "artist": "Ramy Gamal"
+        },
+        {
+            "name": "بيكلموني",
+            "track_url": "https://www.dropbox.com/scl/fi/j7entw0mb2xfi777ol0qy/Albumaty.Com_ramy_gmal_byklmwny.mp3?rlkey=qrzqpms3q0tckupy1vozzgytz&st=wugu4dr5&dl=1",
+            "duration_ms": 316250,
+            "image": "https://i.scdn.co/image/ab67616d0000b273e86cb10736a59a6235abe3e9",
+            "id": 1515,
+            "artist": "Ramy Gamal"
+        },
+        {
+            "name": "عاملة ايه ؟؟",
+            "track_url": "https://www.dropbox.com/scl/fi/v3vblyo56scxbsjeils36/.mp3?rlkey=1l572j47w6jkbmqmmnhhzg8qv&st=o7abstdm&dl=1",
+            "duration_ms": 152855,
+            "image": "https://i.scdn.co/image/ab67616d0000b2736cb15556c580800c4fe9ccd7",
+            "id": 1516,
+            "artist": "Ramy Gamal"
+        },
+        {
+            "name": "اهي مشيت",
+            "track_url": "https://www.dropbox.com/scl/fi/v2kfifn9zgdgc6d6hfqxl/.mp3?rlkey=x1psysqez0ddly2zq8qc05nbf&st=7jmi0qtr&dl=1",
+            "duration_ms": 224853,
+            "image": "https://i.scdn.co/image/ab67616d0000b273274d11c7181f1fc70dff70d2",
+            "id": 1517,
+            "artist": "Ramy Gamal"
+        },
+        {
+            "name": "إوعديني",
+            "track_url": "https://www.dropbox.com/scl/fi/djljaz9g5efrvtumdzf4o/01_-_Ewediny.mp3?rlkey=l3gr9ff04spefte8vq3p966qf&st=mbx5awx5&dl=1",
+            "duration_ms": 343376,
+            "image": "https://i.scdn.co/image/ab67616d0000b273877e5f675b40cc1494c23e9b",
+            "id": 1518,
+            "artist": "Ramy Gamal"
+        },
+        {
+            "name": "هيبدأ يتكلم",
+            "track_url": "https://www.dropbox.com/scl/fi/pnze1pb829ubzwd2pmo33/.mp3?rlkey=nnqh0p24slq3lmf87n3qqhwgt&st=pif1w27u&dl=1",
+            "duration_ms": 166000,
+            "image": "https://i.scdn.co/image/ab67616d0000b2730a6b15977209e47e8fd505df",
+            "id": 1519,
+            "artist": "Ramy Gamal"
+        },
+        {
+            "name": "ولا بفتكرك",
+            "track_url": "https://www.dropbox.com/scl/fi/teydifn5coraaoypzquw6/.mp3?rlkey=kellqls9ql4ydq46ptl3aw480&st=ofnxdyu4&dl=1",
+            "duration_ms": 228816,
+            "image": "https://i.scdn.co/image/ab67616d0000b2738f846f2f48392e25f6320a1c",
+            "id": 1520,
+            "artist": "Ramy Gamal"
+        },
+        {
+            "name": "Amar W Mnawar",
+            "track_url": "https://www.dropbox.com/scl/fi/d6nactx81y5yf5q696lx6/Albumaty.Com_ramy_gmal_kmr_wmnwr.mp3?rlkey=wmawl6bl585fyrgph8vq3ujef&st=gr9t78x8&dl=1",
+            "duration_ms": 158863,
+            "image": "https://i.scdn.co/image/ab67616d0000b27387636dbef3e53e9cf1cf4c76",
+            "id": 1521,
+            "artist": "Ramy Gamal"
+        },
+        {
+            "name": "انت مين",
+            "track_url": "https://www.dropbox.com/scl/fi/blukog3u3qvnpzo64t70y/Albumaty.Com_ramy_gmal_ant_myn.mp3?rlkey=36vdf750gfm2ni62lkpwf2fcu&st=nzqic1vu&dl=1",
+            "duration_ms": 255223,
+            "image": "https://i.scdn.co/image/ab67616d0000b273e86cb10736a59a6235abe3e9",
+            "id": 1522,
+            "artist": "Ramy Gamal"
+        }
+    ]
+}

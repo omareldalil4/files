@@ -1,0 +1,793 @@
+{
+    "artist": {
+        "id": "6636",
+        "name": "Mahmoud El Esseily",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb8db1d08915ef27c4655b9081",
+        "background_image": "https://i.scdn.co/image/ab676161000051748db1d08915ef27c4655b9081"
+    },
+    "albums": [
+        {
+            "name": "Donya Gedeida",
+            "release_date": "2012-09-12",
+            "image": "https://i.scdn.co/image/ab67616d0000b273aca1231879dfe3e996ec4465",
+            "track_url": "https://open.spotify.com/album/21Sr1uuUWXadGVkeAf0tbb",
+            "tracks": [
+                {
+                    "name": "Dehkah",
+                    "track_url": "",
+                    "duration_ms": 253400,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273aca1231879dfe3e996ec4465",
+                    "id": 6638,
+                    "artist": "Mahmoud El Esseily"
+                },
+                {
+                    "name": "Eisha Helwa",
+                    "track_url": "",
+                    "duration_ms": 271200,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273aca1231879dfe3e996ec4465",
+                    "id": 6639,
+                    "artist": "Mahmoud El Esseily"
+                },
+                {
+                    "name": "Eshtaghalouny",
+                    "track_url": "",
+                    "duration_ms": 269013,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273aca1231879dfe3e996ec4465",
+                    "id": 6640,
+                    "artist": "Mahmoud El Esseily"
+                },
+                {
+                    "name": "Donya Gedeida",
+                    "track_url": "",
+                    "duration_ms": 265986,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273aca1231879dfe3e996ec4465",
+                    "id": 6641,
+                    "artist": "Mahmoud El Esseily"
+                },
+                {
+                    "name": "Set El Setat",
+                    "track_url": "",
+                    "duration_ms": 236493,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273aca1231879dfe3e996ec4465",
+                    "id": 6642,
+                    "artist": "Mahmoud El Esseily"
+                },
+                {
+                    "name": "Adeny Baeesh",
+                    "track_url": "",
+                    "duration_ms": 254253,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273aca1231879dfe3e996ec4465",
+                    "id": 6643,
+                    "artist": "Mahmoud El Esseily"
+                },
+                {
+                    "name": "El Leila",
+                    "track_url": "",
+                    "duration_ms": 263400,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273aca1231879dfe3e996ec4465",
+                    "id": 6644,
+                    "artist": "Mahmoud El Esseily"
+                },
+                {
+                    "name": "Enta Menny",
+                    "track_url": "",
+                    "duration_ms": 256799,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273aca1231879dfe3e996ec4465",
+                    "id": 6645,
+                    "artist": "Mahmoud El Esseily"
+                },
+                {
+                    "name": "Hankhaf Men Eih",
+                    "track_url": "",
+                    "duration_ms": 245440,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273aca1231879dfe3e996ec4465",
+                    "id": 6646,
+                    "artist": "Mahmoud El Esseily"
+                },
+                {
+                    "name": "Nazra Fe Eneiky",
+                    "track_url": "",
+                    "duration_ms": 274626,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273aca1231879dfe3e996ec4465",
+                    "id": 6647,
+                    "artist": "Mahmoud El Esseily"
+                },
+                {
+                    "name": "Warak Warak",
+                    "track_url": "",
+                    "duration_ms": 251293,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273aca1231879dfe3e996ec4465",
+                    "id": 6648,
+                    "artist": "Mahmoud El Esseily"
+                },
+                {
+                    "name": "El Agzakhanah",
+                    "track_url": "",
+                    "duration_ms": 246533,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273aca1231879dfe3e996ec4465",
+                    "id": 6649,
+                    "artist": "Mahmoud El Esseily"
+                },
+                {
+                    "name": "Aysheen",
+                    "track_url": "",
+                    "duration_ms": 302960,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273aca1231879dfe3e996ec4465",
+                    "id": 6650,
+                    "artist": "Mahmoud El Esseily"
+                },
+                {
+                    "name": "Mabsout Fe Makanak",
+                    "track_url": "",
+                    "duration_ms": 267933,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273aca1231879dfe3e996ec4465",
+                    "id": 6651,
+                    "artist": "Mahmoud El Esseily"
+                }
+            ],
+            "id": 6637
+        },
+        {
+            "name": "Tool Manty Ganby",
+            "release_date": "2009-02-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735017d1c94e5a03320ad2ae36",
+            "track_url": "https://open.spotify.com/album/6y7X1fXSbvsT2Jo7YLQDBi",
+            "tracks": [
+                {
+                    "name": "Tool Manty Ganby",
+                    "track_url": "",
+                    "duration_ms": 200706,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735017d1c94e5a03320ad2ae36",
+                    "id": 6653,
+                    "artist": "Mahmoud El Esseily"
+                },
+                {
+                    "name": "Tarateer",
+                    "track_url": "",
+                    "duration_ms": 232853,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735017d1c94e5a03320ad2ae36",
+                    "id": 6654,
+                    "artist": "Mahmoud El Esseily"
+                },
+                {
+                    "name": "Asaab Haga",
+                    "track_url": "",
+                    "duration_ms": 244400,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735017d1c94e5a03320ad2ae36",
+                    "id": 6655,
+                    "artist": "Mahmoud El Esseily"
+                },
+                {
+                    "name": "Ehsasek Ehh",
+                    "track_url": "",
+                    "duration_ms": 215626,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735017d1c94e5a03320ad2ae36",
+                    "id": 6656,
+                    "artist": "Mahmoud El Esseily"
+                },
+                {
+                    "name": "Walad Rasam",
+                    "track_url": "",
+                    "duration_ms": 230386,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735017d1c94e5a03320ad2ae36",
+                    "id": 6657,
+                    "artist": "Mahmoud El Esseily"
+                },
+                {
+                    "name": "Feky El Haya",
+                    "track_url": "",
+                    "duration_ms": 239933,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735017d1c94e5a03320ad2ae36",
+                    "id": 6658,
+                    "artist": "Mahmoud El Esseily"
+                },
+                {
+                    "name": "Bety We Matrahy",
+                    "track_url": "",
+                    "duration_ms": 264026,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735017d1c94e5a03320ad2ae36",
+                    "id": 6659,
+                    "artist": "Mahmoud El Esseily"
+                },
+                {
+                    "name": "Ana Ayezek Zay Manty",
+                    "track_url": "",
+                    "duration_ms": 229106,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735017d1c94e5a03320ad2ae36",
+                    "id": 6660,
+                    "artist": "Mahmoud El Esseily"
+                },
+                {
+                    "name": "Khalek Orayeb Menny",
+                    "track_url": "",
+                    "duration_ms": 245440,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735017d1c94e5a03320ad2ae36",
+                    "id": 6661,
+                    "artist": "Mahmoud El Esseily"
+                },
+                {
+                    "name": "Mesh Zay El Aflam",
+                    "track_url": "",
+                    "duration_ms": 247973,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735017d1c94e5a03320ad2ae36",
+                    "id": 6662,
+                    "artist": "Mahmoud El Esseily"
+                }
+            ],
+            "id": 6652
+        },
+        {
+            "name": "Meen Ana",
+            "release_date": "2005-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b27314637f0bcbed3ff9c652e6bb",
+            "track_url": "https://open.spotify.com/album/26ZTjcVfkvcQLowlbwCYGl",
+            "tracks": [
+                {
+                    "name": "Tararam",
+                    "track_url": "",
+                    "duration_ms": 225120,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27314637f0bcbed3ff9c652e6bb",
+                    "id": 6664,
+                    "artist": "Mahmoud El Esseily"
+                },
+                {
+                    "name": "El Fostan El Abyad",
+                    "track_url": "",
+                    "duration_ms": 259000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27314637f0bcbed3ff9c652e6bb",
+                    "id": 6665,
+                    "artist": "Mahmoud El Esseily"
+                },
+                {
+                    "name": "Meen Ana",
+                    "track_url": "",
+                    "duration_ms": 253160,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27314637f0bcbed3ff9c652e6bb",
+                    "id": 6666,
+                    "artist": "Mahmoud El Esseily"
+                },
+                {
+                    "name": "Hamdella Ala El Salama",
+                    "track_url": "",
+                    "duration_ms": 274986,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27314637f0bcbed3ff9c652e6bb",
+                    "id": 6667,
+                    "artist": "Mahmoud El Esseily"
+                },
+                {
+                    "name": "Molk Madena",
+                    "track_url": "",
+                    "duration_ms": 265440,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27314637f0bcbed3ff9c652e6bb",
+                    "id": 6668,
+                    "artist": "Mahmoud El Esseily"
+                },
+                {
+                    "name": "Hashoufek",
+                    "track_url": "",
+                    "duration_ms": 235360,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27314637f0bcbed3ff9c652e6bb",
+                    "id": 6669,
+                    "artist": "Mahmoud El Esseily"
+                },
+                {
+                    "name": "Wala Laa",
+                    "track_url": "",
+                    "duration_ms": 262000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27314637f0bcbed3ff9c652e6bb",
+                    "id": 6670,
+                    "artist": "Mahmoud El Esseily"
+                },
+                {
+                    "name": "Matsebnesh",
+                    "track_url": "",
+                    "duration_ms": 268213,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27314637f0bcbed3ff9c652e6bb",
+                    "id": 6671,
+                    "artist": "Mahmoud El Esseily"
+                },
+                {
+                    "name": "Hekayty Maak",
+                    "track_url": "",
+                    "duration_ms": 267080,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27314637f0bcbed3ff9c652e6bb",
+                    "id": 6672,
+                    "artist": "Mahmoud El Esseily"
+                },
+                {
+                    "name": "Hader",
+                    "track_url": "",
+                    "duration_ms": 294080,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27314637f0bcbed3ff9c652e6bb",
+                    "id": 6673,
+                    "artist": "Mahmoud El Esseily"
+                }
+            ],
+            "id": 6663
+        }
+    ],
+    "singles": [
+        {
+            "name": "Keda Keda Bayza (Aly Fathalla MDLBEAST Remix)",
+            "release_date": "2024-10-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738b3557d76ca916ce762a3db6",
+            "track_url": "",
+            "id": 6674,
+            "artist": "Mahmoud El Esseily"
+        },
+        {
+            "name": "100 Haga Wa 50",
+            "release_date": "2024-08-20",
+            "image": "https://i.scdn.co/image/ab67616d0000b273365931b088068b7d2d9e9c02",
+            "track_url": "",
+            "id": 6675,
+            "artist": "Mahmoud El Esseily"
+        },
+        {
+            "name": "Fe El Sahel",
+            "release_date": "2024-07-17",
+            "image": "https://i.scdn.co/image/ab67616d0000b273992a071d04331bf1c8d7502c",
+            "track_url": "",
+            "id": 6676,
+            "artist": "Mahmoud El Esseily"
+        },
+        {
+            "name": "لا أبالي",
+            "release_date": "2024-06-27",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d64a1c163e04501825c907d1",
+            "track_url": "",
+            "id": 6677,
+            "artist": "Mahmoud El Esseily"
+        },
+        {
+            "name": "For2o3 Louz",
+            "release_date": "2024-03-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b273cb8935b9f7adf0b04e06974a",
+            "track_url": "",
+            "id": 6678,
+            "artist": "Mahmoud El Esseily"
+        },
+        {
+            "name": "3Einy Shayfa Feky",
+            "release_date": "2024-02-22",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731bead20e1c2f29b318326bef",
+            "track_url": "",
+            "id": 6679,
+            "artist": "Mahmoud El Esseily"
+        },
+        {
+            "name": "El Tamna",
+            "release_date": "2024-01-14",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731a5b3435ffc8e2ba686c94a6",
+            "track_url": "",
+            "id": 6680,
+            "artist": "Mahmoud El Esseily"
+        },
+        {
+            "name": "SALAMT HABEBTY",
+            "release_date": "2023-10-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b273cba12029a685d94c91ee2536",
+            "track_url": "",
+            "id": 6681,
+            "artist": "Mahmoud El Esseily"
+        },
+        {
+            "name": "Men Kan Yesda2",
+            "release_date": "2023-08-16",
+            "image": "https://i.scdn.co/image/ab67616d0000b273149de58284f55add3bc8ae7f",
+            "track_url": "",
+            "id": 6682,
+            "artist": "Mahmoud El Esseily"
+        },
+        {
+            "name": "El Kol Aleek Bynim",
+            "release_date": "2023-08-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738916ccf056784887d64262c9",
+            "track_url": "",
+            "id": 6683,
+            "artist": "Mahmoud El Esseily"
+        },
+        {
+            "name": "Ew3a",
+            "release_date": "2023-08-02",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736049eea2116e9ce8c602e0dd",
+            "track_url": "",
+            "id": 6684,
+            "artist": "Mahmoud El Esseily"
+        },
+        {
+            "name": "كده كده بايظه",
+            "release_date": "2023-07-26",
+            "image": "https://i.scdn.co/image/ab67616d0000b27354ed7e90b69bbb7d062318c7",
+            "track_url": "",
+            "id": 6685,
+            "artist": "Mahmoud El Esseily"
+        },
+        {
+            "name": "Beyti X Esseily - F Shahr 6",
+            "release_date": "2023-06-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b273761bc12ba4dd66c7a8d3ac53",
+            "track_url": "",
+            "id": 6686,
+            "artist": "Mahmoud El Esseily"
+        },
+        {
+            "name": "سمع هس",
+            "release_date": "2023-06-17",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738fd7b3c867f07de787ff3e40",
+            "track_url": "",
+            "id": 6687,
+            "artist": "Mahmoud El Esseily"
+        },
+        {
+            "name": "Shebr W Nos",
+            "release_date": "2023-03-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b27335328f8f12e24fd2ab6c2455",
+            "track_url": "",
+            "id": 6688,
+            "artist": "Mahmoud El Esseily"
+        },
+        {
+            "name": "جوايا نور ما ينطفيش",
+            "release_date": "2023-03-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b27334636b9202d636b75a6a2dcc",
+            "track_url": "",
+            "id": 6689,
+            "artist": "Mahmoud El Esseily"
+        },
+        {
+            "name": "Amoot Ana",
+            "release_date": "2022-10-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a4f11e1b6aa9d3ce6c598fab",
+            "track_url": "",
+            "id": 6690,
+            "artist": "Mahmoud El Esseily"
+        },
+        {
+            "name": "طمنوني",
+            "release_date": "2022-08-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733747af0d26f54a55d7cdcb1e",
+            "track_url": "",
+            "id": 6691,
+            "artist": "Mahmoud El Esseily"
+        },
+        {
+            "name": "El Dalo3a",
+            "release_date": "2022-08-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734b3c9a8c48726ae9f84d5481",
+            "track_url": "",
+            "id": 6692,
+            "artist": "Mahmoud El Esseily"
+        },
+        {
+            "name": "Dom Dom",
+            "release_date": "2022-07-20",
+            "image": "https://i.scdn.co/image/ab67616d0000b273623c9b8dc7efad9b5abd852b",
+            "track_url": "",
+            "id": 6693,
+            "artist": "Mahmoud El Esseily"
+        },
+        {
+            "name": "Mesaykeb",
+            "release_date": "2022-03-16",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736a67ad09962cb43c023420ea",
+            "track_url": "",
+            "id": 6694,
+            "artist": "Mahmoud El Esseily"
+        },
+        {
+            "name": "Fe Makan Ma",
+            "release_date": "2022-03-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c1a86e108286e8c5653bcc5e",
+            "track_url": "",
+            "id": 6695,
+            "artist": "Mahmoud El Esseily"
+        },
+        {
+            "name": "Ra’sa Slow",
+            "release_date": "2022-02-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735c510efd7e34519c3c8ba23a",
+            "track_url": "",
+            "id": 6696,
+            "artist": "Mahmoud El Esseily"
+        },
+        {
+            "name": "Enta Teqdar",
+            "release_date": "2021-12-20",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ecabe871f9ed7e3347756aa9",
+            "track_url": "",
+            "id": 6697,
+            "artist": "Mahmoud El Esseily"
+        },
+        {
+            "name": "Enta Estsna2y",
+            "release_date": "2021-12-20",
+            "image": "https://i.scdn.co/image/ab67616d0000b273894fb13412301d48f2d09361",
+            "track_url": "",
+            "id": 6698,
+            "artist": "Mahmoud El Esseily"
+        },
+        {
+            "name": "Le Awel Marra",
+            "release_date": "2021-11-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738aee40e89c0992639cb258c2",
+            "track_url": "",
+            "id": 6699,
+            "artist": "Mahmoud El Esseily"
+        },
+        {
+            "name": "Ana El Momkn",
+            "release_date": "2021-06-17",
+            "image": "https://i.scdn.co/image/ab67616d0000b273145a4942c524bfd7c8fa6490",
+            "track_url": "",
+            "id": 6700,
+            "artist": "Mahmoud El Esseily"
+        },
+        {
+            "name": "Hob Ghalat",
+            "release_date": "2021-01-17",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731901e1420e5845d6698b6b22",
+            "track_url": "",
+            "id": 6701,
+            "artist": "Mahmoud El Esseily"
+        },
+        {
+            "name": "Ekhteraa",
+            "release_date": "2020-08-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737489ac844b31c062683e0159",
+            "track_url": "",
+            "id": 6702,
+            "artist": "Mahmoud El Esseily"
+        },
+        {
+            "name": "Ganna Tekfena",
+            "release_date": "2020-03-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ca70af3a071bfa1512109564",
+            "track_url": "",
+            "id": 6703,
+            "artist": "Mahmoud El Esseily"
+        },
+        {
+            "name": "Tamselia",
+            "release_date": "2019-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b27369a545a5837f5d035373e312",
+            "track_url": "",
+            "id": 6704,
+            "artist": "Mahmoud El Esseily"
+        },
+        {
+            "name": "Enty We Ana",
+            "release_date": "2019-08-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731c40d0d25b49d85b0e0e30b6",
+            "track_url": "",
+            "id": 6705,
+            "artist": "Mahmoud El Esseily"
+        },
+        {
+            "name": "Malayeen",
+            "release_date": "2019-06-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b27320044d4e8ec31b62b045e76c",
+            "track_url": "",
+            "id": 6706,
+            "artist": "Mahmoud El Esseily"
+        },
+        {
+            "name": "Waga'a El Hawa",
+            "release_date": "2018-12-26",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731cb45b8371bf40d0347ca4dc",
+            "track_url": "",
+            "id": 6707,
+            "artist": "Mahmoud El Esseily"
+        },
+        {
+            "name": "Beit Gedety",
+            "release_date": "2018-11-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b273fa901f867cf0332991e9659d",
+            "track_url": "",
+            "id": 6708,
+            "artist": "Mahmoud El Esseily"
+        },
+        {
+            "name": "Sahla We Bassita",
+            "release_date": "2018-09-20",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c3f269eea104b3bb62bb9fed",
+            "track_url": "",
+            "id": 6709,
+            "artist": "Mahmoud El Esseily"
+        },
+        {
+            "name": "Tallaa El Helw We Bas",
+            "release_date": "2018-09-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b27368f8492f5d9657a4333216b3",
+            "track_url": "",
+            "id": 6710,
+            "artist": "Mahmoud El Esseily"
+        },
+        {
+            "name": "7elm B3eed",
+            "release_date": "2018-07-22",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a5d5cd7c2346b9be4c1dc865",
+            "track_url": "",
+            "id": 6711,
+            "artist": "Mahmoud El Esseily"
+        },
+        {
+            "name": "Helmena Wahed",
+            "release_date": "2018-04-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737a5026b6ac6d22bbaf1ce861",
+            "track_url": "",
+            "id": 6712,
+            "artist": "Mahmoud El Esseily"
+        },
+        {
+            "name": "Fe Hetta Tanya",
+            "release_date": "2018-04-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b6c768c811e2ba0242532303",
+            "track_url": "",
+            "id": 6713,
+            "artist": "Mahmoud El Esseily"
+        },
+        {
+            "name": "Heya",
+            "release_date": "2018-02-13",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734426436ea271371afd1bdd37",
+            "track_url": "",
+            "id": 6714,
+            "artist": "Mahmoud El Esseily"
+        },
+        {
+            "name": "Khayna",
+            "release_date": "2018-01-03",
+            "image": "https://i.scdn.co/image/ab67616d0000b27367c8edd915d13cb498972de6",
+            "track_url": "",
+            "id": 6715,
+            "artist": "Mahmoud El Esseily"
+        },
+        {
+            "name": "Msh Madmoun",
+            "release_date": "2017-11-20",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a39a16e7827db3d545a1ed9a",
+            "track_url": "",
+            "id": 6716,
+            "artist": "Mahmoud El Esseily"
+        },
+        {
+            "name": "Beadty We Mabadtish",
+            "release_date": "2017-09-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ed053e55a2a3a3356f7d88d3",
+            "track_url": "",
+            "id": 6717,
+            "artist": "Mahmoud El Esseily"
+        },
+        {
+            "name": "شر وخير (من فيلم الخلية)",
+            "release_date": "2017-08-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730e9f5d49c9cdc73fe2017bed",
+            "track_url": "",
+            "id": 6718,
+            "artist": "Mahmoud El Esseily"
+        },
+        {
+            "name": "Fou2y",
+            "release_date": "2017-04-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c27ca1467760a112d32fdf19",
+            "track_url": "",
+            "id": 6719,
+            "artist": "Mahmoud El Esseily"
+        },
+        {
+            "name": "Farha",
+            "release_date": "2017-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27380be25359f23c3bf44d5f4bc",
+            "track_url": "",
+            "id": 6720,
+            "artist": "Mahmoud El Esseily"
+        },
+        {
+            "name": "Ya Nas",
+            "release_date": "2016-08-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c5f0a26ef570e674da06e6e6",
+            "track_url": "",
+            "id": 6721,
+            "artist": "Mahmoud El Esseily"
+        },
+        {
+            "name": "Ew3a Tkhaf",
+            "release_date": "2016-06-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e505fd420221a035e0231b05",
+            "track_url": "",
+            "id": 6722,
+            "artist": "Mahmoud El Esseily"
+        },
+        {
+            "name": "Kam Wa7ed",
+            "release_date": "2012-04-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c73379498e65f62eee7480f7",
+            "track_url": "",
+            "id": 6723,
+            "artist": "Mahmoud El Esseily"
+        }
+    ],
+    "popular_tracks": [
+        {
+            "name": "كده كده بايظه",
+            "track_url": "",
+            "duration_ms": 189913,
+            "image": "https://i.scdn.co/image/ab67616d0000b27354ed7e90b69bbb7d062318c7",
+            "id": 6724,
+            "artist": "Mahmoud El Esseily"
+        },
+        {
+            "name": "سمع هس",
+            "track_url": "",
+            "duration_ms": 156108,
+            "image": "https://i.scdn.co/image/ab67616d0000b2738fd7b3c867f07de787ff3e40",
+            "id": 6725,
+            "artist": "Mahmoud El Esseily"
+        },
+        {
+            "name": "Dom Dom",
+            "track_url": "",
+            "duration_ms": 182232,
+            "image": "https://i.scdn.co/image/ab67616d0000b273623c9b8dc7efad9b5abd852b",
+            "id": 6726,
+            "artist": "Mahmoud El Esseily"
+        },
+        {
+            "name": "Ya Nas",
+            "track_url": "",
+            "duration_ms": 280659,
+            "image": "https://i.scdn.co/image/ab67616d0000b273c5f0a26ef570e674da06e6e6",
+            "id": 6727,
+            "artist": "Mahmoud El Esseily"
+        },
+        {
+            "name": "7elm B3eed",
+            "track_url": "",
+            "duration_ms": 320208,
+            "image": "https://i.scdn.co/image/ab67616d0000b273a5d5cd7c2346b9be4c1dc865",
+            "id": 6728,
+            "artist": "Mahmoud El Esseily"
+        },
+        {
+            "name": "لا أبالي",
+            "track_url": "",
+            "duration_ms": 174231,
+            "image": "https://i.scdn.co/image/ab67616d0000b273d64a1c163e04501825c907d1",
+            "id": 6729,
+            "artist": "Mahmoud El Esseily"
+        },
+        {
+            "name": "Hob Ghalat",
+            "track_url": "",
+            "duration_ms": 247111,
+            "image": "https://i.scdn.co/image/ab67616d0000b2731901e1420e5845d6698b6b22",
+            "id": 6730,
+            "artist": "Mahmoud El Esseily"
+        },
+        {
+            "name": "Fe Hetta Tanya",
+            "track_url": "",
+            "duration_ms": 238278,
+            "image": "https://i.scdn.co/image/ab67616d0000b273b6c768c811e2ba0242532303",
+            "id": 6731,
+            "artist": "Mahmoud El Esseily"
+        },
+        {
+            "name": "Ew3a",
+            "track_url": "",
+            "duration_ms": 193000,
+            "image": "https://i.scdn.co/image/ab67616d0000b2736049eea2116e9ce8c602e0dd",
+            "id": 6732,
+            "artist": "Mahmoud El Esseily"
+        },
+        {
+            "name": "Waga'a El Hawa",
+            "track_url": "",
+            "duration_ms": 297570,
+            "image": "https://i.scdn.co/image/ab67616d0000b2731cb45b8371bf40d0347ca4dc",
+            "id": 6733,
+            "artist": "Mahmoud El Esseily"
+        }
+    ]
+}

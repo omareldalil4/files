@@ -1,0 +1,189 @@
+{
+    "artist": {
+        "id": "6613",
+        "name": "Maha Ftouni",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb2ffb809cfee7be676dcdc212",
+        "background_image": "https://i.scdn.co/image/ab676161000051742ffb809cfee7be676dcdc212"
+    },
+    "albums": [],
+    "singles": [
+        {
+            "name": "فيها رجوع",
+            "release_date": "2024-12-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e8ecaf60c2ac74a3374c4e3c",
+            "track_url": "",
+            "id": 6614,
+            "artist": "Maha Ftouni"
+        },
+        {
+            "name": "مع السلامه",
+            "release_date": "2024-12-05",
+            "image": "https://i.scdn.co/image/ab67616d0000b27389703baba3bdd3b33405221a",
+            "track_url": "",
+            "id": 6615,
+            "artist": "Maha Ftouni"
+        },
+        {
+            "name": "يا واحشني",
+            "release_date": "2024-11-20",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731492b46178bbb6398073fe18",
+            "track_url": "",
+            "id": 6616,
+            "artist": "Maha Ftouni"
+        },
+        {
+            "name": "حب و حبينا",
+            "release_date": "2024-08-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b27361eaebe371a31325bae597c6",
+            "track_url": "",
+            "id": 6617,
+            "artist": "Maha Ftouni"
+        },
+        {
+            "name": "الصبر جميل (المقطع المحذوف)",
+            "release_date": "2024-08-14",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738a8cff8bfbca6dbe96b62bac",
+            "track_url": "",
+            "id": 6618,
+            "artist": "Maha Ftouni"
+        },
+        {
+            "name": "العين بالعين",
+            "release_date": "2024-06-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734b2f0e669099b980caa18af6",
+            "track_url": "",
+            "id": 6619,
+            "artist": "Maha Ftouni"
+        },
+        {
+            "name": "Enta El Ostaz",
+            "release_date": "2024-03-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b27304bf4ebb49ac032c538d364a",
+            "track_url": "",
+            "id": 6620,
+            "artist": "Maha Ftouni"
+        },
+        {
+            "name": "Ma Tuwgaanish - ما توجعنيش",
+            "release_date": "2024-02-22",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738982d5680ee56648cf4c1073",
+            "track_url": "",
+            "id": 6621,
+            "artist": "Maha Ftouni"
+        },
+        {
+            "name": "Akhuya - اخويا",
+            "release_date": "2024-01-02",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730de41ff8267e3fa14e17351c",
+            "track_url": "",
+            "id": 6622,
+            "artist": "Maha Ftouni"
+        },
+        {
+            "name": "Safert B3eed - سافرت بعيد",
+            "release_date": "2023-08-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f067b896696a2e2507fe1852",
+            "track_url": "",
+            "id": 6623,
+            "artist": "Maha Ftouni"
+        },
+        {
+            "name": "El Sabr Gamel - الصبر جميل",
+            "release_date": "2023-02-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737b57703fbcd1eb7950e19199",
+            "track_url": "",
+            "id": 6624,
+            "artist": "Maha Ftouni"
+        },
+        {
+            "name": "Ma Tealaashi",
+            "release_date": "2022-11-16",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a9976df4aaaf8a9b43ec52ea",
+            "track_url": "",
+            "id": 6625,
+            "artist": "Maha Ftouni"
+        }
+    ],
+    "popular_tracks": [
+        {
+            "name": "El Sabr Gamel - الصبر جميل",
+            "track_url": "",
+            "duration_ms": 299431,
+            "image": "https://i.scdn.co/image/ab67616d0000b2737b57703fbcd1eb7950e19199",
+            "id": 6626,
+            "artist": "Maha Ftouni"
+        },
+        {
+            "name": "مع السلامه",
+            "track_url": "",
+            "duration_ms": 210909,
+            "image": "https://i.scdn.co/image/ab67616d0000b27389703baba3bdd3b33405221a",
+            "id": 6627,
+            "artist": "Maha Ftouni"
+        },
+        {
+            "name": "Enta El Ostaz",
+            "track_url": "",
+            "duration_ms": 102750,
+            "image": "https://i.scdn.co/image/ab67616d0000b27304bf4ebb49ac032c538d364a",
+            "id": 6628,
+            "artist": "Maha Ftouni"
+        },
+        {
+            "name": "يا واحشني",
+            "track_url": "",
+            "duration_ms": 158500,
+            "image": "https://i.scdn.co/image/ab67616d0000b2731492b46178bbb6398073fe18",
+            "id": 6629,
+            "artist": "Maha Ftouni"
+        },
+        {
+            "name": "العين بالعين",
+            "track_url": "",
+            "duration_ms": 216923,
+            "image": "https://i.scdn.co/image/ab67616d0000b2734b2f0e669099b980caa18af6",
+            "id": 6630,
+            "artist": "Maha Ftouni"
+        },
+        {
+            "name": "فيها رجوع",
+            "track_url": "",
+            "duration_ms": 199285,
+            "image": "https://i.scdn.co/image/ab67616d0000b273e8ecaf60c2ac74a3374c4e3c",
+            "id": 6631,
+            "artist": "Maha Ftouni"
+        },
+        {
+            "name": "Safert B3eed - سافرت بعيد",
+            "track_url": "",
+            "duration_ms": 243478,
+            "image": "https://i.scdn.co/image/ab67616d0000b273f067b896696a2e2507fe1852",
+            "id": 6632,
+            "artist": "Maha Ftouni"
+        },
+        {
+            "name": "الصبر جميل (المقطع المحذوف)",
+            "track_url": "",
+            "duration_ms": 180156,
+            "image": "https://i.scdn.co/image/ab67616d0000b2738a8cff8bfbca6dbe96b62bac",
+            "id": 6633,
+            "artist": "Maha Ftouni"
+        },
+        {
+            "name": "Ma Tealaashi",
+            "track_url": "",
+            "duration_ms": 251733,
+            "image": "https://i.scdn.co/image/ab67616d0000b273a9976df4aaaf8a9b43ec52ea",
+            "id": 6634,
+            "artist": "Maha Ftouni"
+        },
+        {
+            "name": "حب و حبينا",
+            "track_url": "",
+            "duration_ms": 175465,
+            "image": "https://i.scdn.co/image/ab67616d0000b27361eaebe371a31325bae597c6",
+            "id": 6635,
+            "artist": "Maha Ftouni"
+        }
+    ]
+}

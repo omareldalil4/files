@@ -1,0 +1,513 @@
+{
+    "artist": {
+        "id": "12300",
+        "name": "Faia Younan",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebdc440f3467015afe9b6a364f",
+        "background_image": "https://i.scdn.co/image/ab67616100005174dc440f3467015afe9b6a364f"
+    },
+    "albums": [
+        {
+            "name": "Aswatna",
+            "release_date": "2023-04-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e819d253c0bf2e93f891a9f3",
+            "track_url": "https://open.spotify.com/album/1XotwYVQf0PFP20htwJ7Nt",
+            "tracks": [
+                {
+                    "name": "Nefrah Barsha",
+                    "track_url": "",
+                    "duration_ms": 230400,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e819d253c0bf2e93f891a9f3",
+                    "id": 12302,
+                    "artist": "Faia Younan"
+                },
+                {
+                    "name": "Ma Kontou Adri",
+                    "track_url": "",
+                    "duration_ms": 237174,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e819d253c0bf2e93f891a9f3",
+                    "id": 12303,
+                    "artist": "Faia Younan"
+                },
+                {
+                    "name": "Ya Majnoun",
+                    "track_url": "",
+                    "duration_ms": 230000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e819d253c0bf2e93f891a9f3",
+                    "id": 12304,
+                    "artist": "Faia Younan"
+                },
+                {
+                    "name": "Ya Dhahab",
+                    "track_url": "",
+                    "duration_ms": 241548,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e819d253c0bf2e93f891a9f3",
+                    "id": 12305,
+                    "artist": "Faia Younan"
+                },
+                {
+                    "name": "Tayr Qalqan",
+                    "track_url": "",
+                    "duration_ms": 204963,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e819d253c0bf2e93f891a9f3",
+                    "id": 12306,
+                    "artist": "Faia Younan"
+                },
+                {
+                    "name": "Fousoul Al hayat",
+                    "track_url": "",
+                    "duration_ms": 214400,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e819d253c0bf2e93f891a9f3",
+                    "id": 12307,
+                    "artist": "Faia Younan"
+                },
+                {
+                    "name": "Ya Gomar",
+                    "track_url": "",
+                    "duration_ms": 204800,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e819d253c0bf2e93f891a9f3",
+                    "id": 12308,
+                    "artist": "Faia Younan"
+                },
+                {
+                    "name": "Dima Lia",
+                    "track_url": "",
+                    "duration_ms": 213600,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e819d253c0bf2e93f891a9f3",
+                    "id": 12309,
+                    "artist": "Faia Younan"
+                }
+            ],
+            "id": 12301
+        },
+        {
+            "name": "Tales of The Heart",
+            "release_date": "2019",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e98c043182f1c053c901f8cb",
+            "track_url": "https://open.spotify.com/album/0IaPEKfRtnCM2Hx4tPtlOK",
+            "tracks": [
+                {
+                    "name": "Ya Qatily",
+                    "track_url": "",
+                    "duration_ms": 255586,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e98c043182f1c053c901f8cb",
+                    "id": 12311,
+                    "artist": "Faia Younan"
+                },
+                {
+                    "name": "Kifna Tnaynatna",
+                    "track_url": "",
+                    "duration_ms": 199307,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e98c043182f1c053c901f8cb",
+                    "id": 12312,
+                    "artist": "Faia Younan"
+                },
+                {
+                    "name": "Ghanni",
+                    "track_url": "",
+                    "duration_ms": 211893,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e98c043182f1c053c901f8cb",
+                    "id": 12313,
+                    "artist": "Faia Younan"
+                },
+                {
+                    "name": "Yemken Nesi",
+                    "track_url": "",
+                    "duration_ms": 221613,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e98c043182f1c053c901f8cb",
+                    "id": 12314,
+                    "artist": "Faia Younan"
+                },
+                {
+                    "name": "Falaytaka Tahlou",
+                    "track_url": "",
+                    "duration_ms": 236800,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e98c043182f1c053c901f8cb",
+                    "id": 12315,
+                    "artist": "Faia Younan"
+                },
+                {
+                    "name": "Khelkhaliha",
+                    "track_url": "",
+                    "duration_ms": 250266,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e98c043182f1c053c901f8cb",
+                    "id": 12316,
+                    "artist": "Faia Younan"
+                },
+                {
+                    "name": "Sada Mawalena",
+                    "track_url": "",
+                    "duration_ms": 260440,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e98c043182f1c053c901f8cb",
+                    "id": 12317,
+                    "artist": "Faia Younan"
+                },
+                {
+                    "name": "Damascus",
+                    "track_url": "",
+                    "duration_ms": 340363,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e98c043182f1c053c901f8cb",
+                    "id": 12318,
+                    "artist": "Faia Younan"
+                }
+            ],
+            "id": 12310
+        },
+        {
+            "name": "A Sea Between Us",
+            "release_date": "2017-03-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273fd8f1e26019bb1fbdbb39669",
+            "track_url": "https://open.spotify.com/album/6noo6zD7yYBk2tF9fzWrce",
+            "tracks": [
+                {
+                    "name": "Baynatna Fi Bahr",
+                    "track_url": "",
+                    "duration_ms": 320066,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fd8f1e26019bb1fbdbb39669",
+                    "id": 12320,
+                    "artist": "Faia Younan"
+                },
+                {
+                    "name": "Li Fi Halab",
+                    "track_url": "",
+                    "duration_ms": 264189,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fd8f1e26019bb1fbdbb39669",
+                    "id": 12321,
+                    "artist": "Faia Younan"
+                },
+                {
+                    "name": "Wejjak Ya Helo",
+                    "track_url": "",
+                    "duration_ms": 215341,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fd8f1e26019bb1fbdbb39669",
+                    "id": 12322,
+                    "artist": "Faia Younan"
+                },
+                {
+                    "name": "Tazannar Bi Itri",
+                    "track_url": "",
+                    "duration_ms": 201320,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fd8f1e26019bb1fbdbb39669",
+                    "id": 12323,
+                    "artist": "Faia Younan"
+                },
+                {
+                    "name": "Sheddi 'A Albi",
+                    "track_url": "",
+                    "duration_ms": 259718,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fd8f1e26019bb1fbdbb39669",
+                    "id": 12324,
+                    "artist": "Faia Younan"
+                },
+                {
+                    "name": "Ya Laytahou Yaalam",
+                    "track_url": "",
+                    "duration_ms": 213931,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fd8f1e26019bb1fbdbb39669",
+                    "id": 12325,
+                    "artist": "Faia Younan"
+                },
+                {
+                    "name": "Zanoubia",
+                    "track_url": "",
+                    "duration_ms": 206032,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fd8f1e26019bb1fbdbb39669",
+                    "id": 12326,
+                    "artist": "Faia Younan"
+                },
+                {
+                    "name": "Fi Al Tariki Ilaik",
+                    "track_url": "",
+                    "duration_ms": 237127,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fd8f1e26019bb1fbdbb39669",
+                    "id": 12327,
+                    "artist": "Faia Younan"
+                },
+                {
+                    "name": "Mawtini",
+                    "track_url": "",
+                    "duration_ms": 272000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fd8f1e26019bb1fbdbb39669",
+                    "id": 12328,
+                    "artist": "Faia Younan"
+                }
+            ],
+            "id": 12319
+        }
+    ],
+    "singles": [
+        {
+            "name": "Dahab Ghali (Music from the Original TV Series)",
+            "release_date": "2024-07-03",
+            "image": "https://i.scdn.co/image/ab67616d0000b27357991ff6d60c32fbb4bd5320",
+            "track_url": "",
+            "id": 12329,
+            "artist": "Faia Younan"
+        },
+        {
+            "name": "Damascus",
+            "release_date": "2022-04-29",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d9dfef7396a5049399c7a29b",
+            "track_url": "",
+            "id": 12330,
+            "artist": "Faia Younan"
+        },
+        {
+            "name": "Kun Ashiqan",
+            "release_date": "2022-03-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733494236d3cd0bd2c2f574ab9",
+            "track_url": "",
+            "id": 12331,
+            "artist": "Faia Younan"
+        },
+        {
+            "name": "Metel Lyowm",
+            "release_date": "2021-04-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738b46df75c46dd6561247dcbc",
+            "track_url": "",
+            "id": 12332,
+            "artist": "Faia Younan"
+        },
+        {
+            "name": "Sada Mawalena",
+            "release_date": "2019-06-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730eafbb6c6473548d7b7e1893",
+            "track_url": "",
+            "id": 12333,
+            "artist": "Faia Younan"
+        },
+        {
+            "name": "Khelkhaliha",
+            "release_date": "2019-05-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b27323122b139c856721946c604b",
+            "track_url": "",
+            "id": 12334,
+            "artist": "Faia Younan"
+        },
+        {
+            "name": "Falaytaka Tahlou",
+            "release_date": "2019-05-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b27353ec5b71fffe152068addd65",
+            "track_url": "",
+            "id": 12335,
+            "artist": "Faia Younan"
+        },
+        {
+            "name": "Yemken Nesi",
+            "release_date": "2019-04-26",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738d61481ab8ccd361da0e12af",
+            "track_url": "",
+            "id": 12336,
+            "artist": "Faia Younan"
+        },
+        {
+            "name": "Ghanni",
+            "release_date": "2019-04-12",
+            "image": "https://i.scdn.co/image/ab67616d0000b273bed3275360ecf4f3d0638225",
+            "track_url": "",
+            "id": 12337,
+            "artist": "Faia Younan"
+        },
+        {
+            "name": "Kifna Tnaynatna",
+            "release_date": "2019-03-22",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734e7117223001201ff4388a18",
+            "track_url": "",
+            "id": 12338,
+            "artist": "Faia Younan"
+        },
+        {
+            "name": "Ya Qatily",
+            "release_date": "2019-03-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e8bda1a326264e87d96461f2",
+            "track_url": "",
+            "id": 12339,
+            "artist": "Faia Younan"
+        },
+        {
+            "name": "Baghdad",
+            "release_date": "2018-11-02",
+            "image": "https://i.scdn.co/image/ab67616d0000b273412d2cb5ef9e1f53d4627409",
+            "track_url": "",
+            "id": 12340,
+            "artist": "Faia Younan"
+        },
+        {
+            "name": "Ya Laytahou Yaalam (Piano Version)",
+            "release_date": "2018-08-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738ee2c6bbb4a82966ebba72e6",
+            "track_url": "",
+            "id": 12341,
+            "artist": "Faia Younan"
+        },
+        {
+            "name": "Hob Al Aqwiaa",
+            "release_date": "2018-02-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b273bdc8e6e811d5983275a65385",
+            "track_url": "",
+            "id": 12342,
+            "artist": "Faia Younan"
+        },
+        {
+            "name": "Fi Al Tariki Ilaik",
+            "release_date": "2017-03-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b27315d722e22354d5847e0026f6",
+            "track_url": "",
+            "id": 12343,
+            "artist": "Faia Younan"
+        },
+        {
+            "name": "Zanoubia",
+            "release_date": "2017-03-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b676b897345e6951008a4c86",
+            "track_url": "",
+            "id": 12344,
+            "artist": "Faia Younan"
+        },
+        {
+            "name": "Ya Laytahou Yaalam",
+            "release_date": "2017-02-16",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b706f7fff15c477e4fb345b5",
+            "track_url": "",
+            "id": 12345,
+            "artist": "Faia Younan"
+        },
+        {
+            "name": "Tazannar Bi Itri",
+            "release_date": "2017-01-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738da782f9a30bc388d714db4e",
+            "track_url": "",
+            "id": 12346,
+            "artist": "Faia Younan"
+        },
+        {
+            "name": "Sheddi 'A Albi",
+            "release_date": "2017-01-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733ce421b11fcd50940bfee679",
+            "track_url": "",
+            "id": 12347,
+            "artist": "Faia Younan"
+        },
+        {
+            "name": "Li Fi Halab",
+            "release_date": "2017-01-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739089d4757bf756c65d749a6e",
+            "track_url": "",
+            "id": 12348,
+            "artist": "Faia Younan"
+        },
+        {
+            "name": "Wejjak Ya Helo",
+            "release_date": "2017-01-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732b1301d76a7f4db35d2ba4b2",
+            "track_url": "",
+            "id": 12349,
+            "artist": "Faia Younan"
+        },
+        {
+            "name": "Baynatna Fi Bahr",
+            "release_date": "2017-01-16",
+            "image": "https://i.scdn.co/image/ab67616d0000b273414d11e1fd5c842bac595e9f",
+            "track_url": "",
+            "id": 12350,
+            "artist": "Faia Younan"
+        },
+        {
+            "name": "Nam Ya Habibi",
+            "release_date": "2015-09-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737217cefab42a135653106cc7",
+            "track_url": "",
+            "id": 12351,
+            "artist": "Faia Younan"
+        },
+        {
+            "name": "Ohebbou Yadayka",
+            "release_date": "2015-06-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b27353a5ec803f80c11012d0e2f7",
+            "track_url": "",
+            "id": 12352,
+            "artist": "Faia Younan"
+        }
+    ],
+    "popular_tracks": [
+        {
+            "name": "Ya Qatily",
+            "track_url": "",
+            "duration_ms": 255586,
+            "image": "https://i.scdn.co/image/ab67616d0000b273e98c043182f1c053c901f8cb",
+            "id": 12353,
+            "artist": "Faia Younan"
+        },
+        {
+            "name": "Ya Laytahou Yaalam",
+            "track_url": "",
+            "duration_ms": 213931,
+            "image": "https://i.scdn.co/image/ab67616d0000b273fd8f1e26019bb1fbdbb39669",
+            "id": 12354,
+            "artist": "Faia Younan"
+        },
+        {
+            "name": "Ghanni",
+            "track_url": "",
+            "duration_ms": 211893,
+            "image": "https://i.scdn.co/image/ab67616d0000b273e98c043182f1c053c901f8cb",
+            "id": 12355,
+            "artist": "Faia Younan"
+        },
+        {
+            "name": "Fi Al Tariki Ilaik",
+            "track_url": "",
+            "duration_ms": 237127,
+            "image": "https://i.scdn.co/image/ab67616d0000b273fd8f1e26019bb1fbdbb39669",
+            "id": 12356,
+            "artist": "Faia Younan"
+        },
+        {
+            "name": "Falaytaka Tahlou",
+            "track_url": "",
+            "duration_ms": 236800,
+            "image": "https://i.scdn.co/image/ab67616d0000b273e98c043182f1c053c901f8cb",
+            "id": 12357,
+            "artist": "Faia Younan"
+        },
+        {
+            "name": "Fousoul Al hayat",
+            "track_url": "",
+            "duration_ms": 214400,
+            "image": "https://i.scdn.co/image/ab67616d0000b273e819d253c0bf2e93f891a9f3",
+            "id": 12358,
+            "artist": "Faia Younan"
+        },
+        {
+            "name": "Kun Ashiqan",
+            "track_url": "",
+            "duration_ms": 207346,
+            "image": "https://i.scdn.co/image/ab67616d0000b2733494236d3cd0bd2c2f574ab9",
+            "id": 12359,
+            "artist": "Faia Younan"
+        },
+        {
+            "name": "Ohebbou Yadayka",
+            "track_url": "",
+            "duration_ms": 226575,
+            "image": "https://i.scdn.co/image/ab67616d0000b27353a5ec803f80c11012d0e2f7",
+            "id": 12360,
+            "artist": "Faia Younan"
+        },
+        {
+            "name": "Mawtini",
+            "track_url": "",
+            "duration_ms": 272000,
+            "image": "https://i.scdn.co/image/ab67616d0000b273fd8f1e26019bb1fbdbb39669",
+            "id": 12361,
+            "artist": "Faia Younan"
+        },
+        {
+            "name": "Yemken Nesi",
+            "track_url": "",
+            "duration_ms": 221613,
+            "image": "https://i.scdn.co/image/ab67616d0000b273e98c043182f1c053c901f8cb",
+            "id": 12362,
+            "artist": "Faia Younan"
+        }
+    ]
+}

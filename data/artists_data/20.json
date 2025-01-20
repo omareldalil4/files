@@ -1,0 +1,900 @@
+{
+    "artist": {
+        "id": "3548",
+        "name": "Haifa Wehbe",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb59ab7a387638772bdc0b206e",
+        "background_image": "https://i.scdn.co/image/ab6761610000517459ab7a387638772bdc0b206e"
+    },
+    "albums": [
+        {
+            "name": "Hawwa",
+            "release_date": "2018-09-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735152eb92be434069c7131190",
+            "track_url": "https://open.spotify.com/album/0bodKGoJqjGFz6eFtsU0K4",
+            "tracks": [
+                {
+                    "name": "Waheshny",
+                    "track_url": "",
+                    "duration_ms": 231680,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735152eb92be434069c7131190",
+                    "id": 3550,
+                    "artist": "Haifa Wehbe"
+                },
+                {
+                    "name": "Hafdal",
+                    "track_url": "",
+                    "duration_ms": 213812,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735152eb92be434069c7131190",
+                    "id": 3551,
+                    "artist": "Haifa Wehbe"
+                },
+                {
+                    "name": "Jann El Sabi",
+                    "track_url": "",
+                    "duration_ms": 229799,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735152eb92be434069c7131190",
+                    "id": 3552,
+                    "artist": "Haifa Wehbe"
+                },
+                {
+                    "name": "A'lo Sabni",
+                    "track_url": "",
+                    "duration_ms": 238367,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735152eb92be434069c7131190",
+                    "id": 3553,
+                    "artist": "Haifa Wehbe"
+                },
+                {
+                    "name": "Mazzika Hadi",
+                    "track_url": "",
+                    "duration_ms": 256730,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735152eb92be434069c7131190",
+                    "id": 3554,
+                    "artist": "Haifa Wehbe"
+                },
+                {
+                    "name": "Set El Banat",
+                    "track_url": "",
+                    "duration_ms": 205714,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735152eb92be434069c7131190",
+                    "id": 3555,
+                    "artist": "Haifa Wehbe"
+                },
+                {
+                    "name": "Egmady",
+                    "track_url": "",
+                    "duration_ms": 222328,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735152eb92be434069c7131190",
+                    "id": 3556,
+                    "artist": "Haifa Wehbe"
+                },
+                {
+                    "name": "Mateegy Noro's",
+                    "track_url": "",
+                    "duration_ms": 247719,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735152eb92be434069c7131190",
+                    "id": 3557,
+                    "artist": "Haifa Wehbe"
+                },
+                {
+                    "name": "Fe Youm Mn El Ayam",
+                    "track_url": "",
+                    "duration_ms": 200150,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735152eb92be434069c7131190",
+                    "id": 3558,
+                    "artist": "Haifa Wehbe"
+                },
+                {
+                    "name": "Sabaho Ward",
+                    "track_url": "",
+                    "duration_ms": 160130,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735152eb92be434069c7131190",
+                    "id": 3559,
+                    "artist": "Haifa Wehbe"
+                },
+                {
+                    "name": "Allaha Bahebik",
+                    "track_url": "",
+                    "duration_ms": 275200,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735152eb92be434069c7131190",
+                    "id": 3560,
+                    "artist": "Haifa Wehbe"
+                },
+                {
+                    "name": "Ahdam Khabriye",
+                    "track_url": "",
+                    "duration_ms": 199235,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735152eb92be434069c7131190",
+                    "id": 3561,
+                    "artist": "Haifa Wehbe"
+                },
+                {
+                    "name": "Bahib El Hayat",
+                    "track_url": "",
+                    "duration_ms": 187350,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735152eb92be434069c7131190",
+                    "id": 3562,
+                    "artist": "Haifa Wehbe"
+                },
+                {
+                    "name": "Touta",
+                    "track_url": "",
+                    "duration_ms": 233012,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735152eb92be434069c7131190",
+                    "id": 3563,
+                    "artist": "Haifa Wehbe"
+                },
+                {
+                    "name": "Hawwa",
+                    "track_url": "",
+                    "duration_ms": 195343,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735152eb92be434069c7131190",
+                    "id": 3564,
+                    "artist": "Haifa Wehbe"
+                }
+            ],
+            "id": 3549
+        },
+        {
+            "name": "Houwa El Zaman",
+            "release_date": "2013-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736d3fd41a74cc29dd1d641bc7",
+            "track_url": "https://open.spotify.com/album/009RW0MttQawyTcXFGSTu2",
+            "tracks": [
+                {
+                    "name": "Agoul Ahwak",
+                    "track_url": "",
+                    "duration_ms": 200933,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736d3fd41a74cc29dd1d641bc7",
+                    "id": 3566,
+                    "artist": "Haifa Wehbe"
+                },
+                {
+                    "name": "Kalouli Annou",
+                    "track_url": "",
+                    "duration_ms": 219376,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736d3fd41a74cc29dd1d641bc7",
+                    "id": 3567,
+                    "artist": "Haifa Wehbe"
+                },
+                {
+                    "name": "Ma Sar",
+                    "track_url": "",
+                    "duration_ms": 190432,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736d3fd41a74cc29dd1d641bc7",
+                    "id": 3568,
+                    "artist": "Haifa Wehbe"
+                },
+                {
+                    "name": "Houwa El Zaman",
+                    "track_url": "",
+                    "duration_ms": 198008,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736d3fd41a74cc29dd1d641bc7",
+                    "id": 3569,
+                    "artist": "Haifa Wehbe"
+                },
+                {
+                    "name": "Ajmal sodfa",
+                    "track_url": "",
+                    "duration_ms": 220368,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736d3fd41a74cc29dd1d641bc7",
+                    "id": 3570,
+                    "artist": "Haifa Wehbe"
+                },
+                {
+                    "name": "Wahdi",
+                    "track_url": "",
+                    "duration_ms": 237087,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736d3fd41a74cc29dd1d641bc7",
+                    "id": 3571,
+                    "artist": "Haifa Wehbe"
+                },
+                {
+                    "name": "Ahla Kalam",
+                    "track_url": "",
+                    "duration_ms": 232515,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736d3fd41a74cc29dd1d641bc7",
+                    "id": 3572,
+                    "artist": "Haifa Wehbe"
+                },
+                {
+                    "name": "Salem Halak",
+                    "track_url": "",
+                    "duration_ms": 188029,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736d3fd41a74cc29dd1d641bc7",
+                    "id": 3573,
+                    "artist": "Haifa Wehbe"
+                },
+                {
+                    "name": "Ma Tekli Kan Ou Kan",
+                    "track_url": "",
+                    "duration_ms": 267833,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736d3fd41a74cc29dd1d641bc7",
+                    "id": 3574,
+                    "artist": "Haifa Wehbe"
+                },
+                {
+                    "name": "Badi Ou Ma Badi",
+                    "track_url": "",
+                    "duration_ms": 202240,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736d3fd41a74cc29dd1d641bc7",
+                    "id": 3575,
+                    "artist": "Haifa Wehbe"
+                }
+            ],
+            "id": 3565
+        },
+        {
+            "name": "Malikat Jamal Al Kawen",
+            "release_date": "2012-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739422308578bbc580fa4005c3",
+            "track_url": "https://open.spotify.com/album/3CbzMWYhzY6W60PydA9j4X",
+            "tracks": [
+                {
+                    "name": "Aaref",
+                    "track_url": "",
+                    "duration_ms": 256730,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739422308578bbc580fa4005c3",
+                    "id": 3577,
+                    "artist": "Haifa Wehbe"
+                },
+                {
+                    "name": "Matoolesh",
+                    "track_url": "",
+                    "duration_ms": 310752,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739422308578bbc580fa4005c3",
+                    "id": 3578,
+                    "artist": "Haifa Wehbe"
+                },
+                {
+                    "name": "Harami Qolob",
+                    "track_url": "",
+                    "duration_ms": 225097,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739422308578bbc580fa4005c3",
+                    "id": 3579,
+                    "artist": "Haifa Wehbe"
+                },
+                {
+                    "name": "Malket Gamal El Kowan",
+                    "track_url": "",
+                    "duration_ms": 234135,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739422308578bbc580fa4005c3",
+                    "id": 3580,
+                    "artist": "Haifa Wehbe"
+                },
+                {
+                    "name": "Kobah",
+                    "track_url": "",
+                    "duration_ms": 231209,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739422308578bbc580fa4005c3",
+                    "id": 3581,
+                    "artist": "Haifa Wehbe"
+                },
+                {
+                    "name": "Bayzah Khelaah",
+                    "track_url": "",
+                    "duration_ms": 240039,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739422308578bbc580fa4005c3",
+                    "id": 3582,
+                    "artist": "Haifa Wehbe"
+                },
+                {
+                    "name": "Kont Haaolak Eih",
+                    "track_url": "",
+                    "duration_ms": 239908,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739422308578bbc580fa4005c3",
+                    "id": 3583,
+                    "artist": "Haifa Wehbe"
+                },
+                {
+                    "name": "Bade Bakek Bokra Bafragek",
+                    "track_url": "",
+                    "duration_ms": 250044,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739422308578bbc580fa4005c3",
+                    "id": 3584,
+                    "artist": "Haifa Wehbe"
+                },
+                {
+                    "name": "Samaani",
+                    "track_url": "",
+                    "duration_ms": 249678,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739422308578bbc580fa4005c3",
+                    "id": 3585,
+                    "artist": "Haifa Wehbe"
+                },
+                {
+                    "name": "Bade Shof Beaynak Hob",
+                    "track_url": "",
+                    "duration_ms": 277890,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739422308578bbc580fa4005c3",
+                    "id": 3586,
+                    "artist": "Haifa Wehbe"
+                },
+                {
+                    "name": "Baolak Eih Ya Aam",
+                    "track_url": "",
+                    "duration_ms": 195395,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739422308578bbc580fa4005c3",
+                    "id": 3587,
+                    "artist": "Haifa Wehbe"
+                },
+                {
+                    "name": "Yalla Maa Baad",
+                    "track_url": "",
+                    "duration_ms": 246177,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739422308578bbc580fa4005c3",
+                    "id": 3588,
+                    "artist": "Haifa Wehbe"
+                },
+                {
+                    "name": "Bahrab Men Aneh",
+                    "track_url": "",
+                    "duration_ms": 274364,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739422308578bbc580fa4005c3",
+                    "id": 3589,
+                    "artist": "Haifa Wehbe"
+                },
+                {
+                    "name": "Baheb Feek Hagat",
+                    "track_url": "",
+                    "duration_ms": 198608,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739422308578bbc580fa4005c3",
+                    "id": 3590,
+                    "artist": "Haifa Wehbe"
+                }
+            ],
+            "id": 3576
+        },
+        {
+            "name": "Baby Haifa",
+            "release_date": "2010-03-29",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732ffc87e1f85ef5c1c93c1d53",
+            "track_url": "https://open.spotify.com/album/2j55wQeBxHcZ0BJ7B3N9t8",
+            "tracks": [
+                {
+                    "name": "El Wawa",
+                    "track_url": "",
+                    "duration_ms": 180480,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732ffc87e1f85ef5c1c93c1d53",
+                    "id": 3592,
+                    "artist": "Haifa Wehbe"
+                },
+                {
+                    "name": "Baba fen",
+                    "track_url": "",
+                    "duration_ms": 210680,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732ffc87e1f85ef5c1c93c1d53",
+                    "id": 3593,
+                    "artist": "Haifa Wehbe"
+                },
+                {
+                    "name": "Lama Shams",
+                    "track_url": "",
+                    "duration_ms": 163213,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732ffc87e1f85ef5c1c93c1d53",
+                    "id": 3594,
+                    "artist": "Haifa Wehbe"
+                },
+                {
+                    "name": "Aklek Mnen Ya Batah",
+                    "track_url": "",
+                    "duration_ms": 220133,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732ffc87e1f85ef5c1c93c1d53",
+                    "id": 3595,
+                    "artist": "Haifa Wehbe"
+                },
+                {
+                    "name": "Ya Toto",
+                    "track_url": "",
+                    "duration_ms": 214720,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732ffc87e1f85ef5c1c93c1d53",
+                    "id": 3596,
+                    "artist": "Haifa Wehbe"
+                },
+                {
+                    "name": "Bekousi",
+                    "track_url": "",
+                    "duration_ms": 205373,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732ffc87e1f85ef5c1c93c1d53",
+                    "id": 3597,
+                    "artist": "Haifa Wehbe"
+                },
+                {
+                    "name": "Nouti",
+                    "track_url": "",
+                    "duration_ms": 196880,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732ffc87e1f85ef5c1c93c1d53",
+                    "id": 3598,
+                    "artist": "Haifa Wehbe"
+                },
+                {
+                    "name": "Hek El Mama",
+                    "track_url": "",
+                    "duration_ms": 191720,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732ffc87e1f85ef5c1c93c1d53",
+                    "id": 3599,
+                    "artist": "Haifa Wehbe"
+                }
+            ],
+            "id": 3591
+        },
+        {
+            "name": "Habibi Ana",
+            "release_date": "2008-07-02",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ed7f4f2c7fd300680ae69f86",
+            "track_url": "https://open.spotify.com/album/3brnVXTYb7DnUUvLBAYSzv",
+            "tracks": [
+                {
+                    "name": "Habibi Ana",
+                    "track_url": "",
+                    "duration_ms": 242413,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ed7f4f2c7fd300680ae69f86",
+                    "id": 3601,
+                    "artist": "Haifa Wehbe"
+                },
+                {
+                    "name": "Yabn El Halal",
+                    "track_url": "",
+                    "duration_ms": 222400,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ed7f4f2c7fd300680ae69f86",
+                    "id": 3602,
+                    "artist": "Haifa Wehbe"
+                },
+                {
+                    "name": "Baad Elli Hasalli",
+                    "track_url": "",
+                    "duration_ms": 267893,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ed7f4f2c7fd300680ae69f86",
+                    "id": 3603,
+                    "artist": "Haifa Wehbe"
+                },
+                {
+                    "name": "Albi Habb",
+                    "track_url": "",
+                    "duration_ms": 221280,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ed7f4f2c7fd300680ae69f86",
+                    "id": 3604,
+                    "artist": "Haifa Wehbe"
+                },
+                {
+                    "name": "Olt Eih",
+                    "track_url": "",
+                    "duration_ms": 286893,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ed7f4f2c7fd300680ae69f86",
+                    "id": 3605,
+                    "artist": "Haifa Wehbe"
+                },
+                {
+                    "name": "Matolsh Lehad",
+                    "track_url": "",
+                    "duration_ms": 240893,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ed7f4f2c7fd300680ae69f86",
+                    "id": 3606,
+                    "artist": "Haifa Wehbe"
+                },
+                {
+                    "name": "Metakhda",
+                    "track_url": "",
+                    "duration_ms": 220933,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ed7f4f2c7fd300680ae69f86",
+                    "id": 3607,
+                    "artist": "Haifa Wehbe"
+                },
+                {
+                    "name": "Ayami",
+                    "track_url": "",
+                    "duration_ms": 278413,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ed7f4f2c7fd300680ae69f86",
+                    "id": 3608,
+                    "artist": "Haifa Wehbe"
+                },
+                {
+                    "name": "Hat Alaya",
+                    "track_url": "",
+                    "duration_ms": 266893,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ed7f4f2c7fd300680ae69f86",
+                    "id": 3609,
+                    "artist": "Haifa Wehbe"
+                },
+                {
+                    "name": "Tesmahli",
+                    "track_url": "",
+                    "duration_ms": 266413,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ed7f4f2c7fd300680ae69f86",
+                    "id": 3610,
+                    "artist": "Haifa Wehbe"
+                },
+                {
+                    "name": "Khayna",
+                    "track_url": "",
+                    "duration_ms": 236906,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ed7f4f2c7fd300680ae69f86",
+                    "id": 3611,
+                    "artist": "Haifa Wehbe"
+                },
+                {
+                    "name": "Hasa Ma Bena",
+                    "track_url": "",
+                    "duration_ms": 246733,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ed7f4f2c7fd300680ae69f86",
+                    "id": 3612,
+                    "artist": "Haifa Wehbe"
+                },
+                {
+                    "name": "Ma Tkallemnish",
+                    "track_url": "",
+                    "duration_ms": 263653,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ed7f4f2c7fd300680ae69f86",
+                    "id": 3613,
+                    "artist": "Haifa Wehbe"
+                },
+                {
+                    "name": "Ehsasi Beek",
+                    "track_url": "",
+                    "duration_ms": 231906,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ed7f4f2c7fd300680ae69f86",
+                    "id": 3614,
+                    "artist": "Haifa Wehbe"
+                },
+                {
+                    "name": "Mosh Adra Astanna",
+                    "track_url": "",
+                    "duration_ms": 270400,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ed7f4f2c7fd300680ae69f86",
+                    "id": 3615,
+                    "artist": "Haifa Wehbe"
+                }
+            ],
+            "id": 3600
+        },
+        {
+            "name": "Badi Eish",
+            "release_date": "2003-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27358ff240eccb51dbd64cee3bc",
+            "track_url": "https://open.spotify.com/album/3sJrwWNGMdyISHiSQpUmqM",
+            "tracks": [
+                {
+                    "name": "Rajab",
+                    "track_url": "",
+                    "duration_ms": 205322,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27358ff240eccb51dbd64cee3bc",
+                    "id": 3617,
+                    "artist": "Haifa Wehbe"
+                },
+                {
+                    "name": "Ya Hayat Albe",
+                    "track_url": "",
+                    "duration_ms": 250880,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27358ff240eccb51dbd64cee3bc",
+                    "id": 3618,
+                    "artist": "Haifa Wehbe"
+                },
+                {
+                    "name": "Ana Hayfa",
+                    "track_url": "",
+                    "duration_ms": 243487,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27358ff240eccb51dbd64cee3bc",
+                    "id": 3619,
+                    "artist": "Haifa Wehbe"
+                },
+                {
+                    "name": "Badi Eish",
+                    "track_url": "",
+                    "duration_ms": 223529,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27358ff240eccb51dbd64cee3bc",
+                    "id": 3620,
+                    "artist": "Haifa Wehbe"
+                },
+                {
+                    "name": "Fakerne",
+                    "track_url": "",
+                    "duration_ms": 229564,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27358ff240eccb51dbd64cee3bc",
+                    "id": 3621,
+                    "artist": "Haifa Wehbe"
+                },
+                {
+                    "name": "Ma Khadtesh Bale",
+                    "track_url": "",
+                    "duration_ms": 249913,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27358ff240eccb51dbd64cee3bc",
+                    "id": 3622,
+                    "artist": "Haifa Wehbe"
+                },
+                {
+                    "name": "Tege Ezae",
+                    "track_url": "",
+                    "duration_ms": 235284,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27358ff240eccb51dbd64cee3bc",
+                    "id": 3623,
+                    "artist": "Haifa Wehbe"
+                },
+                {
+                    "name": "Bahibak Hob",
+                    "track_url": "",
+                    "duration_ms": 237871,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27358ff240eccb51dbd64cee3bc",
+                    "id": 3624,
+                    "artist": "Haifa Wehbe"
+                },
+                {
+                    "name": "Nar El Ashwaq",
+                    "track_url": "",
+                    "duration_ms": 227395,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27358ff240eccb51dbd64cee3bc",
+                    "id": 3625,
+                    "artist": "Haifa Wehbe"
+                },
+                {
+                    "name": "Bahebak Moot",
+                    "track_url": "",
+                    "duration_ms": 295471,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27358ff240eccb51dbd64cee3bc",
+                    "id": 3626,
+                    "artist": "Haifa Wehbe"
+                },
+                {
+                    "name": "Hawa El Zaman Remix",
+                    "track_url": "",
+                    "duration_ms": 243330,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27358ff240eccb51dbd64cee3bc",
+                    "id": 3627,
+                    "artist": "Haifa Wehbe"
+                },
+                {
+                    "name": "Twal Omry",
+                    "track_url": "",
+                    "duration_ms": 229459,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27358ff240eccb51dbd64cee3bc",
+                    "id": 3628,
+                    "artist": "Haifa Wehbe"
+                },
+                {
+                    "name": "Fi Einek",
+                    "track_url": "",
+                    "duration_ms": 257618,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27358ff240eccb51dbd64cee3bc",
+                    "id": 3629,
+                    "artist": "Haifa Wehbe"
+                }
+            ],
+            "id": 3616
+        }
+    ],
+    "singles": [
+        {
+            "name": "Ya Nahla",
+            "release_date": "2024-05-05",
+            "image": "https://i.scdn.co/image/ab67616d0000b27369e0bacc85b213a84aee7436",
+            "track_url": "",
+            "id": 3630,
+            "artist": "Haifa Wehbe"
+        },
+        {
+            "name": "Woseltelha",
+            "release_date": "2024-01-12",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c30de92e74283d22938bd2c9",
+            "track_url": "",
+            "id": 3631,
+            "artist": "Haifa Wehbe"
+        },
+        {
+            "name": "Ma Badaafsh",
+            "release_date": "2023-07-06",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a1eb390adb77b54ec4fc3206",
+            "track_url": "",
+            "id": 3632,
+            "artist": "Haifa Wehbe"
+        },
+        {
+            "name": "Ee’mel Share (from the movie \"Ramsis Paris\")",
+            "release_date": "2023-04-20",
+            "image": "https://i.scdn.co/image/ab67616d0000b27314dc7694abba16c13a99f032",
+            "track_url": "",
+            "id": 3633,
+            "artist": "Haifa Wehbe"
+        },
+        {
+            "name": "Walad",
+            "release_date": "2022-10-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b27341e5d422203286d908e8f8c7",
+            "track_url": "",
+            "id": 3634,
+            "artist": "Haifa Wehbe"
+        },
+        {
+            "name": "Tigi",
+            "release_date": "2022-07-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736487c8f63ca75e7cd2cb898c",
+            "track_url": "",
+            "id": 3635,
+            "artist": "Haifa Wehbe"
+        },
+        {
+            "name": "Law Kont",
+            "release_date": "2021-06-14",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738229b6451d43ca9c16d42542",
+            "track_url": "",
+            "id": 3636,
+            "artist": "Haifa Wehbe"
+        },
+        {
+            "name": "Liek El Cha Cha",
+            "release_date": "2019-12-05",
+            "image": "https://i.scdn.co/image/ab67616d0000b27320976f40c2303b06e13a89e8",
+            "track_url": "",
+            "id": 3637,
+            "artist": "Haifa Wehbe"
+        },
+        {
+            "name": "Tamalli Nag7a",
+            "release_date": "2019-09-03",
+            "image": "https://i.scdn.co/image/ab67616d0000b27320a65db941ca767953df7dfd",
+            "track_url": "",
+            "id": 3638,
+            "artist": "Haifa Wehbe"
+        },
+        {
+            "name": "Shaghla Kol Ennas",
+            "release_date": "2019-08-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b27376761974447f4a3cefb992db",
+            "track_url": "",
+            "id": 3639,
+            "artist": "Haifa Wehbe"
+        },
+        {
+            "name": "Breathing You In",
+            "release_date": "2015-04-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b273eccca2c8b37b6d9a9602a494",
+            "track_url": "",
+            "id": 3640,
+            "artist": "Haifa Wehbe"
+        },
+        {
+            "name": "Breathing You In",
+            "release_date": "2015-04-14",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a8206f71d600201acd258f99",
+            "track_url": "",
+            "id": 3641,
+            "artist": "Haifa Wehbe"
+        },
+        {
+            "name": "Oppa Oppa",
+            "release_date": "2014-11-13",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736777656398bf90ba45832146",
+            "track_url": "",
+            "id": 3642,
+            "artist": "Haifa Wehbe"
+        },
+        {
+            "name": "Farhana",
+            "release_date": "2014-07-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b273394afd5cceda4b5b0706c526",
+            "track_url": "",
+            "id": 3643,
+            "artist": "Haifa Wehbe"
+        },
+        {
+            "name": "Ana Aam Behlam Fik",
+            "release_date": "2013-08-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b27393b78172ca3597dc1382116e",
+            "track_url": "",
+            "id": 3644,
+            "artist": "Haifa Wehbe"
+        },
+        {
+            "name": "Ya Majnoon",
+            "release_date": "2011-12-14",
+            "image": "https://i.scdn.co/image/ab67616d0000b27379d16e1bf4f891b5fb0da4c2",
+            "track_url": "",
+            "id": 3645,
+            "artist": "Haifa Wehbe"
+        },
+        {
+            "name": "Enta Tani",
+            "release_date": "2010-02-13",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c5a08c99e2a981cbfc4d8b71",
+            "track_url": "",
+            "id": 3646,
+            "artist": "Haifa Wehbe"
+        },
+        {
+            "name": "80 Million Ehsas",
+            "release_date": "2009-12-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b27378fa5eafeacf1abe76f651dd",
+            "track_url": "",
+            "id": 3647,
+            "artist": "Haifa Wehbe"
+        },
+        {
+            "name": "I Will Survive",
+            "release_date": "2009-11-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735ab41a9ebb27a3e9cd0ffa6c",
+            "track_url": "",
+            "id": 3648,
+            "artist": "Haifa Wehbe"
+        }
+    ],
+    "popular_tracks": [
+        {
+            "name": "Woseltelha",
+            "track_url": "",
+            "duration_ms": 248241,
+            "image": "https://i.scdn.co/image/ab67616d0000b273c30de92e74283d22938bd2c9",
+            "id": 3649,
+            "artist": "Haifa Wehbe"
+        },
+        {
+            "name": "Touta",
+            "track_url": "",
+            "duration_ms": 233012,
+            "image": "https://i.scdn.co/image/ab67616d0000b2735152eb92be434069c7131190",
+            "id": 3650,
+            "artist": "Haifa Wehbe"
+        },
+        {
+            "name": "يا حياة قلبى",
+            "track_url": "",
+            "duration_ms": 250880,
+            "image": "https://i.scdn.co/image/ab67616d0000b273938c9ef86b2b691805927be1",
+            "id": 3651,
+            "artist": "Haifa Wehbe"
+        },
+        {
+            "name": "الواوا",
+            "track_url": "",
+            "duration_ms": 180480,
+            "image": "https://i.scdn.co/image/ab67616d0000b273def6a0c079d043aafa12ed42",
+            "id": 3652,
+            "artist": "Haifa Wehbe"
+        },
+        {
+            "name": "Oppa Oppa",
+            "track_url": "",
+            "duration_ms": 288716,
+            "image": "https://i.scdn.co/image/ab67616d0000b2736777656398bf90ba45832146",
+            "id": 3653,
+            "artist": "Haifa Wehbe"
+        },
+        {
+            "name": "Enta Tani",
+            "track_url": "",
+            "duration_ms": 224815,
+            "image": "https://i.scdn.co/image/ab67616d0000b27350d9670c3e8f4c9c311c9096",
+            "id": 3654,
+            "artist": "Haifa Wehbe"
+        },
+        {
+            "name": "Law Kont",
+            "track_url": "",
+            "duration_ms": 190434,
+            "image": "https://i.scdn.co/image/ab67616d0000b2738229b6451d43ca9c16d42542",
+            "id": 3655,
+            "artist": "Haifa Wehbe"
+        },
+        {
+            "name": "كنت هقولك أيه",
+            "track_url": "",
+            "duration_ms": 239908,
+            "image": "https://i.scdn.co/image/ab67616d0000b273f56bf7b8d7a3ed0511dcc5b4",
+            "id": 3656,
+            "artist": "Haifa Wehbe"
+        },
+        {
+            "name": "رجب",
+            "track_url": "",
+            "duration_ms": 205322,
+            "image": "https://i.scdn.co/image/ab67616d0000b273938c9ef86b2b691805927be1",
+            "id": 3657,
+            "artist": "Haifa Wehbe"
+        },
+        {
+            "name": "فاكرنى",
+            "track_url": "",
+            "duration_ms": 229564,
+            "image": "https://i.scdn.co/image/ab67616d0000b273938c9ef86b2b691805927be1",
+            "id": 3658,
+            "artist": "Haifa Wehbe"
+        }
+    ]
+}

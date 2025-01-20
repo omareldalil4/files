@@ -1,0 +1,3019 @@
+{
+    "artist": {
+        "id": "6841",
+        "name": "Medhat Saleh",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb8538e5b8d0a230eb08261b21",
+        "background_image": "https://i.scdn.co/image/ab676161000051748538e5b8d0a230eb08261b21"
+    },
+    "albums": [
+        {
+            "name": "بالمختصر المفيد",
+            "release_date": "2024-08-13",
+            "image": "https://i.scdn.co/image/ab67616d0000b27301878b545de562aa0784e8c4",
+            "track_url": "https://open.spotify.com/album/0B0vXCGYpffUMIF8Li13Nz",
+            "tracks": [
+                {
+                    "name": "كذا ميزة",
+                    "track_url": "",
+                    "duration_ms": 212571,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27301878b545de562aa0784e8c4",
+                    "id": 6843,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "الجمال حتته",
+                    "track_url": "",
+                    "duration_ms": 290356,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27301878b545de562aa0784e8c4",
+                    "id": 6844,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "أرض أرض",
+                    "track_url": "",
+                    "duration_ms": 196419,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27301878b545de562aa0784e8c4",
+                    "id": 6845,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "عقبالي",
+                    "track_url": "",
+                    "duration_ms": 192000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27301878b545de562aa0784e8c4",
+                    "id": 6846,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "العصفورة",
+                    "track_url": "",
+                    "duration_ms": 244860,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27301878b545de562aa0784e8c4",
+                    "id": 6847,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "في الجمال شهادات",
+                    "track_url": "",
+                    "duration_ms": 212800,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27301878b545de562aa0784e8c4",
+                    "id": 6848,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "وإيه تاني",
+                    "track_url": "",
+                    "duration_ms": 203750,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27301878b545de562aa0784e8c4",
+                    "id": 6849,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "السهرة حلوة",
+                    "track_url": "",
+                    "duration_ms": 224347,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27301878b545de562aa0784e8c4",
+                    "id": 6850,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "خدها قاعدة",
+                    "track_url": "",
+                    "duration_ms": 233142,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27301878b545de562aa0784e8c4",
+                    "id": 6851,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "فكك قضيها",
+                    "track_url": "",
+                    "duration_ms": 219428,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27301878b545de562aa0784e8c4",
+                    "id": 6852,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "بالمختصر المفيد",
+                    "track_url": "",
+                    "duration_ms": 212801,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27301878b545de562aa0784e8c4",
+                    "id": 6853,
+                    "artist": "Medhat Saleh"
+                }
+            ],
+            "id": 6842
+        },
+        {
+            "name": "إستنى",
+            "release_date": "2024-04-22",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f09b5adda805514c82358d31",
+            "track_url": "https://open.spotify.com/album/4SC5hLgp2JC9zLHtC95WAF",
+            "tracks": [
+                {
+                    "name": "عيون البنت",
+                    "track_url": "",
+                    "duration_ms": 213600,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f09b5adda805514c82358d31",
+                    "id": 6855,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "جايب قلبي معايا",
+                    "track_url": "",
+                    "duration_ms": 214153,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f09b5adda805514c82358d31",
+                    "id": 6856,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "إستنى",
+                    "track_url": "",
+                    "duration_ms": 235200,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f09b5adda805514c82358d31",
+                    "id": 6857,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "مستعد",
+                    "track_url": "",
+                    "duration_ms": 250000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f09b5adda805514c82358d31",
+                    "id": 6858,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "ماشي في ظلها",
+                    "track_url": "",
+                    "duration_ms": 297230,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f09b5adda805514c82358d31",
+                    "id": 6859,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "دي غريبة",
+                    "track_url": "",
+                    "duration_ms": 250909,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f09b5adda805514c82358d31",
+                    "id": 6860,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "متسأليش",
+                    "track_url": "",
+                    "duration_ms": 189230,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f09b5adda805514c82358d31",
+                    "id": 6861,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "بكره لما يجى (عيشها)",
+                    "track_url": "",
+                    "duration_ms": 214000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f09b5adda805514c82358d31",
+                    "id": 6862,
+                    "artist": "Medhat Saleh"
+                }
+            ],
+            "id": 6854
+        },
+        {
+            "name": "Bent Al Alb",
+            "release_date": "2019-11-03",
+            "image": "https://i.scdn.co/image/ab67616d0000b273deb8c55840d437d78991a80e",
+            "track_url": "https://open.spotify.com/album/1mZQF3YRHfCOcgQ5Uov27m",
+            "tracks": [
+                {
+                    "name": "Bent Al Alb",
+                    "track_url": "",
+                    "duration_ms": 209790,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273deb8c55840d437d78991a80e",
+                    "id": 6864,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Terafy Teskoty",
+                    "track_url": "",
+                    "duration_ms": 232046,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273deb8c55840d437d78991a80e",
+                    "id": 6865,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Aliek Ehsas",
+                    "track_url": "",
+                    "duration_ms": 241032,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273deb8c55840d437d78991a80e",
+                    "id": 6866,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Zay Manta Ayez",
+                    "track_url": "",
+                    "duration_ms": 176249,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273deb8c55840d437d78991a80e",
+                    "id": 6867,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Homma El Habayeb",
+                    "track_url": "",
+                    "duration_ms": 181865,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273deb8c55840d437d78991a80e",
+                    "id": 6868,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Lamma Allek",
+                    "track_url": "",
+                    "duration_ms": 238028,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273deb8c55840d437d78991a80e",
+                    "id": 6869,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Alam",
+                    "track_url": "",
+                    "duration_ms": 289176,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273deb8c55840d437d78991a80e",
+                    "id": 6870,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Ayesh Wahdak",
+                    "track_url": "",
+                    "duration_ms": 221832,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273deb8c55840d437d78991a80e",
+                    "id": 6871,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Berahto",
+                    "track_url": "",
+                    "duration_ms": 196912,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273deb8c55840d437d78991a80e",
+                    "id": 6872,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "W Ana Mawgood",
+                    "track_url": "",
+                    "duration_ms": 184399,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273deb8c55840d437d78991a80e",
+                    "id": 6873,
+                    "artist": "Medhat Saleh"
+                }
+            ],
+            "id": 6863
+        },
+        {
+            "name": "مسلسل عيلة صالح",
+            "release_date": "2017-05-27",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a14661b555fe90ccdd06c477",
+            "track_url": "https://open.spotify.com/album/7Gj1SC7vE2p9oMABCQcH17",
+            "tracks": [
+                {
+                    "name": "احكي مع الله",
+                    "track_url": "",
+                    "duration_ms": 99579,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a14661b555fe90ccdd06c477",
+                    "id": 6875,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "اخوك اخوك",
+                    "track_url": "",
+                    "duration_ms": 97359,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a14661b555fe90ccdd06c477",
+                    "id": 6876,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "اخوك",
+                    "track_url": "",
+                    "duration_ms": 110734,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a14661b555fe90ccdd06c477",
+                    "id": 6877,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "البنت الشاطرة",
+                    "track_url": "",
+                    "duration_ms": 123351,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a14661b555fe90ccdd06c477",
+                    "id": 6878,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "اللي عايز",
+                    "track_url": "",
+                    "duration_ms": 109976,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a14661b555fe90ccdd06c477",
+                    "id": 6879,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "اللي يصاحبك",
+                    "track_url": "",
+                    "duration_ms": 83984,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a14661b555fe90ccdd06c477",
+                    "id": 6880,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "بابا",
+                    "track_url": "",
+                    "duration_ms": 44592,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a14661b555fe90ccdd06c477",
+                    "id": 6881,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "بشوف اولادي قدامي",
+                    "track_url": "",
+                    "duration_ms": 99579,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a14661b555fe90ccdd06c477",
+                    "id": 6882,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "بيتك الهادي",
+                    "track_url": "",
+                    "duration_ms": 86205,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a14661b555fe90ccdd06c477",
+                    "id": 6883,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "جدو",
+                    "track_url": "",
+                    "duration_ms": 116663,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a14661b555fe90ccdd06c477",
+                    "id": 6884,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "حنن قلبك ع الناس",
+                    "track_url": "",
+                    "duration_ms": 77297,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a14661b555fe90ccdd06c477",
+                    "id": 6885,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "دو ري مي مع شريف منير",
+                    "track_url": "",
+                    "duration_ms": 136725,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a14661b555fe90ccdd06c477",
+                    "id": 6886,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "رسالة حب",
+                    "track_url": "",
+                    "duration_ms": 147122,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a14661b555fe90ccdd06c477",
+                    "id": 6887,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "ركعة شكر",
+                    "track_url": "",
+                    "duration_ms": 94381,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a14661b555fe90ccdd06c477",
+                    "id": 6888,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "شافني وانا بصلي",
+                    "track_url": "",
+                    "duration_ms": 117421,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a14661b555fe90ccdd06c477",
+                    "id": 6889,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "طريق الجنة",
+                    "track_url": "",
+                    "duration_ms": 89914,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a14661b555fe90ccdd06c477",
+                    "id": 6890,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "عايز دية",
+                    "track_url": "",
+                    "duration_ms": 92161,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a14661b555fe90ccdd06c477",
+                    "id": 6891,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "علم و فهم",
+                    "track_url": "",
+                    "duration_ms": 86205,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a14661b555fe90ccdd06c477",
+                    "id": 6892,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "فرحة الولاد",
+                    "track_url": "",
+                    "duration_ms": 69121,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a14661b555fe90ccdd06c477",
+                    "id": 6893,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "في مالك حق",
+                    "track_url": "",
+                    "duration_ms": 92161,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a14661b555fe90ccdd06c477",
+                    "id": 6894,
+                    "artist": "Medhat Saleh"
+                }
+            ],
+            "id": 6874
+        },
+        {
+            "name": "Medhat Saleh Collection",
+            "release_date": "2015-01-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b27346a3fcab89d00d7cc7b88e4f",
+            "track_url": "https://open.spotify.com/album/2Idq0kSpNraxj5PMsCImXO",
+            "tracks": [
+                {
+                    "name": "Asheq Magnoon",
+                    "track_url": "",
+                    "duration_ms": 287853,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27346a3fcab89d00d7cc7b88e4f",
+                    "id": 6896,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Alby El Asheq",
+                    "track_url": "",
+                    "duration_ms": 186093,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27346a3fcab89d00d7cc7b88e4f",
+                    "id": 6897,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Atshan Ya Seneen Hawaya",
+                    "track_url": "",
+                    "duration_ms": 297066,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27346a3fcab89d00d7cc7b88e4f",
+                    "id": 6898,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Bafred Doloo3y",
+                    "track_url": "",
+                    "duration_ms": 282680,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27346a3fcab89d00d7cc7b88e4f",
+                    "id": 6899,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Balek",
+                    "track_url": "",
+                    "duration_ms": 306160,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27346a3fcab89d00d7cc7b88e4f",
+                    "id": 6900,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Ekhtary",
+                    "track_url": "",
+                    "duration_ms": 403226,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27346a3fcab89d00d7cc7b88e4f",
+                    "id": 6901,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Hamam El Aalaly",
+                    "track_url": "",
+                    "duration_ms": 87066,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27346a3fcab89d00d7cc7b88e4f",
+                    "id": 6902,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Nawary Noor",
+                    "track_url": "",
+                    "duration_ms": 260600,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27346a3fcab89d00d7cc7b88e4f",
+                    "id": 6903,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Rawae Ya Gameel",
+                    "track_url": "",
+                    "duration_ms": 219253,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27346a3fcab89d00d7cc7b88e4f",
+                    "id": 6904,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Shobeky Lobeky",
+                    "track_url": "",
+                    "duration_ms": 127386,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27346a3fcab89d00d7cc7b88e4f",
+                    "id": 6905,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Shahd We Morr",
+                    "track_url": "",
+                    "duration_ms": 230253,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27346a3fcab89d00d7cc7b88e4f",
+                    "id": 6906,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Zeffo El Arosen",
+                    "track_url": "",
+                    "duration_ms": 345453,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27346a3fcab89d00d7cc7b88e4f",
+                    "id": 6907,
+                    "artist": "Medhat Saleh"
+                }
+            ],
+            "id": 6895
+        },
+        {
+            "name": "Medhat Saleh Collection",
+            "release_date": "2012-06-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b273838b14c2dc9dcf3f58e40a1c",
+            "track_url": "https://open.spotify.com/album/4E75JMrxCI5qQduNCao1qW",
+            "tracks": [
+                {
+                    "name": "ashek magnon",
+                    "track_url": "",
+                    "duration_ms": 287853,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273838b14c2dc9dcf3f58e40a1c",
+                    "id": 6909,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "naware nour",
+                    "track_url": "",
+                    "duration_ms": 260600,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273838b14c2dc9dcf3f58e40a1c",
+                    "id": 6910,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "ya sadeq",
+                    "track_url": "",
+                    "duration_ms": 282680,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273838b14c2dc9dcf3f58e40a1c",
+                    "id": 6911,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "ekhtari",
+                    "track_url": "",
+                    "duration_ms": 403226,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273838b14c2dc9dcf3f58e40a1c",
+                    "id": 6912,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Rawaa ya gamil",
+                    "track_url": "",
+                    "duration_ms": 216306,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273838b14c2dc9dcf3f58e40a1c",
+                    "id": 6913,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Atshan Ya Sneen Hawaya",
+                    "track_url": "",
+                    "duration_ms": 293906,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273838b14c2dc9dcf3f58e40a1c",
+                    "id": 6914,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Zeffo El Arosen",
+                    "track_url": "",
+                    "duration_ms": 279746,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273838b14c2dc9dcf3f58e40a1c",
+                    "id": 6915,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Hamam El Alaly",
+                    "track_url": "",
+                    "duration_ms": 87200,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273838b14c2dc9dcf3f58e40a1c",
+                    "id": 6916,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Albi El Asheek",
+                    "track_url": "",
+                    "duration_ms": 183800,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273838b14c2dc9dcf3f58e40a1c",
+                    "id": 6917,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Ekhtari (Instrumental)",
+                    "track_url": "",
+                    "duration_ms": 169413,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273838b14c2dc9dcf3f58e40a1c",
+                    "id": 6918,
+                    "artist": "Medhat Saleh"
+                }
+            ],
+            "id": 6908
+        },
+        {
+            "name": "أجمل ما غنى مدحت صالح",
+            "release_date": "2009-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e4eeeedda1c62aa5763e6b61",
+            "track_url": "https://open.spotify.com/album/5mz8JVMHhXv06lAZfCnYWA",
+            "tracks": [
+                {
+                    "name": "قلبي العاشق",
+                    "track_url": "",
+                    "duration_ms": 181317,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e4eeeedda1c62aa5763e6b61",
+                    "id": 6920,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "عاشق مجنون",
+                    "track_url": "",
+                    "duration_ms": 283712,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e4eeeedda1c62aa5763e6b61",
+                    "id": 6921,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "عطشان يا سنين هوايا",
+                    "track_url": "",
+                    "duration_ms": 290464,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e4eeeedda1c62aa5763e6b61",
+                    "id": 6922,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "اختاري",
+                    "track_url": "",
+                    "duration_ms": 397301,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e4eeeedda1c62aa5763e6b61",
+                    "id": 6923,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "حمام العلالي",
+                    "track_url": "",
+                    "duration_ms": 83049,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e4eeeedda1c62aa5763e6b61",
+                    "id": 6924,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "نوري نور",
+                    "track_url": "",
+                    "duration_ms": 256931,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e4eeeedda1c62aa5763e6b61",
+                    "id": 6925,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "روق يا جميل",
+                    "track_url": "",
+                    "duration_ms": 214472,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e4eeeedda1c62aa5763e6b61",
+                    "id": 6926,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "يا صديق",
+                    "track_url": "",
+                    "duration_ms": 278452,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e4eeeedda1c62aa5763e6b61",
+                    "id": 6927,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "زفوا العروسين",
+                    "track_url": "",
+                    "duration_ms": 277672,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e4eeeedda1c62aa5763e6b61",
+                    "id": 6928,
+                    "artist": "Medhat Saleh"
+                }
+            ],
+            "id": 6919
+        },
+        {
+            "name": "Robaeyat Masriya",
+            "release_date": "2009",
+            "image": "https://i.scdn.co/image/ab67616d0000b273097ec56cf67bb114afd36bc8",
+            "track_url": "https://open.spotify.com/album/7vtVfmD4feci34yYzs6a4S",
+            "tracks": [
+                {
+                    "name": "Shefet Elaadou Fi Tabak Elmerek",
+                    "track_url": "",
+                    "duration_ms": 55889,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273097ec56cf67bb114afd36bc8",
+                    "id": 6930,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Nghani Lamin Ya Sheikh Sayed",
+                    "track_url": "",
+                    "duration_ms": 57316,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273097ec56cf67bb114afd36bc8",
+                    "id": 6931,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Ana Mawloud Beroas Klakette",
+                    "track_url": "",
+                    "duration_ms": 64556,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273097ec56cf67bb114afd36bc8",
+                    "id": 6932,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Katabet Hrouf Her Wghalivi",
+                    "track_url": "",
+                    "duration_ms": 64827,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273097ec56cf67bb114afd36bc8",
+                    "id": 6933,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Beraabni Leih Baghdab",
+                    "track_url": "",
+                    "duration_ms": 60979,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273097ec56cf67bb114afd36bc8",
+                    "id": 6934,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Ya Habibti Kol Ma Ahbak",
+                    "track_url": "",
+                    "duration_ms": 62577,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273097ec56cf67bb114afd36bc8",
+                    "id": 6935,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Ana Badi Aarous Bjlabiah",
+                    "track_url": "",
+                    "duration_ms": 54035,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273097ec56cf67bb114afd36bc8",
+                    "id": 6936,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Bahfor Fi Dmaghi Bbarimeh",
+                    "track_url": "",
+                    "duration_ms": 55534,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273097ec56cf67bb114afd36bc8",
+                    "id": 6937,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Ana Bahdon Fi Elwardaya",
+                    "track_url": "",
+                    "duration_ms": 60507,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273097ec56cf67bb114afd36bc8",
+                    "id": 6938,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Aasfour Byerkos Aala Elshajar",
+                    "track_url": "",
+                    "duration_ms": 57225,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273097ec56cf67bb114afd36bc8",
+                    "id": 6939,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Ya Habibti Leh Ana Bntofi",
+                    "track_url": "",
+                    "duration_ms": 58747,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273097ec56cf67bb114afd36bc8",
+                    "id": 6940,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Ana Telmiz Talamizi",
+                    "track_url": "",
+                    "duration_ms": 66061,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273097ec56cf67bb114afd36bc8",
+                    "id": 6941,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Shakhsyat Masr Badoub Fiha",
+                    "track_url": "",
+                    "duration_ms": 65006,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273097ec56cf67bb114afd36bc8",
+                    "id": 6942,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Elaatshan Yhfor Fi Elbeer",
+                    "track_url": "",
+                    "duration_ms": 70381,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273097ec56cf67bb114afd36bc8",
+                    "id": 6943,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Bansa Eltaaam",
+                    "track_url": "",
+                    "duration_ms": 62812,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273097ec56cf67bb114afd36bc8",
+                    "id": 6944,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Ana MSH Aaref Emta Haroua",
+                    "track_url": "",
+                    "duration_ms": 57434,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273097ec56cf67bb114afd36bc8",
+                    "id": 6945,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Yeaolo Lih Ensan Rezel",
+                    "track_url": "",
+                    "duration_ms": 63067,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273097ec56cf67bb114afd36bc8",
+                    "id": 6946,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Mardya Ya Baladi Wmakdya",
+                    "track_url": "",
+                    "duration_ms": 59739,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273097ec56cf67bb114afd36bc8",
+                    "id": 6947,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Namouzaj Sharia Aw Gharbi",
+                    "track_url": "",
+                    "duration_ms": 75037,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273097ec56cf67bb114afd36bc8",
+                    "id": 6948,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Fi Elhareb Zaman Kounti Branji",
+                    "track_url": "",
+                    "duration_ms": 65293,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273097ec56cf67bb114afd36bc8",
+                    "id": 6949,
+                    "artist": "Medhat Saleh"
+                }
+            ],
+            "id": 6929
+        },
+        {
+            "name": "Robaeyat Fi Hob Allah",
+            "release_date": "2009",
+            "image": "https://i.scdn.co/image/ab67616d0000b273074bc301a94cd4a99f208d2b",
+            "track_url": "https://open.spotify.com/album/3tO5ogupabnCWWj4mzswqW",
+            "tracks": [
+                {
+                    "name": "Rasoul Allah",
+                    "track_url": "",
+                    "duration_ms": 78574,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273074bc301a94cd4a99f208d2b",
+                    "id": 6951,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Soubhanoh",
+                    "track_url": "",
+                    "duration_ms": 84712,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273074bc301a94cd4a99f208d2b",
+                    "id": 6952,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Mafeesh Makhlouq",
+                    "track_url": "",
+                    "duration_ms": 101150,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273074bc301a94cd4a99f208d2b",
+                    "id": 6953,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Ana Mesh Shitan",
+                    "track_url": "",
+                    "duration_ms": 69499,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273074bc301a94cd4a99f208d2b",
+                    "id": 6954,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Matezaleish Menny",
+                    "track_url": "",
+                    "duration_ms": 64206,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273074bc301a94cd4a99f208d2b",
+                    "id": 6955,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Allah Al Wahed Al Ahad",
+                    "track_url": "",
+                    "duration_ms": 65828,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273074bc301a94cd4a99f208d2b",
+                    "id": 6956,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Ana Fel Doina",
+                    "track_url": "",
+                    "duration_ms": 83478,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273074bc301a94cd4a99f208d2b",
+                    "id": 6957,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Ana Roht W Geit",
+                    "track_url": "",
+                    "duration_ms": 71514,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273074bc301a94cd4a99f208d2b",
+                    "id": 6958,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Ma Lam Yared",
+                    "track_url": "",
+                    "duration_ms": 78156,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273074bc301a94cd4a99f208d2b",
+                    "id": 6959,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "El Koun El Badee",
+                    "track_url": "",
+                    "duration_ms": 79233,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273074bc301a94cd4a99f208d2b",
+                    "id": 6960,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Bakeit Fel Atmah",
+                    "track_url": "",
+                    "duration_ms": 80778,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273074bc301a94cd4a99f208d2b",
+                    "id": 6961,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "El Asl Fel Eshq",
+                    "track_url": "",
+                    "duration_ms": 71384,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273074bc301a94cd4a99f208d2b",
+                    "id": 6962,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Fel Boussat",
+                    "track_url": "",
+                    "duration_ms": 76209,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273074bc301a94cd4a99f208d2b",
+                    "id": 6963,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Fi Leil Aswad",
+                    "track_url": "",
+                    "duration_ms": 46116,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273074bc301a94cd4a99f208d2b",
+                    "id": 6964,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Bel Shams Tetla",
+                    "track_url": "",
+                    "duration_ms": 76108,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273074bc301a94cd4a99f208d2b",
+                    "id": 6965,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Nehleb Mn El Amar",
+                    "track_url": "",
+                    "duration_ms": 69156,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273074bc301a94cd4a99f208d2b",
+                    "id": 6966,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Ya Layt Qawmy",
+                    "track_url": "",
+                    "duration_ms": 77366,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273074bc301a94cd4a99f208d2b",
+                    "id": 6967,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "El Eib Mesh Eib",
+                    "track_url": "",
+                    "duration_ms": 63929,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273074bc301a94cd4a99f208d2b",
+                    "id": 6968,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Saalt El Rouh",
+                    "track_url": "",
+                    "duration_ms": 56092,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273074bc301a94cd4a99f208d2b",
+                    "id": 6969,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Ya Nour Allah",
+                    "track_url": "",
+                    "duration_ms": 78156,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273074bc301a94cd4a99f208d2b",
+                    "id": 6970,
+                    "artist": "Medhat Saleh"
+                }
+            ],
+            "id": 6950
+        },
+        {
+            "name": "Bakteb Esmak",
+            "release_date": "2009",
+            "image": "https://i.scdn.co/image/ab67616d0000b273eecec8f2e9ec308a17443f40",
+            "track_url": "https://open.spotify.com/album/55wujw7FStBniw9K0WV4qr",
+            "tracks": [
+                {
+                    "name": "Tewhashny Wana Wayak",
+                    "track_url": "",
+                    "duration_ms": 277705,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273eecec8f2e9ec308a17443f40",
+                    "id": 6972,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Bakteb Esmak",
+                    "track_url": "",
+                    "duration_ms": 331344,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273eecec8f2e9ec308a17443f40",
+                    "id": 6973,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "El Hob Fi Dammy",
+                    "track_url": "",
+                    "duration_ms": 272997,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273eecec8f2e9ec308a17443f40",
+                    "id": 6974,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Baa Yany",
+                    "track_url": "",
+                    "duration_ms": 291299,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273eecec8f2e9ec308a17443f40",
+                    "id": 6975,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Allah Yerham",
+                    "track_url": "",
+                    "duration_ms": 291017,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273eecec8f2e9ec308a17443f40",
+                    "id": 6976,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Meen Ghery Ana",
+                    "track_url": "",
+                    "duration_ms": 265548,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273eecec8f2e9ec308a17443f40",
+                    "id": 6977,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Taala W Khodny",
+                    "track_url": "",
+                    "duration_ms": 287262,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273eecec8f2e9ec308a17443f40",
+                    "id": 6978,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Bateref",
+                    "track_url": "",
+                    "duration_ms": 197310,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273eecec8f2e9ec308a17443f40",
+                    "id": 6979,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Biban El Hayah",
+                    "track_url": "",
+                    "duration_ms": 194688,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273eecec8f2e9ec308a17443f40",
+                    "id": 6980,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Zalana Leih",
+                    "track_url": "",
+                    "duration_ms": 283128,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273eecec8f2e9ec308a17443f40",
+                    "id": 6981,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Gheir Kol El Nas",
+                    "track_url": "",
+                    "duration_ms": 228977,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273eecec8f2e9ec308a17443f40",
+                    "id": 6982,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Wat Daa",
+                    "track_url": "",
+                    "duration_ms": 235308,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273eecec8f2e9ec308a17443f40",
+                    "id": 6983,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Shaklak Keda",
+                    "track_url": "",
+                    "duration_ms": 237705,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273eecec8f2e9ec308a17443f40",
+                    "id": 6984,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Asmar W Lounoh Gameel",
+                    "track_url": "",
+                    "duration_ms": 258443,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273eecec8f2e9ec308a17443f40",
+                    "id": 6985,
+                    "artist": "Medhat Saleh"
+                }
+            ],
+            "id": 6971
+        },
+        {
+            "name": "Hobbek Khatar",
+            "release_date": "2008-03-12",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737d511698940f1b177d7a54d2",
+            "track_url": "https://open.spotify.com/album/37TF0yKHipLiCxbsqdamY1",
+            "tracks": [
+                {
+                    "name": "Waafa Ganby",
+                    "track_url": "",
+                    "duration_ms": 245904,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737d511698940f1b177d7a54d2",
+                    "id": 6987,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Hobek Khatar",
+                    "track_url": "",
+                    "duration_ms": 220069,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737d511698940f1b177d7a54d2",
+                    "id": 6988,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Zay Adetha",
+                    "track_url": "",
+                    "duration_ms": 243919,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737d511698940f1b177d7a54d2",
+                    "id": 6989,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Aamelo Eih",
+                    "track_url": "",
+                    "duration_ms": 253636,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737d511698940f1b177d7a54d2",
+                    "id": 6990,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Mesh Arfa Enak",
+                    "track_url": "",
+                    "duration_ms": 280203,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737d511698940f1b177d7a54d2",
+                    "id": 6991,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Rohy We Einy",
+                    "track_url": "",
+                    "duration_ms": 312490,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737d511698940f1b177d7a54d2",
+                    "id": 6992,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Warda Hamra",
+                    "track_url": "",
+                    "duration_ms": 171978,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737d511698940f1b177d7a54d2",
+                    "id": 6993,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Omry Eih",
+                    "track_url": "",
+                    "duration_ms": 228193,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737d511698940f1b177d7a54d2",
+                    "id": 6994,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Oltelkom Oltelha",
+                    "track_url": "",
+                    "duration_ms": 231798,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737d511698940f1b177d7a54d2",
+                    "id": 6995,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Ana Wad Rasam",
+                    "track_url": "",
+                    "duration_ms": 228298,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737d511698940f1b177d7a54d2",
+                    "id": 6996,
+                    "artist": "Medhat Saleh"
+                }
+            ],
+            "id": 6986
+        },
+        {
+            "name": "Ya Leilna",
+            "release_date": "2006-10-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a4b93b946d280c4165adb0f7",
+            "track_url": "https://open.spotify.com/album/7ifjhTel8WzgdqLVdeLjFf",
+            "tracks": [
+                {
+                    "name": "Alby Hada",
+                    "track_url": "",
+                    "duration_ms": 211292,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a4b93b946d280c4165adb0f7",
+                    "id": 6998,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Badeaa",
+                    "track_url": "",
+                    "duration_ms": 395063,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a4b93b946d280c4165adb0f7",
+                    "id": 6999,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Taala Nehlam",
+                    "track_url": "",
+                    "duration_ms": 201365,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a4b93b946d280c4165adb0f7",
+                    "id": 7000,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Mashy",
+                    "track_url": "",
+                    "duration_ms": 258025,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a4b93b946d280c4165adb0f7",
+                    "id": 7001,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Maandany",
+                    "track_url": "",
+                    "duration_ms": 290548,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a4b93b946d280c4165adb0f7",
+                    "id": 7002,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "El Tareek",
+                    "track_url": "",
+                    "duration_ms": 396996,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a4b93b946d280c4165adb0f7",
+                    "id": 7003,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Ya Laylna",
+                    "track_url": "",
+                    "duration_ms": 330645,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a4b93b946d280c4165adb0f7",
+                    "id": 7004,
+                    "artist": "Medhat Saleh"
+                }
+            ],
+            "id": 6997
+        },
+        {
+            "name": "Gai Ala Nafsak",
+            "release_date": "2004-11-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b27345a87c1fffdcf749e3e427e0",
+            "track_url": "https://open.spotify.com/album/39vAQXrNVUFteOEng6zDNY",
+            "tracks": [
+                {
+                    "name": "Maloh Zay",
+                    "track_url": "",
+                    "duration_ms": 299272,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27345a87c1fffdcf749e3e427e0",
+                    "id": 7006,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Gaey Ala Nafsak",
+                    "track_url": "",
+                    "duration_ms": 349192,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27345a87c1fffdcf749e3e427e0",
+                    "id": 7007,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Dayman Ala Baly",
+                    "track_url": "",
+                    "duration_ms": 228272,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27345a87c1fffdcf749e3e427e0",
+                    "id": 7008,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Meash Haram",
+                    "track_url": "",
+                    "duration_ms": 306247,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27345a87c1fffdcf749e3e427e0",
+                    "id": 7009,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Taban Bahebak",
+                    "track_url": "",
+                    "duration_ms": 289764,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27345a87c1fffdcf749e3e427e0",
+                    "id": 7010,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Sabrak Belah",
+                    "track_url": "",
+                    "duration_ms": 294805,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27345a87c1fffdcf749e3e427e0",
+                    "id": 7011,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Wehyat Eayonk",
+                    "track_url": "",
+                    "duration_ms": 303687,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27345a87c1fffdcf749e3e427e0",
+                    "id": 7012,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Eah Algmal Dah",
+                    "track_url": "",
+                    "duration_ms": 301623,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27345a87c1fffdcf749e3e427e0",
+                    "id": 7013,
+                    "artist": "Medhat Saleh"
+                }
+            ],
+            "id": 7005
+        },
+        {
+            "name": "Allah Ya Sidi El Asmarani",
+            "release_date": "2000-06-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b27391ca2499fe1524075296d6c7",
+            "track_url": "https://open.spotify.com/album/7t59XmEQhzghznJk6txzBc",
+            "tracks": [
+                {
+                    "name": "El Asmarani",
+                    "track_url": "",
+                    "duration_ms": 251390,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27391ca2499fe1524075296d6c7",
+                    "id": 7015,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Allah Ya Sidi",
+                    "track_url": "",
+                    "duration_ms": 347625,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27391ca2499fe1524075296d6c7",
+                    "id": 7016,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Eyouno Agab",
+                    "track_url": "",
+                    "duration_ms": 326910,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27391ca2499fe1524075296d6c7",
+                    "id": 7017,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Bahebak",
+                    "track_url": "",
+                    "duration_ms": 294414,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27391ca2499fe1524075296d6c7",
+                    "id": 7018,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Einy Aleh",
+                    "track_url": "",
+                    "duration_ms": 237179,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27391ca2499fe1524075296d6c7",
+                    "id": 7019,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Saharouny Eneik",
+                    "track_url": "",
+                    "duration_ms": 334642,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27391ca2499fe1524075296d6c7",
+                    "id": 7020,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Bareaa",
+                    "track_url": "",
+                    "duration_ms": 333049,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27391ca2499fe1524075296d6c7",
+                    "id": 7021,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "La Malama",
+                    "track_url": "",
+                    "duration_ms": 308441,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27391ca2499fe1524075296d6c7",
+                    "id": 7022,
+                    "artist": "Medhat Saleh"
+                }
+            ],
+            "id": 7014
+        },
+        {
+            "name": "Waady",
+            "release_date": "1999-10-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c47ea457599b31a741a96ce9",
+            "track_url": "https://open.spotify.com/album/1xXyfljhwW0EZHg06DXk7D",
+            "tracks": [
+                {
+                    "name": "Waady",
+                    "track_url": "",
+                    "duration_ms": 308703,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c47ea457599b31a741a96ce9",
+                    "id": 7024,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Kololha",
+                    "track_url": "",
+                    "duration_ms": 229604,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c47ea457599b31a741a96ce9",
+                    "id": 7025,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Ana Howa Ana",
+                    "track_url": "",
+                    "duration_ms": 278636,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c47ea457599b31a741a96ce9",
+                    "id": 7026,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Aleky El Shoaq",
+                    "track_url": "",
+                    "duration_ms": 257085,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c47ea457599b31a741a96ce9",
+                    "id": 7027,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Dawr Hatelakini",
+                    "track_url": "",
+                    "duration_ms": 281979,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c47ea457599b31a741a96ce9",
+                    "id": 7028,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Alby Dab",
+                    "track_url": "",
+                    "duration_ms": 197917,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c47ea457599b31a741a96ce9",
+                    "id": 7029,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Ekhteyarek",
+                    "track_url": "",
+                    "duration_ms": 415700,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c47ea457599b31a741a96ce9",
+                    "id": 7030,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Taala",
+                    "track_url": "",
+                    "duration_ms": 226234,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c47ea457599b31a741a96ce9",
+                    "id": 7031,
+                    "artist": "Medhat Saleh"
+                }
+            ],
+            "id": 7023
+        },
+        {
+            "name": "Rawa' Ya Gamil",
+            "release_date": "1999-10-13",
+            "image": "https://i.scdn.co/image/ab67616d0000b273259a4ea73ee18fb76ebc54d1",
+            "track_url": "https://open.spotify.com/album/2s1JqAvL5afoRLxJRDkfUJ",
+            "tracks": [
+                {
+                    "name": "Rawa' Ya Gamil",
+                    "track_url": "",
+                    "duration_ms": 216346,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273259a4ea73ee18fb76ebc54d1",
+                    "id": 7033,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Shobeky Lobeky",
+                    "track_url": "",
+                    "duration_ms": 126864,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273259a4ea73ee18fb76ebc54d1",
+                    "id": 7034,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Atshan Ya Senen Al Hawa",
+                    "track_url": "",
+                    "duration_ms": 293955,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273259a4ea73ee18fb76ebc54d1",
+                    "id": 7035,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Zefo El Arosen",
+                    "track_url": "",
+                    "duration_ms": 279797,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273259a4ea73ee18fb76ebc54d1",
+                    "id": 7036,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Hamam El Alaly",
+                    "track_url": "",
+                    "duration_ms": 87248,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273259a4ea73ee18fb76ebc54d1",
+                    "id": 7037,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Alby El Ashek",
+                    "track_url": "",
+                    "duration_ms": 185941,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273259a4ea73ee18fb76ebc54d1",
+                    "id": 7038,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Balak",
+                    "track_url": "",
+                    "duration_ms": 277246,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273259a4ea73ee18fb76ebc54d1",
+                    "id": 7039,
+                    "artist": "Medhat Saleh"
+                }
+            ],
+            "id": 7032
+        },
+        {
+            "name": "Enty Elly Fihom",
+            "release_date": "1993-10-20",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735ec80ddca0ebd9ea5b1b5618",
+            "track_url": "https://open.spotify.com/album/1iXNhVuz1s326Nt9WkDvKe",
+            "tracks": [
+                {
+                    "name": "Enty Elly Fihom",
+                    "track_url": "",
+                    "duration_ms": 230717,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735ec80ddca0ebd9ea5b1b5618",
+                    "id": 7041,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Ala Balak",
+                    "track_url": "",
+                    "duration_ms": 275086,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735ec80ddca0ebd9ea5b1b5618",
+                    "id": 7042,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "We Fein We Fein",
+                    "track_url": "",
+                    "duration_ms": 280435,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735ec80ddca0ebd9ea5b1b5618",
+                    "id": 7043,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Fiha Eih",
+                    "track_url": "",
+                    "duration_ms": 267243,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735ec80ddca0ebd9ea5b1b5618",
+                    "id": 7044,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Awel Ma Einy Teshofek",
+                    "track_url": "",
+                    "duration_ms": 288974,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735ec80ddca0ebd9ea5b1b5618",
+                    "id": 7045,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Wala Hazeny Sotek",
+                    "track_url": "",
+                    "duration_ms": 297578,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735ec80ddca0ebd9ea5b1b5618",
+                    "id": 7046,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Lama Hawak Ghany",
+                    "track_url": "",
+                    "duration_ms": 291817,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735ec80ddca0ebd9ea5b1b5618",
+                    "id": 7047,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Ya Gamil Yally Hena",
+                    "track_url": "",
+                    "duration_ms": 307314,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735ec80ddca0ebd9ea5b1b5618",
+                    "id": 7048,
+                    "artist": "Medhat Saleh"
+                }
+            ],
+            "id": 7040
+        },
+        {
+            "name": "Shaabeyat, Vol. 2 (Wala Teswa Demoua)",
+            "release_date": "1992-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734b0304f1acc27106fb134c21",
+            "track_url": "https://open.spotify.com/album/4U6ux8bIBHFTlJ7T0lhoQS",
+            "tracks": [
+                {
+                    "name": "El Bahr Nayem",
+                    "track_url": "",
+                    "duration_ms": 403826,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734b0304f1acc27106fb134c21",
+                    "id": 7050,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "El Okalaa",
+                    "track_url": "",
+                    "duration_ms": 321332,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734b0304f1acc27106fb134c21",
+                    "id": 7051,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Aklam Aklam",
+                    "track_url": "",
+                    "duration_ms": 251585,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734b0304f1acc27106fb134c21",
+                    "id": 7052,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Set El Banat",
+                    "track_url": "",
+                    "duration_ms": 170684,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734b0304f1acc27106fb134c21",
+                    "id": 7053,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Ya Marary",
+                    "track_url": "",
+                    "duration_ms": 332486,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734b0304f1acc27106fb134c21",
+                    "id": 7054,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "El Soboua",
+                    "track_url": "",
+                    "duration_ms": 192417,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734b0304f1acc27106fb134c21",
+                    "id": 7055,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Etdallaa Ya Rasheedy",
+                    "track_url": "",
+                    "duration_ms": 202501,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734b0304f1acc27106fb134c21",
+                    "id": 7056,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Wala Teswa Demoua",
+                    "track_url": "",
+                    "duration_ms": 397270,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734b0304f1acc27106fb134c21",
+                    "id": 7057,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "El Millionerat 2",
+                    "track_url": "",
+                    "duration_ms": 182073,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734b0304f1acc27106fb134c21",
+                    "id": 7058,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "El Shams Eih",
+                    "track_url": "",
+                    "duration_ms": 287686,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734b0304f1acc27106fb134c21",
+                    "id": 7059,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Ana Hor",
+                    "track_url": "",
+                    "duration_ms": 211017,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734b0304f1acc27106fb134c21",
+                    "id": 7060,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Maa El Ashekeen",
+                    "track_url": "",
+                    "duration_ms": 271595,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734b0304f1acc27106fb134c21",
+                    "id": 7061,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Youh Yaba",
+                    "track_url": "",
+                    "duration_ms": 184868,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734b0304f1acc27106fb134c21",
+                    "id": 7062,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Teahedeeny",
+                    "track_url": "",
+                    "duration_ms": 315193,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734b0304f1acc27106fb134c21",
+                    "id": 7063,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Nebdaa",
+                    "track_url": "",
+                    "duration_ms": 269635,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734b0304f1acc27106fb134c21",
+                    "id": 7064,
+                    "artist": "Medhat Saleh"
+                }
+            ],
+            "id": 7049
+        },
+        {
+            "name": "Wala Teswa Demoua - El Millionerat",
+            "release_date": "1991-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739fae0733238723f7d262f6a1",
+            "track_url": "https://open.spotify.com/album/371tzsGAWpzwlMykxmWPsF",
+            "tracks": [
+                {
+                    "name": "Wala Teswa Demoua",
+                    "track_url": "",
+                    "duration_ms": 396600,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739fae0733238723f7d262f6a1",
+                    "id": 7066,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "El Millionerat - Version 2",
+                    "track_url": "",
+                    "duration_ms": 181720,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739fae0733238723f7d262f6a1",
+                    "id": 7067,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "El Shams Eih",
+                    "track_url": "",
+                    "duration_ms": 287186,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739fae0733238723f7d262f6a1",
+                    "id": 7068,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Ana Hor",
+                    "track_url": "",
+                    "duration_ms": 210613,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739fae0733238723f7d262f6a1",
+                    "id": 7069,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Maa El Ashekeen",
+                    "track_url": "",
+                    "duration_ms": 271106,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739fae0733238723f7d262f6a1",
+                    "id": 7070,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Youh Yaba",
+                    "track_url": "",
+                    "duration_ms": 184506,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739fae0733238723f7d262f6a1",
+                    "id": 7071,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Teahedeeny",
+                    "track_url": "",
+                    "duration_ms": 314626,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739fae0733238723f7d262f6a1",
+                    "id": 7072,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Nebdaa",
+                    "track_url": "",
+                    "duration_ms": 269160,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739fae0733238723f7d262f6a1",
+                    "id": 7073,
+                    "artist": "Medhat Saleh"
+                }
+            ],
+            "id": 7065
+        },
+        {
+            "name": "Tendaheeny",
+            "release_date": "1990-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27365e2b846652b9344e7a7ac4f",
+            "track_url": "https://open.spotify.com/album/1NqPXLBfNPOHM1LiFdw5y7",
+            "tracks": [
+                {
+                    "name": "Nesmaya",
+                    "track_url": "",
+                    "duration_ms": 370160,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27365e2b846652b9344e7a7ac4f",
+                    "id": 7075,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Wala Tair",
+                    "track_url": "",
+                    "duration_ms": 222426,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27365e2b846652b9344e7a7ac4f",
+                    "id": 7076,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Taht El Sama",
+                    "track_url": "",
+                    "duration_ms": 310106,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27365e2b846652b9344e7a7ac4f",
+                    "id": 7077,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Khatty",
+                    "track_url": "",
+                    "duration_ms": 239440,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27365e2b846652b9344e7a7ac4f",
+                    "id": 7078,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Salamtek",
+                    "track_url": "",
+                    "duration_ms": 254480,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27365e2b846652b9344e7a7ac4f",
+                    "id": 7079,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Mahma El Sheta",
+                    "track_url": "",
+                    "duration_ms": 213986,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27365e2b846652b9344e7a7ac4f",
+                    "id": 7080,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Tendaheeny",
+                    "track_url": "",
+                    "duration_ms": 334360,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27365e2b846652b9344e7a7ac4f",
+                    "id": 7081,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Waddaa",
+                    "track_url": "",
+                    "duration_ms": 338600,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27365e2b846652b9344e7a7ac4f",
+                    "id": 7082,
+                    "artist": "Medhat Saleh"
+                }
+            ],
+            "id": 7074
+        },
+        {
+            "name": "Hekayet Yasin We Baheya",
+            "release_date": "1989-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273dc8f886309a1d381cff93504",
+            "track_url": "https://open.spotify.com/album/6aye3OpLlhZpaarwO3wB8A",
+            "tracks": [
+                {
+                    "name": "Hekayet Yaseen We Baheya",
+                    "track_url": "",
+                    "duration_ms": 623556,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273dc8f886309a1d381cff93504",
+                    "id": 7084,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Wahshany",
+                    "track_url": "",
+                    "duration_ms": 444722,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273dc8f886309a1d381cff93504",
+                    "id": 7085,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Ya Hawa",
+                    "track_url": "",
+                    "duration_ms": 295014,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273dc8f886309a1d381cff93504",
+                    "id": 7086,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Ma Benensash",
+                    "track_url": "",
+                    "duration_ms": 438740,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273dc8f886309a1d381cff93504",
+                    "id": 7087,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Eid El Melad",
+                    "track_url": "",
+                    "duration_ms": 528340,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273dc8f886309a1d381cff93504",
+                    "id": 7088,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "El Mezmar",
+                    "track_url": "",
+                    "duration_ms": 389734,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273dc8f886309a1d381cff93504",
+                    "id": 7089,
+                    "artist": "Medhat Saleh"
+                }
+            ],
+            "id": 7083
+        },
+        {
+            "name": "Ahla Aghny Medhat Saleh Akeed",
+            "release_date": "1989-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d613a391649a88dafc10dd61",
+            "track_url": "https://open.spotify.com/album/17QNUZ4sj0QHEfsOuLfnrm",
+            "tracks": [
+                {
+                    "name": "Akeed",
+                    "track_url": "",
+                    "duration_ms": 314685,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d613a391649a88dafc10dd61",
+                    "id": 7091,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Habebty Betshok Feya",
+                    "track_url": "",
+                    "duration_ms": 360399,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d613a391649a88dafc10dd61",
+                    "id": 7092,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Yama Alo",
+                    "track_url": "",
+                    "duration_ms": 366433,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d613a391649a88dafc10dd61",
+                    "id": 7093,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Tetr Ayoub",
+                    "track_url": "",
+                    "duration_ms": 144654,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d613a391649a88dafc10dd61",
+                    "id": 7094,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Hawelt Abeed",
+                    "track_url": "",
+                    "duration_ms": 1188402,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d613a391649a88dafc10dd61",
+                    "id": 7095,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Zay Ma Alo Enek",
+                    "track_url": "",
+                    "duration_ms": 851762,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d613a391649a88dafc10dd61",
+                    "id": 7096,
+                    "artist": "Medhat Saleh"
+                }
+            ],
+            "id": 7090
+        },
+        {
+            "name": "Mel'Alb",
+            "release_date": "1989-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732183b7e981a20f8cd22575fd",
+            "track_url": "https://open.spotify.com/album/2Jmh2aldOYShyYQjrID7vc",
+            "tracks": [
+                {
+                    "name": "Wa Law",
+                    "track_url": "",
+                    "duration_ms": 247546,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732183b7e981a20f8cd22575fd",
+                    "id": 7098,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Aghdab",
+                    "track_url": "",
+                    "duration_ms": 360293,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732183b7e981a20f8cd22575fd",
+                    "id": 7099,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Kol Bahr",
+                    "track_url": "",
+                    "duration_ms": 361253,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732183b7e981a20f8cd22575fd",
+                    "id": 7100,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Lail El Madina",
+                    "track_url": "",
+                    "duration_ms": 323240,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732183b7e981a20f8cd22575fd",
+                    "id": 7101,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Be Esm El Hob",
+                    "track_url": "",
+                    "duration_ms": 361106,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732183b7e981a20f8cd22575fd",
+                    "id": 7102,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Ahmeeky",
+                    "track_url": "",
+                    "duration_ms": 317000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732183b7e981a20f8cd22575fd",
+                    "id": 7103,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Nahr El Kamar",
+                    "track_url": "",
+                    "duration_ms": 366093,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732183b7e981a20f8cd22575fd",
+                    "id": 7104,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Mel'Alb",
+                    "track_url": "",
+                    "duration_ms": 259946,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732183b7e981a20f8cd22575fd",
+                    "id": 7105,
+                    "artist": "Medhat Saleh"
+                }
+            ],
+            "id": 7097
+        },
+        {
+            "name": "Hatkallem",
+            "release_date": "1989-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ad7263572c4f6d30e2354cb8",
+            "track_url": "https://open.spotify.com/album/3seiNvYJxih2FxPEb4VWYi",
+            "tracks": [
+                {
+                    "name": "Kad El Waad",
+                    "track_url": "",
+                    "duration_ms": 243840,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ad7263572c4f6d30e2354cb8",
+                    "id": 7107,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "El Baraa",
+                    "track_url": "",
+                    "duration_ms": 290826,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ad7263572c4f6d30e2354cb8",
+                    "id": 7108,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Hobbek",
+                    "track_url": "",
+                    "duration_ms": 303506,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ad7263572c4f6d30e2354cb8",
+                    "id": 7109,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Hatkallem",
+                    "track_url": "",
+                    "duration_ms": 223946,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ad7263572c4f6d30e2354cb8",
+                    "id": 7110,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Laila",
+                    "track_url": "",
+                    "duration_ms": 220720,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ad7263572c4f6d30e2354cb8",
+                    "id": 7111,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Katr El Hayah",
+                    "track_url": "",
+                    "duration_ms": 244626,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ad7263572c4f6d30e2354cb8",
+                    "id": 7112,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Kol El Mawaeed",
+                    "track_url": "",
+                    "duration_ms": 218333,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ad7263572c4f6d30e2354cb8",
+                    "id": 7113,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Nehlam",
+                    "track_url": "",
+                    "duration_ms": 145453,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ad7263572c4f6d30e2354cb8",
+                    "id": 7114,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Ghenwatek El Khadra",
+                    "track_url": "",
+                    "duration_ms": 255733,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ad7263572c4f6d30e2354cb8",
+                    "id": 7115,
+                    "artist": "Medhat Saleh"
+                }
+            ],
+            "id": 7106
+        },
+        {
+            "name": "Kawkab Tany",
+            "release_date": "1988-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27359af22c0f7a6fb8e185da1cd",
+            "track_url": "https://open.spotify.com/album/358QJCvgdYupmFh3nnEeyt",
+            "tracks": [
+                {
+                    "name": "Kawkab Tany",
+                    "track_url": "",
+                    "duration_ms": 288800,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27359af22c0f7a6fb8e185da1cd",
+                    "id": 7117,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Bahebek",
+                    "track_url": "",
+                    "duration_ms": 363226,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27359af22c0f7a6fb8e185da1cd",
+                    "id": 7118,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Mahbetek Gonoun",
+                    "track_url": "",
+                    "duration_ms": 254706,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27359af22c0f7a6fb8e185da1cd",
+                    "id": 7119,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Alf Genah",
+                    "track_url": "",
+                    "duration_ms": 271066,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27359af22c0f7a6fb8e185da1cd",
+                    "id": 7120,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Khassemt El Shawarea",
+                    "track_url": "",
+                    "duration_ms": 221813,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27359af22c0f7a6fb8e185da1cd",
+                    "id": 7121,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Bahlam Ala Kaddy",
+                    "track_url": "",
+                    "duration_ms": 260240,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27359af22c0f7a6fb8e185da1cd",
+                    "id": 7122,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Asef",
+                    "track_url": "",
+                    "duration_ms": 362146,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27359af22c0f7a6fb8e185da1cd",
+                    "id": 7123,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Shamsy Meshakshaka",
+                    "track_url": "",
+                    "duration_ms": 257733,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27359af22c0f7a6fb8e185da1cd",
+                    "id": 7124,
+                    "artist": "Medhat Saleh"
+                }
+            ],
+            "id": 7116
+        },
+        {
+            "name": "Ghanny",
+            "release_date": "1986-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273de47ffa017bd8249c3339fd8",
+            "track_url": "https://open.spotify.com/album/6d6cidPaelxy4wq2jPd7s7",
+            "tracks": [
+                {
+                    "name": "Ghanny",
+                    "track_url": "",
+                    "duration_ms": 396466,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273de47ffa017bd8249c3339fd8",
+                    "id": 7126,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Ehna Malna",
+                    "track_url": "",
+                    "duration_ms": 293066,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273de47ffa017bd8249c3339fd8",
+                    "id": 7127,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Shabbeko Edeikom",
+                    "track_url": "",
+                    "duration_ms": 183386,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273de47ffa017bd8249c3339fd8",
+                    "id": 7128,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Maktoub",
+                    "track_url": "",
+                    "duration_ms": 359480,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273de47ffa017bd8249c3339fd8",
+                    "id": 7129,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Ana Mashy",
+                    "track_url": "",
+                    "duration_ms": 602173,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273de47ffa017bd8249c3339fd8",
+                    "id": 7130,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "El Hob Rehla",
+                    "track_url": "",
+                    "duration_ms": 259453,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273de47ffa017bd8249c3339fd8",
+                    "id": 7131,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Elly Gai Maana Yalla",
+                    "track_url": "",
+                    "duration_ms": 283333,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273de47ffa017bd8249c3339fd8",
+                    "id": 7132,
+                    "artist": "Medhat Saleh"
+                }
+            ],
+            "id": 7125
+        },
+        {
+            "name": "El Mahr",
+            "release_date": "1985-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e29b4105a61a5c5abb0762b0",
+            "track_url": "https://open.spotify.com/album/5oE5jZ6fQBp0sQMOg6cAYp",
+            "tracks": [
+                {
+                    "name": "El Millionerat",
+                    "track_url": "",
+                    "duration_ms": 140333,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e29b4105a61a5c5abb0762b0",
+                    "id": 7134,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Ya Hal Tara",
+                    "track_url": "",
+                    "duration_ms": 124000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e29b4105a61a5c5abb0762b0",
+                    "id": 7135,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Soua Tafahom",
+                    "track_url": "",
+                    "duration_ms": 202853,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e29b4105a61a5c5abb0762b0",
+                    "id": 7136,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "El Hader",
+                    "track_url": "",
+                    "duration_ms": 178266,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e29b4105a61a5c5abb0762b0",
+                    "id": 7137,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Fe Aala El Aaly",
+                    "track_url": "",
+                    "duration_ms": 322413,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e29b4105a61a5c5abb0762b0",
+                    "id": 7138,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "El Noaman",
+                    "track_url": "",
+                    "duration_ms": 361533,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e29b4105a61a5c5abb0762b0",
+                    "id": 7139,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Eih Mekhabby",
+                    "track_url": "",
+                    "duration_ms": 160453,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e29b4105a61a5c5abb0762b0",
+                    "id": 7140,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Oslob Oudak",
+                    "track_url": "",
+                    "duration_ms": 156693,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e29b4105a61a5c5abb0762b0",
+                    "id": 7141,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Taab Gamil",
+                    "track_url": "",
+                    "duration_ms": 274080,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e29b4105a61a5c5abb0762b0",
+                    "id": 7142,
+                    "artist": "Medhat Saleh"
+                }
+            ],
+            "id": 7133
+        },
+        {
+            "name": "El Sahra Tehla",
+            "release_date": "1984-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730ea4116d08ea35214dbe6c5c",
+            "track_url": "https://open.spotify.com/album/3h3RhObSnE1OgTmyZ7gOew",
+            "tracks": [
+                {
+                    "name": "El Sahra Tehla",
+                    "track_url": "",
+                    "duration_ms": 340000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730ea4116d08ea35214dbe6c5c",
+                    "id": 7144,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "We Nensa",
+                    "track_url": "",
+                    "duration_ms": 413333,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730ea4116d08ea35214dbe6c5c",
+                    "id": 7145,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Eyounek El Raheel",
+                    "track_url": "",
+                    "duration_ms": 390266,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730ea4116d08ea35214dbe6c5c",
+                    "id": 7146,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Ana Mesh Leeky",
+                    "track_url": "",
+                    "duration_ms": 385080,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730ea4116d08ea35214dbe6c5c",
+                    "id": 7147,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Mohal",
+                    "track_url": "",
+                    "duration_ms": 481440,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730ea4116d08ea35214dbe6c5c",
+                    "id": 7148,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Massafet El Sekka",
+                    "track_url": "",
+                    "duration_ms": 394733,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730ea4116d08ea35214dbe6c5c",
+                    "id": 7149,
+                    "artist": "Medhat Saleh"
+                }
+            ],
+            "id": 7143
+        },
+        {
+            "name": "Zay Ma Alo Eneik",
+            "release_date": "1982-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b82e268e532c9d283e6d75c1",
+            "track_url": "https://open.spotify.com/album/3ruSXyYjkkHbohplY2zGg8",
+            "tracks": [
+                {
+                    "name": "Had Yeol Lehabeby",
+                    "track_url": "",
+                    "duration_ms": 368810,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b82e268e532c9d283e6d75c1",
+                    "id": 7151,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Zay Ma Alo Enek",
+                    "track_url": "",
+                    "duration_ms": 848340,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b82e268e532c9d283e6d75c1",
+                    "id": 7152,
+                    "artist": "Medhat Saleh"
+                },
+                {
+                    "name": "Hawelt Abeed",
+                    "track_url": "",
+                    "duration_ms": 1183622,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b82e268e532c9d283e6d75c1",
+                    "id": 7153,
+                    "artist": "Medhat Saleh"
+                }
+            ],
+            "id": 7150
+        }
+    ],
+    "singles": [
+        {
+            "name": "اغانى بيرم التونسي",
+            "release_date": "2024-10-22",
+            "image": "https://i.scdn.co/image/ab67616d0000b273bb74c580837a459237a51ce2",
+            "track_url": "",
+            "id": 7154,
+            "artist": "Medhat Saleh"
+        },
+        {
+            "name": "سوا سوا",
+            "release_date": "2024-08-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734fc0cc58cd54cc6534572a9a",
+            "track_url": "",
+            "id": 7155,
+            "artist": "Medhat Saleh"
+        },
+        {
+            "name": "اصحاب القضية",
+            "release_date": "2024-05-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f4d5a17618db0ad083d2a2d1",
+            "track_url": "",
+            "id": 7156,
+            "artist": "Medhat Saleh"
+        },
+        {
+            "name": "قرب للناس (أغنية فيلم ليه تعيشها لوحدك)",
+            "release_date": "2024-05-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734345a79eb71124c4e172721c",
+            "track_url": "",
+            "id": 7157,
+            "artist": "Medhat Saleh"
+        },
+        {
+            "name": "كلمني طمني",
+            "release_date": "2024-04-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b273fdf9184a6a571bb8efb0abfc",
+            "track_url": "",
+            "id": 7158,
+            "artist": "Medhat Saleh"
+        },
+        {
+            "name": "أهلاً يا عصابة",
+            "release_date": "2024-03-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b27390edea3a068c625373d15a60",
+            "track_url": "",
+            "id": 7159,
+            "artist": "Medhat Saleh"
+        },
+        {
+            "name": "Sahaba Addet",
+            "release_date": "2024-02-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b27314ad9451c95ee57cc960b123",
+            "track_url": "",
+            "id": 7160,
+            "artist": "Medhat Saleh"
+        },
+        {
+            "name": "واحد طيب ( تتر مسلسل وبينا ميعاد الجزء التاني )",
+            "release_date": "2024-01-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a21debc81a42683782b2d3f7",
+            "track_url": "",
+            "id": 7161,
+            "artist": "Medhat Saleh"
+        },
+        {
+            "name": "عيش ايامك ( تتر مسلسل وبينا ميعاد )",
+            "release_date": "2024-01-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b27309ed647c84deb91139240d67",
+            "track_url": "",
+            "id": 7162,
+            "artist": "Medhat Saleh"
+        },
+        {
+            "name": "Red Bull Sika",
+            "release_date": "2024-01-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b273928905c8861c6e8005f4836a",
+            "track_url": "",
+            "id": 7163,
+            "artist": "Medhat Saleh"
+        },
+        {
+            "name": "زهرة المدائن (كوفر)",
+            "release_date": "2023-10-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737df75cae129b3ddd27d320c5",
+            "track_url": "",
+            "id": 7164,
+            "artist": "Medhat Saleh"
+        },
+        {
+            "name": "خطير يا أخوانا",
+            "release_date": "2023-09-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e06f80b9dffd7c22a1798499",
+            "track_url": "",
+            "id": 7165,
+            "artist": "Medhat Saleh"
+        },
+        {
+            "name": "حمايا العزيز",
+            "release_date": "2023-09-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b273eb9a293ca6f636520e3d137e",
+            "track_url": "",
+            "id": 7166,
+            "artist": "Medhat Saleh"
+        },
+        {
+            "name": "60 سنة بنحبك يا دراما",
+            "release_date": "2023-08-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b182e4143dea40b85b1c5262",
+            "track_url": "",
+            "id": 7167,
+            "artist": "Medhat Saleh"
+        },
+        {
+            "name": "بهججة",
+            "release_date": "2023-04-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731229837d6317f3b8e4ce4141",
+            "track_url": "",
+            "id": 7168,
+            "artist": "Medhat Saleh"
+        },
+        {
+            "name": "اللي يهري يهري (تتر بدايه مسلسل حضرة العمده)",
+            "release_date": "2023-04-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736f7e3ff999961374549a9ec5",
+            "track_url": "",
+            "id": 7169,
+            "artist": "Medhat Saleh"
+        },
+        {
+            "name": "الناس الزعلانة (تتر مسلسل آدم وحياه)",
+            "release_date": "2023-03-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734e7f586def4778141cd4e984",
+            "track_url": "",
+            "id": 7170,
+            "artist": "Medhat Saleh"
+        },
+        {
+            "name": "حبيب الخلايق",
+            "release_date": "2023-03-22",
+            "image": "https://i.scdn.co/image/ab67616d0000b273887f2e2747d5986efaeaa1f5",
+            "track_url": "",
+            "id": 7171,
+            "artist": "Medhat Saleh"
+        },
+        {
+            "name": "نار",
+            "release_date": "2023-01-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b273dae4b8395fbeb31888eaf38b",
+            "track_url": "",
+            "id": 7172,
+            "artist": "Medhat Saleh"
+        },
+        {
+            "name": "نوري وعيني",
+            "release_date": "2022-10-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b27337f6de502d2dd6f2ec3164e4",
+            "track_url": "",
+            "id": 7173,
+            "artist": "Medhat Saleh"
+        },
+        {
+            "name": "أنا مش بعيد | برنامج أنغام",
+            "release_date": "2022-10-13",
+            "image": "https://i.scdn.co/image/ab67616d0000b27356b0393e874f1ec6e334e090",
+            "track_url": "",
+            "id": 7174,
+            "artist": "Medhat Saleh"
+        },
+        {
+            "name": "شبك يا مصري",
+            "release_date": "2022-10-03",
+            "image": "https://i.scdn.co/image/ab67616d0000b273488211adc03899d4625e3e46",
+            "track_url": "",
+            "id": 7175,
+            "artist": "Medhat Saleh"
+        },
+        {
+            "name": "دا حب",
+            "release_date": "2022-09-22",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b37d3d45b99b477937cdd93c",
+            "track_url": "",
+            "id": 7176,
+            "artist": "Medhat Saleh"
+        },
+        {
+            "name": "بنحبك يا دراما",
+            "release_date": "2022-09-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b03e881166656fe8876437c5",
+            "track_url": "",
+            "id": 7177,
+            "artist": "Medhat Saleh"
+        },
+        {
+            "name": "أنا بنهي الكلام",
+            "release_date": "2022-09-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738f26c0eda5b5696dda1011f9",
+            "track_url": "",
+            "id": 7178,
+            "artist": "Medhat Saleh"
+        },
+        {
+            "name": "لحظة تاريخية",
+            "release_date": "2022-08-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b273061900cf4265ab0de27b005d",
+            "track_url": "",
+            "id": 7179,
+            "artist": "Medhat Saleh"
+        },
+        {
+            "name": "سكتم بكتم",
+            "release_date": "2022-07-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736d55fb0730069bfe55f4e88a",
+            "track_url": "",
+            "id": 7180,
+            "artist": "Medhat Saleh"
+        },
+        {
+            "name": "ع الحبيب",
+            "release_date": "2022-07-06",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a722d5a1ec835cdd7709e916",
+            "track_url": "",
+            "id": 7181,
+            "artist": "Medhat Saleh"
+        },
+        {
+            "name": "مابحبش حد يصحيني",
+            "release_date": "2022-06-16",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731d51f67d574bc280f9850625",
+            "track_url": "",
+            "id": 7182,
+            "artist": "Medhat Saleh"
+        },
+        {
+            "name": "بطل الحكاية",
+            "release_date": "2022-06-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733c40bdd13274e47f758d3737",
+            "track_url": "",
+            "id": 7183,
+            "artist": "Medhat Saleh"
+        },
+        {
+            "name": "أنا الأب",
+            "release_date": "2022-06-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737068f967601194d54732ce5e",
+            "track_url": "",
+            "id": 7184,
+            "artist": "Medhat Saleh"
+        },
+        {
+            "name": "حنيت للبيت (من مسلسل راجعين ياهوى)",
+            "release_date": "2022-04-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b27396fd69aa31abe73bc6bfd2a6",
+            "track_url": "",
+            "id": 7185,
+            "artist": "Medhat Saleh"
+        },
+        {
+            "name": "وبتمشي في الملكوت",
+            "release_date": "2021-11-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732f7c80e39a9178aea4dbecc3",
+            "track_url": "",
+            "id": 7186,
+            "artist": "Medhat Saleh"
+        },
+        {
+            "name": "نعمك يا رب",
+            "release_date": "2021-11-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d8720da70ac0d661c2bd7c58",
+            "track_url": "",
+            "id": 7187,
+            "artist": "Medhat Saleh"
+        },
+        {
+            "name": "نص دينك",
+            "release_date": "2021-11-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b273840faaaaac4595055c9a074f",
+            "track_url": "",
+            "id": 7188,
+            "artist": "Medhat Saleh"
+        },
+        {
+            "name": "لما تحس",
+            "release_date": "2021-11-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731db64d219a00a180b8b15bf7",
+            "track_url": "",
+            "id": 7189,
+            "artist": "Medhat Saleh"
+        },
+        {
+            "name": "كلمة حق",
+            "release_date": "2021-11-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b27385d4b0483985ceb4b6ad29ee",
+            "track_url": "",
+            "id": 7190,
+            "artist": "Medhat Saleh"
+        },
+        {
+            "name": "طفل يتيم",
+            "release_date": "2021-11-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b27339f5a4d9dfba05dcfed10b14",
+            "track_url": "",
+            "id": 7191,
+            "artist": "Medhat Saleh"
+        },
+        {
+            "name": "صلة الرحم",
+            "release_date": "2021-11-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730b2f7faa425042696a8bb076",
+            "track_url": "",
+            "id": 7192,
+            "artist": "Medhat Saleh"
+        },
+        {
+            "name": "رزق حلال",
+            "release_date": "2021-11-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735ccb52c70f5b2f438b48b6b5",
+            "track_url": "",
+            "id": 7193,
+            "artist": "Medhat Saleh"
+        },
+        {
+            "name": "دعيت للناس",
+            "release_date": "2021-11-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ca6a1fd3e0a5adb517d0c082",
+            "track_url": "",
+            "id": 7194,
+            "artist": "Medhat Saleh"
+        },
+        {
+            "name": "دعوة المسكين",
+            "release_date": "2021-11-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b27341ac6f4c49f33c392665f1aa",
+            "track_url": "",
+            "id": 7195,
+            "artist": "Medhat Saleh"
+        },
+        {
+            "name": "دعائك واصل",
+            "release_date": "2021-11-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b27311356b940001a073e05c0a78",
+            "track_url": "",
+            "id": 7196,
+            "artist": "Medhat Saleh"
+        },
+        {
+            "name": "بتجامل وبتكدب",
+            "release_date": "2021-11-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ca0d416976c6977d865b0f1b",
+            "track_url": "",
+            "id": 7197,
+            "artist": "Medhat Saleh"
+        },
+        {
+            "name": "المال والبنون",
+            "release_date": "2021-11-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732f1f1f042094267911d0131d",
+            "track_url": "",
+            "id": 7198,
+            "artist": "Medhat Saleh"
+        },
+        {
+            "name": "أنا عبدك",
+            "release_date": "2021-11-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b27334066828fac00c5eccd0f839",
+            "track_url": "",
+            "id": 7199,
+            "artist": "Medhat Saleh"
+        },
+        {
+            "name": "يتقال",
+            "release_date": "2021-02-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d7746a1cad368719a1ccf2fe",
+            "track_url": "",
+            "id": 7200,
+            "artist": "Medhat Saleh"
+        },
+        {
+            "name": "Yalla Neghanelha",
+            "release_date": "2020-11-13",
+            "image": "https://i.scdn.co/image/ab67616d0000b273599aa784c5c5b7e80a09714c",
+            "track_url": "",
+            "id": 7201,
+            "artist": "Medhat Saleh"
+        },
+        {
+            "name": "Ehlamo",
+            "release_date": "2020-10-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273dcf5e99e231c0891557f60ee",
+            "track_url": "",
+            "id": 7202,
+            "artist": "Medhat Saleh"
+        },
+        {
+            "name": "Btkhalina El Zorouf (From El Wagh El Akhar TV Series)",
+            "release_date": "2020-09-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737db2fe07c0df9915791bb296",
+            "track_url": "",
+            "id": 7203,
+            "artist": "Medhat Saleh"
+        }
+    ],
+    "popular_tracks": [
+        {
+            "name": "Habiby Ya Asheq",
+            "track_url": "",
+            "duration_ms": 185274,
+            "image": "https://i.scdn.co/image/ab67616d0000b27372ec0aab8cbf1e48cec33f3e",
+            "id": 7204,
+            "artist": "Medhat Saleh"
+        },
+        {
+            "name": "Kawkab Tany",
+            "track_url": "",
+            "duration_ms": 286368,
+            "image": "https://i.scdn.co/image/ab67616d0000b2734b19f8fa12fb6682f9f3067c",
+            "id": 7205,
+            "artist": "Medhat Saleh"
+        },
+        {
+            "name": "ونحب تاني ليه - تتر مسلسل ونحب تاني ليه",
+            "track_url": "",
+            "duration_ms": 239966,
+            "image": "https://i.scdn.co/image/ab67616d0000b2737239f18148720931de725e44",
+            "id": 7206,
+            "artist": "Medhat Saleh"
+        },
+        {
+            "name": "El Pelyatshow",
+            "track_url": "",
+            "duration_ms": 191214,
+            "image": "https://i.scdn.co/image/ab67616d0000b27359b23860863fb3ac3f54879a",
+            "id": 7207,
+            "artist": "Medhat Saleh"
+        },
+        {
+            "name": "دا حب",
+            "track_url": "",
+            "duration_ms": 178636,
+            "image": "https://i.scdn.co/image/ab67616d0000b273b37d3d45b99b477937cdd93c",
+            "id": 7208,
+            "artist": "Medhat Saleh"
+        },
+        {
+            "name": "Baa Yany",
+            "track_url": "",
+            "duration_ms": 291299,
+            "image": "https://i.scdn.co/image/ab67616d0000b273eecec8f2e9ec308a17443f40",
+            "id": 7209,
+            "artist": "Medhat Saleh"
+        },
+        {
+            "name": "Ana Mesh Baeid",
+            "track_url": "",
+            "duration_ms": 246280,
+            "image": "https://i.scdn.co/image/ab67616d0000b273bbd8032cf84af185c2727fc9",
+            "id": 7210,
+            "artist": "Medhat Saleh"
+        },
+        {
+            "name": "El Milionerat",
+            "track_url": "",
+            "duration_ms": 179083,
+            "image": "https://i.scdn.co/image/ab67616d0000b273a5484668caff9f8d2266a8e1",
+            "id": 7211,
+            "artist": "Medhat Saleh"
+        },
+        {
+            "name": "لحظة تاريخية",
+            "track_url": "",
+            "duration_ms": 210000,
+            "image": "https://i.scdn.co/image/ab67616d0000b273061900cf4265ab0de27b005d",
+            "id": 7212,
+            "artist": "Medhat Saleh"
+        },
+        {
+            "name": "Gaey Ala Nafsak",
+            "track_url": "",
+            "duration_ms": 349192,
+            "image": "https://i.scdn.co/image/ab67616d0000b27345a87c1fffdcf749e3e427e0",
+            "id": 7213,
+            "artist": "Medhat Saleh"
+        }
+    ]
+}

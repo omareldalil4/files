@@ -1,0 +1,2553 @@
+{
+    "artist": {
+        "id": "2672",
+        "name": "Assala Nasri",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb8277d8746def29edc194708f",
+        "background_image": "https://i.scdn.co/image/ab676161000051748277d8746def29edc194708f"
+    },
+    "albums": [
+        {
+            "name": "Thumma Ana",
+            "release_date": "2024-07-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273bd66f906c27bdadfc26b42a7",
+            "track_url": "https://open.spotify.com/album/3rRbly6zfbFZgbDTfDKKAv",
+            "tracks": [
+                {
+                    "name": "Yamorr W Ma Yesalem",
+                    "track_url": "https://www.dropbox.com/scl/fi/jl3xbl89mowhuimfssp3o/1-Yamorr-W-Ma-Yesalem.mp3?rlkey=mytjhcjs3hkubrneqb12ytzs5&st=7qp0gpmm&dl=1",
+                    "duration_ms": 249767,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bd66f906c27bdadfc26b42a7",
+                    "id": 2693,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Ma Tehun",
+                    "track_url": "https://www.dropbox.com/scl/fi/vevok5nh6x9w1gbag7yak/2-Ma-Tehun.mp3?rlkey=5f5ocnjphpkydx33o6r47aqpz&st=b0ifnn25&dl=1",
+                    "duration_ms": 203478,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bd66f906c27bdadfc26b42a7",
+                    "id": 2694,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Aman Aman",
+                    "track_url": "https://www.dropbox.com/scl/fi/rjp9ug74oeivtpv8cp1c4/3-Aman-Aman.mp3?rlkey=dwqwwv7apglvnlbmpxbh8re85&st=n5kn7hi9&dl=1",
+                    "duration_ms": 219048,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bd66f906c27bdadfc26b42a7",
+                    "id": 2695,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Kellak Lohm",
+                    "track_url": "https://www.dropbox.com/scl/fi/4z6cpalfb40r2ccspfpf6/4-Kellak-Lohm.mp3?rlkey=j6169gyld90mdfkxgdy9eat9f&st=iurzlcgc&dl=1",
+                    "duration_ms": 222674,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bd66f906c27bdadfc26b42a7",
+                    "id": 2696,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Jarh Al Arab",
+                    "track_url": "https://www.dropbox.com/scl/fi/0hrlw0u3syp09oeqwk8fb/5-Jarh-Al-Arab.mp3?rlkey=8l4xsrhmcdyb7sb83zlvyj0d2&st=ciahibk4&dl=1",
+                    "duration_ms": 250000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bd66f906c27bdadfc26b42a7",
+                    "id": 2697,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "La Tekhteber",
+                    "track_url": "https://www.dropbox.com/scl/fi/bin14bxn4kvjvb7yt3z80/6-La-Tekhteber.mp3?rlkey=5de6a7wx4uunfzly5hi577pc0&st=anfbeyiq&dl=1",
+                    "duration_ms": 321519,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bd66f906c27bdadfc26b42a7",
+                    "id": 2698,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Tesalni",
+                    "track_url": "https://www.dropbox.com/scl/fi/fphitjyvincxeaam19jqc/7-Tesalni.mp3?rlkey=81p1pjcu8fgexvnbikflk537u&st=t5mpb8th&dl=1",
+                    "duration_ms": 306732,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bd66f906c27bdadfc26b42a7",
+                    "id": 2699,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Al Kersy",
+                    "track_url": "https://www.dropbox.com/scl/fi/84hlgcywxn8w4xcb13vdk/8-Al-Kersy.mp3?rlkey=vd5d1i8lav1f1c6ou4k445j7k&st=i85ckkpb&dl=1",
+                    "duration_ms": 223172,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bd66f906c27bdadfc26b42a7",
+                    "id": 2700,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Thumma Ana",
+                    "track_url": "https://www.dropbox.com/scl/fi/5bmfkws0w2h3ii23gzvlq/9-Thumma-Ana.mp3?rlkey=8x57vxwimfhd23ktlo6yzewm1&st=8furl8q6&dl=1",
+                    "duration_ms": 165788,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bd66f906c27bdadfc26b42a7",
+                    "id": 2701,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Ensan",
+                    "track_url": "https://www.dropbox.com/scl/fi/xmnpwcclifsrycjdx3slo/10-Ensan.mp3?rlkey=g9hrkc5zzu4pnu9mxeblxzjg3&st=w9lhg7cv&dl=1",
+                    "duration_ms": 248674,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bd66f906c27bdadfc26b42a7",
+                    "id": 2702,
+                    "artist": "Assala Nasri"
+                }
+            ],
+            "id": 2692
+        },
+        {
+            "name": "Lehqt Nafsy - Part 2",
+            "release_date": "2024-02-05",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a94b351252b44aef987ed1a4",
+            "track_url": "https://open.spotify.com/album/2wiOuShzVOsXIihxOWZb1Y",
+            "tracks": [
+                {
+                    "name": "Lehqt Nafsy",
+                    "track_url": "https://www.dropbox.com/scl/fi/2cn9t2fv64rpnmxlqpvl6/1-Lehqt-Nafsy.mp3?rlkey=i3xp6h2q7t6ev92xl68ejhfv3&st=2qq3pskf&dl=1",
+                    "duration_ms": 253634,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a94b351252b44aef987ed1a4",
+                    "id": 2704,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Aysha Hala",
+                    "track_url": "https://www.dropbox.com/scl/fi/jsn8a7lol7vpcdup9jtve/2-Aysha-Hala.mp3?rlkey=hgr3gdp53mjjt9qvc7fqnojqj&st=fa0db81v&dl=1",
+                    "duration_ms": 232921,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a94b351252b44aef987ed1a4",
+                    "id": 2705,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Neset",
+                    "track_url": "https://www.dropbox.com/scl/fi/g7yoj5cp60crbvcmenbi3/3-Neset.mp3?rlkey=ucr6fp3jomebexsgr9fmwhxd0&st=jwu07env&dl=1",
+                    "duration_ms": 182697,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a94b351252b44aef987ed1a4",
+                    "id": 2706,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Aaraad El Gheyab",
+                    "track_url": "https://www.dropbox.com/scl/fi/3rnrexizmsn3fgqlo7ymi/4-Aaraad-El-Gheyab.mp3?rlkey=2o1ugejt6ramkw8yahmbws9zi&st=apanmejs&dl=1",
+                    "duration_ms": 225365,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a94b351252b44aef987ed1a4",
+                    "id": 2707,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Esheq El Rooh",
+                    "track_url": "https://www.dropbox.com/scl/fi/vq48c8eykwr6htgutr9r4/5-Esheq-El-Rooh.mp3?rlkey=mur9siky7wkqlrszniptn7v5z&st=z6v3s6o2&dl=1",
+                    "duration_ms": 290796,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a94b351252b44aef987ed1a4",
+                    "id": 2708,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Hadeqat Thalj",
+                    "track_url": "https://www.dropbox.com/scl/fi/rjwqhaaeew384xj36f4ji/6-Hadeqat-Thalj.mp3?rlkey=6pq6sjw9qzyspsylck1skn5xq&st=mpk29669&dl=1",
+                    "duration_ms": 271569,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a94b351252b44aef987ed1a4",
+                    "id": 2709,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Sandooq",
+                    "track_url": "https://www.dropbox.com/scl/fi/20dibd9wx36imdzw014oy/7-Sandooq.mp3?rlkey=ka7oayd2mzqnmx4gw73aq506w&st=aify0xux&dl=1",
+                    "duration_ms": 344883,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a94b351252b44aef987ed1a4",
+                    "id": 2710,
+                    "artist": "Assala Nasri"
+                }
+            ],
+            "id": 2703
+        },
+        {
+            "name": "Lehqt Nafsy",
+            "release_date": "2023-10-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739892149d21ca85f64ee6b432",
+            "track_url": "https://open.spotify.com/album/5Hy7i5IWXGVgnZ6EGYK5Oq",
+            "tracks": [
+                {
+                    "name": "Fouq",
+                    "track_url": "https://www.dropbox.com/scl/fi/ac2tsyv3pj90028mzi1pj/1-Fouq.mp3?rlkey=et4fuszzmrumkc675nwi5azpn&st=cwlpqwza&dl=1",
+                    "duration_ms": 192926,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739892149d21ca85f64ee6b432",
+                    "id": 2712,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Lama Bentgahel",
+                    "track_url": "https://www.dropbox.com/scl/fi/rhslxnxk84naq5zfpvtb2/2-Lama-Bentgahel.mp3?rlkey=gxjmitqr61dcf7rgy2ndl8x7n&st=6t789eda&dl=1",
+                    "duration_ms": 206076,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739892149d21ca85f64ee6b432",
+                    "id": 2713,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "El Akhbar El Helwa",
+                    "track_url": "https://www.dropbox.com/scl/fi/0kmsjtempe6txfk4xnn60/3-El-Akhbar-El-Helwa.mp3?rlkey=phu471ga5stgrcvcxjgjxscbq&st=vxhgrt74&dl=1",
+                    "duration_ms": 232500,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739892149d21ca85f64ee6b432",
+                    "id": 2714,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Manga",
+                    "track_url": "https://www.dropbox.com/scl/fi/wc30xjzpw5wmb1n3oy3v9/4-Manga.mp3?rlkey=h9reelrr1hyvsgmlkom4ov8p4&st=v9ej7dn6&dl=1",
+                    "duration_ms": 199076,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739892149d21ca85f64ee6b432",
+                    "id": 2715,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Mars April",
+                    "track_url": "https://www.dropbox.com/scl/fi/7nba6ifxgckysyd7r8sxo/5-Mars-April.mp3?rlkey=x883vx52c3y5rujy9p1m0v9c2&st=fsr9yqzb&dl=1",
+                    "duration_ms": 196428,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739892149d21ca85f64ee6b432",
+                    "id": 2716,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Ragel Mesaly",
+                    "track_url": "https://www.dropbox.com/scl/fi/aouu5iqya1bpcivdpdjz4/6-Ragel-Mesaly.mp3?rlkey=gym5q0e03dfnok0mrdg4fs4z5&st=dka8lm69&dl=1",
+                    "duration_ms": 272628,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739892149d21ca85f64ee6b432",
+                    "id": 2717,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Medley - Lehqt Nafsy",
+                    "track_url": "https://www.dropbox.com/scl/fi/2cn9t2fv64rpnmxlqpvl6/1-Lehqt-Nafsy.mp3?rlkey=i3xp6h2q7t6ev92xl68ejhfv3&st=2qq3pskf&dl=1",
+                    "duration_ms": 230158,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739892149d21ca85f64ee6b432",
+                    "id": 2718,
+                    "artist": "Assala Nasri"
+                }
+            ],
+            "id": 2711
+        },
+        {
+            "name": "Shayfa Feek",
+            "release_date": "2022-07-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b273921dfd9d056064bf5b0a584f",
+            "track_url": "https://open.spotify.com/album/5VI4sFVYovAJdrWWOA1LHX",
+            "tracks": [
+                {
+                    "name": "Ghalban",
+                    "track_url": "https://www.dropbox.com/scl/fi/jwhdwj9ohu0ut68rpvfi7/Albumaty.Com_asalt_ghlban.mp3?rlkey=8pvpv2agvwdpn2n0owte14vjy&st=lhffn75y&dl=1",
+                    "duration_ms": 201715,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273921dfd9d056064bf5b0a584f",
+                    "id": 2759,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Kevokim",
+                    "track_url": "https://www.dropbox.com/scl/fi/kp3odh2uwh2lja0j627nk/Albumaty.Com_asalt_kfwkym.mp3?rlkey=6dttn4unga3t3j8tv4wvmeh9m&st=ezjkejq5&dl=1",
+                    "duration_ms": 226909,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273921dfd9d056064bf5b0a584f",
+                    "id": 2760,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Farha Wi Bas",
+                    "track_url": "https://www.dropbox.com/scl/fi/09kqxelkoye1wdmztn25y/Albumaty.Com_asalt_frhh_wbs.mp3?rlkey=ggxege8u9rd1hxcjl7luc4rg7&st=qmcrt5x3&dl=1",
+                    "duration_ms": 204000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273921dfd9d056064bf5b0a584f",
+                    "id": 2761,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Faqadt Nafsy",
+                    "track_url": "https://www.dropbox.com/scl/fi/xqanoxguq6t1yomoxou3i/Albumaty.Com_asalt_fkdt_nfsy.mp3?rlkey=lvb9xm9go19e9qzwl08yq3qje&st=ro7ovjct&dl=1",
+                    "duration_ms": 212073,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273921dfd9d056064bf5b0a584f",
+                    "id": 2762,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Ana Hurra",
+                    "track_url": "https://www.dropbox.com/scl/fi/y3u9pendhc6oln4j0q6y9/Albumaty.Com_asalt_ana_hrt.mp3?rlkey=fkfn7ylr2htp29rfqbcnczid9&st=0eummdts&dl=1",
+                    "duration_ms": 235800,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273921dfd9d056064bf5b0a584f",
+                    "id": 2763,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Bi El Salama",
+                    "track_url": "https://www.dropbox.com/scl/fi/s33d8dzri8wy4q75zasiz/Albumaty.Com_asalt_balslamt.mp3?rlkey=37jzf5xgj9wjfnud0kxujnyfm&st=a1hwusk5&dl=1",
+                    "duration_ms": 318463,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273921dfd9d056064bf5b0a584f",
+                    "id": 2764,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Manni Wafi",
+                    "track_url": "https://www.dropbox.com/scl/fi/ed6v6n8uo3ck9aszraygf/Albumaty.Com_asalt_mny_wfy.mp3?rlkey=d5sv47ded55zudwopkxinu1ni&st=qysr1avn&dl=1",
+                    "duration_ms": 180066,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273921dfd9d056064bf5b0a584f",
+                    "id": 2765,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Zay El Mougezat",
+                    "track_url": "https://www.dropbox.com/scl/fi/l1bgy28ilom9riaydd9lg/Albumaty.Com_asalt_zy_almagzat.mp3?rlkey=a2r4envky8qi9wp8zr3hhtt6l&st=6ubcy798&dl=1",
+                    "duration_ms": 160820,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273921dfd9d056064bf5b0a584f",
+                    "id": 2766,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Elly Medayea Yefarea",
+                    "track_url": "https://www.dropbox.com/scl/fi/pb0hi5o56lkoewpc36cjw/Albumaty.Com_asalt_ally_mtdayk_yfark.mp3?rlkey=z4qiqxalw8nf6k2puix8o8bij&st=s030v6k7&dl=1",
+                    "duration_ms": 190655,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273921dfd9d056064bf5b0a584f",
+                    "id": 2767,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Shayfa Feek",
+                    "track_url": "https://www.dropbox.com/scl/fi/drugj78pyy0h2ep1b9zew/Albumaty.Com_asalt_shayft_fyk.mp3?rlkey=byudit7kbt6s5souyic8n0ut1&st=6rfogmh4&dl=1",
+                    "duration_ms": 288500,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273921dfd9d056064bf5b0a584f",
+                    "id": 2768,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Allah Gab",
+                    "track_url": "https://www.dropbox.com/scl/fi/denepzo9xf0txggywwbs1/Albumaty.Com_asalt_allh_gab.mp3?rlkey=ryfcyb1sv11z0p9bz5tbmi3dp&st=eaim7i05&dl=1",
+                    "duration_ms": 224778,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273921dfd9d056064bf5b0a584f",
+                    "id": 2769,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Allah Gab Khaleeji Version",
+                    "track_url": "https://www.dropbox.com/scl/fi/6giy2w270acoz6aexwr5h/Albumaty.Com_asalt_allh_gab_-_eykaa_khlygy.mp3?rlkey=k2ga4yrbjujsdwj4522boou4c&st=e7eadsgp&dl=1",
+                    "duration_ms": 225525,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273921dfd9d056064bf5b0a584f",
+                    "id": 2770,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Ezay Habibi",
+                    "track_url": "https://www.dropbox.com/scl/fi/zdegz9h33ztmx8iyca28i/Albumaty.Com_asalt_ezay_hbyby.mp3?rlkey=dy603n375h7mlxmjyhl42ofn1&st=hzlbjb4l&dl=1",
+                    "duration_ms": 217291,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273921dfd9d056064bf5b0a584f",
+                    "id": 2771,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Law Kol Youm - El Rehla",
+                    "track_url": "https://www.dropbox.com/scl/fi/5ynp1jc826gdb8edntaig/Albumaty.Com_asalt_lw_kl_ywm__alrhlt.mp3?rlkey=ubhaytjw5fsqy0breqtfn8xpf&st=6kafqaoz&dl=1",
+                    "duration_ms": 170000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273921dfd9d056064bf5b0a584f",
+                    "id": 2772,
+                    "artist": "Assala Nasri"
+                }
+            ],
+            "id": 2758
+        },
+        {
+            "name": "La Testaslem",
+            "release_date": "2020-09-16",
+            "image": "https://i.scdn.co/image/ab67616d0000b273536bc0ccec054fb862a2c299",
+            "track_url": "https://open.spotify.com/album/5ADHjeVwRTNHABUJD538lA",
+            "tracks": [
+                {
+                    "name": "Ana Maak",
+                    "track_url": "https://www.dropbox.com/scl/fi/fhukkbztwd9aw3yfu3awu/1.mp3?rlkey=3hy7koraupxsmzsiv2wt4qq6l&st=5g74e140&dl=1",
+                    "duration_ms": 235690,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273536bc0ccec054fb862a2c299",
+                    "id": 2774,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Wallah W Tifaragna",
+                    "track_url": "https://www.dropbox.com/scl/fi/5fuq5ftr7e4haph3m80o8/2.mp3?rlkey=2qi9h5v4h6td0q45twj22rhtr&st=l8lwpbx0&dl=1",
+                    "duration_ms": 188580,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273536bc0ccec054fb862a2c299",
+                    "id": 2775,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Bayan",
+                    "track_url": "https://www.dropbox.com/scl/fi/uhaqpcq4u4y8wexy16mei/3.mp3?rlkey=qrehg7imnf6jrs4le4dpp54h6&st=i5l973mj&dl=1",
+                    "duration_ms": 247616,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273536bc0ccec054fb862a2c299",
+                    "id": 2776,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Refkann",
+                    "track_url": "https://www.dropbox.com/scl/fi/onem2vmr220wcblwn21oj/4.mp3?rlkey=e86mww80e1v42vf7zco3w0stu&st=cyndlr5b&dl=1",
+                    "duration_ms": 344405,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273536bc0ccec054fb862a2c299",
+                    "id": 2777,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Wesh Kenta Agoul",
+                    "track_url": "https://www.dropbox.com/scl/fi/syru5eqxyvyp99nq5ol4e/5.mp3?rlkey=w11qiw65osrqqiyo1pa9z1tau&st=hbbfdvte&dl=1",
+                    "duration_ms": 274048,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273536bc0ccec054fb862a2c299",
+                    "id": 2778,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Kal Moatad",
+                    "track_url": "https://www.dropbox.com/scl/fi/77ymtlt4upkhy7vbb86w9/6.mp3?rlkey=ikcf3ep5gxhnkbiqz5550kaj1&st=qs2q2gd0&dl=1",
+                    "duration_ms": 254634,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273536bc0ccec054fb862a2c299",
+                    "id": 2779,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Doroub El Amany",
+                    "track_url": "https://www.dropbox.com/scl/fi/oqd3hpyooqd0ohp3a2iln/7.mp3?rlkey=hp9ri4ac92i5g9iaw49o2j2dg&st=yk60s6ji&dl=1",
+                    "duration_ms": 315094,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273536bc0ccec054fb862a2c299",
+                    "id": 2780,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Almahak",
+                    "track_url": "https://www.dropbox.com/scl/fi/4grgpji21mz4ldvwbfodb/8.mp3?rlkey=oqsrpjebe1s47xre8vm4nn2g9&st=oto7ra1o&dl=1",
+                    "duration_ms": 249941,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273536bc0ccec054fb862a2c299",
+                    "id": 2781,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Sawi",
+                    "track_url": "https://www.dropbox.com/scl/fi/4ur5w1bfi5lw5k6stqrx8/9.mp3?rlkey=gm7xjpfe92t19bqq9s5kz1gc3&st=nv01nr2v&dl=1",
+                    "duration_ms": 306176,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273536bc0ccec054fb862a2c299",
+                    "id": 2782,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "La Testaslem",
+                    "track_url": "https://www.dropbox.com/scl/fi/cy45o5d5ludzb9t60thtp/10.mp3?rlkey=i4djyqyjpbu317zbinh0w0fl1&st=1450l2pw&dl=1",
+                    "duration_ms": 290048,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273536bc0ccec054fb862a2c299",
+                    "id": 2783,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Ghammad Ounouyak",
+                    "track_url": "https://www.dropbox.com/scl/fi/eikuer1powbgnnwxrsmwt/11.mp3?rlkey=qoy2496rckkan9eqm497mpl10&st=y94xzqee&dl=1",
+                    "duration_ms": 277546,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273536bc0ccec054fb862a2c299",
+                    "id": 2784,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Ma Erefet Anteg",
+                    "track_url": "https://www.dropbox.com/scl/fi/hcwixungu33sq8sx7l6zr/12.mp3?rlkey=ct5h963zwk9266tiwxv30brn8&st=nsfe6hs1&dl=1",
+                    "duration_ms": 308778,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273536bc0ccec054fb862a2c299",
+                    "id": 2785,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Yoltof B Hali",
+                    "track_url": "https://www.dropbox.com/scl/fi/c1xr23z3wiwfc7zx49ogt/13.mp3?rlkey=iw9vi3vwko1455ajugqwh8b6q&st=07i4lqju&dl=1",
+                    "duration_ms": 251562,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273536bc0ccec054fb862a2c299",
+                    "id": 2786,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Eshtagtilak",
+                    "track_url": "https://www.dropbox.com/scl/fi/yehnjhmdd3rcyc0fpdajp/14.mp3?rlkey=ndb6ofkkgqa3r4p96r57w5ffg&st=syxkzojn&dl=1",
+                    "duration_ms": 275136,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273536bc0ccec054fb862a2c299",
+                    "id": 2787,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Naam Ashtag",
+                    "track_url": "https://www.dropbox.com/scl/fi/es7nrtlwbop2i715o5h35/15.mp3?rlkey=vb62zxypgbr10qu5jobs5ejd6&st=vofbbuho&dl=1",
+                    "duration_ms": 227402,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273536bc0ccec054fb862a2c299",
+                    "id": 2788,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Ana Omry",
+                    "track_url": "https://www.dropbox.com/scl/fi/17505fwry4p5ceq46simr/16.mp3?rlkey=ocw06l5dupry825moxxkn2vch&st=itwgivqn&dl=1",
+                    "duration_ms": 250926,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273536bc0ccec054fb862a2c299",
+                    "id": 2789,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Nazratti",
+                    "track_url": "https://www.dropbox.com/scl/fi/98ioiobpj96qn3ntcssbv/17.mp3?rlkey=iykccxsmtaxh8t7ctdf9pkphp&st=zh29ghku&dl=1",
+                    "duration_ms": 230826,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273536bc0ccec054fb862a2c299",
+                    "id": 2790,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Ya Mousabett",
+                    "track_url": "https://www.dropbox.com/scl/fi/7ouixchq50lslev5tixya/18.mp3?rlkey=h6mbs1byuc9jlusy0o1m7vbqp&st=ftn0act2&dl=1",
+                    "duration_ms": 253226,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273536bc0ccec054fb862a2c299",
+                    "id": 2791,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Gheymitak Hallat",
+                    "track_url": "https://www.dropbox.com/scl/fi/zyztdwxcbtxzt1sjmiscs/19.mp3?rlkey=mgtudouornq3vlx7gyu0d1zm7&st=qq0edgkr&dl=1",
+                    "duration_ms": 245802,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273536bc0ccec054fb862a2c299",
+                    "id": 2792,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Youm Li",
+                    "track_url": "https://www.dropbox.com/scl/fi/noh09z7kmj3mnfh6r3xdm/20.mp3?rlkey=bnhlowi80qqkxicb2inlgrd0m&st=6o56uj3p&dl=1",
+                    "duration_ms": 268245,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273536bc0ccec054fb862a2c299",
+                    "id": 2793,
+                    "artist": "Assala Nasri"
+                }
+            ],
+            "id": 2773
+        },
+        {
+            "name": "Fi Orbak",
+            "release_date": "2019-08-27",
+            "image": "https://i.scdn.co/image/ab67616d0000b27330fa243f28b49b80544206d5",
+            "track_url": "https://open.spotify.com/album/4WTedQS0WtPyNWptZ5511V",
+            "tracks": [
+                {
+                    "name": "Fi Orbak",
+                    "track_url": "https://www.dropbox.com/scl/fi/g0emreiy90x4jxidi2bvg/01._Fi_Orbak.mp3?rlkey=h0y1pcid09g96po9tp7hv8j2c&st=zvq3nogq&dl=1",
+                    "duration_ms": 346260,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27330fa243f28b49b80544206d5",
+                    "id": 2803,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Nokhta Baykha",
+                    "track_url": "https://www.dropbox.com/scl/fi/23t1tt37vpnll5rj37uli/02._Nokhta_Baykha.mp3?rlkey=vexmlkn8ts09yy2hionlf0ssc&st=ys299bd9&dl=1",
+                    "duration_ms": 242703,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27330fa243f28b49b80544206d5",
+                    "id": 2804,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Maba'ash Ser - Single",
+                    "track_url": "https://www.dropbox.com/scl/fi/d4boqq9e0v7oke383l737/03._Mabaash_Ser.mp3?rlkey=xdwz0ksp7s28b3sdwy3pn2a9m&st=di4dine0&dl=1",
+                    "duration_ms": 250842,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27330fa243f28b49b80544206d5",
+                    "id": 2805,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Haga Matkhosaksh - Single",
+                    "track_url": "https://www.dropbox.com/scl/fi/twoyf6la5xp3kl8brtn2x/04._Haga_Matkhosaksh.mp3?rlkey=aon2xkenciegbaz12f7rwc7di&st=ac8xv8i8&dl=1",
+                    "duration_ms": 210546,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27330fa243f28b49b80544206d5",
+                    "id": 2806,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Geddan Geddan - Single",
+                    "track_url": "https://www.dropbox.com/scl/fi/fwg20qwbuonh1lr8tt1g2/05._Geddan_Geddan.mp3?rlkey=l9cdoyuu3vtz6wvfls528lajf&st=v2z526ev&dl=1",
+                    "duration_ms": 220637,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27330fa243f28b49b80544206d5",
+                    "id": 2807,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Gabo Serto",
+                    "track_url": "https://www.dropbox.com/scl/fi/ywhg8uphj1opv8ec65r8c/06._Gabo_Serto.mp3?rlkey=f9gjkeeg2z2gtkb90mboar9l1&st=phtjj9i2&dl=1",
+                    "duration_ms": 292898,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27330fa243f28b49b80544206d5",
+                    "id": 2808,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Halet Karkaba",
+                    "track_url": "https://www.dropbox.com/scl/fi/72vcf09907ydqukppuc0h/07._Halet_Karkaba.mp3?rlkey=wdoopasbg2hg70hanizca6h2w&st=uq7e1lbk&dl=1",
+                    "duration_ms": 252452,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27330fa243f28b49b80544206d5",
+                    "id": 2809,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Youm Youmin",
+                    "track_url": "https://www.dropbox.com/scl/fi/cix1effx80pk3kl2z71s0/08._Youm_Youmin.mp3?rlkey=i7ne22nw3vexfrjbyy0p7pu7b&st=ude9kkra&dl=1",
+                    "duration_ms": 235315,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27330fa243f28b49b80544206d5",
+                    "id": 2810,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Sabouk",
+                    "track_url": "https://www.dropbox.com/scl/fi/dojpj3yxszqv3gbjxtde1/09._Sabouk.mp3?rlkey=t1ebyanacya54zjx2fsr5508f&st=mdbq25ax&dl=1",
+                    "duration_ms": 241280,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27330fa243f28b49b80544206d5",
+                    "id": 2811,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Heita Sad",
+                    "track_url": "https://www.dropbox.com/scl/fi/1dd1mnfh0oyrki457nv35/10._Heita_Sad.mp3?rlkey=dxnqdqwkw6u8da3jvuk5cqt0w&st=evpyhu9c&dl=1",
+                    "duration_ms": 223573,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27330fa243f28b49b80544206d5",
+                    "id": 2812,
+                    "artist": "Assala Nasri"
+                }
+            ],
+            "id": 2802
+        },
+        {
+            "name": "Mohtamma Bel Tafaseel",
+            "release_date": "2017-09-22",
+            "image": "https://i.scdn.co/image/ab67616d0000b273448d338816fc3320db0fe615",
+            "track_url": "https://open.spotify.com/album/6vxCEa2HCu4JrCKkDdSTxG",
+            "tracks": [
+                {
+                    "name": "Mohtamma Bel Tafaseel",
+                    "track_url": "https://www.dropbox.com/scl/fi/atblumctv3f86op33vfli/01_-_Mohtamma_Bel_Tafaseel.mp3?rlkey=8otvdy40y8as2tcn8moczcc2z&st=f7hq3ksm&dl=1",
+                    "duration_ms": 251968,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273448d338816fc3320db0fe615",
+                    "id": 2814,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Rajea Al Farah",
+                    "track_url": "https://www.dropbox.com/scl/fi/k50czkjnf00tlc2rtloz4/12_-_Rejea_El_Farah.mp3?rlkey=piqbcnr3fg868envgmyx7fjzd&st=jfok9g54&dl=1",
+                    "duration_ms": 309853,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273448d338816fc3320db0fe615",
+                    "id": 2815,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Sho Badak",
+                    "track_url": "https://www.dropbox.com/scl/fi/0iwyjeqwucci2mb6asn5z/11_-_Shoo_Baddak.mp3?rlkey=ztuz944zivjje5feh7lntpqg6&st=zmombaea&dl=1",
+                    "duration_ms": 294702,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273448d338816fc3320db0fe615",
+                    "id": 2816,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "yoom elrheel",
+                    "track_url": "https://www.dropbox.com/scl/fi/x0dxhsxdxwjgaxmv4p2ne/09_-_Youm_El_Raheel.mp3?rlkey=1lmio919ysjef04okxwpndet8&st=9r19xxhp&dl=1",
+                    "duration_ms": 319404,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273448d338816fc3320db0fe615",
+                    "id": 2817,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Ana Batkhan",
+                    "track_url": "https://www.dropbox.com/scl/fi/9nb5aj7a218inpgdoz5f1/03_-_Ana_Batkhan.mp3?rlkey=ia7siktn09jpd622w1caiq57l&st=632dugb1&dl=1",
+                    "duration_ms": 281562,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273448d338816fc3320db0fe615",
+                    "id": 2818,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "ya alem",
+                    "track_url": "https://www.dropbox.com/scl/fi/tippdvbagquom3nacq3h1/08_-_Ya_Aalem.mp3?rlkey=drncraqyy8h81h1ocvpx9td1z&st=xt6tm30t&dl=1",
+                    "duration_ms": 247286,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273448d338816fc3320db0fe615",
+                    "id": 2819,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Hay'ollek",
+                    "track_url": "https://www.dropbox.com/scl/fi/v88l6gag1g9bt6yur0n88/04_-_Hay_Ollek.mp3?rlkey=jr4bobfeszan8hh60lhlzoqli&st=xblgjgty&dl=1",
+                    "duration_ms": 200977,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273448d338816fc3320db0fe615",
+                    "id": 2820,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Meen Fena",
+                    "track_url": "https://www.dropbox.com/scl/fi/vmygdxmkgboob7wvpvhqv/07_-_Meen_Feena.mp3?rlkey=286v0lafa1n448gfcawnwxauk&st=5fyikql6&dl=1",
+                    "duration_ms": 204620,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273448d338816fc3320db0fe615",
+                    "id": 2821,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Kefaya Kelma",
+                    "track_url": "https://www.dropbox.com/scl/fi/i6luhzy5kxrjaiu2g92xk/02_-_Kefaya_Kelma.mp3?rlkey=ci80xwatr0akb5p0nmalqwl13&st=uww05txy&dl=1",
+                    "duration_ms": 243079,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273448d338816fc3320db0fe615",
+                    "id": 2822,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Kol Amma Teftekro",
+                    "track_url": "https://www.dropbox.com/scl/fi/0i4hkmkzb7qx4905pvdvn/10_-_Koll_Amma_Teftekroo.mp3?rlkey=kil6zwvx9c4cji28fimd2vds0&st=sdjkbgtf&dl=1",
+                    "duration_ms": 212956,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273448d338816fc3320db0fe615",
+                    "id": 2823,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "kam marra",
+                    "track_url": "https://www.dropbox.com/scl/fi/dqjqxdxh9fbtgnefzqra1/06_-_Kam_Marra.mp3?rlkey=i8gn543oqp8kdnuhwv98nz0lu&st=e3ytg8yq&dl=1",
+                    "duration_ms": 249472,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273448d338816fc3320db0fe615",
+                    "id": 2824,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Aasid Aih",
+                    "track_url": "https://www.dropbox.com/scl/fi/72h6mpnegxbwc9qjkq6b1/05_-_Ased_Aih.mp3?rlkey=x646rbi29gh02m5ioes4a9cv2&st=2oun2hnl&dl=1",
+                    "duration_ms": 243614,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273448d338816fc3320db0fe615",
+                    "id": 2825,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Sandoo' Segheer",
+                    "track_url": "https://www.dropbox.com/scl/fi/rkjs28lz2eog1z3rkb390/13_-_Sandoo_Sgheer.mp3?rlkey=q8mn9f9f18y72fxrctb67fsfx&st=1d9pgji1&dl=1",
+                    "duration_ms": 175995,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273448d338816fc3320db0fe615",
+                    "id": 2826,
+                    "artist": "Assala Nasri"
+                }
+            ],
+            "id": 2813
+        },
+        {
+            "name": "Aalleg El Deneia",
+            "release_date": "2016-10-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c3fad858f74c8d7a23a9ebfa",
+            "track_url": "https://open.spotify.com/album/2ZfJjLbpZ4mnThMH9GPGHL",
+            "tracks": [
+                {
+                    "name": "Aadah",
+                    "track_url": "https://www.dropbox.com/scl/fi/jwffak5kmf590c8tclyv2/01_Aadah.mp3?rlkey=mdjt15os2ad6ed9e7vqo0fhlh&st=znlcu1qx&dl=1",
+                    "duration_ms": 254014,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c3fad858f74c8d7a23a9ebfa",
+                    "id": 2828,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Thak El Ghaby",
+                    "track_url": "https://www.dropbox.com/scl/fi/mgtup27of8lxavwfeb5pn/02_Thak_El_Ghaby.mp3?rlkey=7xdpkv2tvt798h9ltgy9zm1vb&st=x60y7how&dl=1",
+                    "duration_ms": 233639,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c3fad858f74c8d7a23a9ebfa",
+                    "id": 2829,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Hodoeik",
+                    "track_url": "https://www.dropbox.com/scl/fi/gsua82momxgh8fbx67o4u/03_Hodoeik.mp3?rlkey=536ch6sjf3fh6p57s1n6rns86&st=jpdzhndp&dl=1",
+                    "duration_ms": 218671,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c3fad858f74c8d7a23a9ebfa",
+                    "id": 2830,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Lan Takoon",
+                    "track_url": "https://www.dropbox.com/scl/fi/9jinv7feqe3mxit2qdk7w/04_Lan_Takoon.mp3?rlkey=5h4jerzl2iejpcox87ui4g4mp&st=e0w594my&dl=1",
+                    "duration_ms": 324310,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c3fad858f74c8d7a23a9ebfa",
+                    "id": 2831,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Aalleg El Deneia",
+                    "track_url": "https://www.dropbox.com/scl/fi/bx99vpe9105zjfau1xiae/05_Aalleg_El_Deneia.mp3?rlkey=yz1y6doj1uvmvm6pywb1cenpw&st=70p50j7n&dl=1",
+                    "duration_ms": 347846,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c3fad858f74c8d7a23a9ebfa",
+                    "id": 2832,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Kan Yhemny",
+                    "track_url": "https://www.dropbox.com/scl/fi/770xm708znrfx26073o1k/06_Kan_Yehmeny.mp3?rlkey=fowge55jm20eqtc3vih5ahcd6&st=jajp6s8h&dl=1",
+                    "duration_ms": 292884,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c3fad858f74c8d7a23a9ebfa",
+                    "id": 2833,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Fasl El Aana",
+                    "track_url": "https://www.dropbox.com/scl/fi/qn0t5u3dyzmhn2pp8o0rd/07_Fasl_El_Aana.mp3?rlkey=1t477ezimzga5i6vdhg14fnns&st=41afrni5&dl=1",
+                    "duration_ms": 402416,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c3fad858f74c8d7a23a9ebfa",
+                    "id": 2834,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Hobeti",
+                    "track_url": "https://www.dropbox.com/scl/fi/gpfstytean8dfb58ca27w/08_Hobeti.mp3?rlkey=4919vrfjetj7qyrbo2mn4v034&st=jcp6xk69&dl=1",
+                    "duration_ms": 293511,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c3fad858f74c8d7a23a9ebfa",
+                    "id": 2835,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Ashkorohom",
+                    "track_url": "https://www.dropbox.com/scl/fi/xsvgvzwcqw4py0jb91y5h/09_Ashkorohom.mp3?rlkey=sywkrqgv62m5uatpezdj56ip0&st=z5nphodc&dl=1",
+                    "duration_ms": 340532,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c3fad858f74c8d7a23a9ebfa",
+                    "id": 2836,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "El Omor Kellah",
+                    "track_url": "https://www.dropbox.com/scl/fi/1d64gl4erdowssa0kgx31/10_El_Omor_Kellah.mp3?rlkey=mdo8up43jdpppqaut0ctyvnva&st=75zn06bw&dl=1",
+                    "duration_ms": 271412,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c3fad858f74c8d7a23a9ebfa",
+                    "id": 2837,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Hezn El Shawarei",
+                    "track_url": "https://www.dropbox.com/scl/fi/51ytz65nwmshzrvwcxe1i/11_Hezn_El_Shawarei.mp3?rlkey=xe9pl8o2v6j6rulzppksi12se&st=smof3wp9&dl=1",
+                    "duration_ms": 212741,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c3fad858f74c8d7a23a9ebfa",
+                    "id": 2838,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Taqreeban Ana",
+                    "track_url": "https://www.dropbox.com/scl/fi/weav9x935zywcjfj4ipoe/13_Taqreeban_Ana.mp3?rlkey=1803htgr7n4c4dkm7pkxm5hhs&st=ciy86lsl&dl=1",
+                    "duration_ms": 214569,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c3fad858f74c8d7a23a9ebfa",
+                    "id": 2839,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Fog El Omam",
+                    "track_url": "https://www.dropbox.com/scl/fi/ga8zi2tz9tolx6a4ko58t/12_Fog_El_Omam.mp3?rlkey=9581aevt7k7ucar0tabns131h&st=gs2t2y3e&dl=1",
+                    "duration_ms": 232176,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c3fad858f74c8d7a23a9ebfa",
+                    "id": 2840,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Ya Hebbiba",
+                    "track_url": "https://www.dropbox.com/scl/fi/9jn09vt8yuzpaewmkm287/14_Ya_Habbiba.mp3?rlkey=te56dwl1uuf33ibsljzgyoovv&st=mji3tigy&dl=1",
+                    "duration_ms": 223294,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c3fad858f74c8d7a23a9ebfa",
+                    "id": 2841,
+                    "artist": "Assala Nasri"
+                }
+            ],
+            "id": 2827
+        },
+        {
+            "name": "El Moshtaka",
+            "release_date": "2016-02-03",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f71e19c7bd2d5da4aa828336",
+            "track_url": "https://open.spotify.com/album/4yAQ6ZTWCRmGCTC05XwN5X",
+            "tracks": [
+                {
+                    "name": "El Moshtaka",
+                    "track_url": "https://www.dropbox.com/scl/fi/fh31btvegnc5uu8jowau8/1.mp3?rlkey=5vxx1c6v85pxz33h331qhnmnr&st=ytbc9l1c&dl=1",
+                    "duration_ms": 646146,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f71e19c7bd2d5da4aa828336",
+                    "id": 2843,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Ma Tesaalnesh",
+                    "track_url": "https://www.dropbox.com/scl/fi/kx0gsr4pdges3p2f51x9e/2.mp3?rlkey=mrb1102cct4kbh2s422zkjocn&st=qxe9yo5x&dl=1",
+                    "duration_ms": 753386,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f71e19c7bd2d5da4aa828336",
+                    "id": 2844,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Helm Amieq",
+                    "track_url": "https://www.dropbox.com/scl/fi/juanys93lrxrwbiw531ew/3.mp3?rlkey=4nwz285yrh9y89pby5hsv1z1o&st=s79xk0tt&dl=1",
+                    "duration_ms": 779440,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f71e19c7bd2d5da4aa828336",
+                    "id": 2845,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Alf Leila",
+                    "track_url": "https://www.dropbox.com/scl/fi/ssjjhtehou3eah5q1vwkm/4.mp3?rlkey=no7s2kkduuj64a9hv1sflxm0y&st=f5juem1q&dl=1",
+                    "duration_ms": 442066,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f71e19c7bd2d5da4aa828336",
+                    "id": 2846,
+                    "artist": "Assala Nasri"
+                }
+            ],
+            "id": 2842
+        },
+        {
+            "name": "60 Dqiqa Haiah",
+            "release_date": "2015-03-29",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c848d2cb224081ff28a28c4e",
+            "track_url": "https://open.spotify.com/album/4rcQk58ecmL2QeAR1oKGD1",
+            "tracks": [
+                {
+                    "name": "Molhemto El Wahida",
+                    "track_url": "https://www.dropbox.com/scl/fi/o3h4nz3v473o94bhtc67z/Albumaty.Com.Asala.Molhemto_El_Wa7eda.mp3?rlkey=cep87jd63c04idhb0xbuzn1q4&st=vp7utveu&dl=1",
+                    "duration_ms": 332878,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c848d2cb224081ff28a28c4e",
+                    "id": 2848,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "El Ward El Balady",
+                    "track_url": "https://www.dropbox.com/scl/fi/qthd7tqlyl98o3wpvuhlx/Albumaty.Com.Asala.El_Ward_El_Balady.mp3?rlkey=5xmle0vuab3stzgpfvaf7n6bb&st=ov1iuagl&dl=1",
+                    "duration_ms": 210207,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c848d2cb224081ff28a28c4e",
+                    "id": 2849,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Soaal Basit",
+                    "track_url": "https://www.dropbox.com/scl/fi/f9mh7vb3aiqj7se4y3hj6/Albumaty.Com.Asala.So2al_Baset.mp3?rlkey=5ke9i0fz1mayahicolv02yjgp&st=4sbssu65&dl=1",
+                    "duration_ms": 294739,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c848d2cb224081ff28a28c4e",
+                    "id": 2850,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Aisha Ala Ely Fat",
+                    "track_url": "https://www.dropbox.com/scl/fi/uwkb67w2k6umvjxwhfjd7/Albumaty.Com.Asala.3aysha_3aly_Fat.mp3?rlkey=macqc7s78qohk6zpcl7zg92ga&st=5kc7y5xz&dl=1",
+                    "duration_ms": 258872,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c848d2cb224081ff28a28c4e",
+                    "id": 2851,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Mawakef Moalma",
+                    "track_url": "https://www.dropbox.com/scl/fi/rjjy29ck7sj5agiv6mhe6/Albumaty.Com.Asala.Mawa2ef_Mo2lema.mp3?rlkey=x36uas5wpribnliyry1b6vl9x&st=ttqhj1bx&dl=1",
+                    "duration_ms": 213916,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c848d2cb224081ff28a28c4e",
+                    "id": 2852,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "60 Dqiqa Haiah",
+                    "track_url": "https://www.dropbox.com/scl/fi/etw0zo9nu5h1pj8maoquj/Albumaty.Com.Asala.60_De2e2a_Hayah.mp3?rlkey=gxbve4s7fxyjlibqa1r5h5frl&st=sel7y9m6&dl=1",
+                    "duration_ms": 355657,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c848d2cb224081ff28a28c4e",
+                    "id": 2853,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Boaadak Ani",
+                    "track_url": "https://www.dropbox.com/scl/fi/2r92n27z0qyy5st3q1dje/Albumaty.Com.Asala.Bo3dak_3any.mp3?rlkey=f1336mj4bmkgyvsrxtctko2ab&st=q12tj3wx&dl=1",
+                    "duration_ms": 319634,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c848d2cb224081ff28a28c4e",
+                    "id": 2854,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Ala Eh",
+                    "track_url": "https://www.dropbox.com/scl/fi/b43zo87qjym71uwn5weez/Albumaty.Com.Asala.3ala_Eh.mp3?rlkey=my3j4yvsy3lzopo0mm3qnbkoo&st=0fh6z2h2&dl=1",
+                    "duration_ms": 268355,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c848d2cb224081ff28a28c4e",
+                    "id": 2855,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Khanat El-Zekrayat",
+                    "track_url": "https://www.dropbox.com/scl/fi/7r8a4rj6h3mpcebxwg1u2/Albumaty.Com.Asala.Khanat_El-Zekrayat.mp3?rlkey=gm60r8x2oin4or8dcr6ve8hd3&st=jjtcvzr5&dl=1",
+                    "duration_ms": 293172,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c848d2cb224081ff28a28c4e",
+                    "id": 2856,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Manazel",
+                    "track_url": "https://www.dropbox.com/scl/fi/uwiskza63tvqb1pgcsniw/Albumaty.Com.Asala.Manazel.mp3?rlkey=tz89qzlh062dyhf0vxfmhks2z&st=yllphoyw&dl=1",
+                    "duration_ms": 419004,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c848d2cb224081ff28a28c4e",
+                    "id": 2857,
+                    "artist": "Assala Nasri"
+                }
+            ],
+            "id": 2847
+        },
+        {
+            "name": "Shakhseya Aneeda",
+            "release_date": "2013-10-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a9472630010b16fc1893963b",
+            "track_url": "https://open.spotify.com/album/74QWVXKGP89CuqiJ7h5VU2",
+            "tracks": [
+                {
+                    "name": "Ana Hobbek",
+                    "track_url": "https://www.dropbox.com/scl/fi/zw5j48yp5ln8wulzgsgcz/04_-_Ana_7obak.mp3?rlkey=cq7w4d0fcfmxj2g1ebvdydjlt&st=nr830xwe&dl=1",
+                    "duration_ms": 257460,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a9472630010b16fc1893963b",
+                    "id": 2859,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Asasi",
+                    "track_url": "https://www.dropbox.com/scl/fi/l2a6klk3qkjjiu3pztuzr/06_-_Asasy.mp3?rlkey=zn5atdbbtkiqzniixxx394ot3&st=lkf2wcap&dl=1",
+                    "duration_ms": 210597,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a9472630010b16fc1893963b",
+                    "id": 2860,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Begad Tegannen",
+                    "track_url": "https://www.dropbox.com/scl/fi/g0xxyyhi09anh4120jze7/07_-_Begad_Teganen.mp3?rlkey=zx49dg3vb6i47qqik1xoxkewp&st=h39fxdgx&dl=1",
+                    "duration_ms": 262084,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a9472630010b16fc1893963b",
+                    "id": 2861,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Bona'an Ala Raghabatak",
+                    "track_url": "https://www.dropbox.com/scl/fi/vuasl9zbdlviwp4ov2ppe/09_-_Bona2an_3la_Raghabatak.mp3?rlkey=xw3i35pipytjynjjkp59okfnz&st=o5ikk0qz&dl=1",
+                    "duration_ms": 280396,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a9472630010b16fc1893963b",
+                    "id": 2862,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Kabbartak Ala Sedak",
+                    "track_url": "https://www.dropbox.com/scl/fi/pppgafpwri9josydsikpb/02_-_Kabartak_Ala_Seedak.mp3?rlkey=9sepqidxl3jsg4sjc7avb22lw&st=rnid132x&dl=1",
+                    "duration_ms": 230345,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a9472630010b16fc1893963b",
+                    "id": 2863,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Oul Bahebbak",
+                    "track_url": "https://www.dropbox.com/scl/fi/jgudba40lgu9hsqyzyg5p/03_-_2ool_Ba7ebek.mp3?rlkey=ebe10u8iohffgm62rbfm0cvpt&st=881so38c&dl=1",
+                    "duration_ms": 321460,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a9472630010b16fc1893963b",
+                    "id": 2864,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Rohi Wakhdani",
+                    "track_url": "https://www.dropbox.com/scl/fi/pd8bye28w0gqf8085rnpl/08_-_Ro7y_Wakhdany.mp3?rlkey=o371gfut2xnbakmo2p55ujmzi&st=8jmwzzx0&dl=1",
+                    "duration_ms": 308060,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a9472630010b16fc1893963b",
+                    "id": 2865,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Sabni",
+                    "track_url": "https://www.dropbox.com/scl/fi/i5epnte5sr4ewmi7h5iwx/10_-_Sabny.mp3?rlkey=317u4fml3ujv6xa0ew6b09cb0&st=tdsy9jyi&dl=1",
+                    "duration_ms": 255841,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a9472630010b16fc1893963b",
+                    "id": 2866,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Shaghel Baly",
+                    "track_url": "https://www.dropbox.com/scl/fi/oouy5b5qp2bg4zbxzjlla/01_-_Shaghel_Baly_Hawak.mp3?rlkey=qyoyhue5yeb6lp71e0kkl3sfz&st=j3ztjvdz&dl=1",
+                    "duration_ms": 249101,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a9472630010b16fc1893963b",
+                    "id": 2867,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Shakhseya Aneeda",
+                    "track_url": "https://www.dropbox.com/scl/fi/oclbe0tjo5un2l1n1p26i/05_-_Sha5sia_3anida.mp3?rlkey=2p663prkt6ekcr2psoq21aaqu&st=fgh087sq&dl=1",
+                    "duration_ms": 286378,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a9472630010b16fc1893963b",
+                    "id": 2868,
+                    "artist": "Assala Nasri"
+                }
+            ],
+            "id": 2858
+        },
+        {
+            "name": "Qanon Kaifak",
+            "release_date": "2013-10-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738ba28bb7136a4f50afe9c284",
+            "track_url": "https://open.spotify.com/album/4S7bj6NCOijepVJQJq9Hw9",
+            "tracks": [
+                {
+                    "name": "Bass Daqiqa",
+                    "track_url": "https://www.dropbox.com/scl/fi/e54e7wv1tnz7vf521qkeq/04_-_Bas_De2i2a.mp3?rlkey=d3tejmgf417vhkcgbfelperk7&st=u3oqwb4k&dl=1",
+                    "duration_ms": 59925,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738ba28bb7136a4f50afe9c284",
+                    "id": 2870,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Ela Mata",
+                    "track_url": "https://www.dropbox.com/scl/fi/0d5lvhkvhtngu5bgp8rum/02_-_Ela_Mata.mp3?rlkey=l0jfrb3rrdm89f1g214mx350r&st=fmk2777u&dl=1",
+                    "duration_ms": 59795,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738ba28bb7136a4f50afe9c284",
+                    "id": 2871,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Khodni Lak",
+                    "track_url": "https://www.dropbox.com/scl/fi/c0zoptq8k4cj8safqglrq/Khodni-Lak.mp3?rlkey=zcuzbvcrhe9go9rq5qlrrn0yj&st=rktfo4oy&dl=1",
+                    "duration_ms": 59925,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738ba28bb7136a4f50afe9c284",
+                    "id": 2872,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Sam W Assal",
+                    "track_url": "https://www.dropbox.com/scl/fi/6c810pq9avvj5nem013ni/Sam-W-Assal.mp3?rlkey=dkfridlcvr6xh5wfk9yybrw8e&st=u3a4j0uc&dl=1",
+                    "duration_ms": 59925,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738ba28bb7136a4f50afe9c284",
+                    "id": 2873,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Qanon Kaifak",
+                    "track_url": "https://www.dropbox.com/scl/fi/xpecf1rhkjiben3r1on0q/01_-_Qanon_Kifak.mp3?rlkey=7ve9xj0wu4rykykco4lrp2bk2&st=hcfq8fgk&dl=1",
+                    "duration_ms": 59925,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738ba28bb7136a4f50afe9c284",
+                    "id": 2874,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Shakhs Yehtam",
+                    "track_url": "https://www.dropbox.com/scl/fi/335bu4zpey8x933nzig9m/05_-_Shakhs_Yotaham.mp3?rlkey=ytttoeh3gjhhaysamdkumwa1t&st=d61mqmya&dl=1",
+                    "duration_ms": 59925,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738ba28bb7136a4f50afe9c284",
+                    "id": 2875,
+                    "artist": "Assala Nasri"
+                }
+            ],
+            "id": 2869
+        },
+        {
+            "name": "Ya Magnoon",
+            "release_date": "2013-09-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733b965a3677533d8fdfa621ef",
+            "track_url": "https://open.spotify.com/album/3hFgffTpdfDu4y3fOnOs7X",
+            "tracks": [
+                {
+                    "name": "Ya Magnon",
+                    "track_url": "https://www.dropbox.com/scl/fi/5k1u4m7axy91vgdeshkzm/02_-_Ya_Majnun.mp3?rlkey=g7pgvgcilt8t7vm7xx1wtwczt&st=3jsn4qrk&dl=1",
+                    "duration_ms": 272575,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733b965a3677533d8fdfa621ef",
+                    "id": 2877,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Ethamtak",
+                    "track_url": "https://www.dropbox.com/scl/fi/jwfkvln52592ynj78t976/03_-_Ithhamtek.mp3?rlkey=rq0aj3hovjsbag6reckqzj57c&st=2l1phu9u&dl=1",
+                    "duration_ms": 401672,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733b965a3677533d8fdfa621ef",
+                    "id": 2878,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Kol El Nas",
+                    "track_url": "https://www.dropbox.com/scl/fi/7vjkpnhc32ydv69cjrh65/04_-_Kul_Al_Nas.mp3?rlkey=m7e9a7cxf0dhwkvrd8dsme2ji&st=0krpa591&dl=1",
+                    "duration_ms": 495922,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733b965a3677533d8fdfa621ef",
+                    "id": 2879,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Ma Oltelesh",
+                    "track_url": "https://www.dropbox.com/scl/fi/ukx0ynuvpd0xo4xolm1wj/05_-_Ma_Qultlish.mp3?rlkey=xk3ax0hipq7j4eo7qswb4udop&st=lic1yqsw&dl=1",
+                    "duration_ms": 456608,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733b965a3677533d8fdfa621ef",
+                    "id": 2880,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Dah Alby Dah",
+                    "track_url": "https://www.dropbox.com/scl/fi/1w87i08i6g1c45wnzwjpy/06_-_Dah_Qalbi_Dah.mp3?rlkey=2nuij18o9f1f1se9jwds1di4o&st=mh9phhat&dl=1",
+                    "duration_ms": 207556,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733b965a3677533d8fdfa621ef",
+                    "id": 2881,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Eaatezar",
+                    "track_url": "https://www.dropbox.com/scl/fi/apwsd0mcaxemtlyv9qenj/07_-_E3tzar.mp3?rlkey=yhswpnaimwtru5k0v2ye95qmr&st=8jt7nry6&dl=1",
+                    "duration_ms": 576797,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733b965a3677533d8fdfa621ef",
+                    "id": 2882,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Hekaya",
+                    "track_url": "https://www.dropbox.com/scl/fi/v4u72ocp6kpllen5bfkiw/08_-_Hikaiah.mp3?rlkey=9nwgh7357qtqzzj7mth6qy2au&st=5shx20c3&dl=1",
+                    "duration_ms": 228820,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733b965a3677533d8fdfa621ef",
+                    "id": 2883,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Yaba",
+                    "track_url": "https://www.dropbox.com/scl/fi/x1w2p9llr7o9sqe7o8788/01_-_Ya_Aba.mp3?rlkey=rxgugqpeb9vd4665b841h3tme&st=y55ibqzu&dl=1",
+                    "duration_ms": 305202,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733b965a3677533d8fdfa621ef",
+                    "id": 2884,
+                    "artist": "Assala Nasri"
+                }
+            ],
+            "id": 2876
+        },
+        {
+            "name": "Shakhsya Anida",
+            "release_date": "2012-09-20",
+            "image": "https://i.scdn.co/image/ab67616d0000b27366bbd344dccb726a569849cb",
+            "track_url": "https://open.spotify.com/album/7LggXAlLK9slHatnYT0z9y",
+            "tracks": [
+                {
+                    "name": "Kabartak Ala Sedak",
+                    "track_url": "https://www.dropbox.com/scl/fi/pppgafpwri9josydsikpb/02_-_Kabartak_Ala_Seedak.mp3?rlkey=9sepqidxl3jsg4sjc7avb22lw&st=q30qtvsy&dl=1",
+                    "duration_ms": 230426,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27366bbd344dccb726a569849cb",
+                    "id": 2886,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Asasi",
+                    "track_url": "https://www.dropbox.com/scl/fi/l2a6klk3qkjjiu3pztuzr/06_-_Asasy.mp3?rlkey=zn5atdbbtkiqzniixxx394ot3&st=9w0emaux&dl=1",
+                    "duration_ms": 210677,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27366bbd344dccb726a569849cb",
+                    "id": 2887,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Sha3'el Baly",
+                    "track_url": "https://www.dropbox.com/scl/fi/oouy5b5qp2bg4zbxzjlla/01_-_Shaghel_Baly_Hawak.mp3?rlkey=qyoyhue5yeb6lp71e0kkl3sfz&st=j3ztjvdz&dl=1",
+                    "duration_ms": 249182,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27366bbd344dccb726a569849cb",
+                    "id": 2888,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Rohi Wakhdani",
+                    "track_url": "https://www.dropbox.com/scl/fi/pd8bye28w0gqf8085rnpl/08_-_Ro7y_Wakhdany.mp3?rlkey=o371gfut2xnbakmo2p55ujmzi&st=unldeoi7&dl=1",
+                    "duration_ms": 308140,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27366bbd344dccb726a569849cb",
+                    "id": 2889,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Shakhsya Anida",
+                    "track_url": "https://www.dropbox.com/scl/fi/oclbe0tjo5un2l1n1p26i/05_-_Sha5sia_3anida.mp3?rlkey=2p663prkt6ekcr2psoq21aaqu&st=6o8dpvm9&dl=1",
+                    "duration_ms": 286458,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27366bbd344dccb726a569849cb",
+                    "id": 2890,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Sabni",
+                    "track_url": "https://www.dropbox.com/scl/fi/i5epnte5sr4ewmi7h5iwx/10_-_Sabny.mp3?rlkey=317u4fml3ujv6xa0ew6b09cb0&st=24sq7rvd&dl=1",
+                    "duration_ms": 255921,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27366bbd344dccb726a569849cb",
+                    "id": 2891,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Ana Hobek",
+                    "track_url": "https://www.dropbox.com/scl/fi/zw5j48yp5ln8wulzgsgcz/04_-_Ana_7obak.mp3?rlkey=cq7w4d0fcfmxj2g1ebvdydjlt&st=wb8eu6p5&dl=1",
+                    "duration_ms": 257540,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27366bbd344dccb726a569849cb",
+                    "id": 2892,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Qool Bahebek",
+                    "track_url": "https://www.dropbox.com/scl/fi/jgudba40lgu9hsqyzyg5p/03_-_2ool_Ba7ebek.mp3?rlkey=ebe10u8iohffgm62rbfm0cvpt&st=51szkr9y&dl=1",
+                    "duration_ms": 321541,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27366bbd344dccb726a569849cb",
+                    "id": 2893,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Bgd Tegann",
+                    "track_url": "https://www.dropbox.com/scl/fi/g0xxyyhi09anh4120jze7/07_-_Begad_Teganen.mp3?rlkey=zx49dg3vb6i47qqik1xoxkewp&st=zn3tau8j&dl=1",
+                    "duration_ms": 262164,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27366bbd344dccb726a569849cb",
+                    "id": 2894,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Bona2an Ala Ra3'batak",
+                    "track_url": "https://www.dropbox.com/scl/fi/vuasl9zbdlviwp4ov2ppe/09_-_Bona2an_3la_Raghabatak.mp3?rlkey=xw3i35pipytjynjjkp59okfnz&st=eqz8w74c&dl=1",
+                    "duration_ms": 280476,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27366bbd344dccb726a569849cb",
+                    "id": 2895,
+                    "artist": "Assala Nasri"
+                }
+            ],
+            "id": 2885
+        },
+        {
+            "name": "Haqeqet Waqeay",
+            "release_date": "2012-05-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b273cc450bdcc6fda867d60c2e5b",
+            "track_url": "https://open.spotify.com/album/2A8CoQm5ugoCKjKyig5mvw",
+            "tracks": [
+                {
+                    "name": "Yamin Allah",
+                    "track_url": "https://www.dropbox.com/scl/fi/01khc38xsrd6wx6vumgu3/01_-_Yamin_Allah.mp3?rlkey=1q99x3ainukvan5rraasraemz&st=0fyplv4p&dl=1",
+                    "duration_ms": 267413,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cc450bdcc6fda867d60c2e5b",
+                    "id": 2908,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Yal Nater",
+                    "track_url": "https://www.dropbox.com/scl/fi/kgj3ca3qfif2jnxju3tsn/03_-_Ya_El_Nater.mp3?rlkey=yjy3rwf5g4jn1f7l8ahqxg5ta&st=i0e9365a&dl=1",
+                    "duration_ms": 301000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cc450bdcc6fda867d60c2e5b",
+                    "id": 2909,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Thaman Al Kheyana",
+                    "track_url": "https://www.dropbox.com/scl/fi/kon5v7u2112f4hw1jf09r/04_-_Tamn_El_Khyana.mp3?rlkey=dmmnbxt18bj3ufww9oswd66l9&st=47gq0vct&dl=1",
+                    "duration_ms": 385333,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cc450bdcc6fda867d60c2e5b",
+                    "id": 2910,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Enta Wana",
+                    "track_url": "https://www.dropbox.com/scl/fi/9gyt4tf43py9f1tnf3tuy/05_-_Inta_W_Ana.mp3?rlkey=y9u6tqy3x4iir93wkpa5s0xmv&st=txw5a7so&dl=1",
+                    "duration_ms": 424026,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cc450bdcc6fda867d60c2e5b",
+                    "id": 2911,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Saedny",
+                    "track_url": "https://www.dropbox.com/scl/fi/tgugbvxzkcnx9wjc79j1b/06_-_Sa3edni.mp3?rlkey=9grcf99n5jzple4y2a7wl9dpg&st=42ryxrcr&dl=1",
+                    "duration_ms": 394133,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cc450bdcc6fda867d60c2e5b",
+                    "id": 2912,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Ay Haga",
+                    "track_url": "https://www.dropbox.com/scl/fi/6gzbhnhijsqtaep9phpti/07_-_Ay_7aga.mp3?rlkey=dj2ytsqtxatzrfvi2gdncdapz&st=013ehqee&dl=1",
+                    "duration_ms": 595400,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cc450bdcc6fda867d60c2e5b",
+                    "id": 2913,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Haqeqet Waqeay",
+                    "track_url": "https://www.dropbox.com/scl/fi/z9qafvld3uncr61spocq5/02_-_7aqeqa_Wake3a.mp3?rlkey=opfz3ur71r7cc1cgpwh0oj7zl&st=sv6omvsg&dl=1",
+                    "duration_ms": 423706,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cc450bdcc6fda867d60c2e5b",
+                    "id": 2914,
+                    "artist": "Assala Nasri"
+                }
+            ],
+            "id": 2907
+        },
+        {
+            "name": "Qanuon kefak",
+            "release_date": "2010-04-03",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732d7090b976af6e77b7d900c1",
+            "track_url": "https://open.spotify.com/album/6vlO1tBKhuEQLzEEWbhitL",
+            "tracks": [
+                {
+                    "name": "Sharha Weatab",
+                    "track_url": "https://www.dropbox.com/scl/fi/9x3mz60j9ixfxblhu4d11/06_-_Sharha_o_3atab.mp3?rlkey=dffafr8ubdipensitsio07608&st=aed2k4bo&dl=1",
+                    "duration_ms": 280999,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732d7090b976af6e77b7d900c1",
+                    "id": 2916,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Teaabt Aradiek",
+                    "track_url": "https://www.dropbox.com/scl/fi/pavtmwdyx449b3bdbev0o/07_-_Te3ebt_Aradiek.mp3?rlkey=9otjps2l89ue3o6yzepufpno1&st=lyynrgnd&dl=1",
+                    "duration_ms": 276349,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732d7090b976af6e77b7d900c1",
+                    "id": 2917,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Ya Rasy El Taab",
+                    "track_url": "https://www.dropbox.com/scl/fi/qfwim4nb59q6ps9d72yr8/08_-_Ya_Rasy_El_Ta3ab.mp3?rlkey=uldzyx8dky7r3hx8gl637ehyd&st=f28cim20&dl=1",
+                    "duration_ms": 372192,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732d7090b976af6e77b7d900c1",
+                    "id": 2918,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Sem We Asal",
+                    "track_url": "https://www.dropbox.com/scl/fi/6c810pq9avvj5nem013ni/Sam-W-Assal.mp3?rlkey=dkfridlcvr6xh5wfk9yybrw8e&st=jkqeyfp3&dl=1",
+                    "duration_ms": 326321,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732d7090b976af6e77b7d900c1",
+                    "id": 2919,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Shakhs Yotaham",
+                    "track_url": "https://www.dropbox.com/scl/fi/335bu4zpey8x933nzig9m/05_-_Shakhs_Yotaham.mp3?rlkey=ytttoeh3gjhhaysamdkumwa1t&st=4voex9k3&dl=1",
+                    "duration_ms": 271151,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732d7090b976af6e77b7d900c1",
+                    "id": 2920,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Qanon Kifak",
+                    "track_url": "https://www.dropbox.com/scl/fi/xpecf1rhkjiben3r1on0q/01_-_Qanon_Kifak.mp3?rlkey=7ve9xj0wu4rykykco4lrp2bk2&st=qc14t82o&dl=1",
+                    "duration_ms": 292884,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732d7090b976af6e77b7d900c1",
+                    "id": 2921,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Shof Ozr",
+                    "track_url": "https://www.dropbox.com/scl/fi/qzdindc3nmmcp2amfyb93/03_-_Shof_3ozr.mp3?rlkey=e9rpkemt571za3j8etb953a2g&st=tmd0xkbt&dl=1",
+                    "duration_ms": 266866,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732d7090b976af6e77b7d900c1",
+                    "id": 2922,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Bas Daeea",
+                    "track_url": "https://www.dropbox.com/scl/fi/e54e7wv1tnz7vf521qkeq/04_-_Bas_De2i2a.mp3?rlkey=d3tejmgf417vhkcgbfelperk7&st=9jnnw6tr&dl=1",
+                    "duration_ms": 270576,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732d7090b976af6e77b7d900c1",
+                    "id": 2923,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Ela Mata",
+                    "track_url": "https://www.dropbox.com/scl/fi/0d5lvhkvhtngu5bgp8rum/02_-_Ela_Mata.mp3?rlkey=l0jfrb3rrdm89f1g214mx350r&st=y5fvqlqm&dl=1",
+                    "duration_ms": 308662,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732d7090b976af6e77b7d900c1",
+                    "id": 2924,
+                    "artist": "Assala Nasri"
+                }
+            ],
+            "id": 2915
+        },
+        {
+            "name": "Nos Hala",
+            "release_date": "2008-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ff0966278c2870950bd279e5",
+            "track_url": "https://open.spotify.com/album/40O0l9iT14CZLBYfHvPzns",
+            "tracks": [
+                {
+                    "name": "Awaat",
+                    "track_url": "https://www.dropbox.com/scl/fi/s10wcdsf1caanxjw7r6z5/06_-_Awaaat.mp3?rlkey=l5iwl3wie69fc08sez1wpjo7x&st=5wg3ylqw&dl=1",
+                    "duration_ms": 261510,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ff0966278c2870950bd279e5",
+                    "id": 2926,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Baa Tabeay Alaya",
+                    "track_url": "https://www.dropbox.com/scl/fi/p0n1nv9a46eapdw4ro17i/05_-_Baaa_Tabeay.mp3?rlkey=s3iabges0jiwhabn974ret92r&st=dndairo8&dl=1",
+                    "duration_ms": 230504,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ff0966278c2870950bd279e5",
+                    "id": 2927,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Etfarag Ala Najsak",
+                    "track_url": "https://www.dropbox.com/scl/fi/5te7mslxfv1odf97w1x9g/04_-_Etfrag_Ala_Nafsak.mp3?rlkey=h5zliemdv5l6h8ntcq1s1kt7c&st=g5cian5j&dl=1",
+                    "duration_ms": 306155,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ff0966278c2870950bd279e5",
+                    "id": 2928,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Ah Meen Aynah",
+                    "track_url": "https://www.dropbox.com/scl/fi/knk6ljxxl8w08ncdqyo2h/03_-_Ah_Men_Aynah.mp3?rlkey=s8lbfmikhjtphj57rtmindoxz&st=z1s975ry&dl=1",
+                    "duration_ms": 282540,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ff0966278c2870950bd279e5",
+                    "id": 2929,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Kan Wahm",
+                    "track_url": "https://www.dropbox.com/scl/fi/2p88cmsk2vb2ctsj844tv/02_-_Kan_Wahm.mp3?rlkey=08v1ga0vbz8fffrp48968ijwq&st=elo6kjjc&dl=1",
+                    "duration_ms": 248816,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ff0966278c2870950bd279e5",
+                    "id": 2930,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Wala Dary",
+                    "track_url": "https://www.dropbox.com/scl/fi/jxvkcbyk96apmddw8kns0/01_-_Wala_Dary.mp3?rlkey=ogp4fv9gan63i7s5icbgspfe5&st=7hqisiuk&dl=1",
+                    "duration_ms": 204538,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ff0966278c2870950bd279e5",
+                    "id": 2931,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Nos Hala",
+                    "track_url": "https://www.dropbox.com/scl/fi/3ye5ucjs94psok8pc6uud/08_-_Nos_Hala.mp3?rlkey=hdg1ffh3gdyvuisf8m220vp3f&st=8l8nuytc&dl=1",
+                    "duration_ms": 263601,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ff0966278c2870950bd279e5",
+                    "id": 2932,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Yesmaholy El Kol",
+                    "track_url": "https://www.dropbox.com/scl/fi/ayivqqkyad3oar3x8g799/07_-_Yesmaholy_El_Kol.mp3?rlkey=r6iz2oi72onq8jph66jfcwx1h&st=5qh6uaz1&dl=1",
+                    "duration_ms": 260362,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ff0966278c2870950bd279e5",
+                    "id": 2933,
+                    "artist": "Assala Nasri"
+                }
+            ],
+            "id": 2925
+        },
+        {
+            "name": "Alby Byrtahlak",
+            "release_date": "2007-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736f1bf7a357df3cbbd49bfd83",
+            "track_url": "https://open.spotify.com/album/2wZUS5Ql6D4X6vW3VHhH9c",
+            "tracks": [
+                {
+                    "name": "Alby Byrtahlak",
+                    "track_url": "https://www.dropbox.com/scl/fi/qjo235welrpftc3a8osg6/01.Albi_Biyertahlak.mp3?rlkey=qxieknmvodatnrhlfqp3fire4&st=13100crc&dl=1",
+                    "duration_ms": 292453,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736f1bf7a357df3cbbd49bfd83",
+                    "id": 2935,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Letany Mara",
+                    "track_url": "https://www.dropbox.com/scl/fi/w3w4yzbttcff0sew6i7hd/02.Le_Thany_Marra.mp3?rlkey=cd53w2i2vlp8pq4hosxc02tm3&st=clxo40k0&dl=1",
+                    "duration_ms": 413373,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736f1bf7a357df3cbbd49bfd83",
+                    "id": 2936,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Lama Gat Eynak Fe Einy",
+                    "track_url": "https://www.dropbox.com/scl/fi/2vf4rsnheyp5tup4mskp4/03.Lama_Gat_Einak_Fi_Einy.mp3?rlkey=txeig62wsv06xdxitv5of6sb3&st=znzrjrly&dl=1",
+                    "duration_ms": 307613,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736f1bf7a357df3cbbd49bfd83",
+                    "id": 2937,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Eskot Baa",
+                    "track_url": "https://www.dropbox.com/scl/fi/exh6k4jhu7y9mb74n8z1h/04.Eskot_Baaa.mp3?rlkey=pytkrngtedq4t4tmm5jnqgr0d&st=r8rakpht&dl=1",
+                    "duration_ms": 250640,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736f1bf7a357df3cbbd49bfd83",
+                    "id": 2938,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Katar Alah Kheirak",
+                    "track_url": "https://www.dropbox.com/scl/fi/iwbcrz3202o4vewi4mei8/05.Kathar_Allah_Kheirak.mp3?rlkey=snmx0h7pb2s0w85dil1y6k4jb&st=tsf2a93r&dl=1",
+                    "duration_ms": 304306,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736f1bf7a357df3cbbd49bfd83",
+                    "id": 2939,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Entaheina Men El Etab", 
+                    "track_url": "https://www.dropbox.com/scl/fi/1yg07844t77klbctzkvqs/06.Intaheina_Men_El_Eitab-Copy.mp3?rlkey=4eroed6vb1qyavw2cmbg5axq1&st=cxcx3dxz&dl=1",
+                    "duration_ms": 793586,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736f1bf7a357df3cbbd49bfd83",
+                    "id": 2940,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Ala Ma Enta",
+                    "track_url": "https://www.dropbox.com/scl/fi/ewmyku71r70vkqs94kj3a/07.Ala_Ad_Ma_Inta.mp3?rlkey=rtezd4xzhv1g9ak95i65b2uoy&st=uxaos3cs&dl=1",
+                    "duration_ms": 383680,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736f1bf7a357df3cbbd49bfd83",
+                    "id": 2941,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Ya Khaly",
+                    "track_url": "https://www.dropbox.com/scl/fi/4ubuwhwmsayt5o2jvvz20/08.Ya_Khally.mp3?rlkey=ara303b3fym9d50bzfqytk8xp&st=v61038w9&dl=1",
+                    "duration_ms": 397853,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736f1bf7a357df3cbbd49bfd83",
+                    "id": 2942,
+                    "artist": "Assala Nasri"
+                }
+            ],
+            "id": 2934
+        },
+        {
+            "name": "Sawaha Qalbi",
+            "release_date": "2007-06-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b273401b2f8d702431dbfcdc311f",
+            "track_url": "https://open.spotify.com/album/22DIMdZ3u3smjM0BOEA28P",
+            "tracks": [
+                {
+                    "name": "Tabi Ttruknie",
+                    "track_url": "https://www.dropbox.com/scl/fi/upel3rc8muz96rohdvf3r/02_-_Tabi_Ttrukni.mp3?rlkey=xra20s55tqie8kekp3tntumwn&st=2qry1tnh&dl=1",
+                    "duration_ms": 289332,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273401b2f8d702431dbfcdc311f",
+                    "id": 2944,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "La Tekhaf",
+                    "track_url": "https://www.dropbox.com/scl/fi/0897bh7au46emvg4zlfhm/01_-_La_Tekhaf.mp3?rlkey=hfbxwc7yztgv2lq2lg0fflzu5&st=6kfr5ssy&dl=1",
+                    "duration_ms": 314932,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273401b2f8d702431dbfcdc311f",
+                    "id": 2945,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Shumokh Azee",
+                    "track_url": "https://www.dropbox.com/scl/fi/lgf588ly2qu8iza93dckr/09_-_Shumokh_Azee.mp3?rlkey=7tyzacfw1rs4a005q7pyh2th9&st=w0rs0hzx&dl=1",
+                    "duration_ms": 362631,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273401b2f8d702431dbfcdc311f",
+                    "id": 2946,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Talabtk",
+                    "track_url": "https://www.dropbox.com/scl/fi/ie2vrssyn3e2gp3qje2wm/08_-_Talabtk.mp3?rlkey=lu8pey4mqsbg1rad4oxfpc7dy&st=txhotsce&dl=1",
+                    "duration_ms": 376111,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273401b2f8d702431dbfcdc311f",
+                    "id": 2947,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Deerat Alguorbah",
+                    "track_url": "https://www.dropbox.com/scl/fi/nhn7o2bq7ylnt2qg2o4ae/07_-_Deerat_Alguorbah.mp3?rlkey=hpbm3fmsiu7zbut6bdzfzisqb&st=x2t9hn3h&dl=1",
+                    "duration_ms": 382380,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273401b2f8d702431dbfcdc311f",
+                    "id": 2948,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Agrab Gareeb",
+                    "track_url": "https://www.dropbox.com/scl/fi/4e8lf0a8r0acohthybgnh/06_-_Agrab_Gareeb.mp3?rlkey=c0sct9ojwp9xdg6d2hya4terw&st=esn8kwjl&dl=1",
+                    "duration_ms": 424124,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273401b2f8d702431dbfcdc311f",
+                    "id": 2949,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Kalemt Shukr",
+                    "track_url": "https://www.dropbox.com/scl/fi/ukijaf24hbyneyjlt6ote/05_-_Kalemt_Shukr.mp3?rlkey=604p9mmygwfubva48ja3ynfa6&st=0y7d72gb&dl=1",
+                    "duration_ms": 294452,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273401b2f8d702431dbfcdc311f",
+                    "id": 2950,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Aumneiah",
+                    "track_url": "https://www.dropbox.com/scl/fi/ien2z97e36vhghjh3xeg3/04_-_Aumneiah.mp3?rlkey=gv2ttta045kk48ym37r291ilw&st=cywy08j2&dl=1",
+                    "duration_ms": 338076,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273401b2f8d702431dbfcdc311f",
+                    "id": 2951,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Sawaha Qalbi",
+                    "track_url": "https://www.dropbox.com/scl/fi/0str3orrfnacit6teda94/03_-_Sawaha_Kalbi.mp3?rlkey=utji3xk0nethrlm8n0z9cxbwk&st=mg7xox8d&dl=1",
+                    "duration_ms": 306834,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273401b2f8d702431dbfcdc311f",
+                    "id": 2952,
+                    "artist": "Assala Nasri"
+                }
+            ],
+            "id": 2943
+        },
+        {
+            "name": "Ady",
+            "release_date": "2005-06-27",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739d4347247a339f9643dc9a22",
+            "track_url": "https://open.spotify.com/album/774JD0bmfwi0DToWuILdGm",
+            "tracks": [
+                {
+                    "name": "Asefah",
+                    "track_url": "https://www.dropbox.com/scl/fi/ezewvk7q2ts7cjvo6lnca/08-Asfa-MaTb3aa.Com.mp3?rlkey=jejqr7asqw4uskxd2p52m64ri&st=45hptfaa&dl=1",
+                    "duration_ms": 303542,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739d4347247a339f9643dc9a22",
+                    "id": 2954,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Fein Habibi",
+                    "track_url": "https://www.dropbox.com/scl/fi/h5c3cy2nec857o1zazzb3/02-Fein.Habibi-MaTb3aa.Com.mp3?rlkey=094vwqkh8zq69f6eetq6u0ehr&st=n13jqgsv&dl=1",
+                    "duration_ms": 323004,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739d4347247a339f9643dc9a22",
+                    "id": 2955,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Shouft Be Enaya",
+                    "track_url": "https://www.dropbox.com/scl/fi/f14zkn37uwf5m0w2wz7wt/04-Shouft.Be.Enaya-MaTb3aa.Com.mp3?rlkey=v2u645bsp3ex0dxjrb7jb14yr&st=pgdw627i&dl=1",
+                    "duration_ms": 283533,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739d4347247a339f9643dc9a22",
+                    "id": 2956,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Aoulak Bahibak",
+                    "track_url": "https://www.dropbox.com/scl/fi/8mh37mpy1g97yucak6r7d/03-Aoulak.Bahibak-MaTb3aa.Com.mp3?rlkey=p0wbhhx9gsukepuqquh8iy39k&st=4pfncnny&dl=1",
+                    "duration_ms": 290586,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739d4347247a339f9643dc9a22",
+                    "id": 2957,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Ayez Tebaed",
+                    "track_url": "https://www.dropbox.com/scl/fi/4yl37ytkoh03koluu84ex/05-Ayez.Tebaed-MaTb3aa.Com.mp3?rlkey=2u733q6myexl7wt4lvt5i3g1y&st=o8472211&dl=1",
+                    "duration_ms": 277655,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739d4347247a339f9643dc9a22",
+                    "id": 2958,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Aady",
+                    "track_url": "https://www.dropbox.com/scl/fi/ijc0dyckxnztnqfyzobw7/07-Ady-MaTb3aa.Com.mp3?rlkey=5065rtip0gt2s9h128yuoxkpp&st=zgb7n3p4&dl=1",
+                    "duration_ms": 302497,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739d4347247a339f9643dc9a22",
+                    "id": 2959,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Khalek Shwaya",
+                    "track_url": "https://www.dropbox.com/scl/fi/ivpky24qddftknst198wc/01-Khallik.Shiwaya-MaTb3aa.Com.mp3?rlkey=7cdvnpevb8xdrtzdah65k8yxe&st=94vwxgi8&dl=1",
+                    "duration_ms": 208431,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739d4347247a339f9643dc9a22",
+                    "id": 2960,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "El Hawa",
+                    "track_url": "https://www.dropbox.com/scl/fi/kxyex5d946s8t23wkpi6x/06-ElHawa-MaTb3aa.Com.mp3?rlkey=wlp61lfxch99virqqesjmpkyn&st=o6tkbh13&dl=1",
+                    "duration_ms": 217443,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739d4347247a339f9643dc9a22",
+                    "id": 2961,
+                    "artist": "Assala Nasri"
+                }
+            ],
+            "id": 2953
+        },
+        {
+            "name": "Hayati",
+            "release_date": "2003-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e7efb84a0d02d0fd3e0e00ab",
+            "track_url": "https://open.spotify.com/album/3a0l9FGmEEU2D07k02jTb1",
+            "tracks": [
+                {
+                    "name": "Wahna Sawa",
+                    "track_url": "https://www.dropbox.com/scl/fi/rhed05qsh7nx9qc1aowq8/W.Ahna.Sawa-Assala-MaTb3aa.Com.mp3?rlkey=9c54z5k267wteiom4d748vhzl&st=an0n5jy6&dl=1",
+                    "duration_ms": 287268,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e7efb84a0d02d0fd3e0e00ab",
+                    "id": 2963,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Ana Mesh Sab'a Alaik",
+                    "track_url": "https://www.dropbox.com/scl/fi/tkssxc8mvw3y91ndhgt9j/Ana.msh.sa3b.3alik-Assala-MaTb3aa.Com.mp3?rlkey=ld0a4ndikord8hdq8q510nj2d&st=5nerpi76&dl=1",
+                    "duration_ms": 286641,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e7efb84a0d02d0fd3e0e00ab",
+                    "id": 2964,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Hayati",
+                    "track_url": "https://www.dropbox.com/scl/fi/vev4mssikamtidltbuj4n/hayatty-Assala-MaTb3aa.Com.mp3?rlkey=30wy9mr1bnl698rywdgc4p89t&st=b0m358oc&dl=1",
+                    "duration_ms": 224496,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e7efb84a0d02d0fd3e0e00ab",
+                    "id": 2965,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Aktar",
+                    "track_url": "https://www.dropbox.com/scl/fi/plr2rfb6hy38ta8wolbnu/Aktar-Assala-MaTb3aa.Com.mp3?rlkey=p5th81t11szmr562k2w3gjl0g&st=n3wnl0cj&dl=1",
+                    "duration_ms": 251141,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e7efb84a0d02d0fd3e0e00ab",
+                    "id": 2966,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Alamtni",
+                    "track_url": "https://www.dropbox.com/scl/fi/mptfzxvfrrqz5lkd6l0kz/3almtny-Assala-MaTb3aa.Com.mp3?rlkey=iwmpdu7ds3zolixve2irhtubi&st=r7wp8uec&dl=1",
+                    "duration_ms": 222197,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e7efb84a0d02d0fd3e0e00ab",
+                    "id": 2967,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Ared Laeeh",
+                    "track_url": "https://www.dropbox.com/scl/fi/jke3kb3enpwzs8q13kv85/Arod.lih-Assala-MaTb3aa.Com.mp3?rlkey=d53me9v5lm2ruufqyfkahiwv4&st=f58mwqmn&dl=1",
+                    "duration_ms": 231418,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e7efb84a0d02d0fd3e0e00ab",
+                    "id": 2968,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Wallah Ma Itthada",
+                    "track_url": "https://www.dropbox.com/scl/fi/q1f34yvw0w2m8d3nui0fk/W.allh.M.Tahady-Assala-MaTb3aa.Com.mp3?rlkey=4qmu57u8a9xftyahutdt2cglb&st=4bmsa2p9&dl=1",
+                    "duration_ms": 288313,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e7efb84a0d02d0fd3e0e00ab",
+                    "id": 2969,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Neseni Baek",
+                    "track_url": "https://www.dropbox.com/scl/fi/9yvn3osonq08w26our3sz/Nasetny.Beck-Assala-MaTb3aa.Com.mp3?rlkey=v1me26r2exl2u6pwqd780j8fm&st=0a7l65gf&dl=1",
+                    "duration_ms": 283010,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e7efb84a0d02d0fd3e0e00ab",
+                    "id": 2970,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Baeen Aedayek",
+                    "track_url": "https://www.dropbox.com/scl/fi/ifvoiar7mhiy0ucek1b7i/been.Edek-Assala-MaTb3aa.Com.mp3?rlkey=qcl4b5dalnt746fufquucnel8&st=4gh8u8e1&dl=1",
+                    "duration_ms": 263732,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e7efb84a0d02d0fd3e0e00ab",
+                    "id": 2971,
+                    "artist": "Assala Nasri"
+                }
+            ],
+            "id": 2962
+        },
+        {
+            "name": "Mushataqa",
+            "release_date": "2002-12-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730637c5af203c190ed4e04ba6",
+            "track_url": "https://open.spotify.com/album/5lMoLzdbrAt7z2ttmk22zZ",
+            "tracks": [
+                {
+                    "name": "Ayeshne Thawane",
+                    "track_url": "https://www.dropbox.com/scl/fi/rtqr42wh3z9wjz7b19yip/01._Ayeshny_Thawany.mp3?rlkey=izomba9cq61hc6dc60bobqdbv&st=97nmhxdu&dl=1",
+                    "duration_ms": 252800,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730637c5af203c190ed4e04ba6",
+                    "id": 2973,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Ya Eine",
+                    "track_url": "https://www.dropbox.com/scl/fi/l0hzjejlt3tdmbuc3v84j/02._Ya_Eany.mp3?rlkey=udchxu08othw16euhddh73pxz&st=uvx366wy&dl=1",
+                    "duration_ms": 348240,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730637c5af203c190ed4e04ba6",
+                    "id": 2974,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Mkhadea",
+                    "track_url": "https://www.dropbox.com/scl/fi/bh33v0b9q7ji4r7ebdxw2/03._Mokhade3.mp3?rlkey=qrjidkz0vfw8ocx32joax3b9w&st=rxy29u1t&dl=1",
+                    "duration_ms": 321480,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730637c5af203c190ed4e04ba6",
+                    "id": 2975,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Aatef Habibi",
+                    "track_url": "https://www.dropbox.com/scl/fi/g1iv1sotvk2qs4gq3ratq/04._E3tef_Habibi.mp3?rlkey=0nz6jqiqczksyr173pbpowhgl&st=uj95vx9l&dl=1",
+                    "duration_ms": 257840,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730637c5af203c190ed4e04ba6",
+                    "id": 2976,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Mosh Bmwaede",
+                    "track_url": "https://www.dropbox.com/scl/fi/d5rb6f6yxmnma9nsyr1rs/05._Mish_Bemawa3edy.mp3?rlkey=u02gw0v0w42ssy6oqysd3uf3v&st=1zj8qmup&dl=1",
+                    "duration_ms": 264440,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730637c5af203c190ed4e04ba6",
+                    "id": 2977,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Moajaba Feek",
+                    "track_url": "https://www.dropbox.com/scl/fi/xthxy7bu8wg3mg92cwjwm/06._Mo3gaba_Feek.mp3?rlkey=1spcoh5kk4hucdk7287xr0zcy&st=iffsli1w&dl=1",
+                    "duration_ms": 307840,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730637c5af203c190ed4e04ba6",
+                    "id": 2978,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Fook Men Wahmak",
+                    "track_url": "https://www.dropbox.com/scl/fi/7bggahsyu1odusno7abi3/07._Foo2_Min_Wahmak.mp3?rlkey=p3n4jj92r4qcfdg4rppu33jf4&st=rlafj6nf&dl=1",
+                    "duration_ms": 296880,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730637c5af203c190ed4e04ba6",
+                    "id": 2979,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Ma Baash Ana",
+                    "track_url": "https://www.dropbox.com/scl/fi/1lwy9lzk4qnrffrkr0gu6/08._Mab2ash_Ana.mp3?rlkey=x0y8sjyd5i3izlmg49s8u6uz5&st=gpf24iuf&dl=1",
+                    "duration_ms": 382026,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730637c5af203c190ed4e04ba6",
+                    "id": 2980,
+                    "artist": "Assala Nasri"
+                }
+            ],
+            "id": 2972
+        },
+        {
+            "name": "Aally Gara",
+            "release_date": "1996-06-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b27348bff71d47d2cad864bc6a65",
+            "track_url": "https://open.spotify.com/album/18h9qRUjtqXtBHTnqaKNcn",
+            "tracks": [
+                {
+                    "name": "Ally Gara",
+                    "track_url": "https://www.dropbox.com/scl/fi/limd76mjba8nxuzbiaa1n/1-Ally-Gara.mp3?rlkey=16qmmdrq8btjj38m8jo2bvgiq&st=c0f0zye0&dl=1",
+                    "duration_ms": 691867,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27348bff71d47d2cad864bc6a65",
+                    "id": 2991,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Mashwar Hawak",
+                    "track_url": "https://www.dropbox.com/scl/fi/y5khgse7r21k2b9jkty77/2-Mashwar-Hawak.mp3?rlkey=yw245db50lmx96m91h6undork&st=q3cb99a2&dl=1",
+                    "duration_ms": 394332,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27348bff71d47d2cad864bc6a65",
+                    "id": 2992,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Katabtak",
+                    "track_url": "https://www.dropbox.com/scl/fi/bzr2amy6uoryq4qxu1k94/3-.Katabtak.mp3?rlkey=0prfsf1in9we2bn0u8148viqc&st=emboek7g&dl=1",
+                    "duration_ms": 239870,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27348bff71d47d2cad864bc6a65",
+                    "id": 2993,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Erga Laha",
+                    "track_url": "https://www.dropbox.com/scl/fi/l3wlv95h1opdagqdp0653/4-Erga-Laha.mp3?rlkey=gtzkujshyrgpe3kndoztmwni5&st=srbfn6lg&dl=1",
+                    "duration_ms": 599419,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27348bff71d47d2cad864bc6a65",
+                    "id": 2994,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Shee Yarga Lak",
+                    "track_url": "https://www.dropbox.com/scl/fi/v37m1v8jyvv0hs2r7hm6f/5.Shee-Yarga-Lak.mp3?rlkey=vdjgthujcy394s256fye24uxj&st=d5rl0tpv&dl=1",
+                    "duration_ms": 319596,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27348bff71d47d2cad864bc6a65",
+                    "id": 2995,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Heya Keda",
+                    "track_url": "https://www.dropbox.com/scl/fi/h7yrvlkczhzimp3yqhtds/6.Heya-Keda.mp3?rlkey=57wyimefg5twjj2n8lm1apvhx&st=o5brv367&dl=1",
+                    "duration_ms": 210207,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27348bff71d47d2cad864bc6a65",
+                    "id": 2996,
+                    "artist": "Assala Nasri"
+                }
+            ],
+            "id": 2990
+        },
+        {
+            "name": "Eghdab",
+            "release_date": "1994-06-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b27330e4e6cfc7f452c537136834",
+            "track_url": "https://open.spotify.com/album/3JQV6gX68Eo9QmDaVXWgVF",
+            "tracks": [
+                {
+                    "name": "Eghdab",
+                    "track_url": "https://www.dropbox.com/scl/fi/0q2rq5jgf4dyf287x0gji/05_Ighdab.mp3?rlkey=wb4fux9w0do8boc42fl2rkmg0&st=r6zcr12n&dl=1",
+                    "duration_ms": 1036291,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27330e4e6cfc7f452c537136834",
+                    "id": 2999,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Sot El Saat",
+                    "track_url": "https://www.dropbox.com/scl/fi/74kkyi7qck5b1mvzt369o/04_Magrouh_Sout_El_Saat.mp3?rlkey=2ckm6faxf2ihtbz4f86gdfsjf&st=1igbtwxw&dl=1",
+                    "duration_ms": 276494,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27330e4e6cfc7f452c537136834",
+                    "id": 3000,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Law Alef Ahebak",
+                    "track_url": "https://www.dropbox.com/scl/fi/g3x29bezxi246x3bm92z6/01_Law_Alf_Ahebbak.mp3?rlkey=0p19rk4soz0cwbofcyct2ofz1&st=d0mw54it&dl=1",
+                    "duration_ms": 222838,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27330e4e6cfc7f452c537136834",
+                    "id": 3001,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Bathada Eyonak",
+                    "track_url": "https://www.dropbox.com/scl/fi/ysyvtin9dtfnzrwkgxp00/03_Bathada_Eyounak.mp3?rlkey=2sxmtd07vsll0fmokbuh27wov&st=lqv3bjhc&dl=1",
+                    "duration_ms": 190133,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27330e4e6cfc7f452c537136834",
+                    "id": 3002,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Matesalnesh",
+                    "track_url": "https://www.dropbox.com/scl/fi/eeu2l1z3st9xkdojarvpn/02_Ma_Tesaalnish.mp3?rlkey=v7zg5wnea3yy2qoh1ocfut1s6&st=1vy2y3xc&dl=1",
+                    "duration_ms": 346632,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27330e4e6cfc7f452c537136834",
+                    "id": 3003,
+                    "artist": "Assala Nasri"
+                }
+            ],
+            "id": 2998
+        },
+        {
+            "name": "Law Tearafo",
+            "release_date": "1993-06-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733a5b426dfd66cc7ed0c45024",
+            "track_url": "https://open.spotify.com/album/5t5EzZMq7Gs4RDkLVMUkjn",
+            "tracks": [
+                {
+                    "name": "Law Terafo",
+                    "track_url": "https://www.dropbox.com/scl/fi/e2fcb80zsyp8ouhi1ey6f/1.-Law-Tearafo.mp3?rlkey=a6l267ohd2wfx2bafq4g2qrzi&st=qc923dqr&dl=1",
+                    "duration_ms": 816497,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733a5b426dfd66cc7ed0c45024",
+                    "id": 3005,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Samehtak Keter",
+                    "track_url": "https://www.dropbox.com/scl/fi/xz27mn9r4umhlrflae2ni/2.Samehtak-Keter.mp3?rlkey=bapyqkwyc93yi4f0hlnzkmdcj&st=htbc8vup&dl=1",
+                    "duration_ms": 705633,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733a5b426dfd66cc7ed0c45024",
+                    "id": 3006,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Ya Sabrah Yana",
+                    "track_url": "https://www.dropbox.com/scl/fi/vwqdb6dp457j5a2pdwwbt/3.Ya-Sabrah-Yana.mp3?rlkey=x1aubaw6dy6sb5k8jjuz1ewgc&st=ji4gvodv&dl=1",
+                    "duration_ms": 661094,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733a5b426dfd66cc7ed0c45024",
+                    "id": 3007,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Hat Alby",
+                    "track_url": "https://www.dropbox.com/scl/fi/ftj4p9vy3nt1nkbzdfjyc/4-Hat-Alby.mp3?rlkey=gjuaa0juppjp1hycabt8t8dey&st=jxr8eu7g&dl=1",
+                    "duration_ms": 728308,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733a5b426dfd66cc7ed0c45024",
+                    "id": 3008,
+                    "artist": "Assala Nasri"
+                }
+            ],
+            "id": 3004
+        },
+        {
+            "name": "Ghayyar Awy",
+            "release_date": "1992-06-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ae4de0bcca9f9e91003e4262",
+            "track_url": "https://open.spotify.com/album/2xd2McP90QBUWBWnJGmi5O",
+            "tracks": [
+                {
+                    "name": "Ghaiar Awey",
+                    "track_url": "https://www.dropbox.com/scl/fi/sz4o4k8fzywh7n7cjyzmg/01.Ghayar_Awi.mp3?rlkey=t5cxrpt8b4jdx4l1y2m2yocc1&st=bmctohv2&dl=1",
+                    "duration_ms": 708951,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ae4de0bcca9f9e91003e4262",
+                    "id": 3010,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Yekalemok",
+                    "track_url": "https://www.dropbox.com/scl/fi/atx1km3jwzfaowqpc9mbi/Yekalemok.mp3?rlkey=r6op8y79vju8a04sq6s5am9a2&st=ma65evhn&dl=1",
+                    "duration_ms": 595997,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ae4de0bcca9f9e91003e4262",
+                    "id": 3011,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Ela Walahe",
+                    "track_url": "https://www.dropbox.com/scl/fi/s0qabkygtumxodvofu3al/02.Ella_Wallah.mp3?rlkey=tejabx21c3cyk3p8zvvqn9ox3&st=iyp3tuhw&dl=1",
+                    "duration_ms": 449868,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ae4de0bcca9f9e91003e4262",
+                    "id": 3012,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Aozorny",
+                    "track_url": "https://www.dropbox.com/scl/fi/j6q38d7hecq9yte8881o7/.Ohazorni.mp3?rlkey=6ovttmo12ybjtfcb8x2c128mu&st=rv78zk8v&dl=1",
+                    "duration_ms": 543843,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ae4de0bcca9f9e91003e4262",
+                    "id": 3013,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "El Molya",
+                    "track_url": "https://www.dropbox.com/scl/fi/1c3me0zquvtrhbia9q9xz/El-Molya.mp3?rlkey=49bg8hpetu9lw90vj9fymrmml&st=eu94gm7s&dl=1",
+                    "duration_ms": 286708,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ae4de0bcca9f9e91003e4262",
+                    "id": 3014,
+                    "artist": "Assala Nasri"
+                }
+            ],
+            "id": 3009
+        },
+        {
+            "name": "Wala Tesadaa",
+            "release_date": "1991-06-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b273aad91d5da423bb1919712d01",
+            "track_url": "https://open.spotify.com/album/0CCqD2YmTPc1um6bgGJ3e7",
+            "tracks": [
+                {
+                    "name": "Wala Tesadak",
+                    "track_url": "https://www.dropbox.com/scl/fi/axy6ozga696eadywhe99q/1.Wala-Tesadaa.mp3?rlkey=cu8d0pujrv2sju62masv0wcmq&st=7315ts7n&dl=1",
+                    "duration_ms": 289947,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273aad91d5da423bb1919712d01",
+                    "id": 3016,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Zay El Helm",
+                    "track_url": "https://www.dropbox.com/scl/fi/ariocvccqcc7tqzgp3zr6/2.Zay-El-Helm.mp3?rlkey=qgre6js2o86b46ekedyxz7kjt&st=8aqu8b29&dl=1",
+                    "duration_ms": 396735,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273aad91d5da423bb1919712d01",
+                    "id": 3017,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Mabahabesh Had Ela Enta",
+                    "track_url": "https://www.dropbox.com/scl/fi/q3k2evxmr4bw63b7dkqro/3.Mabahabesh-Had-Ela-Enta.mp3?rlkey=hqg9uuellt5q1l4elww79s2ma&st=k42xqs97&dl=1",
+                    "duration_ms": 395821,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273aad91d5da423bb1919712d01",
+                    "id": 3018,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Mosh Maolla",
+                    "track_url": "https://www.dropbox.com/scl/fi/k0m4j7umjaz1bnlwekk13/4.Mosh-Maolla.mp3?rlkey=3nzsafz5jw5nt8aqjz6eedmfs&st=es1hezqz&dl=1",
+                    "duration_ms": 372050,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273aad91d5da423bb1919712d01",
+                    "id": 3019,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Belosol Adek Enya",
+                    "track_url": "https://www.dropbox.com/scl/fi/g5dasri1rse1p3e9nzetj/5.Belosol-Adek-Enya.mp3?rlkey=xh004qu71tzf0z74ifncwc5ga&st=7yoh3cid&dl=1",
+                    "duration_ms": 261212,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273aad91d5da423bb1919712d01",
+                    "id": 3020,
+                    "artist": "Assala Nasri"
+                },
+                {
+                    "name": "Ehna Banstanak Ala nar",
+                    "track_url": "https://www.dropbox.com/scl/fi/34wpx8wz0v9puiuxdqe1p/6.Ehna-Banstanak-Ala-nar.mp3?rlkey=d98v61g9rnw1w09g90vgsgotv&st=mjgskorc&dl=1",
+                    "duration_ms": 294884,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273aad91d5da423bb1919712d01",
+                    "id": 3021,
+                    "artist": "Assala Nasri"
+                }
+            ],
+            "id": 3015
+        }
+    ],
+    "singles": [
+        {
+            "name": "Syria Janna",
+            "release_date": "2024-12-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b27347f1dca56c447cab1501910d",
+            "track_url": "https://www.dropbox.com/scl/fi/zjnzkbex5bo0bikyfcw6r/1.Syria-Janna.mp3?rlkey=z0n2c1bcvzz3pj6pifylr0hl0&st=9nmc77zt&dl=1",
+            "id": 3022,
+            "artist": "Assala Nasri"
+        },
+        {
+            "name": "Baad El Ahyan",
+            "release_date": "2024-10-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b27383a2176facd9a02b017e085d",
+            "track_url": "https://www.dropbox.com/scl/fi/nan4e3w5tus0i4krl6oih/2-Baad-El-Ahyan.mp3?rlkey=uodncatjnzk7ixxr5y0a0mu8a&st=fff0eg5m&dl=1",
+            "id": 3023,
+            "artist": "Assala Nasri"
+        },
+        {
+            "name": "Mohjat Khwatak",
+            "release_date": "2024-09-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735fa6318b8bbc3c675a3ecd3b",
+            "track_url": "https://www.dropbox.com/scl/fi/i8nvp5uy0rgvsdkgle4w7/3-Mohjat-Khwatak.mp3?rlkey=jsi4356hl5kea6897i00v6p82&st=pyi4a5cj&dl=1",
+            "id": 3024,
+            "artist": "Assala Nasri"
+        },
+        {
+            "name": "Khat Ahmar",
+            "release_date": "2024-09-02",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ac75b73e8040f6d6ed29ec73",
+            "track_url": "https://www.dropbox.com/scl/fi/5jk1b1jl5h3htcowrty1t/4-Khat-Ahmar.mp3?rlkey=a7r498pe32n2g294w6jrh65f3&st=eygjmd65&dl=1",
+            "id": 3025,
+            "artist": "Assala Nasri"
+        },
+        {
+            "name": "Yamorr W Ma Yesalem",
+            "release_date": "2024-06-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732a9ec15a70f3a7ff5a056bc8",
+            "track_url": "https://www.dropbox.com/scl/fi/jl3xbl89mowhuimfssp3o/1-Yamorr-W-Ma-Yesalem.mp3?rlkey=mytjhcjs3hkubrneqb12ytzs5&st=7qp0gpmm&dl=1",
+            "id": 3026,
+            "artist": "Assala Nasri"
+        },
+        {
+            "name": "Jarh Al Arab",
+            "release_date": "2024-06-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b273bdff27a2f9b790838557d7c4",
+            "track_url": "https://www.dropbox.com/scl/fi/0hrlw0u3syp09oeqwk8fb/5-Jarh-Al-Arab.mp3?rlkey=8l4xsrhmcdyb7sb83zlvyj0d2&st=ciahibk4&dl=1",
+            "id": 3027,
+            "artist": "Assala Nasri"
+        },
+        {
+            "name": "Ensan",
+            "release_date": "2024-06-17",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736667263d5b01e8eea177732d",
+            "track_url": "https://www.dropbox.com/scl/fi/xmnpwcclifsrycjdx3slo/10-Ensan.mp3?rlkey=g9hrkc5zzu4pnu9mxeblxzjg3&st=w9lhg7cv&dl=1",
+            "id": 3028,
+            "artist": "Assala Nasri"
+        },
+        {
+            "name": "The Natives",
+            "release_date": "2024-03-17",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732221df6584de2d744c2db31e",
+            "track_url": "https://www.dropbox.com/scl/fi/8ffeqpo01he7l8cpjm2gr/5-The-Natives.mp3?rlkey=t7fetwbxwgbuskmnqm07mz7qv&st=b1ma5n7b&dl=1",
+            "id": 3029,
+            "artist": "Assala Nasri"
+        },
+        {
+            "name": "لا تنتهي حكايات",
+            "release_date": "2024-03-13",
+            "image": "https://i.scdn.co/image/ab67616d0000b273475e5726c2be79284741dc30",
+            "track_url": "https://www.dropbox.com/scl/fi/s3whsyfsl1eqfqovkhk4l/.mp3?rlkey=3sdfwj446wc8nbl3h6eg3gfaa&st=y0jctq2s&dl=1",
+            "id": 3030,
+            "artist": "Assala Nasri"
+        },
+        {
+            "name": "أحلى مكان على الأرض",
+            "release_date": "2024-03-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d139fd3c4017840355cd54e3",
+            "track_url": "https://www.dropbox.com/scl/fi/vv3cu4qkqpwprf62cd1i4/.mp3?rlkey=3onn7uv0oeyihozdyrf6qknur&st=ye66vwb1&dl=1",
+            "id": 3031,
+            "artist": "Assala Nasri"
+        },
+        {
+            "name": "Sabb Farhety",
+            "release_date": "2024-02-14",
+            "image": "https://i.scdn.co/image/ab67616d0000b27337c6a3bef2da4144d7ae8dfb",
+            "track_url": "https://www.dropbox.com/scl/fi/ablwqk9euvhsd2zsbb931/Sabb-Farhety.mp3?rlkey=4bte3kci8wooj9d0saztv61ax&st=1toyf4rc&dl=1",
+            "id": 3032,
+            "artist": "Assala Nasri"
+        },
+        {
+            "name": "Sandooq",
+            "release_date": "2024-01-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b27321fdde8456d14fa1129def01",
+            "track_url": "https://www.dropbox.com/scl/fi/20dibd9wx36imdzw014oy/7-Sandooq.mp3?rlkey=ka7oayd2mzqnmx4gw73aq506w&st=aify0xux&dl=1",
+            "id": 3033,
+            "artist": "Assala Nasri"
+        },
+        {
+            "name": "Jannat Al Hob",
+            "release_date": "2023-12-20",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ddbb4124331276d33e1042b5",
+            "track_url": "https://www.dropbox.com/scl/fi/sb8zo2sc9mxvlb8gcax98/6-Jannat-Al-Hob.mp3?rlkey=5acvy2sagmkknogbb4r073l01&st=12tuh8n8&dl=1",
+            "id": 3034,
+            "artist": "Assala Nasri"
+        },
+        {
+            "name": "Al Ghaliya Al Bahrain",
+            "release_date": "2023-12-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b27346e609e8e98bf34dc21caa4a",
+            "track_url": "https://www.dropbox.com/scl/fi/5xiy1vy3sm2i3hbge1gw5/7-Al-Ghaliya-Al-Bahrain.mp3?rlkey=z13ovexuqorg7droii9yvw4w7&st=xt9i7dlr&dl=1",
+            "id": 3035,
+            "artist": "Assala Nasri"
+        },
+        {
+            "name": "Al Aajab Fi Al Hawa",
+            "release_date": "2023-08-22",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738ee7e71c7d34750280256d7a",
+            "track_url": "https://www.dropbox.com/scl/fi/ln5yjtbn8kmd9d4ed9dhp/8-Al-Aajab-Fi-Al-Hawa.mp3?rlkey=bmcl9f45wlyydooo5wuiou8aq&st=ci2a5vi4&dl=1",
+            "id": 3040,
+            "artist": "Assala Nasri"
+        },
+        {
+            "name": "Faqadt Nafsy - Remix",
+            "release_date": "2023-06-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b27353a5ed92ff58c13452824860",
+            "track_url": "https://www.dropbox.com/scl/fi/6mhf865025fd1uu5x16we/9-Faqadt-Nafsy-Remix.mp3?rlkey=bdzxci3nzo498t1s8dq1zorg7&st=x7y6fgdu&dl=1",
+            "id": 3041,
+            "artist": "Assala Nasri"
+        },
+        {
+            "name": "Shabeah Rouhi",
+            "release_date": "2023-05-12",
+            "image": "https://i.scdn.co/image/ab67616d0000b27382f5e39b4824564d0a759191",
+            "track_url": "https://www.dropbox.com/scl/fi/hksli84wuj2l3t3tj47v9/10-Shabeah-Rouhi.mp3?rlkey=1720tv7ko3tsaln4pfxz6niaz&st=1ozw72hd&dl=1",
+            "id": 3042,
+            "artist": "Assala Nasri"
+        },
+        {
+            "name": "Ma Aaraftik",
+            "release_date": "2023-03-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731c60c076d0643b2508093fc8",
+            "track_url": "https://www.dropbox.com/scl/fi/78ihkaa29u3gb1ku4lm3j/11-Ma-Aaraftik.mp3?rlkey=zgk8n20437vw12htsid4l5hi0&st=tn2llux4&dl=1",
+            "id": 3043,
+            "artist": "Assala Nasri"
+        },
+        {
+            "name": "Shekhat Alkon",
+            "release_date": "2023-01-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b273aaa6f8a775c290c2b9961adf",
+            "track_url": "https://www.dropbox.com/scl/fi/gkyspsggh512hj7b471y1/12-Shekhat-Alkon.mp3?rlkey=a1umeb0aa4k6wg9425dl6draj&st=dprgtuv1&dl=1",
+            "id": 3044,
+            "artist": "Assala Nasri"
+        },
+        {
+            "name": "Sid Lghram",
+            "release_date": "2022-12-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734a040a56c3ef0c70b15fcbc7",
+            "track_url": "https://www.dropbox.com/scl/fi/29xf76ysyeyd3t6q1wsb4/13-Sid-Lghram.mp3?rlkey=4ne676jqydwmvn2p9shn9fsri&st=fedrovjk&dl=1",
+            "id": 3045,
+            "artist": "Assala Nasri"
+        },
+        {
+            "name": "Dam Ezzek",
+            "release_date": "2022-11-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f0cc56f1d686dff321f19d80",
+            "track_url": "https://www.dropbox.com/scl/fi/txcvoujc4r9kc1duvoh3c/14-Dam-Ezzek.mp3?rlkey=717ctonbw5wmr7h5o989r532b&st=ckytltcv&dl=1",
+            "id": 3046,
+            "artist": "Assala Nasri"
+        },
+        {
+            "name": "Darbek Khadr",
+            "release_date": "2022-05-26",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b90e72a06edf2bffa86f372f",
+            "track_url": "https://www.dropbox.com/scl/fi/txcvoujc4r9kc1duvoh3c/14-Dam-Ezzek.mp3?rlkey=717ctonbw5wmr7h5o989r532b&st=zh35bcuc&dl=1",
+            "id": 3047,
+            "artist": "Assala Nasri"
+        },
+        {
+            "name": "Shokran",
+            "release_date": "2022-03-27",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730aeeaa1103a4e31e5122b789",
+            "track_url": "https://www.dropbox.com/scl/fi/dodtsx8s8fads7oazrb9m/16-Shokran.mp3?rlkey=tx042xd2w2yfzuy0fj3x61i2q&st=adjg43k7&dl=1",
+            "id": 3049,
+            "artist": "Assala Nasri"
+        },
+        {
+            "name": "Farah Sham",
+            "release_date": "2022-03-26",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c9c8bf41988b52c80653e6c0",
+            "track_url": "https://www.dropbox.com/scl/fi/p2ytwhma18ek3amrst0bb/17-Farah-Sham.mp3?rlkey=xr4v1oukh9wemj7oatpu2h3vw&st=klxdmwhs&dl=1",
+            "id": 3050,
+            "artist": "Assala Nasri"
+        },
+        {
+            "name": "Bahibk Sham",
+            "release_date": "2022-03-26",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730cbeb23c263870f6b95b04f5",
+            "track_url": "https://www.dropbox.com/scl/fi/tagb9oxnfv0pr4ry1tei8/18-Bahibk-Sham.mp3?rlkey=ux38uilik72g1pnupfp6cwz33&st=wi6nyrhb&dl=1",
+            "id": 3051,
+            "artist": "Assala Nasri"
+        },
+        {
+            "name": "Ahla Youm",
+            "release_date": "2022-03-26",
+            "image": "https://i.scdn.co/image/ab67616d0000b273442a211e8caaef35f033fcb7",
+            "track_url": "https://www.dropbox.com/scl/fi/up5sjnfrvpnoxuhfx5c12/19-Ahla-Youm.mp3?rlkey=ymqi12syqsg7zyi5og0cu3mbw&st=i0sop2nl&dl=1",
+            "id": 3052,
+            "artist": "Assala Nasri"
+        },
+        {
+            "name": "Goraah",
+            "release_date": "2022-03-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c814de09d742912bd242b5ff",
+            "track_url": "https://www.dropbox.com/scl/fi/iexo1rb91o94yt8jl00fc/20-Goraah.mp3?rlkey=d59sj2ikkrqe2tlmih4a1igew&st=etqp6rdv&dl=1",
+            "id": 3053,
+            "artist": "Assala Nasri"
+        },
+        {
+            "name": "Tegoul Tebghani",
+            "release_date": "2022-02-12",
+            "image": "https://i.scdn.co/image/ab67616d0000b27342b1f0ba91b99421f4ea84da",
+            "track_url": "https://www.dropbox.com/scl/fi/3epjnzzy394072v1vqs0f/21-Tegoul-Tebghani.mp3?rlkey=ckxjmsm7nmag0v5lhac4t30ej&st=wa07jg3t&dl=1",
+            "id": 3054,
+            "artist": "Assala Nasri"
+        },
+        {
+            "name": "La Tashkou Le Elnas",
+            "release_date": "2022-01-14",
+            "image": "https://i.scdn.co/image/ab67616d0000b273bb1e1071e93837fc8dc1dd70",
+            "track_url": "https://www.dropbox.com/scl/fi/m0tj2hwg5qvzb9bqngahs/22-La-Tashkou-Le-Elnas.mp3?rlkey=oiupimv0sktjxpl1waxmire0c&st=7524lppn&dl=1",
+            "id": 3055,
+            "artist": "Assala Nasri"
+        },
+        {
+            "name": "Henain",
+            "release_date": "2021-12-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735d35aeeb12f8f04cd0789c3c",
+            "track_url": "https://www.dropbox.com/scl/fi/r5gcb7u6cflo7d64ht5sw/23-Henain.mp3?rlkey=56gloocf4pymumgh65dltqma9&st=o92hzxc0&dl=1",
+            "id": 3056,
+            "artist": "Assala Nasri"
+        },
+        {
+            "name": "Mashaeeri",
+            "release_date": "2021-12-22",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ab4904abc508b98359f511ad",
+            "track_url": "https://www.dropbox.com/scl/fi/j1x8gatyz08c8kd3zbssw/24-Mashaeeri.mp3?rlkey=3dj5oc5y08td6etdqtbbm024z&st=xpnlazin&dl=1",
+            "id": 3057,
+            "artist": "Assala Nasri"
+        },
+        {
+            "name": "El Donya Lha Taam Gded",
+            "release_date": "2021-08-17",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e4f91bcddce1b691634973e0",
+            "track_url": "https://www.dropbox.com/scl/fi/pyo2qvrn1zlthnpnz6j7h/25-El-Donya-Lha-Taam-Gded.mp3?rlkey=4mad3868tw5qvycwaespzumr5&st=zr1ilc60&dl=1",
+            "id": 3058,
+            "artist": "Assala Nasri"
+        },
+        {
+            "name": "Elaabo Beloja",
+            "release_date": "2021-07-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b273fec006ef128c39baa6d59a02",
+            "track_url": "https://www.dropbox.com/scl/fi/qikmpzy50s4odxny5jjof/26-Elaabo-Beloja.mp3?rlkey=qejw5z0l9nhayw4mip40ubfcv&st=74i5fqrj&dl=1",
+            "id": 3060,
+            "artist": "Assala Nasri"
+        },
+        {
+            "name": "Yumma Hanay",
+            "release_date": "2021-06-27",
+            "image": "https://i.scdn.co/image/ab67616d0000b27382be5b127e059a9b2c303aba",
+            "track_url": "https://www.dropbox.com/scl/fi/jwanscd06k32qflxavort/27-Yumma-Hanay.mp3?rlkey=o8zw2a3sqn6u9vbtys0jyxgv8&st=vv115okg&dl=1",
+            "id": 3061,
+            "artist": "Assala Nasri"
+        },
+        {
+            "name": "Benhebbik",
+            "release_date": "2021-06-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738515251108e999080a25d82e",
+            "track_url": "https://www.dropbox.com/scl/fi/ud9ti9sotbz9noh3qiyu8/28-Benhebbik.mp3?rlkey=xky6xdhn7kzb39h814uejm9vp&st=3g2q1k84&dl=1",
+            "id": 3062,
+            "artist": "Assala Nasri"
+        },
+        {
+            "name": "Maleet",
+            "release_date": "2021-05-17",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731a450bdbda365fb8d8c28ddd",
+            "track_url": "https://www.dropbox.com/scl/fi/9lpyigbpo5fjctlsyo5ig/29-Maleet.mp3?rlkey=6fatxcmvi0ao8f7nhr284sbzx&st=xjzdu5hp&dl=1",
+            "id": 3063,
+            "artist": "Assala Nasri"
+        },
+        {
+            "name": "Mabneadarsh",
+            "release_date": "2021-04-12",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c6273eb4ffc60d1ef77b5a7c",
+            "track_url": "https://www.dropbox.com/scl/fi/ns45dg19p0xvxc0c09zzj/30-Mabneadarsh.mp3?rlkey=skw4365zz7ul3d1eavf01tq2q&st=epg1e4ol&dl=1",
+            "id": 3064,
+            "artist": "Assala Nasri"
+        },
+        {
+            "name": "La Twaseeny",
+            "release_date": "2021-02-17",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f726cea80bc542ac2d801897",
+            "track_url": "https://www.dropbox.com/scl/fi/ig6ylmmytwx0nmazft5op/31-La-Twaseeny.mp3?rlkey=ls50pbbzgc6th32szsi10or4v&st=dk3j2634&dl=1",
+            "id": 3066,
+            "artist": "Assala Nasri"
+        },
+        {
+            "name": "Msyaha",
+            "release_date": "2020-12-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e6a0b99d3d50e7846738d96e",
+            "track_url": "https://www.dropbox.com/scl/fi/kejntqwr9lccfm9uqyfod/32-Msyaha.mp3?rlkey=bs7c6nfmd8qcah1gf6xqz27f3&st=hzf3hurf&dl=1",
+            "id": 3067,
+            "artist": "Assala Nasri"
+        },
+        {
+            "name": "Al Farq Al Kabir",
+            "release_date": "2020-11-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b27348dc27bf9e2b8786230c5803",
+            "track_url": "https://www.dropbox.com/scl/fi/jl67m1a5b0imlvi84lljp/33-Al-Farq-Al-Kabir.mp3?rlkey=4tw8jfu6s1ctqx5zzf3hmcu8f&st=1cnszmvs&dl=1",
+            "id": 3068,
+            "artist": "Assala Nasri"
+        },
+        {
+            "name": "Love And Peace",
+            "release_date": "2020-07-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733b09b1a97fbfe13fabac6dae",
+            "track_url": "https://www.dropbox.com/scl/fi/guv6ut7mt9p3ak8zx3rro/35-Love-And-Peace.mp3?rlkey=syibo2rn60hq5v7tm9w3mry0r&st=zpgqcr43&dl=1",
+            "id": 3070,
+            "artist": "Assala Nasri"
+        },
+        {
+            "name": "Ethebbny",
+            "release_date": "2020-07-03",
+            "image": "https://i.scdn.co/image/ab67616d0000b273bbba20a81d0cac2c59b6c4e7",
+            "track_url": "https://www.dropbox.com/scl/fi/tv9cwnfm20an81oc573bl/34-Ethebny.mp3?rlkey=kb6hwduhn73fgu78g2wb29i7c&st=ae5jq3ck&dl=1",
+            "id": 3071,
+            "artist": "Assala Nasri"
+        }
+    ],
+    "popular_tracks": [
+        {
+            "name": "فووق",
+            "track_url": "https://www.dropbox.com/scl/fi/ac2tsyv3pj90028mzi1pj/1-Fouq.mp3?rlkey=et4fuszzmrumkc675nwi5azpn&st=cwlpqwza&dl=1",
+            "duration_ms": 192926,
+            "image": "https://i.scdn.co/image/ab67616d0000b273320621e18fb13831d478226c",
+            "id": 3072,
+            "artist": "Assala Nasri"
+        },
+        {
+            "name": "سبب فرحتي",
+            "track_url": "https://www.dropbox.com/scl/fi/ablwqk9euvhsd2zsbb931/Sabb-Farhety.mp3?rlkey=4bte3kci8wooj9d0saztv61ax&st=1toyf4rc&dl=1",
+            "duration_ms": 302365,
+            "image": "https://i.scdn.co/image/ab67616d0000b273ffb82d843cb394d78f55f270",
+            "id": 3073,
+            "artist": "Assala Nasri"
+        },
+        {
+            "name": "Shokran",
+            "track_url": "https://www.dropbox.com/scl/fi/dodtsx8s8fads7oazrb9m/16-Shokran.mp3?rlkey=tx042xd2w2yfzuy0fj3x61i2q&st=adjg43k7&dl=1",
+            "duration_ms": 208351,
+            "image": "https://i.scdn.co/image/ab67616d0000b273e8b1c7d186aef064a5490e6d",
+            "id": 3074,
+            "artist": "Assala Nasri"
+        },
+        {
+            "name": "جابوا سيرته",
+            "track_url": "https://www.dropbox.com/scl/fi/ywhg8uphj1opv8ec65r8c/06._Gabo_Serto.mp3?rlkey=f9gjkeeg2z2gtkb90mboar9l1&st=phtjj9i2&dl=1",
+            "duration_ms": 292898,
+            "image": "https://i.scdn.co/image/ab67616d0000b273e6b8e3a9eeb646a99e1cf761",
+            "id": 3075,
+            "artist": "Assala Nasri"
+        },
+        {
+            "name": "اختار (اكتر)",
+            "track_url": "https://www.dropbox.com/scl/fi/plr2rfb6hy38ta8wolbnu/Aktar-Assala-MaTb3aa.Com.mp3?rlkey=p5th81t11szmr562k2w3gjl0g&st=n3wnl0cj&dl=1",
+            "duration_ms": 251141,
+            "image": "https://i.scdn.co/image/ab67616d0000b273ca28b2ab403afcc0f3802f5e",
+            "id": 3076,
+            "artist": "Assala Nasri"
+        },
+        {
+            "name": "غلبان",
+            "track_url": "https://www.dropbox.com/scl/fi/jwhdwj9ohu0ut68rpvfi7/Albumaty.Com_asalt_ghlban.mp3?rlkey=8pvpv2agvwdpn2n0owte14vjy&st=lhffn75y&dl=1",
+            "duration_ms": 201715,
+            "image": "https://i.scdn.co/image/ab67616d0000b273aacb857aba09463bb360555a",
+            "id": 3077,
+            "artist": "Assala Nasri"
+        },
+        {
+            "name": "Ya Magnon",
+            "track_url": "https://www.dropbox.com/scl/fi/5k1u4m7axy91vgdeshkzm/02_-_Ya_Majnun.mp3?rlkey=g7pgvgcilt8t7vm7xx1wtwczt&st=3jsn4qrk&dl=1",
+            "duration_ms": 272575,
+            "image": "https://i.scdn.co/image/ab67616d0000b2733b965a3677533d8fdfa621ef",
+            "id": 3078,
+            "artist": "Assala Nasri"
+        },
+        {
+            "name": "فقدتُ نفسي",
+            "track_url": "https://www.dropbox.com/scl/fi/xqanoxguq6t1yomoxou3i/Albumaty.Com_asalt_fkdt_nfsy.mp3?rlkey=lvb9xm9go19e9qzwl08yq3qje&st=ro7ovjct&dl=1",
+            "duration_ms": 205500,
+            "image": "https://i.scdn.co/image/ab67616d0000b273aacb857aba09463bb360555a",
+            "id": 3079,
+            "artist": "Assala Nasri"
+        },
+        {
+            "name": "Mesh Faker Leeh",
+            "track_url": "https://www.dropbox.com/scl/fi/7214eqde6y626idyshwzk/37-Mesh-Faker-Leeh.mp3?rlkey=bxu4nk56wexe0nfqbeg6sstq6&st=ygjx5pm0&dl=1",
+            "duration_ms": 244924,
+            "image": "https://i.scdn.co/image/ab67616d0000b273e4b65224ab8ae658ccd45fa2",
+            "id": 3080,
+            "artist": "Assala Nasri"
+        },
+        {
+            "name": "لما بنتجاهل",
+            "track_url": "https://www.dropbox.com/scl/fi/rhslxnxk84naq5zfpvtb2/2-Lama-Bentgahel.mp3?rlkey=gxjmitqr61dcf7rgy2ndl8x7n&st=6t789eda&dl=1",
+            "duration_ms": 206076,
+            "image": "https://i.scdn.co/image/ab67616d0000b273320621e18fb13831d478226c",
+            "id": 3081,
+            "artist": "Assala Nasri"
+        }
+    ]
+}

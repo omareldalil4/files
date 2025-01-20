@@ -1,0 +1,996 @@
+{
+    "artist": {
+        "id": "9463",
+        "name": "Hamo Bika",
+        "image": "https://i.scdn.co/image/ab67616d0000b273b05d25612a2cb3119a93beac",
+        "background_image": "https://i.scdn.co/image/ab67616d00001e02b05d25612a2cb3119a93beac"
+    },
+    "albums": [
+        {
+            "name": "Welad El Balad",
+            "release_date": "2019-06-06",
+            "image": "https://i.scdn.co/image/ab67616d0000b27335af7980a9401501fc0f111a",
+            "track_url": "https://open.spotify.com/album/0g0XpDbWetljlab7UNMa9S",
+            "tracks": [
+                {
+                    "name": "Mateshesh El Door",
+                    "track_url": "",
+                    "duration_ms": 386272,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27335af7980a9401501fc0f111a",
+                    "id": 9465,
+                    "artist": "Hamo Bika"
+                },
+                {
+                    "name": "El Garh Elag",
+                    "track_url": "",
+                    "duration_ms": 359000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27335af7980a9401501fc0f111a",
+                    "id": 9466,
+                    "artist": "Hamo Bika"
+                },
+                {
+                    "name": "El Eid Hala Mosaraa",
+                    "track_url": "",
+                    "duration_ms": 263444,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27335af7980a9401501fc0f111a",
+                    "id": 9467,
+                    "artist": "Hamo Bika"
+                },
+                {
+                    "name": "Alo El Rogola Ghyab",
+                    "track_url": "",
+                    "duration_ms": 314279,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27335af7980a9401501fc0f111a",
+                    "id": 9468,
+                    "artist": "Hamo Bika"
+                },
+                {
+                    "name": "Sahbi Sabh Morshed",
+                    "track_url": "",
+                    "duration_ms": 394997,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27335af7980a9401501fc0f111a",
+                    "id": 9469,
+                    "artist": "Hamo Bika"
+                },
+                {
+                    "name": "Albna Ala Baad",
+                    "track_url": "",
+                    "duration_ms": 403722,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27335af7980a9401501fc0f111a",
+                    "id": 9470,
+                    "artist": "Hamo Bika"
+                },
+                {
+                    "name": "Alby Rameto Fel Nar",
+                    "track_url": "",
+                    "duration_ms": 362266,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27335af7980a9401501fc0f111a",
+                    "id": 9471,
+                    "artist": "Hamo Bika"
+                },
+                {
+                    "name": "Welad El Balad",
+                    "track_url": "",
+                    "duration_ms": 384078,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27335af7980a9401501fc0f111a",
+                    "id": 9472,
+                    "artist": "Hamo Bika"
+                }
+            ],
+            "id": 9464
+        },
+        {
+            "name": "Kifak Ya Sahbi",
+            "release_date": "2019-06-05",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737eff693dc07e1eeeb2d726dd",
+            "track_url": "https://open.spotify.com/album/2jS21alzrBPIdCP0wSfBKX",
+            "tracks": [
+                {
+                    "name": "Ehsas Bayez",
+                    "track_url": "",
+                    "duration_ms": 352235,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737eff693dc07e1eeeb2d726dd",
+                    "id": 9474,
+                    "artist": "Hamo Bika"
+                },
+                {
+                    "name": "Ehna El Malma",
+                    "track_url": "",
+                    "duration_ms": 362266,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737eff693dc07e1eeeb2d726dd",
+                    "id": 9475,
+                    "artist": "Hamo Bika"
+                },
+                {
+                    "name": "Ana El Medmr",
+                    "track_url": "",
+                    "duration_ms": 330605,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737eff693dc07e1eeeb2d726dd",
+                    "id": 9476,
+                    "artist": "Hamo Bika"
+                },
+                {
+                    "name": "Sheriany Maatoa",
+                    "track_url": "",
+                    "duration_ms": 403722,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737eff693dc07e1eeeb2d726dd",
+                    "id": 9477,
+                    "artist": "Hamo Bika"
+                },
+                {
+                    "name": "Olob Falso",
+                    "track_url": "",
+                    "duration_ms": 423340,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737eff693dc07e1eeeb2d726dd",
+                    "id": 9478,
+                    "artist": "Hamo Bika"
+                },
+                {
+                    "name": "Qawi Albk",
+                    "track_url": "",
+                    "duration_ms": 368796,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737eff693dc07e1eeeb2d726dd",
+                    "id": 9479,
+                    "artist": "Hamo Bika"
+                },
+                {
+                    "name": "Kifak Ya Sahbi",
+                    "track_url": "",
+                    "duration_ms": 320078,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737eff693dc07e1eeeb2d726dd",
+                    "id": 9480,
+                    "artist": "Hamo Bika"
+                },
+                {
+                    "name": "Labs Wesh",
+                    "track_url": "",
+                    "duration_ms": 368796,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737eff693dc07e1eeeb2d726dd",
+                    "id": 9481,
+                    "artist": "Hamo Bika"
+                },
+                {
+                    "name": "Mashy Fel Shar",
+                    "track_url": "",
+                    "duration_ms": 353515,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737eff693dc07e1eeeb2d726dd",
+                    "id": 9482,
+                    "artist": "Hamo Bika"
+                },
+                {
+                    "name": "El Alb Hanlha",
+                    "track_url": "",
+                    "duration_ms": 328881,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737eff693dc07e1eeeb2d726dd",
+                    "id": 9483,
+                    "artist": "Hamo Bika"
+                }
+            ],
+            "id": 9473
+        },
+        {
+            "name": "Qobtan Safinty",
+            "release_date": "2019-06-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738fe61f2897b6bd401065ded8",
+            "track_url": "https://open.spotify.com/album/4nr2sLyswH2n8QA79ImYMs",
+            "tracks": [
+                {
+                    "name": "Awlad Beka",
+                    "track_url": "",
+                    "duration_ms": 316447,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738fe61f2897b6bd401065ded8",
+                    "id": 9485,
+                    "artist": "Hamo Bika"
+                },
+                {
+                    "name": "Esrf Maaya",
+                    "track_url": "",
+                    "duration_ms": 416809,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738fe61f2897b6bd401065ded8",
+                    "id": 9486,
+                    "artist": "Hamo Bika"
+                },
+                {
+                    "name": "El Horma Teshbeh El Haia",
+                    "track_url": "",
+                    "duration_ms": 318615,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738fe61f2897b6bd401065ded8",
+                    "id": 9487,
+                    "artist": "Hamo Bika"
+                },
+                {
+                    "name": "El Rogola Meza",
+                    "track_url": "",
+                    "duration_ms": 357903,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738fe61f2897b6bd401065ded8",
+                    "id": 9488,
+                    "artist": "Hamo Bika"
+                },
+                {
+                    "name": "Biobek",
+                    "track_url": "",
+                    "duration_ms": 235728,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738fe61f2897b6bd401065ded8",
+                    "id": 9489,
+                    "artist": "Hamo Bika"
+                },
+                {
+                    "name": "Qobtan Safinty",
+                    "track_url": "",
+                    "duration_ms": 365505,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738fe61f2897b6bd401065ded8",
+                    "id": 9490,
+                    "artist": "Hamo Bika"
+                },
+                {
+                    "name": "Sabah El Fool Ya Msakr",
+                    "track_url": "",
+                    "duration_ms": 270628,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738fe61f2897b6bd401065ded8",
+                    "id": 9491,
+                    "artist": "Hamo Bika"
+                },
+                {
+                    "name": "Dehket Shfyfk",
+                    "track_url": "",
+                    "duration_ms": 377521,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738fe61f2897b6bd401065ded8",
+                    "id": 9492,
+                    "artist": "Hamo Bika"
+                },
+                {
+                    "name": "Ala El Morshdeen Rayha Tahyati",
+                    "track_url": "",
+                    "duration_ms": 372192,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738fe61f2897b6bd401065ded8",
+                    "id": 9493,
+                    "artist": "Hamo Bika"
+                },
+                {
+                    "name": "Afreet Dmaghi",
+                    "track_url": "",
+                    "duration_ms": 394997,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738fe61f2897b6bd401065ded8",
+                    "id": 9494,
+                    "artist": "Hamo Bika"
+                }
+            ],
+            "id": 9484
+        },
+        {
+            "name": "Ana Hamla",
+            "release_date": "2019-06-03",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c49bce0d992940f7d96b9574",
+            "track_url": "https://open.spotify.com/album/2Ubn6kGif88MzXSW0LDdus",
+            "tracks": [
+                {
+                    "name": "Forsan America",
+                    "track_url": "",
+                    "duration_ms": 329639,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c49bce0d992940f7d96b9574",
+                    "id": 9496,
+                    "artist": "Hamo Bika"
+                },
+                {
+                    "name": "Eshabi Abtal",
+                    "track_url": "",
+                    "duration_ms": 449541,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c49bce0d992940f7d96b9574",
+                    "id": 9497,
+                    "artist": "Hamo Bika"
+                },
+                {
+                    "name": "Aal Meni Kteer",
+                    "track_url": "",
+                    "duration_ms": 388440,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c49bce0d992940f7d96b9574",
+                    "id": 9498,
+                    "artist": "Hamo Bika"
+                },
+                {
+                    "name": "Ana Ebn Liel",
+                    "track_url": "",
+                    "duration_ms": 362266,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c49bce0d992940f7d96b9574",
+                    "id": 9499,
+                    "artist": "Hamo Bika"
+                },
+                {
+                    "name": "Ana Hamla",
+                    "track_url": "",
+                    "duration_ms": 414615,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c49bce0d992940f7d96b9574",
+                    "id": 9500,
+                    "artist": "Hamo Bika"
+                },
+                {
+                    "name": "Badwr Ala Gadaa",
+                    "track_url": "",
+                    "duration_ms": 397244,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c49bce0d992940f7d96b9574",
+                    "id": 9501,
+                    "artist": "Hamo Bika"
+                },
+                {
+                    "name": "Dayret Entqam",
+                    "track_url": "",
+                    "duration_ms": 417697,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c49bce0d992940f7d96b9574",
+                    "id": 9502,
+                    "artist": "Hamo Bika"
+                },
+                {
+                    "name": "Dmagh Malaona",
+                    "track_url": "",
+                    "duration_ms": 442226,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c49bce0d992940f7d96b9574",
+                    "id": 9503,
+                    "artist": "Hamo Bika"
+                },
+                {
+                    "name": "Safi Nafsk",
+                    "track_url": "",
+                    "duration_ms": 384078,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c49bce0d992940f7d96b9574",
+                    "id": 9504,
+                    "artist": "Hamo Bika"
+                },
+                {
+                    "name": "Foq Ya Hartalh",
+                    "track_url": "",
+                    "duration_ms": 453903,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c49bce0d992940f7d96b9574",
+                    "id": 9505,
+                    "artist": "Hamo Bika"
+                }
+            ],
+            "id": 9495
+        },
+        {
+            "name": "Mesh Habayeb",
+            "release_date": "2018-11-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b273cb46f5f36fb4a015eab798e7",
+            "track_url": "https://open.spotify.com/album/6LQJEjDEzH2QtswDOFhaHO",
+            "tracks": [
+                {
+                    "name": "Mesh Habayeb",
+                    "track_url": "",
+                    "duration_ms": 487157,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cb46f5f36fb4a015eab798e7",
+                    "id": 9507,
+                    "artist": "Hamo Bika"
+                },
+                {
+                    "name": "Abtal Bezyada",
+                    "track_url": "",
+                    "duration_ms": 403696,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cb46f5f36fb4a015eab798e7",
+                    "id": 9508,
+                    "artist": "Hamo Bika"
+                },
+                {
+                    "name": "Ayesh Mazbot",
+                    "track_url": "",
+                    "duration_ms": 366602,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cb46f5f36fb4a015eab798e7",
+                    "id": 9509,
+                    "artist": "Hamo Bika"
+                },
+                {
+                    "name": "Darbetna Betewgaa",
+                    "track_url": "",
+                    "duration_ms": 357851,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cb46f5f36fb4a015eab798e7",
+                    "id": 9510,
+                    "artist": "Hamo Bika"
+                },
+                {
+                    "name": "El Nas Anena Tethaka",
+                    "track_url": "",
+                    "duration_ms": 386246,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cb46f5f36fb4a015eab798e7",
+                    "id": 9511,
+                    "artist": "Hamo Bika"
+                },
+                {
+                    "name": "Gabarot We Rogola",
+                    "track_url": "",
+                    "duration_ms": 381884,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cb46f5f36fb4a015eab798e7",
+                    "id": 9512,
+                    "artist": "Hamo Bika"
+                },
+                {
+                    "name": "Keset Tito",
+                    "track_url": "",
+                    "duration_ms": 394971,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cb46f5f36fb4a015eab798e7",
+                    "id": 9513,
+                    "artist": "Hamo Bika"
+                },
+                {
+                    "name": "Lahn El Shar",
+                    "track_url": "",
+                    "duration_ms": 379689,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cb46f5f36fb4a015eab798e7",
+                    "id": 9514,
+                    "artist": "Hamo Bika"
+                },
+                {
+                    "name": "Mabaolsh Assef",
+                    "track_url": "",
+                    "duration_ms": 379689,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cb46f5f36fb4a015eab798e7",
+                    "id": 9515,
+                    "artist": "Hamo Bika"
+                },
+                {
+                    "name": "Kotr El Kalam Yegrah We Yekhasar",
+                    "track_url": "",
+                    "duration_ms": 483604,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cb46f5f36fb4a015eab798e7",
+                    "id": 9516,
+                    "artist": "Hamo Bika"
+                },
+                {
+                    "name": "Mawlod Fe Mokhatra",
+                    "track_url": "",
+                    "duration_ms": 375327,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cb46f5f36fb4a015eab798e7",
+                    "id": 9517,
+                    "artist": "Hamo Bika"
+                },
+                {
+                    "name": "Saye3 Afandy",
+                    "track_url": "",
+                    "duration_ms": 373629,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cb46f5f36fb4a015eab798e7",
+                    "id": 9518,
+                    "artist": "Hamo Bika"
+                }
+            ],
+            "id": 9506
+        },
+        {
+            "name": "حبس انفرادى",
+            "release_date": "2018-01-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b75cb8c3197ed7b149adc49e",
+            "track_url": "https://open.spotify.com/album/3VQXhZSzfP5zed7STuuqri",
+            "tracks": [
+                {
+                    "name": "حبس انفرادى",
+                    "track_url": "",
+                    "duration_ms": 284110,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b75cb8c3197ed7b149adc49e",
+                    "id": 9520,
+                    "artist": "Hamo Bika"
+                },
+                {
+                    "name": "مولد سيدى اللالى",
+                    "track_url": "",
+                    "duration_ms": 243646,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b75cb8c3197ed7b149adc49e",
+                    "id": 9521,
+                    "artist": "Hamo Bika"
+                },
+                {
+                    "name": "مهرجان ليلى",
+                    "track_url": "",
+                    "duration_ms": 285154,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b75cb8c3197ed7b149adc49e",
+                    "id": 9522,
+                    "artist": "Hamo Bika"
+                },
+                {
+                    "name": "مهرجان كلام الناس",
+                    "track_url": "",
+                    "duration_ms": 540430,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b75cb8c3197ed7b149adc49e",
+                    "id": 9523,
+                    "artist": "Hamo Bika"
+                },
+                {
+                    "name": "مهرجان عجبى",
+                    "track_url": "",
+                    "duration_ms": 312262,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b75cb8c3197ed7b149adc49e",
+                    "id": 9524,
+                    "artist": "Hamo Bika"
+                },
+                {
+                    "name": "مهرجان الحب الاولانى",
+                    "track_url": "",
+                    "duration_ms": 597058,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b75cb8c3197ed7b149adc49e",
+                    "id": 9525,
+                    "artist": "Hamo Bika"
+                }
+            ],
+            "id": 9519
+        }
+    ],
+    "singles": [
+        {
+            "name": "اصحابي انا كنت مدلعهم",
+            "release_date": "2024-12-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d60c974dc18316c1b359c225",
+            "track_url": "",
+            "id": 9526,
+            "artist": "Hamo Bika"
+        },
+        {
+            "name": "انا بيكا وهرمي الفتيله",
+            "release_date": "2024-11-27",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d593363d095555bd5b6e2bc9",
+            "track_url": "",
+            "id": 9527,
+            "artist": "Hamo Bika"
+        },
+        {
+            "name": "العين خبيثه ولا مرا سابتنا",
+            "release_date": "2024-11-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737a0720421842278c2cbf3b54",
+            "track_url": "",
+            "id": 9528,
+            "artist": "Hamo Bika"
+        },
+        {
+            "name": "رجوع الحمله",
+            "release_date": "2024-11-06",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735eb142f496007bc08d4a43df",
+            "track_url": "",
+            "id": 9529,
+            "artist": "Hamo Bika"
+        },
+        {
+            "name": "الدنيا غلبتنا ولاد محترمه بتحسدنا",
+            "release_date": "2024-11-02",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e7f0eb8dc30d0de3fa5634f6",
+            "track_url": "",
+            "id": 9530,
+            "artist": "Hamo Bika"
+        },
+        {
+            "name": "افتحو كتاب الجمايل",
+            "release_date": "2024-10-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b27353a483b50d9c6340f14b36c9",
+            "track_url": "",
+            "id": 9531,
+            "artist": "Hamo Bika"
+        },
+        {
+            "name": "ملناش الهوا عايزين مستوا",
+            "release_date": "2024-08-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732e42fd8e5aa0cf51763a3226",
+            "track_url": "",
+            "id": 9532,
+            "artist": "Hamo Bika"
+        },
+        {
+            "name": "اه يا ناري",
+            "release_date": "2024-08-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b3fd1fcddf7b6dfc6eeb36e8",
+            "track_url": "",
+            "id": 9533,
+            "artist": "Hamo Bika"
+        },
+        {
+            "name": "قصة حبيبة",
+            "release_date": "2024-08-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732a25616e441558700bd863da",
+            "track_url": "",
+            "id": 9534,
+            "artist": "Hamo Bika"
+        },
+        {
+            "name": "معدش باين مين شبح",
+            "release_date": "2024-07-17",
+            "image": "https://i.scdn.co/image/ab67616d0000b27355086a2163402a07b6a49f6d",
+            "track_url": "",
+            "id": 9535,
+            "artist": "Hamo Bika"
+        },
+        {
+            "name": "ملقتش غير السكينه ( اسلكو حتى الكلوباترا دي سلكت )",
+            "release_date": "2024-07-12",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ca68b7cd43cd3880246fdb35",
+            "track_url": "",
+            "id": 9536,
+            "artist": "Hamo Bika"
+        },
+        {
+            "name": "انا الفعل اما انتو كلام",
+            "release_date": "2024-07-12",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732ac87dbb8017c11dc2cd7068",
+            "track_url": "",
+            "id": 9537,
+            "artist": "Hamo Bika"
+        },
+        {
+            "name": "اصحابي اخصامي 2",
+            "release_date": "2024-07-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e76dd2835c6b8b98d0b46423",
+            "track_url": "",
+            "id": 9538,
+            "artist": "Hamo Bika"
+        },
+        {
+            "name": "قلبي خطر ودماغي ملعونة",
+            "release_date": "2024-07-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b273337dfcd68cb3daa7001b7aa6",
+            "track_url": "",
+            "id": 9539,
+            "artist": "Hamo Bika"
+        },
+        {
+            "name": "Mahragan El Keef Monawla",
+            "release_date": "2024-06-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b273360d2d3af2d732885cfaa71b",
+            "track_url": "",
+            "id": 9540,
+            "artist": "Hamo Bika"
+        },
+        {
+            "name": "عالشط ماشيه الغزاله (عايشين دنيا الحوارات)",
+            "release_date": "2024-06-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733af2c7bc4a5f8036aa843e7b",
+            "track_url": "",
+            "id": 9541,
+            "artist": "Hamo Bika"
+        },
+        {
+            "name": "Erhmha B2et 3Wama",
+            "release_date": "2024-06-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e8173dbc869fdfd442426d77",
+            "track_url": "",
+            "id": 9542,
+            "artist": "Hamo Bika"
+        },
+        {
+            "name": "فاصل ونعود (يعلم ربنا بتغيرو مننا)",
+            "release_date": "2024-06-20",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d9865bb2bb1cc5102ee39704",
+            "track_url": "",
+            "id": 9543,
+            "artist": "Hamo Bika"
+        },
+        {
+            "name": "حكايه شارع",
+            "release_date": "2024-06-20",
+            "image": "https://i.scdn.co/image/ab67616d0000b273fcc21718f558874c88bd134b",
+            "track_url": "",
+            "id": 9544,
+            "artist": "Hamo Bika"
+        },
+        {
+            "name": "مين جى جوله",
+            "release_date": "2024-06-17",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732484977ac8c825c27c9e8f04",
+            "track_url": "",
+            "id": 9545,
+            "artist": "Hamo Bika"
+        },
+        {
+            "name": "ولاد موت",
+            "release_date": "2024-06-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b423aabf7cfbaf19c8692146",
+            "track_url": "",
+            "id": 9546,
+            "artist": "Hamo Bika"
+        },
+        {
+            "name": "تلميذ خريج السلخانه",
+            "release_date": "2024-06-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d156b9438c9a842792609fb6",
+            "track_url": "",
+            "id": 9547,
+            "artist": "Hamo Bika"
+        },
+        {
+            "name": "اللي راح باي باي يا غالي",
+            "release_date": "2024-06-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737d6f707529dd30dd26583b29",
+            "track_url": "",
+            "id": 9548,
+            "artist": "Hamo Bika"
+        },
+        {
+            "name": "جبل الاندال",
+            "release_date": "2024-05-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a47a982fcf41f01587c17afa",
+            "track_url": "",
+            "id": 9549,
+            "artist": "Hamo Bika"
+        },
+        {
+            "name": "خصمي رن عليا طلبني (رقم واحد بسوق مبعتمدش)",
+            "release_date": "2024-05-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b273469398083ec57b83175a2083",
+            "track_url": "",
+            "id": 9550,
+            "artist": "Hamo Bika"
+        },
+        {
+            "name": "هنط جامب بالاوكابي",
+            "release_date": "2024-03-27",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b05d25612a2cb3119a93beac",
+            "track_url": "",
+            "id": 9551,
+            "artist": "Hamo Bika"
+        },
+        {
+            "name": "اصحابي اخصامي (انا مش فاندام يلا)",
+            "release_date": "2024-03-26",
+            "image": "https://i.scdn.co/image/ab67616d0000b273eced523f176eb84f463994aa",
+            "track_url": "",
+            "id": 9552,
+            "artist": "Hamo Bika"
+        },
+        {
+            "name": "ست البنات",
+            "release_date": "2024-03-22",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c80e220f5d1c1ec65b0cfc72",
+            "track_url": "",
+            "id": 9553,
+            "artist": "Hamo Bika"
+        },
+        {
+            "name": "عم الشباب",
+            "release_date": "2024-03-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b273bfecf2add838da3d2142a2df",
+            "track_url": "",
+            "id": 9554,
+            "artist": "Hamo Bika"
+        },
+        {
+            "name": "أصحابي أخصامي (الجزء التاني)",
+            "release_date": "2024-03-05",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d7322397de040307ced9fd96",
+            "track_url": "",
+            "id": 9555,
+            "artist": "Hamo Bika"
+        },
+        {
+            "name": "حضنك بيتي",
+            "release_date": "2024-02-29",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e7339311951b8e08e32bab61",
+            "track_url": "",
+            "id": 9556,
+            "artist": "Hamo Bika"
+        },
+        {
+            "name": "Gabarot",
+            "release_date": "2024-02-29",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ad9c4df85c9c3ca1d34d6027",
+            "track_url": "",
+            "id": 9557,
+            "artist": "Hamo Bika"
+        },
+        {
+            "name": "برج الجدعنه واقع سنين ( انا بعشق صاحبي ابو الصحاب )",
+            "release_date": "2024-02-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735244a185021403290cb5e47d",
+            "track_url": "",
+            "id": 9558,
+            "artist": "Hamo Bika"
+        },
+        {
+            "name": "انتم هلافيت عايشين اللقطة",
+            "release_date": "2024-02-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f67835b48ec484e0f1e91927",
+            "track_url": "",
+            "id": 9559,
+            "artist": "Hamo Bika"
+        },
+        {
+            "name": "انا دوله",
+            "release_date": "2024-02-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b27380fb852c1508fdf0476cad07",
+            "track_url": "",
+            "id": 9560,
+            "artist": "Hamo Bika"
+        },
+        {
+            "name": "حسدوني علي كام طقم",
+            "release_date": "2024-02-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736c7c341080ef4e5374b571d5",
+            "track_url": "",
+            "id": 9561,
+            "artist": "Hamo Bika"
+        },
+        {
+            "name": "اه موجوع",
+            "release_date": "2024-01-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b273cb16ce8a16fce085d582f5c5",
+            "track_url": "",
+            "id": 9562,
+            "artist": "Hamo Bika"
+        },
+        {
+            "name": "انت اخويا وبفتي (اتخضيتو انتو اتخضيتو)",
+            "release_date": "2024-01-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735ef5438a9b41a2112850158f",
+            "track_url": "",
+            "id": 9563,
+            "artist": "Hamo Bika"
+        },
+        {
+            "name": "قلبي انتي خدتي قلبي",
+            "release_date": "2024-01-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737289f9e74afca0c070e40d5f",
+            "track_url": "",
+            "id": 9564,
+            "artist": "Hamo Bika"
+        },
+        {
+            "name": "صورتك في حضني ( نور عيوني انتي صحبتي وبنتي )",
+            "release_date": "2023-12-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733cc9582b791396ec743e8978",
+            "track_url": "",
+            "id": 9565,
+            "artist": "Hamo Bika"
+        },
+        {
+            "name": "لا دي مش طبيعيه",
+            "release_date": "2023-12-20",
+            "image": "https://i.scdn.co/image/ab67616d0000b27380278d438629a9e828c08c31",
+            "track_url": "",
+            "id": 9566,
+            "artist": "Hamo Bika"
+        },
+        {
+            "name": "La De Mesh Tabeaah",
+            "release_date": "2023-12-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ecd1e1dc225be5cc3d6edc51",
+            "track_url": "",
+            "id": 9567,
+            "artist": "Hamo Bika"
+        },
+        {
+            "name": "الصح بح مبقاش فى صح",
+            "release_date": "2023-12-14",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e1c686827ad05c054af827fa",
+            "track_url": "",
+            "id": 9568,
+            "artist": "Hamo Bika"
+        },
+        {
+            "name": "الدنيا بايظة",
+            "release_date": "2023-12-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b27378249907a98bc0dc3128e689",
+            "track_url": "",
+            "id": 9569,
+            "artist": "Hamo Bika"
+        },
+        {
+            "name": "بلعب بشياكه ( في حضوري انا بظهر تختفو )",
+            "release_date": "2023-11-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b273103a2b6e123f3a627f485aba",
+            "track_url": "",
+            "id": 9570,
+            "artist": "Hamo Bika"
+        },
+        {
+            "name": "Khatar Fe El Khesm Bataa Watar",
+            "release_date": "2023-11-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e72fdc1bfbcb02cdc825ede9",
+            "track_url": "",
+            "id": 9571,
+            "artist": "Hamo Bika"
+        },
+        {
+            "name": "Men Bad Makhadt El Sorah",
+            "release_date": "2023-11-20",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732b32df28153a18718fb06d57",
+            "track_url": "",
+            "id": 9572,
+            "artist": "Hamo Bika"
+        },
+        {
+            "name": "الي جاي انتداب (راجعه الدخيله احراز تقيله)",
+            "release_date": "2023-11-14",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f4fa337f42d5e922836a170f",
+            "track_url": "",
+            "id": 9573,
+            "artist": "Hamo Bika"
+        },
+        {
+            "name": "انا حبيتها اتسلت بيا ( انا حبيتك وجرحتيني ٢ )",
+            "release_date": "2023-11-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c603535acc6df90bfd7afb0d",
+            "track_url": "",
+            "id": 9574,
+            "artist": "Hamo Bika"
+        },
+        {
+            "name": "الجمال دا هولندي",
+            "release_date": "2023-10-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731442d965de0d2d11bdeed3a3",
+            "track_url": "",
+            "id": 9575,
+            "artist": "Hamo Bika"
+        }
+    ],
+    "popular_tracks": [
+        {
+            "name": "هنط جامب بالاوكابي",
+            "track_url": "",
+            "duration_ms": 212688,
+            "image": "https://i.scdn.co/image/ab67616d0000b273b05d25612a2cb3119a93beac",
+            "id": 9576,
+            "artist": "Hamo Bika"
+        },
+        {
+            "name": "Mahragan Akhsam Keteer",
+            "track_url": "",
+            "duration_ms": 403775,
+            "image": "https://i.scdn.co/image/ab67616d0000b273eccf4d7cd3f6c3a923bdc96e",
+            "id": 9577,
+            "artist": "Hamo Bika"
+        },
+        {
+            "name": "اصحابي اخصامي (انا مش فاندام يلا)",
+            "track_url": "",
+            "duration_ms": 416577,
+            "image": "https://i.scdn.co/image/ab67616d0000b273eced523f176eb84f463994aa",
+            "id": 9578,
+            "artist": "Hamo Bika"
+        },
+        {
+            "name": "Ana Habetek W Garahteny",
+            "track_url": "",
+            "duration_ms": 390936,
+            "image": "https://i.scdn.co/image/ab67616d0000b2739a7462b690b2085743fa4961",
+            "id": 9579,
+            "artist": "Hamo Bika"
+        },
+        {
+            "name": "انتي معلمه",
+            "track_url": "",
+            "duration_ms": 192094,
+            "image": "https://i.scdn.co/image/ab67616d0000b27392a67571b92adba36c1c95af",
+            "id": 9580,
+            "artist": "Hamo Bika"
+        },
+        {
+            "name": "Bahari Khatr",
+            "track_url": "",
+            "duration_ms": 374119,
+            "image": "https://i.scdn.co/image/ab67616d0000b273319b4064638a151fb68c6a2b",
+            "id": 9581,
+            "artist": "Hamo Bika"
+        },
+        {
+            "name": "Mahragan Albe Elly Kan Mabsout",
+            "track_url": "",
+            "duration_ms": 376030,
+            "image": "https://i.scdn.co/image/ab67616d0000b2734f615f95722072c0b9463a38",
+            "id": 9582,
+            "artist": "Hamo Bika"
+        },
+        {
+            "name": "Mahragan Wada3 Ya Donia",
+            "track_url": "",
+            "duration_ms": 395389,
+            "image": "https://i.scdn.co/image/ab67616d0000b273463442ad1a29dc5164531010",
+            "id": 9583,
+            "artist": "Hamo Bika"
+        },
+        {
+            "name": "صورتك في حضني ( نور عيوني انتي صحبتي وبنتي )",
+            "track_url": "",
+            "duration_ms": 208065,
+            "image": "https://i.scdn.co/image/ab67616d0000b2733cc9582b791396ec743e8978",
+            "id": 9584,
+            "artist": "Hamo Bika"
+        },
+        {
+            "name": "دكن في الجونة",
+            "track_url": "",
+            "duration_ms": 320078,
+            "image": "https://i.scdn.co/image/ab67616d0000b273459a64c1032f0096ea08c067",
+            "id": 9585,
+            "artist": "Hamo Bika"
+        }
+    ]
+}

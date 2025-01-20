@@ -1,0 +1,607 @@
+{
+    "artist": {
+        "id": "4922",
+        "name": "Ahmed Sheba",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb419a6b817c5be9fdcac25b93",
+        "background_image": "https://i.scdn.co/image/ab67616100005174419a6b817c5be9fdcac25b93"
+    },
+    "albums": [
+        {
+            "name": "Ahmed Shiba Cocktail",
+            "release_date": "2000",
+            "image": "https://i.scdn.co/image/ab67616d0000b273fb8606118ab11754bff71a46",
+            "track_url": "https://open.spotify.com/album/1k0LL1fgNsewKfbPUTpQwD",
+            "tracks": [
+                {
+                    "name": "Khali Einak Wast Rasak",
+                    "track_url": "",
+                    "duration_ms": 391314,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fb8606118ab11754bff71a46",
+                    "id": 4924,
+                    "artist": "Ahmed Sheba"
+                },
+                {
+                    "name": "Amsek Hramy",
+                    "track_url": "",
+                    "duration_ms": 156865,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fb8606118ab11754bff71a46",
+                    "id": 4925,
+                    "artist": "Ahmed Sheba"
+                },
+                {
+                    "name": "Ana Mesh Hafya",
+                    "track_url": "",
+                    "duration_ms": 388623,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fb8606118ab11754bff71a46",
+                    "id": 4926,
+                    "artist": "Ahmed Sheba"
+                },
+                {
+                    "name": "Ana Nefsy Aabel Had",
+                    "track_url": "",
+                    "duration_ms": 89391,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fb8606118ab11754bff71a46",
+                    "id": 4927,
+                    "artist": "Ahmed Sheba"
+                },
+                {
+                    "name": "Ayoh Aleeky Donia",
+                    "track_url": "",
+                    "duration_ms": 386664,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fb8606118ab11754bff71a46",
+                    "id": 4928,
+                    "artist": "Ahmed Sheba"
+                },
+                {
+                    "name": "Bndhk Gholb",
+                    "track_url": "",
+                    "duration_ms": 386873,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fb8606118ab11754bff71a46",
+                    "id": 4929,
+                    "artist": "Ahmed Sheba"
+                },
+                {
+                    "name": "Byhsdony Lama Badhak",
+                    "track_url": "",
+                    "duration_ms": 319033,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fb8606118ab11754bff71a46",
+                    "id": 4930,
+                    "artist": "Ahmed Sheba"
+                },
+                {
+                    "name": "El Rgola Fe Khatar",
+                    "track_url": "",
+                    "duration_ms": 366733,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fb8606118ab11754bff71a46",
+                    "id": 4931,
+                    "artist": "Ahmed Sheba"
+                },
+                {
+                    "name": "Ely Meny Mezaleny",
+                    "track_url": "",
+                    "duration_ms": 367386,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fb8606118ab11754bff71a46",
+                    "id": 4932,
+                    "artist": "Ahmed Sheba"
+                },
+                {
+                    "name": "Haza Gnah Abi",
+                    "track_url": "",
+                    "duration_ms": 317074,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fb8606118ab11754bff71a46",
+                    "id": 4933,
+                    "artist": "Ahmed Sheba"
+                },
+                {
+                    "name": "Hokm El Awi",
+                    "track_url": "",
+                    "duration_ms": 352809,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fb8606118ab11754bff71a46",
+                    "id": 4934,
+                    "artist": "Ahmed Sheba"
+                },
+                {
+                    "name": "Khalony Sakit",
+                    "track_url": "",
+                    "duration_ms": 326713,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fb8606118ab11754bff71a46",
+                    "id": 4935,
+                    "artist": "Ahmed Sheba"
+                },
+                {
+                    "name": "Sna El Skina",
+                    "track_url": "",
+                    "duration_ms": 272248,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fb8606118ab11754bff71a46",
+                    "id": 4936,
+                    "artist": "Ahmed Sheba"
+                }
+            ],
+            "id": 4923
+        }
+    ],
+    "singles": [
+        {
+            "name": "Tero Yala Tero",
+            "release_date": "2024-11-22",
+            "image": "https://i.scdn.co/image/ab67616d0000b273644edece365bf837e2ec3b9d",
+            "track_url": "",
+            "id": 4937,
+            "artist": "Ahmed Sheba"
+        },
+        {
+            "name": "بنقدر ظروفك - من فيلم بنقدر ظروفك",
+            "release_date": "2024-11-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b27350b4991c1eecf44d58b42c8e",
+            "track_url": "",
+            "id": 4938,
+            "artist": "Ahmed Sheba"
+        },
+        {
+            "name": "عملتلهم كتير",
+            "release_date": "2024-08-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736e97b70239e474c847a4cedf",
+            "track_url": "",
+            "id": 4939,
+            "artist": "Ahmed Sheba"
+        },
+        {
+            "name": "كلام الناس (لايف)",
+            "release_date": "2024-07-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c91e3d8d92779e6b4c63250d",
+            "track_url": "",
+            "id": 4940,
+            "artist": "Ahmed Sheba"
+        },
+        {
+            "name": "دمع العيون (لايف)",
+            "release_date": "2024-06-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b273563101b89e96b919ffa6c49b",
+            "track_url": "",
+            "id": 4941,
+            "artist": "Ahmed Sheba"
+        },
+        {
+            "name": "ابلكيشن",
+            "release_date": "2024-06-06",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e2cc4755e1e2fad2a5c90392",
+            "track_url": "",
+            "id": 4942,
+            "artist": "Ahmed Sheba"
+        },
+        {
+            "name": "Ady Youmak",
+            "release_date": "2024-05-22",
+            "image": "https://i.scdn.co/image/ab67616d0000b27346b2dcc8f1bef3393731640a",
+            "track_url": "",
+            "id": 4943,
+            "artist": "Ahmed Sheba"
+        },
+        {
+            "name": "اديني صابر علي حالي",
+            "release_date": "2024-04-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b27386a28f9aa0d65bb7530334d0",
+            "track_url": "",
+            "id": 4944,
+            "artist": "Ahmed Sheba"
+        },
+        {
+            "name": "وفر دواك",
+            "release_date": "2024-04-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b27361d202a91fb7b368c9227ee2",
+            "track_url": "",
+            "id": 4945,
+            "artist": "Ahmed Sheba"
+        },
+        {
+            "name": "آخرة طريقى دا إيه ؟ (من مسلسل كوبرا)",
+            "release_date": "2024-04-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738de2a20ed12309ff252bf12d",
+            "track_url": "",
+            "id": 4946,
+            "artist": "Ahmed Sheba"
+        },
+        {
+            "name": "ابن ابوه",
+            "release_date": "2024-03-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b27358c25b21d6fcdf7cd0842194",
+            "track_url": "",
+            "id": 4947,
+            "artist": "Ahmed Sheba"
+        },
+        {
+            "name": "Shyaf Nafsk",
+            "release_date": "2024-02-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734e44a484cc2e91be0a884263",
+            "track_url": "",
+            "id": 4948,
+            "artist": "Ahmed Sheba"
+        },
+        {
+            "name": "محدش فيكو وش كسوف",
+            "release_date": "2024-02-02",
+            "image": "https://i.scdn.co/image/ab67616d0000b27322dfbbed1a8a16a199aced07",
+            "track_url": "",
+            "id": 4949,
+            "artist": "Ahmed Sheba"
+        },
+        {
+            "name": "Sa7tkom Fi Lasnko",
+            "release_date": "2024-01-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b273340efba3dcbdbf32b11f4f36",
+            "track_url": "",
+            "id": 4950,
+            "artist": "Ahmed Sheba"
+        },
+        {
+            "name": "القلوب سودة",
+            "release_date": "2024-01-22",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f2dd130b721e9b836dc6a60c",
+            "track_url": "",
+            "id": 4951,
+            "artist": "Ahmed Sheba"
+        },
+        {
+            "name": "Donia",
+            "release_date": "2024-01-05",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c85850779742f32aa30986d2",
+            "track_url": "",
+            "id": 4952,
+            "artist": "Ahmed Sheba"
+        },
+        {
+            "name": "مش كل اه تنحكي",
+            "release_date": "2024-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273fe3d2356df03b19fe8fdbc53",
+            "track_url": "",
+            "id": 4953,
+            "artist": "Ahmed Sheba"
+        },
+        {
+            "name": "الجدعنه",
+            "release_date": "2023-11-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a1b5e253ca022da0d3683130",
+            "track_url": "",
+            "id": 4954,
+            "artist": "Ahmed Sheba"
+        },
+        {
+            "name": "Killed Me And Coming To Say Shalom",
+            "release_date": "2023-11-03",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730030ea70d418a07d03463379",
+            "track_url": "",
+            "id": 4955,
+            "artist": "Ahmed Sheba"
+        },
+        {
+            "name": "عنابي",
+            "release_date": "2023-08-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b273706a063b4586052825271101",
+            "track_url": "",
+            "id": 4956,
+            "artist": "Ahmed Sheba"
+        },
+        {
+            "name": "الشده تسلم (لايف)",
+            "release_date": "2023-07-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c6700f53513c8e448dc089a3",
+            "track_url": "",
+            "id": 4957,
+            "artist": "Ahmed Sheba"
+        },
+        {
+            "name": "Kadaben",
+            "release_date": "2023-06-27",
+            "image": "https://i.scdn.co/image/ab67616d0000b273837496ada09e71f31765e237",
+            "track_url": "",
+            "id": 4958,
+            "artist": "Ahmed Sheba"
+        },
+        {
+            "name": "فوقها",
+            "release_date": "2023-05-29",
+            "image": "https://i.scdn.co/image/ab67616d0000b273cf5c28cb828f3c81c9c9ea85",
+            "track_url": "",
+            "id": 4959,
+            "artist": "Ahmed Sheba"
+        },
+        {
+            "name": "رباعيه شيبه من مسلسل ضرب نار ( مشيتي ياما )",
+            "release_date": "2023-04-02",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a67f40c45bba13a15326ff32",
+            "track_url": "",
+            "id": 4960,
+            "artist": "Ahmed Sheba"
+        },
+        {
+            "name": "Ya Rab Ba7a2 El2yam di",
+            "release_date": "2023-03-27",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738347ea768edc3b838f797a24",
+            "track_url": "",
+            "id": 4961,
+            "artist": "Ahmed Sheba"
+        },
+        {
+            "name": "Ahy Donia",
+            "release_date": "2023-03-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739e42bbaab25c95f3c29558d0",
+            "track_url": "",
+            "id": 4962,
+            "artist": "Ahmed Sheba"
+        },
+        {
+            "name": "هجوم فجائي",
+            "release_date": "2022-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273dc27bfa83637b995625313f7",
+            "track_url": "",
+            "id": 4963,
+            "artist": "Ahmed Sheba"
+        },
+        {
+            "name": "ما تاكلش مال الناس",
+            "release_date": "2022-07-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738e7c9788d196e5d862ac6b78",
+            "track_url": "",
+            "id": 4964,
+            "artist": "Ahmed Sheba"
+        },
+        {
+            "name": "Money",
+            "release_date": "2022-06-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e4ae460f6e5f24b837158986",
+            "track_url": "",
+            "id": 4965,
+            "artist": "Ahmed Sheba"
+        },
+        {
+            "name": "Tal2 Fadi",
+            "release_date": "2022-06-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b27388556c9f6d969aaac7691227",
+            "track_url": "",
+            "id": 4966,
+            "artist": "Ahmed Sheba"
+        },
+        {
+            "name": "Ana Baba",
+            "release_date": "2022-05-05",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736afb6bc4980d3cccbaee7b06",
+            "track_url": "",
+            "id": 4967,
+            "artist": "Ahmed Sheba"
+        },
+        {
+            "name": "Alb Akhok",
+            "release_date": "2022-04-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d42d744bc91050532282764d",
+            "track_url": "",
+            "id": 4968,
+            "artist": "Ahmed Sheba"
+        },
+        {
+            "name": "El Alb Galo Hoboot",
+            "release_date": "2021-12-13",
+            "image": "https://i.scdn.co/image/ab67616d0000b273564bb31bfae69e7da69c5f35",
+            "track_url": "",
+            "id": 4969,
+            "artist": "Ahmed Sheba"
+        },
+        {
+            "name": "W 3amel Fiha Mesh Shayef (Live)",
+            "release_date": "2021-11-03",
+            "image": "https://i.scdn.co/image/ab67616d0000b273572a61a41e6c5cd0af4f4edb",
+            "track_url": "",
+            "id": 4970,
+            "artist": "Ahmed Sheba"
+        },
+        {
+            "name": "Sheba Se3idi",
+            "release_date": "2021-11-03",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b853c7d87961db79bbb84348",
+            "track_url": "",
+            "id": 4971,
+            "artist": "Ahmed Sheba"
+        },
+        {
+            "name": "Sayad (Live)",
+            "release_date": "2021-11-03",
+            "image": "https://i.scdn.co/image/ab67616d0000b273371fa5bd4e281db0b4ce4be0",
+            "track_url": "",
+            "id": 4972,
+            "artist": "Ahmed Sheba"
+        },
+        {
+            "name": "Kan Ya Makan (Live)",
+            "release_date": "2021-11-03",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736c25723d6eca66fbe8b05b0d",
+            "track_url": "",
+            "id": 4973,
+            "artist": "Ahmed Sheba"
+        },
+        {
+            "name": "Habibi Keda (Live)",
+            "release_date": "2021-11-03",
+            "image": "https://i.scdn.co/image/ab67616d0000b273874a7be5485f8b4bf5386d5b",
+            "track_url": "",
+            "id": 4974,
+            "artist": "Ahmed Sheba"
+        },
+        {
+            "name": "6 Weshoosh (Live)",
+            "release_date": "2021-11-03",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ca7771e70c840aa89e1327f2",
+            "track_url": "",
+            "id": 4975,
+            "artist": "Ahmed Sheba"
+        },
+        {
+            "name": "Ana Mesh Fadelko",
+            "release_date": "2021-08-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732d4abcf81b94640be88b09aa",
+            "track_url": "",
+            "id": 4976,
+            "artist": "Ahmed Sheba"
+        },
+        {
+            "name": "الجدعنة",
+            "release_date": "2021-07-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ea5a34cc3f331605a7dffbd1",
+            "track_url": "",
+            "id": 4977,
+            "artist": "Ahmed Sheba"
+        },
+        {
+            "name": "عشان الحلوين",
+            "release_date": "2021-05-27",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d143400a2cf99d44f42dde73",
+            "track_url": "",
+            "id": 4978,
+            "artist": "Ahmed Sheba"
+        },
+        {
+            "name": "يلا سلام",
+            "release_date": "2021-03-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f01327b3e9356552f0e5471d",
+            "track_url": "",
+            "id": 4979,
+            "artist": "Ahmed Sheba"
+        },
+        {
+            "name": "El Maslahgeya Ketro",
+            "release_date": "2021-02-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733d59f9d112474153a17d666c",
+            "track_url": "",
+            "id": 4980,
+            "artist": "Ahmed Sheba"
+        },
+        {
+            "name": "Darbt M3lm (From Darbt M3lm Series)",
+            "release_date": "2021-01-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b273893bb94a3733a407103648da",
+            "track_url": "",
+            "id": 4981,
+            "artist": "Ahmed Sheba"
+        },
+        {
+            "name": "Khalik Fel Beit",
+            "release_date": "2020-05-05",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f11d51118caaef0954b8a7a4",
+            "track_url": "",
+            "id": 4982,
+            "artist": "Ahmed Sheba"
+        },
+        {
+            "name": "Allah Al Mostaan",
+            "release_date": "2019-08-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730e5feb2cad5375b3626ef460",
+            "track_url": "",
+            "id": 4983,
+            "artist": "Ahmed Sheba"
+        },
+        {
+            "name": "Yealam Rabena",
+            "release_date": "2018-06-03",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739dec869ecd4c2d283ecf6b81",
+            "track_url": "",
+            "id": 4984,
+            "artist": "Ahmed Sheba"
+        },
+        {
+            "name": "Qa'det Regala",
+            "release_date": "2018-04-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b27344a12bff6593742300360439",
+            "track_url": "",
+            "id": 4985,
+            "artist": "Ahmed Sheba"
+        },
+        {
+            "name": "Ya Lalli",
+            "release_date": "2018-04-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b27328614f9c6efe2355eacea743",
+            "track_url": "",
+            "id": 4986,
+            "artist": "Ahmed Sheba"
+        }
+    ],
+    "popular_tracks": [
+        {
+            "name": "Shyaf Nafsk",
+            "track_url": "",
+            "duration_ms": 236590,
+            "image": "https://i.scdn.co/image/ab67616d0000b2734e44a484cc2e91be0a884263",
+            "id": 4987,
+            "artist": "Ahmed Sheba"
+        },
+        {
+            "name": "Yealam Rabena",
+            "track_url": "",
+            "duration_ms": 337257,
+            "image": "https://i.scdn.co/image/ab67616d0000b2739dec869ecd4c2d283ecf6b81",
+            "id": 4988,
+            "artist": "Ahmed Sheba"
+        },
+        {
+            "name": "ابن ابوه",
+            "track_url": "",
+            "duration_ms": 225000,
+            "image": "https://i.scdn.co/image/ab67616d0000b27358c25b21d6fcdf7cd0842194",
+            "id": 4989,
+            "artist": "Ahmed Sheba"
+        },
+        {
+            "name": "اه لو لعبت يا زهر",
+            "track_url": "",
+            "duration_ms": 373421,
+            "image": "https://i.scdn.co/image/ab67616d0000b27309332cdc3cfce56a40950b67",
+            "id": 4990,
+            "artist": "Ahmed Sheba"
+        },
+        {
+            "name": "El Alb Galo Hoboot",
+            "track_url": "",
+            "duration_ms": 283267,
+            "image": "https://i.scdn.co/image/ab67616d0000b273564bb31bfae69e7da69c5f35",
+            "id": 4991,
+            "artist": "Ahmed Sheba"
+        },
+        {
+            "name": "قطعت بيا ياصحبى",
+            "track_url": "",
+            "duration_ms": 226324,
+            "image": "https://i.scdn.co/image/ab67616d0000b2733245e65a1fd7a907190a7157",
+            "id": 4992,
+            "artist": "Ahmed Sheba"
+        },
+        {
+            "name": "Ely Meny Mezaleny",
+            "track_url": "",
+            "duration_ms": 367386,
+            "image": "https://i.scdn.co/image/ab67616d0000b273fb8606118ab11754bff71a46",
+            "id": 4993,
+            "artist": "Ahmed Sheba"
+        },
+        {
+            "name": "Ana Mesh Hafya",
+            "track_url": "",
+            "duration_ms": 388623,
+            "image": "https://i.scdn.co/image/ab67616d0000b273fb8606118ab11754bff71a46",
+            "id": 4994,
+            "artist": "Ahmed Sheba"
+        },
+        {
+            "name": "Ana Mesh Fadelko",
+            "track_url": "",
+            "duration_ms": 234247,
+            "image": "https://i.scdn.co/image/ab67616d0000b2732d4abcf81b94640be88b09aa",
+            "id": 4995,
+            "artist": "Ahmed Sheba"
+        },
+        {
+            "name": "آخرة طريقى دا إيه ؟ - من مسلسل كوبرا",
+            "track_url": "",
+            "duration_ms": 149663,
+            "image": "https://i.scdn.co/image/ab67616d0000b2738de2a20ed12309ff252bf12d",
+            "id": 4996,
+            "artist": "Ahmed Sheba"
+        }
+    ]
+}

@@ -1,0 +1,2156 @@
+{
+    "artist": {
+        "id": "7403",
+        "name": "Moustafa Amar",
+        "image": "https://i.scdn.co/image/ab67616d0000b273fb0adfe61e12cb63a9530ab5",
+        "background_image": "https://i.scdn.co/image/ab67616d00001e02fb0adfe61e12cb63a9530ab5"
+    },
+    "albums": [
+        {
+            "name": "Leman Yahemo El Amr 2",
+            "release_date": "2020-09-03",
+            "image": "https://i.scdn.co/image/ab67616d0000b273aab25a14792c30afcfe986bf",
+            "track_url": "https://open.spotify.com/album/1LJn8BYPN0V7TOk2q91nZb",
+            "tracks": [
+                {
+                    "name": "Hobek Ala Gbiny",
+                    "track_url": "",
+                    "duration_ms": 180730,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273aab25a14792c30afcfe986bf",
+                    "id": 7405,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Mesafer",
+                    "track_url": "",
+                    "duration_ms": 190321,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273aab25a14792c30afcfe986bf",
+                    "id": 7406,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Haghanelek",
+                    "track_url": "",
+                    "duration_ms": 151008,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273aab25a14792c30afcfe986bf",
+                    "id": 7407,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Agooz Fi Elmadina",
+                    "track_url": "",
+                    "duration_ms": 223386,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273aab25a14792c30afcfe986bf",
+                    "id": 7408,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Hanona",
+                    "track_url": "",
+                    "duration_ms": 149482,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273aab25a14792c30afcfe986bf",
+                    "id": 7409,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Rageen",
+                    "track_url": "",
+                    "duration_ms": 180970,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273aab25a14792c30afcfe986bf",
+                    "id": 7410,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Doky Uodek",
+                    "track_url": "",
+                    "duration_ms": 214098,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273aab25a14792c30afcfe986bf",
+                    "id": 7411,
+                    "artist": "Moustafa Amar"
+                }
+            ],
+            "id": 7404
+        },
+        {
+            "name": "Dehket Leya",
+            "release_date": "2019-08-06",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ad3f9dfcb8d38e46f173a843",
+            "track_url": "https://open.spotify.com/album/31lGYWpy7LRyJrKQPTAJwi",
+            "tracks": [
+                {
+                    "name": "Seen Men El Nas",
+                    "track_url": "",
+                    "duration_ms": 230452,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ad3f9dfcb8d38e46f173a843",
+                    "id": 7413,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Moagab",
+                    "track_url": "",
+                    "duration_ms": 224470,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ad3f9dfcb8d38e46f173a843",
+                    "id": 7414,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Dehket Leya",
+                    "track_url": "",
+                    "duration_ms": 167784,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ad3f9dfcb8d38e46f173a843",
+                    "id": 7415,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Bab Mowareb",
+                    "track_url": "",
+                    "duration_ms": 265952,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ad3f9dfcb8d38e46f173a843",
+                    "id": 7416,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Habebak",
+                    "track_url": "",
+                    "duration_ms": 272091,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ad3f9dfcb8d38e46f173a843",
+                    "id": 7417,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Afalt Elsekka",
+                    "track_url": "",
+                    "duration_ms": 210651,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ad3f9dfcb8d38e46f173a843",
+                    "id": 7418,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Nawy",
+                    "track_url": "",
+                    "duration_ms": 239856,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ad3f9dfcb8d38e46f173a843",
+                    "id": 7419,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Nafs El Scenario",
+                    "track_url": "",
+                    "duration_ms": 225044,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ad3f9dfcb8d38e46f173a843",
+                    "id": 7420,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Aaref",
+                    "track_url": "",
+                    "duration_ms": 265639,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ad3f9dfcb8d38e46f173a843",
+                    "id": 7421,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Nafs ElEhsas",
+                    "track_url": "",
+                    "duration_ms": 241841,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ad3f9dfcb8d38e46f173a843",
+                    "id": 7422,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Nisetny Khalas",
+                    "track_url": "",
+                    "duration_ms": 238158,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ad3f9dfcb8d38e46f173a843",
+                    "id": 7423,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Salma",
+                    "track_url": "",
+                    "duration_ms": 141557,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ad3f9dfcb8d38e46f173a843",
+                    "id": 7424,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Bab Mowareb - Flamingo",
+                    "track_url": "",
+                    "duration_ms": 279954,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ad3f9dfcb8d38e46f173a843",
+                    "id": 7425,
+                    "artist": "Moustafa Amar"
+                }
+            ],
+            "id": 7412
+        },
+        {
+            "name": "Ana Metamen",
+            "release_date": "2013-12-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c954effe581b44be4f8b817e",
+            "track_url": "https://open.spotify.com/album/3N8fZMpYmcnPremmVVuEMU",
+            "tracks": [
+                {
+                    "name": "Ana Metamen",
+                    "track_url": "",
+                    "duration_ms": 235246,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c954effe581b44be4f8b817e",
+                    "id": 7427,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Howa Graali Eih",
+                    "track_url": "",
+                    "duration_ms": 208810,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c954effe581b44be4f8b817e",
+                    "id": 7428,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Alby W Elli Hasalo",
+                    "track_url": "",
+                    "duration_ms": 241281,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c954effe581b44be4f8b817e",
+                    "id": 7429,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Halla Ghareeba",
+                    "track_url": "",
+                    "duration_ms": 102152,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c954effe581b44be4f8b817e",
+                    "id": 7430,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Da Kalamoh Talat Terbaao",
+                    "track_url": "",
+                    "duration_ms": 215994,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c954effe581b44be4f8b817e",
+                    "id": 7431,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Sebni Aoul",
+                    "track_url": "",
+                    "duration_ms": 183654,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c954effe581b44be4f8b817e",
+                    "id": 7432,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Badhak Awi",
+                    "track_url": "",
+                    "duration_ms": 197108,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c954effe581b44be4f8b817e",
+                    "id": 7433,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Feina Mn Keda",
+                    "track_url": "",
+                    "duration_ms": 173414,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c954effe581b44be4f8b817e",
+                    "id": 7434,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Lahzet Daaf",
+                    "track_url": "",
+                    "duration_ms": 224327,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c954effe581b44be4f8b817e",
+                    "id": 7435,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Had Gheiry",
+                    "track_url": "",
+                    "duration_ms": 176628,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c954effe581b44be4f8b817e",
+                    "id": 7436,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Enta Aref",
+                    "track_url": "",
+                    "duration_ms": 208183,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c954effe581b44be4f8b817e",
+                    "id": 7437,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Etneen W Arbaah",
+                    "track_url": "",
+                    "duration_ms": 194495,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c954effe581b44be4f8b817e",
+                    "id": 7438,
+                    "artist": "Moustafa Amar"
+                }
+            ],
+            "id": 7426
+        },
+        {
+            "name": "Mawlaya Sobhanak",
+            "release_date": "2013-02-27",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737f5c33dde202d323804f3f79",
+            "track_url": "https://open.spotify.com/album/0v6g4OzanC0E2zZ56eBjRq",
+            "tracks": [
+                {
+                    "name": "Ameen",
+                    "track_url": "",
+                    "duration_ms": 196773,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737f5c33dde202d323804f3f79",
+                    "id": 7440,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Alb El Rasoul",
+                    "track_url": "",
+                    "duration_ms": 171213,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737f5c33dde202d323804f3f79",
+                    "id": 7441,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Mawlaya Sobhanak",
+                    "track_url": "",
+                    "duration_ms": 203706,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737f5c33dde202d323804f3f79",
+                    "id": 7442,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Sobhan Allah",
+                    "track_url": "",
+                    "duration_ms": 124080,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737f5c33dde202d323804f3f79",
+                    "id": 7443,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "El Basmala",
+                    "track_url": "",
+                    "duration_ms": 161720,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737f5c33dde202d323804f3f79",
+                    "id": 7444,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Sally We Erfaa Edeik",
+                    "track_url": "",
+                    "duration_ms": 202640,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737f5c33dde202d323804f3f79",
+                    "id": 7445,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Wallah Zaman Ya Ramadan",
+                    "track_url": "",
+                    "duration_ms": 240720,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737f5c33dde202d323804f3f79",
+                    "id": 7446,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Gheirak Maleesh",
+                    "track_url": "",
+                    "duration_ms": 186466,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737f5c33dde202d323804f3f79",
+                    "id": 7447,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Salla Allah Ala Mohamed",
+                    "track_url": "",
+                    "duration_ms": 162986,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737f5c33dde202d323804f3f79",
+                    "id": 7448,
+                    "artist": "Moustafa Amar"
+                }
+            ],
+            "id": 7439
+        },
+        {
+            "name": "Heya",
+            "release_date": "2010-05-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b27379292a5fe5bfd7dd8f5154a2",
+            "track_url": "https://open.spotify.com/album/3k6YPlf0cAyYHHHEe3BYro",
+            "tracks": [
+                {
+                    "name": "Heya",
+                    "track_url": "",
+                    "duration_ms": 221976,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27379292a5fe5bfd7dd8f5154a2",
+                    "id": 7450,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Leila Men Omri",
+                    "track_url": "",
+                    "duration_ms": 193137,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27379292a5fe5bfd7dd8f5154a2",
+                    "id": 7451,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Harouh Feha",
+                    "track_url": "",
+                    "duration_ms": 248856,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27379292a5fe5bfd7dd8f5154a2",
+                    "id": 7452,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Matsahneesh",
+                    "track_url": "",
+                    "duration_ms": 223570,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27379292a5fe5bfd7dd8f5154a2",
+                    "id": 7453,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Taeb Rohak",
+                    "track_url": "",
+                    "duration_ms": 206851,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27379292a5fe5bfd7dd8f5154a2",
+                    "id": 7454,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Ala Ay Asas",
+                    "track_url": "",
+                    "duration_ms": 198884,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27379292a5fe5bfd7dd8f5154a2",
+                    "id": 7455,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "El Leaba",
+                    "track_url": "",
+                    "duration_ms": 260716,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27379292a5fe5bfd7dd8f5154a2",
+                    "id": 7456,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Beadna We Gheltna",
+                    "track_url": "",
+                    "duration_ms": 257189,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27379292a5fe5bfd7dd8f5154a2",
+                    "id": 7457,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Mafesh Daaie",
+                    "track_url": "",
+                    "duration_ms": 221767,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27379292a5fe5bfd7dd8f5154a2",
+                    "id": 7458,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Kalam Eneik",
+                    "track_url": "",
+                    "duration_ms": 233104,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27379292a5fe5bfd7dd8f5154a2",
+                    "id": 7459,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Ya Nhar Abyad",
+                    "track_url": "",
+                    "duration_ms": 226965,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27379292a5fe5bfd7dd8f5154a2",
+                    "id": 7460,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Oyono El Kadabeen",
+                    "track_url": "",
+                    "duration_ms": 194574,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27379292a5fe5bfd7dd8f5154a2",
+                    "id": 7461,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Layali Dobt",
+                    "track_url": "",
+                    "duration_ms": 249117,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27379292a5fe5bfd7dd8f5154a2",
+                    "id": 7462,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Lama Teheb Had",
+                    "track_url": "",
+                    "duration_ms": 231276,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27379292a5fe5bfd7dd8f5154a2",
+                    "id": 7463,
+                    "artist": "Moustafa Amar"
+                }
+            ],
+            "id": 7449
+        },
+        {
+            "name": "Lessa Habayeb",
+            "release_date": "2005-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273bd839233c3297de271910abd",
+            "track_url": "https://open.spotify.com/album/3EMyczWhfjXNy8oVFNW89X",
+            "tracks": [
+                {
+                    "name": "Lesa Habaib",
+                    "track_url": "",
+                    "duration_ms": 207086,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bd839233c3297de271910abd",
+                    "id": 7465,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Di Mesh Awaidak",
+                    "track_url": "",
+                    "duration_ms": 250868,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bd839233c3297de271910abd",
+                    "id": 7466,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Mabahebekish",
+                    "track_url": "",
+                    "duration_ms": 208601,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bd839233c3297de271910abd",
+                    "id": 7467,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Zay Zaman",
+                    "track_url": "",
+                    "duration_ms": 253036,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bd839233c3297de271910abd",
+                    "id": 7468,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Kadaba",
+                    "track_url": "",
+                    "duration_ms": 195148,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bd839233c3297de271910abd",
+                    "id": 7469,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Khosara",
+                    "track_url": "",
+                    "duration_ms": 191099,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bd839233c3297de271910abd",
+                    "id": 7470,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Ely Agabny Feek",
+                    "track_url": "",
+                    "duration_ms": 166205,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bd839233c3297de271910abd",
+                    "id": 7471,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Yama Kan Ya Alby",
+                    "track_url": "",
+                    "duration_ms": 192066,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bd839233c3297de271910abd",
+                    "id": 7472,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Benazret Ein",
+                    "track_url": "",
+                    "duration_ms": 171325,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bd839233c3297de271910abd",
+                    "id": 7473,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Youm Men Baad Youm Wayak",
+                    "track_url": "",
+                    "duration_ms": 182427,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bd839233c3297de271910abd",
+                    "id": 7474,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Harakat",
+                    "track_url": "",
+                    "duration_ms": 212494,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bd839233c3297de271910abd",
+                    "id": 7475,
+                    "artist": "Moustafa Amar"
+                }
+            ],
+            "id": 7464
+        },
+        {
+            "name": "Ensa",
+            "release_date": "2003-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f139394bd2b1c1141129f421",
+            "track_url": "https://open.spotify.com/album/2qsqSYu3UooJHZQoGJN1zo",
+            "tracks": [
+                {
+                    "name": "Ensa",
+                    "track_url": "",
+                    "duration_ms": 196193,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f139394bd2b1c1141129f421",
+                    "id": 7477,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Alby Ya Saaban",
+                    "track_url": "",
+                    "duration_ms": 210012,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f139394bd2b1c1141129f421",
+                    "id": 7478,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Begad",
+                    "track_url": "",
+                    "duration_ms": 257633,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f139394bd2b1c1141129f421",
+                    "id": 7479,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "El Hawa",
+                    "track_url": "",
+                    "duration_ms": 276964,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f139394bd2b1c1141129f421",
+                    "id": 7480,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Khalik",
+                    "track_url": "",
+                    "duration_ms": 224484,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f139394bd2b1c1141129f421",
+                    "id": 7481,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Kefaya",
+                    "track_url": "",
+                    "duration_ms": 260533,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f139394bd2b1c1141129f421",
+                    "id": 7482,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Betehlam",
+                    "track_url": "",
+                    "duration_ms": 232712,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f139394bd2b1c1141129f421",
+                    "id": 7483,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Kanet Habebty",
+                    "track_url": "",
+                    "duration_ms": 286472,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f139394bd2b1c1141129f421",
+                    "id": 7484,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Ma Beyhdash",
+                    "track_url": "",
+                    "duration_ms": 184046,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f139394bd2b1c1141129f421",
+                    "id": 7485,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Lahzet Ghadab",
+                    "track_url": "",
+                    "duration_ms": 163227,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f139394bd2b1c1141129f421",
+                    "id": 7486,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Hobak Nar",
+                    "track_url": "",
+                    "duration_ms": 280490,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f139394bd2b1c1141129f421",
+                    "id": 7487,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Tameny",
+                    "track_url": "",
+                    "duration_ms": 269519,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f139394bd2b1c1141129f421",
+                    "id": 7488,
+                    "artist": "Moustafa Amar"
+                }
+            ],
+            "id": 7476
+        },
+        {
+            "name": "Rouhi Feek",
+            "release_date": "2003-10-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d111b0e6a62cb2c8e9592216",
+            "track_url": "https://open.spotify.com/album/7n9CRS7uamMuLfLJ219gIJ",
+            "tracks": [
+                {
+                    "name": "Rohi Feek",
+                    "track_url": "",
+                    "duration_ms": 192902,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d111b0e6a62cb2c8e9592216",
+                    "id": 7490,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Meen Gheirak",
+                    "track_url": "",
+                    "duration_ms": 243501,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d111b0e6a62cb2c8e9592216",
+                    "id": 7491,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Ebaed Anena",
+                    "track_url": "",
+                    "duration_ms": 285872,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d111b0e6a62cb2c8e9592216",
+                    "id": 7492,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Habebi Ana",
+                    "track_url": "",
+                    "duration_ms": 181277,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d111b0e6a62cb2c8e9592216",
+                    "id": 7493,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Getlak",
+                    "track_url": "",
+                    "duration_ms": 224014,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d111b0e6a62cb2c8e9592216",
+                    "id": 7494,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Hen ya",
+                    "track_url": "",
+                    "duration_ms": 246923,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d111b0e6a62cb2c8e9592216",
+                    "id": 7495,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Kol Ma Afakar",
+                    "track_url": "",
+                    "duration_ms": 227436,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d111b0e6a62cb2c8e9592216",
+                    "id": 7496,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Fein Gharamak",
+                    "track_url": "",
+                    "duration_ms": 184360,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d111b0e6a62cb2c8e9592216",
+                    "id": 7497,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Anadelak",
+                    "track_url": "",
+                    "duration_ms": 203847,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d111b0e6a62cb2c8e9592216",
+                    "id": 7498,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Ya shaghelni",
+                    "track_url": "",
+                    "duration_ms": 233235,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d111b0e6a62cb2c8e9592216",
+                    "id": 7499,
+                    "artist": "Moustafa Amar"
+                }
+            ],
+            "id": 7489
+        },
+        {
+            "name": "Monaya",
+            "release_date": "2001-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273bda6fca767f27cba3f5e6027",
+            "track_url": "https://open.spotify.com/album/1ZoNpXuq1Hw04ZWWZVslOX",
+            "tracks": [
+                {
+                    "name": "Haollak Eih",
+                    "track_url": "",
+                    "duration_ms": 213695,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bda6fca767f27cba3f5e6027",
+                    "id": 7501,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Monaya",
+                    "track_url": "",
+                    "duration_ms": 213539,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bda6fca767f27cba3f5e6027",
+                    "id": 7502,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Rah We Ghab Alaya",
+                    "track_url": "",
+                    "duration_ms": 218188,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bda6fca767f27cba3f5e6027",
+                    "id": 7503,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Ana Bardo Elly Fein",
+                    "track_url": "",
+                    "duration_ms": 191857,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bda6fca767f27cba3f5e6027",
+                    "id": 7504,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Oltaha",
+                    "track_url": "",
+                    "duration_ms": 234776,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bda6fca767f27cba3f5e6027",
+                    "id": 7505,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Law Kont Ghaly",
+                    "track_url": "",
+                    "duration_ms": 216778,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bda6fca767f27cba3f5e6027",
+                    "id": 7506,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Habiby Erhamni",
+                    "track_url": "",
+                    "duration_ms": 214427,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bda6fca767f27cba3f5e6027",
+                    "id": 7507,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "El Marradi Laa",
+                    "track_url": "",
+                    "duration_ms": 228010,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bda6fca767f27cba3f5e6027",
+                    "id": 7508,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Min Awel Youm",
+                    "track_url": "",
+                    "duration_ms": 194652,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bda6fca767f27cba3f5e6027",
+                    "id": 7509,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Alb Garee",
+                    "track_url": "",
+                    "duration_ms": 205023,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bda6fca767f27cba3f5e6027",
+                    "id": 7510,
+                    "artist": "Moustafa Amar"
+                }
+            ],
+            "id": 7500
+        },
+        {
+            "name": "Hayaty",
+            "release_date": "2001-07-20",
+            "image": "https://i.scdn.co/image/ab67616d0000b273fb0adfe61e12cb63a9530ab5",
+            "track_url": "https://open.spotify.com/album/4qQIQlbIiyWWIiu8Jr6cVX",
+            "tracks": [
+                {
+                    "name": "Habeb Hayaty",
+                    "track_url": "",
+                    "duration_ms": 238015,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fb0adfe61e12cb63a9530ab5",
+                    "id": 7512,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Wana leah Wallah",
+                    "track_url": "",
+                    "duration_ms": 254786,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fb0adfe61e12cb63a9530ab5",
+                    "id": 7513,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Omry",
+                    "track_url": "",
+                    "duration_ms": 205885,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fb0adfe61e12cb63a9530ab5",
+                    "id": 7514,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Yalle waheshne",
+                    "track_url": "",
+                    "duration_ms": 225712,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fb0adfe61e12cb63a9530ab5",
+                    "id": 7515,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Labod Netfarek",
+                    "track_url": "",
+                    "duration_ms": 245878,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fb0adfe61e12cb63a9530ab5",
+                    "id": 7516,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Ya Habebi",
+                    "track_url": "",
+                    "duration_ms": 246218,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fb0adfe61e12cb63a9530ab5",
+                    "id": 7517,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Gat Tesalehne",
+                    "track_url": "",
+                    "duration_ms": 171716,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fb0adfe61e12cb63a9530ab5",
+                    "id": 7518,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Khabini",
+                    "track_url": "",
+                    "duration_ms": 208288,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fb0adfe61e12cb63a9530ab5",
+                    "id": 7519,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Howah Mali Hayati",
+                    "track_url": "",
+                    "duration_ms": 236317,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fb0adfe61e12cb63a9530ab5",
+                    "id": 7520,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Meshwar",
+                    "track_url": "",
+                    "duration_ms": 275971,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fb0adfe61e12cb63a9530ab5",
+                    "id": 7521,
+                    "artist": "Moustafa Amar"
+                }
+            ],
+            "id": 7511
+        },
+        {
+            "name": "Aysheen",
+            "release_date": "2000-07-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731a117de4c2e550a605c2b914",
+            "track_url": "https://open.spotify.com/album/35pHKHNYguO7r3A5bc9u5a",
+            "tracks": [
+                {
+                    "name": "Law Saalouni",
+                    "track_url": "",
+                    "duration_ms": 249640,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731a117de4c2e550a605c2b914",
+                    "id": 7523,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Yeshhad Alia",
+                    "track_url": "",
+                    "duration_ms": 206224,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731a117de4c2e550a605c2b914",
+                    "id": 7524,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Akher kalam",
+                    "track_url": "",
+                    "duration_ms": 363481,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731a117de4c2e550a605c2b914",
+                    "id": 7525,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Aishein",
+                    "track_url": "",
+                    "duration_ms": 203508,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731a117de4c2e550a605c2b914",
+                    "id": 7526,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Washwesheeh",
+                    "track_url": "",
+                    "duration_ms": 228115,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731a117de4c2e550a605c2b914",
+                    "id": 7527,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Aref leih",
+                    "track_url": "",
+                    "duration_ms": 298881,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731a117de4c2e550a605c2b914",
+                    "id": 7528,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Ghani",
+                    "track_url": "",
+                    "duration_ms": 217849,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731a117de4c2e550a605c2b914",
+                    "id": 7529,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Bahebak",
+                    "track_url": "",
+                    "duration_ms": 256144,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731a117de4c2e550a605c2b914",
+                    "id": 7530,
+                    "artist": "Moustafa Amar"
+                }
+            ],
+            "id": 7522
+        },
+        {
+            "name": "Eyneek Wahshani",
+            "release_date": "1999-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27330ff6c0d52a2be664a70cb38",
+            "track_url": "https://open.spotify.com/album/0liunY1LhhJecBdZlUrnrK",
+            "tracks": [
+                {
+                    "name": "Ellyelah Doob",
+                    "track_url": "",
+                    "duration_ms": 911066,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27330ff6c0d52a2be664a70cb38",
+                    "id": 7532,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Taalali Ya Walah",
+                    "track_url": "",
+                    "duration_ms": 913813,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27330ff6c0d52a2be664a70cb38",
+                    "id": 7533,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Eyneek Wahshani",
+                    "track_url": "",
+                    "duration_ms": 206497,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27330ff6c0d52a2be664a70cb38",
+                    "id": 7534,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Kidah Ya Hawa",
+                    "track_url": "",
+                    "duration_ms": 268695,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27330ff6c0d52a2be664a70cb38",
+                    "id": 7535,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Aah Min Khududuh",
+                    "track_url": "",
+                    "duration_ms": 210520,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27330ff6c0d52a2be664a70cb38",
+                    "id": 7536,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Elmes Eydaih",
+                    "track_url": "",
+                    "duration_ms": 224679,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27330ff6c0d52a2be664a70cb38",
+                    "id": 7537,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Shafaifuh Wardi",
+                    "track_url": "",
+                    "duration_ms": 240352,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27330ff6c0d52a2be664a70cb38",
+                    "id": 7538,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Maluh Byia",
+                    "track_url": "",
+                    "duration_ms": 241841,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27330ff6c0d52a2be664a70cb38",
+                    "id": 7539,
+                    "artist": "Moustafa Amar"
+                }
+            ],
+            "id": 7531
+        },
+        {
+            "name": "Seket El Ashqeen",
+            "release_date": "1998",
+            "image": "https://i.scdn.co/image/ab67616d0000b273163f6b0081645cf145873092",
+            "track_url": "https://open.spotify.com/album/45Nf2IwplRMfNM1K6LrTdW",
+            "tracks": [
+                {
+                    "name": "Aalemny",
+                    "track_url": "",
+                    "duration_ms": 224000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273163f6b0081645cf145873092",
+                    "id": 7541,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Bahebak",
+                    "track_url": "",
+                    "duration_ms": 212688,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273163f6b0081645cf145873092",
+                    "id": 7542,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Ermy El Mandel",
+                    "track_url": "",
+                    "duration_ms": 319529,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273163f6b0081645cf145873092",
+                    "id": 7543,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Howa Enta Tetnesy",
+                    "track_url": "",
+                    "duration_ms": 213368,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273163f6b0081645cf145873092",
+                    "id": 7544,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Leil Eskanderia",
+                    "track_url": "",
+                    "duration_ms": 310909,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273163f6b0081645cf145873092",
+                    "id": 7545,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Meno El Hawa",
+                    "track_url": "",
+                    "duration_ms": 264751,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273163f6b0081645cf145873092",
+                    "id": 7546,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Remsh Oyounoh",
+                    "track_url": "",
+                    "duration_ms": 226298,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273163f6b0081645cf145873092",
+                    "id": 7547,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Seket El Ashqeen",
+                    "track_url": "",
+                    "duration_ms": 460538,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273163f6b0081645cf145873092",
+                    "id": 7548,
+                    "artist": "Moustafa Amar"
+                }
+            ],
+            "id": 7540
+        },
+        {
+            "name": "Nar Al Hob",
+            "release_date": "1997-09-12",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c1f15e89a37c8e53c3218000",
+            "track_url": "https://open.spotify.com/album/7utlKxzLekJ6Bb43ZQTm1G",
+            "tracks": [
+                {
+                    "name": "Al Sood Oyouno",
+                    "track_url": "",
+                    "duration_ms": 249706,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c1f15e89a37c8e53c3218000",
+                    "id": 7550,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Hanheb Ayamna",
+                    "track_url": "",
+                    "duration_ms": 289026,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c1f15e89a37c8e53c3218000",
+                    "id": 7551,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Binlif",
+                    "track_url": "",
+                    "duration_ms": 287826,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c1f15e89a37c8e53c3218000",
+                    "id": 7552,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "E'skandareyah",
+                    "track_url": "",
+                    "duration_ms": 174840,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c1f15e89a37c8e53c3218000",
+                    "id": 7553,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "A'h min al Layaly",
+                    "track_url": "",
+                    "duration_ms": 261959,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c1f15e89a37c8e53c3218000",
+                    "id": 7554,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Nar Al Hob",
+                    "track_url": "",
+                    "duration_ms": 221293,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c1f15e89a37c8e53c3218000",
+                    "id": 7555,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Wala Shoq Wala Hob",
+                    "track_url": "",
+                    "duration_ms": 263720,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c1f15e89a37c8e53c3218000",
+                    "id": 7556,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "A'llah Ya Samrah",
+                    "track_url": "",
+                    "duration_ms": 250120,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c1f15e89a37c8e53c3218000",
+                    "id": 7557,
+                    "artist": "Moustafa Amar"
+                }
+            ],
+            "id": 7549
+        },
+        {
+            "name": "Tal El Layel",
+            "release_date": "1997-08-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736499fcc0fbb24fbbcc96d5a7",
+            "track_url": "https://open.spotify.com/album/1ZtBwLRzXcBQRcgKaC42DC",
+            "tracks": [
+                {
+                    "name": "El Baher",
+                    "track_url": "",
+                    "duration_ms": 329453,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736499fcc0fbb24fbbcc96d5a7",
+                    "id": 7559,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Tal El layl",
+                    "track_url": "",
+                    "duration_ms": 294546,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736499fcc0fbb24fbbcc96d5a7",
+                    "id": 7560,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "A'lamok",
+                    "track_url": "",
+                    "duration_ms": 264346,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736499fcc0fbb24fbbcc96d5a7",
+                    "id": 7561,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Baatna laho Al Gamar",
+                    "track_url": "",
+                    "duration_ms": 309400,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736499fcc0fbb24fbbcc96d5a7",
+                    "id": 7562,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Enta",
+                    "track_url": "",
+                    "duration_ms": 223013,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736499fcc0fbb24fbbcc96d5a7",
+                    "id": 7563,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Ana La Habibi",
+                    "track_url": "",
+                    "duration_ms": 297493,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736499fcc0fbb24fbbcc96d5a7",
+                    "id": 7564,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Marakby",
+                    "track_url": "",
+                    "duration_ms": 404493,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736499fcc0fbb24fbbcc96d5a7",
+                    "id": 7565,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Shaghlin Baleh",
+                    "track_url": "",
+                    "duration_ms": 303173,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736499fcc0fbb24fbbcc96d5a7",
+                    "id": 7566,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Ah Men El Hawa",
+                    "track_url": "",
+                    "duration_ms": 325373,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736499fcc0fbb24fbbcc96d5a7",
+                    "id": 7567,
+                    "artist": "Moustafa Amar"
+                }
+            ],
+            "id": 7558
+        },
+        {
+            "name": "وصاف",
+            "release_date": "1994-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27344895bb5dc378408b11ac23d",
+            "track_url": "https://open.spotify.com/album/265cFRjplAn5E70hZ4Q1Kz",
+            "tracks": [
+                {
+                    "name": "مكاتيبى",
+                    "track_url": "",
+                    "duration_ms": 237583,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27344895bb5dc378408b11ac23d",
+                    "id": 7569,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "بريدك",
+                    "track_url": "",
+                    "duration_ms": 240822,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27344895bb5dc378408b11ac23d",
+                    "id": 7570,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "حلوه عينيها",
+                    "track_url": "",
+                    "duration_ms": 250958,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27344895bb5dc378408b11ac23d",
+                    "id": 7571,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "حبيبى",
+                    "track_url": "",
+                    "duration_ms": 331990,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27344895bb5dc378408b11ac23d",
+                    "id": 7572,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "لا كده مرتاح",
+                    "track_url": "",
+                    "duration_ms": 273946,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27344895bb5dc378408b11ac23d",
+                    "id": 7573,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "وصاف",
+                    "track_url": "",
+                    "duration_ms": 231862,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27344895bb5dc378408b11ac23d",
+                    "id": 7574,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "قلبى معاك",
+                    "track_url": "",
+                    "duration_ms": 277237,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27344895bb5dc378408b11ac23d",
+                    "id": 7575,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "ايوه ايوه",
+                    "track_url": "",
+                    "duration_ms": 261302,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27344895bb5dc378408b11ac23d",
+                    "id": 7576,
+                    "artist": "Moustafa Amar"
+                }
+            ],
+            "id": 7568
+        },
+        {
+            "name": "لياليكى",
+            "release_date": "1994-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c691b89c38656d3739a0666d",
+            "track_url": "https://open.spotify.com/album/7DK91kI7XOCLOAWDiPrgNl",
+            "tracks": [
+                {
+                    "name": "اسكندرانى",
+                    "track_url": "",
+                    "duration_ms": 228754,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c691b89c38656d3739a0666d",
+                    "id": 7578,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "لو",
+                    "track_url": "",
+                    "duration_ms": 285492,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c691b89c38656d3739a0666d",
+                    "id": 7579,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "صعبان عليا",
+                    "track_url": "",
+                    "duration_ms": 242677,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c691b89c38656d3739a0666d",
+                    "id": 7580,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "البينولا",
+                    "track_url": "",
+                    "duration_ms": 286928,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c691b89c38656d3739a0666d",
+                    "id": 7581,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "يا ناس",
+                    "track_url": "",
+                    "duration_ms": 200463,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c691b89c38656d3739a0666d",
+                    "id": 7582,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "سحر العيون",
+                    "track_url": "",
+                    "duration_ms": 238837,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c691b89c38656d3739a0666d",
+                    "id": 7583,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "ما بلاش",
+                    "track_url": "",
+                    "duration_ms": 221831,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c691b89c38656d3739a0666d",
+                    "id": 7584,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "حنو",
+                    "track_url": "",
+                    "duration_ms": 201586,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c691b89c38656d3739a0666d",
+                    "id": 7585,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "لياليكى",
+                    "track_url": "",
+                    "duration_ms": 199314,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c691b89c38656d3739a0666d",
+                    "id": 7586,
+                    "artist": "Moustafa Amar"
+                }
+            ],
+            "id": 7577
+        },
+        {
+            "name": "Seket El Asheqeen",
+            "release_date": "1994-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d3f2725d01efbcbca801a476",
+            "track_url": "https://open.spotify.com/album/6BFr0FGsAxdRyt4g0iS7lc",
+            "tracks": [
+                {
+                    "name": "Bahebak",
+                    "track_url": "",
+                    "duration_ms": 212688,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d3f2725d01efbcbca801a476",
+                    "id": 7588,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Remsh Aynno",
+                    "track_url": "",
+                    "duration_ms": 226298,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d3f2725d01efbcbca801a476",
+                    "id": 7589,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Aalemny",
+                    "track_url": "",
+                    "duration_ms": 223493,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d3f2725d01efbcbca801a476",
+                    "id": 7590,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Seket El Asheqeen",
+                    "track_url": "",
+                    "duration_ms": 460538,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d3f2725d01efbcbca801a476",
+                    "id": 7591,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Leil Eskenderia",
+                    "track_url": "",
+                    "duration_ms": 310203,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d3f2725d01efbcbca801a476",
+                    "id": 7592,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Meno El Hawa",
+                    "track_url": "",
+                    "duration_ms": 264751,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d3f2725d01efbcbca801a476",
+                    "id": 7593,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Howa Enta Tetnesy",
+                    "track_url": "",
+                    "duration_ms": 213368,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d3f2725d01efbcbca801a476",
+                    "id": 7594,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Ermy El Mandel",
+                    "track_url": "",
+                    "duration_ms": 319529,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d3f2725d01efbcbca801a476",
+                    "id": 7595,
+                    "artist": "Moustafa Amar"
+                }
+            ],
+            "id": 7587
+        },
+        {
+            "name": "Eftekerni",
+            "release_date": "1992-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738d2af61b4c7217a1edfb6103",
+            "track_url": "https://open.spotify.com/album/02M18QigSVUHb8N3fKke7v",
+            "tracks": [
+                {
+                    "name": "Fein Habibi",
+                    "track_url": "",
+                    "duration_ms": 235493,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738d2af61b4c7217a1edfb6103",
+                    "id": 7597,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Eftekerni",
+                    "track_url": "",
+                    "duration_ms": 419920,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738d2af61b4c7217a1edfb6103",
+                    "id": 7598,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Sidel El Amara",
+                    "track_url": "",
+                    "duration_ms": 197693,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738d2af61b4c7217a1edfb6103",
+                    "id": 7599,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Khayef",
+                    "track_url": "",
+                    "duration_ms": 429600,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738d2af61b4c7217a1edfb6103",
+                    "id": 7600,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Elle Shabakni",
+                    "track_url": "",
+                    "duration_ms": 269946,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738d2af61b4c7217a1edfb6103",
+                    "id": 7601,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Bahibak Ya Oyouni",
+                    "track_url": "",
+                    "duration_ms": 303400,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738d2af61b4c7217a1edfb6103",
+                    "id": 7602,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Rouh Ya Amar",
+                    "track_url": "",
+                    "duration_ms": 422613,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738d2af61b4c7217a1edfb6103",
+                    "id": 7603,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Gerah",
+                    "track_url": "",
+                    "duration_ms": 247746,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738d2af61b4c7217a1edfb6103",
+                    "id": 7604,
+                    "artist": "Moustafa Amar"
+                }
+            ],
+            "id": 7596
+        },
+        {
+            "name": "Wasaf",
+            "release_date": "1992",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d629c3031f61da6d8f593aed",
+            "track_url": "https://open.spotify.com/album/71rFFMIR60MiFzzt4ZZ1mQ",
+            "tracks": [
+                {
+                    "name": "Alby Maaky",
+                    "track_url": "",
+                    "duration_ms": 277237,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d629c3031f61da6d8f593aed",
+                    "id": 7606,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Ayooh Ayooh",
+                    "track_url": "",
+                    "duration_ms": 261302,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d629c3031f61da6d8f593aed",
+                    "id": 7607,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Bardek",
+                    "track_url": "",
+                    "duration_ms": 240822,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d629c3031f61da6d8f593aed",
+                    "id": 7608,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Habeeby",
+                    "track_url": "",
+                    "duration_ms": 331990,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d629c3031f61da6d8f593aed",
+                    "id": 7609,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Helwa Aniyha",
+                    "track_url": "",
+                    "duration_ms": 250958,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d629c3031f61da6d8f593aed",
+                    "id": 7610,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "La Keda Martah",
+                    "track_url": "",
+                    "duration_ms": 273946,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d629c3031f61da6d8f593aed",
+                    "id": 7611,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Makateeby",
+                    "track_url": "",
+                    "duration_ms": 237583,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d629c3031f61da6d8f593aed",
+                    "id": 7612,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Wasaf",
+                    "track_url": "",
+                    "duration_ms": 231862,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d629c3031f61da6d8f593aed",
+                    "id": 7613,
+                    "artist": "Moustafa Amar"
+                }
+            ],
+            "id": 7605
+        },
+        {
+            "name": "Eftkarni",
+            "release_date": "1990",
+            "image": "https://i.scdn.co/image/ab67616d0000b27340152800777ca1a4fbe104ea",
+            "track_url": "https://open.spotify.com/album/5w223fdQpu4LwMjG5XhD0J",
+            "tracks": [
+                {
+                    "name": "Eftkarni",
+                    "track_url": "",
+                    "duration_ms": 404897,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27340152800777ca1a4fbe104ea",
+                    "id": 7615,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Bahebak Ya Oyouny",
+                    "track_url": "",
+                    "duration_ms": 291448,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27340152800777ca1a4fbe104ea",
+                    "id": 7616,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Ely Shabakna",
+                    "track_url": "",
+                    "duration_ms": 258612,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27340152800777ca1a4fbe104ea",
+                    "id": 7617,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Fein Habeeby",
+                    "track_url": "",
+                    "duration_ms": 223582,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27340152800777ca1a4fbe104ea",
+                    "id": 7618,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Gerah",
+                    "track_url": "",
+                    "duration_ms": 237008,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27340152800777ca1a4fbe104ea",
+                    "id": 7619,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Khayef",
+                    "track_url": "",
+                    "duration_ms": 415007,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27340152800777ca1a4fbe104ea",
+                    "id": 7620,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Rooh Ya Amar",
+                    "track_url": "",
+                    "duration_ms": 407040,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27340152800777ca1a4fbe104ea",
+                    "id": 7621,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Seed El Amara",
+                    "track_url": "",
+                    "duration_ms": 189048,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27340152800777ca1a4fbe104ea",
+                    "id": 7622,
+                    "artist": "Moustafa Amar"
+                }
+            ],
+            "id": 7614
+        },
+        {
+            "name": "Layalyki",
+            "release_date": "1987",
+            "image": "https://i.scdn.co/image/ab67616d0000b273cc637d7115376dd0bccc92b2",
+            "track_url": "https://open.spotify.com/album/4GrJfxi95PEpCKmi2WVZGq",
+            "tracks": [
+                {
+                    "name": "El Beyanola",
+                    "track_url": "",
+                    "duration_ms": 286928,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cc637d7115376dd0bccc92b2",
+                    "id": 7624,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Eskandarany",
+                    "track_url": "",
+                    "duration_ms": 228754,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cc637d7115376dd0bccc92b2",
+                    "id": 7625,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Heno",
+                    "track_url": "",
+                    "duration_ms": 201586,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cc637d7115376dd0bccc92b2",
+                    "id": 7626,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Lao",
+                    "track_url": "",
+                    "duration_ms": 285492,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cc637d7115376dd0bccc92b2",
+                    "id": 7627,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Layalyki",
+                    "track_url": "",
+                    "duration_ms": 199314,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cc637d7115376dd0bccc92b2",
+                    "id": 7628,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Ma Balash",
+                    "track_url": "",
+                    "duration_ms": 221831,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cc637d7115376dd0bccc92b2",
+                    "id": 7629,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Saaban Alaya",
+                    "track_url": "",
+                    "duration_ms": 242677,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cc637d7115376dd0bccc92b2",
+                    "id": 7630,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "Sehr",
+                    "track_url": "",
+                    "duration_ms": 238837,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cc637d7115376dd0bccc92b2",
+                    "id": 7631,
+                    "artist": "Moustafa Amar"
+                },
+                {
+                    "name": "El Nas",
+                    "track_url": "",
+                    "duration_ms": 200463,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cc637d7115376dd0bccc92b2",
+                    "id": 7632,
+                    "artist": "Moustafa Amar"
+                }
+            ],
+            "id": 7623
+        }
+    ],
+    "singles": [
+        {
+            "name": "زق زق اليوم معايا",
+            "release_date": "2024-03-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a637aee5a576e4a183ab0294",
+            "track_url": "",
+            "id": 7633,
+            "artist": "Moustafa Amar"
+        },
+        {
+            "name": "أولاد حريم كريم (أغاني الفيلم)",
+            "release_date": "2023-08-29",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738dee8715a740ed5ef26ecc26",
+            "track_url": "",
+            "id": 7634,
+            "artist": "Moustafa Amar"
+        },
+        {
+            "name": "مهيبرين",
+            "release_date": "2023-08-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734d67d5f01cecebf407ab2c34",
+            "track_url": "",
+            "id": 7635,
+            "artist": "Moustafa Amar"
+        },
+        {
+            "name": "مش مهم",
+            "release_date": "2023-08-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f114495893260b1b0823327e",
+            "track_url": "",
+            "id": 7636,
+            "artist": "Moustafa Amar"
+        },
+        {
+            "name": "لت عجن",
+            "release_date": "2023-08-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a5ea13f06e3150ac93c810e3",
+            "track_url": "",
+            "id": 7637,
+            "artist": "Moustafa Amar"
+        },
+        {
+            "name": "سبل عينيك",
+            "release_date": "2023-08-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d4f2f45a7c1bb9f5eedbfce1",
+            "track_url": "",
+            "id": 7638,
+            "artist": "Moustafa Amar"
+        },
+        {
+            "name": "بنتي",
+            "release_date": "2023-08-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c6d91f337228a6a2eeb04c89",
+            "track_url": "",
+            "id": 7639,
+            "artist": "Moustafa Amar"
+        },
+        {
+            "name": "Helm Wala Aelm",
+            "release_date": "2020-11-02",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733a4a5afda1d711666907c46e",
+            "track_url": "",
+            "id": 7640,
+            "artist": "Moustafa Amar"
+        },
+        {
+            "name": "Hanen Alena Ya Rab",
+            "release_date": "2020-05-16",
+            "image": "https://i.scdn.co/image/ab67616d0000b27374a1cb396979385c65de10fd",
+            "track_url": "",
+            "id": 7641,
+            "artist": "Moustafa Amar"
+        },
+        {
+            "name": "Bab Mowareb (Flamingo)",
+            "release_date": "2019-08-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735d0185a172f12a638991936d",
+            "track_url": "",
+            "id": 7642,
+            "artist": "Moustafa Amar"
+        },
+        {
+            "name": "Seen Men El Nas",
+            "release_date": "2019-08-06",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e4febe984efecc745b9f9dcb",
+            "track_url": "",
+            "id": 7643,
+            "artist": "Moustafa Amar"
+        },
+        {
+            "name": "Resalet Hob",
+            "release_date": "2019-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27371c4a4a3830eb04bbf3b05ee",
+            "track_url": "",
+            "id": 7644,
+            "artist": "Moustafa Amar"
+        },
+        {
+            "name": "Ehna Weladha",
+            "release_date": "2019-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731917c331a9977e6ae15e8b65",
+            "track_url": "",
+            "id": 7645,
+            "artist": "Moustafa Amar"
+        },
+        {
+            "name": "Enty Elly Ekhtarty",
+            "release_date": "2018-04-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733655ea12876f85bb7efb36ff",
+            "track_url": "",
+            "id": 7646,
+            "artist": "Moustafa Amar"
+        },
+        {
+            "name": "Mareed Bel Hob",
+            "release_date": "2012-01-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b273eb1d9c9508e222dfdb5af3a4",
+            "track_url": "",
+            "id": 7647,
+            "artist": "Moustafa Amar"
+        },
+        {
+            "name": "تقدر تفرح",
+            "release_date": "2007-12-22",
+            "image": "https://i.scdn.co/image/ab67616d0000b27348301d271992a31dfb8ee954",
+            "track_url": "",
+            "id": 7648,
+            "artist": "Moustafa Amar"
+        },
+        {
+            "name": "يخرب عقلك بحبك",
+            "release_date": "2007-12-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b8b0b0dc7bfedd47d5d727b2",
+            "track_url": "",
+            "id": 7649,
+            "artist": "Moustafa Amar"
+        },
+        {
+            "name": "وش الخير",
+            "release_date": "2007-12-20",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738c40672fca1e11a50e325219",
+            "track_url": "",
+            "id": 7650,
+            "artist": "Moustafa Amar"
+        },
+        {
+            "name": "هغنيلك",
+            "release_date": "2007-12-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739c69639432ff0e01fd04250f",
+            "track_url": "",
+            "id": 7651,
+            "artist": "Moustafa Amar"
+        },
+        {
+            "name": "بسم الله",
+            "release_date": "2007-12-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f8eb46acaefadc284faa477c",
+            "track_url": "",
+            "id": 7652,
+            "artist": "Moustafa Amar"
+        },
+        {
+            "name": "انا المصرى",
+            "release_date": "2007-12-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732ea0a494f1199dca39d50543",
+            "track_url": "",
+            "id": 7653,
+            "artist": "Moustafa Amar"
+        },
+        {
+            "name": "يا رمضان",
+            "release_date": "2007-12-14",
+            "image": "https://i.scdn.co/image/ab67616d0000b27360691dfcd6738b83dda9a816",
+            "track_url": "",
+            "id": 7654,
+            "artist": "Moustafa Amar"
+        },
+        {
+            "name": "ارزقنا يا كريم",
+            "release_date": "2007-12-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b273bc4163d2984572bd8fe76ca3",
+            "track_url": "",
+            "id": 7655,
+            "artist": "Moustafa Amar"
+        },
+        {
+            "name": "بابا نويل",
+            "release_date": "2007-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734a80a65c41bead7b8e17154f",
+            "track_url": "",
+            "id": 7656,
+            "artist": "Moustafa Amar"
+        },
+        {
+            "name": "Bahebak Wana Kaman",
+            "release_date": "2003-08-17",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731c362e16101f5ac28daf297a",
+            "track_url": "",
+            "id": 7657,
+            "artist": "Moustafa Amar"
+        },
+        {
+            "name": "LMN Yhmo El Amr",
+            "release_date": "1994",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d76aca9e49f74a80e3e635d8",
+            "track_url": "",
+            "id": 7658,
+            "artist": "Moustafa Amar"
+        }
+    ],
+    "popular_tracks": [
+        {
+            "name": "Habeb Hayaty",
+            "track_url": "",
+            "duration_ms": 238015,
+            "image": "https://i.scdn.co/image/ab67616d0000b273fb0adfe61e12cb63a9530ab5",
+            "id": 7659,
+            "artist": "Moustafa Amar"
+        },
+        {
+            "name": "Monaya",
+            "track_url": "",
+            "duration_ms": 213539,
+            "image": "https://i.scdn.co/image/ab67616d0000b273bda6fca767f27cba3f5e6027",
+            "id": 7660,
+            "artist": "Moustafa Amar"
+        },
+        {
+            "name": "Basalem Aleik",
+            "track_url": "",
+            "duration_ms": 227573,
+            "image": "https://i.scdn.co/image/ab67616d0000b2738fc40af14c886d184c6c7af3",
+            "id": 7661,
+            "artist": "Moustafa Amar"
+        },
+        {
+            "name": "السود عيونه",
+            "track_url": "",
+            "duration_ms": 249706,
+            "image": "https://i.scdn.co/image/ab67616d0000b273bcee1cdc957f32f1877287c8",
+            "id": 7662,
+            "artist": "Moustafa Amar"
+        },
+        {
+            "name": "Eskandarany",
+            "track_url": "",
+            "duration_ms": 228754,
+            "image": "https://i.scdn.co/image/ab67616d0000b273cc637d7115376dd0bccc92b2",
+            "id": 7663,
+            "artist": "Moustafa Amar"
+        },
+        {
+            "name": "Bahebak",
+            "track_url": "",
+            "duration_ms": 256144,
+            "image": "https://i.scdn.co/image/ab67616d0000b2731a117de4c2e550a605c2b914",
+            "id": 7664,
+            "artist": "Moustafa Amar"
+        },
+        {
+            "name": "Aref leih",
+            "track_url": "",
+            "duration_ms": 298881,
+            "image": "https://i.scdn.co/image/ab67616d0000b2731a117de4c2e550a605c2b914",
+            "id": 7665,
+            "artist": "Moustafa Amar"
+        },
+        {
+            "name": "Kan Leya Youm Habib",
+            "track_url": "",
+            "duration_ms": 220995,
+            "image": "https://i.scdn.co/image/ab67616d0000b273d76aca9e49f74a80e3e635d8",
+            "id": 7666,
+            "artist": "Moustafa Amar"
+        },
+        {
+            "name": "Lahzet Ghadab",
+            "track_url": "",
+            "duration_ms": 163227,
+            "image": "https://i.scdn.co/image/ab67616d0000b273f139394bd2b1c1141129f421",
+            "id": 7667,
+            "artist": "Moustafa Amar"
+        },
+        {
+            "name": "Basalem Aleik",
+            "track_url": "",
+            "duration_ms": 351000,
+            "image": "https://i.scdn.co/image/ab67616d0000b273cc95e94e58de7ad884e55b20",
+            "id": 7668,
+            "artist": "Moustafa Amar"
+        }
+    ]
+}

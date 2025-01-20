@@ -1,0 +1,293 @@
+{
+    "artist": {
+        "id": "3315",
+        "name": "AL SHAMI",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebaef182ebd76b75026ba361f0",
+        "background_image": "https://i.scdn.co/image/ab67616100005174aef182ebd76b75026ba361f0"
+    },
+    "albums": [],
+    "singles": [
+        {
+            "name": "Dwali",
+            "release_date": "2024-09-17",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738da919aa064e3c625a621bdd",
+            "track_url": "",
+            "id": 3316,
+            "artist": "AL SHAMI"
+        },
+        {
+            "name": "Wein",
+            "release_date": "2024-07-12",
+            "image": "https://i.scdn.co/image/ab67616d0000b27395917721e55b8d6530236cde",
+            "track_url": "",
+            "id": 3317,
+            "artist": "AL SHAMI"
+        },
+        {
+            "name": "Khodni",
+            "release_date": "2024-05-16",
+            "image": "https://i.scdn.co/image/ab67616d0000b273fb30175b4335b30051831457",
+            "track_url": "",
+            "id": 3318,
+            "artist": "AL SHAMI"
+        },
+        {
+            "name": "Sabran",
+            "release_date": "2024-02-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d3ee29593d43accb1bd79e72",
+            "track_url": "",
+            "id": 3319,
+            "artist": "AL SHAMI"
+        },
+        {
+            "name": "Ya Leil W Yal Ein",
+            "release_date": "2023-09-20",
+            "image": "https://i.scdn.co/image/ab67616d0000b273245c8dd9b2311098a1224bd0",
+            "track_url": "",
+            "id": 3320,
+            "artist": "AL SHAMI"
+        },
+        {
+            "name": "Befdiki",
+            "release_date": "2023-05-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b273bf7b30fce0d90d316bc77d21",
+            "track_url": "",
+            "id": 3321,
+            "artist": "AL SHAMI"
+        },
+        {
+            "name": "Shayel Zaneb",
+            "release_date": "2023-03-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736826a412151bba075b4d60ba",
+            "track_url": "",
+            "id": 3322,
+            "artist": "AL SHAMI"
+        },
+        {
+            "name": "Shou Badi 3ed Bzalat",
+            "release_date": "2023-03-06",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d215f54fe051400ea170f48e",
+            "track_url": "",
+            "id": 3323,
+            "artist": "AL SHAMI"
+        },
+        {
+            "name": "Sametek Sama",
+            "release_date": "2023-01-20",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ccc40aee83aed07e7a4dd768",
+            "track_url": "",
+            "id": 3324,
+            "artist": "AL SHAMI"
+        },
+        {
+            "name": "Qurban",
+            "release_date": "2022-12-17",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736a955717e5b848e1fd9ebb80",
+            "track_url": "",
+            "id": 3325,
+            "artist": "AL SHAMI"
+        },
+        {
+            "name": "Beredak",
+            "release_date": "2022-09-20",
+            "image": "https://i.scdn.co/image/ab67616d0000b27345396e41bddf32b38e12fcff",
+            "track_url": "",
+            "id": 3326,
+            "artist": "AL SHAMI"
+        },
+        {
+            "name": "Dameek Ya Ein",
+            "release_date": "2022-07-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b27389cc2794a3a01e70b5bdfe2b",
+            "track_url": "",
+            "id": 3327,
+            "artist": "AL SHAMI"
+        },
+        {
+            "name": "Palpitar (Leila)",
+            "release_date": "2022-07-06",
+            "image": "https://i.scdn.co/image/ab67616d0000b27300296a26db0e597305120e1e",
+            "track_url": "",
+            "id": 3328,
+            "artist": "AL SHAMI"
+        },
+        {
+            "name": "Balaki",
+            "release_date": "2022-03-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736578c2338715bd0e207cc413",
+            "track_url": "",
+            "id": 3329,
+            "artist": "AL SHAMI"
+        },
+        {
+            "name": "Tlaay Miniy",
+            "release_date": "2021-12-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b273021b059a97be5bf89824499e",
+            "track_url": "",
+            "id": 3330,
+            "artist": "AL SHAMI"
+        },
+        {
+            "name": "Tounsa",
+            "release_date": "2021-11-06",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731dca09cdfa0b12b45a5148c1",
+            "track_url": "",
+            "id": 3331,
+            "artist": "AL SHAMI"
+        },
+        {
+            "name": "Ala Shou",
+            "release_date": "2021-11-02",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ca2f25088ce1b9e9a0236736",
+            "track_url": "",
+            "id": 3332,
+            "artist": "AL SHAMI"
+        },
+        {
+            "name": "Leila",
+            "release_date": "2021-09-17",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e48f928eadd0faa8d38195c2",
+            "track_url": "",
+            "id": 3333,
+            "artist": "AL SHAMI"
+        },
+        {
+            "name": "Chill",
+            "release_date": "2021-08-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f1f9feb699e4e701fdb2c561",
+            "track_url": "",
+            "id": 3334,
+            "artist": "AL SHAMI"
+        },
+        {
+            "name": "Ella",
+            "release_date": "2021-07-22",
+            "image": "https://i.scdn.co/image/ab67616d0000b273911cbaa02d80c1808be33771",
+            "track_url": "",
+            "id": 3335,
+            "artist": "AL SHAMI"
+        },
+        {
+            "name": "Yalli Dar",
+            "release_date": "2021-07-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739d323dd72bdd5e4baf002a40",
+            "track_url": "",
+            "id": 3336,
+            "artist": "AL SHAMI"
+        },
+        {
+            "name": "Lessa",
+            "release_date": "2021-05-14",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730468ab63df607c03317f0649",
+            "track_url": "",
+            "id": 3337,
+            "artist": "AL SHAMI"
+        },
+        {
+            "name": "Ya Zghira",
+            "release_date": "2021-05-13",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738aa79d744370eab481ae8385",
+            "track_url": "",
+            "id": 3338,
+            "artist": "AL SHAMI"
+        },
+        {
+            "name": "Mamellete",
+            "release_date": "2021-04-06",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730ecaac6de91abddf6aff805e",
+            "track_url": "",
+            "id": 3339,
+            "artist": "AL SHAMI"
+        },
+        {
+            "name": "One Day",
+            "release_date": "2021-04-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730411a47e17818cacb4734513",
+            "track_url": "",
+            "id": 3340,
+            "artist": "AL SHAMI"
+        }
+    ],
+    "popular_tracks": [
+        {
+            "name": "Wein",
+            "track_url": "",
+            "duration_ms": 172427,
+            "image": "https://i.scdn.co/image/ab67616d0000b27395917721e55b8d6530236cde",
+            "id": 3341,
+            "artist": "AL SHAMI"
+        },
+        {
+            "name": "Dwali",
+            "track_url": "",
+            "duration_ms": 174117,
+            "image": "https://i.scdn.co/image/ab67616d0000b2738da919aa064e3c625a621bdd",
+            "id": 3342,
+            "artist": "AL SHAMI"
+        },
+        {
+            "name": "Ya Leil W Yal Ein",
+            "track_url": "",
+            "duration_ms": 184285,
+            "image": "https://i.scdn.co/image/ab67616d0000b273245c8dd9b2311098a1224bd0",
+            "id": 3343,
+            "artist": "AL SHAMI"
+        },
+        {
+            "name": "Sabran",
+            "track_url": "",
+            "duration_ms": 202105,
+            "image": "https://i.scdn.co/image/ab67616d0000b273d3ee29593d43accb1bd79e72",
+            "id": 3344,
+            "artist": "AL SHAMI"
+        },
+        {
+            "name": "Khodni",
+            "track_url": "",
+            "duration_ms": 196721,
+            "image": "https://i.scdn.co/image/ab67616d0000b273fb30175b4335b30051831457",
+            "id": 3345,
+            "artist": "AL SHAMI"
+        },
+        {
+            "name": "Befdiki",
+            "track_url": "",
+            "duration_ms": 214956,
+            "image": "https://i.scdn.co/image/ab67616d0000b273bf7b30fce0d90d316bc77d21",
+            "id": 3346,
+            "artist": "AL SHAMI"
+        },
+        {
+            "name": "Sametek Sama",
+            "track_url": "",
+            "duration_ms": 198545,
+            "image": "https://i.scdn.co/image/ab67616d0000b273ccc40aee83aed07e7a4dd768",
+            "id": 3347,
+            "artist": "AL SHAMI"
+        },
+        {
+            "name": "Shou Badi 3ed Bzalat",
+            "track_url": "",
+            "duration_ms": 159600,
+            "image": "https://i.scdn.co/image/ab67616d0000b273d215f54fe051400ea170f48e",
+            "id": 3348,
+            "artist": "AL SHAMI"
+        },
+        {
+            "name": "Leila",
+            "track_url": "",
+            "duration_ms": 149933,
+            "image": "https://i.scdn.co/image/ab67616d0000b273e48f928eadd0faa8d38195c2",
+            "id": 3349,
+            "artist": "AL SHAMI"
+        },
+        {
+            "name": "Chill",
+            "track_url": "",
+            "duration_ms": 160000,
+            "image": "https://i.scdn.co/image/ab67616d0000b273f1f9feb699e4e701fdb2c561",
+            "id": 3350,
+            "artist": "AL SHAMI"
+        }
+    ]
+}

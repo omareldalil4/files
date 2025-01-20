@@ -1,0 +1,1185 @@
+{
+    "artist": {
+        "id": "10865",
+        "name": "Najat Al Saghira",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb975b66b78c351b9d00b0268a",
+        "background_image": "https://i.scdn.co/image/ab67616100005174975b66b78c351b9d00b0268a"
+    },
+    "albums": [
+        {
+            "name": "El Shok Wal Hob",
+            "release_date": "2010-04-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b273673b1c2cb1b123ec782fefab",
+            "track_url": "https://open.spotify.com/album/09NhZlIIsjPBoWF124P4xI",
+            "tracks": [
+                {
+                    "name": "El Shok Wal Hob",
+                    "track_url": "",
+                    "duration_ms": 824720,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273673b1c2cb1b123ec782fefab",
+                    "id": 10867,
+                    "artist": "Najat Al Saghira"
+                },
+                {
+                    "name": "Hayir Ya Hammam",
+                    "track_url": "",
+                    "duration_ms": 349733,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273673b1c2cb1b123ec782fefab",
+                    "id": 10868,
+                    "artist": "Najat Al Saghira"
+                },
+                {
+                    "name": "Ana Zekra",
+                    "track_url": "",
+                    "duration_ms": 566480,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273673b1c2cb1b123ec782fefab",
+                    "id": 10869,
+                    "artist": "Najat Al Saghira"
+                },
+                {
+                    "name": "Eid Meladek",
+                    "track_url": "",
+                    "duration_ms": 157640,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273673b1c2cb1b123ec782fefab",
+                    "id": 10870,
+                    "artist": "Najat Al Saghira"
+                },
+                {
+                    "name": "Ala El Shok Meshx",
+                    "track_url": "",
+                    "duration_ms": 338133,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273673b1c2cb1b123ec782fefab",
+                    "id": 10871,
+                    "artist": "Najat Al Saghira"
+                },
+                {
+                    "name": "Saal Fiya",
+                    "track_url": "",
+                    "duration_ms": 356080,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273673b1c2cb1b123ec782fefab",
+                    "id": 10872,
+                    "artist": "Najat Al Saghira"
+                },
+                {
+                    "name": "Ghenwet Hobb",
+                    "track_url": "",
+                    "duration_ms": 341466,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273673b1c2cb1b123ec782fefab",
+                    "id": 10873,
+                    "artist": "Najat Al Saghira"
+                },
+                {
+                    "name": "Kesset Mawala",
+                    "track_url": "",
+                    "duration_ms": 530106,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273673b1c2cb1b123ec782fefab",
+                    "id": 10874,
+                    "artist": "Najat Al Saghira"
+                },
+                {
+                    "name": "Regei Tissal",
+                    "track_url": "",
+                    "duration_ms": 415626,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273673b1c2cb1b123ec782fefab",
+                    "id": 10875,
+                    "artist": "Najat Al Saghira"
+                }
+            ],
+            "id": 10866
+        },
+        {
+            "name": "Maysabsh Alek Ghaly",
+            "release_date": "1996-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27382342aebed7aa3274798a781",
+            "track_url": "https://open.spotify.com/album/1WSnwDmJCHRBB1oyDEVlKw",
+            "tracks": [
+                {
+                    "name": "مايصعبش عليك غالى",
+                    "track_url": "",
+                    "duration_ms": 510864,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27382342aebed7aa3274798a781",
+                    "id": 10877,
+                    "artist": "Najat Al Saghira"
+                },
+                {
+                    "name": "Fe West El Tareek",
+                    "track_url": "",
+                    "duration_ms": 923494,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27382342aebed7aa3274798a781",
+                    "id": 10878,
+                    "artist": "Najat Al Saghira"
+                },
+                {
+                    "name": "وحياة اللى فات",
+                    "track_url": "",
+                    "duration_ms": 685676,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27382342aebed7aa3274798a781",
+                    "id": 10879,
+                    "artist": "Najat Al Saghira"
+                },
+                {
+                    "name": "أيوه باغير",
+                    "track_url": "",
+                    "duration_ms": 660232,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27382342aebed7aa3274798a781",
+                    "id": 10880,
+                    "artist": "Najat Al Saghira"
+                },
+                {
+                    "name": "أسهر و إنشغل",
+                    "track_url": "",
+                    "duration_ms": 425392,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27382342aebed7aa3274798a781",
+                    "id": 10881,
+                    "artist": "Najat Al Saghira"
+                }
+            ],
+            "id": 10876
+        },
+        {
+            "name": "Ya Amar",
+            "release_date": "1990-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e40effe97ebd7176eb7ce1f8",
+            "track_url": "https://open.spotify.com/album/1AaPvxaDfaPGxWX61KDBJV",
+            "tracks": [
+                {
+                    "name": "Ya Amar",
+                    "track_url": "",
+                    "duration_ms": 1072810,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e40effe97ebd7176eb7ce1f8",
+                    "id": 10883,
+                    "artist": "Najat Al Saghira"
+                },
+                {
+                    "name": "El Safar",
+                    "track_url": "",
+                    "duration_ms": 399556,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e40effe97ebd7176eb7ce1f8",
+                    "id": 10884,
+                    "artist": "Najat Al Saghira"
+                },
+                {
+                    "name": "El Ghorba",
+                    "track_url": "",
+                    "duration_ms": 652866,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e40effe97ebd7176eb7ce1f8",
+                    "id": 10885,
+                    "artist": "Najat Al Saghira"
+                }
+            ],
+            "id": 10882
+        },
+        {
+            "name": "Mawkeb Hob",
+            "release_date": "1990-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27303c4ba6201e3187455c3b503",
+            "track_url": "https://open.spotify.com/album/2bqyPFdguLCZVbJz9yOgU8",
+            "tracks": [
+                {
+                    "name": "Mawkeb Hob Live",
+                    "track_url": "",
+                    "duration_ms": 2206211,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27303c4ba6201e3187455c3b503",
+                    "id": 10887,
+                    "artist": "Najat Al Saghira"
+                },
+                {
+                    "name": "Shakl Tany",
+                    "track_url": "",
+                    "duration_ms": 1420056,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27303c4ba6201e3187455c3b503",
+                    "id": 10888,
+                    "artist": "Najat Al Saghira"
+                }
+            ],
+            "id": 10886
+        },
+        {
+            "name": "Seket El Aashekin",
+            "release_date": "1989-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273374a90df7f6d1c2fd1ad0c4e",
+            "track_url": "https://open.spotify.com/album/2SgKZwmxjRr3LLmlFR98Ib",
+            "tracks": [
+                {
+                    "name": "Nesy",
+                    "track_url": "",
+                    "duration_ms": 982348,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273374a90df7f6d1c2fd1ad0c4e",
+                    "id": 10890,
+                    "artist": "Najat Al Saghira"
+                },
+                {
+                    "name": "Seket El Aashekin",
+                    "track_url": "",
+                    "duration_ms": 976027,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273374a90df7f6d1c2fd1ad0c4e",
+                    "id": 10891,
+                    "artist": "Najat Al Saghira"
+                },
+                {
+                    "name": "Ma'darsh Ansak Live",
+                    "track_url": "",
+                    "duration_ms": 566479,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273374a90df7f6d1c2fd1ad0c4e",
+                    "id": 10892,
+                    "artist": "Najat Al Saghira"
+                },
+                {
+                    "name": "Saal Feya",
+                    "track_url": "",
+                    "duration_ms": 355096,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273374a90df7f6d1c2fd1ad0c4e",
+                    "id": 10893,
+                    "artist": "Najat Al Saghira"
+                },
+                {
+                    "name": "Hamdellah Aal Salama",
+                    "track_url": "",
+                    "duration_ms": 339658,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273374a90df7f6d1c2fd1ad0c4e",
+                    "id": 10894,
+                    "artist": "Najat Al Saghira"
+                },
+                {
+                    "name": "Ghenwet Hob",
+                    "track_url": "",
+                    "duration_ms": 347573,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273374a90df7f6d1c2fd1ad0c4e",
+                    "id": 10895,
+                    "artist": "Najat Al Saghira"
+                }
+            ],
+            "id": 10889
+        },
+        {
+            "name": "Ella Foraa El Ahbab",
+            "release_date": "1985-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b27322f19e9cd2dbdbe2ea9a29be",
+            "track_url": "https://open.spotify.com/album/7AqSUb6Km0emQeuIymcvuZ",
+            "tracks": [
+                {
+                    "name": "Ela Foraa El Ahbab",
+                    "track_url": "",
+                    "duration_ms": 505853,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27322f19e9cd2dbdbe2ea9a29be",
+                    "id": 10897,
+                    "artist": "Najat Al Saghira"
+                },
+                {
+                    "name": "Esas El Hop El Gamela",
+                    "track_url": "",
+                    "duration_ms": 540853,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27322f19e9cd2dbdbe2ea9a29be",
+                    "id": 10898,
+                    "artist": "Najat Al Saghira"
+                },
+                {
+                    "name": "Enta Enta",
+                    "track_url": "",
+                    "duration_ms": 554613,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27322f19e9cd2dbdbe2ea9a29be",
+                    "id": 10899,
+                    "artist": "Najat Al Saghira"
+                },
+                {
+                    "name": "Kol Feen We Feen",
+                    "track_url": "",
+                    "duration_ms": 414693,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27322f19e9cd2dbdbe2ea9a29be",
+                    "id": 10900,
+                    "artist": "Najat Al Saghira"
+                }
+            ],
+            "id": 10896
+        },
+        {
+            "name": "Halawet El Hob",
+            "release_date": "1981-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732020380a74c1a82d74c2b201",
+            "track_url": "https://open.spotify.com/album/19vRHSDMYci9n1XZNKqwuk",
+            "tracks": [
+                {
+                    "name": "Halawet El Hob Live Record",
+                    "track_url": "",
+                    "duration_ms": 1173016,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732020380a74c1a82d74c2b201",
+                    "id": 10902,
+                    "artist": "Najat Al Saghira"
+                },
+                {
+                    "name": "Sarken El Nom",
+                    "track_url": "",
+                    "duration_ms": 1152170,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732020380a74c1a82d74c2b201",
+                    "id": 10903,
+                    "artist": "Najat Al Saghira"
+                }
+            ],
+            "id": 10901
+        },
+        {
+            "name": "Nagat Toghny Mn Ahla Ma Ghana Mohammed Abdel Wahab",
+            "release_date": "1980-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c04b76f0efcb71ca5772b6e0",
+            "track_url": "https://open.spotify.com/album/2WlpRkNQj1B64EzT430gOV",
+            "tracks": [
+                {
+                    "name": "Mahlaha Eishet El Falah",
+                    "track_url": "",
+                    "duration_ms": 612193,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c04b76f0efcb71ca5772b6e0",
+                    "id": 10905,
+                    "artist": "Najat Al Saghira"
+                },
+                {
+                    "name": "Ya Mesafer Wahdak",
+                    "track_url": "",
+                    "duration_ms": 662009,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c04b76f0efcb71ca5772b6e0",
+                    "id": 10906,
+                    "artist": "Najat Al Saghira"
+                },
+                {
+                    "name": "Makansh Al Bal",
+                    "track_url": "",
+                    "duration_ms": 1148069,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c04b76f0efcb71ca5772b6e0",
+                    "id": 10907,
+                    "artist": "Najat Al Saghira"
+                }
+            ],
+            "id": 10904
+        },
+        {
+            "name": "Eyoun El Alb",
+            "release_date": "1979-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b27355dfe825df4bfd51d13d7f15",
+            "track_url": "https://open.spotify.com/album/3pnuPZ8nUMMLwHJSvNLrO0",
+            "tracks": [
+                {
+                    "name": "Oyon El Alb Live Record",
+                    "track_url": "",
+                    "duration_ms": 1184040,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27355dfe825df4bfd51d13d7f15",
+                    "id": 10909,
+                    "artist": "Najat Al Saghira"
+                },
+                {
+                    "name": "Bahlam Maak",
+                    "track_url": "",
+                    "duration_ms": 229865,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27355dfe825df4bfd51d13d7f15",
+                    "id": 10910,
+                    "artist": "Najat Al Saghira"
+                },
+                {
+                    "name": "Fakrah",
+                    "track_url": "",
+                    "duration_ms": 602606,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27355dfe825df4bfd51d13d7f15",
+                    "id": 10911,
+                    "artist": "Najat Al Saghira"
+                },
+                {
+                    "name": "Ana Bashaa El Bahr",
+                    "track_url": "",
+                    "duration_ms": 329104,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27355dfe825df4bfd51d13d7f15",
+                    "id": 10912,
+                    "artist": "Najat Al Saghira"
+                }
+            ],
+            "id": 10908
+        },
+        {
+            "name": "Shakl Tany",
+            "release_date": "1978-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b27325574ca9db073994539147dd",
+            "track_url": "https://open.spotify.com/album/5KK10d21g8jTYLdwiscmEB",
+            "tracks": [
+                {
+                    "name": "شكل تانى",
+                    "track_url": "",
+                    "duration_ms": 1381055,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27325574ca9db073994539147dd",
+                    "id": 10914,
+                    "artist": "Najat Al Saghira"
+                },
+                {
+                    "name": "El Arieb Menk",
+                    "track_url": "",
+                    "duration_ms": 725930,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27325574ca9db073994539147dd",
+                    "id": 10915,
+                    "artist": "Najat Al Saghira"
+                },
+                {
+                    "name": "Al Yady",
+                    "track_url": "",
+                    "duration_ms": 514678,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27325574ca9db073994539147dd",
+                    "id": 10916,
+                    "artist": "Najat Al Saghira"
+                }
+            ],
+            "id": 10913
+        },
+        {
+            "name": "Ana Bastanak",
+            "release_date": "1977-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f3d2d36ab25456f8d192773e",
+            "track_url": "https://open.spotify.com/album/6Igc28H2MkGId3PHGGHZ6x",
+            "tracks": [
+                {
+                    "name": "Ana Bastanak Live Record",
+                    "track_url": "",
+                    "duration_ms": 987129,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f3d2d36ab25456f8d192773e",
+                    "id": 10918,
+                    "artist": "Najat Al Saghira"
+                },
+                {
+                    "name": "Ah Law Teeraf",
+                    "track_url": "",
+                    "duration_ms": 504438,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f3d2d36ab25456f8d192773e",
+                    "id": 10919,
+                    "artist": "Najat Al Saghira"
+                },
+                {
+                    "name": "El Tear El Mesafer",
+                    "track_url": "",
+                    "duration_ms": 578783,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f3d2d36ab25456f8d192773e",
+                    "id": 10920,
+                    "artist": "Najat Al Saghira"
+                },
+                {
+                    "name": "Hobak Hayaty",
+                    "track_url": "",
+                    "duration_ms": 861532,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f3d2d36ab25456f8d192773e",
+                    "id": 10921,
+                    "artist": "Najat Al Saghira"
+                }
+            ],
+            "id": 10917
+        },
+        {
+            "name": "Law Yetol El Boed",
+            "release_date": "1975-12-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b273572838c2b06bd6b9b96369d4",
+            "track_url": "https://open.spotify.com/album/6RgkCIE1nnDm85KGswvqLw",
+            "tracks": [
+                {
+                    "name": "Estanany Live Record",
+                    "track_url": "",
+                    "duration_ms": 1248850,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273572838c2b06bd6b9b96369d4",
+                    "id": 10923,
+                    "artist": "Najat Al Saghira"
+                },
+                {
+                    "name": "Law Ytoll El Boed Live Record",
+                    "track_url": "",
+                    "duration_ms": 1211181,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273572838c2b06bd6b9b96369d4",
+                    "id": 10924,
+                    "artist": "Najat Al Saghira"
+                }
+            ],
+            "id": 10922
+        },
+        {
+            "name": "Sahra Maa Nagat Fi Cinema Qasr El Nil Bel Qahera",
+            "release_date": "1969-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733883b2567f958fda8e1cb5b1",
+            "track_url": "https://open.spotify.com/album/21RybRcn4CEU93blcDXtb0",
+            "tracks": [
+                {
+                    "name": "Nesi",
+                    "track_url": "",
+                    "duration_ms": 982866,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733883b2567f958fda8e1cb5b1",
+                    "id": 10926,
+                    "artist": "Najat Al Saghira"
+                },
+                {
+                    "name": "Seket El Ashekin",
+                    "track_url": "",
+                    "duration_ms": 976533,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733883b2567f958fda8e1cb5b1",
+                    "id": 10927,
+                    "artist": "Najat Al Saghira"
+                }
+            ],
+            "id": 10925
+        },
+        {
+            "name": "Fi Wasat El Tareeq",
+            "release_date": "1969-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273585e8c1317235d03acd3b736",
+            "track_url": "https://open.spotify.com/album/1p1z4qlwDTzhz2YS8RdS6L",
+            "tracks": [
+                {
+                    "name": "Fi Wasat El Tareeq",
+                    "track_url": "",
+                    "duration_ms": 919759,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273585e8c1317235d03acd3b736",
+                    "id": 10929,
+                    "artist": "Najat Al Saghira"
+                },
+                {
+                    "name": "Mayesaabsh Aleik Ghaly",
+                    "track_url": "",
+                    "duration_ms": 506319,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273585e8c1317235d03acd3b736",
+                    "id": 10930,
+                    "artist": "Najat Al Saghira"
+                },
+                {
+                    "name": "Wehyat Elly Fat",
+                    "track_url": "",
+                    "duration_ms": 683690,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273585e8c1317235d03acd3b736",
+                    "id": 10931,
+                    "artist": "Najat Al Saghira"
+                },
+                {
+                    "name": "Aywa Bagheer",
+                    "track_url": "",
+                    "duration_ms": 656445,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273585e8c1317235d03acd3b736",
+                    "id": 10932,
+                    "artist": "Najat Al Saghira"
+                }
+            ],
+            "id": 10928
+        },
+        {
+            "name": "Najat Al Saghira",
+            "release_date": "1965-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b27356fff8971c9d5eac4eaf5bb0",
+            "track_url": "https://open.spotify.com/album/4XcULLWu8A2o7fsofsf2X4",
+            "tracks": [
+                {
+                    "name": "Shakl Tany",
+                    "track_url": "",
+                    "duration_ms": 1387612,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27356fff8971c9d5eac4eaf5bb0",
+                    "id": 10934,
+                    "artist": "Najat Al Saghira"
+                },
+                {
+                    "name": "Dobna Ya Habayebna Live",
+                    "track_url": "",
+                    "duration_ms": 1340383,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27356fff8971c9d5eac4eaf5bb0",
+                    "id": 10935,
+                    "artist": "Najat Al Saghira"
+                }
+            ],
+            "id": 10933
+        },
+        {
+            "name": "Nagat",
+            "release_date": "1962-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c049a753e5bab47048c2b224",
+            "track_url": "https://open.spotify.com/album/0f3oYdt3mKrWPjNf86gVDi",
+            "tracks": [
+                {
+                    "name": "La Takzeby Live Record",
+                    "track_url": "",
+                    "duration_ms": 1061630,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c049a753e5bab47048c2b224",
+                    "id": 10937,
+                    "artist": "Najat Al Saghira"
+                },
+                {
+                    "name": "Mersal El Hawa Live Record",
+                    "track_url": "",
+                    "duration_ms": 1177117,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c049a753e5bab47048c2b224",
+                    "id": 10938,
+                    "artist": "Najat Al Saghira"
+                }
+            ],
+            "id": 10936
+        },
+        {
+            "name": "Nagat",
+            "release_date": "1960-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273577eeaf381e1f112293b2fba",
+            "track_url": "https://open.spotify.com/album/2NzPN8B37aamwLoF6hsT6y",
+            "tracks": [
+                {
+                    "name": "Saken Osady",
+                    "track_url": "",
+                    "duration_ms": 1230773,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273577eeaf381e1f112293b2fba",
+                    "id": 10940,
+                    "artist": "Najat Al Saghira"
+                },
+                {
+                    "name": "Ayazon",
+                    "track_url": "",
+                    "duration_ms": 1197989,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273577eeaf381e1f112293b2fba",
+                    "id": 10941,
+                    "artist": "Najat Al Saghira"
+                }
+            ],
+            "id": 10939
+        },
+        {
+            "name": "Najat Al Saghira",
+            "release_date": "1957-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732bf892263485f09ef9429483",
+            "track_url": "https://open.spotify.com/album/2So94mJExB63qBLOlErg8Y",
+            "tracks": [
+                {
+                    "name": "أسهر و إنشغل",
+                    "track_url": "",
+                    "duration_ms": 421917,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732bf892263485f09ef9429483",
+                    "id": 10943,
+                    "artist": "Najat Al Saghira"
+                },
+                {
+                    "name": "Kalemny An Bokra",
+                    "track_url": "",
+                    "duration_ms": 419671,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732bf892263485f09ef9429483",
+                    "id": 10944,
+                    "artist": "Najat Al Saghira"
+                },
+                {
+                    "name": "Samara Samara",
+                    "track_url": "",
+                    "duration_ms": 423903,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732bf892263485f09ef9429483",
+                    "id": 10945,
+                    "artist": "Najat Al Saghira"
+                },
+                {
+                    "name": "Elawazel Yama Aloo",
+                    "track_url": "",
+                    "duration_ms": 436990,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732bf892263485f09ef9429483",
+                    "id": 10946,
+                    "artist": "Najat Al Saghira"
+                },
+                {
+                    "name": "Ban Alya Hoboh",
+                    "track_url": "",
+                    "duration_ms": 427142,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732bf892263485f09ef9429483",
+                    "id": 10947,
+                    "artist": "Najat Al Saghira"
+                },
+                {
+                    "name": "Albak Rah Fen",
+                    "track_url": "",
+                    "duration_ms": 394123,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732bf892263485f09ef9429483",
+                    "id": 10948,
+                    "artist": "Najat Al Saghira"
+                }
+            ],
+            "id": 10942
+        },
+        {
+            "name": "Nagat",
+            "release_date": "1957-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b27359b47605daf92d404f041b05",
+            "track_url": "https://open.spotify.com/album/5FEB5jsWSaQ4ZM12AJSAjd",
+            "tracks": [
+                {
+                    "name": "Tol Omry Ahebak",
+                    "track_url": "",
+                    "duration_ms": 405303,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27359b47605daf92d404f041b05",
+                    "id": 10950,
+                    "artist": "Najat Al Saghira"
+                },
+                {
+                    "name": "Gharyba Mansya",
+                    "track_url": "",
+                    "duration_ms": 490071,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27359b47605daf92d404f041b05",
+                    "id": 10951,
+                    "artist": "Najat Al Saghira"
+                },
+                {
+                    "name": "Bakany Lama Khalast Demoy",
+                    "track_url": "",
+                    "duration_ms": 424085,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27359b47605daf92d404f041b05",
+                    "id": 10952,
+                    "artist": "Najat Al Saghira"
+                },
+                {
+                    "name": "Ama Gharyba",
+                    "track_url": "",
+                    "duration_ms": 399974,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27359b47605daf92d404f041b05",
+                    "id": 10953,
+                    "artist": "Najat Al Saghira"
+                },
+                {
+                    "name": "Samehny Tobt Khalas",
+                    "track_url": "",
+                    "duration_ms": 436494,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27359b47605daf92d404f041b05",
+                    "id": 10954,
+                    "artist": "Najat Al Saghira"
+                },
+                {
+                    "name": "Hakak Alaya We Sameh",
+                    "track_url": "",
+                    "duration_ms": 413793,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27359b47605daf92d404f041b05",
+                    "id": 10955,
+                    "artist": "Najat Al Saghira"
+                }
+            ],
+            "id": 10949
+        }
+    ],
+    "singles": [
+        {
+            "name": "عطشان يا اسمرانى",
+            "release_date": "1996-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b881fe6693e7daea3f7da929",
+            "track_url": "",
+            "id": 10956,
+            "artist": "Najat Al Saghira"
+        },
+        {
+            "name": "Ala Anta",
+            "release_date": "1980-07-16",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734d5139e430438363179f7e9d",
+            "track_url": "",
+            "id": 10957,
+            "artist": "Najat Al Saghira"
+        },
+        {
+            "name": "Habiby Loula El Sahar",
+            "release_date": "1978-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273763a6d4942e9eb876733fbf0",
+            "track_url": "",
+            "id": 10958,
+            "artist": "Najat Al Saghira"
+        },
+        {
+            "name": "Tefreq Ketir",
+            "release_date": "1977-01-13",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734cca3b4ecd3dd5b8efacd0d8",
+            "track_url": "",
+            "id": 10959,
+            "artist": "Najat Al Saghira"
+        },
+        {
+            "name": "Mawkeb Hob",
+            "release_date": "1977-01-13",
+            "image": "https://i.scdn.co/image/ab67616d0000b27384f38312df6eeded75d2cd09",
+            "track_url": "",
+            "id": 10960,
+            "artist": "Najat Al Saghira"
+        },
+        {
+            "name": "Ayazono Live",
+            "release_date": "1977-01-13",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732e4b83eab187d8c64d7c2ddd",
+            "track_url": "",
+            "id": 10961,
+            "artist": "Najat Al Saghira"
+        },
+        {
+            "name": "Saal Feya",
+            "release_date": "1974-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b27310f39a9ab1b73b3cfd29b2cd",
+            "track_url": "",
+            "id": 10962,
+            "artist": "Najat Al Saghira"
+        },
+        {
+            "name": "Eish Maaya",
+            "release_date": "1972-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273911d176630b48643b6ebc558",
+            "track_url": "",
+            "id": 10963,
+            "artist": "Najat Al Saghira"
+        },
+        {
+            "name": "ياهاجر بحبك",
+            "release_date": "1972-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f815bc817966eda07f4ec444",
+            "track_url": "",
+            "id": 10964,
+            "artist": "Najat Al Saghira"
+        },
+        {
+            "name": "يا حنية",
+            "release_date": "1972-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735594dbcb9b613b4963a7c606",
+            "track_url": "",
+            "id": 10965,
+            "artist": "Najat Al Saghira"
+        },
+        {
+            "name": "وحياة ابنك",
+            "release_date": "1972-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737e7d65cc5dd238ba97d5b706",
+            "track_url": "",
+            "id": 10966,
+            "artist": "Najat Al Saghira"
+        },
+        {
+            "name": "وحدية",
+            "release_date": "1972-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d9271f92fab4969bc7214b89",
+            "track_url": "",
+            "id": 10967,
+            "artist": "Najat Al Saghira"
+        },
+        {
+            "name": "نادانى الليل",
+            "release_date": "1972-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735a134f1329322df9481dce4e",
+            "track_url": "",
+            "id": 10968,
+            "artist": "Najat Al Saghira"
+        },
+        {
+            "name": "موسبقى",
+            "release_date": "1972-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273cc79465c2c7bcd55df6a95c3",
+            "track_url": "",
+            "id": 10969,
+            "artist": "Najat Al Saghira"
+        },
+        {
+            "name": "موال العشاق",
+            "release_date": "1972-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27391973fb2b66a4174a44deb11",
+            "track_url": "",
+            "id": 10970,
+            "artist": "Najat Al Saghira"
+        },
+        {
+            "name": "مل تطنش يا حبيبى",
+            "release_date": "1972-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27373079aca5721b698d58a7625",
+            "track_url": "",
+            "id": 10971,
+            "artist": "Najat Al Saghira"
+        },
+        {
+            "name": "مش هاين اودعك",
+            "release_date": "1972-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27386bf2d57bb7f1c903a071591",
+            "track_url": "",
+            "id": 10972,
+            "artist": "Najat Al Saghira"
+        },
+        {
+            "name": "مش ممكن اسمحك",
+            "release_date": "1972-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ad5625ab3b2d869789b916eb",
+            "track_url": "",
+            "id": 10973,
+            "artist": "Najat Al Saghira"
+        },
+        {
+            "name": "ماتسألنيش",
+            "release_date": "1972-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27348ee30cabe5264b92ef15432",
+            "track_url": "",
+            "id": 10974,
+            "artist": "Najat Al Saghira"
+        },
+        {
+            "name": "ما ينشقناش عن بعضنا",
+            "release_date": "1972-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27380f6f9519a8f87b65ffb09ea",
+            "track_url": "",
+            "id": 10975,
+            "artist": "Najat Al Saghira"
+        },
+        {
+            "name": "سلم لى عليه",
+            "release_date": "1972-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732223d93ccb298ada85d65067",
+            "track_url": "",
+            "id": 10976,
+            "artist": "Najat Al Saghira"
+        },
+        {
+            "name": "رباعيات الخيام",
+            "release_date": "1972-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730f9c6bde15a67363943dc35d",
+            "track_url": "",
+            "id": 10977,
+            "artist": "Najat Al Saghira"
+        },
+        {
+            "name": "ليله من الليالى",
+            "release_date": "1971-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737c610d870cb3806bb5cb9fa0",
+            "track_url": "",
+            "id": 10978,
+            "artist": "Najat Al Saghira"
+        },
+        {
+            "name": "ليه خلتنى احبك",
+            "release_date": "1970-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27387f2de74fdc0e42459740b55",
+            "track_url": "",
+            "id": 10979,
+            "artist": "Najat Al Saghira"
+        },
+        {
+            "name": "لو بتحبينى",
+            "release_date": "1970-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a86a4c60de9732b60d865201",
+            "track_url": "",
+            "id": 10980,
+            "artist": "Najat Al Saghira"
+        },
+        {
+            "name": "قصة هوايا",
+            "release_date": "1970-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732d3491422fc69f45657b73f4",
+            "track_url": "",
+            "id": 10981,
+            "artist": "Najat Al Saghira"
+        },
+        {
+            "name": "قدرة تنام",
+            "release_date": "1970-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273aad67af9d553559561ed13a0",
+            "track_url": "",
+            "id": 10982,
+            "artist": "Najat Al Saghira"
+        },
+        {
+            "name": "فى يوم واحد",
+            "release_date": "1970-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735fb67cf0737b04065ddd8865",
+            "track_url": "",
+            "id": 10983,
+            "artist": "Najat Al Saghira"
+        },
+        {
+            "name": "دوبنى دوب",
+            "release_date": "1970-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731592842e2a0d3a07d900eddc",
+            "track_url": "",
+            "id": 10984,
+            "artist": "Najat Al Saghira"
+        },
+        {
+            "name": "حد قالك",
+            "release_date": "1970-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273654af0d4fb19b32b63299680",
+            "track_url": "",
+            "id": 10985,
+            "artist": "Najat Al Saghira"
+        },
+        {
+            "name": "حبيبى سامعنى",
+            "release_date": "1970-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739dc82e9ab40aa67cda6fd2e5",
+            "track_url": "",
+            "id": 10986,
+            "artist": "Najat Al Saghira"
+        },
+        {
+            "name": "انت اللى ظالم",
+            "release_date": "1970-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273336b9ea25faa030069d8b43f",
+            "track_url": "",
+            "id": 10987,
+            "artist": "Najat Al Saghira"
+        },
+        {
+            "name": "انا ذكرى",
+            "release_date": "1970-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27333ae980ba49ba3b0143cb6f1",
+            "track_url": "",
+            "id": 10988,
+            "artist": "Najat Al Saghira"
+        },
+        {
+            "name": "انا خالى",
+            "release_date": "1970-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273802be8094d8e042508fa942a",
+            "track_url": "",
+            "id": 10989,
+            "artist": "Najat Al Saghira"
+        },
+        {
+            "name": "الشوك ماشى",
+            "release_date": "1970-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b497b6fb3f4d7624cc99149c",
+            "track_url": "",
+            "id": 10990,
+            "artist": "Najat Al Saghira"
+        },
+        {
+            "name": "الشمس مروحة",
+            "release_date": "1970-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27359bf5e84d3807f2bf50d45a2",
+            "track_url": "",
+            "id": 10991,
+            "artist": "Najat Al Saghira"
+        },
+        {
+            "name": "اسهر وانشغل",
+            "release_date": "1970-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273256b1b4b7e4fdcd17a685513",
+            "track_url": "",
+            "id": 10992,
+            "artist": "Najat Al Saghira"
+        },
+        {
+            "name": "اخرة جرحى ايه",
+            "release_date": "1970-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c32b6007586dba64c2dc37b4",
+            "track_url": "",
+            "id": 10993,
+            "artist": "Najat Al Saghira"
+        },
+        {
+            "name": "Makdarch Ansak Live",
+            "release_date": "1967-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273054f0ce7641c0ac32c8f2b9c",
+            "track_url": "",
+            "id": 10994,
+            "artist": "Najat Al Saghira"
+        },
+        {
+            "name": "Nafs El Soaal",
+            "release_date": "1961-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d8d9fc758cb2e645b41e5624",
+            "track_url": "",
+            "id": 10995,
+            "artist": "Najat Al Saghira"
+        },
+        {
+            "name": "Matha Aqoul Live",
+            "release_date": "1961-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e4ffffbc30fec37e1fc41be0",
+            "track_url": "",
+            "id": 10996,
+            "artist": "Najat Al Saghira"
+        },
+        {
+            "name": "Ela Habiby",
+            "release_date": "1961-03-16",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d1311e8fa3f60cf10d9a042a",
+            "track_url": "",
+            "id": 10997,
+            "artist": "Najat Al Saghira"
+        },
+        {
+            "name": "Asaalak Al Rahel Live",
+            "release_date": "1961-03-16",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738c4a9ecc276f4605995b3b89",
+            "track_url": "",
+            "id": 10998,
+            "artist": "Najat Al Saghira"
+        },
+        {
+            "name": "اوصفولي الحب",
+            "release_date": "1954",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731d6a9909ed3d9868ffc1ad1b",
+            "track_url": "",
+            "id": 10999,
+            "artist": "Najat Al Saghira"
+        }
+    ],
+    "popular_tracks": [
+        {
+            "name": "Ana Bashaa El Bahr",
+            "track_url": "",
+            "duration_ms": 329104,
+            "image": "https://i.scdn.co/image/ab67616d0000b27355dfe825df4bfd51d13d7f15",
+            "id": 11000,
+            "artist": "Najat Al Saghira"
+        },
+        {
+            "name": "Oyon El Alb Live Record",
+            "track_url": "",
+            "duration_ms": 1184040,
+            "image": "https://i.scdn.co/image/ab67616d0000b27355dfe825df4bfd51d13d7f15",
+            "id": 11001,
+            "artist": "Najat Al Saghira"
+        },
+        {
+            "name": "Bahlam Maak",
+            "track_url": "",
+            "duration_ms": 229865,
+            "image": "https://i.scdn.co/image/ab67616d0000b27355dfe825df4bfd51d13d7f15",
+            "id": 11002,
+            "artist": "Najat Al Saghira"
+        },
+        {
+            "name": "Ya Mesafer Wahdak",
+            "track_url": "",
+            "duration_ms": 662009,
+            "image": "https://i.scdn.co/image/ab67616d0000b273c04b76f0efcb71ca5772b6e0",
+            "id": 11003,
+            "artist": "Najat Al Saghira"
+        },
+        {
+            "name": "El Arieb Menk",
+            "track_url": "",
+            "duration_ms": 725930,
+            "image": "https://i.scdn.co/image/ab67616d0000b27325574ca9db073994539147dd",
+            "id": 11004,
+            "artist": "Najat Al Saghira"
+        },
+        {
+            "name": "Ah Law Teeraf",
+            "track_url": "",
+            "duration_ms": 504438,
+            "image": "https://i.scdn.co/image/ab67616d0000b273f3d2d36ab25456f8d192773e",
+            "id": 11005,
+            "artist": "Najat Al Saghira"
+        },
+        {
+            "name": "Ala Anta",
+            "track_url": "",
+            "duration_ms": 540000,
+            "image": "https://i.scdn.co/image/ab67616d0000b2734d5139e430438363179f7e9d",
+            "id": 11006,
+            "artist": "Najat Al Saghira"
+        },
+        {
+            "name": "Al Yady",
+            "track_url": "",
+            "duration_ms": 514678,
+            "image": "https://i.scdn.co/image/ab67616d0000b27325574ca9db073994539147dd",
+            "id": 11007,
+            "artist": "Najat Al Saghira"
+        },
+        {
+            "name": "Ana Bastanak Live Record",
+            "track_url": "",
+            "duration_ms": 987129,
+            "image": "https://i.scdn.co/image/ab67616d0000b273f3d2d36ab25456f8d192773e",
+            "id": 11008,
+            "artist": "Najat Al Saghira"
+        },
+        {
+            "name": "El Tear El Mesafer",
+            "track_url": "",
+            "duration_ms": 578783,
+            "image": "https://i.scdn.co/image/ab67616d0000b273f3d2d36ab25456f8d192773e",
+            "id": 11009,
+            "artist": "Najat Al Saghira"
+        }
+    ]
+}

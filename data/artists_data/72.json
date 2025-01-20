@@ -1,0 +1,647 @@
+{
+    "artist": {
+        "id": "9586",
+        "name": "Hassan Shakosh",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb15d262f668e9dd1b95ccae92",
+        "background_image": "https://i.scdn.co/image/ab6761610000517415d262f668e9dd1b95ccae92"
+    },
+    "albums": [
+        {
+            "name": "Mahraganat Hassan Shakosh",
+            "release_date": "2019-01-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b27353789eb3f891f59bde5755aa",
+            "track_url": "https://open.spotify.com/album/3N4tlkh9LI8BiYf41A4gg5",
+            "tracks": [
+                {
+                    "name": "Ya Gada3",
+                    "track_url": "",
+                    "duration_ms": 237022,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27353789eb3f891f59bde5755aa",
+                    "id": 9588,
+                    "artist": "Hassan Shakosh"
+                },
+                {
+                    "name": "Mahragan Saheb Gaban",
+                    "track_url": "",
+                    "duration_ms": 206929,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27353789eb3f891f59bde5755aa",
+                    "id": 9589,
+                    "artist": "Hassan Shakosh"
+                },
+                {
+                    "name": "Esma We Nasseb",
+                    "track_url": "",
+                    "duration_ms": 281973,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27353789eb3f891f59bde5755aa",
+                    "id": 9590,
+                    "artist": "Hassan Shakosh"
+                },
+                {
+                    "name": "Mahragan Shabah El Magal",
+                    "track_url": "",
+                    "duration_ms": 170593,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27353789eb3f891f59bde5755aa",
+                    "id": 9591,
+                    "artist": "Hassan Shakosh"
+                },
+                {
+                    "name": "Bano Ala Aslokom",
+                    "track_url": "",
+                    "duration_ms": 304702,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27353789eb3f891f59bde5755aa",
+                    "id": 9592,
+                    "artist": "Hassan Shakosh"
+                },
+                {
+                    "name": "Mahragan Ala Bab Allah",
+                    "track_url": "",
+                    "duration_ms": 262002,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27353789eb3f891f59bde5755aa",
+                    "id": 9593,
+                    "artist": "Hassan Shakosh"
+                },
+                {
+                    "name": "Mahragan Kazanofa",
+                    "track_url": "",
+                    "duration_ms": 235974,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27353789eb3f891f59bde5755aa",
+                    "id": 9594,
+                    "artist": "Hassan Shakosh"
+                },
+                {
+                    "name": "Mahragan El Hafla Ebtadet",
+                    "track_url": "",
+                    "duration_ms": 217401,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27353789eb3f891f59bde5755aa",
+                    "id": 9595,
+                    "artist": "Hassan Shakosh"
+                },
+                {
+                    "name": "Damet Le Meen",
+                    "track_url": "",
+                    "duration_ms": 293547,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27353789eb3f891f59bde5755aa",
+                    "id": 9596,
+                    "artist": "Hassan Shakosh"
+                },
+                {
+                    "name": "Mahragan Mahadesh Ady",
+                    "track_url": "",
+                    "duration_ms": 224865,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27353789eb3f891f59bde5755aa",
+                    "id": 9597,
+                    "artist": "Hassan Shakosh"
+                },
+                {
+                    "name": "Mahragan Ked El Nesa",
+                    "track_url": "",
+                    "duration_ms": 214688,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27353789eb3f891f59bde5755aa",
+                    "id": 9598,
+                    "artist": "Hassan Shakosh"
+                },
+                {
+                    "name": "Mahragan Reda El Waleden",
+                    "track_url": "",
+                    "duration_ms": 295442,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27353789eb3f891f59bde5755aa",
+                    "id": 9599,
+                    "artist": "Hassan Shakosh"
+                },
+                {
+                    "name": "Mahragan Ashanek",
+                    "track_url": "",
+                    "duration_ms": 212399,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27353789eb3f891f59bde5755aa",
+                    "id": 9600,
+                    "artist": "Hassan Shakosh"
+                },
+                {
+                    "name": "Mahragan El Plage",
+                    "track_url": "",
+                    "duration_ms": 224865,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27353789eb3f891f59bde5755aa",
+                    "id": 9601,
+                    "artist": "Hassan Shakosh"
+                },
+                {
+                    "name": "Mahragan Damet Lemeen 02",
+                    "track_url": "",
+                    "duration_ms": 300134,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27353789eb3f891f59bde5755aa",
+                    "id": 9602,
+                    "artist": "Hassan Shakosh"
+                },
+                {
+                    "name": "Mahragan El Moled",
+                    "track_url": "",
+                    "duration_ms": 270887,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27353789eb3f891f59bde5755aa",
+                    "id": 9603,
+                    "artist": "Hassan Shakosh"
+                },
+                {
+                    "name": "Mahragan Kolo Mashy 2",
+                    "track_url": "",
+                    "duration_ms": 272135,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27353789eb3f891f59bde5755aa",
+                    "id": 9604,
+                    "artist": "Hassan Shakosh"
+                },
+                {
+                    "name": "Mahragan El Haka B Shaka",
+                    "track_url": "",
+                    "duration_ms": 258302,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27353789eb3f891f59bde5755aa",
+                    "id": 9605,
+                    "artist": "Hassan Shakosh"
+                },
+                {
+                    "name": "Mahragan Ma3moly Amal",
+                    "track_url": "",
+                    "duration_ms": 295191,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27353789eb3f891f59bde5755aa",
+                    "id": 9606,
+                    "artist": "Hassan Shakosh"
+                },
+                {
+                    "name": "Mahragan Arset Wedn",
+                    "track_url": "",
+                    "duration_ms": 260147,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27353789eb3f891f59bde5755aa",
+                    "id": 9607,
+                    "artist": "Hassan Shakosh"
+                }
+            ],
+            "id": 9587
+        }
+    ],
+    "singles": [
+        {
+            "name": "اللى خانو فى عينى ماتو",
+            "release_date": "2024-12-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d98d2516f2160893e3ceec42",
+            "track_url": "",
+            "id": 9608,
+            "artist": "Hassan Shakosh"
+        },
+        {
+            "name": "قطر جيلك",
+            "release_date": "2024-06-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b27322d87cb80a223573304a48e6",
+            "track_url": "",
+            "id": 9609,
+            "artist": "Hassan Shakosh"
+        },
+        {
+            "name": "فاصل ونعود (يعلم ربنا بتغيرو مننا)",
+            "release_date": "2024-06-20",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d9865bb2bb1cc5102ee39704",
+            "track_url": "",
+            "id": 9610,
+            "artist": "Hassan Shakosh"
+        },
+        {
+            "name": "ولاد موت",
+            "release_date": "2024-06-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b423aabf7cfbaf19c8692146",
+            "track_url": "",
+            "id": 9611,
+            "artist": "Hassan Shakosh"
+        },
+        {
+            "name": "خصمي رن عليا طلبني (رقم واحد بسوق مبعتمدش)",
+            "release_date": "2024-05-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b273469398083ec57b83175a2083",
+            "track_url": "",
+            "id": 9612,
+            "artist": "Hassan Shakosh"
+        },
+        {
+            "name": "3am Gilo (Tab Khod Wla Enta Ma Bet3rafsh Tsed)",
+            "release_date": "2024-05-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a755b93cb3877cdddc7b00cd",
+            "track_url": "",
+            "id": 9613,
+            "artist": "Hassan Shakosh"
+        },
+        {
+            "name": "Main Palestine Hoon",
+            "release_date": "2024-04-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731513b4e9daeefcaacb3a7ea3",
+            "track_url": "",
+            "id": 9614,
+            "artist": "Hassan Shakosh"
+        },
+        {
+            "name": "Ana Fi El Balad 3odma",
+            "release_date": "2024-04-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b27307874b66b37c98430c8e9ea1",
+            "track_url": "",
+            "id": 9615,
+            "artist": "Hassan Shakosh"
+        },
+        {
+            "name": "Sohab Mlaaen (Malaksh Makan Khesert Dalana)",
+            "release_date": "2023-11-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736b2edf844f0eaa390f576c7a",
+            "track_url": "",
+            "id": 9616,
+            "artist": "Hassan Shakosh"
+        },
+        {
+            "name": "في داهية",
+            "release_date": "2023-08-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b273db3a81379595afaf170f78ee",
+            "track_url": "",
+            "id": 9617,
+            "artist": "Hassan Shakosh"
+        },
+        {
+            "name": "انتي الترند (لفيت العالم)",
+            "release_date": "2023-08-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b009eae90fa04ed66b6abf3e",
+            "track_url": "",
+            "id": 9618,
+            "artist": "Hassan Shakosh"
+        },
+        {
+            "name": "Fi Alby Gerah",
+            "release_date": "2023-06-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b27379056ff92fc2f50ae80a4030",
+            "track_url": "",
+            "id": 9619,
+            "artist": "Hassan Shakosh"
+        },
+        {
+            "name": "ظلمونى ( انا اسد الغابه انتو غلابه)",
+            "release_date": "2023-03-03",
+            "image": "https://i.scdn.co/image/ab67616d0000b27388990c379d71a2a140583288",
+            "track_url": "",
+            "id": 9620,
+            "artist": "Hassan Shakosh"
+        },
+        {
+            "name": "كلك غرام",
+            "release_date": "2022-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273170ee23aecbf3de9b0f57f89",
+            "track_url": "",
+            "id": 9621,
+            "artist": "Hassan Shakosh"
+        },
+        {
+            "name": "Di Halawa",
+            "release_date": "2022-10-06",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e13f87117a42393457c20e24",
+            "track_url": "",
+            "id": 9622,
+            "artist": "Hassan Shakosh"
+        },
+        {
+            "name": "Henely",
+            "release_date": "2022-08-22",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a40281bd640ebc9f1ecbefe7",
+            "track_url": "",
+            "id": 9623,
+            "artist": "Hassan Shakosh"
+        },
+        {
+            "name": "Good Morning Baby",
+            "release_date": "2022-05-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27381cb4f7527465d4ac9c785d7",
+            "track_url": "",
+            "id": 9624,
+            "artist": "Hassan Shakosh"
+        },
+        {
+            "name": "Omy El Aziza",
+            "release_date": "2022-03-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b27367bdcec88fe5b3a6e92d644e",
+            "track_url": "",
+            "id": 9625,
+            "artist": "Hassan Shakosh"
+        },
+        {
+            "name": "Weyyak",
+            "release_date": "2021-10-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b27363b19c73e2509c0addf77c92",
+            "track_url": "",
+            "id": 9626,
+            "artist": "Hassan Shakosh"
+        },
+        {
+            "name": "أنا العريس",
+            "release_date": "2021-06-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730a3da3c5bc330c01aad7456d",
+            "track_url": "",
+            "id": 9627,
+            "artist": "Hassan Shakosh"
+        },
+        {
+            "name": "Habibty",
+            "release_date": "2021-05-26",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d6f2f9a2ea5597b58be12ac7",
+            "track_url": "",
+            "id": 9628,
+            "artist": "Hassan Shakosh"
+        },
+        {
+            "name": "Mahragan Adl3y Ya Moza",
+            "release_date": "2021-03-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731cb30920eeaf74b72f20240e",
+            "track_url": "",
+            "id": 9629,
+            "artist": "Hassan Shakosh"
+        },
+        {
+            "name": "ناس ملاعين",
+            "release_date": "2021-02-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b27342149af8f3aa5202f7608639",
+            "track_url": "",
+            "id": 9630,
+            "artist": "Hassan Shakosh"
+        },
+        {
+            "name": "مقسطاتي (راح زمن الكاش)",
+            "release_date": "2020-12-17",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730fa0b7041baa22667c5b247d",
+            "track_url": "",
+            "id": 9631,
+            "artist": "Hassan Shakosh"
+        },
+        {
+            "name": "Kolo Rah",
+            "release_date": "2020-11-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d192150821c23d58d1d63380",
+            "track_url": "",
+            "id": 9632,
+            "artist": "Hassan Shakosh"
+        },
+        {
+            "name": "Salka",
+            "release_date": "2020-10-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b273af841ecd60a22332b0d8da50",
+            "track_url": "",
+            "id": 9633,
+            "artist": "Hassan Shakosh"
+        },
+        {
+            "name": "Baskotaya M2armesha",
+            "release_date": "2020-10-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730d79a411981dd08dd7add1c4",
+            "track_url": "",
+            "id": 9634,
+            "artist": "Hassan Shakosh"
+        },
+        {
+            "name": "لغبطيطا",
+            "release_date": "2020-08-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a8d8c83929ea4d7e25337778",
+            "track_url": "",
+            "id": 9635,
+            "artist": "Hassan Shakosh"
+        },
+        {
+            "name": "Share' Ayamy (Music from El Prince TV Series)",
+            "release_date": "2020-05-29",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b9b5c85b8116ada52df3dfb5",
+            "track_url": "",
+            "id": 9636,
+            "artist": "Hassan Shakosh"
+        },
+        {
+            "name": "Mahragan Chocolata Sayha Gowa Cake",
+            "release_date": "2020-05-27",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734e1f49541087b919f53c2170",
+            "track_url": "",
+            "id": 9637,
+            "artist": "Hassan Shakosh"
+        },
+        {
+            "name": "Ana El Big",
+            "release_date": "2020-05-27",
+            "image": "https://i.scdn.co/image/ab67616d0000b27304dc4f2d1c4d808ccdba9d02",
+            "track_url": "",
+            "id": 9638,
+            "artist": "Hassan Shakosh"
+        },
+        {
+            "name": "Mahragan Bent El Geran (Club Mix)",
+            "release_date": "2020-05-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e1bd6aef6b34cad3173ca86f",
+            "track_url": "",
+            "id": 9639,
+            "artist": "Hassan Shakosh"
+        },
+        {
+            "name": "Mahragan Ya Crona Ya Bent El Magnouna",
+            "release_date": "2020-05-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27386c1758c87b88eee42b2dbd3",
+            "track_url": "",
+            "id": 9640,
+            "artist": "Hassan Shakosh"
+        },
+        {
+            "name": "Geshna El Abyad",
+            "release_date": "2020-04-13",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738d7e5de833380de9e35562f4",
+            "track_url": "",
+            "id": 9641,
+            "artist": "Hassan Shakosh"
+        },
+        {
+            "name": "شارع ايامي",
+            "release_date": "2020-03-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b273cd64f013b47fe039c736ae9f",
+            "track_url": "",
+            "id": 9642,
+            "artist": "Hassan Shakosh"
+        },
+        {
+            "name": "مهرجان بونبونى ساقط فى نوتيلا",
+            "release_date": "2020-03-12",
+            "image": "https://i.scdn.co/image/ab67616d0000b27339d6997e0cc42685fba51ebe",
+            "track_url": "",
+            "id": 9643,
+            "artist": "Hassan Shakosh"
+        },
+        {
+            "name": "Bonbony Sa2et Fi Nutella",
+            "release_date": "2020-03-05",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e120f196e9345aab7374d837",
+            "track_url": "",
+            "id": 9644,
+            "artist": "Hassan Shakosh"
+        },
+        {
+            "name": "Oud Al batal",
+            "release_date": "2020-03-03",
+            "image": "https://i.scdn.co/image/ab67616d0000b273697d105dd1bee123e3ded695",
+            "track_url": "",
+            "id": 9645,
+            "artist": "Hassan Shakosh"
+        },
+        {
+            "name": "Mahragan Albe Elly Kan Mabsout",
+            "release_date": "2020-02-13",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734f615f95722072c0b9463a38",
+            "track_url": "",
+            "id": 9646,
+            "artist": "Hassan Shakosh"
+        },
+        {
+            "name": "Mahragan Bent El Geran",
+            "release_date": "2020-01-27",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e1c9f12fd1a957b7f8954bf9",
+            "track_url": "",
+            "id": 9647,
+            "artist": "Hassan Shakosh"
+        },
+        {
+            "name": "Ana Einy Ala El Tatoo",
+            "release_date": "2019-09-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27339a1abbd76ab30c62a2b0ea6",
+            "track_url": "",
+            "id": 9648,
+            "artist": "Hassan Shakosh"
+        },
+        {
+            "name": "Mahragan Ana Alby Dab",
+            "release_date": "2019-07-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e6d07917e41791e928faf317",
+            "track_url": "",
+            "id": 9649,
+            "artist": "Hassan Shakosh"
+        },
+        {
+            "name": "Leh Ya Alby",
+            "release_date": "2019-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732ab0e5dad7fcc02424be1ddf",
+            "track_url": "",
+            "id": 9650,
+            "artist": "Hassan Shakosh"
+        },
+        {
+            "name": "الراجل المظبوط",
+            "release_date": "2017-07-05",
+            "image": "https://i.scdn.co/image/ab67616d0000b27388e428e60da531a6de03d3a3",
+            "track_url": "",
+            "id": 9651,
+            "artist": "Hassan Shakosh"
+        },
+        {
+            "name": "اسمك ايه",
+            "release_date": "2017-06-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739f2b36558168f42814baefb8",
+            "track_url": "",
+            "id": 9652,
+            "artist": "Hassan Shakosh"
+        },
+        {
+            "name": "أغاني حسن شاكوش",
+            "release_date": "2016-11-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b273494a9f785a1423598ce606d0",
+            "track_url": "",
+            "id": 9653,
+            "artist": "Hassan Shakosh"
+        },
+        {
+            "name": "احنا بتوع ربنا",
+            "release_date": "2016-07-17",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732a982a3054c0ef594b37232e",
+            "track_url": "",
+            "id": 9654,
+            "artist": "Hassan Shakosh"
+        },
+        {
+            "name": "احنا بتوع ربنا",
+            "release_date": "2016-06-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737b565924ad3b62409c0d059f",
+            "track_url": "",
+            "id": 9655,
+            "artist": "Hassan Shakosh"
+        }
+    ],
+    "popular_tracks": [
+        {
+            "name": "Mahragan Bent El Geran",
+            "track_url": "",
+            "duration_ms": 183027,
+            "image": "https://i.scdn.co/image/ab67616d0000b273e1c9f12fd1a957b7f8954bf9",
+            "id": 9656,
+            "artist": "Hassan Shakosh"
+        },
+        {
+            "name": "Habibty",
+            "track_url": "",
+            "duration_ms": 182181,
+            "image": "https://i.scdn.co/image/ab67616d0000b273d6f2f9a2ea5597b58be12ac7",
+            "id": 9657,
+            "artist": "Hassan Shakosh"
+        },
+        {
+            "name": "لغبطيطا",
+            "track_url": "",
+            "duration_ms": 190222,
+            "image": "https://i.scdn.co/image/ab67616d0000b273a8d8c83929ea4d7e25337778",
+            "id": 9658,
+            "artist": "Hassan Shakosh"
+        },
+        {
+            "name": "Oud Al batal",
+            "track_url": "",
+            "duration_ms": 192122,
+            "image": "https://i.scdn.co/image/ab67616d0000b273697d105dd1bee123e3ded695",
+            "id": 9659,
+            "artist": "Hassan Shakosh"
+        },
+        {
+            "name": "Baskotaya M2armesha",
+            "track_url": "",
+            "duration_ms": 223529,
+            "image": "https://i.scdn.co/image/ab67616d0000b2730d79a411981dd08dd7add1c4",
+            "id": 9660,
+            "artist": "Hassan Shakosh"
+        },
+        {
+            "name": "Mahragan Albe Elly Kan Mabsout",
+            "track_url": "",
+            "duration_ms": 376030,
+            "image": "https://i.scdn.co/image/ab67616d0000b2734f615f95722072c0b9463a38",
+            "id": 9661,
+            "artist": "Hassan Shakosh"
+        },
+        {
+            "name": "3am Gilo (Tab Khod Wla Enta Ma Bet3rafsh Tsed)",
+            "track_url": "",
+            "duration_ms": 158918,
+            "image": "https://i.scdn.co/image/ab67616d0000b273a755b93cb3877cdddc7b00cd",
+            "id": 9662,
+            "artist": "Hassan Shakosh"
+        },
+        {
+            "name": "Salka",
+            "track_url": "",
+            "duration_ms": 189695,
+            "image": "https://i.scdn.co/image/ab67616d0000b273af841ecd60a22332b0d8da50",
+            "id": 9663,
+            "artist": "Hassan Shakosh"
+        },
+        {
+            "name": "Ana Fi El Balad 3odma",
+            "track_url": "",
+            "duration_ms": 215719,
+            "image": "https://i.scdn.co/image/ab67616d0000b27307874b66b37c98430c8e9ea1",
+            "id": 9664,
+            "artist": "Hassan Shakosh"
+        },
+        {
+            "name": "Ana Einy Ala El Tatoo",
+            "track_url": "",
+            "duration_ms": 379739,
+            "image": "https://i.scdn.co/image/ab67616d0000b27339a1abbd76ab30c62a2b0ea6",
+            "id": 9665,
+            "artist": "Hassan Shakosh"
+        }
+    ]
+}

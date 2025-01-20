@@ -1,0 +1,551 @@
+{
+    "artist": {
+        "id": "8217",
+        "name": "Reda El Bahrawy",
+        "image": "https://i.scdn.co/image/ab67616d0000b27341286211fc428973354ebef8",
+        "background_image": "https://i.scdn.co/image/ab67616d00001e0241286211fc428973354ebef8"
+    },
+    "albums": [
+        {
+            "name": "Ehna Fein",
+            "release_date": "2019-05-22",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736f53866133e11be24f0e96f5",
+            "track_url": "https://open.spotify.com/album/0ptEOWuI5avWQIjmtgY7RZ",
+            "tracks": [
+                {
+                    "name": "Ehna Fein",
+                    "track_url": "",
+                    "duration_ms": 345052,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736f53866133e11be24f0e96f5",
+                    "id": 8219,
+                    "artist": "Reda El Bahrawy"
+                },
+                {
+                    "name": "El Moled",
+                    "track_url": "",
+                    "duration_ms": 573441,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736f53866133e11be24f0e96f5",
+                    "id": 8220,
+                    "artist": "Reda El Bahrawy"
+                },
+                {
+                    "name": "Taebt Men El Bokaa",
+                    "track_url": "",
+                    "duration_ms": 428827,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736f53866133e11be24f0e96f5",
+                    "id": 8221,
+                    "artist": "Reda El Bahrawy"
+                },
+                {
+                    "name": "Erham Ya Zaman",
+                    "track_url": "",
+                    "duration_ms": 306913,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736f53866133e11be24f0e96f5",
+                    "id": 8222,
+                    "artist": "Reda El Bahrawy"
+                },
+                {
+                    "name": "Matsadaosh",
+                    "track_url": "",
+                    "duration_ms": 180009,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736f53866133e11be24f0e96f5",
+                    "id": 8223,
+                    "artist": "Reda El Bahrawy"
+                },
+                {
+                    "name": "El Werth",
+                    "track_url": "",
+                    "duration_ms": 306520,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736f53866133e11be24f0e96f5",
+                    "id": 8224,
+                    "artist": "Reda El Bahrawy"
+                }
+            ],
+            "id": 8218
+        }
+    ],
+    "singles": [
+        {
+            "name": "El Shoghlna Khadet Hawa",
+            "release_date": "2024-12-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732ffa0c01df487606528c3a51",
+            "track_url": "",
+            "id": 8225,
+            "artist": "Reda El Bahrawy"
+        },
+        {
+            "name": "ليه بالله عليكي طولتي الغياب (Live)",
+            "release_date": "2024-12-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735a271ce1237f16ce3b97183e",
+            "track_url": "",
+            "id": 8226,
+            "artist": "Reda El Bahrawy"
+        },
+        {
+            "name": "El Volt El 3aly",
+            "release_date": "2024-10-20",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738617d5c95f043ef631223896",
+            "track_url": "",
+            "id": 8227,
+            "artist": "Reda El Bahrawy"
+        },
+        {
+            "name": "يا حبر بدرى لسه",
+            "release_date": "2024-09-05",
+            "image": "https://i.scdn.co/image/ab67616d0000b273abd581b8bd4baeea64427af6",
+            "track_url": "",
+            "id": 8228,
+            "artist": "Reda El Bahrawy"
+        },
+        {
+            "name": "اعمل لايك علشان هعمر المايك",
+            "release_date": "2024-08-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f44b535d6df0b6e6b03153af",
+            "track_url": "",
+            "id": 8229,
+            "artist": "Reda El Bahrawy"
+        },
+        {
+            "name": "Law Gay Fe Seet",
+            "release_date": "2024-07-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b273196a01a1dc1c6a725ce5edf4",
+            "track_url": "",
+            "id": 8230,
+            "artist": "Reda El Bahrawy"
+        },
+        {
+            "name": "Aal Doghrey",
+            "release_date": "2024-06-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b27341286211fc428973354ebef8",
+            "track_url": "",
+            "id": 8231,
+            "artist": "Reda El Bahrawy"
+        },
+        {
+            "name": "Ana El Wahsh Wmabrayahsh",
+            "release_date": "2024-05-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738c1cacbe1bef4864de4f861e",
+            "track_url": "",
+            "id": 8232,
+            "artist": "Reda El Bahrawy"
+        },
+        {
+            "name": "Reda El Bahrawy Men Bernamag Kalam El Nas",
+            "release_date": "2024-04-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b273bf9fb73af4bca66195d77cb8",
+            "track_url": "",
+            "id": 8233,
+            "artist": "Reda El Bahrawy"
+        },
+        {
+            "name": "مستكترين فينا",
+            "release_date": "2024-04-26",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b7e9c65b8429f00b9d08d8ef",
+            "track_url": "",
+            "id": 8234,
+            "artist": "Reda El Bahrawy"
+        },
+        {
+            "name": "توب الجدع",
+            "release_date": "2024-04-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b27380e82c1d4d9718bdd72b4d2e",
+            "track_url": "",
+            "id": 8235,
+            "artist": "Reda El Bahrawy"
+        },
+        {
+            "name": "Nas Khasisa",
+            "release_date": "2024-04-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b273bb56ac5853564463ca5f332f",
+            "track_url": "",
+            "id": 8236,
+            "artist": "Reda El Bahrawy"
+        },
+        {
+            "name": "خفي حبه (تتر مسلسل محارب)",
+            "release_date": "2024-03-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b273fcdf6d4b1ef5f0b5cdaa6f7e",
+            "track_url": "",
+            "id": 8237,
+            "artist": "Reda El Bahrawy"
+        },
+        {
+            "name": "El Mal3ab Wase3",
+            "release_date": "2024-02-14",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732e781c944080c8dc7d901c2e",
+            "track_url": "",
+            "id": 8238,
+            "artist": "Reda El Bahrawy"
+        },
+        {
+            "name": "Ya Sater El Str",
+            "release_date": "2024-01-20",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736ec0082a486a7f9165bad55f",
+            "track_url": "",
+            "id": 8239,
+            "artist": "Reda El Bahrawy"
+        },
+        {
+            "name": "Ammal Tqoul Ana W Ana Ana El Hadota",
+            "release_date": "2023-12-17",
+            "image": "https://i.scdn.co/image/ab67616d0000b27338438e166fb05856a07d8be4",
+            "track_url": "",
+            "id": 8240,
+            "artist": "Reda El Bahrawy"
+        },
+        {
+            "name": "مهرجان جيت ع البايظ هتكبرها عليا",
+            "release_date": "2023-12-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b27309a96982444a0b2765bab1af",
+            "track_url": "",
+            "id": 8241,
+            "artist": "Reda El Bahrawy"
+        },
+        {
+            "name": "راح اللي راح",
+            "release_date": "2023-11-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27386bc2bd8be81eef9e38f8dc4",
+            "track_url": "",
+            "id": 8242,
+            "artist": "Reda El Bahrawy"
+        },
+        {
+            "name": "Medly 2023",
+            "release_date": "2023-10-16",
+            "image": "https://i.scdn.co/image/ab67616d0000b273704553026fbbbb5775bdedc5",
+            "track_url": "",
+            "id": 8243,
+            "artist": "Reda El Bahrawy"
+        },
+        {
+            "name": "غلطه مين",
+            "release_date": "2023-08-17",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734b1bd96711a666dadfd68881",
+            "track_url": "",
+            "id": 8244,
+            "artist": "Reda El Bahrawy"
+        },
+        {
+            "name": "ناس منى ومن دمى من برنامج صاحبه السعاده",
+            "release_date": "2023-06-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736ae3a276f522076b8d9b2156",
+            "track_url": "",
+            "id": 8245,
+            "artist": "Reda El Bahrawy"
+        },
+        {
+            "name": "صاحبك ده من بختك من برنامج صاحبه السعاده",
+            "release_date": "2023-06-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731fcef1b9eecec59ec3a0253c",
+            "track_url": "",
+            "id": 8246,
+            "artist": "Reda El Bahrawy"
+        },
+        {
+            "name": "سمعت كلامكم عنى من برنامج صاحبه السعاده",
+            "release_date": "2023-06-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ded28a8740a50d679a73d41e",
+            "track_url": "",
+            "id": 8247,
+            "artist": "Reda El Bahrawy"
+        },
+        {
+            "name": "زمن الوحوش من برنامج صاحبه السعاده",
+            "release_date": "2023-06-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d076d77bd2c88a5e0d4ad4af",
+            "track_url": "",
+            "id": 8248,
+            "artist": "Reda El Bahrawy"
+        },
+        {
+            "name": "دق الهوى دقه من برنامج صاحبه السعاده",
+            "release_date": "2023-06-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738c63d773b253e7a9f76a687a",
+            "track_url": "",
+            "id": 8249,
+            "artist": "Reda El Bahrawy"
+        },
+        {
+            "name": "لفينا الدنيا",
+            "release_date": "2023-06-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731d64677160a3cbdde05167b6",
+            "track_url": "",
+            "id": 8250,
+            "artist": "Reda El Bahrawy"
+        },
+        {
+            "name": "Ka3by 3aly",
+            "release_date": "2023-06-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b273cd9c5c20f90a672e6a130897",
+            "track_url": "",
+            "id": 8251,
+            "artist": "Reda El Bahrawy"
+        },
+        {
+            "name": "اه يا زمن",
+            "release_date": "2023-04-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b27337df8f53c8792ae0e1adf636",
+            "track_url": "",
+            "id": 8252,
+            "artist": "Reda El Bahrawy"
+        },
+        {
+            "name": "عجبى",
+            "release_date": "2023-02-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b273483931fb1b9e69eda56a5447",
+            "track_url": "",
+            "id": 8253,
+            "artist": "Reda El Bahrawy"
+        },
+        {
+            "name": "Daq El Hawa Daqa",
+            "release_date": "2023-01-05",
+            "image": "https://i.scdn.co/image/ab67616d0000b273404eb913123323aebab5d872",
+            "track_url": "",
+            "id": 8254,
+            "artist": "Reda El Bahrawy"
+        },
+        {
+            "name": "Ana Mesh Andak Bas Mesamaa Andak",
+            "release_date": "2022-12-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730cbd0ef30fc9b00a6033ea6e",
+            "track_url": "",
+            "id": 8255,
+            "artist": "Reda El Bahrawy"
+        },
+        {
+            "name": "Mataklosh Mal El Nas Mal El Nas Knas",
+            "release_date": "2022-12-06",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f32f3738f04a85f644ced546",
+            "track_url": "",
+            "id": 8256,
+            "artist": "Reda El Bahrawy"
+        },
+        {
+            "name": "Shed Helak",
+            "release_date": "2022-11-20",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739665248fcf9cc0aee3195760",
+            "track_url": "",
+            "id": 8257,
+            "artist": "Reda El Bahrawy"
+        },
+        {
+            "name": "Enta Feen W Ana Agelk",
+            "release_date": "2022-10-27",
+            "image": "https://i.scdn.co/image/ab67616d0000b27385119115858a64049cee784c",
+            "track_url": "",
+            "id": 8258,
+            "artist": "Reda El Bahrawy"
+        },
+        {
+            "name": "Sahbak Da Men Bakhtk",
+            "release_date": "2022-10-20",
+            "image": "https://i.scdn.co/image/ab67616d0000b273764c74a811ea1d59a9872adf",
+            "track_url": "",
+            "id": 8259,
+            "artist": "Reda El Bahrawy"
+        },
+        {
+            "name": "Hadfaa El Thaman",
+            "release_date": "2022-10-13",
+            "image": "https://i.scdn.co/image/ab67616d0000b273007e2e095670302d2cf473f8",
+            "track_url": "",
+            "id": 8260,
+            "artist": "Reda El Bahrawy"
+        },
+        {
+            "name": "El Baba Wasl",
+            "release_date": "2022-09-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b273bdcd233c7270c370e594a4e9",
+            "track_url": "",
+            "id": 8261,
+            "artist": "Reda El Bahrawy"
+        },
+        {
+            "name": "Aysh Gadaa",
+            "release_date": "2022-09-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d3fbe7e9c3366b4218606b09",
+            "track_url": "",
+            "id": 8262,
+            "artist": "Reda El Bahrawy"
+        },
+        {
+            "name": "Medley Entom Meen 2022",
+            "release_date": "2022-04-14",
+            "image": "https://i.scdn.co/image/ab67616d0000b27328dc923769186a09de5b7bb9",
+            "track_url": "",
+            "id": 8263,
+            "artist": "Reda El Bahrawy"
+        },
+        {
+            "name": "Khelset Leh Ya Alam Medley 2022",
+            "release_date": "2022-04-14",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e6401c26ee72309ea9b1b1fe",
+            "track_url": "",
+            "id": 8264,
+            "artist": "Reda El Bahrawy"
+        },
+        {
+            "name": "Akhret El Sohobeya Live",
+            "release_date": "2022-04-14",
+            "image": "https://i.scdn.co/image/ab67616d0000b27316fda5a240dcd9bdd412e5b2",
+            "track_url": "",
+            "id": 8265,
+            "artist": "Reda El Bahrawy"
+        },
+        {
+            "name": "Abtal El Kalam Live",
+            "release_date": "2022-04-14",
+            "image": "https://i.scdn.co/image/ab67616d0000b273aabb2c379cf63e8525d88020",
+            "track_url": "",
+            "id": 8266,
+            "artist": "Reda El Bahrawy"
+        },
+        {
+            "name": "Nas Meny W Men Damy",
+            "release_date": "2022-02-16",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ae5be3537a16a0fa71541ce8",
+            "track_url": "",
+            "id": 8267,
+            "artist": "Reda El Bahrawy"
+        },
+        {
+            "name": "El Nemr (El Nemr Series)",
+            "release_date": "2022-02-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733f9c76862770221a7df23bb1",
+            "track_url": "",
+            "id": 8268,
+            "artist": "Reda El Bahrawy"
+        },
+        {
+            "name": "Abtal El Kalam",
+            "release_date": "2021-09-27",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a9b88776827c90b8d2cc7664",
+            "track_url": "",
+            "id": 8269,
+            "artist": "Reda El Bahrawy"
+        },
+        {
+            "name": "Akhret El Gedaan Kalam",
+            "release_date": "2021-06-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d1375bab0a5bf7b41cb03b59",
+            "track_url": "",
+            "id": 8270,
+            "artist": "Reda El Bahrawy"
+        },
+        {
+            "name": "Zamn El Flos",
+            "release_date": "2020-08-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b273cd57b1e49f25fcd290cf45af",
+            "track_url": "",
+            "id": 8271,
+            "artist": "Reda El Bahrawy"
+        },
+        {
+            "name": "El Regola Msh Bel Qewa",
+            "release_date": "2020-08-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e9da617d6458990234f8f526",
+            "track_url": "",
+            "id": 8272,
+            "artist": "Reda El Bahrawy"
+        },
+        {
+            "name": "100 Wesh W Lon",
+            "release_date": "2020-08-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b273fb8cc72a71da17d1efec6771",
+            "track_url": "",
+            "id": 8273,
+            "artist": "Reda El Bahrawy"
+        },
+        {
+            "name": "Prince Men Youmak",
+            "release_date": "2020-04-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ed47f1045f6ed7377f88eb4c",
+            "track_url": "",
+            "id": 8274,
+            "artist": "Reda El Bahrawy"
+        }
+    ],
+    "popular_tracks": [
+        {
+            "name": "Aal Doghrey",
+            "track_url": "",
+            "duration_ms": 283278,
+            "image": "https://i.scdn.co/image/ab67616d0000b27341286211fc428973354ebef8",
+            "id": 8275,
+            "artist": "Reda El Bahrawy"
+        },
+        {
+            "name": "لفينا الدنيا",
+            "track_url": "",
+            "duration_ms": 200046,
+            "image": "https://i.scdn.co/image/ab67616d0000b2731d64677160a3cbdde05167b6",
+            "id": 8276,
+            "artist": "Reda El Bahrawy"
+        },
+        {
+            "name": "Nas Meny W Men Damy",
+            "track_url": "",
+            "duration_ms": 210000,
+            "image": "https://i.scdn.co/image/ab67616d0000b273ae5be3537a16a0fa71541ce8",
+            "id": 8277,
+            "artist": "Reda El Bahrawy"
+        },
+        {
+            "name": "El Volt El 3aly",
+            "track_url": "",
+            "duration_ms": 240047,
+            "image": "https://i.scdn.co/image/ab67616d0000b2738617d5c95f043ef631223896",
+            "id": 8278,
+            "artist": "Reda El Bahrawy"
+        },
+        {
+            "name": "El Nemr - El Nemr Series",
+            "track_url": "",
+            "duration_ms": 197497,
+            "image": "https://i.scdn.co/image/ab67616d0000b2733f9c76862770221a7df23bb1",
+            "id": 8279,
+            "artist": "Reda El Bahrawy"
+        },
+        {
+            "name": "Daq El Hawa Daqa",
+            "track_url": "",
+            "duration_ms": 278961,
+            "image": "https://i.scdn.co/image/ab67616d0000b273404eb913123323aebab5d872",
+            "id": 8280,
+            "artist": "Reda El Bahrawy"
+        },
+        {
+            "name": "Sam3t Kalamkom Any",
+            "track_url": "",
+            "duration_ms": 297299,
+            "image": "https://i.scdn.co/image/ab67616d0000b27312e1d8de689670e612b39114",
+            "id": 8281,
+            "artist": "Reda El Bahrawy"
+        },
+        {
+            "name": "Ammal Tqoul Ana W Ana Ana El Hadota",
+            "track_url": "",
+            "duration_ms": 202710,
+            "image": "https://i.scdn.co/image/ab67616d0000b27338438e166fb05856a07d8be4",
+            "id": 8282,
+            "artist": "Reda El Bahrawy"
+        },
+        {
+            "name": "خفي حبه - تتر مسلسل محارب",
+            "track_url": "",
+            "duration_ms": 216428,
+            "image": "https://i.scdn.co/image/ab67616d0000b273fcdf6d4b1ef5f0b5cdaa6f7e",
+            "id": 8283,
+            "artist": "Reda El Bahrawy"
+        },
+        {
+            "name": "El Safar Wel Nafsana",
+            "track_url": "",
+            "duration_ms": 271909,
+            "image": "https://i.scdn.co/image/ab67616d0000b2730670a234456a3c49c596f8a6",
+            "id": 8284,
+            "artist": "Reda El Bahrawy"
+        }
+    ]
+}

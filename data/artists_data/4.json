@@ -1,0 +1,885 @@
+{
+    "artist": {
+        "id": "1110",
+        "name": "Tamer Ashour",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb657b4b05e890595b0c91d99e",
+        "background_image": "https://i.scdn.co/image/ab67616100005174879018f54d070a5764c11afd"
+    },
+    "albums": [
+        {
+            "name": "Yaah",
+            "release_date": "2025-01-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b27302bbd4aa17fd72d2fc2320b5",
+            "track_url": "https://open.spotify.com/album/4ovMza1WebamIyWDRupshi",
+            "tracks": [
+                {
+                    "name": "Youm Ma Tensa",
+                    "track_url": "https://www.dropbox.com/scl/fi/vbutorftgnhcfrnwr549t/Youm.Ma.Tensa-Tamer.Ashour-MaTb3aa.Com.mp3?rlkey=3schrakz83fhsj8i6oy9cpkrk&st=dvustz6r&dl=1",
+                    "duration_ms": 234456,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27302bbd4aa17fd72d2fc2320b5",
+                    "artist": "Tamer Ashour",
+                    "id": 12365
+                },
+                {
+                    "name": "Mashyeen",
+                    "track_url": "https://www.dropbox.com/scl/fi/dgmeryv7enk7vmdidpxoz/Mashyeen-Tamer.Ashour-MaTb3aa.Com.mp3?rlkey=78cxxz1wh6q4bzdzedodxgh6k&st=jlzxvok1&dl=1",
+                    "duration_ms": 267954,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27302bbd4aa17fd72d2fc2320b5",
+                    "artist": "Tamer Ashour",
+                    "id": 12366
+                },
+                {
+                    "name": "Habibi El Adem",
+                    "track_url": "https://www.dropbox.com/scl/fi/2f7ocmjvz1pnf0rqt3pqc/Habibi.ElAdem-Tamer.Ashour-MaTb3aa.Com.mp3?rlkey=b037hli7tak40qk73fwyefjmc&st=6y1k89gt&dl=1",
+                    "duration_ms": 240000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27302bbd4aa17fd72d2fc2320b5",
+                    "artist": "Tamer Ashour",
+                    "id": 12367
+                },
+                {
+                    "name": "Drama",
+                    "track_url": "https://www.dropbox.com/scl/fi/zyabtr6q6arlqt7gfna1n/Drama-Tamer.Ashour-MaTb3aa.Com.mp3?rlkey=942whmdsmnpkh8wa41ayy7pl6&st=6ycbtli6&dl=1",
+                    "duration_ms": 256428,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27302bbd4aa17fd72d2fc2320b5",
+                    "artist": "Tamer Ashour",
+                    "id": 12368
+                },
+                {
+                    "name": "Ghebet El Habayeb",
+                    "track_url": "https://www.dropbox.com/scl/fi/u7qmnwxj01uy9f6s4zbo4/Ghebet.Elhabayeb-Tamer.Ashour-MaTb3aa.Com.mp3?rlkey=ev1kc2n5l07d0gdv682jty618&st=9yxqo0ow&dl=1",
+                    "duration_ms": 243500,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27302bbd4aa17fd72d2fc2320b5",
+                    "artist": "Tamer Ashour",
+                    "id": 12369
+                },
+                {
+                    "name": "7obk Rezk",
+                    "track_url": "https://www.dropbox.com/scl/fi/vqoftq7pk9i5zm7vm68tn/7obk.Rezk-Tamer.Ashour-MaTb3aa.Com.mp3?rlkey=jno91kyy77iebupoao3i9xhsc&st=acjo531t&dl=1",
+                    "duration_ms": 291044,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27302bbd4aa17fd72d2fc2320b5",
+                    "artist": "Tamer Ashour",
+                    "id": 12370
+                },
+                {
+                    "name": "Makrehtosh",
+                    "track_url": "https://www.dropbox.com/scl/fi/cn8dbs6wvemzdo8hw10vc/Makrehtosh-Tamer.Ashour-MaTb3aa.Com.mp3?rlkey=ki57ce9ljpblr8i41bjbbk022&st=rjwkca61&dl=1",
+                    "duration_ms": 212112,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27302bbd4aa17fd72d2fc2320b5",
+                    "artist": "Tamer Ashour",
+                    "id": 12371
+                },
+                {
+                    "name": "Allah Y7anen",
+                    "track_url": "https://www.dropbox.com/scl/fi/h5jydx1e1xglcuj5w3ln5/Allah.Y7anen-Tamer.Ashour-MaTb3aa.Com.mp3?rlkey=0bc50tt7y3nog19r4chb1rb51&st=boq2x9gc&dl=1",
+                    "duration_ms": 257237,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27302bbd4aa17fd72d2fc2320b5",
+                    "artist": "Tamer Ashour",
+                    "id": 12372
+                },
+                {
+                    "name": "Gom Sharafo",
+                    "track_url": "https://www.dropbox.com/scl/fi/b3cjb2pj3wssw45lnu8oo/Gom.Sharafo-Tamer.Ashour-MaTb3aa.Com.mp3?rlkey=cywv2zbj9pbyhyiajgnebkewp&st=h3u1ueqn&dl=1",
+                    "duration_ms": 172081,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27302bbd4aa17fd72d2fc2320b5",
+                    "artist": "Tamer Ashour",
+                    "id": 12373
+                },
+                {
+                    "name": "Martahnash",
+                    "track_url": "https://www.dropbox.com/scl/fi/bg2ckukt8lk0r6fqgaqsa/Martahnash-Tamer.Ashour-MaTb3aa.Com.mp3?rlkey=chtydho6rfd5c2qfqh5j0ixco&st=qk9c16nb&dl=1",
+                    "duration_ms": 276471,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27302bbd4aa17fd72d2fc2320b5",
+                    "artist": "Tamer Ashour",
+                    "id": 12374
+                },
+                {
+                    "name": "Qasr B3eed",
+                    "track_url": "https://www.dropbox.com/scl/fi/lfuulnqgu8r66w8fato32/Qasr.B3eed-Tamer.Ashour-MaTb3aa.Com.mp3?rlkey=muovu28sjjp1sswx4jjkwrhwq&st=notufziq&dl=1",
+                    "duration_ms": 208234,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27302bbd4aa17fd72d2fc2320b5",
+                    "artist": "Tamer Ashour",
+                    "id": 12375
+                },
+                {
+                    "name": "Yaah",
+                    "track_url": "https://www.dropbox.com/scl/fi/ab5hylkounb0zagoq1f3b/Yaah-Tamer.Ashour-MaTb3aa.Com.mp3?rlkey=5c3gi5pbo7ks1fxw5eg2v0d2i&st=i159nj1t&dl=1",
+                    "duration_ms": 250135,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27302bbd4aa17fd72d2fc2320b5",
+                    "artist": "Tamer Ashour",
+                    "id": 12376
+                }
+            ],
+            "id": 12377
+        },
+        {
+            "name": "Tegy Ntrahn",
+            "release_date": "2022-01-20",
+            "image": "https://i.scdn.co/image/ab67616d0000b27383d3f05128296659bd6919ea",
+            "track_url": "https://open.spotify.com/album/45VciPIELkkQgWSkS2QLlq",
+            "tracks": [
+                {
+                    "name": "Tegy Ntrahn",
+                    "track_url": "https://www.dropbox.com/scl/fi/6m20e2t1zo2jurweyxoln/Tegy-Ntrahn.mp3?rlkey=9c4elhcx4cvrdv7xxni0lsznv&st=1k75bpot&dl=1",
+                    "duration_ms": 240673,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27383d3f05128296659bd6919ea",
+                    "id": 1112,
+                    "artist": "Tamer Ashour"
+                },
+                {
+                    "name": "Ehna El Donia",
+                    "track_url": "https://www.dropbox.com/scl/fi/po1k8u7sqhoyo6ugzd2tx/Ehna-El-Donia.mp3?rlkey=pby9lpglwko3n8c7oa2wzxp5m&st=3u2pwkvd&dl=1",
+                    "duration_ms": 232373,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27383d3f05128296659bd6919ea",
+                    "id": 1113,
+                    "artist": "Tamer Ashour"
+                },
+                {
+                    "name": "Henlha W Enta B3ed",
+                    "track_url": "https://www.dropbox.com/scl/fo/nb4uumcwzl5bh4iofaqfz/AJeXYehsSpylkeCQLf6FvVs?rlkey=aqfqdpbf1z62c4swwbw6b6a4k&st=zxgjfyjj&dl=1",
+                    "duration_ms": 212702,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27383d3f05128296659bd6919ea",
+                    "id": 1114,
+                    "artist": "Tamer Ashour"
+                },
+                {
+                    "name": "Khaleny Fe Hodnak",
+                    "track_url": "https://www.dropbox.com/scl/fi/r8807h9u1758f68lj0a2n/Khaleny-Fe-Hodnak.mp3?rlkey=yl6kw965p1n6q2d1usreji3zh&st=q1ix5hny&dl=1",
+                    "duration_ms": 196650,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27383d3f05128296659bd6919ea",
+                    "id": 1115,
+                    "artist": "Tamer Ashour"
+                },
+                {
+                    "name": "Khaletny Ahes",
+                    "track_url": "https://www.dropbox.com/scl/fi/3ljajh9o3z2lzv460fbw7/Khaletny-Ahes.mp3?rlkey=1qs873uqus2bkj0xknmavd2u2&st=t2bmuimz&dl=1",
+                    "duration_ms": 210752,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27383d3f05128296659bd6919ea",
+                    "id": 1116,
+                    "artist": "Tamer Ashour"
+                },
+                {
+                    "name": "Mafish Gad3na",
+                    "track_url": "https://www.dropbox.com/scl/fi/nra7gtxzxhpg461ha6815/Mafish-Gad3na.mp3?rlkey=0mbqxtozcppivjpvabjs9hav2&st=bv095l4b&dl=1",
+                    "duration_ms": 212362,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27383d3f05128296659bd6919ea",
+                    "id": 1117,
+                    "artist": "Tamer Ashour"
+                },
+                {
+                    "name": "Kan Mawdo3",
+                    "track_url": "https://www.dropbox.com/scl/fi/cve4dmx7s37r9t1680xl0/Kan-Mawdo3.mp3?rlkey=tsrpc639q1lfgkaitfoidhmdy&st=ykjcnpdo&dl=1",
+                    "duration_ms": 282430,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27383d3f05128296659bd6919ea",
+                    "id": 1118,
+                    "artist": "Tamer Ashour"
+                },
+                {
+                    "name": "El Fatra Di",
+                    "track_url": "https://www.dropbox.com/scl/fi/1gjykq8pamymgbe6p3n3g/El-Fatra-Di.mp3?rlkey=gw6peu3bv4ym5v0snjicq2emt&st=hrqyhpsc&dl=1",
+                    "duration_ms": 229933,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27383d3f05128296659bd6919ea",
+                    "id": 1119,
+                    "artist": "Tamer Ashour"
+                },
+                {
+                    "name": "O3od Netklm",
+                    "track_url": "https://www.dropbox.com/scl/fi/nn5nqdwyn577wwxnq4mtm/O3od-Netklm.mp3?rlkey=0f2yuttqv9b42mk98jhwbqnjm&st=qr63x84g&dl=1",
+                    "duration_ms": 198000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27383d3f05128296659bd6919ea",
+                    "id": 1120,
+                    "artist": "Tamer Ashour"
+                },
+                {
+                    "name": "Kont Fien",
+                    "track_url": "https://www.dropbox.com/scl/fi/8xp545ugpyr114k55yxou/Kont-Fien.mp3?rlkey=eq983qy92h5hus70lsh8r3ihw&st=wo11xjcc&dl=1",
+                    "duration_ms": 263766,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27383d3f05128296659bd6919ea",
+                    "id": 1121,
+                    "artist": "Tamer Ashour"
+                }
+            ],
+            "id": 1111
+        },
+        {
+            "name": "Ayam",
+            "release_date": "2019-03-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b27323d818fd7d1cfa193455eb18",
+            "track_url": "https://open.spotify.com/album/0SDqG9mbEN8mWcwsqUzgYB",
+            "tracks": [
+                {
+                    "name": "Ayam",
+                    "track_url": "https://www.dropbox.com/scl/fi/64f1vdbodgggu0fbgrlhe/Ayam.mp3?rlkey=k4j7jcgp96lxxx7mh6iyytssg&st=l2cpd4dd&dl=1",
+                    "duration_ms": 254733,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27323d818fd7d1cfa193455eb18",
+                    "id": 1123,
+                    "artist": "Tamer Ashour"
+                },
+                {
+                    "name": "Habibi Enta Habibi",
+                    "track_url": "https://www.dropbox.com/scl/fi/cnv1befheqrwrnqai97c6/02._Habibi_Enta_Habibi.mp3?rlkey=3mae1ti7x0fu5680ho2051reo&st=qkw6rk9k&dl=1",
+                    "duration_ms": 176706,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27323d818fd7d1cfa193455eb18",
+                    "id": 1124,
+                    "artist": "Tamer Ashour"
+                },
+                {
+                    "name": "Mashofnash Kheir",
+                    "track_url": "https://www.dropbox.com/scl/fi/9ohcr2ibd4h70sn7w7saw/Mashofnash-Kheir.mp3?rlkey=94ucixaabcf3z355fhi0m3oqd&st=p0ifc7mq&dl=1",
+                    "duration_ms": 259506,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27323d818fd7d1cfa193455eb18",
+                    "id": 1125,
+                    "artist": "Tamer Ashour"
+                },
+                {
+                    "name": "Min Gheir Mahkeelik",
+                    "track_url": "https://www.dropbox.com/scl/fi/6mljvxxdb0r33335ewo54/04._Min_Gheir_Mahkeelk.mp3?rlkey=2f0m6rvqokvq7cl61ok12t2pf&st=0ivcic2w&dl=1",
+                    "duration_ms": 303600,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27323d818fd7d1cfa193455eb18",
+                    "id": 1126,
+                    "artist": "Tamer Ashour"
+                },
+                {
+                    "name": "Oloolo Samah",
+                    "track_url": "https://www.dropbox.com/scl/fi/pjcpbtj35ynhg1otnyvni/Oloolo-Samah.mp3?rlkey=1tug1dc3ml338sfjbwenbavfp&st=xfw7luhy&dl=1",
+                    "duration_ms": 240693,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27323d818fd7d1cfa193455eb18",
+                    "id": 1127,
+                    "artist": "Tamer Ashour"
+                },
+                {
+                    "name": "Da Hekaya",
+                    "track_url": "https://www.dropbox.com/scl/fi/rf1u7cf2kiht8qsdetf2a/Da-Hekaya.mp3?rlkey=5t7vhgerc6i40nkwmfss4j6yb&st=62e7mrn6&dl=1",
+                    "duration_ms": 196453,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27323d818fd7d1cfa193455eb18",
+                    "id": 1128,
+                    "artist": "Tamer Ashour"
+                },
+                {
+                    "name": "Matekhtelfeesh",
+                    "track_url": "https://www.dropbox.com/scl/fi/q719xrsx0gef24j8dxwah/Matekhtelfeesh.mp3?rlkey=9y5is3vk8l59bj96hyjhb56s2&st=zkjhs00l&dl=1",
+                    "duration_ms": 236293,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27323d818fd7d1cfa193455eb18",
+                    "id": 1129,
+                    "artist": "Tamer Ashour"
+                },
+                {
+                    "name": "Fi Bali",
+                    "track_url": "https://www.dropbox.com/scl/fi/i4jcle89ev1ihcgil251n/Fi-Bali.mp3?rlkey=m91rl9vdage0g9r0ku5v8r33v&st=ekvd1xh3&dl=1",
+                    "duration_ms": 279506,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27323d818fd7d1cfa193455eb18",
+                    "id": 1130,
+                    "artist": "Tamer Ashour"
+                },
+                {
+                    "name": "Baali Zaman",
+                    "track_url": "https://www.dropbox.com/scl/fi/40dlr5h0uptrb1fkpn5y5/Baali-Zaman.mp3?rlkey=xazdv3j6biopo4ocnf1yapcx8&st=c8bkzmc5&dl=1",
+                    "duration_ms": 227066,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27323d818fd7d1cfa193455eb18",
+                    "id": 1131,
+                    "artist": "Tamer Ashour"
+                },
+                {
+                    "name": "Salam",
+                    "track_url": "https://www.dropbox.com/scl/fi/ogmz680ej83t4qsau6xyz/Salam.mp3?rlkey=pfe1cen0eqm6idiresdzd4f6l&st=7pvto08j&dl=1",
+                    "duration_ms": 201426,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27323d818fd7d1cfa193455eb18",
+                    "id": 1132,
+                    "artist": "Tamer Ashour"
+                },
+                {
+                    "name": "Marra",
+                    "track_url": "https://www.dropbox.com/scl/fi/rs40br7174cj9rec32yp1/Marra.mp3?rlkey=0apininonhx0t32x7l2aj1jq5&st=meifj95k&dl=1",
+                    "duration_ms": 199986,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27323d818fd7d1cfa193455eb18",
+                    "id": 1133,
+                    "artist": "Tamer Ashour"
+                },
+                {
+                    "name": "Khalsana El Hekaya",
+                    "track_url": "https://www.dropbox.com/scl/fi/569o071mrcswo79hm4ylu/Khalsana-El-Hekaya.mp3?rlkey=rzq8bskk2oiss0l9frbff0al7&st=266na4yf&dl=1",
+                    "duration_ms": 238840,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27323d818fd7d1cfa193455eb18",
+                    "id": 1134,
+                    "artist": "Tamer Ashour"
+                }
+            ],
+            "id": 1122
+        },
+        {
+            "name": "Khayali",
+            "release_date": "2018-07-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737dee050001c25a1ddbfb8495",
+            "track_url": "https://open.spotify.com/album/5SWgpFjAUrJOdYZ7LYTzrz",
+            "tracks": [
+                {
+                    "name": "Khayali",
+                    "track_url": "https://www.dropbox.com/scl/fi/1utbeef46g0ul8o977l9r/Khayali.mp3?rlkey=4s9stypbznkbsfrjqkwtugnd5&st=2f7uiy1m&dl=1",
+                    "duration_ms": 179760,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737dee050001c25a1ddbfb8495",
+                    "id": 1136,
+                    "artist": "Tamer Ashour"
+                },
+                {
+                    "name": "Agmal Helm",
+                    "track_url": "https://www.dropbox.com/scl/fi/9n2k1z65bdz3uuoyuej0x/Agmal-Helm.mp3?rlkey=3glcsihb392tbhjt0sn9pabwc&st=5w2etjw2&dl=1",
+                    "duration_ms": 294013,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737dee050001c25a1ddbfb8495",
+                    "id": 1137,
+                    "artist": "Tamer Ashour"
+                },
+                {
+                    "name": "El Rak Al Neya",
+                    "track_url": "https://www.dropbox.com/scl/fi/cvbmaelsc3aivka34y84d/El-Rak-Al-Neya.mp3?rlkey=eh5m03qzxax3y9z3x10mdpi28&st=atapg6ja&dl=1",
+                    "duration_ms": 259466,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737dee050001c25a1ddbfb8495",
+                    "id": 1138,
+                    "artist": "Tamer Ashour"
+                },
+                {
+                    "name": "Bye Bye",
+                    "track_url": "https://www.dropbox.com/scl/fi/zy1olsx9z2n44h5s3r8w7/Bye-Bye.mp3?rlkey=yngl6z1dxsoqegm5vefnypmfg&st=bobzs0xf&dl=1",
+                    "duration_ms": 238520,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737dee050001c25a1ddbfb8495",
+                    "id": 1139,
+                    "artist": "Tamer Ashour"
+                },
+                {
+                    "name": "Karaheny Feky",
+                    "track_url": "https://www.dropbox.com/scl/fi/5c511agnbm4wjxfmjwp02/Karaheny-Feky.mp3?rlkey=or29rq9nmk2ftcqh84vlrpand&st=t5dk0tqc&dl=1",
+                    "duration_ms": 264640,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737dee050001c25a1ddbfb8495",
+                    "id": 1140,
+                    "artist": "Tamer Ashour"
+                },
+                {
+                    "name": "Youm Fe Omry",
+                    "track_url": "https://www.dropbox.com/scl/fi/0vwnhbpjlctlexq0m4nb8/Youm-Fe-Omry.mp3?rlkey=4pjy7z0biwh3698vbdlpgkxmc&st=mp9dorpq&dl=1",
+                    "duration_ms": 212706,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737dee050001c25a1ddbfb8495",
+                    "id": 1141,
+                    "artist": "Tamer Ashour"
+                },
+                {
+                    "name": "Bafrah",
+                    "track_url": "https://www.dropbox.com/scl/fi/sj1t6kqw81jyuoquvp6c2/Bafrah.mp3?rlkey=e4oeve9pnbqoqy1lpkb3h2m4z&st=50ac6v23&dl=1",
+                    "duration_ms": 185400,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737dee050001c25a1ddbfb8495",
+                    "id": 1142,
+                    "artist": "Tamer Ashour"
+                },
+                {
+                    "name": "Mahzouz",
+                    "track_url": "https://www.dropbox.com/scl/fi/focwml1hx8iti2uj8a4sd/Mahzouz.mp3?rlkey=2i7z82tvmr01oj75ypjcknyih&st=hdlpen38&dl=1",
+                    "duration_ms": 227053,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737dee050001c25a1ddbfb8495",
+                    "id": 1143,
+                    "artist": "Tamer Ashour"
+                },
+                {
+                    "name": "Senin Eishnaha",
+                    "track_url": "https://www.dropbox.com/scl/fi/np2ife4uuf4f6myj1wfxo/Senin-Eishnaha.mp3?rlkey=7en5lk8qin523r1ynsaqktq0a&st=0wxup1qf&dl=1",
+                    "duration_ms": 279040,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737dee050001c25a1ddbfb8495",
+                    "id": 1144,
+                    "artist": "Tamer Ashour"
+                }
+            ],
+            "id": 1135
+        },
+        {
+            "name": "Esht Maak Hekayat",
+            "release_date": "2014-10-29",
+            "image": "https://i.scdn.co/image/ab67616d0000b27396b66cc7ba815d7dfebd8acb",
+            "track_url": "https://open.spotify.com/album/10VCtiXM1F4OzQIw2SzCyE",
+            "tracks": [
+                {
+                    "name": "Malish Hal",
+                    "track_url": "https://www.dropbox.com/scl/fi/2n1r1zbbjigc6ze0a39g3/Malish-Hal.mp3?rlkey=7gwxoerd7sph1g9crsee4zyjx&st=mtgs2mnf&dl=1",
+                    "duration_ms": 206172,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27396b66cc7ba815d7dfebd8acb",
+                    "id": 1146,
+                    "artist": "Tamer Ashour"
+                },
+                {
+                    "name": "Esht Maak Hekayat",
+                    "track_url": "https://www.dropbox.com/scl/fi/b7wym03bmr9y92y0yfkyu/Esht-Maak-Hekayat.mp3?rlkey=8fcq5oxiw2hrc4rj2k2vx14di&st=ccozpha0&dl=1",
+                    "duration_ms": 221793,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27396b66cc7ba815d7dfebd8acb",
+                    "id": 1147,
+                    "artist": "Tamer Ashour"
+                },
+                {
+                    "name": "Waqt El wadaa",
+                    "track_url": "https://www.dropbox.com/scl/fi/763d9rc7n51m985wcpykw/Waqt-El-wadaa.mp3?rlkey=4k6u85a1j6ugb33ssegmzlc82&st=tazcf182&dl=1",
+                    "duration_ms": 261630,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27396b66cc7ba815d7dfebd8acb",
+                    "id": 1148,
+                    "artist": "Tamer Ashour"
+                },
+                {
+                    "name": "Ana Ragea",
+                    "track_url": "https://www.dropbox.com/scl/fi/qy4td3yzv61a06u2b1d70/Ana-Ragea.mp3?rlkey=5sgb3bwj2rpu1rd4ktont90t2&st=b6old0fu&dl=1",
+                    "duration_ms": 265418,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27396b66cc7ba815d7dfebd8acb",
+                    "id": 1149,
+                    "artist": "Tamer Ashour"
+                },
+                {
+                    "name": "Law Ghaly Aliek",
+                    "track_url": "https://www.dropbox.com/scl/fi/o47fe66d4hq3lih9crsyu/Law-Ghaly-Aalek.mp3?rlkey=v1n382bgeetqegzuf7czwn2py&st=51raju7v&dl=1",
+                    "duration_ms": 191857,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27396b66cc7ba815d7dfebd8acb",
+                    "id": 1150,
+                    "artist": "Tamer Ashour"
+                },
+                {
+                    "name": "Makamlnash",
+                    "track_url": "https://www.dropbox.com/scl/fi/yvba4j91cducnsg54k8zj/Makamlnash.mp3?rlkey=t4jx0kbg6dlp58imtmoqqev7w&st=ah8fb6zl&dl=1",
+                    "duration_ms": 232451,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27396b66cc7ba815d7dfebd8acb",
+                    "id": 1151,
+                    "artist": "Tamer Ashour"
+                },
+                {
+                    "name": "Mesh Sahla",
+                    "track_url": "https://www.dropbox.com/scl/fi/jza9cxs7lltwr6fvnvs5n/Mesh-Sahla.mp3?rlkey=1kxapd8ujlhtxatpv4iy7mrjg&st=3d9pedtw&dl=1",
+                    "duration_ms": 193738,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27396b66cc7ba815d7dfebd8acb",
+                    "id": 1152,
+                    "artist": "Tamer Ashour"
+                },
+                {
+                    "name": "Get Ala karamty",
+                    "track_url": "https://www.dropbox.com/scl/fi/gkcwduqv0rb5ueogxomo5/Get-Ala-karamty.mp3?rlkey=fu4vgkv4il8fvaxe1axygkcdv&st=9jtfc4h6&dl=1",
+                    "duration_ms": 272340,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27396b66cc7ba815d7dfebd8acb",
+                    "id": 1153,
+                    "artist": "Tamer Ashour"
+                },
+                {
+                    "name": "Men Gherak",
+                    "track_url": "https://www.dropbox.com/scl/fi/1uc808kkg8l2z0k9dm0f9/Men-Gherak.mp3?rlkey=rb6lesgrkksgnxmjmscwd5pci&st=q3s5m73c&dl=1",
+                    "duration_ms": 260245,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27396b66cc7ba815d7dfebd8acb",
+                    "id": 1154,
+                    "artist": "Tamer Ashour"
+                }
+            ],
+            "id": 1145
+        },
+        {
+            "name": "Leya Nazra",
+            "release_date": "2011-07-02",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b66758638cd571432b7c62a7",
+            "track_url": "https://open.spotify.com/album/1Szvbu4gY2jnu8FLlEvY7y",
+            "tracks": [
+                {
+                    "name": "Howa Ana Bastslem",
+                    "track_url": "https://www.dropbox.com/scl/fi/f21eaesy33qkbhykrg5gl/Howa-Ana-Bastslem.mp3?rlkey=vv061c3l1bni1ki0j3ug2v3m4&st=ikvg7ghe&dl=1",
+                    "duration_ms": 227526,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b66758638cd571432b7c62a7",
+                    "id": 1156,
+                    "artist": "Tamer Ashour"
+                },
+                {
+                    "name": "Mestabyeaa",
+                    "track_url": "https://www.dropbox.com/scl/fi/4fo2m98g8s68a32rilg70/Mestabyeaa.mp3?rlkey=fntc2w6gl8r3ayz225v0wavja&st=o1z5wjii&dl=1",
+                    "duration_ms": 252525,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b66758638cd571432b7c62a7",
+                    "id": 1157,
+                    "artist": "Tamer Ashour"
+                },
+                {
+                    "name": "Nase Shaklaha",
+                    "track_url": "https://www.dropbox.com/scl/fi/ayp4xjzlyxjpsczhog51n/Nase-Shaklaha.mp3?rlkey=t63um5k51ra3ilatrj8o85buc&st=j0zgwwei&dl=1",
+                    "duration_ms": 277498,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b66758638cd571432b7c62a7",
+                    "id": 1158,
+                    "artist": "Tamer Ashour"
+                },
+                {
+                    "name": "Beit Kebeer",
+                    "track_url": "https://www.dropbox.com/scl/fi/9cmgf9knkjs1m4sgvk0e7/Beit-Kebeer.mp3?rlkey=kzvu304iaqjpuk5insny0npzv&st=njgehp71&dl=1",
+                    "duration_ms": 272143,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b66758638cd571432b7c62a7",
+                    "id": 1159,
+                    "artist": "Tamer Ashour"
+                },
+                {
+                    "name": "Ahker Mokabla",
+                    "track_url": "https://www.dropbox.com/scl/fi/d19gt296zgbiatii9h2xv/Ahker-Mokabla.mp3?rlkey=ddrtziprojj9dizabzjpbyg0u&st=qnjcxzga&dl=1",
+                    "duration_ms": 235284,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b66758638cd571432b7c62a7",
+                    "id": 1160,
+                    "artist": "Tamer Ashour"
+                },
+                {
+                    "name": "Leaya Nazra",
+                    "track_url": "https://www.dropbox.com/scl/fi/hy5clewaj7mx69q2tjgw1/Leaya-Nazra.mp3?rlkey=t0ws4u4p2oh164uwgzlbq4sk2&st=3lbs0rni&dl=1",
+                    "duration_ms": 241475,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b66758638cd571432b7c62a7",
+                    "id": 1161,
+                    "artist": "Tamer Ashour"
+                },
+                {
+                    "name": "Ya Ahlan",
+                    "track_url": "https://www.dropbox.com/scl/fi/0taaghqz6kqquezgq1413/Ya-Ahlan.mp3?rlkey=39hodxcx90p1hafer8d9njxlz&st=4jlq4cq0&dl=1",
+                    "duration_ms": 259838,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b66758638cd571432b7c62a7",
+                    "id": 1162,
+                    "artist": "Tamer Ashour"
+                },
+                {
+                    "name": "Hakdaar",
+                    "track_url": "https://www.dropbox.com/scl/fi/cnjb8xx97zdhyso6evilp/Hakdaar.mp3?rlkey=mvtvhlakt3m41bdxv39u0khay&st=axt4b1dp&dl=1",
+                    "duration_ms": 274285,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b66758638cd571432b7c62a7",
+                    "id": 1163,
+                    "artist": "Tamer Ashour"
+                },
+                {
+                    "name": "Maaleesh",
+                    "track_url": "https://www.dropbox.com/scl/fi/ebtxic2mw6lu5pzpqrkwb/Maaleesh.mp3?rlkey=hnqbehy2s4944n6l3u0vkoq00&st=5grh1w78&dl=1",
+                    "duration_ms": 260622,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b66758638cd571432b7c62a7",
+                    "id": 1164,
+                    "artist": "Tamer Ashour"
+                },
+                {
+                    "name": "Mafehoush Ghalta",
+                    "track_url": "https://www.dropbox.com/scl/fi/2nsycvjw8e8wtmx46gvyr/Mafehoush-Ghalta.mp3?rlkey=0o15vspqvqtahv6tqslnijwfr&st=juyu2r4n&dl=1",
+                    "duration_ms": 268016,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b66758638cd571432b7c62a7",
+                    "id": 1165,
+                    "artist": "Tamer Ashour"
+                },
+                {
+                    "name": "We Leah Baeden",
+                    "track_url": "https://www.dropbox.com/scl/fi/xmabhbd0g4ilx5bbmz2a5/We-Leah-Baeden.mp3?rlkey=si7urzfsuv7cszcmjp2jtvosb&st=i9c5wxxa&dl=1",
+                    "duration_ms": 212976,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b66758638cd571432b7c62a7",
+                    "id": 1166,
+                    "artist": "Tamer Ashour"
+                },
+                {
+                    "name": "Mabathazesh",
+                    "track_url": "https://www.dropbox.com/scl/fi/zsm7rg9o9uy52tdg48krp/Mabathazesh.mp3?rlkey=ywyj6mx8sk5ta3d3fi64anlgm&st=y3h21108&dl=1",
+                    "duration_ms": 283271,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b66758638cd571432b7c62a7",
+                    "id": 1167,
+                    "artist": "Tamer Ashour"
+                }
+            ],
+            "id": 1155
+        },
+        {
+            "name": "Had Biheb",
+            "release_date": "2008-09-27",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a1b1ad2ef636b4bafdbfb68d",
+            "track_url": "https://open.spotify.com/album/4GLBx76rNJpzQVL3hPlgat",
+            "tracks": [
+                {
+                    "name": "Hagi Alh Nafsi",
+                    "track_url": "https://www.dropbox.com/scl/fi/e2p4lpp1j3kzxkskxgoac/Haji-Aleh-Nafsi.mp3?rlkey=zztbpvz4dy51mly44gk7nvdgo&st=1n12g71v&dl=1",
+                    "duration_ms": 254772,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a1b1ad2ef636b4bafdbfb68d",
+                    "id": 1169,
+                    "artist": "Tamer Ashour"
+                },
+                {
+                    "name": "Tislam",
+                    "track_url": "https://www.dropbox.com/scl/fi/0i2pq2p9hjqhe8459simn/Tislam.mp3?rlkey=gfks80pmtns5cs6rxkqe7cg68&st=6lg7rfbm&dl=1",
+                    "duration_ms": 186488,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a1b1ad2ef636b4bafdbfb68d",
+                    "id": 1170,
+                    "artist": "Tamer Ashour"
+                },
+                {
+                    "name": "Le Befaker",
+                    "track_url": "https://www.dropbox.com/scl/fi/xmgiq86utin54gb89vs9d/Le-Befaker.mp3?rlkey=ojefmlo0iznw5xd99z4rn9v76&st=dwxu92rh&dl=1",
+                    "duration_ms": 325093,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a1b1ad2ef636b4bafdbfb68d",
+                    "id": 1171,
+                    "artist": "Tamer Ashour"
+                },
+                {
+                    "name": "Iftarakna",
+                    "track_url": "https://www.dropbox.com/scl/fi/pd5loxylg1cdi40kuzf9v/Eftra-ana.mp3?rlkey=1j0qxst9aftc1kwet9ec9fu44&st=vb9e5x4o&dl=1",
+                    "duration_ms": 242390,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a1b1ad2ef636b4bafdbfb68d",
+                    "id": 1172,
+                    "artist": "Tamer Ashour"
+                },
+                {
+                    "name": "Had Biheb",
+                    "track_url": "https://www.dropbox.com/scl/fi/6qj00w1vdl6gx4obib711/Had-Behoub.mp3?rlkey=zlifk0b20kmaraq5k7xdfkpw1&st=9m5idm80&dl=1",
+                    "duration_ms": 263784,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a1b1ad2ef636b4bafdbfb68d",
+                    "id": 1173,
+                    "artist": "Tamer Ashour"
+                },
+                {
+                    "name": "Enta Meen Beysd2ak",
+                    "track_url": "https://www.dropbox.com/scl/fi/dxapknrhrcc4jctltw5ku/Inta-Meen-Bisadagak.mp3?rlkey=1exx5gh8o174v7k07ahhh169z&st=cdd654s9&dl=1",
+                    "duration_ms": 255738,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a1b1ad2ef636b4bafdbfb68d",
+                    "id": 1174,
+                    "artist": "Tamer Ashour"
+                },
+                {
+                    "name": "Katar Khaere",
+                    "track_url": "https://www.dropbox.com/scl/fi/5u2wjslpj2938m4bzg8hu/Katar-Khayri.mp3?rlkey=mkleynfq4ed5pva20v7k5eyqm&st=l1vqu638&dl=1",
+                    "duration_ms": 221675,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a1b1ad2ef636b4bafdbfb68d",
+                    "id": 1175,
+                    "artist": "Tamer Ashour"
+                },
+                {
+                    "name": "Kalemt Shukr",
+                    "track_url": "https://www.dropbox.com/scl/fi/r0qdq1xh9wbbpn6ssie21/Kalamat-Shoukor.mp3?rlkey=q0zt4mqceigfypbq8j442mwlr&st=p8ffawc4&dl=1",
+                    "duration_ms": 229746,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a1b1ad2ef636b4bafdbfb68d",
+                    "id": 1176,
+                    "artist": "Tamer Ashour"
+                },
+                {
+                    "name": "Kalemat Houb",
+                    "track_url": "https://www.dropbox.com/scl/fi/u0fux3na73cdiux92l8nr/Khalemat-Ahoub.mp3?rlkey=kv4ugdbatduoejw5jsqetw435&st=zr5pmfh5&dl=1",
+                    "duration_ms": 203598,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a1b1ad2ef636b4bafdbfb68d",
+                    "id": 1177,
+                    "artist": "Tamer Ashour"
+                },
+                {
+                    "name": "Zy Kol Marah",
+                    "track_url": "https://www.dropbox.com/scl/fi/md9vno1mn13pp1dqtm8cd/Zay-Koll-Mara.mp3?rlkey=jpiw0e856t1fcjpyzvy44rabs&st=ek9bvfcr&dl=1",
+                    "duration_ms": 264071,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a1b1ad2ef636b4bafdbfb68d",
+                    "id": 1178,
+                    "artist": "Tamer Ashour"
+                }
+            ],
+            "id": 1168
+        }
+    ],
+    "singles": [
+        {
+            "name": "Yaah",
+            "release_date": "2024-12-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b27340accce3564c0289373519c0",
+            "track_url": "https://www.dropbox.com/scl/fi/x80c9lspqwb69vnzr6e8g/.mp3?rlkey=7gc1xouq1vzkyrd13hfzlo9ip&st=xgq84pe2&dl=1",
+            "id": 1179,
+            "artist": "Tamer Ashour"
+        },
+        {
+            "name": "Wada3 Wada3",
+            "release_date": "2024-08-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b273661796adc3e35c7b8603e1e9",
+            "track_url": "https://www.dropbox.com/scl/fi/0dsxisgz44jzjrij4tgt2/.mp3?rlkey=uzao952tuusw5057n7kwajes8&st=ytnmf3fi&dl=1",
+            "id": 1180,
+            "artist": "Tamer Ashour"
+        },
+        {
+            "name": "هيجيلي موجوع",
+            "release_date": "2024-01-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b273cd4df6e737c52ff5ddc2f6de",
+            "track_url": "https://www.dropbox.com/scl/fi/c9qjuqzblnmz1j4gk9sna/Haygeley-Mwgoa3.mp3?rlkey=252yfh2y0c3s47a9ycobmuvud&st=wzkn92qe&dl=1",
+            "id": 1182,
+            "artist": "Tamer Ashour"
+        },
+        {
+            "name": "Adeit",
+            "release_date": "2023-08-16",
+            "image": "https://i.scdn.co/image/ab67616d0000b273bc43ee30f7cfc162396b38e6",
+            "track_url": "https://www.dropbox.com/scl/fi/5gkvdqoujtqxvfa3dr5xm/Adeit.mp3?rlkey=bgnyjwgjpmisqt1pce4az7g1y&st=jrnj99ni&dl=1",
+            "id": 1183,
+            "artist": "Tamer Ashour"
+        },
+        {
+            "name": "اصحى للكلام",
+            "release_date": "2023-06-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731e5f0a8e2e6c65224c4b7658",
+            "track_url": "https://www.dropbox.com/scl/fi/za9aeptq3biqpe5xs82gj/Es7a-Lel-kallam.mp3?rlkey=5ycku0ne27xsgrxny31c7kt0e&st=h86nf0mx&dl=1",
+            "id": 1184,
+            "artist": "Tamer Ashour"
+        },
+        {
+            "name": "بحبك و خايف",
+            "release_date": "2023-01-26",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b60a526619fd237557594748",
+            "track_url": "https://www.dropbox.com/scl/fi/xpe9tpesobeyxuj5mqisd/Bahbk-W-Khayef.mp3?rlkey=rfqsqj7a61t7yliptbb9ad47e&st=srlairgy&dl=1",
+            "id": 1185,
+            "artist": "Tamer Ashour"
+        },
+        {
+            "name": "Hatwhashna",
+            "release_date": "2022-11-02",
+            "image": "https://i.scdn.co/image/ab67616d0000b273413d4da660c47f62be5f2f9d",
+            "track_url": "https://www.dropbox.com/scl/fi/22hmrv2v4jenif06r71tm/Hatwhashna.mp3?rlkey=n7skdycyglq2d85uwbrbypg53&st=gi97c81s&dl=1",
+            "id": 1186,
+            "artist": "Tamer Ashour"
+        },
+        {
+            "name": "Heya Elnas",
+            "release_date": "2022-07-27",
+            "image": "https://i.scdn.co/image/ab67616d0000b273273c6ade04e6e4d6ad629636",
+            "track_url": "https://www.dropbox.com/scl/fi/bfl5wc55s9tkd6w45p3w1/Heya-Elnas.mp3?rlkey=fje7n6vww7n57jlig0r404cp2&st=sv7m8xio&dl=1",
+            "id": 1187,
+            "artist": "Tamer Ashour"
+        },
+        {
+            "name": "Tamally",
+            "release_date": "2022-01-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273745aa0946688867d86a49f4f",
+            "track_url": "https://www.dropbox.com/scl/fi/izd9ifflms3inckh0sua6/Tamally.mp3?rlkey=x9hny21dkph38o6yr7jbuwzan&st=jbydvqk0&dl=1",
+            "id": 1188,
+            "artist": "Tamer Ashour"
+        },
+        {
+            "name": "Zahmet Weshoush",
+            "release_date": "2021-04-12",
+            "image": "https://i.scdn.co/image/ab67616d0000b27354214669d20c7f2a79a10346",
+            "track_url": "https://www.dropbox.com/scl/fi/fg7k0z7g4p3oonekb2e4n/Zahmet-Washush.mp3?rlkey=tpa45p5it9vfgmaljhhwzwgfx&st=y1g3heka&dl=1",
+            "id": 1189,
+            "artist": "Tamer Ashour"
+        },
+        {
+            "name": "Baoul Aady",
+            "release_date": "2021-03-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d2dcb7a27a2cac553445cce1",
+            "track_url": "https://www.dropbox.com/scl/fi/4pu2l63ezhwtg8oxttu73/Baool-3ady.mp3?rlkey=0hh539y975ohv2dzaitmrb6pe&st=o9wwtn0p&dl=1",
+            "id": 1190,
+            "artist": "Tamer Ashour"
+        },
+        {
+            "name": "Ma3lesh Asly Medalla3ha",
+            "release_date": "2020-09-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734c816cf0d670873a72babc83",
+            "track_url": "https://www.dropbox.com/scl/fi/v5c8cn2tqz2kfzrhgxgto/Ma3lesh-Asly-Medalla3ha.mp3?rlkey=lzcb8rai82yi5ifsvi4yb0618&st=j9thvbvu&dl=1",
+            "id": 1191,
+            "artist": "Tamer Ashour"
+        },
+        {
+            "name": "Biaah",
+            "release_date": "2020-07-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b273462f1be32048501553e53d24",
+            "track_url": "https://www.dropbox.com/scl/fi/9cwy5apynzgk4lisvd1pq/Biaah.mp3?rlkey=on2bbt41v51in3vk88qo6xgb5&st=qkr4nvo5&dl=1",
+            "id": 1192,
+            "artist": "Tamer Ashour"
+        },
+        {
+            "name": "Shokran L Geshna El Abiad (Vodafone)",
+            "release_date": "2020-05-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731461c3b30df140ad8c85f3fd",
+            "track_url": "https://www.dropbox.com/scl/fi/n5q730rs6opa7zoek5r7h/.mp3?rlkey=n6psussmyh6idmxo5lprrdbhn&st=h16j45i2&dl=1",
+            "id": 1193,
+            "artist": "Tamer Ashour"
+        },
+        {
+            "name": "Law Ghamadt",
+            "release_date": "2019-03-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b273af7ab0c43b091807af61b021",
+            "track_url": "https://www.dropbox.com/scl/fi/p49emaiksw26hvss73pic/.mp3?rlkey=pbdyjri047fhzn6xra88m6ww2&st=tyhcs4p4&dl=1",
+            "id": 1194,
+            "artist": "Tamer Ashour"
+        },
+        {
+            "name": "1000 شكرا",
+            "release_date": "2018-03-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733d48d00cc568ab7a1f8d2324",
+            "track_url": "https://www.dropbox.com/scl/fi/qaux4sseqz0kjcrw52fx5/1000.mp3?rlkey=jg52ku1oq6bwzyvrrk0l9dbmp&st=rfnyzxbj&dl=1",
+            "id": 1195,
+            "artist": "Tamer Ashour"
+        },
+        {
+            "name": "Eish El Donia",
+            "release_date": "2017-08-02",
+            "image": "https://i.scdn.co/image/ab67616d0000b27337de085685ef89d8b5ccffbc",
+            "track_url": "https://www.dropbox.com/scl/fi/gdo3ax0n4puynqjpgxg3e/.mp3?rlkey=v8et8ddj7irmi6scej4aeirnp&st=bs1ya6r2&dl=1",
+            "id": 1196,
+            "artist": "Tamer Ashour"
+        }
+    ],
+    "popular_tracks": [
+        {
+            "name": "هيجيلي موجوع",
+            "track_url": "https://www.dropbox.com/scl/fi/c9qjuqzblnmz1j4gk9sna/Haygeley-Mwgoa3.mp3?rlkey=252yfh2y0c3s47a9ycobmuvud&st=wzkn92qe&dl=1",
+            "duration_ms": 210714,
+            "image": "https://i.scdn.co/image/ab67616d0000b273cd4df6e737c52ff5ddc2f6de",
+            "id": 1197,
+            "artist": "Tamer Ashour"
+        },
+        {
+            "name": "Tegy Ntrahn",
+            "track_url": "https://www.dropbox.com/scl/fi/6m20e2t1zo2jurweyxoln/Tegy-Ntrahn.mp3?rlkey=9c4elhcx4cvrdv7xxni0lsznv&st=1k75bpot&dl=1",
+            "duration_ms": 240673,
+            "image": "https://i.scdn.co/image/ab67616d0000b27383d3f05128296659bd6919ea",
+            "id": 1198,
+            "artist": "Tamer Ashour"
+        },
+        {
+            "name": "Khaleny Fe Hodnak",
+            "track_url": "https://www.dropbox.com/scl/fi/r8807h9u1758f68lj0a2n/Khaleny-Fe-Hodnak.mp3?rlkey=yl6kw965p1n6q2d1usreji3zh&st=q1ix5hny&dl=1",
+            "duration_ms": 196650,
+            "image": "https://i.scdn.co/image/ab67616d0000b27383d3f05128296659bd6919ea",
+            "id": 1199,
+            "artist": "Tamer Ashour"
+        },
+        {
+            "name": "Kan Mawdo3",
+            "track_url": "https://www.dropbox.com/scl/fi/cve4dmx7s37r9t1680xl0/Kan-Mawdo3.mp3?rlkey=tsrpc639q1lfgkaitfoidhmdy&st=ykjcnpdo&dl=1",
+            "duration_ms": 282430,
+            "image": "https://i.scdn.co/image/ab67616d0000b27383d3f05128296659bd6919ea",
+            "id": 1200,
+            "artist": "Tamer Ashour"
+        },
+        {
+            "name": "Mahzouz",
+            "track_url": "https://www.dropbox.com/scl/fi/focwml1hx8iti2uj8a4sd/Mahzouz.mp3?rlkey=2i7z82tvmr01oj75ypjcknyih&st=hdlpen38&dl=1",
+            "duration_ms": 227053,
+            "image": "https://i.scdn.co/image/ab67616d0000b2737dee050001c25a1ddbfb8495",
+            "id": 1201,
+            "artist": "Tamer Ashour"
+        },
+        {
+            "name": "Oloolo Samah",
+            "track_url": "https://www.dropbox.com/scl/fi/pjcpbtj35ynhg1otnyvni/Oloolo-Samah.mp3?rlkey=1tug1dc3ml338sfjbwenbavfp&st=xfw7luhy&dl=1",
+            "duration_ms": 240693,
+            "image": "https://i.scdn.co/image/ab67616d0000b27323d818fd7d1cfa193455eb18",
+            "id": 1202,
+            "artist": "Tamer Ashour"
+        },
+        {
+            "name": "Matekhtelfeesh",
+            "track_url": "https://www.dropbox.com/scl/fi/q719xrsx0gef24j8dxwah/Matekhtelfeesh.mp3?rlkey=9y5is3vk8l59bj96hyjhb56s2&st=zkjhs00l&dl=1",
+            "duration_ms": 236293,
+            "image": "https://i.scdn.co/image/ab67616d0000b27323d818fd7d1cfa193455eb18",
+            "id": 1203,
+            "artist": "Tamer Ashour"
+        },
+        {
+            "name": "Kont Fien",
+            "track_url": "https://www.dropbox.com/scl/fi/8xp545ugpyr114k55yxou/Kont-Fien.mp3?rlkey=eq983qy92h5hus70lsh8r3ihw&st=wo11xjcc&dl=1",
+            "duration_ms": 263766,
+            "image": "https://i.scdn.co/image/ab67616d0000b27383d3f05128296659bd6919ea",
+            "id": 1204,
+            "artist": "Tamer Ashour"
+        },
+        {
+            "name": "Yaah",
+            "track_url": "https://www.dropbox.com/scl/fi/x80c9lspqwb69vnzr6e8g/.mp3?rlkey=7gc1xouq1vzkyrd13hfzlo9ip&st=xgq84pe2&dl=1",
+            "duration_ms": 250135,
+            "image": "https://i.scdn.co/image/ab67616d0000b27340accce3564c0289373519c0",
+            "id": 1205,
+            "artist": "Tamer Ashour"
+        },
+        {
+            "name": "Baoul Aady",
+            "track_url": "https://www.dropbox.com/scl/fi/4pu2l63ezhwtg8oxttu73/Baool-3ady.mp3?rlkey=0hh539y975ohv2dzaitmrb6pe&st=o9wwtn0p&dl=1",
+            "duration_ms": 331714,
+            "image": "https://i.scdn.co/image/ab67616d0000b273d2dcb7a27a2cac553445cce1",
+            "id": 1206,
+            "artist": "Tamer Ashour"
+        }
+    ]
+}

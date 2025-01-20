@@ -1,0 +1,221 @@
+{
+    "artist": {
+        "id": "5460",
+        "name": "Donia Samir Ghanem",
+        "image": "https://i.scdn.co/image/ab67616d0000b273942f755e65ef2ebe7670e36a",
+        "background_image": "https://i.scdn.co/image/ab67616d00001e02942f755e65ef2ebe7670e36a"
+    },
+    "albums": [],
+    "singles": [
+        {
+            "name": "محظوظة باصحابي",
+            "release_date": "2023-06-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b27380537de42bbc51f494a22e3a",
+            "track_url": "https://www.dropbox.com/scl/fi/mbmzbiz56ym7anx7bh60e/Ma7zoza.Bas7aby-Donya-MaTb3aa.Com.mp3?rlkey=lllryldi1ct1kapofafqd2b0q&st=3svtjx60&dl=1",
+            "id": 5461,
+            "artist": "Donia Samir Ghanem"
+        },
+        {
+            "name": "مش محتاجه حد",
+            "release_date": "2023-06-05",
+            "image": "https://i.scdn.co/image/ab67616d0000b27332109cf0d2c46db3951acc39",
+            "track_url": "https://www.dropbox.com/scl/fi/tvibme576stx78wybxxdl/Msh.Ma7tag.Had-Donya-MaTb3aa.Com.mp3?rlkey=iydgz6idjtlounn9b608a07ih&st=kgmd9jon&dl=1",
+            "id": 5462,
+            "artist": "Donia Samir Ghanem"
+        },
+        {
+            "name": "الجمال معاملة",
+            "release_date": "2023-06-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b273bf6e7e87a6a3af7c6786d4a6",
+            "track_url": "https://www.dropbox.com/scl/fi/jeqp8bm4de43qrmsslj9v/ElGamal.Mo3amla-Donya-MaTb3aa.Com.mp3?rlkey=3disritergfhpkpg1mr6gb7m7&st=ue8hajor&dl=1",
+            "id": 5463,
+            "artist": "Donia Samir Ghanem"
+        },
+        {
+            "name": "التعليم ياهو",
+            "release_date": "2023-06-03",
+            "image": "https://i.scdn.co/image/ab67616d0000b273910256e206f08439ff28a277",
+            "track_url": "https://www.dropbox.com/scl/fi/okv6byud6vfho6wszy9p1/Elta3lem.Yahoo-Donya-MaTb3aa.Com.mp3?rlkey=h1a4r8a4o9ycgxdb04x5xyl2o&st=d5u92hoi&dl=1",
+            "id": 5464,
+            "artist": "Donia Samir Ghanem"
+        },
+        {
+            "name": "ارقصوله",
+            "release_date": "2023-06-02",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731b338f28837d6f2ad42f591f",
+            "track_url": "https://www.dropbox.com/scl/fi/cupib2hjydd54gy3max5y/Orqsolo-Donya-MaTb3aa.Com.mp3?rlkey=o7dxtyueox18qhx2zxqup0bm8&st=4pqxfrlx&dl=1",
+            "id": 5465,
+            "artist": "Donia Samir Ghanem"
+        },
+        {
+            "name": "جت سليمة",
+            "release_date": "2023-06-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736a70dda1026b6ba52fae1909",
+            "track_url": "https://www.dropbox.com/scl/fi/z9hfma3u9yr7qzxmdex7m/Titr.Moslsal.Gat.Salema-MaTb3aa.Com.mp3?rlkey=g77p5ewwf50cqy2dv1ziraa14&st=1zz9epaj&dl=1",
+            "id": 5466,
+            "artist": "Donia Samir Ghanem"
+        },
+        {
+            "name": "أوخي",
+            "release_date": "2023-01-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731098371f50954ef3486acfe4",
+            "track_url": "https://www.dropbox.com/scl/fi/qdzpljuv3f45o3vaiogxb/.mp3?rlkey=i7ovxtcpa1mrcbnrux3bpj3af&st=ufpmclse&dl=1",
+            "id": 5467,
+            "artist": "Donia Samir Ghanem"
+        },
+        {
+            "name": "نحنوح",
+            "release_date": "2022-09-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a6d4149035d0a0b64cc37bf9",
+            "track_url": "https://www.dropbox.com/scl/fi/5wm3md7dg2xqj5uuhjno8/.mp3?rlkey=hjxke9zh01l20cr7cwdzenisy&st=a96136n3&dl=1",
+            "id": 5468,
+            "artist": "Donia Samir Ghanem"
+        },
+        {
+            "name": "أسيب نفسي وأغنى",
+            "release_date": "2022-07-29",
+            "image": "https://i.scdn.co/image/ab67616d0000b273942f755e65ef2ebe7670e36a",
+            "track_url": "https://www.dropbox.com/scl/fi/06f9ohsml4cwzr29j51s6/.mp3?rlkey=rcbcu2hc1jr8byjrt1bdku6sk&st=5ygi7w0a&dl=1",
+            "id": 5469,
+            "artist": "Donia Samir Ghanem"
+        },
+        {
+            "name": "Hekaya Wahda",
+            "release_date": "2018-04-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b273defa421fcd80268f40bcb83f",
+            "track_url": "https://www.dropbox.com/scl/fi/nh5x5wpfhjfbydgizusbq/.mp3?rlkey=9rvcvokqzibt3kc9mf17sclmk&st=m8001hje&dl=1",
+            "id": 5470,
+            "artist": "Donia Samir Ghanem"
+        },
+        {
+            "name": "Elwaet Be Yesrana",
+            "track_url": "https://www.dropbox.com/scl/fi/rcyiym7drq5cfdfdr7sws/12.El-Wa2t-Byesra2na-MaTb3aa.Com.mp3?rlkey=lxfag51l83ein4olts6igcwsu&st=to7l8ovq&dl=1",
+            "duration_ms": 235128,
+            "image": "https://i.scdn.co/image/ab67616d0000b27331217bfb516ab753e4acdff3",
+            "id": 5477,
+            "artist": "Donia Samir Ghanem"
+        },
+        {
+            "name": "El Wad El Lou (الواد اللو)",
+            "release_date": "2013-12-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b27331217bfb516ab753e4acdff3",
+            "track_url": "https://www.dropbox.com/scl/fi/h57mhrbvud3vw6jxy3myi/07.El-Wad-El-Lou-MaTb3aa.Com.mp3?rlkey=jg0bhxjos5ykslz1u9swtt4sf&st=sitr3slu&dl=1",
+            "id": 5471,
+            "artist": "Donia Samir Ghanem"
+        },
+        {
+            "name": "3alek 7abiby Kalam (عليك حبيبي كلام)",
+            "release_date": "2013-10-17",
+            "image": "https://i.scdn.co/image/ab67616d0000b273befe8edd079eb852f4b3ef89",
+            "track_url": "https://www.dropbox.com/scl/fi/91o1ucx9nzgggmvdlbmre/01.3alek-7abiby-Kalam-MaTb3aa.Com.mp3?rlkey=53ji7608sf9gbh398fqruoaju&st=ai3yzr4u&dl=1",
+            "id": 5472,
+            "artist": "Donia Samir Ghanem"
+        },
+        {
+            "name": "Qesset Sheta (قصة شتا)",
+            "release_date": "2013-10-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739e3ecdbc833e38c0761901ac",
+            "track_url": "https://www.dropbox.com/scl/fi/9hbd45z3btbr6369nb6ry/09.Qesset-Sheta-MaTb3aa.Com.mp3?rlkey=dkjhcrzfc6awjuopxvugbhx0v&st=lkm68abd&dl=1",
+            "id": 5473,
+            "artist": "Donia Samir Ghanem"
+        },
+        {
+            "name": "Wa7da Tania Khales (واحده تانيه خالص)",
+            "release_date": "2013-09-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737c0bc6787510e1e2552a36b1",
+            "track_url": "https://www.dropbox.com/scl/fi/i1akc6pfek3vaekwg937p/04.Wa7da-Tania-5ales-MaTb3aa.Com.mp3?rlkey=zwy2klkayp3977g5gsilg0yhb&st=2q88ypod&dl=1",
+            "id": 5474,
+            "artist": "Donia Samir Ghanem"
+        },
+        {
+            "name": "Bet Sa3edeya (بت صعيديه)",
+            "release_date": "2013-08-06",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b366d741d0b01af9eb05b186",
+            "track_url": "https://www.dropbox.com/scl/fi/2mp5d8f0aroioc7zg2p2x/10.Bet-Sa3idya-MaTb3aa.Com.mp3?rlkey=25uek7q2glgpxjpuenygg7oe6&st=m6r3p1cx&dl=1",
+            "id": 5475,
+            "artist": "Donia Samir Ghanem"
+        }
+    ],
+    "popular_tracks": [
+        {
+            "name": "أسيب نفسي وأغنى",
+            "release_date": "2022-07-29",
+            "image": "https://i.scdn.co/image/ab67616d0000b273942f755e65ef2ebe7670e36a",
+            "track_url": "https://www.dropbox.com/scl/fi/06f9ohsml4cwzr29j51s6/.mp3?rlkey=rcbcu2hc1jr8byjrt1bdku6sk&st=5ygi7w0a&dl=1",
+            "id": 5469,
+            "artist": "Donia Samir Ghanem"
+        },
+        {
+            "name": "Elwaet Be Yesrana",
+            "track_url": "https://www.dropbox.com/scl/fi/rcyiym7drq5cfdfdr7sws/12.El-Wa2t-Byesra2na-MaTb3aa.Com.mp3?rlkey=lxfag51l83ein4olts6igcwsu&st=to7l8ovq&dl=1",
+            "duration_ms": 235128,
+            "image": "https://i.scdn.co/image/ab67616d0000b27331217bfb516ab753e4acdff3",
+            "id": 5477,
+            "artist": "Donia Samir Ghanem"
+        },
+        {
+            "name": "Qesset Sheta (قصة شتا)",
+            "release_date": "2013-10-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739e3ecdbc833e38c0761901ac",
+            "track_url": "https://www.dropbox.com/scl/fi/9hbd45z3btbr6369nb6ry/09.Qesset-Sheta-MaTb3aa.Com.mp3?rlkey=dkjhcrzfc6awjuopxvugbhx0v&st=lkm68abd&dl=1",
+            "id": 5473,
+            "artist": "Donia Samir Ghanem"
+        },
+        {
+            "name": "Wa7da Tania Khales (واحده تانيه خالص)",
+            "release_date": "2013-09-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737c0bc6787510e1e2552a36b1",
+            "track_url": "https://www.dropbox.com/scl/fi/i1akc6pfek3vaekwg937p/04.Wa7da-Tania-5ales-MaTb3aa.Com.mp3?rlkey=zwy2klkayp3977g5gsilg0yhb&st=2q88ypod&dl=1",
+            "id": 5474,
+            "artist": "Donia Samir Ghanem"
+        },
+        {
+            "name": "ارقصوله",
+            "release_date": "2023-06-02",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731b338f28837d6f2ad42f591f",
+            "track_url": "https://www.dropbox.com/scl/fi/cupib2hjydd54gy3max5y/Orqsolo-Donya-MaTb3aa.Com.mp3?rlkey=o7dxtyueox18qhx2zxqup0bm8&st=4pqxfrlx&dl=1",
+            "id": 5465,
+            "artist": "Donia Samir Ghanem"
+        },
+        {
+            "name": "Hekaya Wahda",
+            "release_date": "2018-04-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b273defa421fcd80268f40bcb83f",
+            "track_url": "https://www.dropbox.com/scl/fi/nh5x5wpfhjfbydgizusbq/.mp3?rlkey=9rvcvokqzibt3kc9mf17sclmk&st=m8001hje&dl=1",
+            "id": 5470,
+            "artist": "Donia Samir Ghanem"
+        },
+        {
+            "name": "نحنوح",
+            "release_date": "2022-09-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a6d4149035d0a0b64cc37bf9",
+            "track_url": "https://www.dropbox.com/scl/fi/5wm3md7dg2xqj5uuhjno8/.mp3?rlkey=hjxke9zh01l20cr7cwdzenisy&st=a96136n3&dl=1",
+            "id": 5468,
+            "artist": "Donia Samir Ghanem"
+        },
+        {
+            "name": "Bet Sa3edeya (بت صعيديه)",
+            "release_date": "2013-08-06",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b366d741d0b01af9eb05b186",
+            "track_url": "https://www.dropbox.com/scl/fi/2mp5d8f0aroioc7zg2p2x/10.Bet-Sa3idya-MaTb3aa.Com.mp3?rlkey=25uek7q2glgpxjpuenygg7oe6&st=m6r3p1cx&dl=1",
+            "id": 5475,
+            "artist": "Donia Samir Ghanem"
+        },
+        {
+            "name": "Ana Wenta Lebaed",
+            "track_url": "https://www.dropbox.com/scl/fi/k09o0vk6e244rrfb7zyog/11.Ana-Wenta-Leba3d-MaTb3aa.Com.mp3?rlkey=tlx9e5wzpeil2vbx9m6lmzsj5&st=n052j0cn&dl=1",
+            "duration_ms": 268512,
+            "image": "https://i.scdn.co/image/ab67616d0000b27331217bfb516ab753e4acdff3",
+            "id": 5484,
+            "artist": "Donia Samir Ghanem"
+        },
+        {
+            "name": "مش محتاجه حد",
+            "release_date": "2023-06-05",
+            "image": "https://i.scdn.co/image/ab67616d0000b27332109cf0d2c46db3951acc39",
+            "track_url": "https://www.dropbox.com/scl/fi/tvibme576stx78wybxxdl/Msh.Ma7tag.Had-Donya-MaTb3aa.Com.mp3?rlkey=iydgz6idjtlounn9b608a07ih&st=kgmd9jon&dl=1",
+            "id": 5462,
+            "artist": "Donia Samir Ghanem"
+        }
+    ]
+}

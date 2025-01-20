@@ -1,0 +1,3473 @@
+{
+    "artist": {
+        "id": "116",
+        "name": "Amr Diab",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb8a5d18b749217c6e6605bc6a",
+        "background_image": "https://i.scdn.co/image/ab676161000051748a5d18b749217c6e6605bc6a"
+    },
+    "albums": [
+        {
+            "name": "Makanak",
+            "release_date": "2023-12-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735dab6beb1b9b4a82f53aa82b",
+            "track_url": "https://open.spotify.com/album/28JsnP1Tne8lvFXMxPB7Pg",
+            "tracks": [
+                {
+                    "name": "Beyewhashna",
+                    "track_url": "https://www.dropbox.com/scl/fi/67r1rvqqhnwpof9wx3zz6/Beyewhashna.mp3?rlkey=lqr97a5gjjknv080tjui01peu&st=l0ttfb1z&dl=1",
+                    "duration_ms": 221119,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735dab6beb1b9b4a82f53aa82b",
+                    "id": 118,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Salamak Wasaly",
+                    "track_url": "https://www.dropbox.com/scl/fi/75sghitk9achcrhhcm4fr/Salamak-Wasaly.mp3?rlkey=ngwbmcf7w6rbdhkdoi8bgw7fb&st=lpwc644j&dl=1",
+                    "duration_ms": 285678,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735dab6beb1b9b4a82f53aa82b",
+                    "id": 119,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Maarafsh Had Belesm Da",
+                    "track_url": "https://www.dropbox.com/scl/fi/2yceqhvpldg8i9g0uhmcq/Maarafsh-Had-Belesm-Da.mp3?rlkey=96go5v87895xoub6gb83fje44&st=dgwpg187&dl=1",
+                    "duration_ms": 256012,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735dab6beb1b9b4a82f53aa82b",
+                    "id": 120,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Zabat Modha",
+                    "track_url": "https://www.dropbox.com/scl/fi/y4w301kowfy32gj8jdmnr/Zabat-Modha.mp3?rlkey=a0hmw8mxic4587dhblj2zpec0&st=021keldw&dl=1",
+                    "duration_ms": 188177,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735dab6beb1b9b4a82f53aa82b",
+                    "id": 121,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Wakhdeen Rahethum",
+                    "track_url": "https://www.dropbox.com/scl/fi/df2g8eyffrco05nuc5eus/Wakhdeen-Rahethum.mp3?rlkey=9hgtoruyvfueevby3ps9dtwnj&st=tx19lta8&dl=1",
+                    "duration_ms": 193627,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735dab6beb1b9b4a82f53aa82b",
+                    "id": 122,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Makanak",
+                    "track_url": "https://www.dropbox.com/scl/fi/jdpogyqiv8mz4tctvjvrv/Makanak.mp3?rlkey=t7hx7hppg6izqtks5iopw8zmk&st=vcn88v3w&dl=1",
+                    "duration_ms": 201057,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735dab6beb1b9b4a82f53aa82b",
+                    "id": 123,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Ya Amar",
+                    "track_url": "https://www.dropbox.com/scl/fi/u01nr5e2brvmh7t02kogn/Ya-Amar.mp3?rlkey=h62yqj4yofs5pgabqxumoxucd&st=tb0ijxl3&dl=1",
+                    "duration_ms": 272236,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735dab6beb1b9b4a82f53aa82b",
+                    "id": 124,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Lewahdna",
+                    "track_url": "https://www.dropbox.com/scl/fi/nvjrmfgt9sjloj02krsy4/Lewahdna.mp3?rlkey=sysz03na8x649fgkvx4caxrty&st=e34ey493&dl=1",
+                    "duration_ms": 252569,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735dab6beb1b9b4a82f53aa82b",
+                    "id": 125,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "El Kalam Leek",
+                    "track_url": "https://www.dropbox.com/scl/fi/37mh7prae6ugewpxy7v7n/El-Kalam-Leek.mp3?rlkey=ah026cl533dyzoc9nvzztz4kv&st=mdvy5gsx&dl=1",
+                    "duration_ms": 206512,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735dab6beb1b9b4a82f53aa82b",
+                    "id": 126,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Matetawadsh",
+                    "track_url": "https://www.dropbox.com/scl/fi/ccqkni0q3bpyzem6mh1ir/Matet3awadsh.mp3?rlkey=uhngp4ju9w3lgjgpigk6oe2lr&st=7rrhapdr&dl=1",
+                    "duration_ms": 186756,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735dab6beb1b9b4a82f53aa82b",
+                    "id": 127,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Mabetghebsh",
+                    "track_url": "https://www.dropbox.com/scl/fi/mwfmifloh7xikrr07sxgw/Mabetghebsh.mp3?rlkey=ksqxgxequdxuseuug31baa5d1&st=8qyfboea&dl=1",
+                    "duration_ms": 303864,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735dab6beb1b9b4a82f53aa82b",
+                    "id": 128,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "El Maanaweyat Mortafaa",
+                    "track_url": "https://www.dropbox.com/scl/fi/eln6qr5gza0abxtoz11xb/El-Maanaweyat-Mortafaa.mp3?rlkey=beouq4tq7ge0piwm0fz4r220x&st=t7qbknvn&dl=1",
+                    "duration_ms": 191272,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735dab6beb1b9b4a82f53aa82b",
+                    "id": 129,
+                    "artist": "Amr Diab"
+                }
+            ],
+            "id": 117
+        },
+        {
+            "name": "Ya Ana Ya La",
+            "release_date": "2020-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ad1ef0bc5fc991ecdb1f9a95",
+            "track_url": "https://open.spotify.com/album/2Q4vOLpl50g6eIC4sZ9cId",
+            "tracks": [
+                {
+                    "name": "Ya Ana Ya La",
+                    "track_url": "https://www.dropbox.com/scl/fi/62ra2j3qbmjhotpzj5v1r/MrMaZiKa.Com_Amr_Diab_Yana_Yala.mp3?rlkey=52o8etq58sn2xcw639j1mjl2c&st=zz04oyaa&dl=1",
+                    "duration_ms": 231206,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ad1ef0bc5fc991ecdb1f9a95",
+                    "id": 131,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Mahsoud",
+                    "track_url": "https://www.dropbox.com/scl/fi/yqnrhqnffei0lnohqsbeg/MrMaZiKa.Com_amrw_dyab_mhswd.mp3?rlkey=qnt0vurj8wi2sskefy7frzswg&st=hfgg4xk4&dl=1",
+                    "duration_ms": 242400,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ad1ef0bc5fc991ecdb1f9a95",
+                    "id": 132,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Shokran",
+                    "track_url": "https://www.dropbox.com/scl/fi/jclbmicowstoffppuo36z/MrMaZiKa.Com_amrw_dyab_shkra.mp3?rlkey=sucjrtelmfdegrs6bv6kldcet&st=n15fx692&dl=1",
+                    "duration_ms": 220737,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ad1ef0bc5fc991ecdb1f9a95",
+                    "id": 133,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Ayez Aamel Zayak",
+                    "track_url": "https://www.dropbox.com/scl/fi/gt5mger3dihdbqlnoerki/MrMaZiKa.Com_amrw_dyab_aayz_aaml_zyk.mp3?rlkey=mleci7odiula2zdkkfb7fqoel&st=x3ajmuyv&dl=1",
+                    "duration_ms": 356736,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ad1ef0bc5fc991ecdb1f9a95",
+                    "id": 134,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Tabl",
+                    "track_url": "https://www.dropbox.com/scl/fi/683zdi46m16xvgyyjp9uw/MrMaZiKa.Com_amrw_dyab_tbl.mp3?rlkey=nkgdrsa7v3dw283ksr4evcizf&st=7rcd0hpq&dl=1",
+                    "duration_ms": 198908,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ad1ef0bc5fc991ecdb1f9a95",
+                    "id": 135,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Bethazr",
+                    "track_url": "https://www.dropbox.com/scl/fi/jehbdehbvylrbwqkldzfp/MrMazika.Com_Amr_Diab_Bethazar.mp3?rlkey=4wuc0s25qww5zcf50b28fjxmg&st=i5i73m3h&dl=1",
+                    "duration_ms": 250063,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ad1ef0bc5fc991ecdb1f9a95",
+                    "id": 136,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Fakerny Ya Hob",
+                    "track_url": "https://www.dropbox.com/scl/fi/fsxa4gb34jvj5wbgro90x/MrMazika.Com_amrw_dyab_fakrny_yahb.mp3?rlkey=bzu5vbtwa5cw32xlwj36sae1j&st=nv40adhl&dl=1",
+                    "duration_ms": 212806,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ad1ef0bc5fc991ecdb1f9a95",
+                    "id": 137,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Wana Maak",
+                    "track_url": "https://www.dropbox.com/scl/fi/vdrrpth4gpc7jlsoj3jpp/MrMaZiKa.Com_amrw_dyab_wana_maak.mp3?rlkey=mic5530vs4gb11try2y3tfjb2&st=aiqrcb0c&dl=1",
+                    "duration_ms": 223833,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ad1ef0bc5fc991ecdb1f9a95",
+                    "id": 138,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Ya Dalaao",
+                    "track_url": "https://www.dropbox.com/scl/fi/s0j8xlhjqv0wcree9oomc/MrMaZiKa.Com_Amr_Diab_Ya_Dala3o.mp3?rlkey=bu887s5mdsqnhwyucryvbguhw&st=y9i105w6&dl=1",
+                    "duration_ms": 201875,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ad1ef0bc5fc991ecdb1f9a95",
+                    "id": 139,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Min El Aasham",
+                    "track_url": "https://www.dropbox.com/scl/fi/uy38ar4ii3klvj5gpglvl/MrMaZiKa.Com_amrw_dyab_mn_alashm.mp3?rlkey=70auphj3od2sfte3bjjews7g8&st=wbi6cunw&dl=1",
+                    "duration_ms": 237842,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ad1ef0bc5fc991ecdb1f9a95",
+                    "id": 140,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Mahsoud (Oriental Remix)",
+                    "track_url": "https://www.dropbox.com/scl/fi/c9mg9lx3mr4gcrh11vlrs/MrMaZiKa.Com_amrw_dyab_mhswd_-_rymks.mp3?rlkey=rkhya8mo0o10od6na8iksd83e&st=8nxo1lkm&dl=1",
+                    "duration_ms": 243157,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ad1ef0bc5fc991ecdb1f9a95",
+                    "id": 141,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "El Gaw Gameel",
+                    "track_url": "https://www.dropbox.com/scl/fi/zyagbei6qetur5id5koc0/El-Gaw-Gameel.mp3?rlkey=l1tzn9w9j5pb8uvwoshi551gx&st=npkwnhk0&dl=1",
+                    "duration_ms": 253147,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ad1ef0bc5fc991ecdb1f9a95",
+                    "id": 142,
+                    "artist": "Amr Diab"
+                }
+            ],
+            "id": 130
+        },
+        {
+            "name": "Sahran",
+            "release_date": "2020-02-17",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731d0bba9257613bca9c0c237a",
+            "track_url": "https://open.spotify.com/album/3DMfCdII2G5codB2vqbWZv",
+            "tracks": [
+                {
+                    "name": "Gamda Bas",
+                    "track_url": "https://www.dropbox.com/scl/fi/6rj17477ix28k7uejjb2o/01._Gamda_Bas.mp3?rlkey=viqbeovoro70dj4ovsb141kil&st=x57nm1hv&dl=1",
+                    "duration_ms": 225000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731d0bba9257613bca9c0c237a",
+                    "id": 144,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Sahran",
+                    "track_url": "https://www.dropbox.com/scl/fi/afmzs7j61sdj39r8d65xg/02._Sahran.mp3?rlkey=d8dr42t0yjpyg5vug0me6mp8v&st=oayum0ds&dl=1",
+                    "duration_ms": 287000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731d0bba9257613bca9c0c237a",
+                    "id": 145,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Hayeish Yeftekerni",
+                    "track_url": "https://www.dropbox.com/scl/fi/s1u1x8pqj2ev202goqgch/03._Hayeish_Yeftekerni.mp3?rlkey=29q22zlwr04iapy4ja9jfa7bl&st=3vaaaiz1&dl=1",
+                    "duration_ms": 226000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731d0bba9257613bca9c0c237a",
+                    "id": 146,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Mahragan",
+                    "track_url": "https://www.dropbox.com/scl/fi/rst5ykiulioauni3wc0mx/04._Mahragan.mp3?rlkey=5o48dwwmx2aer0bogtoofazhp&st=8xo9sb5o&dl=1",
+                    "duration_ms": 252000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731d0bba9257613bca9c0c237a",
+                    "id": 147,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Gamila (feat. Jana Diab)",
+                    "track_url": "https://www.dropbox.com/scl/fi/bqbbcesydu7ox85k26090/05._Gamila.mp3?rlkey=69mkctznb5agdeavqguseyizy&st=7qn9qlas&dl=1",
+                    "duration_ms": 190000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731d0bba9257613bca9c0c237a",
+                    "id": 148,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Bel Dehka Dee",
+                    "track_url": "https://www.dropbox.com/scl/fi/mlv5k7al0l8u3e7e1ariy/06._Bel_Dehhka_Dee.mp3?rlkey=xau35wnvtnrqjh8climi84ijx&st=j12b08wb&dl=1",
+                    "duration_ms": 186000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731d0bba9257613bca9c0c237a",
+                    "id": 149,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Aam El Tabeeb",
+                    "track_url": "https://www.dropbox.com/scl/fi/3f9l5jdypisnxlop8xgur/07._Aam_El_Tabeeb.mp3?rlkey=3aut6auqpwg24l8rxoewklizp&st=dusg4yx4&dl=1",
+                    "duration_ms": 219200,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731d0bba9257613bca9c0c237a",
+                    "id": 150,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Makanak Fe Alby",
+                    "track_url": "https://www.dropbox.com/scl/fi/qj2fl0syxz0gvj9f7l5wx/08._Makanak_Fe_Alby.mp3?rlkey=i3clwhjtowhjxxoiwvop2bzzi&st=dwzjrdkx&dl=1",
+                    "duration_ms": 275000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731d0bba9257613bca9c0c237a",
+                    "id": 151,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Helwa El Bedayat",
+                    "track_url": "https://www.dropbox.com/scl/fi/dbj0gqsqbckjl7exyo500/09._Helwa_El_Bedayat.mp3?rlkey=ua2n4feim4pioop5un73fkdc7&st=bnue4igl&dl=1",
+                    "duration_ms": 268000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731d0bba9257613bca9c0c237a",
+                    "id": 152,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Zay Manty",
+                    "track_url": "https://www.dropbox.com/scl/fi/24um5pqigba9d8fveq9l3/10._Zay_Manty.mp3?rlkey=pz0rxmsl1n9g6vwkxu9rzzbr3&st=a34wu6u2&dl=1",
+                    "duration_ms": 203000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731d0bba9257613bca9c0c237a",
+                    "id": 153,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Ya Rawa'anek",
+                    "track_url": "https://www.dropbox.com/scl/fi/hs77mxte34p9qtgfj3ox5/11._Ya_Rawaanek.mp3?rlkey=s3fchoqlujlqdhih25cx664jg&st=d3xuxjfm&dl=1",
+                    "duration_ms": 255000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731d0bba9257613bca9c0c237a",
+                    "id": 154,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Rooh",
+                    "track_url": "https://www.dropbox.com/scl/fi/8x2pa0gpf3htuczm0ppb9/12._Rooh.mp3?rlkey=xmmmgjyc6wcb7bgttkqt1gqf8&st=p9vlxsax&dl=1",
+                    "duration_ms": 258000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731d0bba9257613bca9c0c237a",
+                    "id": 155,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Bahebo",
+                    "track_url": "https://www.dropbox.com/scl/fi/m0a0u9ht8xgvyf80hpo6v/13._Bahebo.mp3?rlkey=tidhzlgvetdxkn0qxjqyownqz&st=ugk76eol&dl=1",
+                    "duration_ms": 238000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731d0bba9257613bca9c0c237a",
+                    "id": 156,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Odam Merayetha",
+                    "track_url": "https://www.dropbox.com/scl/fi/dnf28bpy8bnq1iy2qij2e/14._Odam_Merayetha.mp3?rlkey=ozvrieb4qksq5c7ffpx9lch4w&st=tqqpl8r2&dl=1",
+                    "duration_ms": 222000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731d0bba9257613bca9c0c237a",
+                    "id": 157,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Youm Talat",
+                    "track_url": "https://www.dropbox.com/scl/fi/ig85wxvnj8th72b08i1n5/15._Youm_Talat.mp3?rlkey=1j40upjqrggml68r1cee24w0o&st=syy6etzw&dl=1",
+                    "duration_ms": 212000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731d0bba9257613bca9c0c237a",
+                    "id": 158,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Awel Youm Fi Elboad",
+                    "track_url": "https://www.dropbox.com/scl/fi/gp7e3gggenaj30827707h/16._Awel_Youm_Fi_Elboad.mp3?rlkey=c8udd65ug7e8jj1wkhlzd6djv&st=5sjrg8ou&dl=1",
+                    "duration_ms": 235300,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731d0bba9257613bca9c0c237a",
+                    "id": 159,
+                    "artist": "Amr Diab"
+                }
+            ],
+            "id": 143
+        },
+        {
+            "name": "Kol Hayaty",
+            "release_date": "2018-10-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273184b0c5e437b7532db044395",
+            "track_url": "https://open.spotify.com/album/3L0hXZN4rDa9VTslS1qBLC",
+            "tracks": [
+                {
+                    "name": "Ya Saher",
+                    "track_url": "https://www.dropbox.com/scl/fi/iynbvj4fh3lctaumi4fua/01._Ya_Saher.mp3?rlkey=r3hrmiztr1kdn93400rvqukpb&st=28asqw1r&dl=1",
+                    "duration_ms": 180316,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273184b0c5e437b7532db044395",
+                    "id": 161,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Yetalemo",
+                    "track_url": "https://www.dropbox.com/scl/fi/yyhqpzmrwgncpkn6w3nnu/02._Yetalemo.mp3?rlkey=st95iy48txh8c3l2bxo6z57oc&st=gfhmdrrf&dl=1",
+                    "duration_ms": 236559,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273184b0c5e437b7532db044395",
+                    "id": 162,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Kont Fe Baly",
+                    "track_url": "https://www.dropbox.com/scl/fi/1rm7cfww6wqm6of3y2lkv/03._Kont_Fe_Baly.mp3?rlkey=zqnh5d6teykplhxo893rogydc&st=7dint9l9&dl=1",
+                    "duration_ms": 233141,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273184b0c5e437b7532db044395",
+                    "id": 163,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Enta Maghroor",
+                    "track_url": "https://www.dropbox.com/scl/fi/1g43q6ov0uh44exxrwnt8/04._Enta_Maghroor.mp3?rlkey=du5hjeh2iccwcibv4o103yo8b&st=r94c5h3r&dl=1",
+                    "duration_ms": 188864,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273184b0c5e437b7532db044395",
+                    "id": 164,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Da Law Etsab",
+                    "track_url": "https://www.dropbox.com/scl/fi/5iq5p7hr4n1zzkdlggff8/06._Da_Law_Etsab.mp3?rlkey=ak3xgv61ho58bkm5097f49och&st=85v9hdaj&dl=1",
+                    "duration_ms": 254158,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273184b0c5e437b7532db044395",
+                    "id": 165,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Hadded",
+                    "track_url": "https://www.dropbox.com/scl/fi/noyz7itgrmpljzn1gl3kk/07._Hadded.mp3?rlkey=yo3rs9rqke3zkmtbvw3295i85&st=3ton9lez&dl=1",
+                    "duration_ms": 327917,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273184b0c5e437b7532db044395",
+                    "id": 166,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Kol Hayaty",
+                    "track_url": "https://www.dropbox.com/scl/fi/mca3v4xggaqucwl5ckml4/08._Kol_Hayaty.mp3?rlkey=feq6xedzqunz5h8snmxzl7z6q&st=a5zb3oir&dl=1",
+                    "duration_ms": 265461,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273184b0c5e437b7532db044395",
+                    "id": 167,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Malak Elhosn",
+                    "track_url": "https://www.dropbox.com/scl/fi/fpfhdgzj0c7bmjkuq00rf/09._Malak_Elhosn.mp3?rlkey=pjtcboubs0jbtycukejn0tidn&st=hgqf2pzd&dl=1",
+                    "duration_ms": 166442,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273184b0c5e437b7532db044395",
+                    "id": 168,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "A'alk Nedem",
+                    "track_url": "https://www.dropbox.com/scl/fi/n4t8baqaslchjw4goqt0l/10._A-alk_Nedem.mp3?rlkey=8znsnrqwjyltzu1aglkbm78ru&st=j76m60rl&dl=1",
+                    "duration_ms": 181888,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273184b0c5e437b7532db044395",
+                    "id": 169,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Bayen Habeit (Inspired by Amr Diab)",
+                    "track_url": "https://www.dropbox.com/scl/fi/agfrq1duudgmk332kk3rq/11._Bayen_Habeit.mp3?rlkey=ls0lynih8unzkqsrqe7icmvou&st=76y7y18a&dl=1",
+                    "duration_ms": 182930,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273184b0c5e437b7532db044395",
+                    "id": 170,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Ya Hanaah",
+                    "track_url": "https://www.dropbox.com/scl/fi/reykx5ehdsn6wkfch30tx/12._Ya_Hanaah.mp3?rlkey=vn1692vgw8ti3qt8ctfuetpwd&st=xv1rm73y&dl=1",
+                    "duration_ms": 284223,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273184b0c5e437b7532db044395",
+                    "id": 171,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Ta'ali",
+                    "track_url": "https://www.dropbox.com/scl/fi/zj7hjjcoa6wu6mpkbm73i/13._Taali.mp3?rlkey=1ukjd6he0rkc1squ2dkfs2ddd&st=vru77htn&dl=1",
+                    "duration_ms": 202013,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273184b0c5e437b7532db044395",
+                    "id": 172,
+                    "artist": "Amr Diab"
+                }
+            ],
+            "id": 160
+        },
+        {
+            "name": "Meaddy El Nas",
+            "release_date": "2017-08-13",
+            "image": "https://i.scdn.co/image/ab67616d0000b27367af2f56c1bc705a856d2a87",
+            "track_url": "https://open.spotify.com/album/1mrzsRg8FgZKlB0LQl0IAr",
+            "tracks": [
+                {
+                    "name": "Alby Etmannah",
+                    "track_url": "https://www.dropbox.com/scl/fi/j92b727o3asipuq6i1gq8/01_Alby_Etmannah.mp3?rlkey=x2qugbwt33a2ee4o1l8lnk266&st=i9mgesv9&dl=1",
+                    "duration_ms": 250478,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27367af2f56c1bc705a856d2a87",
+                    "id": 174,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Amar Eah",
+                    "track_url": "https://www.dropbox.com/scl/fi/6vt42sw2wbvqwx9bbk4st/03_Amar_Eah.mp3?rlkey=wfufjl8paofw9hy9nrv12e9ko&st=nw39dbhk&dl=1",
+                    "duration_ms": 201731,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27367af2f56c1bc705a856d2a87",
+                    "id": 175,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Ah Habiby",
+                    "track_url": "https://www.dropbox.com/scl/fi/ny51bhxcqzuqee9jq3b9f/04_Ah_Habibi.mp3?rlkey=keh1bgw8ha42hosgki7c9kva5&st=6lo071zr&dl=1",
+                    "duration_ms": 280851,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27367af2f56c1bc705a856d2a87",
+                    "id": 176,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Awel Kol Haga",
+                    "track_url": "https://www.dropbox.com/scl/fi/9j5wq0jmql70595n343sa/05_Awel_Kolhaga.mp3?rlkey=8lezdfzjuk6b38g8sdn91esl5&st=j5pr43sk&dl=1",
+                    "duration_ms": 281211,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27367af2f56c1bc705a856d2a87",
+                    "id": 177,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Ya Agmal Eyoun",
+                    "track_url": "https://www.dropbox.com/scl/fi/q1dbrcoitttdm7r2yv0t8/06_Agmal_Eyoun.mp3?rlkey=ode9k4cd1ji5cpnsonuucvy7p&st=fw3kt0ga&dl=1",
+                    "duration_ms": 219145,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27367af2f56c1bc705a856d2a87",
+                    "id": 178,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Nghamet El Herman",
+                    "track_url": "https://www.dropbox.com/scl/fi/y9outestknycg6hn586ve/07_Nghamet_El_Herman.mp3?rlkey=icvuq6f6zpmjdxahqpnmdylri&st=7g6fxsy2&dl=1",
+                    "duration_ms": 251838,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27367af2f56c1bc705a856d2a87",
+                    "id": 179,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Ganb Habiby",
+                    "track_url": "https://www.dropbox.com/scl/fi/ll6rlzaafvwh68k2f8hnc/08_Ganb_Habibi.mp3?rlkey=8nrn4l2jea8wfe0ldjbst733i&st=she9pste&dl=1",
+                    "duration_ms": 240758,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27367af2f56c1bc705a856d2a87",
+                    "id": 180,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Habayeb Eh",
+                    "track_url": "https://www.dropbox.com/scl/fi/pc26oqm5rr55pcdgqgtfr/09_Habayeb_Eh.mp3?rlkey=7xk8j7wlvtk0zd6dvrvpdtuis&st=bnu25qsf&dl=1",
+                    "duration_ms": 252785,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27367af2f56c1bc705a856d2a87",
+                    "id": 181,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Meaddy El Nas",
+                    "track_url": "https://www.dropbox.com/scl/fi/un8sh5izpt0siudksi89t/02_Meaddy_El_Nas.mp3?rlkey=pseyv2tba4cct8sepih45m9hi&st=px5bqh6u&dl=1",
+                    "duration_ms": 255531,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27367af2f56c1bc705a856d2a87",
+                    "id": 182,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Ya Ahla Haga",
+                    "track_url": "https://www.dropbox.com/scl/fi/3j8n1cc98tj815gxk053n/10_Ahla_Haga.mp3?rlkey=mj8x0n6rzig2fuzlcwca05vvb&st=5291plyx&dl=1",
+                    "duration_ms": 346078,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27367af2f56c1bc705a856d2a87",
+                    "id": 183,
+                    "artist": "Amr Diab"
+                }
+            ],
+            "id": 173
+        },
+        {
+            "name": "من أسماء الله الحسنى",
+            "release_date": "2016-06-02",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e667ffe902a495670e8fc0da",
+            "track_url": "https://open.spotify.com/album/5DKWeowCb5NYYRjUmkpDUi",
+            "tracks": [
+                {
+                    "name": "الله",
+                    "track_url": "https://www.dropbox.com/scl/fi/fd46hr3rlarbk0jjezmb3/01_-_Allah.mp3?rlkey=y3petzp3t5y6eleng9814xo6p&st=2kbuzpvv&dl=1",
+                    "duration_ms": 69554,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e667ffe902a495670e8fc0da",
+                    "id": 185,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "الرحمن",
+                    "track_url": "https://www.dropbox.com/scl/fi/lk8nxathefg5kzn4w8oie/02_-_Al_Rahman.mp3?rlkey=dchr3dxr11glzhgxhf8yd1sy3&st=4orei0x2&dl=1",
+                    "duration_ms": 82298,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e667ffe902a495670e8fc0da",
+                    "id": 186,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "السلام",
+                    "track_url": "https://www.dropbox.com/scl/fi/ae785gpt8bbtqh8lgkzb3/03_-_Al_Salam.mp3?rlkey=fgl8lz28ws5pnnofkdc0poz5c&st=mcdkz4tk&dl=1",
+                    "duration_ms": 72112,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e667ffe902a495670e8fc0da",
+                    "id": 187,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "الخالق",
+                    "track_url": "https://www.dropbox.com/scl/fi/7lbtblx4vqo1uqcza95a1/04_-_Al_Khaliq.mp3?rlkey=a0qwztfxter5g1jrv50uomh40&st=bdub6g2f&dl=1",
+                    "duration_ms": 68563,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e667ffe902a495670e8fc0da",
+                    "id": 188,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "المصور",
+                    "track_url": "https://www.dropbox.com/scl/fi/eq7jlnnmlqqgb9l0ax2sb/05_-_Al_Musawwir.mp3?rlkey=7y3smy9h84g6p3arp6b0yvdt4&st=i6qgpu2p&dl=1",
+                    "duration_ms": 64074,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e667ffe902a495670e8fc0da",
+                    "id": 189,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "الغفار",
+                    "track_url": "https://www.dropbox.com/scl/fi/6tuamzw9cmd2s7hehnalv/06_-_Al_Ghaffar.mp3?rlkey=fjfync9p4oanpk67a3jidkcyi&st=irrlg5np&dl=1",
+                    "duration_ms": 63509,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e667ffe902a495670e8fc0da",
+                    "id": 190,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "الرزاق",
+                    "track_url": "https://www.dropbox.com/scl/fi/a1z3d1gfp6dlqezjkuhan/07_-_Al_Razaq.mp3?rlkey=4d3l0t2wtqfl04y7mto9msmlt&st=phannypc&dl=1",
+                    "duration_ms": 111452,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e667ffe902a495670e8fc0da",
+                    "id": 191,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "الفتاح",
+                    "track_url": "https://www.dropbox.com/scl/fi/hek74mp6eaw8q3yg15xqv/08_-_Al_Fatah.mp3?rlkey=lzcm5r2zabv39i0zxo34vsl1g&st=r74e90tt&dl=1",
+                    "duration_ms": 75186,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e667ffe902a495670e8fc0da",
+                    "id": 192,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "الباسط",
+                    "track_url": "https://www.dropbox.com/scl/fi/0aoqr28t4byj20as3hkvj/09_-_Al_Baset.mp3?rlkey=0ymt6q5h8ec1yrztdjlbjjkh7&st=y5ciym0n&dl=1",
+                    "duration_ms": 69488,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e667ffe902a495670e8fc0da",
+                    "id": 193,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "الحق",
+                    "track_url": "https://www.dropbox.com/scl/fi/gphouqq0n8rdkt68u7ymz/10_-_Al_Haq.mp3?rlkey=fi1odktlekno07geu67pvk9p5&st=77aatvv1&dl=1",
+                    "duration_ms": 49131,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e667ffe902a495670e8fc0da",
+                    "id": 194,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "القوي",
+                    "track_url": "https://www.dropbox.com/scl/fi/xotnysy205ftzsdvkyd9q/11_-_Al_Qawwi.mp3?rlkey=hd033smqeu2ps2nezsehmwm9x&st=dqfb930c&dl=1",
+                    "duration_ms": 71199,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e667ffe902a495670e8fc0da",
+                    "id": 195,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "البر",
+                    "track_url": "https://www.dropbox.com/scl/fi/l91ijrkbpzkgjkpqys3ux/12_-_Al_Barr.mp3?rlkey=f9uadyfhq0bxy5kaw7q68iee9&st=1zyxglty&dl=1",
+                    "duration_ms": 74955,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e667ffe902a495670e8fc0da",
+                    "id": 196,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "العفو",
+                    "track_url": "https://www.dropbox.com/scl/fi/9xz4rx2ta2dvk5qjhtnv3/13_-_Al_Afuw.mp3?rlkey=1vm1ynlknggqncjq2fkp0tgxg&st=zsfzdvmz&dl=1",
+                    "duration_ms": 56951,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e667ffe902a495670e8fc0da",
+                    "id": 197,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "الغني",
+                    "track_url": "https://www.dropbox.com/scl/fi/xeer325jcn0jwscavaksy/14_-_Al_Ghanni.mp3?rlkey=l1wsyukm55octpbrc6fypxba7&st=7vz3zo43&dl=1",
+                    "duration_ms": 80599,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e667ffe902a495670e8fc0da",
+                    "id": 198,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "المغني",
+                    "track_url": "https://www.dropbox.com/scl/fi/9kt24wuqi4daou0q7p8x0/15_-_Al_Moghni.mp3?rlkey=0ohau0fthfg4u7dj77wnoki31&st=d24a4775&dl=1",
+                    "duration_ms": 92894,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e667ffe902a495670e8fc0da",
+                    "id": 199,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "النور",
+                    "track_url": "https://www.dropbox.com/scl/fi/qvj7qdbofeq6vwja1j1ty/16_-_Al_Noor.mp3?rlkey=5n3rucidckkr67rnziz1y8dy2&st=gnpax3wy&dl=1",
+                    "duration_ms": 32785,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e667ffe902a495670e8fc0da",
+                    "id": 200,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "الهادي",
+                    "track_url": "https://www.dropbox.com/scl/fi/9ox6zibdl1803pttuma21/17_-_Al_Hadi.mp3?rlkey=n10y88e4ujux5gvz8kup3q2bg&st=hblueg1o&dl=1",
+                    "duration_ms": 59227,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e667ffe902a495670e8fc0da",
+                    "id": 201,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "البديع",
+                    "track_url": "https://www.dropbox.com/scl/fi/enadqdpxbqg8h8mkdncxj/18_-_Al_Badea.mp3?rlkey=6gezzqttcbtvsukc454pqbymg&st=kvevsawh&dl=1",
+                    "duration_ms": 82298,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e667ffe902a495670e8fc0da",
+                    "id": 202,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "الباقي",
+                    "track_url": "https://www.dropbox.com/scl/fi/g82x7yjddy13qixfex46z/19_-_Al_Baqi.mp3?rlkey=kvrlhu127a7n3l6a35zdg99i9&st=3kg61wzr&dl=1",
+                    "duration_ms": 55329,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e667ffe902a495670e8fc0da",
+                    "id": 203,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "الصبور",
+                    "track_url": "https://www.dropbox.com/scl/fi/fbbvycw5z9o8j41w4ux0w/20_-_Al_Sabour.mp3?rlkey=dp1oqs7ss63xik08wlw06c7hb&st=cbfdnc2o&dl=1",
+                    "duration_ms": 55973,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e667ffe902a495670e8fc0da",
+                    "id": 204,
+                    "artist": "Amr Diab"
+                }
+            ],
+            "id": 184
+        },
+        {
+            "name": "Ahla W Ahla",
+            "release_date": "2016-04-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b27343b631a1e61aa93b9db9f7a8",
+            "track_url": "https://open.spotify.com/album/1Gq9bcUaRH9zVjv5oiRlb4",
+            "tracks": [
+                {
+                    "name": "Rasmaha",
+                    "track_url": "https://www.dropbox.com/scl/fi/mhzkc4t3g8i4st7gcxg7v/01_-_Rasmaha.mp3?rlkey=5479sn44tlachipegl20ft6eh&st=0w8uw25w&dl=1",
+                    "duration_ms": 203946,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27343b631a1e61aa93b9db9f7a8",
+                    "id": 206,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Ahla W Ahla",
+                    "track_url": "https://www.dropbox.com/scl/fi/3df133v2ns8vpblvtoomo/09_-_Ahla_W_Ahla.mp3?rlkey=vuepojovu1bltb8xdjb27yklj&st=0z5ntq5f&dl=1",
+                    "duration_ms": 180946,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27343b631a1e61aa93b9db9f7a8",
+                    "id": 207,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Maak Alby",
+                    "track_url": "https://www.dropbox.com/scl/fi/f1br9a2yl77ypqmxkyiaq/04_-_Maak_Alby.mp3?rlkey=xa7k0dt34l0kv3tutjxi71a66&st=hb0k7h5z&dl=1",
+                    "duration_ms": 198746,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27343b631a1e61aa93b9db9f7a8",
+                    "id": 208,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Amentak",
+                    "track_url": "https://www.dropbox.com/scl/fi/tdnoj8f5x94c6hcafvwrg/07_-_Amentak.mp3?rlkey=rkofjvzl7xzf9pehek8d13j5x&st=kqidzvhw&dl=1",
+                    "duration_ms": 310133,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27343b631a1e61aa93b9db9f7a8",
+                    "id": 209,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "La La",
+                    "track_url": "https://www.dropbox.com/scl/fi/tbbv46quafue9b6k1s2pa/05_-_La_La.mp3?rlkey=xxq3b1ha103k4fnnapgg9lqxs&st=pf45w3q1&dl=1",
+                    "duration_ms": 222466,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27343b631a1e61aa93b9db9f7a8",
+                    "id": 210,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Aks Baad",
+                    "track_url": "https://www.dropbox.com/scl/fi/o3eijug5k8jbkleh1tdqz/11_-_Aks_Baad.mp3?rlkey=s4f0mh1mv855vcl06btkgcgxf&st=a4yrpu94&dl=1",
+                    "duration_ms": 267040,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27343b631a1e61aa93b9db9f7a8",
+                    "id": 211,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Habibty",
+                    "track_url": "https://www.dropbox.com/scl/fi/ua34l93g2kng3hdmcz8u9/06_-_Habibty.mp3?rlkey=0nsnj7u8xl9wdiy6ufbj3mqaq&st=6jee4tqj&dl=1",
+                    "duration_ms": 222893,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27343b631a1e61aa93b9db9f7a8",
+                    "id": 212,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Waadtak",
+                    "track_url": "https://www.dropbox.com/scl/fi/o45h5csm8mh3soarjfeee/02_-_Waadtak.mp3?rlkey=l8nu10djbluoz4qeyrahu0blw&st=mrwy66az&dl=1",
+                    "duration_ms": 224160,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27343b631a1e61aa93b9db9f7a8",
+                    "id": 213,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Ragea",
+                    "track_url": "https://www.dropbox.com/scl/fi/9549v7waz6vpa7g98cmy0/10_-_Ragea.mp3?rlkey=2psqwexmxeph67yf05hxxgn34&st=xk26p3su&dl=1",
+                    "duration_ms": 209186,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27343b631a1e61aa93b9db9f7a8",
+                    "id": 214,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Ala Hobak",
+                    "track_url": "https://www.dropbox.com/scl/fi/kqq0j3skrg5x7kwhddwh7/03_-_Ala_Hobak.mp3?rlkey=f2toicyt1bsmjty2frad7devr&st=vbmtt2jb&dl=1",
+                    "duration_ms": 262226,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27343b631a1e61aa93b9db9f7a8",
+                    "id": 215,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Ana W Enta",
+                    "track_url": "https://www.dropbox.com/scl/fi/52hdwx8ciunwtfg2fbbuo/08_-_Ana_W_Enta.mp3?rlkey=guqigviv1kn53x3egf0orv8r8&st=4i0qqex3&dl=1",
+                    "duration_ms": 241693,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27343b631a1e61aa93b9db9f7a8",
+                    "id": 216,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Omrena Ma Hanergea",
+                    "track_url": "https://www.dropbox.com/scl/fi/qwxi8ac1uxg915wulxp9j/12_-_Omrena_Ma_Hanergea.mp3?rlkey=pvdtmh73rhocqb8s9lcc80ycz&st=afhfmrey&dl=1",
+                    "duration_ms": 208346,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27343b631a1e61aa93b9db9f7a8",
+                    "id": 217,
+                    "artist": "Amr Diab"
+                }
+            ],
+            "id": 205
+        },
+        {
+            "name": "Ya Tareeq",
+            "release_date": "2014-12-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a2fe1e657e50598ca383ffaa",
+            "track_url": "https://open.spotify.com/album/5gA5J93C7QFKW0FQzlOSzz",
+            "tracks": [
+                {
+                    "name": "Ya Tareeq Ya Tareeq",
+                    "track_url": "https://www.dropbox.com/scl/fi/1bwkias76xjg6wld5wjfj/Ahmedwap.Com__ya_tryk.mp3?rlkey=d389vr5nxk883sx0ulk7fvrhs&st=g7wsuezt&dl=1",
+                    "duration_ms": 200013,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a2fe1e657e50598ca383ffaa",
+                    "id": 219,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "El Madeena",
+                    "track_url": "https://www.dropbox.com/scl/fi/73l0ft3gj3r6h9q4n1pr5/.mp3?rlkey=k5avwxp6wh8hxrslo0krvt94q&st=0bpdi3bc&dl=1",
+                    "duration_ms": 374813,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a2fe1e657e50598ca383ffaa",
+                    "id": 220,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Bheb El Hayah",
+                    "track_url": "https://www.dropbox.com/scl/fi/7cqxag7sji7va25bw1xzh/Ahmedwap.Com_amrw_dyab_bhb_alhyah.mp3?rlkey=1m7ou6dqx3bjnmmq3onc6atu2&st=o8aixkni&dl=1",
+                    "duration_ms": 279720,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a2fe1e657e50598ca383ffaa",
+                    "id": 221,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "El Zaman",
+                    "track_url": "https://www.dropbox.com/scl/fi/jls4cqvnzcdzbo3wz3fix/Ahmedwap.Com_amrw_dyab_alzmn.mp3?rlkey=bvsitb2p4sru1pezuw9hiz76e&st=2qorys7j&dl=1",
+                    "duration_ms": 246826,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a2fe1e657e50598ca383ffaa",
+                    "id": 222,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Nawar Ya Leyl",
+                    "track_url": "https://www.dropbox.com/scl/fi/he18oc2teeyo4o538wgsm/Ahmedwap.Com_amrw_dyab_nwr_ya_lyl.mp3?rlkey=eh8e8r5ced5suosbfic5g2ews&st=v7t4j7g6&dl=1",
+                    "duration_ms": 250266,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a2fe1e657e50598ca383ffaa",
+                    "id": 223,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Wa't We Eshnah",
+                    "track_url": "https://www.dropbox.com/scl/fi/24ykmh43otsrj2mtq7x4o/Ahmedwap.Com_amrw_dyab_wkt_washnah.mp3?rlkey=725he0ahx2j2cu48abc70gzog&st=ktdmk8un&dl=1",
+                    "duration_ms": 282213,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a2fe1e657e50598ca383ffaa",
+                    "id": 224,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Ahla Donia",
+                    "track_url": "https://www.dropbox.com/scl/fi/r2ou14udczy5uhym627z7/Ahmedwap.Com_amrw_dyab_ahly_dnya.mp3?rlkey=9rxmzza9ahsr9v0l6k2jpv0yh&st=ptkv8g74&dl=1",
+                    "duration_ms": 185240,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a2fe1e657e50598ca383ffaa",
+                    "id": 225,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Ahdan El Gabal",
+                    "track_url": "https://www.dropbox.com/scl/fi/gf4x2znknu9i9vgdkk6sn/Ahmedwap.Com_amrw_dyab_fy_ahdan_algbal.mp3?rlkey=vzpqz8g47husqt8dalotbmqaz&st=yvg8lyu2&dl=1",
+                    "duration_ms": 357355,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a2fe1e657e50598ca383ffaa",
+                    "id": 226,
+                    "artist": "Amr Diab"
+                }
+            ],
+            "id": 218
+        },
+        {
+            "name": "Shoft El Ayam",
+            "release_date": "2014-01-05",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c9cc2556d3aae4d34e793156",
+            "track_url": "https://open.spotify.com/album/6XFBQAGNOez6octj9v4MUo",
+            "tracks": [
+                {
+                    "name": "Shoft El Ayam",
+                    "track_url": "https://www.dropbox.com/scl/fi/5edxnx2jhvv3273e46e1c/01._Shoft_Elayam.mp3?rlkey=oyacjnvkptm59vidrsu35ap7b&st=x9ct6z6x&dl=1",
+                    "duration_ms": 282880,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c9cc2556d3aae4d34e793156",
+                    "id": 228,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Ana Mosh Anany",
+                    "track_url": "https://www.dropbox.com/scl/fi/21vtqoifsn2xykbv2sgth/04._Ana_Mosh_Anany.mp3?rlkey=7gj7b56ad6vh1l9movboixybt&st=h6m0lxj9&dl=1",
+                    "duration_ms": 289959,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c9cc2556d3aae4d34e793156",
+                    "id": 229,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Gamalo",
+                    "track_url": "https://www.dropbox.com/scl/fi/mwfsl6ifvragqacdx5jtn/02._Gamalo.mp3?rlkey=g0pu02xamqyp6krr0a1xr6bvy&st=duf3ddwk&dl=1",
+                    "duration_ms": 209136,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c9cc2556d3aae4d34e793156",
+                    "id": 230,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Aiwa Etghayart",
+                    "track_url": "https://www.dropbox.com/scl/fi/iw3rxsl0rq6bc0ia2oxqn/10._Aiwa_Etghayart.mp3?rlkey=357cmd10n8weafa69d5x1b9mc&st=r6h0etew&dl=1",
+                    "duration_ms": 234004,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c9cc2556d3aae4d34e793156",
+                    "id": 231,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Saet EL Forak",
+                    "track_url": "https://www.dropbox.com/scl/fi/8h7anavwc88dfzqwid0jh/07._Saaet_El_Foraaa.mp3?rlkey=5ottwaaeg66ajghr7ru3szezd&st=5vh49ygb&dl=1",
+                    "duration_ms": 234161,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c9cc2556d3aae4d34e793156",
+                    "id": 232,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Aho Leil Wi Aada",
+                    "track_url": "https://www.dropbox.com/scl/fi/uvu2qjh24mfmfuzesh9j0/11._Aho_Leil_Wi_Aaada.mp3?rlkey=wj71cctak2ulsqa5wlgd42off&st=1c7h3coq&dl=1",
+                    "duration_ms": 245603,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c9cc2556d3aae4d34e793156",
+                    "id": 233,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Kan Kol Haga",
+                    "track_url": "https://www.dropbox.com/scl/fi/gixth4vomdmc1zxgf3vwy/09._Kan_Kol_Haga.mp3?rlkey=t710i8lnubv76yvm3gabefi0t&st=d4dsvglx&dl=1",
+                    "duration_ms": 213106,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c9cc2556d3aae4d34e793156",
+                    "id": 234,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "We Hatebtady",
+                    "track_url": "https://www.dropbox.com/scl/fi/shz1zvpnlc55zm7fm4mbm/03._Wi_Hatebtedy_El_Hekayat.mp3?rlkey=xh1c8q3d9tvkv89fr1i0clece&st=mp6k55g2&dl=1",
+                    "duration_ms": 222511,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c9cc2556d3aae4d34e793156",
+                    "id": 235,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "We Neesh",
+                    "track_url": "https://www.dropbox.com/scl/fi/h2b5y8q6v2dot1dl32159/05._Wi_Neaaesh.mp3?rlkey=peia2efu99euej4ckd0fn690i&st=g743f6hq&dl=1",
+                    "duration_ms": 239647,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c9cc2556d3aae4d34e793156",
+                    "id": 236,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Jana",
+                    "track_url": "https://www.dropbox.com/scl/fi/wb5pb4deiijw3i6n3sz66/08._Jana.mp3?rlkey=1pi1uqztbmq0jsve2l86bc7m3&st=cyzp9724&dl=1",
+                    "duration_ms": 183222,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c9cc2556d3aae4d34e793156",
+                    "id": 237,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Mosh Gedid",
+                    "track_url": "https://www.dropbox.com/scl/fi/7skvbcml47616mmk1fr4x/06._Mosh_Gedeed.mp3?rlkey=7vi9wod7ly8ejlz5zwx0xyupt&st=x5uwc8w1&dl=1",
+                    "duration_ms": 222432,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c9cc2556d3aae4d34e793156",
+                    "id": 238,
+                    "artist": "Amr Diab"
+                }
+            ],
+            "id": 227
+        },
+        {
+            "name": "El Leila",
+            "release_date": "2013-09-27",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b13fd14d466c2748bdc6c928",
+            "track_url": "https://open.spotify.com/album/07MMxpjPqLF0oKQNXMxv17",
+            "tracks": [
+                {
+                    "name": "Al Leila",
+                    "track_url": "https://www.dropbox.com/scl/fi/yi3sp91vvs0jfup8klbnd/02_Al_Leila.mp3?rlkey=2tv5i5z4046cej6htne40aul4&st=tsopsocc&dl=1",
+                    "duration_ms": 237348,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b13fd14d466c2748bdc6c928",
+                    "id": 240,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Sebt Faragh Kebeer",
+                    "track_url": "https://www.dropbox.com/scl/fi/np5j7fz9lp242oh57wfs7/10_Sebt_Faragh_Kibeer.mp3?rlkey=ecsp0zwvoii4yzken2ua2otxx&st=e8pkhuns&dl=1",
+                    "duration_ms": 208848,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b13fd14d466c2748bdc6c928",
+                    "id": 241,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Garaly Eeh",
+                    "track_url": "https://www.dropbox.com/scl/fi/qjjs2xob2ehkgo41475j1/05_Garaly_Eeh.mp3?rlkey=3phq95wsapztryamcfxtldqki&st=tw8fjnmr&dl=1",
+                    "duration_ms": 222328,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b13fd14d466c2748bdc6c928",
+                    "id": 242,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Adit El Ayam",
+                    "track_url": "https://www.dropbox.com/scl/fi/58k9xvnov67dilequpkbf/01_Adit_El_Ayam.mp3?rlkey=lqi4qmo8o5iqk7av0b8chyszq&st=cdoohfzv&dl=1",
+                    "duration_ms": 225515,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b13fd14d466c2748bdc6c928",
+                    "id": 243,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Khalina Lewahdina",
+                    "track_url": "https://www.dropbox.com/scl/fi/gt5cbgcix7xv7nfo29o9r/07_Khalina_Lewahdina.mp3?rlkey=d2lg5aulwjw52aiuuvf7bkfk4&st=gpflkmzo&dl=1",
+                    "duration_ms": 319242,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b13fd14d466c2748bdc6c928",
+                    "id": 244,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Wahy Zekrayat",
+                    "track_url": "https://www.dropbox.com/scl/fi/x22agqglnm26opmnenl33/11_Wahy_Zekrayat.mp3?rlkey=c4usqe1mzrbi66p9zgwhkayl5&st=223yta98&dl=1",
+                    "duration_ms": 198817,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b13fd14d466c2748bdc6c928",
+                    "id": 245,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Mafeesh Menak",
+                    "track_url": "https://www.dropbox.com/scl/fi/9n108qo0kgffmyycr59mh/09_Mafeesh_Menak.mp3?rlkey=tv3wqxogk79ub0ahnwxhgrzd8&st=4xs4coon&dl=1",
+                    "duration_ms": 197067,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b13fd14d466c2748bdc6c928",
+                    "id": 246,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Fouq Men Elenta Feh",
+                    "track_url": "https://www.dropbox.com/scl/fi/1pxi8n9ullpgnwkr035qa/04_Fouq_Men_Elenta_Feh.mp3?rlkey=wbk69um23c3g5ff1pzhdwksup&st=hufa15oh&dl=1",
+                    "duration_ms": 270863,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b13fd14d466c2748bdc6c928",
+                    "id": 247,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Endi Soal",
+                    "track_url": "https://www.dropbox.com/scl/fi/mbnijaxkoxooakl0ghzsn/03_Andy_Suwal.mp3?rlkey=8phzv98t8bjojxor96m9ycc4h&st=apicipjx&dl=1",
+                    "duration_ms": 218279,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b13fd14d466c2748bdc6c928",
+                    "id": 248,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Ya Albaha",
+                    "track_url": "https://www.dropbox.com/scl/fi/eo6kchksgtrzqg0svgkva/12_Ya_Albaha.mp3?rlkey=hawbnh4zxghug68f9lqnnijxk&st=9i6ig6cw&dl=1",
+                    "duration_ms": 243095,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b13fd14d466c2748bdc6c928",
+                    "id": 249,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Habit Ya Alby",
+                    "track_url": "https://www.dropbox.com/scl/fi/mgpu5v3wiihi4c8goixmf/06_Habeet_Ya_Alby.mp3?rlkey=s7pqrmlbei6vy2n5vbot0w6vs&st=8boxufvp&dl=1",
+                    "duration_ms": 219715,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b13fd14d466c2748bdc6c928",
+                    "id": 250,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Lafetha Belad",
+                    "track_url": "https://www.dropbox.com/scl/fi/o7s40w2w8vpuw3ojqtg8y/08_Lafetha_Belad.mp3?rlkey=qsr0m3ow4qnw0fuym6vehzin3&st=f55rzgcs&dl=1",
+                    "duration_ms": 214648,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b13fd14d466c2748bdc6c928",
+                    "id": 251,
+                    "artist": "Amr Diab"
+                }
+            ],
+            "id": 239
+        },
+        {
+            "name": "Banadek Taala",
+            "release_date": "2011-07-29",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735b157a812e74260aec2ad156",
+            "track_url": "https://open.spotify.com/album/7r9M9gRWIaMq1wLabTGX6H",
+            "tracks": [
+                {
+                    "name": "Banadeek Taala",
+                    "track_url": "https://www.dropbox.com/scl/fi/5lvxwstdyaeomw09dofbs/01_Banadeek_Taala.mp3?rlkey=9q8c7k0inw3a3rjpafambewgt&st=neju12a7&dl=1",
+                    "duration_ms": 195239,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735b157a812e74260aec2ad156",
+                    "id": 253,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Allumak Leh",
+                    "track_url": "https://www.dropbox.com/scl/fi/a6swiocpn12f8iyu3l789/04_Allumak_Leh.mp3?rlkey=cx4wtqx4q629mczsqwg8upwhx&st=fdg3gudr&dl=1",
+                    "duration_ms": 200751,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735b157a812e74260aec2ad156",
+                    "id": 254,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Aghla Min Omry",
+                    "track_url": "https://www.dropbox.com/scl/fi/h57ihkazeo8h5chg03jxq/10_Aghla_Min_Omry.mp3?rlkey=vx2s06y14myoaebdv6rgjv074&st=vsqwhiy7&dl=1",
+                    "duration_ms": 285857,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735b157a812e74260aec2ad156",
+                    "id": 255,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Maadarsh Ana",
+                    "track_url": "https://www.dropbox.com/scl/fi/gunvtiaclkw2et2apr8pj/03_Madrrsh_Ana.mp3?rlkey=iktqv4pv5oq9e120vcahl330r&st=pgug99kt&dl=1",
+                    "duration_ms": 231888,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735b157a812e74260aec2ad156",
+                    "id": 256,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Youm Matabelna",
+                    "track_url": "https://www.dropbox.com/scl/fi/txs1qul9smtpaqno7ak81/09_Youm_Matbelna.mp3?rlkey=hyhgh2guei1rsu45wct0dt9u3&st=ajjea67o&dl=1",
+                    "duration_ms": 205244,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735b157a812e74260aec2ad156",
+                    "id": 257,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Maak Bartaah",
+                    "track_url": "https://www.dropbox.com/scl/fi/0otnw0m3jix1m0n3rxr8n/05_Maak_Bartaah.mp3?rlkey=xdh742czn8gxc72zgnb4k3xfo&st=dhw0cgyt&dl=1",
+                    "duration_ms": 233116,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735b157a812e74260aec2ad156",
+                    "id": 258,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Hala Hala",
+                    "track_url": "https://www.dropbox.com/scl/fi/lm1e66g6xlenwgmipalue/02_Halla_Halla.mp3?rlkey=u1qz340jjrzsnc3kk2x0ueb7u&st=9hosfoft&dl=1",
+                    "duration_ms": 205165,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735b157a812e74260aec2ad156",
+                    "id": 259,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Aref Habibi",
+                    "track_url": "https://www.dropbox.com/scl/fi/wrdsbm9a0m73w8bquc396/11_Aref_Habiby.mp3?rlkey=aalizdfworu4ug1uqsirbcv80&st=9i7bjlte&dl=1",
+                    "duration_ms": 219376,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735b157a812e74260aec2ad156",
+                    "id": 260,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Heya Hayaty",
+                    "track_url": "https://www.dropbox.com/scl/fi/3926rld3mkrm0zm153wun/08_Heya_Hayaty.mp3?rlkey=keo5wfr43j9m6q9eto1fjbd7c&st=nrn2zpzd&dl=1",
+                    "duration_ms": 312555,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735b157a812e74260aec2ad156",
+                    "id": 261,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Tagroba We Addet",
+                    "track_url": "https://www.dropbox.com/scl/fi/hy2ifc9e2bg6pl7li7igc/12_Tagroba_Wa_Addet.mp3?rlkey=gc47l4um4x7bk1kpqykqrv8bw&st=iywdivul&dl=1",
+                    "duration_ms": 303673,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735b157a812e74260aec2ad156",
+                    "id": 262,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Ya Reet Senek",
+                    "track_url": "https://www.dropbox.com/scl/fi/1uvi52nze7ac1try198j6/06_Yareet_Senk.mp3?rlkey=v2vxbpmifgfkr1az72yqk7nd7&st=kwq7b30s&dl=1",
+                    "duration_ms": 208587,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735b157a812e74260aec2ad156",
+                    "id": 263,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Mally Einaya",
+                    "track_url": "https://www.dropbox.com/scl/fi/0lxojio69mpd035unmtug/07_Mally_Einaya.mp3?rlkey=2b7dzyia9c2ubmaz9i2mgj12m&st=rnfqf2fa&dl=1",
+                    "duration_ms": 194586,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735b157a812e74260aec2ad156",
+                    "id": 264,
+                    "artist": "Amr Diab"
+                }
+            ],
+            "id": 252
+        },
+        {
+            "name": "Wayah",
+            "release_date": "2009-01-05",
+            "image": "https://i.scdn.co/image/ab67616d0000b273096688c7ce7965dfde967a28",
+            "track_url": "https://open.spotify.com/album/6UoLH945w50D44V2iIQwql",
+            "tracks": [
+                {
+                    "name": "Wayah",
+                    "track_url": "https://www.dropbox.com/scl/fi/o442gai6b25ijv9mgiqyz/01.Wayah.mp3?rlkey=s0x3l3vqe9o1lsuuh4gol79l0&st=qqr7blyk&dl=1",
+                    "duration_ms": 293746,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273096688c7ce7965dfde967a28",
+                    "id": 266,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Yehemak Fe Eh",
+                    "track_url": "https://www.dropbox.com/scl/fi/c1ryayknpcly98cz0dt9p/05.Yehemak_Fe_Eh.mp3?rlkey=femi3nkqfjgtbnip6ct4yg47h&st=zzf1f6ug&dl=1",
+                    "duration_ms": 247431,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273096688c7ce7965dfde967a28",
+                    "id": 267,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Wehyati Khaliki",
+                    "track_url": "https://www.dropbox.com/scl/fi/7mdp0ppaaz6bt6abjakni/09.Wehyati_Khaliki.Starz.mp3?rlkey=vb5lr6ul6zr52ihbmi5tih1v9&st=hbt1o8mj&dl=1",
+                    "duration_ms": 229955,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273096688c7ce7965dfde967a28",
+                    "id": 268,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Allah Ala Hobak",
+                    "track_url": "https://www.dropbox.com/scl/fi/pvtaoqeb7nd1ogjd7jbw1/04.Allah_Ala_Hobak.mp3?rlkey=3fwstw093iy3hrwuhgcflzgqz&st=ma8daot9&dl=1",
+                    "duration_ms": 222249,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273096688c7ce7965dfde967a28",
+                    "id": 269,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Illa Habebe",
+                    "track_url": "https://www.dropbox.com/scl/fi/5mone9kixu1vicyjc5cnh/03.Illa_Habibi.mp3?rlkey=2ezekits1sucotymbgthz0lvo&st=n8grauvn&dl=1",
+                    "duration_ms": 203023,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273096688c7ce7965dfde967a28",
+                    "id": 270,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Ene We Ana Shayfo",
+                    "track_url": "https://www.dropbox.com/scl/fi/nk5t754pv57j339fup686/10.Einy_Wana_Shayfo.mp3?rlkey=acw3xmws28r7ga867yn5frtg4&st=7tvwo1zo&dl=1",
+                    "duration_ms": 202893,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273096688c7ce7965dfde967a28",
+                    "id": 271,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Baadem Albe",
+                    "track_url": "https://www.dropbox.com/scl/fi/zbny8j22n7n5nkra0c8tt/02.Baaadem_Alby.mp3?rlkey=g3d8rr7kjag8gjucbxum3994a&st=kt0mjabu&dl=1",
+                    "duration_ms": 178938,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273096688c7ce7965dfde967a28",
+                    "id": 272,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Malak",
+                    "track_url": "https://www.dropbox.com/scl/fi/3ql17d8kuun9jfyfw8u1q/08.Malak.mp3?rlkey=1vj3lxbq0dxen5tcewaja19kq&st=7k7sijpd&dl=1",
+                    "duration_ms": 247980,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273096688c7ce7965dfde967a28",
+                    "id": 273,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Helwa El Ayam",
+                    "track_url": "https://www.dropbox.com/scl/fi/5induzk6cx7g6x42a5qur/06.Helwa_El_Ayam.mp3?rlkey=vpmpopglr1nx7zwfrvag6omnz&st=14zz83gj&dl=1",
+                    "duration_ms": 230635,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273096688c7ce7965dfde967a28",
+                    "id": 274,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Tameny",
+                    "track_url": "https://www.dropbox.com/scl/fi/k4mfegajoy2e3h6ctxdga/07.Tameny.mp3?rlkey=qy42nn0fb9ybjt8begqc5cbzb&st=1xv93zfs&dl=1",
+                    "duration_ms": 171964,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273096688c7ce7965dfde967a28",
+                    "id": 275,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Baedt Leh",
+                    "track_url": "https://www.dropbox.com/scl/fi/mvfqzvy8vy0qijca3muq1/12.Baaet_Leh.mp3?rlkey=8kgwxmqkvtbk06o7ja4rewvl3&st=o5y78q62&dl=1",
+                    "duration_ms": 251611,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273096688c7ce7965dfde967a28",
+                    "id": 276,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Ah Min El Foraa",
+                    "track_url": "https://www.dropbox.com/scl/fi/trzdd7r0n5q5kaussxq4c/11.Ah_Min_El_Foraa.mp3?rlkey=e1n2oc883woqzx3zpe8oybe7g&st=40qb286j&dl=1",
+                    "duration_ms": 267702,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273096688c7ce7965dfde967a28",
+                    "id": 277,
+                    "artist": "Amr Diab"
+                }
+            ],
+            "id": 265
+        },
+        {
+            "name": "El Lilady (Tonight)",
+            "release_date": "2007-07-16",
+            "image": "https://i.scdn.co/image/ab67616d0000b27352844eedf8e893e678a8a906",
+            "track_url": "https://open.spotify.com/album/1SrxERIZgdOVo4kSGt6pTp",
+            "tracks": [
+                {
+                    "name": "Dehket",
+                    "track_url": "https://www.dropbox.com/scl/fi/ikdwgvbw7erg3mowhxk3b/09.Dehket.mp3?rlkey=5a08swb0kwfg1o3v76ipb632z&st=tym9xbbr&dl=1",
+                    "duration_ms": 210416,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27352844eedf8e893e678a8a906",
+                    "id": 279,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "We Fehmt Einak",
+                    "track_url": "https://www.dropbox.com/scl/fi/zlxcdzezfxpmcesk3ozwt/08.We_Fehemt_Einak.mp3?rlkey=2a2rquc4osldlcc1iylfys6uj&st=hj2og69a&dl=1",
+                    "duration_ms": 222511,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27352844eedf8e893e678a8a906",
+                    "id": 280,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Aletly Oul",
+                    "track_url": "https://www.dropbox.com/scl/fi/395t0vncuqm99gmjibge9/07.Aletly_Oul.mp3?rlkey=uxvaue2rnspua9qlx30cyk0zu&st=vayfh52r&dl=1",
+                    "duration_ms": 209972,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27352844eedf8e893e678a8a906",
+                    "id": 281,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Rohy Mertahalak",
+                    "track_url": "https://www.dropbox.com/scl/fi/gpsuncl3xa90m3v4aekrs/06.Rohy_Mertahalak.mp3?rlkey=0kzmfn2gevvpzlorehu10vw49&st=ezhpnz6j&dl=1",
+                    "duration_ms": 222824,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27352844eedf8e893e678a8a906",
+                    "id": 282,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Hikayat",
+                    "track_url": "https://www.dropbox.com/scl/fi/c7g17b3qiyvde6icmpfj2/04.Hikayat.mp3?rlkey=3r2gb7vy9akn7ep80l9y1to7y&st=84bk6ppy&dl=1",
+                    "duration_ms": 245524,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27352844eedf8e893e678a8a906",
+                    "id": 283,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Toul Ma'an Shaifak",
+                    "track_url": "https://www.dropbox.com/scl/fi/ddlayx5e2pr2q7ihu0sm0/03.Tool_Maaan_Shaifak.mp3?rlkey=2g71y0hcfzf0g0de8arsjuzvs&st=agtmhfbr&dl=1",
+                    "duration_ms": 209684,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27352844eedf8e893e678a8a906",
+                    "id": 284,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Khalik Ma'aya",
+                    "track_url": "https://www.dropbox.com/scl/fi/e5cqrogdm9bq8ievmgd8d/10.Khalik_Maaaya.mp3?rlkey=gzp4j5hfayge0j7wh4kgxrqvp&st=ocrllwde&dl=1",
+                    "duration_ms": 232411,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27352844eedf8e893e678a8a906",
+                    "id": 285,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Hikayat",
+                    "track_url": "https://www.dropbox.com/scl/fi/c7g17b3qiyvde6icmpfj2/04.Hikayat.mp3?rlkey=3r2gb7vy9akn7ep80l9y1to7y&st=b6ii0h1p&dl=1",
+                    "duration_ms": 228466,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27352844eedf8e893e678a8a906",
+                    "id": 286,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Ne'oul Aih",
+                    "track_url": "https://www.dropbox.com/scl/fi/eqvk6kcj4f8r4qjh6eu8r/01.Neaoul_Aih.mp3?rlkey=18wexcf13wmfu8pnk2v8fcbd8&st=nj7dgvov&dl=1",
+                    "duration_ms": 242285,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27352844eedf8e893e678a8a906",
+                    "id": 287,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "El Lilady",
+                    "track_url": "https://www.dropbox.com/scl/fi/bmwt0klhig5hbn3zbcio3/02.El-Lilady.mp3?rlkey=nobfzk3yhx16bypgn1wzzp44k&st=4qno6dk4&dl=1",
+                    "duration_ms": 176640,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27352844eedf8e893e678a8a906",
+                    "id": 288,
+                    "artist": "Amr Diab"
+                }
+            ],
+            "id": 278
+        },
+        {
+            "name": "Kammel Kalamak",
+            "release_date": "2005-12-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b27389247db5c6a8c552deefc1e9",
+            "track_url": "https://open.spotify.com/album/5wyfiBMsOnbHrPkEQjfyPj",
+            "tracks": [
+                {
+                    "name": "Bethaby Leih",
+                    "track_url": "https://www.dropbox.com/scl/fi/xflyywcpyh7gqur9nuc0i/09.Betkhaby_Leh.mp3?rlkey=na6c8t812ae8u6h6u1c9s8qph&st=tbcwwe7n&dl=1",
+                    "duration_ms": 246935,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27389247db5c6a8c552deefc1e9",
+                    "id": 290,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Kammel Kalamak",
+                    "track_url": "https://www.dropbox.com/scl/fi/t46ps3mnmmuuouohgqmyj/01.Kammel_Kalamak.mp3?rlkey=6867xxu0c3pgcelonvhupgn5d&st=nks6u0gx&dl=1",
+                    "duration_ms": 240300,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27389247db5c6a8c552deefc1e9",
+                    "id": 291,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Away Ana A'ref",
+                    "track_url": "https://www.dropbox.com/scl/fi/msagqspi82x5nnkbi1fh6/08.Aywa_Ana_3aref.mp3?rlkey=vzo9sfvsm4sy8y1ry9jqrwopv&st=u1une149&dl=1",
+                    "duration_ms": 231836,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27389247db5c6a8c552deefc1e9",
+                    "id": 292,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Ma'ak Bgad",
+                    "track_url": "https://www.dropbox.com/scl/fi/epcc2d73834dezfvh6qi7/07.Ma3ak_Begad.mp3?rlkey=il2loxppjtzft43p8f66nsi7q&st=u93wzuc1&dl=1",
+                    "duration_ms": 251219,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27389247db5c6a8c552deefc1e9",
+                    "id": 293,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Odam Oyoonak",
+                    "track_url": "https://www.dropbox.com/scl/fi/dysp5fjle76fan8hrs3ok/06.Oddam_Eyounak.mp3?rlkey=ftx5wlurhkfov28qo9fcbyzbj&st=26yix9dh&dl=1",
+                    "duration_ms": 228336,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27389247db5c6a8c552deefc1e9",
+                    "id": 294,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Allah La Yehremmy Minak",
+                    "track_url": "https://www.dropbox.com/scl/fi/977nx2b2wrlk3009lnznn/05.Allah_La_Yehremny_Minnak.mp3?rlkey=qing0hosc36b5afs4ei57teh4&st=n0olbmci&dl=1",
+                    "duration_ms": 232646,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27389247db5c6a8c552deefc1e9",
+                    "id": 295,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Ayyam We Ben'eshha",
+                    "track_url": "https://www.dropbox.com/scl/fi/xoaokaxhftnozdfamawgv/04.Aiam_We_Ben3eshha.mp3?rlkey=ar764w1dm1eyzkmov3slbrwby&st=t7pw4tzt&dl=1",
+                    "duration_ms": 195631,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27389247db5c6a8c552deefc1e9",
+                    "id": 296,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Agheeb",
+                    "track_url": "https://www.dropbox.com/scl/fi/vk8loivyh70jzc7phyrl2/10.Agheeb.mp3?rlkey=dli9nhxqx3qpgcg9ery0k4alb&st=skpg4sfq&dl=1",
+                    "duration_ms": 211591,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27389247db5c6a8c552deefc1e9",
+                    "id": 297,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "We Maloh",
+                    "track_url": "https://www.dropbox.com/scl/fi/aa810ofb1g2acrdgj8s9b/02.We_Maloh.mp3?rlkey=bntjp5udoeciu4cd69u8lqvzg&st=2f5xcwjy&dl=1",
+                    "duration_ms": 288313,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27389247db5c6a8c552deefc1e9",
+                    "id": 298,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Hkaytak Eih",
+                    "track_url": "https://www.dropbox.com/scl/fi/a3xdk5ztb5r5kzmlh79n0/03.We_Hikaytek_Aih.mp3?rlkey=stugzjps7o7utkbucpmiu8qp9&st=5yg9rbi0&dl=1",
+                    "duration_ms": 254223,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27389247db5c6a8c552deefc1e9",
+                    "id": 299,
+                    "artist": "Amr Diab"
+                }
+            ],
+            "id": 289
+        },
+        {
+            "name": "Lealy Nahary",
+            "release_date": "2004-07-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273fecc52d0d60edfd397f9e4c1",
+            "track_url": "https://open.spotify.com/album/09ZgqimPMu3VdlvZn5WpZg",
+            "tracks": [
+                {
+                    "name": "Qusad Einy",
+                    "track_url": "https://www.dropbox.com/scl/fi/1ud7qzxl8tk3kqwto9fz6/08.Qusad_Einy.mp3?rlkey=4btubjd87qvkg1t2ccb4m1d3d&st=p3zuj6r2&dl=1",
+                    "duration_ms": 264228,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fecc52d0d60edfd397f9e4c1",
+                    "id": 318,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Illa Heya",
+                    "track_url": "https://www.dropbox.com/scl/fi/nor8o515e33hgy5303018/09.Ella_Heya.mp3?rlkey=oeh1pf4oejkt8yk7td4ct0u4c&st=frj4dbj2&dl=1",
+                    "duration_ms": 223007,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fecc52d0d60edfd397f9e4c1",
+                    "id": 319,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Ye Douk El Bab",
+                    "track_url": "https://www.dropbox.com/scl/fi/dn4aymhjmr5liqv6c7nsp/05.Ye_Douk_El_Bab.mp3?rlkey=2ijlycijwxbh1uzr5xuk6wpnq&st=5buaog3g&dl=1",
+                    "duration_ms": 212924,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fecc52d0d60edfd397f9e4c1",
+                    "id": 320,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Wahashtiny",
+                    "track_url": "https://www.dropbox.com/scl/fi/kt6yu120tyu95f85l8z33/02.Wahashtiny.mp3?rlkey=k1ndafmrbk7536bhj96x2k4r6&st=qns9ngp1&dl=1",
+                    "duration_ms": 237296,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fecc52d0d60edfd397f9e4c1",
+                    "id": 321,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Khad Alby Maah",
+                    "track_url": "https://www.dropbox.com/scl/fi/c1e7mvr1jr7pucfupkoj0/04.Khad_Alby_Maaah.mp3?rlkey=82qefoe6pgebevvw36clno42o&st=bjpml2f1&dl=1",
+                    "duration_ms": 243774,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fecc52d0d60edfd397f9e4c1",
+                    "id": 322,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Lealy Nahary",
+                    "track_url": "https://www.dropbox.com/scl/fi/k0xgyf1770jarpxp37j36/01.Lealy_Nahary.mp3?rlkey=db4vikj3l28fpnf0m927a69rj&st=yist2poc&dl=1",
+                    "duration_ms": 246047,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fecc52d0d60edfd397f9e4c1",
+                    "id": 323,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Khaleena Neshofak",
+                    "track_url": "https://www.dropbox.com/scl/fi/r1tv90mwh14ba5yu5pn2q/07.Khaleena_Neshofak.mp3?rlkey=343ujd5ykwqdoa54x4yq88htk&st=9079vkx7&dl=1",
+                    "duration_ms": 238837,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fecc52d0d60edfd397f9e4c1",
+                    "id": 324,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Dayman Fi Baly",
+                    "track_url": "https://www.dropbox.com/scl/fi/n5exjpdxnhidnssgqeibr/06.Dayman_Fi_Baly.mp3?rlkey=n8drc2hxzqb0eogcvdgb0bcpt&st=e4317033&dl=1",
+                    "duration_ms": 227604,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fecc52d0d60edfd397f9e4c1",
+                    "id": 325,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Rihet El Habayib",
+                    "track_url": "https://www.dropbox.com/scl/fi/obqrvkmf8y2gfcznymaqw/10.Rihet_El_Habayib.mp3?rlkey=af0jia12uo4slen5pg280wunt&st=9w5vdhfs&dl=1",
+                    "duration_ms": 194298,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fecc52d0d60edfd397f9e4c1",
+                    "id": 326,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Tinsa Wahda",
+                    "track_url": "https://www.dropbox.com/scl/fi/f0bagpjlr2za5jevxh8jr/03.Tinsa_Wahda.mp3?rlkey=mtqwor7hsx0otmzq627pshg1h&st=tfz0fhqu&dl=1",
+                    "duration_ms": 264881,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fecc52d0d60edfd397f9e4c1",
+                    "id": 327,
+                    "artist": "Amr Diab"
+                }
+            ],
+            "id": 317
+        },
+        {
+            "name": "Allem Alby",
+            "release_date": "2002-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e14aee4752613f1a53a350fa",
+            "track_url": "https://open.spotify.com/album/5KKjAxjoLCUnKfcGfoncKb",
+            "tracks": [
+                {
+                    "name": "Allem Alby",
+                    "track_url": "https://www.dropbox.com/scl/fi/6x8k77tb3mv9sbxdcx8h9/01.Allem_Alby.mp3?rlkey=dvd2c4l991cekh57f4elvknh8&st=wcxdf2eu&dl=1",
+                    "duration_ms": 212106,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e14aee4752613f1a53a350fa",
+                    "id": 329,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Ana Ayesh",
+                    "track_url": "https://www.dropbox.com/scl/fi/g6xnxy94q7jz72m71jl4o/02.Ana_Ayesh.mp3?rlkey=exifqmwely7t0lyu931s803k9&st=w7473p6y&dl=1",
+                    "duration_ms": 226493,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e14aee4752613f1a53a350fa",
+                    "id": 330,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Ally El Wadaa",
+                    "track_url": "https://www.dropbox.com/scl/fi/l3sg8but13myqye5f4pyy/03.Ally_El_Wadaa.mp3?rlkey=74hkx7fv1pipslswy8s7b2dfq&st=81y0tp7a&dl=1",
+                    "duration_ms": 193880,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e14aee4752613f1a53a350fa",
+                    "id": 331,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Ya Kenzy",
+                    "track_url": "https://www.dropbox.com/scl/fi/7zijivcx947y7g52l3nme/04.Ya_Kinzy.mp3?rlkey=tlntb06266e8o9qaha7pmgiqx&st=ebv75xjd&dl=1",
+                    "duration_ms": 213253,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e14aee4752613f1a53a350fa",
+                    "id": 332,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Teadar Tetkalem",
+                    "track_url": "https://www.dropbox.com/scl/fi/51250h03dwdl3j7dz395y/05.Teadar_Tetkallem.mp3?rlkey=4nbnopjwctm4zx39ahy5whjn5&st=kcn8eixn&dl=1",
+                    "duration_ms": 293013,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e14aee4752613f1a53a350fa",
+                    "id": 333,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Law Ashaany",
+                    "track_url": "https://www.dropbox.com/scl/fi/jsxwb52qvipq2xf4onx0x/06.Law_Ashaany.mp3?rlkey=10j8sq4xvk2mfoykuh6xrnnmu&st=esxzz0a6&dl=1",
+                    "duration_ms": 262586,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e14aee4752613f1a53a350fa",
+                    "id": 334,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Allemny Hawak",
+                    "track_url": "https://www.dropbox.com/scl/fi/lm2ocrnqpldgpxv3gdbnh/08.Allemny_Hawak.mp3?rlkey=z1vvjk4r3wjxvcb7642jfw7dg&st=gmcibxcr&dl=1",
+                    "duration_ms": 200533,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e14aee4752613f1a53a350fa",
+                    "id": 335,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Habiby Ya Omry",
+                    "track_url": "https://www.dropbox.com/scl/fi/efb48qx3wdeshd8kpna3s/09.Habiby_Ya_Omry.mp3?rlkey=jxdywm6hygxdw0paxzz9xidyr&st=u10shs6b&dl=1",
+                    "duration_ms": 302786,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e14aee4752613f1a53a350fa",
+                    "id": 336,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Enta Ma Oltesh Leih",
+                    "track_url": "https://www.dropbox.com/scl/fi/pfy82ukxa67jsj899nyhg/10.Enta_Ma_Oltesh_Leh.mp3?rlkey=s9ceh7au3kbmmvesva9w74zf4&st=ouf95rc6&dl=1",
+                    "duration_ms": 217333,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e14aee4752613f1a53a350fa",
+                    "id": 337,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Haneit",
+                    "track_url": "https://www.dropbox.com/scl/fi/583kmbh8fayu1m7nz6ix1/11.Hanneit.mp3?rlkey=gefaf1ncklkn2nxww4wrfgszu&st=m65kobhi&dl=1",
+                    "duration_ms": 255226,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e14aee4752613f1a53a350fa",
+                    "id": 338,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Kollohom",
+                    "track_url": "https://www.dropbox.com/scl/fi/xdu6g3nbqlxctym82zno7/12.Kollohom.mp3?rlkey=mwt9say0xflx309zw8bufg6jt&st=erfhti45&dl=1",
+                    "duration_ms": 236293,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e14aee4752613f1a53a350fa",
+                    "id": 339,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Khaleeny Ganbak",
+                    "track_url": "https://www.dropbox.com/scl/fi/bmn3ie8ozeepolugabgcp/13.Khalleeny_Ganbak.mp3?rlkey=kwaml1r1fwoz4krd7s29dwcze&st=lcpdbe3c&dl=1",
+                    "duration_ms": 317653,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e14aee4752613f1a53a350fa",
+                    "id": 340,
+                    "artist": "Amr Diab"
+                }
+            ],
+            "id": 328
+        },
+        {
+            "name": "Aktar Wahed Beihebak",
+            "release_date": "2001-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273dee37a4400066ed7d8d8e065",
+            "track_url": "https://open.spotify.com/album/4fKLPl9OFsBZX2lc5lLtcx",
+            "tracks": [
+                {
+                    "name": "Wala Ala Balo",
+                    "track_url": "https://www.dropbox.com/scl/fi/u1btdaqh5d24aev56l1k6/01.Wala_Ala_Baloh.mp3?rlkey=efs5yd942upksqpa9s07m1l79&st=mejpjgt5&dl=1",
+                    "duration_ms": 309413,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273dee37a4400066ed7d8d8e065",
+                    "id": 352,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Aktar Wahed",
+                    "track_url": "https://www.dropbox.com/scl/fi/tj1qu28cin9nw2rjs9vk3/02.Aktar_Wahed.mp3?rlkey=cebxdc0h574emd5hqxxh82zle&st=gry2rzyf&dl=1",
+                    "duration_ms": 270653,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273dee37a4400066ed7d8d8e065",
+                    "id": 353,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Kan Tayeb",
+                    "track_url": "https://www.dropbox.com/scl/fi/hhzlib6xfj96ppgjlzizc/03.Kan_Tayeb.mp3?rlkey=3wp9mp8aiof2f75phlwtbkyz2&st=cewmk2bb&dl=1",
+                    "duration_ms": 321066,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273dee37a4400066ed7d8d8e065",
+                    "id": 354,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Baed El Layali",
+                    "track_url": "https://www.dropbox.com/scl/fi/btyi21x5eg5oa2zxp81d7/04.Baed_Ellayaly.mp3?rlkey=5b2p9r5skl1a11ud9r08a9scz&st=3qzo0omq&dl=1",
+                    "duration_ms": 269293,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273dee37a4400066ed7d8d8e065",
+                    "id": 355,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Olt Eh",
+                    "track_url": "https://www.dropbox.com/scl/fi/pavifu3kp1b1gzqbb7o4v/05.Olt_Eah.mp3?rlkey=dgfbjxbaf2pprooq5hqovyosg&st=ego53z59&dl=1",
+                    "duration_ms": 240906,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273dee37a4400066ed7d8d8e065",
+                    "id": 356,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Wala Leila",
+                    "track_url": "https://www.dropbox.com/scl/fi/znotunmu6a0gfi7aao7hg/06.Wala_Lelah.mp3?rlkey=cd0npri5wiowls9sd287i9o4y&st=sthjm15c&dl=1",
+                    "duration_ms": 246213,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273dee37a4400066ed7d8d8e065",
+                    "id": 357,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Adeni Regeatelek",
+                    "track_url": "https://www.dropbox.com/scl/fi/4xs5i5exx0iztspdij69r/07.Adeni_Regetelek.mp3?rlkey=p1zdhb394z5qkn6mihpo7hi8o&st=44l57ep4&dl=1",
+                    "duration_ms": 221826,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273dee37a4400066ed7d8d8e065",
+                    "id": 358,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Sadaany Khalas",
+                    "track_url": "https://www.dropbox.com/scl/fi/xbvfu2xyhw4rxcm992bnk/08.Sadakny_Khalas.mp3?rlkey=laajbixmri0jh8niw6n8mfanb&st=poob27ol&dl=1",
+                    "duration_ms": 229333,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273dee37a4400066ed7d8d8e065",
+                    "id": 359,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Ahebek Akrahek",
+                    "track_url": "https://www.dropbox.com/scl/fi/nifthfp3q27vhq5f8k1mh/09.Ahebek.mp3?rlkey=krhsty1cb7anyurgs0z068n1r&st=8t73blbc&dl=1",
+                    "duration_ms": 270960,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273dee37a4400066ed7d8d8e065",
+                    "id": 360,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Ya Habibi La",
+                    "track_url": "https://www.dropbox.com/scl/fi/qj45u4tgyuwan5r0q7lsu/10.Ya_Habiby_La.mp3?rlkey=syy5z6g1nsh9dxtsb4kq9o2sw&st=otie6pc9&dl=1",
+                    "duration_ms": 232026,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273dee37a4400066ed7d8d8e065",
+                    "id": 361,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Wala Ala Balo Sharqi Remix",
+                    "track_url": "https://www.dropbox.com/scl/fi/wwjbrsj4rs5wjftvhazod/11.Wala_Ala_Baloh_-5bOriental_Mix-5d.mp3?rlkey=eu4kygansa3nxmzplzwkpnrtc&st=xc8mulof&dl=1",
+                    "duration_ms": 213172,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273dee37a4400066ed7d8d8e065",
+                    "id": 362,
+                    "artist": "Amr Diab"
+                }
+            ],
+            "id": 351
+        },
+        {
+            "name": "Tamally Maak",
+            "release_date": "1999-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732a37edda69e67266f05a9753",
+            "track_url": "https://open.spotify.com/album/1qmAaW25CPUyam9Wrp9ZEu",
+            "tracks": [
+                {
+                    "name": "El Alem Allah",
+                    "track_url": "https://www.dropbox.com/scl/fi/5c9m13drv4lb9kfuo2eb3/01.Al_Alem_Alla.mp3?rlkey=q0o4e7v1olwa8jzx3uicd4qq6&st=cp52tyxc&dl=1",
+                    "duration_ms": 244650,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732a37edda69e67266f05a9753",
+                    "id": 364,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Tamally Maak",
+                    "track_url": "https://www.dropbox.com/scl/fi/i7707bcfgrxhox7ih6gzx/02.Tamally_Maak.mp3?rlkey=r5189wurpy6dw45x2gyxws33u&st=5ewz30h8&dl=1",
+                    "duration_ms": 269232,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732a37edda69e67266f05a9753",
+                    "id": 365,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Keda Einy Einak",
+                    "track_url": "https://www.dropbox.com/scl/fi/qqyky5mat92xmxze6nhfr/03.Keda_Eny_Einak.mp3?rlkey=vujc41b1o30nwqo3mk9cpsale&st=5gobbgnq&dl=1",
+                    "duration_ms": 253166,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732a37edda69e67266f05a9753",
+                    "id": 366,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "We Heya Amla Eh",
+                    "track_url": "https://www.dropbox.com/scl/fi/nun9ohzvnc3301dcf7qh8/04.We_Heya_Amla_Aeh_Delwat.mp3?rlkey=eulmy9fsksxpkg3tvit09f4gx&st=wng5lrm9&dl=1",
+                    "duration_ms": 281614,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732a37edda69e67266f05a9753",
+                    "id": 367,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Senien",
+                    "track_url": "https://www.dropbox.com/scl/fi/41imd7rwydnh87l1bi6ah/05.Senean.mp3?rlkey=te7xzph0ki1k6yp3u19fjdge5&st=izroh9xq&dl=1",
+                    "duration_ms": 269336,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732a37edda69e67266f05a9753",
+                    "id": 368,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Aamel Eih",
+                    "track_url": "https://www.dropbox.com/scl/fi/suw16oq95vdaas94sjt2f/06.Aamal_Aeh.mp3?rlkey=o0tkjud4u8egx6fvlz06y0k5t&st=str4x3pq&dl=1",
+                    "duration_ms": 271321,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732a37edda69e67266f05a9753",
+                    "id": 369,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Law Kan Yerdik",
+                    "track_url": "https://www.dropbox.com/scl/fi/xx9ii9exbnyuwk1lq74e1/07.Low_Can_Yerdeak.mp3?rlkey=w0bs3k1v655c4on7669ulr6k2&st=cb753y3o&dl=1",
+                    "duration_ms": 264791,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732a37edda69e67266f05a9753",
+                    "id": 370,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Baateref",
+                    "track_url": "https://www.dropbox.com/scl/fi/r094msfn4k8pxlgfwlk33/08.Baataref.mp3?rlkey=171fmj07digydyabrs0h8z62q&st=macjri67&dl=1",
+                    "duration_ms": 251050,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732a37edda69e67266f05a9753",
+                    "id": 371,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Alby Ekhtarak",
+                    "track_url": "https://www.dropbox.com/scl/fi/iap5u89vgx3gjq7xoywnl/09.Kalby_Ekhtarak.mp3?rlkey=iubyouj3getcfxh7jawjxkz6j&st=g5bthkay&dl=1",
+                    "duration_ms": 250998,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732a37edda69e67266f05a9753",
+                    "id": 372,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Saaban Alaya",
+                    "track_url": "https://www.dropbox.com/scl/fi/rzblfdhpna1ob7wleqymz/10.Saaban_Alaya.mp3?rlkey=0p5qfwr6fm2x4esnsu90g34hx&st=tq8xvmam&dl=1",
+                    "duration_ms": 221610,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732a37edda69e67266f05a9753",
+                    "id": 373,
+                    "artist": "Amr Diab"
+                }
+            ],
+            "id": 363
+        },
+        {
+            "name": "Amarain",
+            "release_date": "1998-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b27335f0ee93b7a038510fe0dad0",
+            "track_url": "https://open.spotify.com/album/6lFQUzUQr4KlZP2joLPY7z",
+            "tracks": [
+                {
+                    "name": "Amarain",
+                    "track_url": "https://www.dropbox.com/scl/fi/srgig7mkrwqrm0x5m4lme/01.Amarain.mp3?rlkey=cjxoblehcmxu86z5r78xtmjlo&st=3bx4r5ta&dl=1",
+                    "duration_ms": 265365,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27335f0ee93b7a038510fe0dad0",
+                    "id": 375,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Ana",
+                    "track_url": "",
+                    "duration_ms": 294440,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27335f0ee93b7a038510fe0dad0",
+                    "id": 376,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Alby",
+                    "track_url": "https://www.dropbox.com/scl/fi/wfchoxfp6502oghb1n94h/02.Ana.mp3?rlkey=djpm8eovidgo275dhwcjftyw0&st=l0a3pqn4&dl=1",
+                    "duration_ms": 261604,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27335f0ee93b7a038510fe0dad0",
+                    "id": 377,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Bahebak Aktar",
+                    "track_url": "https://www.dropbox.com/scl/fi/e4bpel1uqkujp0xqs1tog/04.Bahibak_Aktar_with_Angela_Dimitriou.mp3?rlkey=oim9ixnllhpuayal3nv8442u5&st=vobk3pgz&dl=1",
+                    "duration_ms": 215472,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27335f0ee93b7a038510fe0dad0",
+                    "id": 378,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Betwhashny",
+                    "track_url": "https://www.dropbox.com/scl/fi/akiorfzwcvtmtdxgw75di/05.Betwhashny.mp3?rlkey=mj7quc6quscpvrejx4xtvglhn&st=af5hysjd&dl=1",
+                    "duration_ms": 228454,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27335f0ee93b7a038510fe0dad0",
+                    "id": 379,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "We Lesa Bethebo",
+                    "track_url": "https://www.dropbox.com/scl/fi/yx29wv9kn3z821swbr01g/06.Welsa_Betheboh.MP3?rlkey=9nj6btij20ty2lcllhmml46sf&st=k9bu5f96&dl=1",
+                    "duration_ms": 279733,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27335f0ee93b7a038510fe0dad0",
+                    "id": 380,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Khalek Fakerny",
+                    "track_url": "https://www.dropbox.com/scl/fi/hz60ipmmlzjq1tvmre4n2/07.Khallik_Fakrny.mp3?rlkey=pa73zkriy53i48vt4p3wg1pzx&st=lzm3rbfy&dl=1",
+                    "duration_ms": 206564,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27335f0ee93b7a038510fe0dad0",
+                    "id": 381,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Hekayate",
+                    "track_url": "https://www.dropbox.com/scl/fi/1jdzumjecxlp728v3u0p5/08.Hikayaty.MP3?rlkey=geh3lrsh8839v55hluwgz6hmo&st=u24iwfi4&dl=1",
+                    "duration_ms": 235978,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27335f0ee93b7a038510fe0dad0",
+                    "id": 382,
+                    "artist": "Amr Diab"
+                }
+            ],
+            "id": 374
+        },
+        {
+            "name": "Nour El Ein",
+            "release_date": "1995-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d352e68d3f9ef21f6d167a96",
+            "track_url": "https://open.spotify.com/album/3qZ0kZ8d3F8EpvEyx0yemA",
+            "tracks": [
+                {
+                    "name": "Nour El Ein",
+                    "track_url": "https://www.dropbox.com/scl/fi/6alixgpsq1kupexqi88b2/01.Nour_El_Ain.mp3?rlkey=rvdv83ykhnsk2m4piybged92n&st=zd1wj09d&dl=1",
+                    "duration_ms": 307762,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d352e68d3f9ef21f6d167a96",
+                    "id": 384,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Moush Hadaaf",
+                    "track_url": "https://www.dropbox.com/scl/fi/8nsd0t23ghudyiiz7cenn/02.Moush_Hadeaaf.mp3?rlkey=cmy66lnqqgztgkwlfbsdajeb7&st=o25u0m62&dl=1",
+                    "duration_ms": 320641,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d352e68d3f9ef21f6d167a96",
+                    "id": 385,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Nafs El Makan",
+                    "track_url": "https://www.dropbox.com/scl/fi/lpu5qqskb4ay1pf7b9jvq/03.Nafs_El_Makan.mp3?rlkey=b09uqc6al5mazl5ewitnlufs0&st=u5q7t418&dl=1",
+                    "duration_ms": 275553,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d352e68d3f9ef21f6d167a96",
+                    "id": 386,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Lela Men Omry",
+                    "track_url": "https://www.dropbox.com/scl/fi/f16vp949z3l49tniybe40/04.Laila_Men_Omri.mp3?rlkey=m0t585v5t6f2d5z6qrjoqer1c&st=5oalvor2&dl=1",
+                    "duration_ms": 292350,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d352e68d3f9ef21f6d167a96",
+                    "id": 387,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Aizen Yeghayarouk",
+                    "track_url": "https://www.dropbox.com/scl/fi/apdno3g3ng06n63c59sv7/05.Ayzeen_Yeghayyarook.mp3?rlkey=y1qaqcn6t24rvwlddb53sguxg&st=6va6zcbe&dl=1",
+                    "duration_ms": 351543,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d352e68d3f9ef21f6d167a96",
+                    "id": 388,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Men Awel Marah",
+                    "track_url": "https://www.dropbox.com/scl/fi/421qgesxidmug60y4oa8p/06.Men_Awwal_Merra_-5bMehtajelha-5d.mp3?rlkey=a7sbomm9cjzzhpdv3b8u4ftp4&st=hklmm5cx&dl=1",
+                    "duration_ms": 273646,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d352e68d3f9ef21f6d167a96",
+                    "id": 389,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Eweadni",
+                    "track_url": "https://www.dropbox.com/scl/fi/qv0xm3abivjtj52kuk2cb/07.Ewaidni.mp3?rlkey=3m0cllcix5ro4x7n6egfjjj2h&st=h8ri96t7&dl=1",
+                    "duration_ms": 323305,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d352e68d3f9ef21f6d167a96",
+                    "id": 390,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Yomenhom",
+                    "track_url": "https://www.dropbox.com/scl/fi/7o11i468njec5r3r77hf7/08.Yoo_Menhom.mp3?rlkey=yprlxos90q17zuxkpaq6pj5ui&st=e4abpf8e&dl=1",
+                    "duration_ms": 228585,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d352e68d3f9ef21f6d167a96",
+                    "id": 391,
+                    "artist": "Amr Diab"
+                }
+            ],
+            "id": 383
+        },
+        {
+            "name": "راجعين",
+            "release_date": "1995-02-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b273856645871174e42a602e3776",
+            "track_url": "https://open.spotify.com/album/1VNjGaH6bmF10EqOKqDQMz",
+            "tracks": [
+                {
+                    "name": "راجعين",
+                    "track_url": "https://www.dropbox.com/scl/fi/v8lw2jtglvuse3y1mfnpx/01.Ragein.mp3?rlkey=xusag3pqwsmudjnvepuika49l&st=e30ornlm&dl=1",
+                    "duration_ms": 303000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273856645871174e42a602e3776",
+                    "id": 393,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "أنسى قلبي",
+                    "track_url": "https://www.dropbox.com/scl/fi/nklg0n21rbe5yzzuwkrsn/03.Insa_Albi.mp3?rlkey=52aip6sgbrv7noroj8sefgqqj&st=ve5l7x20&dl=1",
+                    "duration_ms": 218733,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273856645871174e42a602e3776",
+                    "id": 394,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "ورجعت من السفر",
+                    "track_url": "https://www.dropbox.com/scl/fi/enpc8w96r8t812h44pnmz/04.Wergeet_Min_El_Safar.mp3?rlkey=4vqf7xc7ktfxo7i5qvxhbjcxc&st=rg716wg6&dl=1",
+                    "duration_ms": 374866,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273856645871174e42a602e3776",
+                    "id": 395,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "ح أنساك انا",
+                    "track_url": "https://www.dropbox.com/scl/fi/v46ev4l5q15lf9psabieh/05.Hansak_Ana.mp3?rlkey=x3myjml5dk3ygrfalzcmre75n&st=eoqah8hu&dl=1",
+                    "duration_ms": 266333,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273856645871174e42a602e3776",
+                    "id": 396,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "صدقني",
+                    "track_url": "https://www.dropbox.com/scl/fi/59dn4npti1eqw2829krvj/06.Sadaatiny.mp3?rlkey=6bcsjja4bihuwjqwj51nna2vx&st=tul80te1&dl=1",
+                    "duration_ms": 327426,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273856645871174e42a602e3776",
+                    "id": 397,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "ما يتحكيش عليها",
+                    "track_url": "https://www.dropbox.com/scl/fi/w8ql4khix29naqnmdc689/02.Maythekesh_Aleha.mp3?rlkey=eyapqze83hdgu9f4wzrwz1qlt&st=tg9yveox&dl=1",
+                    "duration_ms": 323200,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273856645871174e42a602e3776",
+                    "id": 398,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "بلاش تكلمها",
+                    "track_url": "https://www.dropbox.com/scl/fi/azjw742spww6hds4tmk0u/07.Balash_Tekalemha.mp3?rlkey=0psl3hg6scgsphfn8tyefx6gm&st=hvuc8svq&dl=1",
+                    "duration_ms": 264866,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273856645871174e42a602e3776",
+                    "id": 399,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "حاولت",
+                    "track_url": "https://www.dropbox.com/scl/fi/25n50vo4szgp0anrqic7q/08.Hawelt.mp3?rlkey=5jorkft2ydebe6tinlly3hf8f&st=v4rsi6yv&dl=1",
+                    "duration_ms": 343200,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273856645871174e42a602e3776",
+                    "id": 400,
+                    "artist": "Amr Diab"
+                }
+            ],
+            "id": 392
+        },
+        {
+            "name": "ويلمونى",
+            "release_date": "1994-02-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733ab52229285df7f54591d34c",
+            "track_url": "https://open.spotify.com/album/2b6gz7CnNk6CUpkhcrBY93",
+            "tracks": [
+                {
+                    "name": "ويلمونى",
+                    "track_url": "https://www.dropbox.com/scl/fi/v1cb8gbwp7s4bdld69uwa/01.We_Yloumouni.mp3?rlkey=v10xkee2ppc9xh16h5sx3ldxp&st=f5knjhzn&dl=1",
+                    "duration_ms": 308533,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733ab52229285df7f54591d34c",
+                    "id": 402,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "عنوانى",
+                    "track_url": "https://www.dropbox.com/scl/fi/yq3oagvrj1z6uksiw3vdy/02.Enwani.mp3?rlkey=snrlplc1j07jvp8bzkzoyv5sz&st=g0u46e6m&dl=1",
+                    "duration_ms": 283533,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733ab52229285df7f54591d34c",
+                    "id": 403,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "حواليك",
+                    "track_url": "https://www.dropbox.com/scl/fi/hzsefi8awebapnnf1jmyo/03.Hawalek.mp3?rlkey=frf9fywuechzlorxc813ag67z&st=ay8du739&dl=1",
+                    "duration_ms": 264333,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733ab52229285df7f54591d34c",
+                    "id": 404,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "مالهاش حل",
+                    "track_url": "https://www.dropbox.com/scl/fi/ymlwhywpycmkwb8otua0i/04.Malhash_Hal.mp3?rlkey=g7dqt5wd1rsj22c2xbb01tmqm&st=ucxg7b24&dl=1",
+                    "duration_ms": 263933,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733ab52229285df7f54591d34c",
+                    "id": 405,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "أحلف بالليالى",
+                    "track_url": "https://www.dropbox.com/scl/fi/c5e6ifhyyuooszonja5ap/05.Ahlef_Bellayaly.mp3?rlkey=a95e726nwdbj5fhqc26676hyw&st=kgymnewx&dl=1",
+                    "duration_ms": 266226,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733ab52229285df7f54591d34c",
+                    "id": 406,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "ما تفكرنيش",
+                    "track_url": "https://www.dropbox.com/scl/fi/yi4372frmb9fou0us24og/06.Matfakkarnish.mp3?rlkey=1agumwvspogr50vezht9xao1r&st=quv9n3vq&dl=1",
+                    "duration_ms": 284533,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733ab52229285df7f54591d34c",
+                    "id": 407,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "العيون",
+                    "track_url": "https://www.dropbox.com/scl/fi/kcrnk6mhrxafg6afzk27z/07.El-Eyoun.mp3?rlkey=4ibojo6vp3b9ocmqpuhtmvwl9&st=3hvrlhv5&dl=1",
+                    "duration_ms": 235973,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733ab52229285df7f54591d34c",
+                    "id": 408,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "ولا الليالى تهون",
+                    "track_url": "https://www.dropbox.com/scl/fi/w9dzbmh5cf7btu05w4l1z/08.Wala_Ellayaly_Tehoun.mp3?rlkey=zshhqq62p8uiv4fm4cus2s35c&st=a29rpuau&dl=1",
+                    "duration_ms": 241333,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733ab52229285df7f54591d34c",
+                    "id": 409,
+                    "artist": "Amr Diab"
+                }
+            ],
+            "id": 401
+        },
+        {
+            "name": "ذكريات",
+            "release_date": "1994-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27328ea24a4d8d4681bfb2612d1",
+            "track_url": "https://open.spotify.com/album/0l5WwYnIl9rtiP8vUzCdv9",
+            "tracks": [
+                {
+                    "name": "ذكريات",
+                    "track_url": "https://www.dropbox.com/scl/fi/lmefgyfdj5fxf3v107urk/01.Zekrayat.mp3?rlkey=plg31pxta4f12b0lvf7oerrpq&st=dm9zieyi&dl=1",
+                    "duration_ms": 260600,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27328ea24a4d8d4681bfb2612d1",
+                    "id": 411,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "الحب ابتدى",
+                    "track_url": "https://www.dropbox.com/scl/fi/yccaiupsu2rbjrrg5n20m/02.El_Hob_Ebtada.mp3?rlkey=tf0qgnwqh9affodaj3850uofw&st=7qadt44v&dl=1",
+                    "duration_ms": 133333,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27328ea24a4d8d4681bfb2612d1",
+                    "id": 412,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "قلوب",
+                    "track_url": "https://www.dropbox.com/scl/fi/ufhwvb2cto8hs9ou53x22/03.Kouloub.mp3?rlkey=d78665kao0bposvccpaqte22q&st=9sns485o&dl=1",
+                    "duration_ms": 153133,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27328ea24a4d8d4681bfb2612d1",
+                    "id": 413,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "ياعمرنا",
+                    "track_url": "https://www.dropbox.com/scl/fi/jehv98nrdpsuvr6f2g92m/04.Ya_Omrena.mp3?rlkey=u1n3c7twpqrriy1188qszianp&st=hdtp400g&dl=1",
+                    "duration_ms": 271066,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27328ea24a4d8d4681bfb2612d1",
+                    "id": 414,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "أفريقيا",
+                    "track_url": "https://www.dropbox.com/scl/fi/a46u0z4t19kpj8zc7dkmb/05.Africa.mp3?rlkey=juvlgns6e5ass7ht8c608ppco&st=x1kxk3eb&dl=1",
+                    "duration_ms": 401866,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27328ea24a4d8d4681bfb2612d1",
+                    "id": 415,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "ميال",
+                    "track_url": "https://www.dropbox.com/scl/fi/4hdgne7ocp4p4j90bhi81/06.Mayal.mp3?rlkey=trlk8ud5nj91i0qjtvvtj8bbe&st=uzvu6c9u&dl=1",
+                    "duration_ms": 244560,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27328ea24a4d8d4681bfb2612d1",
+                    "id": 416,
+                    "artist": "Amr Diab"
+                }
+            ],
+            "id": 410
+        },
+        {
+            "name": "أيامنا",
+            "release_date": "1992-05-17",
+            "image": "https://i.scdn.co/image/ab67616d0000b273391d70ef4ef8420b9885d0a4",
+            "track_url": "https://open.spotify.com/album/0PC6M68dPjr9iuYfaSJEcY",
+            "tracks": [
+                {
+                    "name": "جالك قلب",
+                    "track_url": "https://www.dropbox.com/scl/fi/k4kg7q7tys5e52zy48l76/08.Galak_Alb.mp3?rlkey=ynkjwboxpo91oc01phz2syj98&st=snhkpt10&dl=1",
+                    "duration_ms": 236588,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273391d70ef4ef8420b9885d0a4",
+                    "id": 420,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "هواك حيرنى",
+                    "track_url": "https://www.dropbox.com/scl/fi/8aaqe1915rc5d1rsfbcm5/07.Hawak_Hayarni.mp3?rlkey=koo7ksty6ai2p4nzs8tvr44nn&st=ka12k7gj&dl=1",
+                    "duration_ms": 257857,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273391d70ef4ef8420b9885d0a4",
+                    "id": 421,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "طبع الحياة",
+                    "track_url": "https://www.dropbox.com/scl/fi/w1w2fmd3sddoy76cq5aw0/06.Taba_El_Hayah.mp3?rlkey=wci5ks0nizrucm9ucbzhzyje9&st=fzr68w8d&dl=1",
+                    "duration_ms": 251379,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273391d70ef4ef8420b9885d0a4",
+                    "id": 422,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "لما كان",
+                    "track_url": "https://www.dropbox.com/scl/fi/mg8z7fvu65p1jakk2qh8o/05.Lama_Kan.mp3?rlkey=k8xmjp0ipsr65zb4y8m9nyk0u&st=sb1zofp1&dl=1",
+                    "duration_ms": 239420,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273391d70ef4ef8420b9885d0a4",
+                    "id": 423,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "عرفتي مين حبك",
+                    "track_url": "https://www.dropbox.com/scl/fi/el5kqlswanrk5cjem1fmo/04.Erefty_Meen_Habek.mp3?rlkey=w8wmsb3iu8i05js51o6qanx6p&st=8qalba47&dl=1",
+                    "duration_ms": 214807,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273391d70ef4ef8420b9885d0a4",
+                    "id": 424,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "روحى أنا",
+                    "track_url": "https://www.dropbox.com/scl/fi/evbe4jgdav6euss98awh4/03.Rohy_Ana.mp3?rlkey=uys20db6kmy0porekn0qymk53&st=v3svl42p&dl=1",
+                    "duration_ms": 245016,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273391d70ef4ef8420b9885d0a4",
+                    "id": 425,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "أيامنا",
+                    "track_url": "https://www.dropbox.com/scl/fi/chd070bc6ajw3lmmc366b/02.Ayamna.mp3?rlkey=95go881j0f1aorhv77tvs5uzy&st=alb8254t&dl=1",
+                    "duration_ms": 300419,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273391d70ef4ef8420b9885d0a4",
+                    "id": 426,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "الماضى",
+                    "track_url": "https://www.dropbox.com/scl/fi/89mq2r5oo06htf8to7gad/01.El_Mady.mp3?rlkey=jczocwgde4kc9baj3jhs8g7ng&st=u8h2mtuz&dl=1",
+                    "duration_ms": 255907,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273391d70ef4ef8420b9885d0a4",
+                    "id": 427,
+                    "artist": "Amr Diab"
+                }
+            ],
+            "id": 419
+        },
+        {
+            "name": "أيس كريم في جليم",
+            "release_date": "1992-02-12",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e16a866493f6d009afed23c0",
+            "track_url": "https://open.spotify.com/album/0W0tGG7NGVGp4YSptj91AO",
+            "tracks": [
+                {
+                    "name": "أيس كريم في جليم",
+                    "track_url": "https://www.dropbox.com/scl/fi/8yk70ob8i370my6gc85ay/01.Ice_Cream_Fe_Glym.mp3?rlkey=4ne507yxknag0qicawv69s6u5&st=aiuyhzch&dl=1",
+                    "duration_ms": 242200,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e16a866493f6d009afed23c0",
+                    "id": 429,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "رصيف نمرة حمسة",
+                    "track_url": "https://www.dropbox.com/scl/fi/v3b3hflgiskwv054kih3a/05.Raseef_Nemra_Khamsa.mp3?rlkey=60bpeeq5dnos7zvmw3dd39qry&st=7glwwq7f&dl=1",
+                    "duration_ms": 235573,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e16a866493f6d009afed23c0",
+                    "id": 430,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "حتمرد على الوضع الحالي",
+                    "track_url": "https://www.dropbox.com/scl/fi/g9p6drb5gger10jx52xwr/03.Hatmarrad_Alwada_El_Haly.mp3?rlkey=23aw8m15dzisrb8ccvfsp2bnb&st=v44bipb2&dl=1",
+                    "duration_ms": 163960,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e16a866493f6d009afed23c0",
+                    "id": 431,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "أنا حر",
+                    "track_url": "https://www.dropbox.com/scl/fi/iugmkef82lwxpo5fnu2ey/04.Ana_Horr.mp3?rlkey=jl1287yai1guwiv5rzuv1faap&st=jg1xww3r&dl=1",
+                    "duration_ms": 136200,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e16a866493f6d009afed23c0",
+                    "id": 432,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "دانا دانا",
+                    "track_url": "https://www.dropbox.com/scl/fi/1xcxr8i8tehz4c0oylxof/02.Dana_Dana.mp3?rlkey=j7v5406s2nqaxcvffuiqeqai5&st=3tixa8j0&dl=1",
+                    "duration_ms": 130399,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e16a866493f6d009afed23c0",
+                    "id": 433,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "وأحنا معاك",
+                    "track_url": "https://www.dropbox.com/scl/fi/6kjqdky71bse7r8zd38bp/06.We_Ehna_Maak.mp3?rlkey=69veq8v3pvnx0pw2yyawh2qmw&st=4h88yox6&dl=1",
+                    "duration_ms": 205866,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e16a866493f6d009afed23c0",
+                    "id": 434,
+                    "artist": "Amr Diab"
+                }
+            ],
+            "id": 428
+        },
+        {
+            "name": "حبيبي",
+            "release_date": "1991-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c0115efc362e74eecbfb06cd",
+            "track_url": "https://open.spotify.com/album/38iBblSS3L4VlMmW5Nsh8r",
+            "tracks": [
+                {
+                    "name": "حبيبي",
+                    "track_url": "https://www.dropbox.com/scl/fi/l87mcnaygi0acdng70e5r/01.Habibi.mp3?rlkey=bmvh2oo3a4pi1fb2x1id1s1fd&st=t850lbn5&dl=1",
+                    "duration_ms": 285840,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c0115efc362e74eecbfb06cd",
+                    "id": 438,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "ورماني الشوق",
+                    "track_url": "https://www.dropbox.com/scl/fi/sgs8np3kdyjmbjtjje1c0/02.We_Ramany_El_Shoa.mp3?rlkey=vabjez9ofgrexvwxfnotcquw7&st=idwbxemp&dl=1",
+                    "duration_ms": 307960,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c0115efc362e74eecbfb06cd",
+                    "id": 439,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "إيه بس اللي رماك",
+                    "track_url": "https://www.dropbox.com/scl/fi/lz1lmfkjoy6tcj5vi8tf6/03.Eh_Bas_Ely_Ramak.mp3?rlkey=uxht1t0ks0khmf7sifokeqtzu&st=8aa8h8kc&dl=1",
+                    "duration_ms": 352253,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c0115efc362e74eecbfb06cd",
+                    "id": 440,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "إلا معاك",
+                    "track_url": "https://www.dropbox.com/scl/fi/c1m2oppwk2ofcpo4zggri/04.Ella_Maak.mp3?rlkey=y5utxi5cu1lghklf7mupgjwfk&st=u9ypo170&dl=1",
+                    "duration_ms": 198106,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c0115efc362e74eecbfb06cd",
+                    "id": 441,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "ناوي تعاتب",
+                    "track_url": "https://www.dropbox.com/scl/fi/2k7mnn012l4c7nzk7y9ww/05.Nawy_Teateb.mp3?rlkey=ee60wpy3b0mxjcced08sp48gr&st=loy419p0&dl=1",
+                    "duration_ms": 299306,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c0115efc362e74eecbfb06cd",
+                    "id": 442,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "أخترتك",
+                    "track_url": "https://www.dropbox.com/scl/fi/5e3v5rzt88tiddw6ax4q6/06.Ekhtartik.mp3?rlkey=2liotjn2locf58ph3t66mc2ku&st=21e7e130&dl=1",
+                    "duration_ms": 274653,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c0115efc362e74eecbfb06cd",
+                    "id": 443,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "أنا عاشق",
+                    "track_url": "https://www.dropbox.com/scl/fi/716j0e9t6f3ku60081ts5/07.Ana_Ashek.mp3?rlkey=ntvuog1kpv4ldjhl9qr7iwcd6&st=gb99sya9&dl=1",
+                    "duration_ms": 213333,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c0115efc362e74eecbfb06cd",
+                    "id": 444,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "مستغرب ليه",
+                    "track_url": "https://www.dropbox.com/scl/fi/e7o7tkz2kf6lbyifxnu1g/08.Mistaghrab_Leih.mp3?rlkey=408hpr5dlxeg43rvie0g6q4bn&st=l12i39ht&dl=1",
+                    "duration_ms": 296360,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c0115efc362e74eecbfb06cd",
+                    "id": 445,
+                    "artist": "Amr Diab"
+                }
+            ],
+            "id": 437
+        },
+        {
+            "name": "متخافيش",
+            "release_date": "1990-11-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273da815d0983169fa1b741856d",
+            "track_url": "https://open.spotify.com/album/4kfnzKaPSM1Kn17bGkKxd8",
+            "tracks": [
+                {
+                    "name": "متخافيش",
+                    "track_url": "https://www.dropbox.com/scl/fi/lg3h0j5jfeeheheo8ovuh/01.Matkhafesh.mp3?rlkey=s4az1wfqptj498rghn0b26cnm&st=hwporaij&dl=1",
+                    "duration_ms": 283493,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273da815d0983169fa1b741856d",
+                    "id": 447,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "زى الزمان",
+                    "track_url": "https://www.dropbox.com/scl/fi/93lno9zp5v6jpp68n72yu/02.Zay_El-Zaman.mp3?rlkey=h76xo6ddi33iflfwl4r4hvjiz&st=jrtlo1ku&dl=1",
+                    "duration_ms": 255573,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273da815d0983169fa1b741856d",
+                    "id": 448,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "ونندم",
+                    "track_url": "https://www.dropbox.com/scl/fi/vw40yvzzvh9a6x6h2j5cu/03.We_Nendam.mp3?rlkey=u64hslj8lgw684zg0br5fum0f&st=mz1twzza&dl=1",
+                    "duration_ms": 240253,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273da815d0983169fa1b741856d",
+                    "id": 449,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "مشغول",
+                    "track_url": "https://www.dropbox.com/scl/fi/3hatyn9kz1ib9c4nfaz8o/04.Mashghool.mp3?rlkey=4ul6opebw5uw6m1cdvb8hua5d&st=m329ym4a&dl=1",
+                    "duration_ms": 352453,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273da815d0983169fa1b741856d",
+                    "id": 450,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "راح أقولك إيه",
+                    "track_url": "https://www.dropbox.com/scl/fi/m2e3yxr22fznq3ssi9e38/05.Rah_Aaollak_Eih.mp3?rlkey=mk5op6zbif0jnz3gnn7giwoup&st=e4rlmomc&dl=1",
+                    "duration_ms": 207413,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273da815d0983169fa1b741856d",
+                    "id": 451,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "الله يخليكى",
+                    "track_url": "https://www.dropbox.com/scl/fi/a12lia6hkbgdxiu24sql1/06.Allah_Yekhalliky.mp3?rlkey=g0zixzmogk332z1b9zo7eigrp&st=3qcbfcx1&dl=1",
+                    "duration_ms": 296213,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273da815d0983169fa1b741856d",
+                    "id": 452,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "أجمل مافيكى",
+                    "track_url": "https://www.dropbox.com/scl/fi/wc38h3c3i3l7viyjgho2d/07.Agmal_Ma_Fiky.mp3?rlkey=qlrv4ewjm8x7mkb660yhbs9tg&st=nv1xv87g&dl=1",
+                    "duration_ms": 256959,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273da815d0983169fa1b741856d",
+                    "id": 453,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "حبيتها",
+                    "track_url": "https://www.dropbox.com/scl/fi/nbnw4l15nd77fd8kwaj4n/08.Habitha.mp3?rlkey=fdu4o86otkj2w3wqvhdiu31br&st=25r1hr80&dl=1",
+                    "duration_ms": 257146,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273da815d0983169fa1b741856d",
+                    "id": 454,
+                    "artist": "Amr Diab"
+                }
+            ],
+            "id": 446
+        },
+        {
+            "name": "شوقنا",
+            "release_date": "1989-02-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b27300d101e7cf5c97e630cb0769",
+            "track_url": "https://open.spotify.com/album/6MIGSMt4cA2q2JwTFYMbPq",
+            "tracks": [
+                {
+                    "name": "إنتي اللي عارفة",
+                    "track_url": "https://www.dropbox.com/scl/fi/o8261y2rorybp6g7zpwrm/01.Inty_Elli_Arfa.mp3?rlkey=x12es6hqdbt0c4k26yqakhe15&st=0tev4ciy&dl=1",
+                    "duration_ms": 250746,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27300d101e7cf5c97e630cb0769",
+                    "id": 456,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "شوقنا",
+                    "track_url": "https://www.dropbox.com/scl/fi/zfwl2ikrjimjlm3vzfb38/02.Shawakna_Aktar.mp3?rlkey=cxlg326x89l43en89piiefets&st=21l154mm&dl=1",
+                    "duration_ms": 241520,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27300d101e7cf5c97e630cb0769",
+                    "id": 457,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "وإيه يعني",
+                    "track_url": "https://www.dropbox.com/scl/fi/ixbfldji0ut38xvrzrl1o/03.We_Eh_Yaani.mp3?rlkey=we1hh6emy0tcjj48e9j8xvp2x&st=j3h9hfr9&dl=1",
+                    "duration_ms": 309520,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27300d101e7cf5c97e630cb0769",
+                    "id": 458,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "حبينا",
+                    "track_url": "https://www.dropbox.com/scl/fi/tt4c73s462xr04hak8qtg/04.Hebbina.mp3?rlkey=ug2pq5sgibqa4788s9vqj39bg&st=nhsl7gsr&dl=1",
+                    "duration_ms": 330280,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27300d101e7cf5c97e630cb0769",
+                    "id": 459,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "كده كده",
+                    "track_url": "https://www.dropbox.com/scl/fi/120citnjf2wd21xryp2l2/05.Keda_Keda.mp3?rlkey=pwx09nvlqf8ki76yw3abq156s&st=h41q0glo&dl=1",
+                    "duration_ms": 291373,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27300d101e7cf5c97e630cb0769",
+                    "id": 460,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "ليه",
+                    "track_url": "https://www.dropbox.com/scl/fi/jimn4nc33mz6625dfyuxp/06.Leh.mp3?rlkey=6ww6dvi2b5jm5zc73ar7jzvkx&st=s5jipz0k&dl=1",
+                    "duration_ms": 314453,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27300d101e7cf5c97e630cb0769",
+                    "id": 461,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "ليلى",
+                    "track_url": "https://www.dropbox.com/scl/fi/3meiry5233w8e9jvb1kn5/07.Leila.mp3?rlkey=t36kwll6x1mws2g346p283e90&st=p6t56gl4&dl=1",
+                    "duration_ms": 324320,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27300d101e7cf5c97e630cb0769",
+                    "id": 462,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "قمر",
+                    "track_url": "https://www.dropbox.com/scl/fi/925a99zqbwmooxlomlkad/08.Kamar.mp3?rlkey=4pwik3e5y46ugg9a0xagoht6z&st=12hb9wx9&dl=1",
+                    "duration_ms": 268386,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27300d101e7cf5c97e630cb0769",
+                    "id": 463,
+                    "artist": "Amr Diab"
+                }
+            ],
+            "id": 455
+        },
+        {
+            "name": "ميال",
+            "release_date": "1988-10-12",
+            "image": "https://i.scdn.co/image/ab67616d0000b27345193c976d1e03ea32058534",
+            "track_url": "https://open.spotify.com/album/6hAnWoyjBcaU0a7f8VowGE",
+            "tracks": [
+                {
+                    "name": "ميال",
+                    "track_url": "https://www.dropbox.com/scl/fi/2q756vh6pw45looiyrcen/.mp3?rlkey=v8wzwno7anthlhyowbd8yfttl&st=9r2qavba&dl=1",
+                    "duration_ms": 280933,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27345193c976d1e03ea32058534",
+                    "id": 465,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "مين غيرك",
+                    "track_url": "https://www.dropbox.com/scl/fi/vo0k0fx90l7twxidz57zj/.mp3?rlkey=3gw1q8ox2cgp2of43e5vwr6wi&st=t5s49ijo&dl=1",
+                    "duration_ms": 332533,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27345193c976d1e03ea32058534",
+                    "id": 466,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "توبة",
+                    "track_url": "https://www.dropbox.com/scl/fi/klwbm1yx96xwh1us0vkv4/.mp3?rlkey=edf4sr29j2xtzqs0d536yz8j2&st=hnzvcmbd&dl=1",
+                    "duration_ms": 257079,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27345193c976d1e03ea32058534",
+                    "id": 467,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "ازيك",
+                    "track_url": "https://www.dropbox.com/scl/fi/qpzd8m7k0ailwma65lisv/.mp3?rlkey=1vnukbh1ht93j785uq4x9uuz1&st=hryrw9p7&dl=1",
+                    "duration_ms": 349386,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27345193c976d1e03ea32058534",
+                    "id": 468,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "أول ما أقول",
+                    "track_url": "https://www.dropbox.com/scl/fi/6kpk9o9hfjvyxj2soek11/.mp3?rlkey=oc0n9m9lz7c1u1wem9reom328&st=urexa55a&dl=1",
+                    "duration_ms": 219333,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27345193c976d1e03ea32058534",
+                    "id": 469,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "كلميني",
+                    "track_url": "https://www.dropbox.com/scl/fi/qi5om47jrbdmr3wgcfy4f/.mp3?rlkey=u5k5z2zs97th7l9iblndf47e8&st=c7f8wpht&dl=1",
+                    "duration_ms": 276386,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27345193c976d1e03ea32058534",
+                    "id": 470,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "نعشق القمر",
+                    "track_url": "https://www.dropbox.com/scl/fi/yw1aozz5t7fh7jl77j6d8/.mp3?rlkey=ep67lhkqmg0hg33aip8om5r8q&st=o9m1kuvj&dl=1",
+                    "duration_ms": 342066,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27345193c976d1e03ea32058534",
+                    "id": 471,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "ليلة",
+                    "track_url": "https://www.dropbox.com/scl/fi/bv67zimhqa2wi11gdsg85/.mp3?rlkey=qx4ccxy6axzvt0ltq2ztxe8jc&st=92naoe5y&dl=1",
+                    "duration_ms": 386346,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27345193c976d1e03ea32058534",
+                    "id": 472,
+                    "artist": "Amr Diab"
+                }
+            ],
+            "id": 464
+        },
+        {
+            "name": "عودوني",
+            "release_date": "1988-02-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b27352e6f651d4babc7ecc1f5857",
+            "track_url": "https://open.spotify.com/album/4SEg99wheVv2i68sMkNtIT",
+            "tracks": [
+                {
+                    "name": "عودوني",
+                    "track_url": "https://www.dropbox.com/scl/fi/517d4i025cl03z47j8lso/01.Awedony.mp3?rlkey=a1d31arvw2ql7p90hs46r696d&st=7my62ndj&dl=1",
+                    "duration_ms": 320013,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27352e6f651d4babc7ecc1f5857",
+                    "id": 474,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "خلصت فيك كل الكلام",
+                    "track_url": "https://www.dropbox.com/scl/fi/iexps9hihnm8x8c3a65d6/02.Khalast_Feek_Kol_Al-Kalam.mp3?rlkey=26mvo95tmc4rulgxxw9b11rgr&st=ocrt5ga8&dl=1",
+                    "duration_ms": 299973,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27352e6f651d4babc7ecc1f5857",
+                    "id": 475,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "الملاك البرئ",
+                    "track_url": "https://www.dropbox.com/scl/fi/v3w03xof0731f8711prny/03.Al-Malak_El-Barea.mp3?rlkey=v3bo2q994x1w1wmnkinrv263a&st=69b04t38&dl=1",
+                    "duration_ms": 234186,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27352e6f651d4babc7ecc1f5857",
+                    "id": 476,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "انت ياللي بحبك",
+                    "track_url": "https://www.dropbox.com/scl/fi/qaq7le0pyeirg32mzqdvw/04.Enta_Yali_Bahebak.mp3?rlkey=hdepecp3mq0byj7r2fqkjkhky&st=k80n5v04&dl=1",
+                    "duration_ms": 323453,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27352e6f651d4babc7ecc1f5857",
+                    "id": 477,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "ناري",
+                    "track_url": "https://www.dropbox.com/scl/fi/4fmzrgn35anu882pwhfqq/05.Nary_Ya_Habeba.mp3?rlkey=g1rnrcwgutvrgfyu50rbdoppv&st=mgm9rnsy&dl=1",
+                    "duration_ms": 287693,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27352e6f651d4babc7ecc1f5857",
+                    "id": 478,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "ليالي العمر",
+                    "track_url": "https://www.dropbox.com/scl/fi/950de5ly3p7tpnecdi3tj/06.Laialy_El-Omr.mp3?rlkey=wu839ll4z8m4ibipowbfvzwpg&st=yygim9i3&dl=1",
+                    "duration_ms": 312480,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27352e6f651d4babc7ecc1f5857",
+                    "id": 479,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "وغلاوتك",
+                    "track_url": "https://www.dropbox.com/scl/fi/pamrwaztb5yrpiccz1bt8/07.Weghalawtac.mp3?rlkey=vv0cy56d8ld9f7p9g42lf29h6&st=zz649dnx&dl=1",
+                    "duration_ms": 230586,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27352e6f651d4babc7ecc1f5857",
+                    "id": 480,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "ملك ايديك",
+                    "track_url": "https://www.dropbox.com/scl/fi/slki24a2p51cn0xqi8s02/08.Melk_Edeak.mp3?rlkey=lz5kjiiphlc4fxf6ntcghdns5&st=yx7owrla&dl=1",
+                    "duration_ms": 272413,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27352e6f651d4babc7ecc1f5857",
+                    "id": 481,
+                    "artist": "Amr Diab"
+                }
+            ],
+            "id": 473
+        },
+        {
+            "name": "خالصين",
+            "release_date": "1987-02-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b273472eb29fd02f6faaf73dba63",
+            "track_url": "https://open.spotify.com/album/1GyhJBKT58DK5yx0KRVCqz",
+            "tracks": [
+                {
+                    "name": "خالصين",
+                    "track_url": "https://www.dropbox.com/scl/fi/1pqmopwuusldp9pn5csod/01.Khalseen.mp3?rlkey=uaien6l2c2rcqmjw6aykbe6ii&st=av5ki599&dl=1",
+                    "duration_ms": 357013,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273472eb29fd02f6faaf73dba63",
+                    "id": 483,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "هي عنواني",
+                    "track_url": "https://www.dropbox.com/scl/fi/ar3p4jiaxgvt3of657c90/02.Heyya_Ayzani.mp3?rlkey=ox5tqmv2sbxzi98mc6lx46l3m&st=0xgberz7&dl=1",
+                    "duration_ms": 307226,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273472eb29fd02f6faaf73dba63",
+                    "id": 484,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "السكة مش طويلة",
+                    "track_url": "https://www.dropbox.com/scl/fi/hkgl7opbbmzmilxra6xb8/03.El-Sekka_Mosh_Tawila.mp3?rlkey=hdv584tspjy36ca3nuflmzzmf&st=sy70y0to&dl=1",
+                    "duration_ms": 343386,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273472eb29fd02f6faaf73dba63",
+                    "id": 485,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "عيني منك",
+                    "track_url": "https://www.dropbox.com/scl/fi/7jcg78gf4q2arehwlp8mi/04.Einy_Mennek.mp3?rlkey=i4n5nww10emwgpg9r6l8qo7b0&st=vqtm0lnq&dl=1",
+                    "duration_ms": 274453,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273472eb29fd02f6faaf73dba63",
+                    "id": 486,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "أفراح",
+                    "track_url": "https://www.dropbox.com/scl/fi/uhcwpdw8w9341veqsgq16/05.Afrah.mp3?rlkey=ghhax9ooioodbpg6uwkv77e4d&st=4y493c6m&dl=1",
+                    "duration_ms": 456053,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273472eb29fd02f6faaf73dba63",
+                    "id": 487,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "امال ايه",
+                    "track_url": "https://www.dropbox.com/scl/fi/t1jx0p9as4bg5wgt05gw9/06.Ommal_Eih.mp3?rlkey=4qmqnfke38ry8doj20f6kqj87&st=oyh7tuha&dl=1",
+                    "duration_ms": 305560,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273472eb29fd02f6faaf73dba63",
+                    "id": 488,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "كلام العين",
+                    "track_url": "https://www.dropbox.com/scl/fi/m2vpo2ze5bdmf9rdtuk7i/07.Kalam_El-Ain.mp3?rlkey=927f042k56a46joimhju2v6cj&st=fh2ezii2&dl=1",
+                    "duration_ms": 311826,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273472eb29fd02f6faaf73dba63",
+                    "id": 489,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "ياطير يامتغرب",
+                    "track_url": "https://www.dropbox.com/scl/fi/evx9y2oaoo4hqx9x1hwjn/08.Ya_Tair_Ya_Metgharrab.mp3?rlkey=rmbjc9s3pb4a54dpjpwzs2nuv&st=ucrgd0s9&dl=1",
+                    "duration_ms": 270106,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273472eb29fd02f6faaf73dba63",
+                    "id": 490,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "لو قال",
+                    "track_url": "https://www.dropbox.com/scl/fi/vdbmfoeda0oge9qcox2uu/09.Law_Aal.mp3?rlkey=7xkilwlxglbdz3zyvl0inmrb2&st=2ybfouqa&dl=1",
+                    "duration_ms": 395853,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273472eb29fd02f6faaf73dba63",
+                    "id": 491,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "زيتوني",
+                    "track_url": "https://www.dropbox.com/scl/fi/rhw5ufdxm2be4fszc07w5/10.Zaytony.mp3?rlkey=30hgajq9akken2637axcxjqti&st=a3y9k53p&dl=1",
+                    "duration_ms": 248253,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273472eb29fd02f6faaf73dba63",
+                    "id": 492,
+                    "artist": "Amr Diab"
+                }
+            ],
+            "id": 482
+        },
+        {
+            "name": "هلا هلا",
+            "release_date": "1986-02-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b273cd0bb8816642d6be4bc9a720",
+            "track_url": "https://open.spotify.com/album/2KtMcdBJZ8a0NKq6lNzhLz",
+            "tracks": [
+                {
+                    "name": "راحل",
+                    "track_url": "https://www.dropbox.com/scl/fi/2vx0crsyr9d7abzmvbz9q/01.Rahel.mp3?rlkey=gckk4nuq2k1htfemkt449ddet&st=4u945267&dl=1",
+                    "duration_ms": 278480,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cd0bb8816642d6be4bc9a720",
+                    "id": 494,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "مالة",
+                    "track_url": "https://www.dropbox.com/scl/fi/q2unt2gs38lya66x20nrj/02.Maalo.mp3?rlkey=ubagkuxxnffrt1wps93new7gz&st=7kxp5beq&dl=1",
+                    "duration_ms": 317360,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cd0bb8816642d6be4bc9a720",
+                    "id": 495,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "يصعب علينا",
+                    "track_url": "https://www.dropbox.com/scl/fi/2gmgmf69t5ny37x0194nq/03.Yesaab_Aleina.mp3?rlkey=y992kkn8ncftm6km952ha3xy0&st=lfp13csr&dl=1",
+                    "duration_ms": 300466,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cd0bb8816642d6be4bc9a720",
+                    "id": 496,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "عودى ياليالى",
+                    "track_url": "https://www.dropbox.com/scl/fi/v7x9ligw18x59ckktutt5/04.Oudy_Ya_Laialy.mp3?rlkey=7js5ixdsunx6rz265hfoqtozo&st=0cjz2km1&dl=1",
+                    "duration_ms": 333506,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cd0bb8816642d6be4bc9a720",
+                    "id": 497,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "قلوع",
+                    "track_url": "https://www.dropbox.com/scl/fi/ktc8y9ow3o12h74yl4izu/05.Oloa.mp3?rlkey=6c7romqa0x2x0djekdfk5kjq3&st=njhh2l30&dl=1",
+                    "duration_ms": 207279,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cd0bb8816642d6be4bc9a720",
+                    "id": 498,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "هلا هلا",
+                    "track_url": "https://www.dropbox.com/scl/fi/7isqj1s2vb7dbd9zir9r4/06.Hala_Hala.mp3?rlkey=tgbfw53ru9xcerb9opvg9v2r3&st=po7rrwnh&dl=1",
+                    "duration_ms": 283506,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cd0bb8816642d6be4bc9a720",
+                    "id": 499,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "مدى إيدك",
+                    "track_url": "https://www.dropbox.com/scl/fi/u9yenjo0uea003sl96o0j/07.Medy_Edek.mp3?rlkey=oa6m3rvlszbbyw1ywrg6irmlt&st=4l6z2e6q&dl=1",
+                    "duration_ms": 385226,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cd0bb8816642d6be4bc9a720",
+                    "id": 500,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "مية مية",
+                    "track_url": "https://www.dropbox.com/scl/fi/8625szbdeykryksxyr362/08.Mea_Mea.mp3?rlkey=cx22w1hc1hjou1dagssioszt7&st=c4gi928q&dl=1",
+                    "duration_ms": 288200,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cd0bb8816642d6be4bc9a720",
+                    "id": 501,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "المكنوب على الجبين",
+                    "track_url": "https://www.dropbox.com/scl/fi/yauyrd0ioowt4w3zn8wn0/09.El_Maktoub_Ala_El_Gebeen.mp3?rlkey=4goml1xcysyoekr4bbjjfioto&st=p7p4srgo&dl=1",
+                    "duration_ms": 320720,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cd0bb8816642d6be4bc9a720",
+                    "id": 502,
+                    "artist": "Amr Diab"
+                }
+            ],
+            "id": 493
+        },
+        {
+            "name": "غني من قلبك",
+            "release_date": "1984-02-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b27381d1d6563d111723e2fde56e",
+            "track_url": "https://open.spotify.com/album/0t0gr13kECpGZIPbRGrWWU",
+            "tracks": [
+                {
+                    "name": "أشوف عنيكي",
+                    "track_url": "https://www.dropbox.com/scl/fi/v98klmacjt5xh86fcwjjr/01.Ashouf_Eineiki.mp3?rlkey=l7br52sl6qa51dhmoxiy3qs45&st=6zo110u4&dl=1",
+                    "duration_ms": 236320,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27381d1d6563d111723e2fde56e",
+                    "id": 504,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "غني من قلبك",
+                    "track_url": "https://www.dropbox.com/scl/fi/o8ninwhhjc942cbcs50mo/02.Ghani_Men_Albak.mp3?rlkey=37ob9ek9fw6zjglkf293rd6y5&st=y5efbav0&dl=1",
+                    "duration_ms": 305466,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27381d1d6563d111723e2fde56e",
+                    "id": 505,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "ياسمره",
+                    "track_url": "https://www.dropbox.com/scl/fi/jlan20uaez7avcr12a4iy/03.Ya_Samra.mp3?rlkey=hqxy2u8edxfi19i0s6ogm4psi&st=fgeprgl2&dl=1",
+                    "duration_ms": 295866,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27381d1d6563d111723e2fde56e",
+                    "id": 506,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "بتغني لمين",
+                    "track_url": "https://www.dropbox.com/scl/fi/0wqv5cfmaxavdi1w27zkd/04.Betghani_Lemin.mp3?rlkey=h32f73adkozia8toe8g48uvq9&st=w1suwufs&dl=1",
+                    "duration_ms": 255800,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27381d1d6563d111723e2fde56e",
+                    "id": 507,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "ياليلة",
+                    "track_url": "https://www.dropbox.com/scl/fi/q8f2zjqcddvubqovmud14/05.Ya_Leila.mp3?rlkey=3cv6jxu925sldi1zl9yy9d8kp&st=yc1sbuq9&dl=1",
+                    "duration_ms": 203880,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27381d1d6563d111723e2fde56e",
+                    "id": 508,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "إش حال الشجرة",
+                    "track_url": "https://www.dropbox.com/scl/fi/10tbnnz31vwynb3azkqpo/06.Esh_Hal_Eshajara.mp3?rlkey=s9d5jy1oixy7tvu0ofen78zcs&st=wj1xwian&dl=1",
+                    "duration_ms": 365480,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27381d1d6563d111723e2fde56e",
+                    "id": 509,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "عصافير الحب",
+                    "track_url": "https://www.dropbox.com/scl/fi/yyj5273k8chpkh0nadqvy/07.Asafir_El_Hob.mp3?rlkey=erbx57e1piswu3wzor2iwjz0b&st=ghu7ljza&dl=1",
+                    "duration_ms": 360346,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27381d1d6563d111723e2fde56e",
+                    "id": 510,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "يا خلي",
+                    "track_url": "https://www.dropbox.com/scl/fi/s2qzsqhoq3n5eydwaygb1/08.Yakhali.mp3?rlkey=1ugwnd431q1iemv38k5hx4h4y&st=07ad9syo&dl=1",
+                    "duration_ms": 287960,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27381d1d6563d111723e2fde56e",
+                    "id": 511,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "مصرية",
+                    "track_url": "https://www.dropbox.com/scl/fi/h74sxihd8r5khui5ynw4p/09.Masria.mp3?rlkey=fmiz22ycbi4i38ump3c61mskr&st=8yfoqg4d&dl=1",
+                    "duration_ms": 282693,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27381d1d6563d111723e2fde56e",
+                    "id": 512,
+                    "artist": "Amr Diab"
+                }
+            ],
+            "id": 503
+        },
+        {
+            "name": "Ya Tarek",
+            "release_date": "1983-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f5909355fb17dc0fabdce860",
+            "track_url": "https://open.spotify.com/album/2Ic3m5xoUj0gnlNnQEm5Tl",
+            "tracks": [
+                {
+                    "name": "Al Madina",
+                    "track_url": "https://www.dropbox.com/scl/fi/73l0ft3gj3r6h9q4n1pr5/.mp3?rlkey=k5avwxp6wh8hxrslo0krvt94q&st=6lnqux9d&dl=1",
+                    "duration_ms": 371120,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f5909355fb17dc0fabdce860",
+                    "id": 514,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Al Zaman",
+                    "track_url": "https://www.dropbox.com/scl/fi/jls4cqvnzcdzbo3wz3fix/Ahmedwap.Com_amrw_dyab_alzmn.mp3?rlkey=bvsitb2p4sru1pezuw9hiz76e&st=wif6pvlj&dl=1",
+                    "duration_ms": 243588,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f5909355fb17dc0fabdce860",
+                    "id": 515,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Baheb Al Haia",
+                    "track_url": "https://www.dropbox.com/scl/fi/7cqxag7sji7va25bw1xzh/Ahmedwap.Com_amrw_dyab_bhb_alhyah.mp3?rlkey=1m7ou6dqx3bjnmmq3onc6atu2&st=bnbi6f6t&dl=1",
+                    "duration_ms": 264578,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f5909355fb17dc0fabdce860",
+                    "id": 516,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Emta",
+                    "track_url": "",
+                    "duration_ms": 181529,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f5909355fb17dc0fabdce860",
+                    "id": 517,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Nawar Ya Lail",
+                    "track_url": "https://www.dropbox.com/scl/fi/he18oc2teeyo4o538wgsm/Ahmedwap.Com_amrw_dyab_nwr_ya_lyl.mp3?rlkey=eh8e8r5ced5suosbfic5g2ews&st=4ppsz9iw&dl=1",
+                    "duration_ms": 246437,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f5909355fb17dc0fabdce860",
+                    "id": 518,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Ya Habibty Wada",
+                    "track_url": "",
+                    "duration_ms": 278712,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f5909355fb17dc0fabdce860",
+                    "id": 519,
+                    "artist": "Amr Diab"
+                },
+                {
+                    "name": "Ya Tarek",
+                    "track_url": "https://www.dropbox.com/scl/fi/1bwkias76xjg6wld5wjfj/Ahmedwap.Com__ya_tryk.mp3?rlkey=d389vr5nxk883sx0ulk7fvrhs&st=6zpkjgut&dl=1",
+                    "duration_ms": 373922,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f5909355fb17dc0fabdce860",
+                    "id": 521,
+                    "artist": "Amr Diab"
+                }
+            ],
+            "id": 513
+        }
+
+    ],
+    "singles": [
+        {
+            "name": "El Ta'ama (Maqsoum)",
+            "release_date": "2024-06-29",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b7150e43ac34ccc73af6246d",
+            "track_url": "https://www.dropbox.com/scl/fi/w16rbaz10tdap6yxu6q4d/.mp3?rlkey=fl10txk9vrrklic9wevnmrwsr&st=viuhrrgv&dl=1",
+            "id": 531,
+            "artist": "Amr Diab"
+        },
+        {
+            "name": "Tetehabi",
+            "release_date": "2024-06-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b273537384c0915a0725348c9c4d",
+            "track_url": "https://www.dropbox.com/scl/fi/5pqgpw1xza8zfg2pfm5cl/.mp3?rlkey=fqcjoq49kxngbkh24vmo5tzs0&st=nn07tdjj&dl=1",
+            "id": 532,
+            "artist": "Amr Diab"
+        },
+        {
+            "name": "El Ta'ama",
+            "release_date": "2024-06-12",
+            "image": "https://i.scdn.co/image/ab67616d0000b273161ea2358b42ef5a0279b8ec",
+            "track_url": "https://www.dropbox.com/scl/fi/i7mestbrnx7j7tijexwhb/.mp3?rlkey=lkyn5gx29uv768nawosaecn5d&st=6fmjxuhy&dl=1",
+            "id": 533,
+            "artist": "Amr Diab"
+        },
+        {
+            "name": "Hekaytna Helwa",
+            "release_date": "2024-03-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b273860a4128a3a70b9c897e1091",
+            "track_url": "https://www.dropbox.com/scl/fi/2ur1i8akmh8b9c4nden9r/Hekayetna-Helwa.mp3?rlkey=s0r9j05e959h11ldcsbl7s2es&st=egz5uhfc&dl=1",
+            "id": 534,
+            "artist": "Amr Diab"
+        },
+        {
+            "name": "El Kelma El Helwa",
+            "release_date": "2024-03-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b273848face3e2fdb2cf11489ef0",
+            "track_url": "https://www.dropbox.com/scl/fi/80ogyavhdlyyxkrvzrtef/El-Kelma-El-Helwa.mp3?rlkey=jjaanctawwpd22lbpc2eiw71g&st=sa99oujk&dl=1",
+            "id": 535,
+            "artist": "Amr Diab"
+        },
+        {
+            "name": "Walahy Abdan",
+            "release_date": "2023-07-20",
+            "image": "https://i.scdn.co/image/ab67616d0000b273596e568d20750a2b822c2ace",
+            "track_url": "https://www.dropbox.com/scl/fi/mc62oi3t6k2c351pn7pzx/Walahy-Abdan.mp3?rlkey=j5vh6o2fkdxhpgcqz00bqn09f&st=4qhbmi6f&dl=1",
+            "id": 537,
+            "artist": "Amr Diab"
+        },
+        {
+            "name": "Ya Leil (feat. Abdallah Diab)",
+            "release_date": "2023-07-13",
+            "image": "https://i.scdn.co/image/ab67616d0000b273bd2c7b4d37cdd8f6fbedb143",
+            "track_url": "https://www.dropbox.com/scl/fi/a5bq18wb25eszp2rb3nb0/Ya-Leil.mp3?rlkey=j4k9zwh4qfo5aqyr3ouu6yp9r&st=k67s10j4&dl=1",
+            "id": 538,
+            "artist": "Amr Diab"
+        },
+        {
+            "name": "Oly Esmy",
+            "release_date": "2023-07-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738cf23007efe22166d114ce58",
+            "track_url": "https://www.dropbox.com/scl/fi/lxyhhgw9pu9pkhh7g5owv/Oly-Esmy.mp3?rlkey=9m10h4eb2usn449swnxa5v4ed&st=spodwe8t&dl=1",
+            "id": 539,
+            "artist": "Amr Diab"
+        },
+        {
+            "name": "Khalas Ala Alby",
+            "release_date": "2023-06-26",
+            "image": "https://i.scdn.co/image/ab67616d0000b273dc9ee2accf29beada9f45dd7",
+            "track_url": "https://www.dropbox.com/scl/fi/jpwmloc5lesuefgecpi7u/Khalas-Ala-Alby.mp3?rlkey=wagqw0h0sthi6anphipdrx6xw&st=8ylvg2tm&dl=1",
+            "id": 540,
+            "artist": "Amr Diab"
+        },
+        {
+            "name": "El Hafla",
+            "release_date": "2023-04-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b27383ab4f09261e96d898455933",
+            "track_url": "https://www.dropbox.com/scl/fi/hy8tsrfufpu4b0vbv3oqc/El-Hafla.mp3?rlkey=32ppt6bsu1o4yhikchr59zlf8&st=ey1rfm18&dl=1",
+            "id": 541,
+            "artist": "Amr Diab"
+        },
+        {
+            "name": "Ta'ala",
+            "release_date": "2023-03-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730dae47aa30a7d5a358e57fee",
+            "track_url": "https://www.dropbox.com/scl/fi/is5czxg75ewdff22jovqr/Taala-Taala.mp3?rlkey=ubswehpg9rxdbq9pir4glrvnr&st=b26ahs8v&dl=1",
+            "id": 542,
+            "artist": "Amr Diab"
+        },
+        {
+            "name": "Shokran Min Hina Le Bokra",
+            "release_date": "2023-03-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730253ae679e211e687866e86f",
+            "track_url": "https://www.dropbox.com/scl/fi/nbf50fthfp7wogz7jp1xd/Shokran-Min-Hena-Le-Bokra.mp3?rlkey=5lr4nsofobbu5scdzz8bfxmoo&st=37sni6sf&dl=1",
+            "id": 543,
+            "artist": "Amr Diab"
+        },
+        {
+            "name": "Battamen Aleik",
+            "release_date": "2023-02-13",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ebb7c88fce38dc9ab03e8ff6",
+            "track_url": "https://www.dropbox.com/scl/fi/xtr5cotlge61uojftmo26/Batamen-Aleik.mp3?rlkey=60jxz0mavrdi96isq7kl4m5g3&st=r18a2emv&dl=1",
+            "id": 545,
+            "artist": "Amr Diab"
+        },
+        {
+            "name": "Madhouk Alina",
+            "release_date": "2023-01-06",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730dbcbeb7abbddf4260317365",
+            "track_url": "https://www.dropbox.com/scl/fi/jrhlwbav316qvrp8qnqj9/Madhok-Alina.mp3?rlkey=tjq1mj0ckw6g73v7e2sah6wz7&st=8i99c39q&dl=1",
+            "id": 546,
+            "artist": "Amr Diab"
+        },
+        {
+            "name": "Single",
+            "release_date": "2022-12-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b273dc783411fc810f25f28e1eaf",
+            "track_url": "https://www.dropbox.com/scl/fi/wdj9oh4msel6bzgrxspgx/Single.mp3?rlkey=6hxyc2ic2grxpqnz1pylqui4n&st=axjbhgfx&dl=1",
+            "id": 547,
+            "artist": "Amr Diab"
+        },
+        {
+            "name": "Matygy Nefok",
+            "release_date": "2022-12-29",
+            "image": "https://i.scdn.co/image/ab67616d0000b27374ed598a0905b24b449bb862",
+            "track_url": "https://www.dropbox.com/scl/fi/5eb2sxg7y9o82b94elzgn/Matygy-Nefok.mp3?rlkey=gb39w9s5nzabr6qqcdcjmsxqz&st=6i0k5oo5&dl=1",
+            "id": 548,
+            "artist": "Amr Diab"
+        },
+        {
+            "name": "Mn 6 Le 9",
+            "release_date": "2022-08-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d26b0448d5fe184d9ce789ba",
+            "track_url": "https://www.dropbox.com/scl/fi/wai8dso14az4ktm1q098b/Mn-6-Le-9.mp3?rlkey=iylp28hvj2j0f9ulorddutw14&st=drl2b4pj&dl=1",
+            "id": 549,
+            "artist": "Amr Diab"
+        },
+        {
+            "name": "Paris",
+            "release_date": "2022-07-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734d68075a7b9971a681729188",
+            "track_url": "https://www.dropbox.com/scl/fi/k0dmq8l3d8va6ghmppew6/paris.mp3?rlkey=sj8brc35glnhccyh3mbkuzwfw&st=wbb9kq8k&dl=1",
+            "id": 550,
+            "artist": "Amr Diab"
+        },
+        {
+            "name": "Zamn El Mogamla",
+            "release_date": "2022-07-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d42d6e142ca86c066d900c26",
+            "track_url": "https://www.dropbox.com/scl/fi/htyi895xxabvmar7im2wa/Zamn-El-Mogamla.mp3?rlkey=hex463p8eg65c139yiyoxmom8&st=psu6pzlg&dl=1",
+            "id": 551,
+            "artist": "Amr Diab"
+        },
+        {
+            "name": "Mega Mix (Nas Helwa/ Beh Wa Hah Wa Beh Wa Kaf/ Wazeer El Saada)",
+            "release_date": "2022-07-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736bb05e5c6b00c3bd9a1af210",
+            "track_url": "https://www.dropbox.com/scl/fi/rzd90vh1qjrd7kup8ofye/Mega-Mix-Nas-Helwa-Beh-Wa-Hah-Wa-Beh-Wa-Kaf-Wazeer-El-Saada.mp3?rlkey=pcr0cb0nsea2d3wwe6zzdckui&st=6v86h5dt&dl=1",
+            "id": 552,
+            "artist": "Amr Diab"
+        },
+        {
+            "name": "El Look El Gedeed",
+            "release_date": "2022-06-29",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d9f7b43a6860132f3354857d",
+            "track_url": "https://www.dropbox.com/scl/fi/c2ibugkmicz0bqyot467b/El-Look-El-Gedeed.mp3?rlkey=jkzbgyolsmudgcgi95u0fx5ui&st=fg9uz1ga&dl=1",
+            "id": 553,
+            "artist": "Amr Diab"
+        },
+        {
+            "name": "Elly Yemshy Yemshy",
+            "release_date": "2022-05-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b273dd659e08f1b68c2f9c2697cc",
+            "track_url": "https://www.dropbox.com/scl/fi/m67x1r1cqnk3st3smb1ly/Elly-Yemshy-Yemshy.mp3?rlkey=d513aysm6v51rk05nfq4kzaib&st=x7uqfi5t&dl=1",
+            "id": 554,
+            "artist": "Amr Diab"
+        },
+        {
+            "name": "Hatedalaa",
+            "release_date": "2022-04-29",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a211e50a815a2af1228c739a",
+            "track_url": "https://www.dropbox.com/scl/fi/hc82cbn0g0bbpti5305bx/Hatedalaa.mp3?rlkey=1958zb1uudoj3k4ht4tyuxuow&st=kuyekhsu&dl=1",
+            "id": 555,
+            "artist": "Amr Diab"
+        },
+        {
+            "name": "Elly Bena",
+            "release_date": "2022-04-02",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a4b310b8eba80ef2f957e2f7",
+            "track_url": "https://www.dropbox.com/scl/fi/bifmrxammncchpl6u5jn5/Elly-Beina-Hayah.mp3?rlkey=vnlhe80wycr8cs7jkyzywgbbe&st=jb40b44k&dl=1",
+            "id": 556,
+            "artist": "Amr Diab"
+        },
+        {
+            "name": "El Ser",
+            "release_date": "2022-04-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273df7c5b01f996ad099c72d00b",
+            "track_url": "https://www.dropbox.com/scl/fi/sp0m5b67qdc20refqxdi4/El-Ser.mp3?rlkey=pqlj5g3apyn5p4bsugli4maay&st=knucnjk9&dl=1",
+            "id": 557,
+            "artist": "Amr Diab"
+        },
+        {
+            "name": "Khala El Hagar Yenta'",
+            "release_date": "2022-01-03",
+            "image": "https://i.scdn.co/image/ab67616d0000b273bc370e3367b33981a709697b",
+            "track_url": "https://www.dropbox.com/scl/fi/q00vk6tm28hhvq28k09oo/MrMaZiKa.Com_amrw_dyab_khly_alhgr_yntk.mp3?rlkey=w7ug7k2lteeady2emg3t503j9&st=9xds8nv2&dl=1",
+            "id": 558,
+            "artist": "Amr Diab"
+        },
+        {
+            "name": "Katr Min Orbak",
+            "release_date": "2021-12-27",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a05bd897e127ccf19165649b",
+            "track_url": "https://www.dropbox.com/scl/fi/kzpw9ba5z7u57r587mlwo/Katr-Min-Orbak.mp3?rlkey=3ptow0eli8jmkmp8f2nyh6u6y&st=s1m2oz1d&dl=1",
+            "id": 559,
+            "artist": "Amr Diab"
+        },
+        {
+            "name": "Law Betheb",
+            "release_date": "2021-12-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b273fbb4ac942520308853bed2ce",
+            "track_url": "https://www.dropbox.com/scl/fi/9pluon5j4f46siw1kgsge/Law-Betheb.mp3?rlkey=nem532ys2sfqagslu63bc0obx&st=fqr7wbrk&dl=1",
+            "id": 560,
+            "artist": "Amr Diab"
+        },
+        {
+            "name": "Babtdy Mel Zero",
+            "release_date": "2021-10-16",
+            "image": "https://i.scdn.co/image/ab67616d0000b27367a6b70c8390f5218196a9a9",
+            "track_url": "https://www.dropbox.com/scl/fi/p1vqj31dm518600kgj4v0/.mp3?rlkey=tg2sxd5sr5kd7oj5hfxnajnlm&st=24q80ae7&dl=1",
+            "id": 561,
+            "artist": "Amr Diab"
+        },
+        {
+            "name": "Inta El Haz",
+            "release_date": "2021-10-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733b82562fc44a8546f5b4c0c6",
+            "track_url": "https://www.dropbox.com/scl/fi/mga12bguksd7umk8p3or2/Inta-El-Haz.mp3?rlkey=1pezafdb9igryt0hddwxhu2ei&st=abbz3dp3&dl=1",
+            "id": 562,
+            "artist": "Amr Diab"
+        },
+        {
+            "name": "Ray'a",
+            "release_date": "2021-10-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b27338725e9102ed17ea357f0202",
+            "track_url": "https://www.dropbox.com/scl/fi/djdnfrdt8pw62gp8umfxp/Ray-a.mp3?rlkey=1z5jb7budwohm4s1za87ekkpk&st=dwhvmpw0&dl=1",
+            "id": 563,
+            "artist": "Amr Diab"
+        },
+        {
+            "name": "Helw El Taghyeer",
+            "release_date": "2021-10-05",
+            "image": "https://i.scdn.co/image/ab67616d0000b273bbf67ad706853d338d7290c7",
+            "track_url": "https://www.dropbox.com/scl/fi/vt53cjlts9mn018w8d68x/MrMaZiKa.Com_amrw_dyab_hlw_altghyyr.mp3?rlkey=pozlatfojab5k3xw1ndtrq1ps&st=pec7j80t&dl=1",
+            "id": 564,
+            "artist": "Amr Diab"
+        },
+        {
+            "name": "Ahla We Nos",
+            "release_date": "2021-07-20",
+            "image": "https://i.scdn.co/image/ab67616d0000b273472d813ca72408eba2aa0dca",
+            "track_url": "https://www.dropbox.com/scl/fi/iu7aa2pp0kw79m53pwb9w/Ahla-W-Nos.mp3?rlkey=za1rzpvi71rcwpuf8y9bwbt8u&st=4axt0i7u&dl=1",
+            "id": 565,
+            "artist": "Amr Diab"
+        },
+        {
+            "name": "Etaal",
+            "release_date": "2021-07-17",
+            "image": "https://i.scdn.co/image/ab67616d0000b27320270f998f4416f48f3f49d3",
+            "track_url": "https://www.dropbox.com/scl/fi/ymr2h3nxnrpd23pfvbk8m/Etaal.mp3?rlkey=kmk4ul8eq95ma8es093m5g6pz&st=64j1xuf4&dl=1",
+            "id": 566,
+            "artist": "Amr Diab"
+        },
+        {
+            "name": "El Donia Betoro's",
+            "release_date": "2021-07-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b273734b8c44836913a408b4f05e",
+            "track_url": "https://www.dropbox.com/scl/fi/fbdrb5v9o19ttphb24ail/El-Donia-Betoro-s.mp3?rlkey=4snhkjyms2gel1sih1i6j5oa4&st=ns02r0ir&dl=1",
+            "id": 567,
+            "artist": "Amr Diab"
+        },
+        {
+            "name": "El Donia El Helwa",
+            "release_date": "2021-04-13",
+            "image": "https://i.scdn.co/image/ab67616d0000b27335da110ac0230d1a446a06f5",
+            "track_url": "https://www.dropbox.com/scl/fi/t53vg7uaqndtp8ry4cpnz/El-Donia-El-Helwa.mp3?rlkey=9ob244ymlj8dfowodn0uf5mml&st=7ewubil9&dl=1",
+            "id": 568,
+            "artist": "Amr Diab"
+        },
+        {
+            "name": "Ahe Ahe (feat. Eirini Papadopoulou)",
+            "release_date": "2020-10-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732e05079aa4a2691298f4f5d8",
+            "track_url": "https://www.dropbox.com/scl/fi/2r1j6ge8sgyypjdf0n544/Ahe-Ahe.mp3?rlkey=3vntp7fz9icy77ciuwm8xj5cu&st=pilhiy7q&dl=1",
+            "id": 569,
+            "artist": "Amr Diab"
+        },
+        {
+            "name": "Amaken El Sahar",
+            "release_date": "2020-08-20",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738c81fdabb9fc04b1fa37cd13",
+            "track_url": "https://www.dropbox.com/scl/fi/u5a1kcirnh8dekx584tah/Amaken-El-Sahar.mp3?rlkey=uxxu8cwhp8pvpmie7rmrb7uoh&st=21hchspb&dl=1",
+            "id": 570,
+            "artist": "Amr Diab"
+        },
+        {
+            "name": "Malak Ghayran",
+            "release_date": "2020-08-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731a675b8860cc91241ca0f179",
+            "track_url": "https://www.dropbox.com/scl/fi/j39t0bictn8thjksr2ccu/Malak-Ghayran.mp3?rlkey=vvuw98b0l33m6lccshiq1ga71&st=sxggtgm3&dl=1",
+            "id": 571,
+            "artist": "Amr Diab"
+        },
+        {
+            "name": "Ya Baladna Ya Helwa",
+            "release_date": "2020-07-29",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d659f82c7d668dcc583d481c",
+            "track_url": "https://www.dropbox.com/scl/fi/xzyqmu6g2gar82uqe7gsv/.mp3?rlkey=43gqtlr066nmowjblth9cgqu4&st=27fox7ar&dl=1",
+            "id": 572,
+            "artist": "Amr Diab"
+        },
+        {
+            "name": "Mitghayar",
+            "release_date": "2019-09-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a91688d69fc8877be256f4c6",
+            "track_url": "https://www.dropbox.com/scl/fi/zqa8yn8g8wtv9cmptpvb6/.mp3?rlkey=8kcemxmecss2l5d7gadbucsrx&st=v000tcua&dl=1",
+            "id": 576,
+            "artist": "Amr Diab"
+        },
+        {
+            "name": "Tehayrk",
+            "release_date": "2019-09-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a1f8c4798be7d81e570b6744",
+            "track_url": "https://www.dropbox.com/scl/fi/nvuhijgk4ovv2rq5mb8d2/.mp3?rlkey=sts6bbu9mqcjcbuk7o8b0cccw&st=sfih7pt1&dl=1",
+            "id": 577,
+            "artist": "Amr Diab"
+        },
+        {
+            "name": "Ana Gheir",
+            "release_date": "2019-08-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739e94db09354b9cf79ae61b33",
+            "track_url": "https://www.dropbox.com/scl/fi/7395crp35zuh7ro8dszim/Ana.Gheir.mp3?rlkey=bxh70nlft57bh0q4zbntkxj58&st=kx1u5b5k&dl=1",
+            "id": 578,
+            "artist": "Amr Diab"
+        },
+        {
+            "name": "Gamaa Habybak",
+            "release_date": "2019-05-06",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735afca4ed2d16e891642f3710",
+            "track_url": "https://www.dropbox.com/scl/fi/n6pie7k40vby3b0d0vdjw/.mp3?rlkey=y2e66pnud99wd9bqph89gpjle&st=tmqwric0&dl=1",
+            "id": 579,
+            "artist": "Amr Diab"
+        },
+        {
+            "name": "Ma'darsh Al Nesyan",
+            "release_date": "2019-04-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f3f75446ae73b60960c113f1",
+            "track_url": "https://www.dropbox.com/scl/fi/m1xrrpzsvupjo7hxhdihc/.mp3?rlkey=h408fq86zg2uwvv2ht9g61d46&st=1lkikhso&dl=1",
+            "id": 580,
+            "artist": "Amr Diab"
+        }
+    ],
+    "popular_tracks": [
+        {
+            "name": "Tamally Maak",
+            "track_url": "https://www.dropbox.com/scl/fi/i7707bcfgrxhox7ih6gzx/02.Tamally_Maak.mp3?rlkey=r5189wurpy6dw45x2gyxws33u&st=5ewz30h8&dl=1",
+            "duration_ms": 269232,
+            "image": "https://i.scdn.co/image/ab67616d0000b2732a37edda69e67266f05a9753",
+            "id": 581,
+            "artist": "Amr Diab"
+        },
+        {
+            "name": "وغلاوتك",
+            "track_url": "https://www.dropbox.com/scl/fi/pamrwaztb5yrpiccz1bt8/07.Weghalawtac.mp3?rlkey=vv0cy56d8ld9f7p9g42lf29h6&st=zz649dnx&dl=1",
+            "duration_ms": 230586,
+            "image": "https://i.scdn.co/image/ab67616d0000b27352e6f651d4babc7ecc1f5857",
+            "id": 582,
+            "artist": "Amr Diab"
+        },
+        {
+            "name": "Nour El Ein",
+            "track_url": "https://www.dropbox.com/scl/fi/6alixgpsq1kupexqi88b2/01.Nour_El_Ain.mp3?rlkey=rvdv83ykhnsk2m4piybged92n&st=zd1wj09d&dl=1",
+            "duration_ms": 307762,
+            "image": "https://i.scdn.co/image/ab67616d0000b273d352e68d3f9ef21f6d167a96",
+            "id": 583,
+            "artist": "Amr Diab"
+        },
+        {
+            "name": "قصاد عينى",
+            "track_url": "https://www.dropbox.com/scl/fi/1ud7qzxl8tk3kqwto9fz6/08.Qusad_Einy.mp3?rlkey=4btubjd87qvkg1t2ccb4m1d3d&st=p3zuj6r2&dl=1",
+            "duration_ms": 264228,
+            "image": "https://i.scdn.co/image/ab67616d0000b273636b9c1f05f0a37e1baa4628",
+            "id": 584,
+            "artist": "Amr Diab"
+        },
+        {
+            "name": "Bayen Habeit",
+            "track_url": "https://www.dropbox.com/scl/fi/agfrq1duudgmk332kk3rq/11._Bayen_Habeit.mp3?rlkey=ls0lynih8unzkqsrqe7icmvou&st=76y7y18a&dl=1",
+            "duration_ms": 139293,
+            "image": "https://i.scdn.co/image/ab67616d0000b273b2902653b3d6e51ec207db32",
+            "id": 585,
+            "artist": "Amr Diab"
+        },
+        {
+            "name": "Ana Ayesh",
+            "track_url": "https://www.dropbox.com/scl/fi/g6xnxy94q7jz72m71jl4o/02.Ana_Ayesh.mp3?rlkey=exifqmwely7t0lyu931s803k9&st=w7473p6y&dl=1",
+            "duration_ms": 226493,
+            "image": "https://i.scdn.co/image/ab67616d0000b273e14aee4752613f1a53a350fa",
+            "id": 586,
+            "artist": "Amr Diab"
+        },
+        {
+            "name": "Amarain",
+            "track_url": "https://www.dropbox.com/scl/fi/srgig7mkrwqrm0x5m4lme/01.Amarain.mp3?rlkey=cjxoblehcmxu86z5r78xtmjlo&st=3bx4r5ta&dl=1",
+            "duration_ms": 265365,
+            "image": "https://i.scdn.co/image/ab67616d0000b27335f0ee93b7a038510fe0dad0",
+            "id": 587,
+            "artist": "Amr Diab"
+        },
+        {
+            "name": "وهي ذكريات",
+            "track_url": "https://www.dropbox.com/scl/fi/x22agqglnm26opmnenl33/11_Wahy_Zekrayat.mp3?rlkey=c4usqe1mzrbi66p9zgwhkayl5&st=223yta98&dl=1",
+            "duration_ms": 198817,
+            "image": "https://i.scdn.co/image/ab67616d0000b273f4c52fe8318e2bb2d1d1b0f6",
+            "id": 588,
+            "artist": "Amr Diab"
+        },
+        {
+            "name": "وحشتينى",
+            "track_url": "https://www.dropbox.com/scl/fi/kt6yu120tyu95f85l8z33/02.Wahashtiny.mp3?rlkey=k1ndafmrbk7536bhj96x2k4r6&st=qns9ngp1&dl=1",
+            "duration_ms": 237296,
+            "image": "https://i.scdn.co/image/ab67616d0000b273636b9c1f05f0a37e1baa4628",
+            "id": 589,
+            "artist": "Amr Diab"
+        },
+        {
+            "name": "Ya Habibi La",
+            "track_url": "https://www.dropbox.com/scl/fi/qj45u4tgyuwan5r0q7lsu/10.Ya_Habiby_La.mp3?rlkey=syy5z6g1nsh9dxtsb4kq9o2sw&st=otie6pc9&dl=1",
+            "duration_ms": 232026,
+            "image": "https://i.scdn.co/image/ab67616d0000b273dee37a4400066ed7d8d8e065",
+            "id": 590,
+            "artist": "Amr Diab"
+        }
+    ]
+}

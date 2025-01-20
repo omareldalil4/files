@@ -1,0 +1,2086 @@
+{
+    "artist": {
+        "id": "5841",
+        "name": "Hussain Aljassmi",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb34181c034bf343108f1b4de8",
+        "background_image": "https://i.scdn.co/image/ab6761610000517434181c034bf343108f1b4de8"
+    },
+    "albums": [
+        {
+            "name": "The Unique Night In Love Of The Poems Of His Highness Sheikh Mohammed Bin Rashid Al Maktoum",
+            "release_date": "2024-01-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b27319a6e19cc3240b11e1e44e6d",
+            "track_url": "https://open.spotify.com/album/4XKyu7WYi0C1vZRVrYNoux",
+            "tracks": [
+                {
+                    "name": "Al Adiyat",
+                    "track_url": "",
+                    "duration_ms": 326143,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27319a6e19cc3240b11e1e44e6d",
+                    "id": 5843,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Assal",
+                    "track_url": "",
+                    "duration_ms": 377173,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27319a6e19cc3240b11e1e44e6d",
+                    "id": 5844,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Ana Laha Shams",
+                    "track_url": "",
+                    "duration_ms": 215551,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27319a6e19cc3240b11e1e44e6d",
+                    "id": 5845,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Tahne2a",
+                    "track_url": "",
+                    "duration_ms": 242688,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27319a6e19cc3240b11e1e44e6d",
+                    "id": 5846,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Tarheeb",
+                    "track_url": "",
+                    "duration_ms": 360460,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27319a6e19cc3240b11e1e44e6d",
+                    "id": 5847,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Hesn Alwatan",
+                    "track_url": "",
+                    "duration_ms": 593749,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27319a6e19cc3240b11e1e44e6d",
+                    "id": 5848,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Asaad Shaab",
+                    "track_url": "",
+                    "duration_ms": 288085,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27319a6e19cc3240b11e1e44e6d",
+                    "id": 5849,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Alyhom Saber",
+                    "track_url": "",
+                    "duration_ms": 490154,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27319a6e19cc3240b11e1e44e6d",
+                    "id": 5850,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Anti Methl Ma Anti",
+                    "track_url": "",
+                    "duration_ms": 265216,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27319a6e19cc3240b11e1e44e6d",
+                    "id": 5851,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Ya Alamna",
+                    "track_url": "",
+                    "duration_ms": 349183,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27319a6e19cc3240b11e1e44e6d",
+                    "id": 5852,
+                    "artist": "Hussain Aljassmi"
+                }
+            ],
+            "id": 5842
+        },
+        {
+            "name": "Dubai Summer Surprises 2023 Concert",
+            "release_date": "2023-07-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273fa0a81f96d90389984e65119",
+            "track_url": "https://open.spotify.com/album/5B5qvqZkZxHNJqWCh2LTS6",
+            "tracks": [
+                {
+                    "name": "Ahebak",
+                    "track_url": "",
+                    "duration_ms": 338602,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fa0a81f96d90389984e65119",
+                    "id": 5854,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Ahwak Lelmot",
+                    "track_url": "",
+                    "duration_ms": 261984,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fa0a81f96d90389984e65119",
+                    "id": 5855,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Hetta Men Qalbi",
+                    "track_url": "",
+                    "duration_ms": 230218,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fa0a81f96d90389984e65119",
+                    "id": 5856,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Ana Laha Shams",
+                    "track_url": "",
+                    "duration_ms": 234709,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fa0a81f96d90389984e65119",
+                    "id": 5857,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Ommi",
+                    "track_url": "",
+                    "duration_ms": 193493,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fa0a81f96d90389984e65119",
+                    "id": 5858,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Ama Baraw",
+                    "track_url": "",
+                    "duration_ms": 451072,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fa0a81f96d90389984e65119",
+                    "id": 5859,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Dag El Galb",
+                    "track_url": "",
+                    "duration_ms": 343040,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fa0a81f96d90389984e65119",
+                    "id": 5860,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Alammeh Lah",
+                    "track_url": "",
+                    "duration_ms": 239104,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fa0a81f96d90389984e65119",
+                    "id": 5861,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "We Tebga Le",
+                    "track_url": "",
+                    "duration_ms": 284074,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fa0a81f96d90389984e65119",
+                    "id": 5862,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Mohem Jedan",
+                    "track_url": "",
+                    "duration_ms": 257364,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fa0a81f96d90389984e65119",
+                    "id": 5863,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Al Jabal",
+                    "track_url": "",
+                    "duration_ms": 360106,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fa0a81f96d90389984e65119",
+                    "id": 5864,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Hawah Al Galb",
+                    "track_url": "",
+                    "duration_ms": 187543,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fa0a81f96d90389984e65119",
+                    "id": 5865,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Bel Bont El3areedh",
+                    "track_url": "",
+                    "duration_ms": 331849,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fa0a81f96d90389984e65119",
+                    "id": 5866,
+                    "artist": "Hussain Aljassmi"
+                }
+            ],
+            "id": 5853
+        },
+        {
+            "name": "Riyadh Season 2022",
+            "release_date": "2023-06-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739e4040e1c3572149be4fec0f",
+            "track_url": "https://open.spotify.com/album/4ciYRUttoWIWb3nxdKpExH",
+            "tracks": [
+                {
+                    "name": "جديلة",
+                    "track_url": "",
+                    "duration_ms": 262533,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739e4040e1c3572149be4fec0f",
+                    "id": 5868,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "الغرقان",
+                    "track_url": "",
+                    "duration_ms": 309248,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739e4040e1c3572149be4fec0f",
+                    "id": 5869,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "أما براوة",
+                    "track_url": "",
+                    "duration_ms": 408864,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739e4040e1c3572149be4fec0f",
+                    "id": 5870,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "وتبقى لي",
+                    "track_url": "",
+                    "duration_ms": 278101,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739e4040e1c3572149be4fec0f",
+                    "id": 5871,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "مرني",
+                    "track_url": "",
+                    "duration_ms": 380074,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739e4040e1c3572149be4fec0f",
+                    "id": 5872,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "نصف الفراق",
+                    "track_url": "",
+                    "duration_ms": 269141,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739e4040e1c3572149be4fec0f",
+                    "id": 5873,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "حته من قلبي",
+                    "track_url": "",
+                    "duration_ms": 278997,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739e4040e1c3572149be4fec0f",
+                    "id": 5874,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "أهواك للموت",
+                    "track_url": "",
+                    "duration_ms": 257364,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739e4040e1c3572149be4fec0f",
+                    "id": 5875,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "رعاك الله",
+                    "track_url": "",
+                    "duration_ms": 301504,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739e4040e1c3572149be4fec0f",
+                    "id": 5876,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "حلو حلو",
+                    "track_url": "",
+                    "duration_ms": 280149,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739e4040e1c3572149be4fec0f",
+                    "id": 5877,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "مهم جدا",
+                    "track_url": "",
+                    "duration_ms": 244330,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739e4040e1c3572149be4fec0f",
+                    "id": 5878,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "دق القلب",
+                    "track_url": "",
+                    "duration_ms": 346410,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739e4040e1c3572149be4fec0f",
+                    "id": 5879,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "بالبنط العريض",
+                    "track_url": "",
+                    "duration_ms": 315925,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739e4040e1c3572149be4fec0f",
+                    "id": 5880,
+                    "artist": "Hussain Aljassmi"
+                }
+            ],
+            "id": 5867
+        },
+        {
+            "name": "Haflet Al'ahramat 2022 - Egypt",
+            "release_date": "2022-12-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b273087bc055cb7d4a39c0d79c42",
+            "track_url": "https://open.spotify.com/album/6Cms68K6MzIMckECmHtwoI",
+            "tracks": [
+                {
+                    "name": "Boushret Kheir",
+                    "track_url": "",
+                    "duration_ms": 265557,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273087bc055cb7d4a39c0d79c42",
+                    "id": 5882,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Dalla3 Wetdalla3",
+                    "track_url": "",
+                    "duration_ms": 235733,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273087bc055cb7d4a39c0d79c42",
+                    "id": 5883,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Ama Baraw",
+                    "track_url": "",
+                    "duration_ms": 446186,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273087bc055cb7d4a39c0d79c42",
+                    "id": 5884,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Nasam Alaina Al Hawa",
+                    "track_url": "",
+                    "duration_ms": 287893,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273087bc055cb7d4a39c0d79c42",
+                    "id": 5885,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Ramadan Fi Masr Haja Taniah",
+                    "track_url": "",
+                    "duration_ms": 286741,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273087bc055cb7d4a39c0d79c42",
+                    "id": 5886,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Piece Of My Heart",
+                    "track_url": "",
+                    "duration_ms": 237909,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273087bc055cb7d4a39c0d79c42",
+                    "id": 5887,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Ahebak",
+                    "track_url": "",
+                    "duration_ms": 322623,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273087bc055cb7d4a39c0d79c42",
+                    "id": 5888,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Ana Laha Shams",
+                    "track_url": "",
+                    "duration_ms": 239317,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273087bc055cb7d4a39c0d79c42",
+                    "id": 5889,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Ya Aghla Esm Fel Woujoud Ya Masr",
+                    "track_url": "",
+                    "duration_ms": 240703,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273087bc055cb7d4a39c0d79c42",
+                    "id": 5890,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Bel Bont El3areedh",
+                    "track_url": "",
+                    "duration_ms": 320170,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273087bc055cb7d4a39c0d79c42",
+                    "id": 5891,
+                    "artist": "Hussain Aljassmi"
+                }
+            ],
+            "id": 5881
+        },
+        {
+            "name": "تراثنا قدوتنا",
+            "release_date": "2014-11-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b273dc6c2750e642db3d084cc3a9",
+            "track_url": "https://open.spotify.com/album/4PPsc6YK9QdABfVYfUsdTO",
+            "tracks": [
+                {
+                    "name": "يا شباب الوطن",
+                    "track_url": "",
+                    "duration_ms": 394188,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273dc6c2750e642db3d084cc3a9",
+                    "id": 5893,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "رياض الحب",
+                    "track_url": "",
+                    "duration_ms": 244193,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273dc6c2750e642db3d084cc3a9",
+                    "id": 5894,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "يا علمنا",
+                    "track_url": "",
+                    "duration_ms": 322012,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273dc6c2750e642db3d084cc3a9",
+                    "id": 5895,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "خليجنا احلي البلاد",
+                    "track_url": "",
+                    "duration_ms": 2285010,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273dc6c2750e642db3d084cc3a9",
+                    "id": 5896,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "لوحة العازي 2014",
+                    "track_url": "",
+                    "duration_ms": 466050,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273dc6c2750e642db3d084cc3a9",
+                    "id": 5897,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "جيش الوطن",
+                    "track_url": "",
+                    "duration_ms": 365192,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273dc6c2750e642db3d084cc3a9",
+                    "id": 5898,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "لوحة العازي 2013",
+                    "track_url": "",
+                    "duration_ms": 291526,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273dc6c2750e642db3d084cc3a9",
+                    "id": 5899,
+                    "artist": "Hussain Aljassmi"
+                }
+            ],
+            "id": 5892
+        },
+        {
+            "name": "من القلب",
+            "release_date": "2013-12-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736f75c8f3f4210574c8e87a74",
+            "track_url": "https://open.spotify.com/album/1a9QOMPPpZpT5RKjeFv1Bd",
+            "tracks": [
+                {
+                    "name": "وتبقى لي",
+                    "track_url": "",
+                    "duration_ms": 272066,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736f75c8f3f4210574c8e87a74",
+                    "id": 5901,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "حلو حلو",
+                    "track_url": "",
+                    "duration_ms": 267702,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736f75c8f3f4210574c8e87a74",
+                    "id": 5902,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "حبيبي برشلوني",
+                    "track_url": "",
+                    "duration_ms": 217782,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736f75c8f3f4210574c8e87a74",
+                    "id": 5903,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "ازعل",
+                    "track_url": "",
+                    "duration_ms": 252499,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736f75c8f3f4210574c8e87a74",
+                    "id": 5904,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "شخص عزيز",
+                    "track_url": "",
+                    "duration_ms": 312032,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736f75c8f3f4210574c8e87a74",
+                    "id": 5905,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "لا تقارني",
+                    "track_url": "",
+                    "duration_ms": 313810,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736f75c8f3f4210574c8e87a74",
+                    "id": 5906,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "ما نسينا",
+                    "track_url": "",
+                    "duration_ms": 295837,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736f75c8f3f4210574c8e87a74",
+                    "id": 5907,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "ابشرك",
+                    "track_url": "",
+                    "duration_ms": 362602,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736f75c8f3f4210574c8e87a74",
+                    "id": 5908,
+                    "artist": "Hussain Aljassmi"
+                }
+            ],
+            "id": 5900
+        },
+        {
+            "name": "حديث الروح 1",
+            "release_date": "2013-06-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273140d4cce6e12ff8d99060adb",
+            "track_url": "https://open.spotify.com/album/7MgAIbKvMp89RTgIrMhQqE",
+            "tracks": [
+                {
+                    "name": "إشتقت إليك يا رسول الله",
+                    "track_url": "",
+                    "duration_ms": 74882,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273140d4cce6e12ff8d99060adb",
+                    "id": 5910,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "وهاب يا ربى",
+                    "track_url": "",
+                    "duration_ms": 57155,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273140d4cce6e12ff8d99060adb",
+                    "id": 5911,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "يا ربنا",
+                    "track_url": "",
+                    "duration_ms": 110837,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273140d4cce6e12ff8d99060adb",
+                    "id": 5912,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "سبحانك",
+                    "track_url": "",
+                    "duration_ms": 95059,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273140d4cce6e12ff8d99060adb",
+                    "id": 5913,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "ياريتني",
+                    "track_url": "",
+                    "duration_ms": 114599,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273140d4cce6e12ff8d99060adb",
+                    "id": 5914,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "ولد الهدى",
+                    "track_url": "",
+                    "duration_ms": 366889,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273140d4cce6e12ff8d99060adb",
+                    "id": 5915,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "نور بصيرتي باليقين",
+                    "track_url": "",
+                    "duration_ms": 110014,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273140d4cce6e12ff8d99060adb",
+                    "id": 5916,
+                    "artist": "Hussain Aljassmi"
+                }
+            ],
+            "id": 5909
+        },
+        {
+            "name": "Masri",
+            "release_date": "2012-01-06",
+            "image": "https://i.scdn.co/image/ab67616d0000b27349c6410f6e02636a581bdcc8",
+            "track_url": "https://open.spotify.com/album/7tmtSqLLcKVVlVdgyzLIXC",
+            "tracks": [
+                {
+                    "name": "Boushret Kheir",
+                    "track_url": "",
+                    "duration_ms": 228076,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27349c6410f6e02636a581bdcc8",
+                    "id": 5918,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Teslam Edenak",
+                    "track_url": "",
+                    "duration_ms": 288496,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27349c6410f6e02636a581bdcc8",
+                    "id": 5919,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Farht Shaab",
+                    "track_url": "",
+                    "duration_ms": 149315,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27349c6410f6e02636a581bdcc8",
+                    "id": 5920,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Mabrouk Le Masr",
+                    "track_url": "",
+                    "duration_ms": 265038,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27349c6410f6e02636a581bdcc8",
+                    "id": 5921,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Agdaa Nass",
+                    "track_url": "",
+                    "duration_ms": 282488,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27349c6410f6e02636a581bdcc8",
+                    "id": 5922,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Mahadesh Mertah",
+                    "track_url": "",
+                    "duration_ms": 245942,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27349c6410f6e02636a581bdcc8",
+                    "id": 5923,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Omi Fi Koom",
+                    "track_url": "",
+                    "duration_ms": 248685,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27349c6410f6e02636a581bdcc8",
+                    "id": 5924,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Ahel Cairo",
+                    "track_url": "",
+                    "duration_ms": 210938,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27349c6410f6e02636a581bdcc8",
+                    "id": 5925,
+                    "artist": "Hussain Aljassmi"
+                }
+            ],
+            "id": 5917
+        },
+        {
+            "name": "وطني 1",
+            "release_date": "2012-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730bec3335a6623411d6692d33",
+            "track_url": "https://open.spotify.com/album/66UKL7ruXSOGI5NfDQsjit",
+            "tracks": [
+                {
+                    "name": "اسعد شعب",
+                    "track_url": "",
+                    "duration_ms": 297692,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730bec3335a6623411d6692d33",
+                    "id": 5927,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "مبروك اكسبو 2020",
+                    "track_url": "",
+                    "duration_ms": 360071,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730bec3335a6623411d6692d33",
+                    "id": 5928,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "كل العرب",
+                    "track_url": "",
+                    "duration_ms": 424306,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730bec3335a6623411d6692d33",
+                    "id": 5929,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "يا دارنا",
+                    "track_url": "",
+                    "duration_ms": 312444,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730bec3335a6623411d6692d33",
+                    "id": 5930,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "كلي خليجي",
+                    "track_url": "",
+                    "duration_ms": 366262,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730bec3335a6623411d6692d33",
+                    "id": 5931,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "كلي فخر إماراتي",
+                    "track_url": "",
+                    "duration_ms": 224445,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730bec3335a6623411d6692d33",
+                    "id": 5932,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "اماراتي",
+                    "track_url": "",
+                    "duration_ms": 247013,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730bec3335a6623411d6692d33",
+                    "id": 5933,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "العز عزك يا امارات",
+                    "track_url": "",
+                    "duration_ms": 265299,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730bec3335a6623411d6692d33",
+                    "id": 5934,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "أبوس راسك",
+                    "track_url": "",
+                    "duration_ms": 370024,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730bec3335a6623411d6692d33",
+                    "id": 5935,
+                    "artist": "Hussain Aljassmi"
+                }
+            ],
+            "id": 5926
+        },
+        {
+            "name": "من القلب 5",
+            "release_date": "2011-01-05",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732de516e9e300111f180d843a",
+            "track_url": "https://open.spotify.com/album/20ogQFxmL5IMY0TZ1JCxdY",
+            "tracks": [
+                {
+                    "name": "يكفي تعبت",
+                    "track_url": "",
+                    "duration_ms": 299102,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732de516e9e300111f180d843a",
+                    "id": 5937,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "أنا يا خوي",
+                    "track_url": "",
+                    "duration_ms": 357356,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732de516e9e300111f180d843a",
+                    "id": 5938,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "كل ما أشوفك",
+                    "track_url": "",
+                    "duration_ms": 424150,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732de516e9e300111f180d843a",
+                    "id": 5939,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "أمي",
+                    "track_url": "",
+                    "duration_ms": 193750,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732de516e9e300111f180d843a",
+                    "id": 5940,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "حلم الكرى",
+                    "track_url": "",
+                    "duration_ms": 264071,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732de516e9e300111f180d843a",
+                    "id": 5941,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "الكرامة",
+                    "track_url": "",
+                    "duration_ms": 361691,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732de516e9e300111f180d843a",
+                    "id": 5942,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "ارجوك",
+                    "track_url": "",
+                    "duration_ms": 415791,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732de516e9e300111f180d843a",
+                    "id": 5943,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "فرس فرس",
+                    "track_url": "",
+                    "duration_ms": 349283,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732de516e9e300111f180d843a",
+                    "id": 5944,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "اكبر من الحب",
+                    "track_url": "",
+                    "duration_ms": 416078,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732de516e9e300111f180d843a",
+                    "id": 5945,
+                    "artist": "Hussain Aljassmi"
+                }
+            ],
+            "id": 5936
+        },
+        {
+            "name": "Al Jassmi",
+            "release_date": "2009-01-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a21d781aaa8998d5c33ce7e6",
+            "track_url": "https://open.spotify.com/album/3N86DwTp93yrhWmzZIedBS",
+            "tracks": [
+                {
+                    "name": "Al Faydah",
+                    "track_url": "",
+                    "duration_ms": 355709,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a21d781aaa8998d5c33ce7e6",
+                    "id": 5947,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Seta Sobeh",
+                    "track_url": "",
+                    "duration_ms": 266840,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a21d781aaa8998d5c33ce7e6",
+                    "id": 5948,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Rahet Aleek",
+                    "track_url": "",
+                    "duration_ms": 279118,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a21d781aaa8998d5c33ce7e6",
+                    "id": 5949,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Bahar El Shouk",
+                    "track_url": "",
+                    "duration_ms": 302837,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a21d781aaa8998d5c33ce7e6",
+                    "id": 5950,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "An Tazlimo",
+                    "track_url": "",
+                    "duration_ms": 208640,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a21d781aaa8998d5c33ce7e6",
+                    "id": 5951,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Ayam Men Hayati",
+                    "track_url": "",
+                    "duration_ms": 265273,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a21d781aaa8998d5c33ce7e6",
+                    "id": 5952,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Eltaj",
+                    "track_url": "",
+                    "duration_ms": 295653,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a21d781aaa8998d5c33ce7e6",
+                    "id": 5953,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Taybat",
+                    "track_url": "",
+                    "duration_ms": 421511,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a21d781aaa8998d5c33ce7e6",
+                    "id": 5954,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Enta Kafi",
+                    "track_url": "",
+                    "duration_ms": 259683,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a21d781aaa8998d5c33ce7e6",
+                    "id": 5955,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Youh",
+                    "track_url": "",
+                    "duration_ms": 250880,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a21d781aaa8998d5c33ce7e6",
+                    "id": 5956,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Sokarah",
+                    "track_url": "",
+                    "duration_ms": 316656,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a21d781aaa8998d5c33ce7e6",
+                    "id": 5957,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Al Harim",
+                    "track_url": "",
+                    "duration_ms": 229982,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a21d781aaa8998d5c33ce7e6",
+                    "id": 5958,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Salm Ala El Habib",
+                    "track_url": "",
+                    "duration_ms": 218749,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a21d781aaa8998d5c33ce7e6",
+                    "id": 5959,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Al Mawed",
+                    "track_url": "",
+                    "duration_ms": 263653,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a21d781aaa8998d5c33ce7e6",
+                    "id": 5960,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Wajed Qalbi",
+                    "track_url": "",
+                    "duration_ms": 343431,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a21d781aaa8998d5c33ce7e6",
+                    "id": 5961,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Ya Khlaila",
+                    "track_url": "",
+                    "duration_ms": 308741,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a21d781aaa8998d5c33ce7e6",
+                    "id": 5962,
+                    "artist": "Hussain Aljassmi"
+                }
+            ],
+            "id": 5946
+        },
+        {
+            "name": "صراع على الرمال",
+            "release_date": "2009-01-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b27357d65804c5984ca0fae29ddc",
+            "track_url": "https://open.spotify.com/album/2s3QSOqHP2XnQXlLqiQrmp",
+            "tracks": [
+                {
+                    "name": "صراع على الرمال 1",
+                    "track_url": "",
+                    "duration_ms": 191008,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27357d65804c5984ca0fae29ddc",
+                    "id": 5964,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "صراع على الرمال 2",
+                    "track_url": "",
+                    "duration_ms": 107259,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27357d65804c5984ca0fae29ddc",
+                    "id": 5965,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "صراع على الرمال 3",
+                    "track_url": "",
+                    "duration_ms": 85865,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27357d65804c5984ca0fae29ddc",
+                    "id": 5966,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "صراع على الرمال 4",
+                    "track_url": "",
+                    "duration_ms": 151955,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27357d65804c5984ca0fae29ddc",
+                    "id": 5967,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "صراع على الرمال 5",
+                    "track_url": "",
+                    "duration_ms": 60761,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27357d65804c5984ca0fae29ddc",
+                    "id": 5968,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "صراع على الرمال 6",
+                    "track_url": "",
+                    "duration_ms": 119694,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27357d65804c5984ca0fae29ddc",
+                    "id": 5969,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "صراع على الرمال 7",
+                    "track_url": "",
+                    "duration_ms": 131318,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27357d65804c5984ca0fae29ddc",
+                    "id": 5970,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "صراع على الرمال 8",
+                    "track_url": "",
+                    "duration_ms": 47178,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27357d65804c5984ca0fae29ddc",
+                    "id": 5971,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "صراع على الرمال 9",
+                    "track_url": "",
+                    "duration_ms": 69330,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27357d65804c5984ca0fae29ddc",
+                    "id": 5972,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "صراع على الرمال 10",
+                    "track_url": "",
+                    "duration_ms": 448601,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27357d65804c5984ca0fae29ddc",
+                    "id": 5973,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "صراع على الرمال 11",
+                    "track_url": "",
+                    "duration_ms": 65045,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27357d65804c5984ca0fae29ddc",
+                    "id": 5974,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "صراع على الرمال 12",
+                    "track_url": "",
+                    "duration_ms": 51592,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27357d65804c5984ca0fae29ddc",
+                    "id": 5975,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "صراع على الرمال 13",
+                    "track_url": "",
+                    "duration_ms": 66404,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27357d65804c5984ca0fae29ddc",
+                    "id": 5976,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "صراع على الرمال 14",
+                    "track_url": "",
+                    "duration_ms": 133852,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27357d65804c5984ca0fae29ddc",
+                    "id": 5977,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "صراع على الرمال 15",
+                    "track_url": "",
+                    "duration_ms": 58019,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27357d65804c5984ca0fae29ddc",
+                    "id": 5978,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "صراع على الرمال 16",
+                    "track_url": "",
+                    "duration_ms": 90045,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27357d65804c5984ca0fae29ddc",
+                    "id": 5979,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "صراع على الرمال 17",
+                    "track_url": "",
+                    "duration_ms": 63556,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27357d65804c5984ca0fae29ddc",
+                    "id": 5980,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "صراع على الرمال 18",
+                    "track_url": "",
+                    "duration_ms": 86518,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27357d65804c5984ca0fae29ddc",
+                    "id": 5981,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "صراع على الرمال 19",
+                    "track_url": "",
+                    "duration_ms": 142185,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27357d65804c5984ca0fae29ddc",
+                    "id": 5982,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "صراع على الرمال 20",
+                    "track_url": "",
+                    "duration_ms": 94825,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27357d65804c5984ca0fae29ddc",
+                    "id": 5983,
+                    "artist": "Hussain Aljassmi"
+                }
+            ],
+            "id": 5963
+        },
+        {
+            "name": "Ihtirit Aabar",
+            "release_date": "2007-12-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f180426e0cdd8bbac5dbf084",
+            "track_url": "https://open.spotify.com/album/3gqZVid3jWWCVwyZBta3HS",
+            "tracks": [
+                {
+                    "name": "Shufi Shmoukhi",
+                    "track_url": "",
+                    "duration_ms": 467330,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f180426e0cdd8bbac5dbf084",
+                    "id": 5985,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Ma Driit",
+                    "track_url": "",
+                    "duration_ms": 382275,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f180426e0cdd8bbac5dbf084",
+                    "id": 5986,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Ihtirit Aabar",
+                    "track_url": "",
+                    "duration_ms": 458710,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f180426e0cdd8bbac5dbf084",
+                    "id": 5987,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Houbi l Kbeer",
+                    "track_url": "",
+                    "duration_ms": 312267,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f180426e0cdd8bbac5dbf084",
+                    "id": 5988,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Bahebik Wuachtini",
+                    "track_url": "",
+                    "duration_ms": 223190,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f180426e0cdd8bbac5dbf084",
+                    "id": 5989,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Ya Za l Noujoum",
+                    "track_url": "",
+                    "duration_ms": 474305,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f180426e0cdd8bbac5dbf084",
+                    "id": 5990,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Ibn Adam Ghareeb",
+                    "track_url": "",
+                    "duration_ms": 238288,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f180426e0cdd8bbac5dbf084",
+                    "id": 5991,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Hab m l Sharik Nisnas",
+                    "track_url": "",
+                    "duration_ms": 208274,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f180426e0cdd8bbac5dbf084",
+                    "id": 5992,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Katar L Nada",
+                    "track_url": "",
+                    "duration_ms": 500871,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f180426e0cdd8bbac5dbf084",
+                    "id": 5993,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Rihlit Kitar",
+                    "track_url": "",
+                    "duration_ms": 343405,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f180426e0cdd8bbac5dbf084",
+                    "id": 5994,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Shilni Shlat",
+                    "track_url": "",
+                    "duration_ms": 330161,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f180426e0cdd8bbac5dbf084",
+                    "id": 5995,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Ya Khoy",
+                    "track_url": "",
+                    "duration_ms": 248346,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f180426e0cdd8bbac5dbf084",
+                    "id": 5996,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Ya Snin Omri",
+                    "track_url": "",
+                    "duration_ms": 270915,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f180426e0cdd8bbac5dbf084",
+                    "id": 5997,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Shi Ghareeb",
+                    "track_url": "",
+                    "duration_ms": 259160,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f180426e0cdd8bbac5dbf084",
+                    "id": 5998,
+                    "artist": "Hussain Aljassmi"
+                }
+            ],
+            "id": 5984
+        },
+        {
+            "name": "2006",
+            "release_date": "2005-01-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b273fed676d4d913b255fa14f1be",
+            "track_url": "https://open.spotify.com/album/4zx3sVRYQ3bYEfoCmJG66s",
+            "tracks": [
+                {
+                    "name": "Bassbor Al Fourgakom",
+                    "track_url": "",
+                    "duration_ms": 298135,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fed676d4d913b255fa14f1be",
+                    "id": 6000,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "L Habeb L Awaly",
+                    "track_url": "",
+                    "duration_ms": 198452,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fed676d4d913b255fa14f1be",
+                    "id": 6001,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Ya Khafif El Rouh",
+                    "track_url": "",
+                    "duration_ms": 261172,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fed676d4d913b255fa14f1be",
+                    "id": 6002,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Ballagh Habibak",
+                    "track_url": "",
+                    "duration_ms": 266004,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fed676d4d913b255fa14f1be",
+                    "id": 6003,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Akkidialli",
+                    "track_url": "",
+                    "duration_ms": 331755,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fed676d4d913b255fa14f1be",
+                    "id": 6004,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Saber",
+                    "track_url": "",
+                    "duration_ms": 591568,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fed676d4d913b255fa14f1be",
+                    "id": 6005,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Al Sedrek",
+                    "track_url": "",
+                    "duration_ms": 275957,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fed676d4d913b255fa14f1be",
+                    "id": 6006,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Al Adala",
+                    "track_url": "",
+                    "duration_ms": 310125,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fed676d4d913b255fa14f1be",
+                    "id": 6007,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Qoul Regaat Leah",
+                    "track_url": "",
+                    "duration_ms": 229041,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fed676d4d913b255fa14f1be",
+                    "id": 6008,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Al Kheyana",
+                    "track_url": "",
+                    "duration_ms": 208692,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fed676d4d913b255fa14f1be",
+                    "id": 6009,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Helo Ala Galbi",
+                    "track_url": "",
+                    "duration_ms": 292963,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fed676d4d913b255fa14f1be",
+                    "id": 6010,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Wesh El Hal",
+                    "track_url": "",
+                    "duration_ms": 247928,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fed676d4d913b255fa14f1be",
+                    "id": 6011,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Fakadtak",
+                    "track_url": "",
+                    "duration_ms": 289906,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fed676d4d913b255fa14f1be",
+                    "id": 6012,
+                    "artist": "Hussain Aljassmi"
+                }
+            ],
+            "id": 5999
+        },
+        {
+            "name": "Hussain Al Jassmi 2004",
+            "release_date": "2004-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731c946280d9a50b9f896648d4",
+            "track_url": "https://open.spotify.com/album/6wEHAm6CsQo13kG47jRSCF",
+            "tracks": [
+                {
+                    "name": "In Hawetona",
+                    "track_url": "",
+                    "duration_ms": 281129,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731c946280d9a50b9f896648d4",
+                    "id": 6014,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Ya Soghr Alfarah",
+                    "track_url": "",
+                    "duration_ms": 291578,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731c946280d9a50b9f896648d4",
+                    "id": 6015,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Mahmal Al Sham",
+                    "track_url": "",
+                    "duration_ms": 298266,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731c946280d9a50b9f896648d4",
+                    "id": 6016,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Betshabeh Alya",
+                    "track_url": "",
+                    "duration_ms": 343275,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731c946280d9a50b9f896648d4",
+                    "id": 6017,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Resalah",
+                    "track_url": "",
+                    "duration_ms": 290873,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731c946280d9a50b9f896648d4",
+                    "id": 6018,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Daawat Al Mazloum",
+                    "track_url": "",
+                    "duration_ms": 283167,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731c946280d9a50b9f896648d4",
+                    "id": 6019,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Lari",
+                    "track_url": "",
+                    "duration_ms": 273737,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731c946280d9a50b9f896648d4",
+                    "id": 6020,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Intahena",
+                    "track_url": "",
+                    "duration_ms": 280006,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731c946280d9a50b9f896648d4",
+                    "id": 6021,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Baketak",
+                    "track_url": "",
+                    "duration_ms": 517929,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731c946280d9a50b9f896648d4",
+                    "id": 6022,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Aali Mostawah",
+                    "track_url": "",
+                    "duration_ms": 255503,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731c946280d9a50b9f896648d4",
+                    "id": 6023,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "AlShaki",
+                    "track_url": "",
+                    "duration_ms": 317413,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731c946280d9a50b9f896648d4",
+                    "id": 6024,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Al Ra'ei Walzeeb",
+                    "track_url": "",
+                    "duration_ms": 281965,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731c946280d9a50b9f896648d4",
+                    "id": 6025,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Mayeswa",
+                    "track_url": "",
+                    "duration_ms": 204773,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731c946280d9a50b9f896648d4",
+                    "id": 6026,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Base",
+                    "track_url": "",
+                    "duration_ms": 240352,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731c946280d9a50b9f896648d4",
+                    "id": 6027,
+                    "artist": "Hussain Aljassmi"
+                }
+            ],
+            "id": 6013
+        },
+        {
+            "name": "Husain Al Jassmi 2002",
+            "release_date": "2002-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273bae8f3b284f59e09e49eede4",
+            "track_url": "https://open.spotify.com/album/7hvMr21tpB35Q0lQmzaFeO",
+            "tracks": [
+                {
+                    "name": "Min Feena",
+                    "track_url": "",
+                    "duration_ms": 332251,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bae8f3b284f59e09e49eede4",
+                    "id": 6029,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Azabatni",
+                    "track_url": "",
+                    "duration_ms": 359053,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bae8f3b284f59e09e49eede4",
+                    "id": 6030,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Safer",
+                    "track_url": "",
+                    "duration_ms": 275147,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bae8f3b284f59e09e49eede4",
+                    "id": 6031,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "El Taraf",
+                    "track_url": "",
+                    "duration_ms": 310831,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bae8f3b284f59e09e49eede4",
+                    "id": 6032,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Kanez Al Alaieh",
+                    "track_url": "",
+                    "duration_ms": 365766,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bae8f3b284f59e09e49eede4",
+                    "id": 6033,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Yall Mohibbien",
+                    "track_url": "",
+                    "duration_ms": 256834,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bae8f3b284f59e09e49eede4",
+                    "id": 6034,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Gased",
+                    "track_url": "",
+                    "duration_ms": 256234,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bae8f3b284f59e09e49eede4",
+                    "id": 6035,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Bawadda'k",
+                    "track_url": "",
+                    "duration_ms": 357746,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bae8f3b284f59e09e49eede4",
+                    "id": 6036,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "Min Jabarkum",
+                    "track_url": "",
+                    "duration_ms": 274546,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bae8f3b284f59e09e49eede4",
+                    "id": 6037,
+                    "artist": "Hussain Aljassmi"
+                },
+                {
+                    "name": "El Kober Lillah",
+                    "track_url": "",
+                    "duration_ms": 354246,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bae8f3b284f59e09e49eede4",
+                    "id": 6038,
+                    "artist": "Hussain Aljassmi"
+                }
+            ],
+            "id": 6028
+        }
+    ],
+    "singles": [
+        {
+            "name": "Ah Ya Khsarah",
+            "release_date": "2024-12-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b27382c44c4b1f65b4ba5275b5ff",
+            "track_url": "",
+            "id": 6039,
+            "artist": "Hussain Aljassmi"
+        },
+        {
+            "name": "Ana Alwdhooh",
+            "release_date": "2024-12-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b27329f36bec84f06583c5e5fb18",
+            "track_url": "",
+            "id": 6040,
+            "artist": "Hussain Aljassmi"
+        },
+        {
+            "name": "Rawda Bint Maktoum",
+            "release_date": "2024-12-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ce3e8fbf24dbb9631cef9f68",
+            "track_url": "",
+            "id": 6041,
+            "artist": "Hussain Aljassmi"
+        },
+        {
+            "name": "Hafeed Almajd",
+            "release_date": "2024-12-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b273931321c70740196c5164ef15",
+            "track_url": "",
+            "id": 6042,
+            "artist": "Hussain Aljassmi"
+        },
+        {
+            "name": "Ya Darena",
+            "release_date": "2024-12-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730ce7c13ddd15249d70e710b3",
+            "track_url": "",
+            "id": 6043,
+            "artist": "Hussain Aljassmi"
+        },
+        {
+            "name": "Ela Hadrat Somoha",
+            "release_date": "2024-12-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738f60e23a1debadb806aac6c8",
+            "track_url": "",
+            "id": 6044,
+            "artist": "Hussain Aljassmi"
+        },
+        {
+            "name": "Eid Elittihad",
+            "release_date": "2024-12-03",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739e350ee015ac98f1750ff4f9",
+            "track_url": "",
+            "id": 6045,
+            "artist": "Hussain Aljassmi"
+        },
+        {
+            "name": "Al Hamat Alozma",
+            "release_date": "2024-11-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e85f4b19f2f09495324e3b23",
+            "track_url": "",
+            "id": 6046,
+            "artist": "Hussain Aljassmi"
+        },
+        {
+            "name": "Shariqat Sultan",
+            "release_date": "2024-10-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b27360e4b22314cc691c4f1d129d",
+            "track_url": "",
+            "id": 6047,
+            "artist": "Hussain Aljassmi"
+        },
+        {
+            "name": "Hamat Al Ezz",
+            "release_date": "2024-10-12",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b1d40fdb548fdaf27d61a669",
+            "track_url": "",
+            "id": 6048,
+            "artist": "Hussain Aljassmi"
+        },
+        {
+            "name": "Egal Almarjala ( Bu Khalid )",
+            "release_date": "2024-10-03",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c78773ecd894bade5b887c53",
+            "track_url": "",
+            "id": 6049,
+            "artist": "Hussain Aljassmi"
+        },
+        {
+            "name": "Al Fakhr Men Hona",
+            "release_date": "2024-09-22",
+            "image": "https://i.scdn.co/image/ab67616d0000b27348b4059c4792f4dfc8ea6c7b",
+            "track_url": "",
+            "id": 6050,
+            "artist": "Hussain Aljassmi"
+        },
+        {
+            "name": "Past Tense",
+            "release_date": "2024-08-27",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730d856fa9540b4597d895ecfe",
+            "track_url": "",
+            "id": 6051,
+            "artist": "Hussain Aljassmi"
+        },
+        {
+            "name": "Ala Nahj Maktoum",
+            "release_date": "2024-07-14",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c7bc2b99310a0ecd95506db4",
+            "track_url": "",
+            "id": 6052,
+            "artist": "Hussain Aljassmi"
+        },
+        {
+            "name": "Molhma Al Ebdaa",
+            "release_date": "2024-07-12",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b1eaba5f333a5e19945b69e3",
+            "track_url": "",
+            "id": 6053,
+            "artist": "Hussain Aljassmi"
+        },
+        {
+            "name": "Add El Tahady ( Wasalawi )",
+            "release_date": "2024-06-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b273780567e9a1219b725a621edf",
+            "track_url": "",
+            "id": 6054,
+            "artist": "Hussain Aljassmi"
+        },
+        {
+            "name": "Aldorr Althameen",
+            "release_date": "2024-05-29",
+            "image": "https://i.scdn.co/image/ab67616d0000b27312852483eb9792b0cb4fb15f",
+            "track_url": "",
+            "id": 6055,
+            "artist": "Hussain Aljassmi"
+        },
+        {
+            "name": "Alwasel Waslna",
+            "release_date": "2024-05-27",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732de223a78f3cdcc42e59ebbb",
+            "track_url": "",
+            "id": 6056,
+            "artist": "Hussain Aljassmi"
+        },
+        {
+            "name": "Dalaa Dalaa",
+            "release_date": "2024-05-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f1b36bb75d225faad0035a1e",
+            "track_url": "",
+            "id": 6057,
+            "artist": "Hussain Aljassmi"
+        },
+        {
+            "name": "Namoos Alreasah",
+            "release_date": "2024-05-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b27332260da7bac88622a0335380",
+            "track_url": "",
+            "id": 6058,
+            "artist": "Hussain Aljassmi"
+        },
+        {
+            "name": "Hathian Arqam",
+            "release_date": "2024-04-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c976f8c0b14910c06d4c4db4",
+            "track_url": "",
+            "id": 6059,
+            "artist": "Hussain Aljassmi"
+        },
+        {
+            "name": "Asmrani Eyounoh Samrah",
+            "release_date": "2024-03-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c35ec694edb8ae74c60f541c",
+            "track_url": "",
+            "id": 6060,
+            "artist": "Hussain Aljassmi"
+        },
+        {
+            "name": "Spread The Happiness",
+            "release_date": "2024-03-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737ce10e71af1cbe9dc19c9daf",
+            "track_url": "",
+            "id": 6061,
+            "artist": "Hussain Aljassmi"
+        },
+        {
+            "name": "Fares Alnadhra",
+            "release_date": "2024-03-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b27304d91bf7415634ea0c43f627",
+            "track_url": "",
+            "id": 6062,
+            "artist": "Hussain Aljassmi"
+        },
+        {
+            "name": "Ahla Wahda Be Mosahba Atfal ( Qadron Beh Akhtlaf )",
+            "release_date": "2024-03-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273996ff89ed20dcb1f7dd0e06c",
+            "track_url": "",
+            "id": 6063,
+            "artist": "Hussain Aljassmi"
+        },
+        {
+            "name": "Ahla Wahda",
+            "release_date": "2024-03-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735724d6974c03aa41f2ef6166",
+            "track_url": "",
+            "id": 6064,
+            "artist": "Hussain Aljassmi"
+        },
+        {
+            "name": "Snaghdo",
+            "release_date": "2024-02-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b273bcee5634ec054843defbf65a",
+            "track_url": "",
+            "id": 6065,
+            "artist": "Hussain Aljassmi"
+        },
+        {
+            "name": "Ezz Wa Fakher",
+            "release_date": "2024-02-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b273eb7df8f33dfa732b3e8c1a1a",
+            "track_url": "",
+            "id": 6066,
+            "artist": "Hussain Aljassmi"
+        },
+        {
+            "name": "Atani",
+            "release_date": "2024-02-12",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737ac70d53d8fd5a300587dff9",
+            "track_url": "",
+            "id": 6067,
+            "artist": "Hussain Aljassmi"
+        },
+        {
+            "name": "Marrah Shukran",
+            "release_date": "2024-01-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b27353f8463dab6928e7c1e227d5",
+            "track_url": "",
+            "id": 6068,
+            "artist": "Hussain Aljassmi"
+        },
+        {
+            "name": "Liwa",
+            "release_date": "2023-12-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b27309088e7060498fdc9949fc6e",
+            "track_url": "",
+            "id": 6069,
+            "artist": "Hussain Aljassmi"
+        },
+        {
+            "name": "Hami Eldar",
+            "release_date": "2023-12-03",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e30e58a3aaf489c81cf9925a",
+            "track_url": "",
+            "id": 6070,
+            "artist": "Hussain Aljassmi"
+        },
+        {
+            "name": "Ezzek Ydoom Fog Alghyoum",
+            "release_date": "2023-11-16",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e4f5193db175897f2e4a5447",
+            "track_url": "",
+            "id": 6071,
+            "artist": "Hussain Aljassmi"
+        },
+        {
+            "name": "Abu Dhabi Manbaa Albtolat",
+            "release_date": "2023-11-13",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ac2818f206045fa52f75c581",
+            "track_url": "",
+            "id": 6072,
+            "artist": "Hussain Aljassmi"
+        },
+        {
+            "name": "Allah Yekhalleek Lehalek",
+            "release_date": "2023-10-05",
+            "image": "https://i.scdn.co/image/ab67616d0000b27368158a07feaffdd00d6274b2",
+            "track_url": "",
+            "id": 6073,
+            "artist": "Hussain Aljassmi"
+        },
+        {
+            "name": "Shoug Gabi",
+            "release_date": "2023-09-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e9c7d0333e5757d617cb879f",
+            "track_url": "",
+            "id": 6074,
+            "artist": "Hussain Aljassmi"
+        },
+        {
+            "name": "Elwarda Ertahet",
+            "release_date": "2023-07-17",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c0b9155e44196c5f4b11817c",
+            "track_url": "",
+            "id": 6075,
+            "artist": "Hussain Aljassmi"
+        },
+        {
+            "name": "Ya Beraqna El Aali",
+            "release_date": "2023-07-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b27311fc71245f46869fa4ff41f8",
+            "track_url": "",
+            "id": 6076,
+            "artist": "Hussain Aljassmi"
+        },
+        {
+            "name": "Fakhr Fujairah",
+            "release_date": "2023-07-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c295c0057bfbf1de9f06797e",
+            "track_url": "",
+            "id": 6077,
+            "artist": "Hussain Aljassmi"
+        },
+        {
+            "name": "Balbata",
+            "release_date": "2023-06-29",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a186015e65c82d57e82773de",
+            "track_url": "",
+            "id": 6078,
+            "artist": "Hussain Aljassmi"
+        },
+        {
+            "name": "Al Ezz Mansour",
+            "release_date": "2023-06-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735cfbfb15587ca67589ae9d44",
+            "track_url": "",
+            "id": 6079,
+            "artist": "Hussain Aljassmi"
+        },
+        {
+            "name": "Ya Fakhrena",
+            "release_date": "2023-06-14",
+            "image": "https://i.scdn.co/image/ab67616d0000b27338ad6f4c387467e5061c8aa1",
+            "track_url": "",
+            "id": 6080,
+            "artist": "Hussain Aljassmi"
+        },
+        {
+            "name": "Syouf Alamari",
+            "release_date": "2023-06-13",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b98cf7040b362efb0162185c",
+            "track_url": "",
+            "id": 6081,
+            "artist": "Hussain Aljassmi"
+        },
+        {
+            "name": "Ana A7tereg",
+            "release_date": "2023-06-06",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735c7456bb23e928ddc4d738f4",
+            "track_url": "",
+            "id": 6082,
+            "artist": "Hussain Aljassmi"
+        },
+        {
+            "name": "Ateni Yadeek",
+            "release_date": "2023-05-26",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734809ccdee2dfa2ce38659c9a",
+            "track_url": "",
+            "id": 6083,
+            "artist": "Hussain Aljassmi"
+        },
+        {
+            "name": "Ahlan Men Al A3maq",
+            "release_date": "2023-05-22",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b6601484ee7926868deee25d",
+            "track_url": "",
+            "id": 6084,
+            "artist": "Hussain Aljassmi"
+        },
+        {
+            "name": "Wne3m Al Zaeem",
+            "release_date": "2023-05-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735419a7232226fd44284c598d",
+            "track_url": "",
+            "id": 6085,
+            "artist": "Hussain Aljassmi"
+        },
+        {
+            "name": "Ya Khabar",
+            "release_date": "2023-05-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b273fe4b1f2a2f0a5cd313b2e630",
+            "track_url": "",
+            "id": 6086,
+            "artist": "Hussain Aljassmi"
+        },
+        {
+            "name": "Hawah Al Galb",
+            "release_date": "2023-04-20",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f041da23607896bcfd3c5dc5",
+            "track_url": "",
+            "id": 6087,
+            "artist": "Hussain Aljassmi"
+        },
+        {
+            "name": "Rahman W Raheem",
+            "release_date": "2023-03-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b27340243fdbe847e615d74ca091",
+            "track_url": "",
+            "id": 6088,
+            "artist": "Hussain Aljassmi"
+        }
+    ],
+    "popular_tracks": [
+        {
+            "name": "Boushret Kheir",
+            "track_url": "",
+            "duration_ms": 228076,
+            "image": "https://i.scdn.co/image/ab67616d0000b27349c6410f6e02636a581bdcc8",
+            "id": 6089,
+            "artist": "Hussain Aljassmi"
+        },
+        {
+            "name": "ستة الصبح",
+            "track_url": "",
+            "duration_ms": 266840,
+            "image": "https://i.scdn.co/image/ab67616d0000b273264f31393765cab26d646e44",
+            "id": 6090,
+            "artist": "Hussain Aljassmi"
+        },
+        {
+            "name": "Bel Bont El3areedh",
+            "track_url": "",
+            "duration_ms": 198857,
+            "image": "https://i.scdn.co/image/ab67616d0000b273bb62d251001f59d107175cd2",
+            "id": 6091,
+            "artist": "Hussain Aljassmi"
+        },
+        {
+            "name": "قول رجعت لي",
+            "track_url": "",
+            "duration_ms": 229041,
+            "image": "https://i.scdn.co/image/ab67616d0000b273b5c428b038603f85bf666a6e",
+            "id": 6092,
+            "artist": "Hussain Aljassmi"
+        },
+        {
+            "name": "بحبك وحشتيني",
+            "track_url": "",
+            "duration_ms": 223190,
+            "image": "https://i.scdn.co/image/ab67616d0000b273e1f91e7669e0219464d52953",
+            "id": 6093,
+            "artist": "Hussain Aljassmi"
+        },
+        {
+            "name": "Ahebak",
+            "track_url": "",
+            "duration_ms": 299102,
+            "image": "https://i.scdn.co/image/ab67616d0000b273ed6f3f987488de16a5ca4390",
+            "id": 6094,
+            "artist": "Hussain Aljassmi"
+        },
+        {
+            "name": "Sunnet El Hayah (orange Ramadan 2020)",
+            "track_url": "",
+            "duration_ms": 146823,
+            "image": "https://i.scdn.co/image/ab67616d0000b273474cac19f6e7a5280495fd37",
+            "id": 6095,
+            "artist": "Hussain Aljassmi"
+        },
+        {
+            "name": "Ser Alsada ( Mountain View)",
+            "track_url": "",
+            "duration_ms": 230000,
+            "image": "https://i.scdn.co/image/ab67616d0000b273c22972154f44982d1d078d14",
+            "id": 6096,
+            "artist": "Hussain Aljassmi"
+        },
+        {
+            "name": "Very Important",
+            "track_url": "",
+            "duration_ms": 250200,
+            "image": "https://i.scdn.co/image/ab67616d0000b2731971650c73b20ee380c4dec9",
+            "id": 6097,
+            "artist": "Hussain Aljassmi"
+        },
+        {
+            "name": "Piece Of My Heart",
+            "track_url": "",
+            "duration_ms": 189176,
+            "image": "https://i.scdn.co/image/ab67616d0000b273edd2e89614b68de3a34c8af5",
+            "id": 6098,
+            "artist": "Hussain Aljassmi"
+        }
+    ]
+}

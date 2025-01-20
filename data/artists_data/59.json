@@ -1,0 +1,261 @@
+{
+    "artist": {
+        "id": "8285",
+        "name": "Abdulrahman Mohammed",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebeba526c6baf79e6497e9e6cc",
+        "background_image": "https://i.scdn.co/image/ab67616100005174eba526c6baf79e6497e9e6cc"
+    },
+    "albums": [],
+    "singles": [
+        {
+            "name": "Aligned Pearl",
+            "release_date": "2020-08-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734307715336b97c78fadfc1a5",
+            "track_url": "",
+            "id": 8286,
+            "artist": "Abdulrahman Mohammed"
+        },
+        {
+            "name": "Wonder",
+            "release_date": "2020-07-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733dbab10aeef9c900693a3f0d",
+            "track_url": "",
+            "id": 8287,
+            "artist": "Abdulrahman Mohammed"
+        },
+        {
+            "name": "Last Night (Elbarha)",
+            "release_date": "2019-05-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e27c216d89daa04584d96251",
+            "track_url": "",
+            "id": 8288,
+            "artist": "Abdulrahman Mohammed"
+        },
+        {
+            "name": "Soul (Rouh)",
+            "release_date": "2019-03-13",
+            "image": "https://i.scdn.co/image/ab67616d0000b273506b18fc40780d4d7b0505dc",
+            "track_url": "",
+            "id": 8289,
+            "artist": "Abdulrahman Mohammed"
+        },
+        {
+            "name": "Aggressiveness",
+            "release_date": "2017-01-05",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a8654d76300645be45c3851f",
+            "track_url": "",
+            "id": 8290,
+            "artist": "Abdulrahman Mohammed"
+        },
+        {
+            "name": "Silence",
+            "release_date": "2016-12-20",
+            "image": "https://i.scdn.co/image/ab67616d0000b273176f2920ddc6c1d38192dd13",
+            "track_url": "",
+            "id": 8291,
+            "artist": "Abdulrahman Mohammed"
+        },
+        {
+            "name": "Peace Salam",
+            "release_date": "2015-10-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b273eced111e88c7becaf743f5af",
+            "track_url": "",
+            "id": 8292,
+            "artist": "Abdulrahman Mohammed"
+        },
+        {
+            "name": "Resemblance",
+            "release_date": "2015-05-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27365a566084f1209f97140bcde",
+            "track_url": "",
+            "id": 8293,
+            "artist": "Abdulrahman Mohammed"
+        },
+        {
+            "name": "Desperation",
+            "release_date": "2015-01-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b27356e8e9b4860a8bece06313c5",
+            "track_url": "",
+            "id": 8294,
+            "artist": "Abdulrahman Mohammed"
+        },
+        {
+            "name": "Sallo Ala Khair Alanam",
+            "release_date": "2014-10-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733a96bebc7566057e9aae25f6",
+            "track_url": "",
+            "id": 8295,
+            "artist": "Abdulrahman Mohammed"
+        },
+        {
+            "name": "Ramadan",
+            "release_date": "2014-10-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d65b9e299ea3f0e00e8d7a15",
+            "track_url": "",
+            "id": 8296,
+            "artist": "Abdulrahman Mohammed"
+        },
+        {
+            "name": "Kolo Laha",
+            "release_date": "2014-10-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733bab1ebe2d7c33d7ae20de0f",
+            "track_url": "",
+            "id": 8297,
+            "artist": "Abdulrahman Mohammed"
+        },
+        {
+            "name": "Bokra",
+            "release_date": "2014-10-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b1bce4683f975ee191fb7202",
+            "track_url": "",
+            "id": 8298,
+            "artist": "Abdulrahman Mohammed"
+        },
+        {
+            "name": "Unreachable Love - Amar Ma Laqait",
+            "release_date": "2014-10-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739e81d62bc4be71a013557453",
+            "track_url": "",
+            "id": 8299,
+            "artist": "Abdulrahman Mohammed"
+        },
+        {
+            "name": "A Girl Within My Soul",
+            "release_date": "2014-03-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732735a087db1f2e73b0110890",
+            "track_url": "",
+            "id": 8300,
+            "artist": "Abdulrahman Mohammed"
+        },
+        {
+            "name": "Improvisational Composing Project",
+            "release_date": "2014-03-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735dcb2dfbae4224644d8e3ffe",
+            "track_url": "",
+            "id": 8301,
+            "artist": "Abdulrahman Mohammed"
+        },
+        {
+            "name": "When We Met",
+            "release_date": "2014-02-05",
+            "image": "https://i.scdn.co/image/ab67616d0000b273844570e7858b749aa3811594",
+            "track_url": "",
+            "id": 8302,
+            "artist": "Abdulrahman Mohammed"
+        },
+        {
+            "name": "Ya Mn Hawah",
+            "release_date": "2014-02-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27312ecd366c78ec86048dd4557",
+            "track_url": "",
+            "id": 8303,
+            "artist": "Abdulrahman Mohammed"
+        },
+        {
+            "name": "Lama Bada Li",
+            "release_date": "2014-01-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f4487bcfe33308a226678077",
+            "track_url": "",
+            "id": 8304,
+            "artist": "Abdulrahman Mohammed"
+        },
+        {
+            "name": "Craziness - أصابك عشق",
+            "release_date": "2014-01-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b273168af6a4799f67710a5e79f7",
+            "track_url": "",
+            "id": 8305,
+            "artist": "Abdulrahman Mohammed"
+        },
+        {
+            "name": "Habetik Ana",
+            "release_date": "2012-09-14",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736ae54f8fb084c30e6a600486",
+            "track_url": "",
+            "id": 8306,
+            "artist": "Abdulrahman Mohammed"
+        }
+    ],
+    "popular_tracks": [
+        {
+            "name": "A Girl Within My Soul",
+            "track_url": "",
+            "duration_ms": 391386,
+            "image": "https://i.scdn.co/image/ab67616d0000b2732735a087db1f2e73b0110890",
+            "id": 8307,
+            "artist": "Abdulrahman Mohammed"
+        },
+        {
+            "name": "Ya Mn Hawah",
+            "track_url": "",
+            "duration_ms": 289320,
+            "image": "https://i.scdn.co/image/ab67616d0000b27312ecd366c78ec86048dd4557",
+            "id": 8308,
+            "artist": "Abdulrahman Mohammed"
+        },
+        {
+            "name": "Kolo Laha",
+            "track_url": "",
+            "duration_ms": 226771,
+            "image": "https://i.scdn.co/image/ab67616d0000b2733bab1ebe2d7c33d7ae20de0f",
+            "id": 8309,
+            "artist": "Abdulrahman Mohammed"
+        },
+        {
+            "name": "Craziness - أصابك عشق",
+            "track_url": "",
+            "duration_ms": 291440,
+            "image": "https://i.scdn.co/image/ab67616d0000b273168af6a4799f67710a5e79f7",
+            "id": 8310,
+            "artist": "Abdulrahman Mohammed"
+        },
+        {
+            "name": "When We Met",
+            "track_url": "",
+            "duration_ms": 263000,
+            "image": "https://i.scdn.co/image/ab67616d0000b273844570e7858b749aa3811594",
+            "id": 8311,
+            "artist": "Abdulrahman Mohammed"
+        },
+        {
+            "name": "Lama Bada Li",
+            "track_url": "",
+            "duration_ms": 292986,
+            "image": "https://i.scdn.co/image/ab67616d0000b273f4487bcfe33308a226678077",
+            "id": 8312,
+            "artist": "Abdulrahman Mohammed"
+        },
+        {
+            "name": "Unreachable Love - Amar Ma Laqait",
+            "track_url": "",
+            "duration_ms": 329508,
+            "image": "https://i.scdn.co/image/ab67616d0000b2739e81d62bc4be71a013557453",
+            "id": 8313,
+            "artist": "Abdulrahman Mohammed"
+        },
+        {
+            "name": "Silence",
+            "track_url": "",
+            "duration_ms": 193082,
+            "image": "https://i.scdn.co/image/ab67616d0000b273176f2920ddc6c1d38192dd13",
+            "id": 8314,
+            "artist": "Abdulrahman Mohammed"
+        },
+        {
+            "name": "Resemblance",
+            "track_url": "",
+            "duration_ms": 257253,
+            "image": "https://i.scdn.co/image/ab67616d0000b27365a566084f1209f97140bcde",
+            "id": 8315,
+            "artist": "Abdulrahman Mohammed"
+        },
+        {
+            "name": "Desperation",
+            "track_url": "",
+            "duration_ms": 307516,
+            "image": "https://i.scdn.co/image/ab67616d0000b27356e8e9b4860a8bece06313c5",
+            "id": 8316,
+            "artist": "Abdulrahman Mohammed"
+        }
+    ]
+}

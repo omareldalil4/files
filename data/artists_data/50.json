@@ -1,0 +1,761 @@
+{
+    "artist": {
+        "id": "7669",
+        "name": "Moustafa Hagag",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebdfd6bed62c64b1cfd671304b",
+        "background_image": "https://i.scdn.co/image/ab67616100005174dfd6bed62c64b1cfd671304b"
+    },
+    "albums": [
+        {
+            "name": "El-hafla (Live)",
+            "release_date": "2020-04-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c3e5acb390cc2b96c580dd9b",
+            "track_url": "https://open.spotify.com/album/4L8Q0086q4Pl85gxwopQO5",
+            "tracks": [
+                {
+                    "name": "Ah Ya Hanan - Live",
+                    "track_url": "",
+                    "duration_ms": 182791,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c3e5acb390cc2b96c580dd9b",
+                    "id": 7671,
+                    "artist": "Moustafa Hagag"
+                },
+                {
+                    "name": "Ana Kan Lazm Ataaqb - Live",
+                    "track_url": "",
+                    "duration_ms": 155015,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c3e5acb390cc2b96c580dd9b",
+                    "id": 7672,
+                    "artist": "Moustafa Hagag"
+                },
+                {
+                    "name": "Mabhenlhash - Live",
+                    "track_url": "",
+                    "duration_ms": 286706,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c3e5acb390cc2b96c580dd9b",
+                    "id": 7673,
+                    "artist": "Moustafa Hagag"
+                },
+                {
+                    "name": "Baadak Hayaty Tamam - Live",
+                    "track_url": "",
+                    "duration_ms": 144150,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c3e5acb390cc2b96c580dd9b",
+                    "id": 7674,
+                    "artist": "Moustafa Hagag"
+                },
+                {
+                    "name": "Khatawa - Live",
+                    "track_url": "",
+                    "duration_ms": 171790,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c3e5acb390cc2b96c580dd9b",
+                    "id": 7675,
+                    "artist": "Moustafa Hagag"
+                },
+                {
+                    "name": "Benaqso - Live",
+                    "track_url": "",
+                    "duration_ms": 256622,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c3e5acb390cc2b96c580dd9b",
+                    "id": 7676,
+                    "artist": "Moustafa Hagag"
+                },
+                {
+                    "name": "Matedaesh Alaya - Live",
+                    "track_url": "",
+                    "duration_ms": 151108,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c3e5acb390cc2b96c580dd9b",
+                    "id": 7677,
+                    "artist": "Moustafa Hagag"
+                },
+                {
+                    "name": "Garh Baad Garh - Live",
+                    "track_url": "",
+                    "duration_ms": 163749,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c3e5acb390cc2b96c580dd9b",
+                    "id": 7678,
+                    "artist": "Moustafa Hagag"
+                },
+                {
+                    "name": "Zahmit Hayaty - Live",
+                    "track_url": "",
+                    "duration_ms": 241182,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c3e5acb390cc2b96c580dd9b",
+                    "id": 7679,
+                    "artist": "Moustafa Hagag"
+                },
+                {
+                    "name": "Naseby We Qesmte - Live",
+                    "track_url": "",
+                    "duration_ms": 118488,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c3e5acb390cc2b96c580dd9b",
+                    "id": 7680,
+                    "artist": "Moustafa Hagag"
+                },
+                {
+                    "name": "Mogarad Bs Maftekrek - Live",
+                    "track_url": "",
+                    "duration_ms": 181437,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c3e5acb390cc2b96c580dd9b",
+                    "id": 7681,
+                    "artist": "Moustafa Hagag"
+                },
+                {
+                    "name": "Yamnana - Live",
+                    "track_url": "",
+                    "duration_ms": 116243,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c3e5acb390cc2b96c580dd9b",
+                    "id": 7682,
+                    "artist": "Moustafa Hagag"
+                },
+                {
+                    "name": "Ya Mostafa - Live",
+                    "track_url": "",
+                    "duration_ms": 240904,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c3e5acb390cc2b96c580dd9b",
+                    "id": 7683,
+                    "artist": "Moustafa Hagag"
+                },
+                {
+                    "name": "Wahashony - Live",
+                    "track_url": "",
+                    "duration_ms": 189677,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c3e5acb390cc2b96c580dd9b",
+                    "id": 7684,
+                    "artist": "Moustafa Hagag"
+                },
+                {
+                    "name": "Ya Am El Zaalan Rawaq - Live",
+                    "track_url": "",
+                    "duration_ms": 178104,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c3e5acb390cc2b96c580dd9b",
+                    "id": 7685,
+                    "artist": "Moustafa Hagag"
+                },
+                {
+                    "name": "Ana Mawgoud - Live",
+                    "track_url": "",
+                    "duration_ms": 226410,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c3e5acb390cc2b96c580dd9b",
+                    "id": 7686,
+                    "artist": "Moustafa Hagag"
+                }
+            ],
+            "id": 7670
+        },
+        {
+            "name": "Hatzahzah",
+            "release_date": "2020-03-12",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739aed1b7683d8eb1f04045bba",
+            "track_url": "https://open.spotify.com/album/6UjPk9Jk9GmfAMi0kottOz",
+            "tracks": [
+                {
+                    "name": "Ah Ya Hanan",
+                    "track_url": "",
+                    "duration_ms": 251482,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739aed1b7683d8eb1f04045bba",
+                    "id": 7688,
+                    "artist": "Moustafa Hagag"
+                },
+                {
+                    "name": "Garh Baad Garh",
+                    "track_url": "",
+                    "duration_ms": 205692,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739aed1b7683d8eb1f04045bba",
+                    "id": 7689,
+                    "artist": "Moustafa Hagag"
+                },
+                {
+                    "name": "Hatzahzah",
+                    "track_url": "",
+                    "duration_ms": 211632,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739aed1b7683d8eb1f04045bba",
+                    "id": 7690,
+                    "artist": "Moustafa Hagag"
+                },
+                {
+                    "name": "Baadak Hayaty Tamam",
+                    "track_url": "",
+                    "duration_ms": 267749,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739aed1b7683d8eb1f04045bba",
+                    "id": 7691,
+                    "artist": "Moustafa Hagag"
+                },
+                {
+                    "name": "Ana Mawgoud",
+                    "track_url": "",
+                    "duration_ms": 310212,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739aed1b7683d8eb1f04045bba",
+                    "id": 7692,
+                    "artist": "Moustafa Hagag"
+                },
+                {
+                    "name": "Benaqso",
+                    "track_url": "",
+                    "duration_ms": 291220,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739aed1b7683d8eb1f04045bba",
+                    "id": 7693,
+                    "artist": "Moustafa Hagag"
+                },
+                {
+                    "name": "Mogarad Bs Maftekrek",
+                    "track_url": "",
+                    "duration_ms": 296273,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739aed1b7683d8eb1f04045bba",
+                    "id": 7694,
+                    "artist": "Moustafa Hagag"
+                },
+                {
+                    "name": "Ya Mostafa",
+                    "track_url": "",
+                    "duration_ms": 225345,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739aed1b7683d8eb1f04045bba",
+                    "id": 7695,
+                    "artist": "Moustafa Hagag"
+                },
+                {
+                    "name": "Ya Am El Zaalan Rawaq",
+                    "track_url": "",
+                    "duration_ms": 235520,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739aed1b7683d8eb1f04045bba",
+                    "id": 7696,
+                    "artist": "Moustafa Hagag"
+                },
+                {
+                    "name": "Naseby We Qesmte",
+                    "track_url": "",
+                    "duration_ms": 259959,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739aed1b7683d8eb1f04045bba",
+                    "id": 7697,
+                    "artist": "Moustafa Hagag"
+                }
+            ],
+            "id": 7687
+        },
+        {
+            "name": "Zahmit Hayaty",
+            "release_date": "2014-01-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b273eecc2e83e1f51abfe8c49274",
+            "track_url": "https://open.spotify.com/album/4BgsZvPh2AKXKOB82suKNc",
+            "tracks": [
+                {
+                    "name": "Dahab",
+                    "track_url": "",
+                    "duration_ms": 265798,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273eecc2e83e1f51abfe8c49274",
+                    "id": 7699,
+                    "artist": "Moustafa Hagag"
+                },
+                {
+                    "name": "Mabhenlhash",
+                    "track_url": "",
+                    "duration_ms": 287207,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273eecc2e83e1f51abfe8c49274",
+                    "id": 7700,
+                    "artist": "Moustafa Hagag"
+                },
+                {
+                    "name": "Matdaish Alia",
+                    "track_url": "",
+                    "duration_ms": 238515,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273eecc2e83e1f51abfe8c49274",
+                    "id": 7701,
+                    "artist": "Moustafa Hagag"
+                },
+                {
+                    "name": "Sakit",
+                    "track_url": "",
+                    "duration_ms": 260823,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273eecc2e83e1f51abfe8c49274",
+                    "id": 7702,
+                    "artist": "Moustafa Hagag"
+                },
+                {
+                    "name": "Wahashony",
+                    "track_url": "",
+                    "duration_ms": 274575,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273eecc2e83e1f51abfe8c49274",
+                    "id": 7703,
+                    "artist": "Moustafa Hagag"
+                },
+                {
+                    "name": "Yaloz Mqashr",
+                    "track_url": "",
+                    "duration_ms": 185887,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273eecc2e83e1f51abfe8c49274",
+                    "id": 7704,
+                    "artist": "Moustafa Hagag"
+                },
+                {
+                    "name": "Yamnana",
+                    "track_url": "",
+                    "duration_ms": 257195,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273eecc2e83e1f51abfe8c49274",
+                    "id": 7705,
+                    "artist": "Moustafa Hagag"
+                },
+                {
+                    "name": "Ana Batqata",
+                    "track_url": "",
+                    "duration_ms": 242950,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273eecc2e83e1f51abfe8c49274",
+                    "id": 7706,
+                    "artist": "Moustafa Hagag"
+                },
+                {
+                    "name": "Yarb Tmimha",
+                    "track_url": "",
+                    "duration_ms": 252176,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273eecc2e83e1f51abfe8c49274",
+                    "id": 7707,
+                    "artist": "Moustafa Hagag"
+                },
+                {
+                    "name": "Zahmit Hayaty",
+                    "track_url": "",
+                    "duration_ms": 257252,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273eecc2e83e1f51abfe8c49274",
+                    "id": 7708,
+                    "artist": "Moustafa Hagag"
+                }
+            ],
+            "id": 7698
+        }
+    ],
+    "singles": [
+        {
+            "name": "السهره صباحي (من مسلسل ديبو)",
+            "release_date": "2024-09-26",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e94dfff41cb021a3aefe5134",
+            "track_url": "",
+            "id": 7709,
+            "artist": "Moustafa Hagag"
+        },
+        {
+            "name": "El Nas Ghadara",
+            "release_date": "2024-09-16",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d2492db5fce83a67fa9c42d6",
+            "track_url": "",
+            "id": 7710,
+            "artist": "Moustafa Hagag"
+        },
+        {
+            "name": "Rouh",
+            "release_date": "2024-07-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273eed66279df2eb111da39cc83",
+            "track_url": "",
+            "id": 7711,
+            "artist": "Moustafa Hagag"
+        },
+        {
+            "name": "Bengeeb El Ersh",
+            "release_date": "2024-05-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b27379c286a15e14aa521112015d",
+            "track_url": "",
+            "id": 7712,
+            "artist": "Moustafa Hagag"
+        },
+        {
+            "name": "Gald El Zat",
+            "release_date": "2024-02-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732159c60b68a77af16d5b8b8c",
+            "track_url": "",
+            "id": 7713,
+            "artist": "Moustafa Hagag"
+        },
+        {
+            "name": "اللي جاي بتاعنا",
+            "release_date": "2024-01-17",
+            "image": "https://i.scdn.co/image/ab67616d0000b27380c43207b12257942634ed42",
+            "track_url": "",
+            "id": 7714,
+            "artist": "Moustafa Hagag"
+        },
+        {
+            "name": "Alby Ma3ak",
+            "release_date": "2023-12-20",
+            "image": "https://i.scdn.co/image/ab67616d0000b273839e79b4a8eb56ed32f320b7",
+            "track_url": "",
+            "id": 7715,
+            "artist": "Moustafa Hagag"
+        },
+        {
+            "name": "3amalna Ema",
+            "release_date": "2023-08-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b273919019b7b8b45edd8594f7a1",
+            "track_url": "",
+            "id": 7716,
+            "artist": "Moustafa Hagag"
+        },
+        {
+            "name": "Bent El Nas",
+            "release_date": "2023-05-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737c08044c185f79e1e00c85c9",
+            "track_url": "",
+            "id": 7717,
+            "artist": "Moustafa Hagag"
+        },
+        {
+            "name": "Bataleny",
+            "release_date": "2023-02-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736dfed512ec52e78616fc7285",
+            "track_url": "",
+            "id": 7718,
+            "artist": "Moustafa Hagag"
+        },
+        {
+            "name": "Balad El Gamal",
+            "release_date": "2022-12-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273cb7154d4d373c5ecd475392d",
+            "track_url": "",
+            "id": 7719,
+            "artist": "Moustafa Hagag"
+        },
+        {
+            "name": "Gharblt Elbar Kolo",
+            "release_date": "2022-08-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b27304ccab1756c356ab83a8bd77",
+            "track_url": "",
+            "id": 7720,
+            "artist": "Moustafa Hagag"
+        },
+        {
+            "name": "Ya Bay",
+            "release_date": "2022-07-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b27389842f50c1e0c309ac04c1b4",
+            "track_url": "",
+            "id": 7721,
+            "artist": "Moustafa Hagag"
+        },
+        {
+            "name": "Mlook Alfarhah",
+            "release_date": "2021-10-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b273563e7f09db9eaa00b7becf85",
+            "track_url": "",
+            "id": 7722,
+            "artist": "Moustafa Hagag"
+        },
+        {
+            "name": "Aal Doghrey",
+            "release_date": "2021-09-22",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738ed56593fa335582e6c04ab3",
+            "track_url": "",
+            "id": 7723,
+            "artist": "Moustafa Hagag"
+        },
+        {
+            "name": "Wada3ak Mor",
+            "release_date": "2021-09-06",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736fe5c642a5d7ab227da6119a",
+            "track_url": "",
+            "id": 7724,
+            "artist": "Moustafa Hagag"
+        },
+        {
+            "name": "Yala Bara Mn Hayaty",
+            "release_date": "2021-07-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b273094a67f2eab4527f44fba3c7",
+            "track_url": "",
+            "id": 7725,
+            "artist": "Moustafa Hagag"
+        },
+        {
+            "name": "Wallahy Ma Yanfaa",
+            "release_date": "2021-06-27",
+            "image": "https://i.scdn.co/image/ab67616d0000b273077a5b1bd239a411e789ba19",
+            "track_url": "",
+            "id": 7726,
+            "artist": "Moustafa Hagag"
+        },
+        {
+            "name": "إحنا بكره",
+            "release_date": "2021-04-16",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731f4ca0bad395c755d924be2c",
+            "track_url": "",
+            "id": 7727,
+            "artist": "Moustafa Hagag"
+        },
+        {
+            "name": "كله شمال",
+            "release_date": "2021-02-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b273aba6efa61e115e7b478b6b7f",
+            "track_url": "",
+            "id": 7728,
+            "artist": "Moustafa Hagag"
+        },
+        {
+            "name": "Kollo Shmal",
+            "release_date": "2021-02-26",
+            "image": "https://i.scdn.co/image/ab67616d0000b27322b547b3ce57bbc3d681eebf",
+            "track_url": "",
+            "id": 7729,
+            "artist": "Moustafa Hagag"
+        },
+        {
+            "name": "Alf Mara",
+            "release_date": "2020-12-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735d419088069e74138720ede5",
+            "track_url": "",
+            "id": 7730,
+            "artist": "Moustafa Hagag"
+        },
+        {
+            "name": "تعظيم سلام للمخلصين",
+            "release_date": "2020-11-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731cc7b7ddcd5a58a2609a0384",
+            "track_url": "",
+            "id": 7731,
+            "artist": "Moustafa Hagag"
+        },
+        {
+            "name": "أبويا قالي زمان",
+            "release_date": "2020-08-29",
+            "image": "https://i.scdn.co/image/ab67616d0000b273187358ca64d9f90186fc7d48",
+            "track_url": "",
+            "id": 7732,
+            "artist": "Moustafa Hagag"
+        },
+        {
+            "name": "Haseb Ya Tayeb (Music from Khyanet Ahd TV Series)",
+            "release_date": "2020-05-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739890462e97b88ec4b8505cb7",
+            "track_url": "",
+            "id": 7733,
+            "artist": "Moustafa Hagag"
+        },
+        {
+            "name": "Eimal El Sah",
+            "release_date": "2019-04-13",
+            "image": "https://i.scdn.co/image/ab67616d0000b273672128c17963f6ea23560d42",
+            "track_url": "",
+            "id": 7734,
+            "artist": "Moustafa Hagag"
+        },
+        {
+            "name": "خطوة",
+            "release_date": "2018-09-17",
+            "image": "https://i.scdn.co/image/ab67616d0000b273da96f8808cd20cb084a3ed11",
+            "track_url": "",
+            "id": 7735,
+            "artist": "Moustafa Hagag"
+        },
+        {
+            "name": "Namra 1",
+            "release_date": "2018-06-16",
+            "image": "https://i.scdn.co/image/ab67616d0000b273131e4957f5e631c1b77315d8",
+            "track_url": "",
+            "id": 7736,
+            "artist": "Moustafa Hagag"
+        },
+        {
+            "name": "Sotna Maak",
+            "release_date": "2018-02-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b273cfdfdc920abc957a82d5d23c",
+            "track_url": "",
+            "id": 7737,
+            "artist": "Moustafa Hagag"
+        },
+        {
+            "name": "اللي يقدر يتقدر",
+            "release_date": "2017-12-13",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f75c91f28659b19ad577c393",
+            "track_url": "",
+            "id": 7738,
+            "artist": "Moustafa Hagag"
+        },
+        {
+            "name": "عيرتني الأيام",
+            "release_date": "2017-07-20",
+            "image": "https://i.scdn.co/image/ab67616d0000b273398a557c1ad90105da3e1ba9",
+            "track_url": "",
+            "id": 7739,
+            "artist": "Moustafa Hagag"
+        },
+        {
+            "name": "كان نفسي أعيش",
+            "release_date": "2017-04-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f3bea17eb9d7c4163ad583a8",
+            "track_url": "",
+            "id": 7740,
+            "artist": "Moustafa Hagag"
+        },
+        {
+            "name": "Maret Be Deaa",
+            "release_date": "2016-06-17",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739466330c3b674c34fa9b4f76",
+            "track_url": "",
+            "id": 7741,
+            "artist": "Moustafa Hagag"
+        },
+        {
+            "name": "Sahlala",
+            "release_date": "2016-06-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b27344e28b331867474a5977561e",
+            "track_url": "",
+            "id": 7742,
+            "artist": "Moustafa Hagag"
+        },
+        {
+            "name": "Baidan El Fagr",
+            "release_date": "2016-06-06",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738bd3a837a25d0ed32f4b77d4",
+            "track_url": "",
+            "id": 7743,
+            "artist": "Moustafa Hagag"
+        },
+        {
+            "name": "مننا وعلينا",
+            "release_date": "2016-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736ff63a48c1758831b042af6a",
+            "track_url": "",
+            "id": 7744,
+            "artist": "Moustafa Hagag"
+        },
+        {
+            "name": "Ezay Mazagak",
+            "release_date": "2015-12-20",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e7eaa09f08e3de7f0acc6757",
+            "track_url": "",
+            "id": 7745,
+            "artist": "Moustafa Hagag"
+        },
+        {
+            "name": "Wa'at El Hesab",
+            "release_date": "2015-07-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b3aa50f0fe63972b0d9fceb8",
+            "track_url": "",
+            "id": 7746,
+            "artist": "Moustafa Hagag"
+        },
+        {
+            "name": "Opret Matethzmesh",
+            "release_date": "2015-07-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b273762b6341b2f056ad123fb626",
+            "track_url": "",
+            "id": 7747,
+            "artist": "Moustafa Hagag"
+        },
+        {
+            "name": "Salat El Naby",
+            "release_date": "2015-02-06",
+            "image": "https://i.scdn.co/image/ab67616d0000b273676d631f7adbc7e3d2a1d24e",
+            "track_url": "",
+            "id": 7748,
+            "artist": "Moustafa Hagag"
+        },
+        {
+            "name": "Saalt Elnas",
+            "release_date": "2015-01-06",
+            "image": "https://i.scdn.co/image/ab67616d0000b273cd0d628986db2f661288db44",
+            "track_url": "",
+            "id": 7749,
+            "artist": "Moustafa Hagag"
+        },
+        {
+            "name": "El Skikh Rmadan",
+            "release_date": "2015-01-06",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735ca0b946915a8f8f3501f92f",
+            "track_url": "",
+            "id": 7750,
+            "artist": "Moustafa Hagag"
+        },
+        {
+            "name": "El Wagaa",
+            "release_date": "2014-07-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c69e618ccaf2534a44d090a5",
+            "track_url": "",
+            "id": 7751,
+            "artist": "Moustafa Hagag"
+        },
+        {
+            "name": "Batata' Men Gowaya",
+            "release_date": "2014-03-14",
+            "image": "https://i.scdn.co/image/ab67616d0000b273689f49489b9bac677a783dd2",
+            "track_url": "",
+            "id": 7752,
+            "artist": "Moustafa Hagag"
+        }
+    ],
+    "popular_tracks": [
+        {
+            "name": "Yamnana",
+            "track_url": "",
+            "duration_ms": 257195,
+            "image": "https://i.scdn.co/image/ab67616d0000b273eecc2e83e1f51abfe8c49274",
+            "id": 7753,
+            "artist": "Moustafa Hagag"
+        },
+        {
+            "name": "خطوة",
+            "track_url": "",
+            "duration_ms": 198238,
+            "image": "https://i.scdn.co/image/ab67616d0000b273da96f8808cd20cb084a3ed11",
+            "id": 7754,
+            "artist": "Moustafa Hagag"
+        },
+        {
+            "name": "Mabhenlhash",
+            "track_url": "",
+            "duration_ms": 287207,
+            "image": "https://i.scdn.co/image/ab67616d0000b273eecc2e83e1f51abfe8c49274",
+            "id": 7755,
+            "artist": "Moustafa Hagag"
+        },
+        {
+            "name": "Haseb Ya Tayeb - Music from Khyanet Ahd TV Series",
+            "track_url": "",
+            "duration_ms": 237062,
+            "image": "https://i.scdn.co/image/ab67616d0000b2739890462e97b88ec4b8505cb7",
+            "id": 7756,
+            "artist": "Moustafa Hagag"
+        },
+        {
+            "name": "Gald El Zat",
+            "track_url": "",
+            "duration_ms": 240874,
+            "image": "https://i.scdn.co/image/ab67616d0000b2732159c60b68a77af16d5b8b8c",
+            "id": 7757,
+            "artist": "Moustafa Hagag"
+        },
+        {
+            "name": "Bataleny",
+            "track_url": "",
+            "duration_ms": 230416,
+            "image": "https://i.scdn.co/image/ab67616d0000b2736dfed512ec52e78616fc7285",
+            "id": 7758,
+            "artist": "Moustafa Hagag"
+        },
+        {
+            "name": "أبويا قالي زمان",
+            "track_url": "",
+            "duration_ms": 226841,
+            "image": "https://i.scdn.co/image/ab67616d0000b273187358ca64d9f90186fc7d48",
+            "id": 7759,
+            "artist": "Moustafa Hagag"
+        },
+        {
+            "name": "اللي جاي بتاعنا",
+            "track_url": "",
+            "duration_ms": 160885,
+            "image": "https://i.scdn.co/image/ab67616d0000b27380c43207b12257942634ed42",
+            "id": 7760,
+            "artist": "Moustafa Hagag"
+        },
+        {
+            "name": "Alby Ma3ak",
+            "track_url": "",
+            "duration_ms": 215709,
+            "image": "https://i.scdn.co/image/ab67616d0000b273839e79b4a8eb56ed32f320b7",
+            "id": 7761,
+            "artist": "Moustafa Hagag"
+        },
+        {
+            "name": "Ana Mawgoud",
+            "track_url": "",
+            "duration_ms": 310212,
+            "image": "https://i.scdn.co/image/ab67616d0000b2739aed1b7683d8eb1f04045bba",
+            "id": 7762,
+            "artist": "Moustafa Hagag"
+        }
+    ]
+}

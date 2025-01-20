@@ -1,0 +1,922 @@
+{
+    "artist": {
+        "id": "4425",
+        "name": "Ahmed Saad",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb68a0d5e76ae47f5e8850baea",
+        "background_image": "https://i.scdn.co/image/ab6761610000517468a0d5e76ae47f5e8850baea"
+    },
+    "albums": [
+        {
+            "name": "Habebna",
+            "release_date": "2025-01-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734898bf9a951116c23732088d",
+            "track_url": "https://open.spotify.com/album/6udoWtucgo5nrmcLhRrFNR",
+            "tracks": [
+                {
+                    "name": "Moftakedni",
+                    "track_url": "https://www.dropbox.com/scl/fi/0qgkb49swca401m4ap3ec/Moftakedni-Ahmed.Saad-MaTb3aa.Com.mp3?rlkey=qs71jxsjbkbit00d197f8hu44&st=u355yt55&dl=1",
+                    "duration_ms": 233720,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734898bf9a951116c23732088d",
+                    "id": 12378,
+                    "artist": "Ahmed Saad"
+                },
+                {
+                    "name": "3ayez Salamtak",
+                    "track_url": "https://www.dropbox.com/scl/fi/d5khuodie960f1r33seyd/3ayez.Salamtak-Ahmed.Saad-MaTb3aa.Com.mp3?rlkey=stoe4j6o2p18fgj664t4r8e0t&st=l6afvh8g&dl=1",
+                    "duration_ms": 226946,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734898bf9a951116c23732088d",
+                    "id": 12379,
+                    "artist": "Ahmed Saad"
+                },
+                {
+                    "name": "Law Tigi",
+                    "track_url": "https://www.dropbox.com/scl/fi/685hii8yfrh69yy24k8ic/Law.Tigi-Ahmed.Saad-MaTb3aa.Com.mp3?rlkey=ybgbnvfgnjw2x7y137p5xg1qk&st=zjr93vzg&dl=1",
+                    "duration_ms": 252053,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734898bf9a951116c23732088d",
+                    "id": 12380,
+                    "artist": "Ahmed Saad"
+                },
+                {
+                    "name": "Baseet",
+                    "track_url": "https://www.dropbox.com/scl/fi/afswqbvlcd8r2zqgepmw2/Baseet-Ahmed.Saad-MaTb3aa.Com.mp3?rlkey=uu5y832qdhcoieq5lmm05adl0&st=1pq4yili&dl=1",
+                    "duration_ms": 281066,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734898bf9a951116c23732088d",
+                    "id": 12381,
+                    "artist": "Ahmed Saad"
+                },
+                {
+                    "name": "Soda Soda",
+                    "track_url": "https://www.dropbox.com/scl/fi/yuoayasu2351ubbgfhkps/Soda.Soda-Ahmed.Saad-MaTb3aa.Com.mp3?rlkey=mty9d479cgy4tsyxcysb83psg&st=v7f4gbir&dl=1",
+                    "duration_ms": 215533,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734898bf9a951116c23732088d",
+                    "id": 12382,
+                    "artist": "Ahmed Saad"
+                },
+                {
+                    "name": "Tigi Nehareb",
+                    "track_url": "https://www.dropbox.com/scl/fi/yv527g3e01ac4g6xgjixb/Tigi.Nehareb-Ahmed.Saad-MaTb3aa.Com.mp3?rlkey=37a803t500kft5zt8tsc9es09&st=5ynzxfow&dl=1",
+                    "duration_ms": 245706,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734898bf9a951116c23732088d",
+                    "id": 12383,
+                    "artist": "Ahmed Saad"
+                },
+                {
+                    "name": "Omri Eli Fat",
+                    "track_url": "https://www.dropbox.com/scl/fi/4v5ohrwhmb24519nmdkth/Omri.Eli.Fat-Ahmed.Saad-MaTb3aa.Com.mp3?rlkey=k83kjdgb9yypm116zqrsk9ch9&st=0llwr31i&dl=1",
+                    "duration_ms": 241800,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734898bf9a951116c23732088d",
+                    "id": 12384,
+                    "artist": "Ahmed Saad"
+                },
+                {
+                    "name": "Ana Mesheet",
+                    "track_url": "https://www.dropbox.com/scl/fi/r5c7zjd8up7m6trbsems7/Ana.Mesheet-Ahmed.Saad-MaTb3aa.Com.mp3?rlkey=52kse67ip3afqpcg9n7ky3fpj&st=55cw4tez&dl=1",
+                    "duration_ms": 222546,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734898bf9a951116c23732088d",
+                    "id": 12385,
+                    "artist": "Ahmed Saad"
+                },
+                {
+                    "name": "Habebna",
+                    "track_url": "https://www.dropbox.com/scl/fi/iq8f6bruj36hy2cfmirrz/Habebna-Ahmed.Saad-MaTb3aa.Com.mp3?rlkey=ipjfo891hghaj2tz2i1easueu&st=dj2i3jjk&dl=1",
+                    "duration_ms": 248520,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734898bf9a951116c23732088d",
+                    "id": 12386,
+                    "artist": "Ahmed Saad"
+                }
+            ],
+            "id": 12387
+        },
+        {
+            "name": "Ya Rab",
+            "release_date": "2020-04-29",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f4c6c0893d04885b36849d2b",
+            "track_url": "https://open.spotify.com/album/5KwTNZaWcglr2cvsJwwcUV",
+            "tracks": [
+                {
+                    "name": "Zowar El Maqam",
+                    "track_url": "",
+                    "duration_ms": 128965,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f4c6c0893d04885b36849d2b",
+                    "id": 4427,
+                    "artist": "Ahmed Saad"
+                },
+                {
+                    "name": "Ala Allah We Bas",
+                    "track_url": "",
+                    "duration_ms": 93914,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f4c6c0893d04885b36849d2b",
+                    "id": 4428,
+                    "artist": "Ahmed Saad"
+                },
+                {
+                    "name": "Bab El Sama Maftouh",
+                    "track_url": "",
+                    "duration_ms": 109531,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f4c6c0893d04885b36849d2b",
+                    "id": 4429,
+                    "artist": "Ahmed Saad"
+                },
+                {
+                    "name": "Alem Behali",
+                    "track_url": "",
+                    "duration_ms": 118447,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f4c6c0893d04885b36849d2b",
+                    "id": 4430,
+                    "artist": "Ahmed Saad"
+                },
+                {
+                    "name": "Million Bab",
+                    "track_url": "",
+                    "duration_ms": 116399,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f4c6c0893d04885b36849d2b",
+                    "id": 4431,
+                    "artist": "Ahmed Saad"
+                },
+                {
+                    "name": "Tamaan Fi Karamak",
+                    "track_url": "",
+                    "duration_ms": 128858,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f4c6c0893d04885b36849d2b",
+                    "id": 4432,
+                    "artist": "Ahmed Saad"
+                },
+                {
+                    "name": "Arzuqni El Thabat",
+                    "track_url": "",
+                    "duration_ms": 146959,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f4c6c0893d04885b36849d2b",
+                    "id": 4433,
+                    "artist": "Ahmed Saad"
+                },
+                {
+                    "name": "Sabaa Samawat",
+                    "track_url": "",
+                    "duration_ms": 98754,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f4c6c0893d04885b36849d2b",
+                    "id": 4434,
+                    "artist": "Ahmed Saad"
+                }
+            ],
+            "id": 4426
+        },
+        {
+            "name": "Names Of ALLAH",
+            "release_date": "2012-07-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b98582b0fc11f57fd41f6338",
+            "track_url": "https://open.spotify.com/album/4wYIzR4RW5X10gpmGGwwca",
+            "tracks": [
+                {
+                    "name": "ALLAH",
+                    "track_url": "",
+                    "duration_ms": 161306,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b98582b0fc11f57fd41f6338",
+                    "id": 4436,
+                    "artist": "Ahmed Saad"
+                },
+                {
+                    "name": "The Rahman",
+                    "track_url": "",
+                    "duration_ms": 161306,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b98582b0fc11f57fd41f6338",
+                    "id": 4437,
+                    "artist": "Ahmed Saad"
+                },
+                {
+                    "name": "El Raheem",
+                    "track_url": "",
+                    "duration_ms": 161306,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b98582b0fc11f57fd41f6338",
+                    "id": 4438,
+                    "artist": "Ahmed Saad"
+                },
+                {
+                    "name": "El malek",
+                    "track_url": "",
+                    "duration_ms": 161306,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b98582b0fc11f57fd41f6338",
+                    "id": 4439,
+                    "artist": "Ahmed Saad"
+                },
+                {
+                    "name": "El Kodos",
+                    "track_url": "",
+                    "duration_ms": 159333,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b98582b0fc11f57fd41f6338",
+                    "id": 4440,
+                    "artist": "Ahmed Saad"
+                },
+                {
+                    "name": "El Saleem",
+                    "track_url": "",
+                    "duration_ms": 161306,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b98582b0fc11f57fd41f6338",
+                    "id": 4441,
+                    "artist": "Ahmed Saad"
+                },
+                {
+                    "name": "El moameen",
+                    "track_url": "",
+                    "duration_ms": 161306,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b98582b0fc11f57fd41f6338",
+                    "id": 4442,
+                    "artist": "Ahmed Saad"
+                },
+                {
+                    "name": "El Mohaemn",
+                    "track_url": "",
+                    "duration_ms": 161306,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b98582b0fc11f57fd41f6338",
+                    "id": 4443,
+                    "artist": "Ahmed Saad"
+                },
+                {
+                    "name": "El Aziz",
+                    "track_url": "",
+                    "duration_ms": 159373,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b98582b0fc11f57fd41f6338",
+                    "id": 4444,
+                    "artist": "Ahmed Saad"
+                },
+                {
+                    "name": "El Gaber",
+                    "track_url": "",
+                    "duration_ms": 159333,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b98582b0fc11f57fd41f6338",
+                    "id": 4445,
+                    "artist": "Ahmed Saad"
+                },
+                {
+                    "name": "El Motkabr",
+                    "track_url": "",
+                    "duration_ms": 159333,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b98582b0fc11f57fd41f6338",
+                    "id": 4446,
+                    "artist": "Ahmed Saad"
+                },
+                {
+                    "name": "El Khalk",
+                    "track_url": "",
+                    "duration_ms": 161306,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b98582b0fc11f57fd41f6338",
+                    "id": 4447,
+                    "artist": "Ahmed Saad"
+                },
+                {
+                    "name": "El Baree",
+                    "track_url": "",
+                    "duration_ms": 159333,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b98582b0fc11f57fd41f6338",
+                    "id": 4448,
+                    "artist": "Ahmed Saad"
+                },
+                {
+                    "name": "El Mosawer",
+                    "track_url": "",
+                    "duration_ms": 161306,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b98582b0fc11f57fd41f6338",
+                    "id": 4449,
+                    "artist": "Ahmed Saad"
+                },
+                {
+                    "name": "El Ghafer",
+                    "track_url": "",
+                    "duration_ms": 161306,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b98582b0fc11f57fd41f6338",
+                    "id": 4450,
+                    "artist": "Ahmed Saad"
+                },
+                {
+                    "name": "El kaheer",
+                    "track_url": "",
+                    "duration_ms": 159333,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b98582b0fc11f57fd41f6338",
+                    "id": 4451,
+                    "artist": "Ahmed Saad"
+                },
+                {
+                    "name": "El Waheeb",
+                    "track_url": "",
+                    "duration_ms": 161306,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b98582b0fc11f57fd41f6338",
+                    "id": 4452,
+                    "artist": "Ahmed Saad"
+                },
+                {
+                    "name": "El razeek",
+                    "track_url": "",
+                    "duration_ms": 159333,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b98582b0fc11f57fd41f6338",
+                    "id": 4453,
+                    "artist": "Ahmed Saad"
+                },
+                {
+                    "name": "El Fateeh",
+                    "track_url": "",
+                    "duration_ms": 159333,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b98582b0fc11f57fd41f6338",
+                    "id": 4454,
+                    "artist": "Ahmed Saad"
+                },
+                {
+                    "name": "El Aleem",
+                    "track_url": "",
+                    "duration_ms": 161306,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b98582b0fc11f57fd41f6338",
+                    "id": 4455,
+                    "artist": "Ahmed Saad"
+                }
+            ],
+            "id": 4435
+        },
+        {
+            "name": "Ahmed Saad 2007",
+            "release_date": "2007-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a4762b839335541080aaf40e",
+            "track_url": "https://open.spotify.com/album/0AGOO5UbKoGNAxNQlhBy1u",
+            "tracks": [
+                {
+                    "name": "Wahachitni Eyounak",
+                    "track_url": "",
+                    "duration_ms": 261184,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a4762b839335541080aaf40e",
+                    "id": 4457,
+                    "artist": "Ahmed Saad"
+                },
+                {
+                    "name": "Ya khsarah",
+                    "track_url": "",
+                    "duration_ms": 272310,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a4762b839335541080aaf40e",
+                    "id": 4458,
+                    "artist": "Ahmed Saad"
+                },
+                {
+                    "name": "Kifaya Kedah",
+                    "track_url": "",
+                    "duration_ms": 277617,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a4762b839335541080aaf40e",
+                    "id": 4459,
+                    "artist": "Ahmed Saad"
+                },
+                {
+                    "name": "Ananiya",
+                    "track_url": "",
+                    "duration_ms": 212613,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a4762b839335541080aaf40e",
+                    "id": 4460,
+                    "artist": "Ahmed Saad"
+                },
+                {
+                    "name": "Aalemni El Hob",
+                    "track_url": "",
+                    "duration_ms": 207079,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a4762b839335541080aaf40e",
+                    "id": 4461,
+                    "artist": "Ahmed Saad"
+                },
+                {
+                    "name": "Kolli Leila",
+                    "track_url": "",
+                    "duration_ms": 253321,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a4762b839335541080aaf40e",
+                    "id": 4462,
+                    "artist": "Ahmed Saad"
+                },
+                {
+                    "name": "Hob Galbi",
+                    "track_url": "",
+                    "duration_ms": 260562,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a4762b839335541080aaf40e",
+                    "id": 4463,
+                    "artist": "Ahmed Saad"
+                },
+                {
+                    "name": "El Naharda Zay Bokra",
+                    "track_url": "",
+                    "duration_ms": 285605,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a4762b839335541080aaf40e",
+                    "id": 4464,
+                    "artist": "Ahmed Saad"
+                },
+                {
+                    "name": "Amanah Ya Habibi",
+                    "track_url": "",
+                    "duration_ms": 205472,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a4762b839335541080aaf40e",
+                    "id": 4465,
+                    "artist": "Ahmed Saad"
+                },
+                {
+                    "name": "Baed Elli Ma Benna",
+                    "track_url": "",
+                    "duration_ms": 306922,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a4762b839335541080aaf40e",
+                    "id": 4466,
+                    "artist": "Ahmed Saad"
+                },
+                {
+                    "name": "Fein",
+                    "track_url": "",
+                    "duration_ms": 220706,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a4762b839335541080aaf40e",
+                    "id": 4467,
+                    "artist": "Ahmed Saad"
+                },
+                {
+                    "name": "Jarahona",
+                    "track_url": "",
+                    "duration_ms": 207058,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a4762b839335541080aaf40e",
+                    "id": 4468,
+                    "artist": "Ahmed Saad"
+                }
+            ],
+            "id": 4456
+        }
+    ],
+    "singles": [
+        {
+            "name": "Ekhtayaraty (Steve Aoki MDLBEAST Remix)",
+            "release_date": "2024-12-12",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733ea6394eed74bff9c30062c7",
+            "track_url": "",
+            "id": 4469,
+            "artist": "Ahmed Saad"
+        },
+        {
+            "name": "Gary El Bahs",
+            "release_date": "2024-12-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ea53e2731f8e4699f2359e4d",
+            "track_url": "",
+            "id": 4470,
+            "artist": "Ahmed Saad"
+        },
+        {
+            "name": "اعلان اورنچ - الكبير كبير مع أحمد سعد",
+            "release_date": "2024-12-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27312b194226cf2c062b854b452",
+            "track_url": "",
+            "id": 4471,
+            "artist": "Ahmed Saad"
+        },
+        {
+            "name": "Wasa3 Wasa3 (AFROJACK MDLBEAST Remix)",
+            "release_date": "2024-09-17",
+            "image": "https://i.scdn.co/image/ab67616d0000b27329ce1edbff33d80cf78aaddd",
+            "track_url": "",
+            "id": 4472,
+            "artist": "Ahmed Saad"
+        },
+        {
+            "name": "Kabarto El Mawdo3 From Deebo Series",
+            "release_date": "2024-09-14",
+            "image": "https://i.scdn.co/image/ab67616d0000b27317ff35d58fc0e9dc25012224",
+            "track_url": "",
+            "id": 4473,
+            "artist": "Ahmed Saad"
+        },
+        {
+            "name": "Borg El Rawaan Men Bernameg Beit El Saad",
+            "release_date": "2024-09-12",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737e4ee63fcd3c6eda2fae3a14",
+            "track_url": "",
+            "id": 4474,
+            "artist": "Ahmed Saad"
+        },
+        {
+            "name": "Bent Nas",
+            "release_date": "2024-08-29",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736bca90391406aab00b889b98",
+            "track_url": "",
+            "id": 4475,
+            "artist": "Ahmed Saad"
+        },
+        {
+            "name": "Hatganen Meno Men Bernameg Beit El Saad",
+            "release_date": "2024-08-22",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735ac3bf65b9098d9578fb434f",
+            "track_url": "",
+            "id": 4476,
+            "artist": "Ahmed Saad"
+        },
+        {
+            "name": "الحساب",
+            "release_date": "2024-08-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e77f161be665083f280d33aa",
+            "track_url": "",
+            "id": 4477,
+            "artist": "Ahmed Saad"
+        },
+        {
+            "name": "Regala Men Bernameg Beit El Saad",
+            "release_date": "2024-08-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ba2782d87efa7aa4cc7cc716",
+            "track_url": "",
+            "id": 4478,
+            "artist": "Ahmed Saad"
+        },
+        {
+            "name": "123",
+            "release_date": "2024-08-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730c60706cafbde22ed1c445cc",
+            "track_url": "",
+            "id": 4479,
+            "artist": "Ahmed Saad"
+        },
+        {
+            "name": "Saudi w Asmar",
+            "release_date": "2024-07-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736fc20d8fbbcba152c44f0d3b",
+            "track_url": "",
+            "id": 4480,
+            "artist": "Ahmed Saad"
+        },
+        {
+            "name": "Naghza",
+            "release_date": "2024-07-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b273637c2648b5ab4e786cb0b181",
+            "track_url": "",
+            "id": 4481,
+            "artist": "Ahmed Saad"
+        },
+        {
+            "name": "اعلان اورنچ \"دايماً معاك\" أحمد عز - غناء أحمد سعد",
+            "release_date": "2024-07-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b27321633d26508867de3df6d6ba",
+            "track_url": "",
+            "id": 4482,
+            "artist": "Ahmed Saad"
+        },
+        {
+            "name": "Hamshy Bye Bye Bernameg Beit El Saad",
+            "release_date": "2024-07-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d2511c48d157d06c362d1e81",
+            "track_url": "",
+            "id": 4483,
+            "artist": "Ahmed Saad"
+        },
+        {
+            "name": "Hazy Men El Sama Men Bernameg Beit El Saad",
+            "release_date": "2024-07-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b273150be23d426f56ad79c03809",
+            "track_url": "",
+            "id": 4484,
+            "artist": "Ahmed Saad"
+        },
+        {
+            "name": "Ah Wala La2 Men Bernameg Bet El Saad",
+            "release_date": "2024-07-03",
+            "image": "https://i.scdn.co/image/ab67616d0000b27333d663b85e851757e3bae28a",
+            "track_url": "",
+            "id": 4485,
+            "artist": "Ahmed Saad"
+        },
+        {
+            "name": "El Kemya Rakba Men Bernameg Beit El Saad",
+            "release_date": "2024-06-26",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730461627cf852211941920e0d",
+            "track_url": "",
+            "id": 4486,
+            "artist": "Ahmed Saad"
+        },
+        {
+            "name": "مغطي عالكل (اورنچ - احمد سعد)",
+            "release_date": "2024-05-13",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732c5248df5cc18acbc7560a43",
+            "track_url": "",
+            "id": 4487,
+            "artist": "Ahmed Saad"
+        },
+        {
+            "name": "Mabrok Ya Ebn El Mahzoza",
+            "release_date": "2024-04-12",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b13b5e6adccc28404a0483c2",
+            "track_url": "",
+            "id": 4488,
+            "artist": "Ahmed Saad"
+        },
+        {
+            "name": "Malnash Gher Ba3dna",
+            "release_date": "2024-03-27",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c90675b03616bab2b7618bd2",
+            "track_url": "",
+            "id": 4489,
+            "artist": "Ahmed Saad"
+        },
+        {
+            "name": "عاش",
+            "release_date": "2024-03-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735e4b1fc59acf1f4030bbbcf6",
+            "track_url": "",
+            "id": 4490,
+            "artist": "Ahmed Saad"
+        },
+        {
+            "name": "Ya Mawlana",
+            "release_date": "2024-03-06",
+            "image": "https://i.scdn.co/image/ab67616d0000b27375c244e6309ebd4ba17af205",
+            "track_url": "",
+            "id": 4491,
+            "artist": "Ahmed Saad"
+        },
+        {
+            "name": "Wasa3 Wasa3 (Jalsat Billboard Arabia)",
+            "release_date": "2024-02-29",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734db724bd8c19f7ae6c0c1a9d",
+            "track_url": "",
+            "id": 4492,
+            "artist": "Ahmed Saad"
+        },
+        {
+            "name": "Aleky Eyoun (Jalsat Billboard Arabia)",
+            "release_date": "2024-02-29",
+            "image": "https://i.scdn.co/image/ab67616d0000b27311ccfbeb3e933c3f658fda7a",
+            "track_url": "",
+            "id": 4493,
+            "artist": "Ahmed Saad"
+        },
+        {
+            "name": "Ekhtayaraty (Jalsat Billboard Arabia, Remix)",
+            "release_date": "2024-02-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b273eecf16f711a2a992f1f4d2a4",
+            "track_url": "",
+            "id": 4494,
+            "artist": "Ahmed Saad"
+        },
+        {
+            "name": "Sabb Farhety",
+            "release_date": "2024-02-14",
+            "image": "https://i.scdn.co/image/ab67616d0000b27337c6a3bef2da4144d7ae8dfb",
+            "track_url": "",
+            "id": 4495,
+            "artist": "Ahmed Saad"
+        },
+        {
+            "name": "Ba3tzrlek",
+            "release_date": "2024-01-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b273020a5465922ee0971521ee06",
+            "track_url": "",
+            "id": 4496,
+            "artist": "Ahmed Saad"
+        },
+        {
+            "name": "بفضل الله",
+            "release_date": "2024-01-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b27325302e60f50a13dcfc978ce7",
+            "track_url": "",
+            "id": 4497,
+            "artist": "Ahmed Saad"
+        },
+        {
+            "name": "Keda La2",
+            "release_date": "2023-12-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b273cb2acf49c99f15266bb5a3ca",
+            "track_url": "",
+            "id": 4498,
+            "artist": "Ahmed Saad"
+        },
+        {
+            "name": "Kolo Falso",
+            "release_date": "2023-12-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738c98e3f6a6e43b744e278961",
+            "track_url": "",
+            "id": 4499,
+            "artist": "Ahmed Saad"
+        },
+        {
+            "name": "عاشق العيون",
+            "release_date": "2023-12-17",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e1e918c3e0cb05c69bf75ee9",
+            "track_url": "",
+            "id": 4500,
+            "artist": "Ahmed Saad"
+        },
+        {
+            "name": "أنت مين",
+            "release_date": "2023-12-17",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734dedfd372372e9baf5130a32",
+            "track_url": "",
+            "id": 4501,
+            "artist": "Ahmed Saad"
+        },
+        {
+            "name": "لعبة الايام",
+            "release_date": "2023-11-29",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734b227a7c3cc0bbc8891b6395",
+            "track_url": "",
+            "id": 4502,
+            "artist": "Ahmed Saad"
+        },
+        {
+            "name": "Ghosn Al Zaytoon",
+            "release_date": "2023-10-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734d06baec1e4b77ea5e127881",
+            "track_url": "",
+            "id": 4503,
+            "artist": "Ahmed Saad"
+        },
+        {
+            "name": "الراية المرفوعة",
+            "release_date": "2023-10-02",
+            "image": "https://i.scdn.co/image/ab67616d0000b273db93ab2a0f90f3dbbc82db7b",
+            "track_url": "",
+            "id": 4504,
+            "artist": "Ahmed Saad"
+        },
+        {
+            "name": "Alb Safi",
+            "release_date": "2023-09-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a42b91a83a373418cceebfb6",
+            "track_url": "",
+            "id": 4505,
+            "artist": "Ahmed Saad"
+        },
+        {
+            "name": "El Youm El Helw Dah (AFROJACK MDLBEAST Remix)",
+            "release_date": "2023-08-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b27317cdd99b0bae6320c0e5234c",
+            "track_url": "",
+            "id": 4506,
+            "artist": "Ahmed Saad"
+        },
+        {
+            "name": "Deb Deb",
+            "release_date": "2023-08-16",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732df8fe7d0bcf5be17d6d035e",
+            "track_url": "",
+            "id": 4507,
+            "artist": "Ahmed Saad"
+        },
+        {
+            "name": "Hala beek ya medala3",
+            "release_date": "2023-08-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b273cee6a9c23e58635a1b70b20b",
+            "track_url": "",
+            "id": 4508,
+            "artist": "Ahmed Saad"
+        },
+        {
+            "name": "Ya 3araf X Favor (Coke Studio Africa 2023)",
+            "release_date": "2023-07-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b27325115ae1aa5d202f059d7315",
+            "track_url": "",
+            "id": 4509,
+            "artist": "Ahmed Saad"
+        },
+        {
+            "name": "Ya Layaly",
+            "release_date": "2023-07-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b273dbdf708a2eb203816ed14c6d",
+            "track_url": "",
+            "id": 4510,
+            "artist": "Ahmed Saad"
+        },
+        {
+            "name": "Rayaa Awi (Orange Ad)",
+            "release_date": "2023-07-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b27390ff54f2ff5d4891d34f01ec",
+            "track_url": "",
+            "id": 4511,
+            "artist": "Ahmed Saad"
+        },
+        {
+            "name": "El Feloos ( Money Fellows Ad )",
+            "release_date": "2023-06-27",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d0d1964187355bd9a35997d2",
+            "track_url": "",
+            "id": 4512,
+            "artist": "Ahmed Saad"
+        },
+        {
+            "name": "اختياراتي (من فيلم مستر إكس)",
+            "release_date": "2023-06-20",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738e3c396b21cd37028727ccd4",
+            "track_url": "",
+            "id": 4513,
+            "artist": "Ahmed Saad"
+        },
+        {
+            "name": "Fou2 W Et3lem",
+            "release_date": "2023-04-29",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733133b9223ae46e8976d18ae0",
+            "track_url": "",
+            "id": 4514,
+            "artist": "Ahmed Saad"
+        },
+        {
+            "name": "Mansethosh Men Mosalsal El Aghar",
+            "release_date": "2023-04-17",
+            "image": "https://i.scdn.co/image/ab67616d0000b27329325bf46796636c76f3506a",
+            "track_url": "",
+            "id": 4515,
+            "artist": "Ahmed Saad"
+        },
+        {
+            "name": "واحشني نفسي (تتر بدايه مسلسل جعفر العمده)",
+            "release_date": "2023-04-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ace9263667291fb42f6ab165",
+            "track_url": "",
+            "id": 4516,
+            "artist": "Ahmed Saad"
+        },
+        {
+            "name": "Ketfy Fi Ketfak",
+            "release_date": "2023-03-16",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c1d02ed59528d1ae1927adb2",
+            "track_url": "",
+            "id": 4517,
+            "artist": "Ahmed Saad"
+        },
+        {
+            "name": "Ana Qader From Gafar El Omda Series",
+            "release_date": "2023-03-12",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737922fe9545edff4d4c0f9829",
+            "track_url": "",
+            "id": 4518,
+            "artist": "Ahmed Saad"
+        }
+    ],
+    "popular_tracks": [
+        {
+            "name": "اختياراتي - من فيلم مستر إكس",
+            "track_url": "",
+            "duration_ms": 170000,
+            "image": "https://i.scdn.co/image/ab67616d0000b2738e3c396b21cd37028727ccd4",
+            "id": 4519,
+            "artist": "Ahmed Saad"
+        },
+        {
+            "name": "اليوم الحلو ده",
+            "track_url": "",
+            "duration_ms": 172232,
+            "image": "https://i.scdn.co/image/ab67616d0000b273154d41ef2f1c03ec0d2bec74",
+            "id": 4520,
+            "artist": "Ahmed Saad"
+        },
+        {
+            "name": "Ya Layaly",
+            "track_url": "",
+            "duration_ms": 190714,
+            "image": "https://i.scdn.co/image/ab67616d0000b273dbdf708a2eb203816ed14c6d",
+            "id": 4521,
+            "artist": "Ahmed Saad"
+        },
+        {
+            "name": "واحشني نفسي - تتر بدايه مسلسل جعفر العمده",
+            "track_url": "",
+            "duration_ms": 231130,
+            "image": "https://i.scdn.co/image/ab67616d0000b273ace9263667291fb42f6ab165",
+            "id": 4522,
+            "artist": "Ahmed Saad"
+        },
+        {
+            "name": "سبب فرحتي",
+            "track_url": "",
+            "duration_ms": 302365,
+            "image": "https://i.scdn.co/image/ab67616d0000b273ffb82d843cb394d78f55f270",
+            "id": 4523,
+            "artist": "Ahmed Saad"
+        },
+        {
+            "name": "Kolo Falso",
+            "track_url": "",
+            "duration_ms": 178088,
+            "image": "https://i.scdn.co/image/ab67616d0000b2738c98e3f6a6e43b744e278961",
+            "id": 4524,
+            "artist": "Ahmed Saad"
+        },
+        {
+            "name": "Wasa3 Wasa3",
+            "track_url": "",
+            "duration_ms": 238248,
+            "image": "https://i.scdn.co/image/ab67616d0000b27348752247a8292e74197edfe5",
+            "id": 4525,
+            "artist": "Ahmed Saad"
+        },
+        {
+            "name": "Aleky Eyoun",
+            "track_url": "",
+            "duration_ms": 209851,
+            "image": "https://i.scdn.co/image/ab67616d0000b273379c43b54e3422d60bcc4c98",
+            "id": 4526,
+            "artist": "Ahmed Saad"
+        },
+        {
+            "name": "Ader Akmel",
+            "track_url": "",
+            "duration_ms": 253384,
+            "image": "https://i.scdn.co/image/ab67616d0000b27308e552ba2c5414b3e36861b0",
+            "id": 4527,
+            "artist": "Ahmed Saad"
+        },
+        {
+            "name": "Ya 3araf",
+            "track_url": "",
+            "duration_ms": 280000,
+            "image": "https://i.scdn.co/image/ab67616d0000b27323a5d240a11645fe004fe736",
+            "id": 4528,
+            "artist": "Ahmed Saad"
+        }
+    ]
+}

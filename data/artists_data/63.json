@@ -1,0 +1,2429 @@
+{
+    "artist": {
+        "id": "8478",
+        "name": "Wael Jassar",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb3b1d143f808198419fac2e90",
+        "background_image": "https://i.scdn.co/image/ab676161000051743b1d143f808198419fac2e90"
+    },
+    "albums": [
+        {
+            "name": "أروع أغاني وائل جسار",
+            "release_date": "2023-06-20",
+            "image": "https://i.scdn.co/image/ab67616d0000b273bd90cccfb6b61ffeb71f3747",
+            "track_url": "https://open.spotify.com/album/6DlHkfNzY571mSZWjwloKE",
+            "tracks": [
+                {
+                    "name": "Maiel Ya Ghezayel - Live",
+                    "track_url": "",
+                    "duration_ms": 223880,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bd90cccfb6b61ffeb71f3747",
+                    "id": 8480,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Lachou Nizaal",
+                    "track_url": "",
+                    "duration_ms": 248750,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bd90cccfb6b61ffeb71f3747",
+                    "id": 8481,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Sari Sara Alail",
+                    "track_url": "",
+                    "duration_ms": 120253,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bd90cccfb6b61ffeb71f3747",
+                    "id": 8482,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Dakhl Oyonak Hakeena - Live",
+                    "track_url": "",
+                    "duration_ms": 212560,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bd90cccfb6b61ffeb71f3747",
+                    "id": 8483,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Wehyatak Ya Habibi - Live",
+                    "track_url": "",
+                    "duration_ms": 546466,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bd90cccfb6b61ffeb71f3747",
+                    "id": 8484,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Esal Alia Al Lail - Live",
+                    "track_url": "",
+                    "duration_ms": 329280,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bd90cccfb6b61ffeb71f3747",
+                    "id": 8485,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Hawel Ya Ghanam - Live",
+                    "track_url": "",
+                    "duration_ms": 188240,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bd90cccfb6b61ffeb71f3747",
+                    "id": 8486,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Betrohlak Meshwar - Live",
+                    "track_url": "",
+                    "duration_ms": 268546,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bd90cccfb6b61ffeb71f3747",
+                    "id": 8487,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Ya Gar Al-Redah - Live",
+                    "track_url": "",
+                    "duration_ms": 213973,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bd90cccfb6b61ffeb71f3747",
+                    "id": 8488,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Eshtaqna Kateer - Live",
+                    "track_url": "",
+                    "duration_ms": 174613,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bd90cccfb6b61ffeb71f3747",
+                    "id": 8489,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Hali Ani - Live",
+                    "track_url": "",
+                    "duration_ms": 277426,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bd90cccfb6b61ffeb71f3747",
+                    "id": 8490,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Ahlan Wasahlan - Live",
+                    "track_url": "",
+                    "duration_ms": 119253,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bd90cccfb6b61ffeb71f3747",
+                    "id": 8491,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Alwan Lebnaniah - Live",
+                    "track_url": "",
+                    "duration_ms": 165333,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bd90cccfb6b61ffeb71f3747",
+                    "id": 8492,
+                    "artist": "Wael Jassar"
+                }
+            ],
+            "id": 8479
+        },
+        {
+            "name": "Wael Jassar",
+            "release_date": "2021-09-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730123d4dab465984b8563014d",
+            "track_url": "https://open.spotify.com/album/0ewDGjDWVCSVjcUf10iUZy",
+            "tracks": [
+                {
+                    "name": "Ghariba el Nas",
+                    "track_url": "",
+                    "duration_ms": 310512,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730123d4dab465984b8563014d",
+                    "id": 8494,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Agmal Houb",
+                    "track_url": "",
+                    "duration_ms": 250344,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730123d4dab465984b8563014d",
+                    "id": 8495,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Akhaf Katheer",
+                    "track_url": "",
+                    "duration_ms": 285984,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730123d4dab465984b8563014d",
+                    "id": 8496,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Ana el Helm",
+                    "track_url": "",
+                    "duration_ms": 254255,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730123d4dab465984b8563014d",
+                    "id": 8497,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Aw Edak",
+                    "track_url": "",
+                    "duration_ms": 577704,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730123d4dab465984b8563014d",
+                    "id": 8498,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Bet2ely B7ebek",
+                    "track_url": "",
+                    "duration_ms": 247488,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730123d4dab465984b8563014d",
+                    "id": 8499,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Betew7ashini",
+                    "track_url": "",
+                    "duration_ms": 325320,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730123d4dab465984b8563014d",
+                    "id": 8500,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Betlabak",
+                    "track_url": "",
+                    "duration_ms": 259608,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730123d4dab465984b8563014d",
+                    "id": 8501,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "El Hekaya",
+                    "track_url": "",
+                    "duration_ms": 239688,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730123d4dab465984b8563014d",
+                    "id": 8502,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Fe Hadret el Mahboub",
+                    "track_url": "",
+                    "duration_ms": 174888,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730123d4dab465984b8563014d",
+                    "id": 8503,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Fe Khatwetek Seketei",
+                    "track_url": "",
+                    "duration_ms": 296688,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730123d4dab465984b8563014d",
+                    "id": 8504,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "3ady Lama A3eesh",
+                    "track_url": "",
+                    "duration_ms": 261888,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730123d4dab465984b8563014d",
+                    "id": 8505,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Jbal Ma Byetla2o",
+                    "track_url": "",
+                    "duration_ms": 268584,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730123d4dab465984b8563014d",
+                    "id": 8506,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Khaleni Zekra",
+                    "track_url": "",
+                    "duration_ms": 254808,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730123d4dab465984b8563014d",
+                    "id": 8507,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Khudine M3ake Mshwarek",
+                    "track_url": "",
+                    "duration_ms": 242424,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730123d4dab465984b8563014d",
+                    "id": 8508,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Lel Asf Ben7eb Ba3d",
+                    "track_url": "",
+                    "duration_ms": 199295,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730123d4dab465984b8563014d",
+                    "id": 8509,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Ma Tghebchi Thawan",
+                    "track_url": "",
+                    "duration_ms": 331008,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730123d4dab465984b8563014d",
+                    "id": 8510,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Mahma Toulou",
+                    "track_url": "",
+                    "duration_ms": 243480,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730123d4dab465984b8563014d",
+                    "id": 8511,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Matez3alsh Meni",
+                    "track_url": "",
+                    "duration_ms": 221495,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730123d4dab465984b8563014d",
+                    "id": 8512,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Mawjou3",
+                    "track_url": "",
+                    "duration_ms": 272688,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730123d4dab465984b8563014d",
+                    "id": 8513,
+                    "artist": "Wael Jassar"
+                }
+            ],
+            "id": 8493
+        },
+        {
+            "name": "Sabrak Ya Albi",
+            "release_date": "2017-07-26",
+            "image": "https://i.scdn.co/image/ab67616d0000b273176fbf635c25619c8010b988",
+            "track_url": "https://open.spotify.com/album/1WNCoQb43G2fiM2xEDsyWa",
+            "tracks": [
+                {
+                    "name": "Sabrak Ya Albi",
+                    "track_url": "",
+                    "duration_ms": 392133,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273176fbf635c25619c8010b988",
+                    "id": 8515,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Khadt EL Galb",
+                    "track_url": "",
+                    "duration_ms": 248973,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273176fbf635c25619c8010b988",
+                    "id": 8516,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Waffar Aleyk",
+                    "track_url": "",
+                    "duration_ms": 329826,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273176fbf635c25619c8010b988",
+                    "id": 8517,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Algheit El Hobb",
+                    "track_url": "",
+                    "duration_ms": 333120,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273176fbf635c25619c8010b988",
+                    "id": 8518,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Khousara",
+                    "track_url": "",
+                    "duration_ms": 288853,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273176fbf635c25619c8010b988",
+                    "id": 8519,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Rod El Gimil",
+                    "track_url": "",
+                    "duration_ms": 342040,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273176fbf635c25619c8010b988",
+                    "id": 8520,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Yalla Nghanni",
+                    "track_url": "",
+                    "duration_ms": 406440,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273176fbf635c25619c8010b988",
+                    "id": 8521,
+                    "artist": "Wael Jassar"
+                }
+            ],
+            "id": 8514
+        },
+        {
+            "name": "Saat Baqoul",
+            "release_date": "2017-01-05",
+            "image": "https://i.scdn.co/image/ab67616d0000b27321b54e9bd03d85431202a894",
+            "track_url": "https://open.spotify.com/album/0cW35IBGJWMhM1mQcZS9dj",
+            "tracks": [
+                {
+                    "name": "Betqolli Anssak",
+                    "track_url": "",
+                    "duration_ms": 294295,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27321b54e9bd03d85431202a894",
+                    "id": 8523,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Ihtagtili",
+                    "track_url": "",
+                    "duration_ms": 274625,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27321b54e9bd03d85431202a894",
+                    "id": 8524,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Kalam Eddonya",
+                    "track_url": "",
+                    "duration_ms": 271438,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27321b54e9bd03d85431202a894",
+                    "id": 8525,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Saat Baqoul",
+                    "track_url": "",
+                    "duration_ms": 223294,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27321b54e9bd03d85431202a894",
+                    "id": 8526,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Kol Helmo",
+                    "track_url": "",
+                    "duration_ms": 275539,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27321b54e9bd03d85431202a894",
+                    "id": 8527,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Ana Habbit",
+                    "track_url": "",
+                    "duration_ms": 199183,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27321b54e9bd03d85431202a894",
+                    "id": 8528,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "La Yhemmonak",
+                    "track_url": "",
+                    "duration_ms": 365244,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27321b54e9bd03d85431202a894",
+                    "id": 8529,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Ouyoun Ennas",
+                    "track_url": "",
+                    "duration_ms": 279327,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27321b54e9bd03d85431202a894",
+                    "id": 8530,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Wehyat Koll Ellayali",
+                    "track_url": "",
+                    "duration_ms": 268564,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27321b54e9bd03d85431202a894",
+                    "id": 8531,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Youm Zafafek",
+                    "track_url": "",
+                    "duration_ms": 266631,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27321b54e9bd03d85431202a894",
+                    "id": 8532,
+                    "artist": "Wael Jassar"
+                }
+            ],
+            "id": 8522
+        },
+        {
+            "name": "Farfasha (Live)",
+            "release_date": "2015-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737ae89846539ca2be929a70f1",
+            "track_url": "https://open.spotify.com/album/3h5ZquWtaqkQgSyPUKNaJ5",
+            "tracks": [
+                {
+                    "name": "Batalet Soum Wsalli - Live",
+                    "track_url": "",
+                    "duration_ms": 152066,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737ae89846539ca2be929a70f1",
+                    "id": 8534,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Habaytak Ta Nsit Noum - Live",
+                    "track_url": "",
+                    "duration_ms": 144193,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737ae89846539ca2be929a70f1",
+                    "id": 8535,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Helef L2amar - Live",
+                    "track_url": "",
+                    "duration_ms": 175136,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737ae89846539ca2be929a70f1",
+                    "id": 8536,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Sa2alouh - Live",
+                    "track_url": "",
+                    "duration_ms": 108186,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737ae89846539ca2be929a70f1",
+                    "id": 8537,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "3Omri Kellou - Live",
+                    "track_url": "",
+                    "duration_ms": 75186,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737ae89846539ca2be929a70f1",
+                    "id": 8538,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Mijana Ahlan Wa Sahlan - Live",
+                    "track_url": "",
+                    "duration_ms": 203082,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737ae89846539ca2be929a70f1",
+                    "id": 8539,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Hawa Ya Hawa - Live",
+                    "track_url": "",
+                    "duration_ms": 333510,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737ae89846539ca2be929a70f1",
+                    "id": 8540,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Wahashteni - Live",
+                    "track_url": "",
+                    "duration_ms": 433654,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737ae89846539ca2be929a70f1",
+                    "id": 8541,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Wehyatak Ya Habibi - Live",
+                    "track_url": "",
+                    "duration_ms": 338486,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737ae89846539ca2be929a70f1",
+                    "id": 8542,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Sawwah - Live",
+                    "track_url": "",
+                    "duration_ms": 602136,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737ae89846539ca2be929a70f1",
+                    "id": 8543,
+                    "artist": "Wael Jassar"
+                }
+            ],
+            "id": 8533
+        },
+        {
+            "name": "Omry Wzekrayatoh",
+            "release_date": "2015",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f808da0aa522a31fe770cd90",
+            "track_url": "https://open.spotify.com/album/2relDIBiXiNOFAnQmdFoQt",
+            "tracks": [
+                {
+                    "name": "ظروف معنداني",
+                    "track_url": "",
+                    "duration_ms": 245818,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f808da0aa522a31fe770cd90",
+                    "id": 8545,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "El Nehaya Wahda",
+                    "track_url": "",
+                    "duration_ms": 253046,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f808da0aa522a31fe770cd90",
+                    "id": 8546,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Entabeh Ala Halak",
+                    "track_url": "",
+                    "duration_ms": 242702,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f808da0aa522a31fe770cd90",
+                    "id": 8547,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Betelly Bahebak",
+                    "track_url": "",
+                    "duration_ms": 247618,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f808da0aa522a31fe770cd90",
+                    "id": 8548,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Ana Elhelm",
+                    "track_url": "",
+                    "duration_ms": 254332,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f808da0aa522a31fe770cd90",
+                    "id": 8549,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Baadak Bethebo",
+                    "track_url": "",
+                    "duration_ms": 279282,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f808da0aa522a31fe770cd90",
+                    "id": 8550,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Agmal Hob",
+                    "track_url": "",
+                    "duration_ms": 254328,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f808da0aa522a31fe770cd90",
+                    "id": 8551,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Aam Shouf Khialat",
+                    "track_url": "",
+                    "duration_ms": 282916,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f808da0aa522a31fe770cd90",
+                    "id": 8552,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Omry Wzekrayatoh",
+                    "track_url": "",
+                    "duration_ms": 284266,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f808da0aa522a31fe770cd90",
+                    "id": 8553,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Matzaalshy Miny",
+                    "track_url": "",
+                    "duration_ms": 225576,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f808da0aa522a31fe770cd90",
+                    "id": 8554,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Aady Lama Aeyesh",
+                    "track_url": "",
+                    "duration_ms": 261994,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f808da0aa522a31fe770cd90",
+                    "id": 8555,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Akhaf Kter",
+                    "track_url": "",
+                    "duration_ms": 286046,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f808da0aa522a31fe770cd90",
+                    "id": 8556,
+                    "artist": "Wael Jassar"
+                }
+            ],
+            "id": 8544
+        },
+        {
+            "name": "Fi Hadret El Mahboub",
+            "release_date": "2014-12-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c38363d6728ade80a78c646d",
+            "track_url": "https://open.spotify.com/album/5EeAXK7tndowALpbigyTQy",
+            "tracks": [
+                {
+                    "name": "El Nabi Farhan",
+                    "track_url": "",
+                    "duration_ms": 209397,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c38363d6728ade80a78c646d",
+                    "id": 8558,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Sagad Lamma Twalad",
+                    "track_url": "",
+                    "duration_ms": 176953,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c38363d6728ade80a78c646d",
+                    "id": 8559,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Ya Rab El Arsh",
+                    "track_url": "",
+                    "duration_ms": 195526,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c38363d6728ade80a78c646d",
+                    "id": 8560,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Al Rasoul Aal Lil Yamam",
+                    "track_url": "",
+                    "duration_ms": 234031,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c38363d6728ade80a78c646d",
+                    "id": 8561,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Ya Gabal Ouhod",
+                    "track_url": "",
+                    "duration_ms": 257906,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c38363d6728ade80a78c646d",
+                    "id": 8562,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Aal El Naby 535489976",
+                    "track_url": "",
+                    "duration_ms": 231575,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c38363d6728ade80a78c646d",
+                    "id": 8563,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Aal El Naby",
+                    "track_url": "",
+                    "duration_ms": 231575,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c38363d6728ade80a78c646d",
+                    "id": 8564,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Allah Wahdo",
+                    "track_url": "",
+                    "duration_ms": 257175,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c38363d6728ade80a78c646d",
+                    "id": 8565,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Yashky El Gamal",
+                    "track_url": "",
+                    "duration_ms": 186853,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c38363d6728ade80a78c646d",
+                    "id": 8566,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Allah Yarmi",
+                    "track_url": "",
+                    "duration_ms": 237009,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c38363d6728ade80a78c646d",
+                    "id": 8567,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Kaff Kheshna",
+                    "track_url": "",
+                    "duration_ms": 207281,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c38363d6728ade80a78c646d",
+                    "id": 8568,
+                    "artist": "Wael Jassar"
+                }
+            ],
+            "id": 8557
+        },
+        {
+            "name": "Fi Hadret Al Mahboob, Vol. 2",
+            "release_date": "2013",
+            "image": "https://i.scdn.co/image/ab67616d0000b27385603ca51cee6f7f1ffcdb44",
+            "track_url": "https://open.spotify.com/album/7Idi7lu0NK9Ia3FQECVlxG",
+            "tracks": [
+                {
+                    "name": "Sajad Lama Twalad",
+                    "track_url": "",
+                    "duration_ms": 176836,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27385603ca51cee6f7f1ffcdb44",
+                    "id": 8570,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "El Rassoul Aal Lel Yamam",
+                    "track_url": "",
+                    "duration_ms": 233944,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27385603ca51cee6f7f1ffcdb44",
+                    "id": 8571,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Allah Wahdou",
+                    "track_url": "",
+                    "duration_ms": 257078,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27385603ca51cee6f7f1ffcdb44",
+                    "id": 8572,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Aal El Nabi",
+                    "track_url": "",
+                    "duration_ms": 231468,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27385603ca51cee6f7f1ffcdb44",
+                    "id": 8573,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Kaf Kheshna",
+                    "track_url": "",
+                    "duration_ms": 207194,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27385603ca51cee6f7f1ffcdb44",
+                    "id": 8574,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Allah Yarmi",
+                    "track_url": "",
+                    "duration_ms": 236922,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27385603ca51cee6f7f1ffcdb44",
+                    "id": 8575,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Yashki El Jamal",
+                    "track_url": "",
+                    "duration_ms": 187279,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27385603ca51cee6f7f1ffcdb44",
+                    "id": 8576,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Jabal Ahad",
+                    "track_url": "",
+                    "duration_ms": 257800,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27385603ca51cee6f7f1ffcdb44",
+                    "id": 8577,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "El Nabi Farhan",
+                    "track_url": "",
+                    "duration_ms": 209270,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27385603ca51cee6f7f1ffcdb44",
+                    "id": 8578,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Ya Rab Elaarsh",
+                    "track_url": "",
+                    "duration_ms": 195409,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27385603ca51cee6f7f1ffcdb44",
+                    "id": 8579,
+                    "artist": "Wael Jassar"
+                }
+            ],
+            "id": 8569
+        },
+        {
+            "name": "Men Layali Al Tarab (Live)",
+            "release_date": "2012-06-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738be1f20872858d0f18c6bba2",
+            "track_url": "https://open.spotify.com/album/1N78TV91x7AVWnkNTCxk5Z",
+            "tracks": [
+                {
+                    "name": "Samra Ya Samra - Live",
+                    "track_url": "",
+                    "duration_ms": 361160,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738be1f20872858d0f18c6bba2",
+                    "id": 8581,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Ana Mali - Live",
+                    "track_url": "",
+                    "duration_ms": 344480,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738be1f20872858d0f18c6bba2",
+                    "id": 8582,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Leilet Mbareh - Live",
+                    "track_url": "",
+                    "duration_ms": 457893,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738be1f20872858d0f18c6bba2",
+                    "id": 8583,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Ahlan Wasahlan - Live",
+                    "track_url": "",
+                    "duration_ms": 105866,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738be1f20872858d0f18c6bba2",
+                    "id": 8584,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Ataba Ya Albi - Live",
+                    "track_url": "",
+                    "duration_ms": 105266,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738be1f20872858d0f18c6bba2",
+                    "id": 8585,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "3layki Mushtak - Live",
+                    "track_url": "",
+                    "duration_ms": 248600,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738be1f20872858d0f18c6bba2",
+                    "id": 8586,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Nassam Alayna Lhawa - Live",
+                    "track_url": "",
+                    "duration_ms": 125053,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738be1f20872858d0f18c6bba2",
+                    "id": 8587,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Zay Lhawa - Live",
+                    "track_url": "",
+                    "duration_ms": 275986,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738be1f20872858d0f18c6bba2",
+                    "id": 8588,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Az Lhabayeb - Live",
+                    "track_url": "",
+                    "duration_ms": 239533,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738be1f20872858d0f18c6bba2",
+                    "id": 8589,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Enta Min - Live",
+                    "track_url": "",
+                    "duration_ms": 302320,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738be1f20872858d0f18c6bba2",
+                    "id": 8590,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Ba3ed 3anak - Live",
+                    "track_url": "",
+                    "duration_ms": 492693,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738be1f20872858d0f18c6bba2",
+                    "id": 8591,
+                    "artist": "Wael Jassar"
+                }
+            ],
+            "id": 8580
+        },
+        {
+            "name": "Amarou El Habayeb",
+            "release_date": "2012-05-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b273be21886297dec34bfc6247b9",
+            "track_url": "https://open.spotify.com/album/0dCPNFDDqiwAgvUOyOtome",
+            "tracks": [
+                {
+                    "name": "Aradiki",
+                    "track_url": "",
+                    "duration_ms": 289893,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273be21886297dec34bfc6247b9",
+                    "id": 8593,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Intaha El Hob",
+                    "track_url": "",
+                    "duration_ms": 317106,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273be21886297dec34bfc6247b9",
+                    "id": 8594,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Amarou El Habayeb",
+                    "track_url": "",
+                    "duration_ms": 371333,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273be21886297dec34bfc6247b9",
+                    "id": 8595,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Ya Bou Alb",
+                    "track_url": "",
+                    "duration_ms": 284866,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273be21886297dec34bfc6247b9",
+                    "id": 8596,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Arjouk",
+                    "track_url": "",
+                    "duration_ms": 323226,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273be21886297dec34bfc6247b9",
+                    "id": 8597,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "BaddI Hebbik",
+                    "track_url": "",
+                    "duration_ms": 342306,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273be21886297dec34bfc6247b9",
+                    "id": 8598,
+                    "artist": "Wael Jassar"
+                }
+            ],
+            "id": 8592
+        },
+        {
+            "name": "Seneen Odam",
+            "release_date": "2011",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e6eae1ceba57ddd3163c5a73",
+            "track_url": "https://open.spotify.com/album/7p1bmEaKntFmZyVqUxxuzO",
+            "tracks": [
+                {
+                    "name": "Nefse Atereflak",
+                    "track_url": "",
+                    "duration_ms": 269822,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e6eae1ceba57ddd3163c5a73",
+                    "id": 8600,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Ana Banseheb",
+                    "track_url": "",
+                    "duration_ms": 289575,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e6eae1ceba57ddd3163c5a73",
+                    "id": 8601,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Senen Odam",
+                    "track_url": "",
+                    "duration_ms": 281330,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e6eae1ceba57ddd3163c5a73",
+                    "id": 8602,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Ozobeya",
+                    "track_url": "",
+                    "duration_ms": 244053,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e6eae1ceba57ddd3163c5a73",
+                    "id": 8603,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Ana Betabeetee",
+                    "track_url": "",
+                    "duration_ms": 262182,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e6eae1ceba57ddd3163c5a73",
+                    "id": 8604,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Jbal Ma Byetlaoo",
+                    "track_url": "",
+                    "duration_ms": 268598,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e6eae1ceba57ddd3163c5a73",
+                    "id": 8605,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Waya Baad",
+                    "track_url": "",
+                    "duration_ms": 297552,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e6eae1ceba57ddd3163c5a73",
+                    "id": 8606,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Hareq Damhom",
+                    "track_url": "",
+                    "duration_ms": 326984,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e6eae1ceba57ddd3163c5a73",
+                    "id": 8607,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Afrah",
+                    "track_url": "",
+                    "duration_ms": 209682,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e6eae1ceba57ddd3163c5a73",
+                    "id": 8608,
+                    "artist": "Wael Jassar"
+                }
+            ],
+            "id": 8599
+        },
+        {
+            "name": "Nabena El Zein",
+            "release_date": "2011",
+            "image": "https://i.scdn.co/image/ab67616d0000b27357969ebe9af7ad8895d35c3b",
+            "track_url": "https://open.spotify.com/album/0cyWhrWa9z4W5yRLOKcC3K",
+            "tracks": [
+                {
+                    "name": "Nabina El Zein",
+                    "track_url": "",
+                    "duration_ms": 169709,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27357969ebe9af7ad8895d35c3b",
+                    "id": 8610,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Ya Malh Darna",
+                    "track_url": "",
+                    "duration_ms": 216954,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27357969ebe9af7ad8895d35c3b",
+                    "id": 8611,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Bi Essem Allah",
+                    "track_url": "",
+                    "duration_ms": 161382,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27357969ebe9af7ad8895d35c3b",
+                    "id": 8612,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Yamamah Talat Yamamat",
+                    "track_url": "",
+                    "duration_ms": 246370,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27357969ebe9af7ad8895d35c3b",
+                    "id": 8613,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Fatah Ya Aleem",
+                    "track_url": "",
+                    "duration_ms": 255224,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27357969ebe9af7ad8895d35c3b",
+                    "id": 8614,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Wladna Etweldou Aal Fotra",
+                    "track_url": "",
+                    "duration_ms": 245283,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27357969ebe9af7ad8895d35c3b",
+                    "id": 8615,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Hadi Badi W Rabena Hadi",
+                    "track_url": "",
+                    "duration_ms": 157214,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27357969ebe9af7ad8895d35c3b",
+                    "id": 8616,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Haj Hjeij",
+                    "track_url": "",
+                    "duration_ms": 165604,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27357969ebe9af7ad8895d35c3b",
+                    "id": 8617,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Nam Ya Hamam",
+                    "track_url": "",
+                    "duration_ms": 180863,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27357969ebe9af7ad8895d35c3b",
+                    "id": 8618,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Ya Talea El Shagara",
+                    "track_url": "",
+                    "duration_ms": 109466,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27357969ebe9af7ad8895d35c3b",
+                    "id": 8619,
+                    "artist": "Wael Jassar"
+                }
+            ],
+            "id": 8609
+        },
+        {
+            "name": "Kol Deea Shakhseya",
+            "release_date": "2011",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e52226d78a4ff990caacb558",
+            "track_url": "https://open.spotify.com/album/1WMzdqwfrhScm5z0cVUwPF",
+            "tracks": [
+                {
+                    "name": "Al Fakerni",
+                    "track_url": "",
+                    "duration_ms": 189162,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e52226d78a4ff990caacb558",
+                    "id": 8621,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Fi Khatwetik Seketi",
+                    "track_url": "",
+                    "duration_ms": 332494,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e52226d78a4ff990caacb558",
+                    "id": 8622,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Fakerni Ansalak",
+                    "track_url": "",
+                    "duration_ms": 296007,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e52226d78a4ff990caacb558",
+                    "id": 8623,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Risalet Hob Marmiya",
+                    "track_url": "",
+                    "duration_ms": 277908,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e52226d78a4ff990caacb558",
+                    "id": 8624,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Men Yomo",
+                    "track_url": "",
+                    "duration_ms": 240631,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e52226d78a4ff990caacb558",
+                    "id": 8625,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Kol Dyeaa Shakhsia",
+                    "track_url": "",
+                    "duration_ms": 279080,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e52226d78a4ff990caacb558",
+                    "id": 8626,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Lama Tghib",
+                    "track_url": "",
+                    "duration_ms": 233361,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e52226d78a4ff990caacb558",
+                    "id": 8627,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Naeish El Hob",
+                    "track_url": "",
+                    "duration_ms": 235726,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e52226d78a4ff990caacb558",
+                    "id": 8628,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Min Fina El Massdoum",
+                    "track_url": "",
+                    "duration_ms": 272292,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e52226d78a4ff990caacb558",
+                    "id": 8629,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Mawgou Garh Tany",
+                    "track_url": "",
+                    "duration_ms": 277140,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e52226d78a4ff990caacb558",
+                    "id": 8630,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Khalina Zekra",
+                    "track_url": "",
+                    "duration_ms": 255589,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e52226d78a4ff990caacb558",
+                    "id": 8631,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Lel Asaf Benheb Baad",
+                    "track_url": "",
+                    "duration_ms": 202175,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e52226d78a4ff990caacb558",
+                    "id": 8632,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Khodini Maaki Meshwarek",
+                    "track_url": "",
+                    "duration_ms": 247905,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e52226d78a4ff990caacb558",
+                    "id": 8633,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Ayez Atamen Alik",
+                    "track_url": "",
+                    "duration_ms": 244075,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e52226d78a4ff990caacb558",
+                    "id": 8634,
+                    "artist": "Wael Jassar"
+                }
+            ],
+            "id": 8620
+        },
+        {
+            "name": "Jana El Hawa Live Concert",
+            "release_date": "2010-05-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b7104d9b548b2867eab08487",
+            "track_url": "https://open.spotify.com/album/4urGiu3bqdEMMVE2qY29t2",
+            "tracks": [
+                {
+                    "name": "Jana el hawa",
+                    "track_url": "",
+                    "duration_ms": 581511,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b7104d9b548b2867eab08487",
+                    "id": 8636,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "La mouch ana babki",
+                    "track_url": "",
+                    "duration_ms": 540107,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b7104d9b548b2867eab08487",
+                    "id": 8637,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Ouyoun elkalb",
+                    "track_url": "",
+                    "duration_ms": 1070680,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b7104d9b548b2867eab08487",
+                    "id": 8638,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Yana yana",
+                    "track_url": "",
+                    "duration_ms": 272248,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b7104d9b548b2867eab08487",
+                    "id": 8639,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Hawa ya hawa",
+                    "track_url": "",
+                    "duration_ms": 336117,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b7104d9b548b2867eab08487",
+                    "id": 8640,
+                    "artist": "Wael Jassar"
+                }
+            ],
+            "id": 8635
+        },
+        {
+            "name": "Fi Hadret Al Mahboob",
+            "release_date": "2010",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737a935ae1818ffcac822a1ab3",
+            "track_url": "https://open.spotify.com/album/5fsIdlEAh41isQn4vq7XIf",
+            "tracks": [
+                {
+                    "name": "Fi Hadret El Naby",
+                    "track_url": "",
+                    "duration_ms": 177107,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737a935ae1818ffcac822a1ab3",
+                    "id": 8642,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Ahl El Saada",
+                    "track_url": "",
+                    "duration_ms": 219514,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737a935ae1818ffcac822a1ab3",
+                    "id": 8643,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Fi Aam El Hozn",
+                    "track_url": "",
+                    "duration_ms": 181856,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737a935ae1818ffcac822a1ab3",
+                    "id": 8644,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "La Tahzanou",
+                    "track_url": "",
+                    "duration_ms": 139831,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737a935ae1818ffcac822a1ab3",
+                    "id": 8645,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Sayedna Omar",
+                    "track_url": "",
+                    "duration_ms": 180801,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737a935ae1818ffcac822a1ab3",
+                    "id": 8646,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Sayedna Belal",
+                    "track_url": "",
+                    "duration_ms": 201940,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737a935ae1818ffcac822a1ab3",
+                    "id": 8647,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Al Beshara",
+                    "track_url": "",
+                    "duration_ms": 198882,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737a935ae1818ffcac822a1ab3",
+                    "id": 8648,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Al Maseh Al Hanan",
+                    "track_url": "",
+                    "duration_ms": 122747,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737a935ae1818ffcac822a1ab3",
+                    "id": 8649,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Akmal Nesaa El Aalameen",
+                    "track_url": "",
+                    "duration_ms": 150802,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737a935ae1818ffcac822a1ab3",
+                    "id": 8650,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Sad Bn Muaaz",
+                    "track_url": "",
+                    "duration_ms": 128357,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737a935ae1818ffcac822a1ab3",
+                    "id": 8651,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Albak Henayen Ya Naby",
+                    "track_url": "",
+                    "duration_ms": 181235,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737a935ae1818ffcac822a1ab3",
+                    "id": 8652,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Awel Saah Fel Akherah",
+                    "track_url": "",
+                    "duration_ms": 261336,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737a935ae1818ffcac822a1ab3",
+                    "id": 8653,
+                    "artist": "Wael Jassar"
+                }
+            ],
+            "id": 8641
+        },
+        {
+            "name": "Tewedny Leih",
+            "release_date": "2008",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739ac245eeedc9b51c852bf529",
+            "track_url": "https://open.spotify.com/album/74Httxkj689OzX0tJeCxP7",
+            "tracks": [
+                {
+                    "name": "Alby Msallem",
+                    "track_url": "",
+                    "duration_ms": 269048,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739ac245eeedc9b51c852bf529",
+                    "id": 8655,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Bahebek Mesh Haoul Tany",
+                    "track_url": "",
+                    "duration_ms": 254028,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739ac245eeedc9b51c852bf529",
+                    "id": 8656,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Ban Aleik",
+                    "track_url": "",
+                    "duration_ms": 220575,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739ac245eeedc9b51c852bf529",
+                    "id": 8657,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Betewhasheiny",
+                    "track_url": "",
+                    "duration_ms": 288311,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739ac245eeedc9b51c852bf529",
+                    "id": 8658,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "El Hekaya",
+                    "track_url": "",
+                    "duration_ms": 244059,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739ac245eeedc9b51c852bf529",
+                    "id": 8659,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "El Rolit",
+                    "track_url": "",
+                    "duration_ms": 255083,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739ac245eeedc9b51c852bf529",
+                    "id": 8660,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Ghareibah El Nas",
+                    "track_url": "",
+                    "duration_ms": 264843,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739ac245eeedc9b51c852bf529",
+                    "id": 8661,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Khalleina Beid",
+                    "track_url": "",
+                    "duration_ms": 210815,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739ac245eeedc9b51c852bf529",
+                    "id": 8662,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Khod Balak",
+                    "track_url": "",
+                    "duration_ms": 204144,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739ac245eeedc9b51c852bf529",
+                    "id": 8663,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Lemeen Haeish",
+                    "track_url": "",
+                    "duration_ms": 312912,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739ac245eeedc9b51c852bf529",
+                    "id": 8664,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Mahma Toulou",
+                    "track_url": "",
+                    "duration_ms": 260203,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739ac245eeedc9b51c852bf529",
+                    "id": 8665,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Tewedny Leih",
+                    "track_url": "",
+                    "duration_ms": 304533,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739ac245eeedc9b51c852bf529",
+                    "id": 8666,
+                    "artist": "Wael Jassar"
+                }
+            ],
+            "id": 8654
+        },
+        {
+            "name": "Mshit Khalas",
+            "release_date": "2005-04-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b27392435947539fd96f87e39737",
+            "track_url": "https://open.spotify.com/album/7wRB4ezPgs9olmgZ4ll1hP",
+            "tracks": [
+                {
+                    "name": "Mshit Khalas",
+                    "track_url": "",
+                    "duration_ms": 278778,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27392435947539fd96f87e39737",
+                    "id": 8668,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Houbi El Wahid",
+                    "track_url": "",
+                    "duration_ms": 204617,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27392435947539fd96f87e39737",
+                    "id": 8669,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Anti",
+                    "track_url": "",
+                    "duration_ms": 233795,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27392435947539fd96f87e39737",
+                    "id": 8670,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Bahebak Y Aomri",
+                    "track_url": "",
+                    "duration_ms": 216502,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27392435947539fd96f87e39737",
+                    "id": 8671,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Alqalb Maak",
+                    "track_url": "",
+                    "duration_ms": 242416,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27392435947539fd96f87e39737",
+                    "id": 8672,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Alayam",
+                    "track_url": "",
+                    "duration_ms": 247066,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27392435947539fd96f87e39737",
+                    "id": 8673,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Aich Achanak",
+                    "track_url": "",
+                    "duration_ms": 280215,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27392435947539fd96f87e39737",
+                    "id": 8674,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Habbit Ya Zamane",
+                    "track_url": "",
+                    "duration_ms": 345756,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27392435947539fd96f87e39737",
+                    "id": 8675,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Raddili",
+                    "track_url": "",
+                    "duration_ms": 273319,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27392435947539fd96f87e39737",
+                    "id": 8676,
+                    "artist": "Wael Jassar"
+                }
+            ],
+            "id": 8667
+        },
+        {
+            "name": "Khadtou Eih",
+            "release_date": "2003-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c1eac81d20aad2200cd4a1a6",
+            "track_url": "https://open.spotify.com/album/6pweTlvFcWhg1Qdl292pOG",
+            "tracks": [
+                {
+                    "name": "Allah Yekhalihom",
+                    "track_url": "",
+                    "duration_ms": 308480,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c1eac81d20aad2200cd4a1a6",
+                    "id": 8678,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Oulou La Tabibi",
+                    "track_url": "",
+                    "duration_ms": 266083,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c1eac81d20aad2200cd4a1a6",
+                    "id": 8679,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Sada'e Wsada'eni",
+                    "track_url": "",
+                    "duration_ms": 445257,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c1eac81d20aad2200cd4a1a6",
+                    "id": 8680,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Walla Wma Alouli",
+                    "track_url": "",
+                    "duration_ms": 294530,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c1eac81d20aad2200cd4a1a6",
+                    "id": 8681,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Albi Nkawa",
+                    "track_url": "",
+                    "duration_ms": 277394,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c1eac81d20aad2200cd4a1a6",
+                    "id": 8682,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "3a Ljamer",
+                    "track_url": "",
+                    "duration_ms": 245838,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c1eac81d20aad2200cd4a1a6",
+                    "id": 8683,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "La Ba3dak Habibi",
+                    "track_url": "",
+                    "duration_ms": 286093,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c1eac81d20aad2200cd4a1a6",
+                    "id": 8684,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Khadtou Eih",
+                    "track_url": "",
+                    "duration_ms": 377861,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c1eac81d20aad2200cd4a1a6",
+                    "id": 8685,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Ba3teb Aleik",
+                    "track_url": "",
+                    "duration_ms": 371800,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c1eac81d20aad2200cd4a1a6",
+                    "id": 8686,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Dahek Zaman",
+                    "track_url": "",
+                    "duration_ms": 328672,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c1eac81d20aad2200cd4a1a6",
+                    "id": 8687,
+                    "artist": "Wael Jassar"
+                }
+            ],
+            "id": 8677
+        },
+        {
+            "name": "Adimak Nadimak",
+            "release_date": "2002-02-14",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732a129a96c3231d68320646ad",
+            "track_url": "https://open.spotify.com/album/0NbWLTwoCuVd97xhO7qXEE",
+            "tracks": [
+                {
+                    "name": "Wehyatak Ya Habibi - Live",
+                    "track_url": "",
+                    "duration_ms": 546466,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732a129a96c3231d68320646ad",
+                    "id": 8689,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Betrohlak Meshwar - Live",
+                    "track_url": "",
+                    "duration_ms": 268546,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732a129a96c3231d68320646ad",
+                    "id": 8690,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Hali Ani - Live",
+                    "track_url": "",
+                    "duration_ms": 277426,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732a129a96c3231d68320646ad",
+                    "id": 8691,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Esal Alia Al Lail - Live",
+                    "track_url": "",
+                    "duration_ms": 329280,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732a129a96c3231d68320646ad",
+                    "id": 8692,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Alwan Lebnaniah - Live",
+                    "track_url": "",
+                    "duration_ms": 165333,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732a129a96c3231d68320646ad",
+                    "id": 8693,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Ya Gar Al-Redah - Live",
+                    "track_url": "",
+                    "duration_ms": 213973,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732a129a96c3231d68320646ad",
+                    "id": 8694,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Eshtaqna Kateer - Live",
+                    "track_url": "",
+                    "duration_ms": 174613,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732a129a96c3231d68320646ad",
+                    "id": 8695,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Ahlan Wasahlan - Live",
+                    "track_url": "",
+                    "duration_ms": 119253,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732a129a96c3231d68320646ad",
+                    "id": 8696,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Maiel Ya Ghezayel - Live",
+                    "track_url": "",
+                    "duration_ms": 223880,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732a129a96c3231d68320646ad",
+                    "id": 8697,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Sari Sara Alail",
+                    "track_url": "",
+                    "duration_ms": 120253,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732a129a96c3231d68320646ad",
+                    "id": 8698,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Dakhl Oyonak Hakeena - Live",
+                    "track_url": "",
+                    "duration_ms": 212560,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732a129a96c3231d68320646ad",
+                    "id": 8699,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Hawel Ya Ghanam - Live",
+                    "track_url": "",
+                    "duration_ms": 188240,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732a129a96c3231d68320646ad",
+                    "id": 8700,
+                    "artist": "Wael Jassar"
+                }
+            ],
+            "id": 8688
+        },
+        {
+            "name": "Mashi",
+            "release_date": "1998-06-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b273139ca03d8bb238792f1c119d",
+            "track_url": "https://open.spotify.com/album/5mYAlbiIYS9hp0RugoyTP6",
+            "tracks": [
+                {
+                    "name": "Mashi",
+                    "track_url": "",
+                    "duration_ms": 366306,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273139ca03d8bb238792f1c119d",
+                    "id": 8702,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "El Layaly",
+                    "track_url": "",
+                    "duration_ms": 362960,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273139ca03d8bb238792f1c119d",
+                    "id": 8703,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "El Haq Aala Oyouni",
+                    "track_url": "",
+                    "duration_ms": 270773,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273139ca03d8bb238792f1c119d",
+                    "id": 8704,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Menen Ma Tkoun",
+                    "track_url": "",
+                    "duration_ms": 300960,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273139ca03d8bb238792f1c119d",
+                    "id": 8705,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Esmaa Kalam Habibak",
+                    "track_url": "",
+                    "duration_ms": 320973,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273139ca03d8bb238792f1c119d",
+                    "id": 8706,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Ah Ya Leil",
+                    "track_url": "",
+                    "duration_ms": 381333,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273139ca03d8bb238792f1c119d",
+                    "id": 8707,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Fareetini",
+                    "track_url": "",
+                    "duration_ms": 410133,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273139ca03d8bb238792f1c119d",
+                    "id": 8708,
+                    "artist": "Wael Jassar"
+                }
+            ],
+            "id": 8701
+        },
+        {
+            "name": "Leilet Tarab (Live)",
+            "release_date": "1998-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27345c4fb46d6323792f7d586d6",
+            "track_url": "https://open.spotify.com/album/3JF7d4eVjISX2elT1G4sRY",
+            "tracks": [
+                {
+                    "name": "Eb'atli Gawab - Live",
+                    "track_url": "",
+                    "duration_ms": 313973,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27345c4fb46d6323792f7d586d6",
+                    "id": 8710,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "A'alli Gara - Live",
+                    "track_url": "",
+                    "duration_ms": 594733,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27345c4fb46d6323792f7d586d6",
+                    "id": 8711,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Ala Remsh Ouyounha - Live",
+                    "track_url": "",
+                    "duration_ms": 271020,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27345c4fb46d6323792f7d586d6",
+                    "id": 8712,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Kol Leila Wkol Youm - Live",
+                    "track_url": "",
+                    "duration_ms": 303266,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27345c4fb46d6323792f7d586d6",
+                    "id": 8713,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Maryam Maryamti - Live",
+                    "track_url": "",
+                    "duration_ms": 335840,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27345c4fb46d6323792f7d586d6",
+                    "id": 8714,
+                    "artist": "Wael Jassar"
+                }
+            ],
+            "id": 8709
+        },
+        {
+            "name": "Live-hafla Hayya",
+            "release_date": "1996-01-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b273681d2df81b7b135dc0033d48",
+            "track_url": "https://open.spotify.com/album/1Cg2IAhbKgmDAvFOtz4WEH",
+            "tracks": [
+                {
+                    "name": "Gana El Hawa",
+                    "track_url": "",
+                    "duration_ms": 574512,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273681d2df81b7b135dc0033d48",
+                    "id": 8716,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Lamesh Ana Elly Abky",
+                    "track_url": "",
+                    "duration_ms": 534962,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273681d2df81b7b135dc0033d48",
+                    "id": 8717,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Oyon Al Qalb",
+                    "track_url": "",
+                    "duration_ms": 458659,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273681d2df81b7b135dc0033d48",
+                    "id": 8718,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Yana Yana",
+                    "track_url": "",
+                    "duration_ms": 266711,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273681d2df81b7b135dc0033d48",
+                    "id": 8719,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Elhawa Hawaya",
+                    "track_url": "",
+                    "duration_ms": 332827,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273681d2df81b7b135dc0033d48",
+                    "id": 8720,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Khayef Kon Ashetek",
+                    "track_url": "",
+                    "duration_ms": 236409,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273681d2df81b7b135dc0033d48",
+                    "id": 8721,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Btlomoni Leh",
+                    "track_url": "",
+                    "duration_ms": 415243,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273681d2df81b7b135dc0033d48",
+                    "id": 8722,
+                    "artist": "Wael Jassar"
+                }
+            ],
+            "id": 8715
+        },
+        {
+            "name": "Kilmet Wadae",
+            "release_date": "1994-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c89cf0d7cf67b9836de55184",
+            "track_url": "https://open.spotify.com/album/3gHl0XKnhmAkKH7m473RMe",
+            "tracks": [
+                {
+                    "name": "Ya Mdallae",
+                    "track_url": "",
+                    "duration_ms": 296306,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c89cf0d7cf67b9836de55184",
+                    "id": 8724,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Ma Dawani",
+                    "track_url": "",
+                    "duration_ms": 200986,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c89cf0d7cf67b9836de55184",
+                    "id": 8725,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Yalli Albi",
+                    "track_url": "",
+                    "duration_ms": 584106,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c89cf0d7cf67b9836de55184",
+                    "id": 8726,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Kilmet Wadae",
+                    "track_url": "",
+                    "duration_ms": 432546,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c89cf0d7cf67b9836de55184",
+                    "id": 8727,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Dalli Dhaki",
+                    "track_url": "",
+                    "duration_ms": 273560,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c89cf0d7cf67b9836de55184",
+                    "id": 8728,
+                    "artist": "Wael Jassar"
+                },
+                {
+                    "name": "Ya Emmi Ashkan",
+                    "track_url": "",
+                    "duration_ms": 297240,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c89cf0d7cf67b9836de55184",
+                    "id": 8729,
+                    "artist": "Wael Jassar"
+                }
+            ],
+            "id": 8723
+        }
+    ],
+    "singles": [
+        {
+            "name": "كل وعد",
+            "release_date": "2024-02-12",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731e1648c81c97e2ec8b8c12ad",
+            "track_url": "",
+            "id": 8730,
+            "artist": "Wael Jassar"
+        },
+        {
+            "name": "غريبة الناس (ريمكس)",
+            "release_date": "2023-11-22",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e919f40f7f3c650b5b80d238",
+            "track_url": "",
+            "id": 8731,
+            "artist": "Wael Jassar"
+        },
+        {
+            "name": "خلينى ذكرى (ريمكس)",
+            "release_date": "2023-11-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a69b40b7ca35e027b7752497",
+            "track_url": "",
+            "id": 8732,
+            "artist": "Wael Jassar"
+        },
+        {
+            "name": "ظروف معنداني (ريمكس)",
+            "release_date": "2023-11-02",
+            "image": "https://i.scdn.co/image/ab67616d0000b27336ef00fb45cdbed2e9947b49",
+            "track_url": "",
+            "id": 8733,
+            "artist": "Wael Jassar"
+        },
+        {
+            "name": "يا واحشني",
+            "release_date": "2023-08-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738c308c4a822ece380ba6d39c",
+            "track_url": "",
+            "id": 8734,
+            "artist": "Wael Jassar"
+        },
+        {
+            "name": "Fi Had Byhbany",
+            "release_date": "2023-06-22",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732af9ac7a30fcd1ed1f072267",
+            "track_url": "",
+            "id": 8735,
+            "artist": "Wael Jassar"
+        },
+        {
+            "name": "لو تخاصمني",
+            "release_date": "2022-11-03",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731a7bf56c0d259a6fe69f9c89",
+            "track_url": "",
+            "id": 8736,
+            "artist": "Wael Jassar"
+        },
+        {
+            "name": "Ana Mesh Mesadaa",
+            "release_date": "2022-07-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b273403eec78715dabb0b07ca2ee",
+            "track_url": "",
+            "id": 8737,
+            "artist": "Wael Jassar"
+        },
+        {
+            "name": "3ian",
+            "release_date": "2022-01-20",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a2c6ce374530596da526a13d",
+            "track_url": "",
+            "id": 8738,
+            "artist": "Wael Jassar"
+        },
+        {
+            "name": "Mashi (Boudy Naoum's Vision)",
+            "release_date": "2021-02-05",
+            "image": "https://i.scdn.co/image/ab67616d0000b27376532b84336f3c4d1134b820",
+            "track_url": "",
+            "id": 8739,
+            "artist": "Wael Jassar"
+        },
+        {
+            "name": "رتبت الدنيا (من فيلم توأم روحي)",
+            "release_date": "2020-12-12",
+            "image": "https://i.scdn.co/image/ab67616d0000b273791adeae51f7e8d0cd6d8450",
+            "track_url": "",
+            "id": 8740,
+            "artist": "Wael Jassar"
+        },
+        {
+            "name": "Qout El Qoloub (From Qout El Qoloub TV Series)",
+            "release_date": "2020-09-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736bd9cec28358401121f333c2",
+            "track_url": "",
+            "id": 8741,
+            "artist": "Wael Jassar"
+        },
+        {
+            "name": "Helm Haiaty (From Tawa'am Rouhy Movie)",
+            "release_date": "2020-08-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f5e4f57c049de9354287f157",
+            "track_url": "",
+            "id": 8742,
+            "artist": "Wael Jassar"
+        },
+        {
+            "name": "Yom Zefafek (Boudy Naoum's Vision)",
+            "release_date": "2020-05-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739329f74e18ca2cb703f574ee",
+            "track_url": "",
+            "id": 8743,
+            "artist": "Wael Jassar"
+        },
+        {
+            "name": "Arjouk (Boudy Naoum's Vision)",
+            "release_date": "2020-05-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b273532cbbb72f0c9a82399695f7",
+            "track_url": "",
+            "id": 8744,
+            "artist": "Wael Jassar"
+        },
+        {
+            "name": "Betlabak",
+            "release_date": "2019-07-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732a3a99e23f95c7250b5cc90e",
+            "track_url": "",
+            "id": 8745,
+            "artist": "Wael Jassar"
+        },
+        {
+            "name": "Kouly Shayaan",
+            "release_date": "2019-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a9c314cb47cda8dbbc575b7c",
+            "track_url": "",
+            "id": 8746,
+            "artist": "Wael Jassar"
+        },
+        {
+            "name": "Hab W Mathabesh",
+            "release_date": "2019-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f29704f998ae66448363309f",
+            "track_url": "",
+            "id": 8747,
+            "artist": "Wael Jassar"
+        },
+        {
+            "name": "Hobaha Fard",
+            "release_date": "2018-03-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e7f0baa21b0334faa8822f15",
+            "track_url": "",
+            "id": 8748,
+            "artist": "Wael Jassar"
+        },
+        {
+            "name": "Lachou Nizaal",
+            "release_date": "2016-02-06",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735a745735f9ae3a782ae57aa6",
+            "track_url": "",
+            "id": 8749,
+            "artist": "Wael Jassar"
+        },
+        {
+            "name": "3isha (Live it)",
+            "release_date": "2016-01-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738d92b96896e6c819f940793a",
+            "track_url": "",
+            "id": 8750,
+            "artist": "Wael Jassar"
+        },
+        {
+            "name": "Enta Omry",
+            "release_date": "2015-03-02",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ca086ab3581781f2f99b1014",
+            "track_url": "",
+            "id": 8751,
+            "artist": "Wael Jassar"
+        },
+        {
+            "name": "Aally Gara",
+            "release_date": "2015-03-02",
+            "image": "https://i.scdn.co/image/ab67616d0000b273aa5d07839d831716414f0c6a",
+            "track_url": "",
+            "id": 8752,
+            "artist": "Wael Jassar"
+        },
+        {
+            "name": "Ale Eih Beyessalouni",
+            "release_date": "2015-02-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e09595efb0706332cfff1691",
+            "track_url": "",
+            "id": 8753,
+            "artist": "Wael Jassar"
+        },
+        {
+            "name": "Olly Amalak Eih",
+            "release_date": "2015-01-20",
+            "image": "https://i.scdn.co/image/ab67616d0000b273abae05a989d74c94c0a49c67",
+            "track_url": "",
+            "id": 8754,
+            "artist": "Wael Jassar"
+        },
+        {
+            "name": "Enta Meen",
+            "release_date": "2015-01-20",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739750b198f42436bc6255d523",
+            "track_url": "",
+            "id": 8755,
+            "artist": "Wael Jassar"
+        },
+        {
+            "name": "Ansak",
+            "release_date": "2015-01-20",
+            "image": "https://i.scdn.co/image/ab67616d0000b273779f6c6f0c64afa79f2fcdba",
+            "track_url": "",
+            "id": 8756,
+            "artist": "Wael Jassar"
+        },
+        {
+            "name": "Fe Alby Sortak",
+            "release_date": "2014-12-03",
+            "image": "https://i.scdn.co/image/ab67616d0000b273eba71040630b61528b8661a9",
+            "track_url": "",
+            "id": 8757,
+            "artist": "Wael Jassar"
+        },
+        {
+            "name": "Ya Mesaharny",
+            "release_date": "2014-10-27",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d4da68c00b1c56fd2cf19ea2",
+            "track_url": "",
+            "id": 8758,
+            "artist": "Wael Jassar"
+        },
+        {
+            "name": "El Atlal",
+            "release_date": "2014-10-27",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731eeb2617bc13de7cf06b117c",
+            "track_url": "",
+            "id": 8759,
+            "artist": "Wael Jassar"
+        },
+        {
+            "name": "تتر مسلسل شمس",
+            "release_date": "2014-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27384375be3f0871d668b4312af",
+            "track_url": "",
+            "id": 8760,
+            "artist": "Wael Jassar"
+        },
+        {
+            "name": "Asmar Ya Asmarany and Ala Ad El Shouq",
+            "release_date": "2012-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e547a6ddb14707170741c2c3",
+            "track_url": "",
+            "id": 8761,
+            "artist": "Wael Jassar"
+        },
+        {
+            "name": "Ala Ad El Shouq",
+            "release_date": "2012-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738debae9ee98dae3d3a353df1",
+            "track_url": "",
+            "id": 8762,
+            "artist": "Wael Jassar"
+        },
+        {
+            "name": "نخبى ليه",
+            "release_date": "2011-11-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733bb0d96e4f59a8e35382804d",
+            "track_url": "",
+            "id": 8763,
+            "artist": "Wael Jassar"
+        },
+        {
+            "name": "Ad3eya",
+            "release_date": "2011",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c983404449c6aa395adc643f",
+            "track_url": "",
+            "id": 8764,
+            "artist": "Wael Jassar"
+        },
+        {
+            "name": "Asmar Ya Asmarany",
+            "release_date": "2003-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730b1bdfff6871102b585be532",
+            "track_url": "",
+            "id": 8765,
+            "artist": "Wael Jassar"
+        },
+        {
+            "name": "Ya Teir",
+            "release_date": "1998-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a61e2a6b8dcb2084ea1434bb",
+            "track_url": "",
+            "id": 8766,
+            "artist": "Wael Jassar"
+        },
+        {
+            "name": "Wahashteni (Live)",
+            "release_date": "1998-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e587da4cec232d0d114569e0",
+            "track_url": "",
+            "id": 8767,
+            "artist": "Wael Jassar"
+        }
+    ],
+    "popular_tracks": [
+        {
+            "name": "ظروف معنداني",
+            "track_url": "",
+            "duration_ms": 245818,
+            "image": "https://i.scdn.co/image/ab67616d0000b273f808da0aa522a31fe770cd90",
+            "id": 8768,
+            "artist": "Wael Jassar"
+        },
+        {
+            "name": "نخبى ليه",
+            "track_url": "",
+            "duration_ms": 207609,
+            "image": "https://i.scdn.co/image/ab67616d0000b2733bb0d96e4f59a8e35382804d",
+            "id": 8769,
+            "artist": "Wael Jassar"
+        },
+        {
+            "name": "كل وعد",
+            "track_url": "",
+            "duration_ms": 208846,
+            "image": "https://i.scdn.co/image/ab67616d0000b2731e1648c81c97e2ec8b8c12ad",
+            "id": 8770,
+            "artist": "Wael Jassar"
+        },
+        {
+            "name": "Khalina Zekra",
+            "track_url": "",
+            "duration_ms": 255589,
+            "image": "https://i.scdn.co/image/ab67616d0000b273e52226d78a4ff990caacb558",
+            "id": 8771,
+            "artist": "Wael Jassar"
+        },
+        {
+            "name": "Betewhasheiny",
+            "track_url": "",
+            "duration_ms": 288311,
+            "image": "https://i.scdn.co/image/ab67616d0000b2739ac245eeedc9b51c852bf529",
+            "id": 8772,
+            "artist": "Wael Jassar"
+        },
+        {
+            "name": "Ghareibah El Nas",
+            "track_url": "",
+            "duration_ms": 264843,
+            "image": "https://i.scdn.co/image/ab67616d0000b2739ac245eeedc9b51c852bf529",
+            "id": 8773,
+            "artist": "Wael Jassar"
+        },
+        {
+            "name": "Mshit Khalas",
+            "track_url": "",
+            "duration_ms": 278778,
+            "image": "https://i.scdn.co/image/ab67616d0000b27392435947539fd96f87e39737",
+            "id": 8774,
+            "artist": "Wael Jassar"
+        },
+        {
+            "name": "Helm Haiaty - From Tawa'am Rouhy Movie",
+            "track_url": "",
+            "duration_ms": 204919,
+            "image": "https://i.scdn.co/image/ab67616d0000b273f5e4f57c049de9354287f157",
+            "id": 8775,
+            "artist": "Wael Jassar"
+        },
+        {
+            "name": "Bahebek Mesh Haoul Tany",
+            "track_url": "",
+            "duration_ms": 254028,
+            "image": "https://i.scdn.co/image/ab67616d0000b2739ac245eeedc9b51c852bf529",
+            "id": 8776,
+            "artist": "Wael Jassar"
+        },
+        {
+            "name": "El Nehaya Wahda",
+            "track_url": "",
+            "duration_ms": 253046,
+            "image": "https://i.scdn.co/image/ab67616d0000b273f808da0aa522a31fe770cd90",
+            "id": 8777,
+            "artist": "Wael Jassar"
+        }
+    ]
+}

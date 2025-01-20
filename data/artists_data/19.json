@@ -1,0 +1,269 @@
+{
+    "artist": {
+        "id": "3515",
+        "name": "Farid",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb8e7a326d34965bfbe24a26f3",
+        "background_image": "https://i.scdn.co/image/ab676161000051748e7a326d34965bfbe24a26f3"
+    },
+    "albums": [],
+    "singles": [
+        {
+            "name": "يارب ترجع",
+            "release_date": "2024-11-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733314dbfa455c5fdfde54f0a7",
+            "track_url": "https://www.dropbox.com/scl/fi/wjglzcjyvctz8ztgjxus8/.mp3?rlkey=4ja93pn2jtkn4kf6mj4ien8uj&st=3xqyc71q&dl=1",
+            "id": 3516,
+            "artist": "Farid"
+        },
+        {
+            "name": "غايب",
+            "release_date": "2024-11-14",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b2d8abf447b879c1cf42ef58",
+            "track_url": "https://www.dropbox.com/scl/fi/598j1zr3a8j0aa9ns9hxy/.mp3?rlkey=9gzzxm16450zdlxary760sq9i&st=z3wtuub7&dl=1",
+            "id": 3517,
+            "artist": "Farid"
+        },
+        {
+            "name": "زمان و جبر",
+            "release_date": "2024-09-26",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738450eef61ab72a02992e1dcd",
+            "track_url": "https://www.dropbox.com/scl/fi/waammu36qqdc7g629ata3/.mp3?rlkey=afgg04rpwlyvelr1uq2r5wnh1&st=k5hzerqs&dl=1",
+            "id": 3518,
+            "artist": "Farid"
+        },
+        {
+            "name": "أنا مشيتلك",
+            "release_date": "2024-06-26",
+            "image": "https://i.scdn.co/image/ab67616d0000b273759408440320187b77a10baf",
+            "track_url": "https://www.dropbox.com/scl/fi/v1nt3jefsl0upq4esic1q/.mp3?rlkey=tagnd3e05i4rb1dut1hs3mt2e&st=nz78b0aj&dl=1",
+            "id": 3519,
+            "artist": "Farid"
+        },
+        {
+            "name": "أحلى سحر",
+            "release_date": "2024-05-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738efda7b34c9ded64a889f40c",
+            "track_url": "https://www.dropbox.com/scl/fi/jphycqjem810sdyxn8605/.mp3?rlkey=mlyonvxcckhmfhwt1uvvyeu4q&st=hdkcptje&dl=1",
+            "id": 3520,
+            "artist": "Farid"
+        },
+        {
+            "name": "أنا مش بديل",
+            "release_date": "2024-05-16",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c4ff44a6e656fb926cc07b55",
+            "track_url": "https://www.dropbox.com/scl/fi/mgclsh4fgbdok4q6877yb/.mp3?rlkey=voy2lihtvn9b8m8n8yki1o92g&st=980iicsg&dl=1",
+            "id": 3521,
+            "artist": "Farid"
+        },
+        {
+            "name": "خناقة فركشه",
+            "release_date": "2024-05-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b273629dcbd882027851cbd9017c",
+            "track_url": "https://www.dropbox.com/scl/fi/xtcdmniojp6f70e6k4cbj/.mp3?rlkey=4fwb1elcekd9sudaskww3gg3k&st=cjvi0z6v&dl=1",
+            "id": 3522,
+            "artist": "Farid"
+        },
+        {
+            "name": "فراق بفراق",
+            "release_date": "2024-04-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733052bf05973febeda9f9ca5a",
+            "track_url": "https://www.dropbox.com/scl/fi/a1lm8jbork7p89n6cgxdm/.mp3?rlkey=9a30swiojtxyutsi48b3c21x7&st=h5woe17o&dl=1",
+            "id": 3523,
+            "artist": "Farid"
+        },
+        {
+            "name": "عندي سر ليك",
+            "release_date": "2024-04-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e7598cd77ea888bf698091b3",
+            "track_url": "https://www.dropbox.com/scl/fi/hzehr7c1jx4akbaanejr6/.mp3?rlkey=qlf10fbwny6ratemdt3ddu6zo&st=69t6os4x&dl=1",
+            "id": 3524,
+            "artist": "Farid"
+        },
+        {
+            "name": "ايام ونسيتها",
+            "release_date": "2024-04-16",
+            "image": "https://i.scdn.co/image/ab67616d0000b27357e0c973416c111e0080f1b5",
+            "track_url": "https://www.dropbox.com/scl/fi/v2ujo5865i9vk1stde2q7/.mp3?rlkey=nuexkwt6aypj8id3387bjun4z&st=p9imek46&dl=1",
+            "id": 3525,
+            "artist": "Farid"
+        },
+        {
+            "name": "بتقولي آسف",
+            "release_date": "2024-04-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c8c3538936bbf94f25126a9a",
+            "track_url": "https://www.dropbox.com/scl/fi/znvgrh8hyifb52c3l6ijn/.mp3?rlkey=5yi6e6wax5tose2w3pauehui9&st=yf42941n&dl=1",
+            "id": 3526,
+            "artist": "Farid"
+        },
+        {
+            "name": "مرجعليش",
+            "release_date": "2024-01-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736445560849bb9eaac907c36c",
+            "track_url": "https://www.dropbox.com/scl/fi/e7bvinsfbiaxila17jvbs/.mp3?rlkey=gcfyk4nf3sj4bg793etb3yrsm&st=k4opruxj&dl=1",
+            "id": 3527,
+            "artist": "Farid"
+        },
+        {
+            "name": "اهي مشيت",
+            "release_date": "2023-12-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b273274d11c7181f1fc70dff70d2",
+            "track_url": "https://www.dropbox.com/scl/fi/v2kfifn9zgdgc6d6hfqxl/.mp3?rlkey=x1psysqez0ddly2zq8qc05nbf&st=07domn0d&dl=1",
+            "id": 3528,
+            "artist": "Farid"
+        },
+        {
+            "name": "مش حكاية",
+            "release_date": "2023-11-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b27323a8df927c85c512fb4dc4c0",
+            "track_url": "https://www.dropbox.com/scl/fi/yi2uzq42y9jlyxlr07b37/.mp3?rlkey=02yaf8izkynox0chuwlr2cjp5&st=wkmztbno&dl=1",
+            "id": 3529,
+            "artist": "Farid"
+        },
+        {
+            "name": "عامل عظمة",
+            "release_date": "2023-09-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d792d85fe00664a8b69e15a9",
+            "track_url": "https://www.dropbox.com/scl/fi/5keakiohh9h08ui2qxqjk/.mp3?rlkey=zy95w97408l93gtuw86xd6jyu&st=yw4ga7sq&dl=1",
+            "id": 3530,
+            "artist": "Farid"
+        },
+        {
+            "name": "خدت بالاسباب",
+            "release_date": "2023-08-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739108e713204a4efd9686e5a5",
+            "track_url": "https://www.dropbox.com/scl/fi/mh3dlfdxwx0wc6ub8msnk/.mp3?rlkey=aguj09mcy8nbrm86qt8aj4q97&st=v1jcmvyh&dl=1",
+            "id": 3531,
+            "artist": "Farid"
+        },
+        {
+            "name": "بلاش تتغر",
+            "release_date": "2023-08-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d68d02444f526afea9abc97f",
+            "track_url": "https://www.dropbox.com/scl/fi/09z8cjbiu16norocixq40/.mp3?rlkey=nhf4di4193qkthi6932hq6zzf&st=eeorjg5v&dl=1",
+            "id": 3532,
+            "artist": "Farid"
+        },
+        {
+            "name": "كل ليل",
+            "release_date": "2023-06-26",
+            "image": "https://i.scdn.co/image/ab67616d0000b27383f4e5764ff60219066d454d",
+            "track_url": "https://www.dropbox.com/scl/fi/byszyd1we2nl3cbuy3lod/.mp3?rlkey=p2nn0h9s35xsnj8xz50q5il77&st=vynx51r2&dl=1",
+            "id": 3533,
+            "artist": "Farid"
+        },
+        {
+            "name": "يقال عنك",
+            "release_date": "2023-05-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f44bb339d6064498ac4c9a96",
+            "track_url": "https://www.dropbox.com/scl/fi/s1ale0on1nlql85uksj0o/.mp3?rlkey=nga6jclcrc0c5v7xlvhoepx1t&st=4z61cc56&dl=1",
+            "id": 3534,
+            "artist": "Farid"
+        },
+        {
+            "name": "نفس النهايات",
+            "release_date": "2022-12-27",
+            "image": "https://i.scdn.co/image/ab67616d0000b273198298550fadbdfe0b8c972c",
+            "track_url": "https://www.dropbox.com/scl/fi/9ju0vf0g3u52lzhi31n8g/.mp3?rlkey=09ulyvuwptmuwesoz4byvs1x9&st=ehn83lqr&dl=1",
+            "id": 3535,
+            "artist": "Farid"
+        },
+        {
+            "name": "بعد الفراق",
+            "release_date": "2022-11-20",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b7cde40616910c480f546d81",
+            "track_url": "https://www.dropbox.com/scl/fi/7bdirf86qhnm1zseancs3/.mp3?rlkey=c90zu95whic66rbwv2ybbrk60&st=vjoyqgqd&dl=1",
+            "id": 3536,
+            "artist": "Farid"
+        },
+        {
+            "name": "بأمارة مين",
+            "release_date": "2022-06-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a1117fd5432134ed146d6a99",
+            "track_url": "https://www.dropbox.com/scl/fi/uv8oep5v8gc4kyvll7i0v/.mp3?rlkey=n01mvor6rheftf75ltm1vjdk2&st=a154hyea&dl=1",
+            "id": 3537,
+            "artist": "Farid"
+        }
+    ],
+    "popular_tracks": [
+        {
+            "name": "مرجعليش",
+            "track_url": "https://www.dropbox.com/scl/fi/e7bvinsfbiaxila17jvbs/.mp3?rlkey=gcfyk4nf3sj4bg793etb3yrsm&st=k4opruxj&dl=1",
+            "duration_ms": 304367,
+            "image": "https://i.scdn.co/image/ab67616d0000b2736445560849bb9eaac907c36c",
+            "id": 3538,
+            "artist": "Farid"
+        },
+        {
+            "name": "بأمارة مين",
+            "track_url": "https://www.dropbox.com/scl/fi/uv8oep5v8gc4kyvll7i0v/.mp3?rlkey=n01mvor6rheftf75ltm1vjdk2&st=a154hyea&dl=1",
+            "duration_ms": 195882,
+            "image": "https://i.scdn.co/image/ab67616d0000b273a1117fd5432134ed146d6a99",
+            "id": 3539,
+            "artist": "Farid"
+        },
+        {
+            "name": "اهي مشيت",
+            "track_url": "https://www.dropbox.com/scl/fi/v2kfifn9zgdgc6d6hfqxl/.mp3?rlkey=x1psysqez0ddly2zq8qc05nbf&st=07domn0d&dl=1",
+            "duration_ms": 224853,
+            "image": "https://i.scdn.co/image/ab67616d0000b273274d11c7181f1fc70dff70d2",
+            "id": 3540,
+            "artist": "Farid"
+        },
+        {
+            "name": "مش حكاية",
+            "track_url": "https://www.dropbox.com/scl/fi/yi2uzq42y9jlyxlr07b37/.mp3?rlkey=02yaf8izkynox0chuwlr2cjp5&st=wkmztbno&dl=1",
+            "duration_ms": 223375,
+            "image": "https://i.scdn.co/image/ab67616d0000b27323a8df927c85c512fb4dc4c0",
+            "id": 3541,
+            "artist": "Farid"
+        },
+        {
+            "name": "يارب ترجع",
+            "track_url": "https://www.dropbox.com/scl/fi/wjglzcjyvctz8ztgjxus8/.mp3?rlkey=4ja93pn2jtkn4kf6mj4ien8uj&st=3xqyc71q&dl=1",
+            "duration_ms": 171300,
+            "image": "https://i.scdn.co/image/ab67616d0000b2733314dbfa455c5fdfde54f0a7",
+            "id": 3542,
+            "artist": "Farid"
+        },
+        {
+            "name": "زمان و جبر",
+            "track_url": "https://www.dropbox.com/scl/fi/waammu36qqdc7g629ata3/.mp3?rlkey=afgg04rpwlyvelr1uq2r5wnh1&st=k5hzerqs&dl=1",
+            "duration_ms": 234642,
+            "image": "https://i.scdn.co/image/ab67616d0000b2738450eef61ab72a02992e1dcd",
+            "id": 3543,
+            "artist": "Farid"
+        },
+        {
+            "name": "غايب",
+            "track_url": "https://www.dropbox.com/scl/fi/598j1zr3a8j0aa9ns9hxy/.mp3?rlkey=9gzzxm16450zdlxary760sq9i&st=z3wtuub7&dl=1",
+            "duration_ms": 196000,
+            "image": "https://i.scdn.co/image/ab67616d0000b273b2d8abf447b879c1cf42ef58",
+            "id": 3544,
+            "artist": "Farid"
+        },
+        {
+            "name": "بلاش تتغر",
+            "track_url": "https://www.dropbox.com/scl/fi/09z8cjbiu16norocixq40/.mp3?rlkey=nhf4di4193qkthi6932hq6zzf&st=eeorjg5v&dl=1",
+            "duration_ms": 212973,
+            "image": "https://i.scdn.co/image/ab67616d0000b273d68d02444f526afea9abc97f",
+            "id": 3545,
+            "artist": "Farid"
+        },
+        {
+            "name": "فراق بفراق",
+            "track_url": "https://www.dropbox.com/scl/fi/a1lm8jbork7p89n6cgxdm/.mp3?rlkey=9a30swiojtxyutsi48b3c21x7&st=h5woe17o&dl=1",
+            "duration_ms": 236913,
+            "image": "https://i.scdn.co/image/ab67616d0000b2733052bf05973febeda9f9ca5a",
+            "id": 3546,
+            "artist": "Farid"
+        },
+        {
+            "name": "نفس النهايات",
+            "track_url": "https://www.dropbox.com/scl/fi/9ju0vf0g3u52lzhi31n8g/.mp3?rlkey=09ulyvuwptmuwesoz4byvs1x9&st=ehn83lqr&dl=1",
+            "duration_ms": 248512,
+            "image": "https://i.scdn.co/image/ab67616d0000b273198298550fadbdfe0b8c972c",
+            "id": 3547,
+            "artist": "Farid"
+        }
+    ]
+}

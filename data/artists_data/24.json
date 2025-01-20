@@ -1,0 +1,349 @@
+{
+    "artist": {
+        "id": "4249",
+        "name": "Muslim - مُسلِم",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb03ed049216ad8cc3047a6d03",
+        "background_image": "https://i.scdn.co/image/ab6761610000517403ed049216ad8cc3047a6d03"
+    },
+    "albums": [],
+    "singles": [
+        {
+            "name": "Wahshak",
+            "release_date": "2024-09-12",
+            "image": "https://i.scdn.co/image/ab67616d0000b273493f5bc0718992592acf56a5",
+            "track_url": "",
+            "id": 4250,
+            "artist": "Muslim - مُسلِم"
+        },
+        {
+            "name": "Kefaya Foraa",
+            "release_date": "2024-07-27",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ac53325621dbfd8ec3aea9a0",
+            "track_url": "",
+            "id": 4251,
+            "artist": "Muslim - مُسلِم"
+        },
+        {
+            "name": "Etabelna",
+            "release_date": "2024-05-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c6de3a5c6b945e5b602804e4",
+            "track_url": "",
+            "id": 4252,
+            "artist": "Muslim - مُسلِم"
+        },
+        {
+            "name": "Wahed Zayak",
+            "release_date": "2024-05-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739b598958ed68a65d68b94877",
+            "track_url": "",
+            "id": 4253,
+            "artist": "Muslim - مُسلِم"
+        },
+        {
+            "name": "Hat7areb Meen (From Selat Rahem Series)",
+            "release_date": "2024-03-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731151b11835ceb8d6ec16fd9d",
+            "track_url": "",
+            "id": 4254,
+            "artist": "Muslim - مُسلِم"
+        },
+        {
+            "name": "Ghoma ( Men Film Derwila )",
+            "release_date": "2024-02-13",
+            "image": "https://i.scdn.co/image/ab67616d0000b273063dbae2fb0422c9c1f17481",
+            "track_url": "",
+            "id": 4255,
+            "artist": "Muslim - مُسلِم"
+        },
+        {
+            "name": "يا ساتر",
+            "release_date": "2024-02-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737fc6e1f4edf7c6bd078aa154",
+            "track_url": "",
+            "id": 4256,
+            "artist": "Muslim - مُسلِم"
+        },
+        {
+            "name": "مرجعليش",
+            "release_date": "2024-01-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736445560849bb9eaac907c36c",
+            "track_url": "",
+            "id": 4257,
+            "artist": "Muslim - مُسلِم"
+        },
+        {
+            "name": "Ana Araby",
+            "release_date": "2023-11-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733ffd08b4157f07c02c03f9d9",
+            "track_url": "",
+            "id": 4258,
+            "artist": "Muslim - مُسلِم"
+        },
+        {
+            "name": "Mahabetnesh",
+            "release_date": "2023-07-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737b025b643ff427b6ef0a3b40",
+            "track_url": "",
+            "id": 4259,
+            "artist": "Muslim - مُسلِم"
+        },
+        {
+            "name": "Matzaalsh",
+            "release_date": "2023-06-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730d211edc4c004326de5c1452",
+            "track_url": "",
+            "id": 4260,
+            "artist": "Muslim - مُسلِم"
+        },
+        {
+            "name": "Hanetabel",
+            "release_date": "2023-05-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736ab44a6c2ad13886ddc1f551",
+            "track_url": "",
+            "id": 4261,
+            "artist": "Muslim - مُسلِم"
+        },
+        {
+            "name": "Sabok Fel Beit",
+            "release_date": "2023-05-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a9fe5ce2c7fd6597756773d8",
+            "track_url": "",
+            "id": 4262,
+            "artist": "Muslim - مُسلِم"
+        },
+        {
+            "name": "Saaban Aleky",
+            "release_date": "2023-03-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b273dbeb3ae668a63583739e149c",
+            "track_url": "",
+            "id": 4263,
+            "artist": "Muslim - مُسلِم"
+        },
+        {
+            "name": "Aleb Fel Dafater",
+            "release_date": "2022-12-22",
+            "image": "https://i.scdn.co/image/ab67616d0000b273398ae85c2efdc6cec7e2ab1d",
+            "track_url": "",
+            "id": 4264,
+            "artist": "Muslim - مُسلِم"
+        },
+        {
+            "name": "Law Bas Nergaa",
+            "release_date": "2022-11-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c22b02fc76ab3c75d522bb50",
+            "track_url": "",
+            "id": 4265,
+            "artist": "Muslim - مُسلِم"
+        },
+        {
+            "name": "Meen Kan Sabab",
+            "release_date": "2022-06-03",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ce0b4f59a50c5ae054a26731",
+            "track_url": "",
+            "id": 4266,
+            "artist": "Muslim - مُسلِم"
+        },
+        {
+            "name": "Mabhtmesh",
+            "release_date": "2022-05-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27318ecb8b95375a000bc893c37",
+            "track_url": "",
+            "id": 4267,
+            "artist": "Muslim - مُسلِم"
+        },
+        {
+            "name": "Mabahrbsh",
+            "release_date": "2022-03-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b27304dd7fdb2d03111f49a871b3",
+            "track_url": "",
+            "id": 4268,
+            "artist": "Muslim - مُسلِم"
+        },
+        {
+            "name": "اتنسيت ريمكس (Zikwa Remix)",
+            "release_date": "2022-01-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b273cbadb2b914e81709254ecdba",
+            "track_url": "",
+            "id": 4269,
+            "artist": "Muslim - مُسلِم"
+        },
+        {
+            "name": "Mesh Nadman",
+            "release_date": "2021-12-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735c0a43660d340fc821ac15fb",
+            "track_url": "",
+            "id": 4270,
+            "artist": "Muslim - مُسلِم"
+        },
+        {
+            "name": "Etnaset",
+            "release_date": "2021-10-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b273baebc6c87c78599cb2122600",
+            "track_url": "",
+            "id": 4271,
+            "artist": "Muslim - مُسلِم"
+        },
+        {
+            "name": "Kol Elly Fi Alby",
+            "release_date": "2021-10-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c22022c6ca7213e283860251",
+            "track_url": "",
+            "id": 4272,
+            "artist": "Muslim - مُسلِم"
+        },
+        {
+            "name": "Abl Mawsalek",
+            "release_date": "2021-08-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737134e74e83af539494f21eb3",
+            "track_url": "",
+            "id": 4273,
+            "artist": "Muslim - مُسلِم"
+        },
+        {
+            "name": "Maadsh Baay",
+            "release_date": "2021-07-16",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732cf15e913cf36aaaf46c7872",
+            "track_url": "",
+            "id": 4274,
+            "artist": "Muslim - مُسلِم"
+        },
+        {
+            "name": "Wenkom",
+            "release_date": "2021-07-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f32b4919b3c29a91dd265f2a",
+            "track_url": "",
+            "id": 4275,
+            "artist": "Muslim - مُسلِم"
+        },
+        {
+            "name": "على بالي",
+            "release_date": "2020-03-22",
+            "image": "https://i.scdn.co/image/ab67616d0000b273322600def80ab5829137f70d",
+            "track_url": "",
+            "id": 4276,
+            "artist": "Muslim - مُسلِم"
+        },
+        {
+            "name": "Haneialik",
+            "release_date": "2020-03-14",
+            "image": "https://i.scdn.co/image/ab67616d0000b273cd22bc8e14b82372b8147074",
+            "track_url": "",
+            "id": 4277,
+            "artist": "Muslim - مُسلِم"
+        },
+        {
+            "name": "Khaleke Fe Hodny el Leila",
+            "release_date": "2020-03-06",
+            "image": "https://i.scdn.co/image/ab67616d0000b273eaae8f2a980c868dcb3cc77c",
+            "track_url": "",
+            "id": 4278,
+            "artist": "Muslim - مُسلِم"
+        },
+        {
+            "name": "ألبير/ مش قآدر",
+            "release_date": "2020-02-29",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c6341d34a8add1c651938c67",
+            "track_url": "",
+            "id": 4279,
+            "artist": "Muslim - مُسلِم"
+        },
+        {
+            "name": "Yomien W 3ado",
+            "release_date": "2019-06-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735df074385c584b6c3fb51690",
+            "track_url": "",
+            "id": 4280,
+            "artist": "Muslim - مُسلِم"
+        },
+        {
+            "name": "Ya Malak",
+            "release_date": "2018-10-22",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e974c0e9fb6391e607b404d5",
+            "track_url": "",
+            "id": 4281,
+            "artist": "Muslim - مُسلِم"
+        }
+    ],
+    "popular_tracks": [
+        {
+            "name": "Etabelna",
+            "track_url": "",
+            "duration_ms": 186233,
+            "image": "https://i.scdn.co/image/ab67616d0000b273c6de3a5c6b945e5b602804e4",
+            "id": 4282,
+            "artist": "Muslim - مُسلِم"
+        },
+        {
+            "name": "Aleb Fel Dafater",
+            "track_url": "",
+            "duration_ms": 306361,
+            "image": "https://i.scdn.co/image/ab67616d0000b273398ae85c2efdc6cec7e2ab1d",
+            "id": 4283,
+            "artist": "Muslim - مُسلِم"
+        },
+        {
+            "name": "Mesh Nadman",
+            "track_url": "",
+            "duration_ms": 175911,
+            "image": "https://i.scdn.co/image/ab67616d0000b2735c0a43660d340fc821ac15fb",
+            "id": 4284,
+            "artist": "Muslim - مُسلِم"
+        },
+        {
+            "name": "مرجعليش",
+            "track_url": "",
+            "duration_ms": 304367,
+            "image": "https://i.scdn.co/image/ab67616d0000b2736445560849bb9eaac907c36c",
+            "id": 4285,
+            "artist": "Muslim - مُسلِم"
+        },
+        {
+            "name": "Wahshak",
+            "track_url": "",
+            "duration_ms": 228648,
+            "image": "https://i.scdn.co/image/ab67616d0000b273493f5bc0718992592acf56a5",
+            "id": 4286,
+            "artist": "Muslim - مُسلِم"
+        },
+        {
+            "name": "Etnaset",
+            "track_url": "",
+            "duration_ms": 195598,
+            "image": "https://i.scdn.co/image/ab67616d0000b273baebc6c87c78599cb2122600",
+            "id": 4287,
+            "artist": "Muslim - مُسلِم"
+        },
+        {
+            "name": "Meen Kan Sabab",
+            "track_url": "",
+            "duration_ms": 268500,
+            "image": "https://i.scdn.co/image/ab67616d0000b273ce0b4f59a50c5ae054a26731",
+            "id": 4288,
+            "artist": "Muslim - مُسلِم"
+        },
+        {
+            "name": "Abl Mawsalek",
+            "track_url": "",
+            "duration_ms": 278000,
+            "image": "https://i.scdn.co/image/ab67616d0000b2737134e74e83af539494f21eb3",
+            "id": 4289,
+            "artist": "Muslim - مُسلِم"
+        },
+        {
+            "name": "Hanetabel",
+            "track_url": "",
+            "duration_ms": 251000,
+            "image": "https://i.scdn.co/image/ab67616d0000b2736ab44a6c2ad13886ddc1f551",
+            "id": 4290,
+            "artist": "Muslim - مُسلِم"
+        },
+        {
+            "name": "Mabahrbsh",
+            "track_url": "",
+            "duration_ms": 245000,
+            "image": "https://i.scdn.co/image/ab67616d0000b27304dd7fdb2d03111f49a871b3",
+            "id": 4291,
+            "artist": "Muslim - مُسلِم"
+        }
+    ]
+}

@@ -1,0 +1,493 @@
+{
+    "artist": {
+        "id": "3454",
+        "name": "Aziz Maraka",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb52671f5df90efe724d48f265",
+        "background_image": "https://i.scdn.co/image/ab6761610000517452671f5df90efe724d48f265"
+    },
+    "albums": [],
+    "singles": [
+        {
+            "name": "Ma Tegy Sekka",
+            "release_date": "2024-11-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b0f32804619b3513c525fbd3",
+            "track_url": "",
+            "id": 3455,
+            "artist": "Aziz Maraka"
+        },
+        {
+            "name": "سنترم... مين قدك",
+            "release_date": "2024-11-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b273bc7ec098d7c776a53005d2fa",
+            "track_url": "",
+            "id": 3456,
+            "artist": "Aziz Maraka"
+        },
+        {
+            "name": "Ebn Bladi",
+            "release_date": "2024-08-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f97986a3ed6e6a673d9bcc21",
+            "track_url": "",
+            "id": 3457,
+            "artist": "Aziz Maraka"
+        },
+        {
+            "name": "Miganinani Elsawy Concert Version",
+            "release_date": "2024-08-06",
+            "image": "https://i.scdn.co/image/ab67616d0000b27324bb3b27aa1f099cb7c732ea",
+            "track_url": "",
+            "id": 3458,
+            "artist": "Aziz Maraka"
+        },
+        {
+            "name": "Heye Elsawy Concert Version",
+            "release_date": "2024-06-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b273597310dcae39d54984d637b4",
+            "track_url": "",
+            "id": 3459,
+            "artist": "Aziz Maraka"
+        },
+        {
+            "name": "Billboard Arabia Medley",
+            "release_date": "2024-05-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739072369a90582725b148d014",
+            "track_url": "",
+            "id": 3460,
+            "artist": "Aziz Maraka"
+        },
+        {
+            "name": "Mawtini",
+            "release_date": "2024-05-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736340434425b3563deae1b292",
+            "track_url": "",
+            "id": 3461,
+            "artist": "Aziz Maraka"
+        },
+        {
+            "name": "Ahla Wahda (Slow Dance)",
+            "release_date": "2024-05-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b27354c7c4e554ccda2a84f0a766",
+            "track_url": "",
+            "id": 3462,
+            "artist": "Aziz Maraka"
+        },
+        {
+            "name": "Nerga3 Le Awel Yom",
+            "release_date": "2024-03-22",
+            "image": "https://i.scdn.co/image/ab67616d0000b273cc272cf3aedabdba6edd119e",
+            "track_url": "",
+            "id": 3463,
+            "artist": "Aziz Maraka"
+        },
+        {
+            "name": "Red Bull Sika",
+            "release_date": "2024-01-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b273fad697f59bae0307c9713c9d",
+            "track_url": "",
+            "id": 3464,
+            "artist": "Aziz Maraka"
+        },
+        {
+            "name": "Miganinani Acoustic Version",
+            "release_date": "2023-09-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f7f2eb06d6a4bd713e70d919",
+            "track_url": "",
+            "id": 3465,
+            "artist": "Aziz Maraka"
+        },
+        {
+            "name": "لا تزعل مني",
+            "release_date": "2023-08-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731a681e857fac75fc189a4837",
+            "track_url": "",
+            "id": 3466,
+            "artist": "Aziz Maraka"
+        },
+        {
+            "name": "Miganinani",
+            "release_date": "2023-07-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b273dff3291256ffbb5a19126ddb",
+            "track_url": "",
+            "id": 3467,
+            "artist": "Aziz Maraka"
+        },
+        {
+            "name": "Ya Bay Rooftop Concert",
+            "release_date": "2023-07-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b273912c866501ec410a524423c0",
+            "track_url": "",
+            "id": 3468,
+            "artist": "Aziz Maraka"
+        },
+        {
+            "name": "Meen Gallek Rooftop Concert",
+            "release_date": "2023-07-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c11539283fe3926c84fcfa65",
+            "track_url": "",
+            "id": 3469,
+            "artist": "Aziz Maraka"
+        },
+        {
+            "name": "Heye Rooftop Concert",
+            "release_date": "2023-07-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c27641e1699a076c5481fb71",
+            "track_url": "",
+            "id": 3470,
+            "artist": "Aziz Maraka"
+        },
+        {
+            "name": "Bint Gawiyeh Rooftop Concert",
+            "release_date": "2023-07-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731032191857f232333df5a5e4",
+            "track_url": "",
+            "id": 3471,
+            "artist": "Aziz Maraka"
+        },
+        {
+            "name": "El Waat El Helw (Makadi Heights Ad)",
+            "release_date": "2023-06-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738f56be63b7843f6b9574b782",
+            "track_url": "",
+            "id": 3472,
+            "artist": "Aziz Maraka"
+        },
+        {
+            "name": "Btes2aleeni",
+            "release_date": "2023-03-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b27315924afda38c2fe676011190",
+            "track_url": "",
+            "id": 3473,
+            "artist": "Aziz Maraka"
+        },
+        {
+            "name": "Bahebek Lelsama",
+            "release_date": "2023-02-13",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736fc138acc205ac5b7bec77a4",
+            "track_url": "",
+            "id": 3474,
+            "artist": "Aziz Maraka"
+        },
+        {
+            "name": "Dallek Ebki",
+            "release_date": "2023-01-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ed761b440e4aa3fd3af9fa5f",
+            "track_url": "",
+            "id": 3475,
+            "artist": "Aziz Maraka"
+        },
+        {
+            "name": "Btehlawi",
+            "release_date": "2022-02-13",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738f1822b1d6d1beb55552be78",
+            "track_url": "",
+            "id": 3476,
+            "artist": "Aziz Maraka"
+        },
+        {
+            "name": "Ahla Wahda",
+            "release_date": "2021-11-17",
+            "image": "https://i.scdn.co/image/ab67616d0000b273fd6c8660495430522f1fad11",
+            "track_url": "",
+            "id": 3477,
+            "artist": "Aziz Maraka"
+        },
+        {
+            "name": "Wein Rayheen",
+            "release_date": "2021-04-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b76facadac6ad8b76324d1cd",
+            "track_url": "",
+            "id": 3478,
+            "artist": "Aziz Maraka"
+        },
+        {
+            "name": "Al Hob El Kbir",
+            "release_date": "2020-12-22",
+            "image": "https://i.scdn.co/image/ab67616d0000b27382700df4dc9d007054f21f22",
+            "track_url": "",
+            "id": 3479,
+            "artist": "Aziz Maraka"
+        },
+        {
+            "name": "Dalia",
+            "release_date": "2020-04-17",
+            "image": "https://i.scdn.co/image/ab67616d0000b27370261fb4b2a036f235db9048",
+            "track_url": "",
+            "id": 3480,
+            "artist": "Aziz Maraka"
+        },
+        {
+            "name": "Mawali",
+            "release_date": "2020-01-12",
+            "image": "https://i.scdn.co/image/ab67616d0000b27308b2ce325998faf97948f79a",
+            "track_url": "",
+            "id": 3481,
+            "artist": "Aziz Maraka"
+        },
+        {
+            "name": "Allah Ghaleb (Red Bull Sound Clash) [Latino Version]",
+            "release_date": "2019-12-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b273eb350096e0297ee62520f57b",
+            "track_url": "",
+            "id": 3482,
+            "artist": "Aziz Maraka"
+        },
+        {
+            "name": "Ma Bagolek Asef (Red Bull Sound Clash) [Funk Version]",
+            "release_date": "2019-12-17",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a46c4f5324eafd5b3be38886",
+            "track_url": "",
+            "id": 3483,
+            "artist": "Aziz Maraka"
+        },
+        {
+            "name": "Wein Ma Tkooni",
+            "release_date": "2019-11-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b27357a46b260fff51641e669670",
+            "track_url": "",
+            "id": 3484,
+            "artist": "Aziz Maraka"
+        },
+        {
+            "name": "Wein Ma Tkooni (Street Live)",
+            "release_date": "2019-09-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e220604620e743cbefeeade0",
+            "track_url": "",
+            "id": 3485,
+            "artist": "Aziz Maraka"
+        },
+        {
+            "name": "Konna Sghar",
+            "release_date": "2019-08-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b27318c9c4005255d1ca6bb15156",
+            "track_url": "",
+            "id": 3486,
+            "artist": "Aziz Maraka"
+        },
+        {
+            "name": "Mafi Mennik",
+            "release_date": "2019-06-06",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a7dbdea925dfb40ae7fd0bef",
+            "track_url": "",
+            "id": 3487,
+            "artist": "Aziz Maraka"
+        },
+        {
+            "name": "Allah Ghaleb",
+            "release_date": "2018-11-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e494dfc42d0c6d246f504e2f",
+            "track_url": "",
+            "id": 3488,
+            "artist": "Aziz Maraka"
+        },
+        {
+            "name": "Ya Bay Live",
+            "release_date": "2018-10-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b273175e91ecc3d9954039666fa9",
+            "track_url": "",
+            "id": 3489,
+            "artist": "Aziz Maraka"
+        },
+        {
+            "name": "Rayha Live",
+            "release_date": "2018-10-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b72a485780e85dc33abb3407",
+            "track_url": "",
+            "id": 3490,
+            "artist": "Aziz Maraka"
+        },
+        {
+            "name": "Ibky Live",
+            "release_date": "2018-10-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b27339a618bc843f0b05c9dc87d3",
+            "track_url": "",
+            "id": 3491,
+            "artist": "Aziz Maraka"
+        },
+        {
+            "name": "Waggif",
+            "release_date": "2018-03-12",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a13ba14922d6c906634e0e3a",
+            "track_url": "",
+            "id": 3492,
+            "artist": "Aziz Maraka"
+        },
+        {
+            "name": "Bint Gawiyeh Live",
+            "release_date": "2018-03-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b273bf960c24d5a27d09e6e261fb",
+            "track_url": "",
+            "id": 3493,
+            "artist": "Aziz Maraka"
+        },
+        {
+            "name": "Sme3tek Live",
+            "release_date": "2018-03-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e882b34b651485090babd224",
+            "track_url": "",
+            "id": 3494,
+            "artist": "Aziz Maraka"
+        },
+        {
+            "name": "Konna Sghar Live",
+            "release_date": "2018-03-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739f1744caa8a88b5a9d960f94",
+            "track_url": "",
+            "id": 3495,
+            "artist": "Aziz Maraka"
+        },
+        {
+            "name": "Ehna Al Asl Live",
+            "release_date": "2018-03-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b273179b567ab641323095b02691",
+            "track_url": "",
+            "id": 3496,
+            "artist": "Aziz Maraka"
+        },
+        {
+            "name": "Khotta Ba live",
+            "release_date": "2017-10-29",
+            "image": "https://i.scdn.co/image/ab67616d0000b273536efe913dc0353e12a42219",
+            "track_url": "",
+            "id": 3497,
+            "artist": "Aziz Maraka"
+        },
+        {
+            "name": "Bent Gawyeh",
+            "release_date": "2017-07-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732b85b05bd10da0dae1760816",
+            "track_url": "",
+            "id": 3498,
+            "artist": "Aziz Maraka"
+        },
+        {
+            "name": "Ya Bay",
+            "release_date": "2016-11-14",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737d36a93f2d6aec26b331b125",
+            "track_url": "",
+            "id": 3499,
+            "artist": "Aziz Maraka"
+        },
+        {
+            "name": "Meen Gallek",
+            "release_date": "2015-02-12",
+            "image": "https://i.scdn.co/image/ab67616d0000b273fc903e5338db3dd9db1f859f",
+            "track_url": "",
+            "id": 3500,
+            "artist": "Aziz Maraka"
+        },
+        {
+            "name": "Eyeh",
+            "release_date": "2014-12-16",
+            "image": "https://i.scdn.co/image/ab67616d0000b27397a53a9ab2e45c002d7fe902",
+            "track_url": "",
+            "id": 3501,
+            "artist": "Aziz Maraka"
+        },
+        {
+            "name": "Sme3tek",
+            "release_date": "2014-11-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730799d0cbe13dfcbdc9d28a4c",
+            "track_url": "",
+            "id": 3502,
+            "artist": "Aziz Maraka"
+        },
+        {
+            "name": "End of the World",
+            "release_date": "2012-12-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736615c860e0b7da28d8d98297",
+            "track_url": "",
+            "id": 3503,
+            "artist": "Aziz Maraka"
+        },
+        {
+            "name": "Tzakartek",
+            "release_date": "2012-04-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739ee566ac7fe013df5f3c7e1f",
+            "track_url": "",
+            "id": 3504,
+            "artist": "Aziz Maraka"
+        }
+    ],
+    "popular_tracks": [
+        {
+            "name": "Mafi Mennik",
+            "track_url": "",
+            "duration_ms": 243834,
+            "image": "https://i.scdn.co/image/ab67616d0000b273a7dbdea925dfb40ae7fd0bef",
+            "id": 3505,
+            "artist": "Aziz Maraka"
+        },
+        {
+            "name": "Ahla Wahda",
+            "track_url": "",
+            "duration_ms": 160336,
+            "image": "https://i.scdn.co/image/ab67616d0000b273fd6c8660495430522f1fad11",
+            "id": 3506,
+            "artist": "Aziz Maraka"
+        },
+        {
+            "name": "Ma Tegy Sekka",
+            "track_url": "",
+            "duration_ms": 144782,
+            "image": "https://i.scdn.co/image/ab67616d0000b273b0f32804619b3513c525fbd3",
+            "id": 3507,
+            "artist": "Aziz Maraka"
+        },
+        {
+            "name": "Miganinani",
+            "track_url": "",
+            "duration_ms": 167874,
+            "image": "https://i.scdn.co/image/ab67616d0000b273dff3291256ffbb5a19126ddb",
+            "id": 3508,
+            "artist": "Aziz Maraka"
+        },
+        {
+            "name": "Ya Bay",
+            "track_url": "",
+            "duration_ms": 247028,
+            "image": "https://i.scdn.co/image/ab67616d0000b2737d36a93f2d6aec26b331b125",
+            "id": 3509,
+            "artist": "Aziz Maraka"
+        },
+        {
+            "name": "Meen Gallek",
+            "track_url": "",
+            "duration_ms": 176000,
+            "image": "https://i.scdn.co/image/ab67616d0000b273fc903e5338db3dd9db1f859f",
+            "id": 3510,
+            "artist": "Aziz Maraka"
+        },
+        {
+            "name": "Ahla Wahda (Slow Dance)",
+            "track_url": "",
+            "duration_ms": 186285,
+            "image": "https://i.scdn.co/image/ab67616d0000b27354c7c4e554ccda2a84f0a766",
+            "id": 3511,
+            "artist": "Aziz Maraka"
+        },
+        {
+            "name": "Nerga3 Le Awel Yom",
+            "track_url": "",
+            "duration_ms": 180599,
+            "image": "https://i.scdn.co/image/ab67616d0000b273cc272cf3aedabdba6edd119e",
+            "id": 3512,
+            "artist": "Aziz Maraka"
+        },
+        {
+            "name": "Bent El Nas",
+            "track_url": "",
+            "duration_ms": 268493,
+            "image": "https://i.scdn.co/image/ab67616d0000b273251695dae7469a56b568b915",
+            "id": 3513,
+            "artist": "Aziz Maraka"
+        },
+        {
+            "name": "Wein Rayheen",
+            "track_url": "",
+            "duration_ms": 185164,
+            "image": "https://i.scdn.co/image/ab67616d0000b273b76facadac6ad8b76324d1cd",
+            "id": 3514,
+            "artist": "Aziz Maraka"
+        }
+    ]
+}

@@ -1,0 +1,1233 @@
+{
+    "artist": {
+        "id": "10715",
+        "name": "Mayada El Hennawy",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb2850c29e72e46351fe478e1e",
+        "background_image": "https://i.scdn.co/image/ab676161000051742850c29e72e46351fe478e1e"
+    },
+    "albums": [
+        {
+            "name": "Mouch Awaydak / Achwak",
+            "release_date": "2014-06-03",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731806b28625273a830755bfc7",
+            "track_url": "https://open.spotify.com/album/6UdaIV4XBFSoRFdu3DrnWT",
+            "tracks": [
+                {
+                    "name": "Mouch Awaydak",
+                    "track_url": "",
+                    "duration_ms": 1263626,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731806b28625273a830755bfc7",
+                    "id": 10717,
+                    "artist": "Mayada El Hennawy"
+                },
+                {
+                    "name": "Achwak",
+                    "track_url": "",
+                    "duration_ms": 1209666,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731806b28625273a830755bfc7",
+                    "id": 10718,
+                    "artist": "Mayada El Hennawy"
+                }
+            ],
+            "id": 10716
+        },
+        {
+            "name": "A'aday",
+            "release_date": "2010-02-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736771659fa9b2ea49466d4280",
+            "track_url": "https://open.spotify.com/album/47NyXwKj94aKZHRskxgNaE",
+            "tracks": [
+                {
+                    "name": "Tayep Khalek",
+                    "track_url": "",
+                    "duration_ms": 389560,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736771659fa9b2ea49466d4280",
+                    "id": 10720,
+                    "artist": "Mayada El Hennawy"
+                },
+                {
+                    "name": "Ya Nadime",
+                    "track_url": "",
+                    "duration_ms": 421573,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736771659fa9b2ea49466d4280",
+                    "id": 10721,
+                    "artist": "Mayada El Hennawy"
+                },
+                {
+                    "name": "A'aday",
+                    "track_url": "",
+                    "duration_ms": 358520,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736771659fa9b2ea49466d4280",
+                    "id": 10722,
+                    "artist": "Mayada El Hennawy"
+                },
+                {
+                    "name": "Allah Alayek",
+                    "track_url": "",
+                    "duration_ms": 333973,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736771659fa9b2ea49466d4280",
+                    "id": 10723,
+                    "artist": "Mayada El Hennawy"
+                },
+                {
+                    "name": "Ahsanlak Trouh",
+                    "track_url": "",
+                    "duration_ms": 319226,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736771659fa9b2ea49466d4280",
+                    "id": 10724,
+                    "artist": "Mayada El Hennawy"
+                },
+                {
+                    "name": "Law Marah Habina",
+                    "track_url": "",
+                    "duration_ms": 298573,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736771659fa9b2ea49466d4280",
+                    "id": 10725,
+                    "artist": "Mayada El Hennawy"
+                },
+                {
+                    "name": "Taijak Dafani",
+                    "track_url": "",
+                    "duration_ms": 288466,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736771659fa9b2ea49466d4280",
+                    "id": 10726,
+                    "artist": "Mayada El Hennawy"
+                },
+                {
+                    "name": "Rohey",
+                    "track_url": "",
+                    "duration_ms": 313800,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736771659fa9b2ea49466d4280",
+                    "id": 10727,
+                    "artist": "Mayada El Hennawy"
+                },
+                {
+                    "name": "Law Taghmorny",
+                    "track_url": "",
+                    "duration_ms": 288386,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736771659fa9b2ea49466d4280",
+                    "id": 10728,
+                    "artist": "Mayada El Hennawy"
+                },
+                {
+                    "name": "Yaraj'ay",
+                    "track_url": "",
+                    "duration_ms": 542906,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736771659fa9b2ea49466d4280",
+                    "id": 10729,
+                    "artist": "Mayada El Hennawy"
+                }
+            ],
+            "id": 10719
+        },
+        {
+            "name": "Aerfo Ezzay",
+            "release_date": "2004-06-05",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b743653f3350caec1886609a",
+            "track_url": "https://open.spotify.com/album/6IHxeiUbsftoa8CMu2DA1v",
+            "tracks": [
+                {
+                    "name": "Aerfo Ezaay",
+                    "track_url": "",
+                    "duration_ms": 346841,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b743653f3350caec1886609a",
+                    "id": 10731,
+                    "artist": "Mayada El Hennawy"
+                },
+                {
+                    "name": "Sewarak Di",
+                    "track_url": "",
+                    "duration_ms": 293029,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b743653f3350caec1886609a",
+                    "id": 10732,
+                    "artist": "Mayada El Hennawy"
+                },
+                {
+                    "name": "Ya Aaz Habib",
+                    "track_url": "",
+                    "duration_ms": 304471,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b743653f3350caec1886609a",
+                    "id": 10733,
+                    "artist": "Mayada El Hennawy"
+                },
+                {
+                    "name": "Feen El Habayeb",
+                    "track_url": "",
+                    "duration_ms": 341147,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b743653f3350caec1886609a",
+                    "id": 10734,
+                    "artist": "Mayada El Hennawy"
+                },
+                {
+                    "name": "Hekayet Hayaty",
+                    "track_url": "",
+                    "duration_ms": 349558,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b743653f3350caec1886609a",
+                    "id": 10735,
+                    "artist": "Mayada El Hennawy"
+                },
+                {
+                    "name": "Agabak Kedah",
+                    "track_url": "",
+                    "duration_ms": 309774,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b743653f3350caec1886609a",
+                    "id": 10736,
+                    "artist": "Mayada El Hennawy"
+                },
+                {
+                    "name": "Hayaty Fi korbak",
+                    "track_url": "",
+                    "duration_ms": 369176,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b743653f3350caec1886609a",
+                    "id": 10737,
+                    "artist": "Mayada El Hennawy"
+                },
+                {
+                    "name": "Einy",
+                    "track_url": "",
+                    "duration_ms": 277878,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b743653f3350caec1886609a",
+                    "id": 10738,
+                    "artist": "Mayada El Hennawy"
+                }
+            ],
+            "id": 10730
+        },
+        {
+            "name": "Ana Baashaak",
+            "release_date": "2002-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f59f541a427d9a61588da62b",
+            "track_url": "https://open.spotify.com/album/3TBiRcV5BVsFTaqot77WpG",
+            "tracks": [
+                {
+                    "name": "Ana Baashaak",
+                    "track_url": "",
+                    "duration_ms": 2222355,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f59f541a427d9a61588da62b",
+                    "id": 10740,
+                    "artist": "Mayada El Hennawy"
+                },
+                {
+                    "name": "Esmaa Etaby",
+                    "track_url": "",
+                    "duration_ms": 1358903,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f59f541a427d9a61588da62b",
+                    "id": 10741,
+                    "artist": "Mayada El Hennawy"
+                }
+            ],
+            "id": 10739
+        },
+        {
+            "name": "Ghayart Hayati",
+            "release_date": "2002-07-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c03e2f0a284086fcb633bd06",
+            "track_url": "https://open.spotify.com/album/1wIgx4YSMVPaZKQAfFfUB0",
+            "tracks": [
+                {
+                    "name": "Ghayart Haytey",
+                    "track_url": "",
+                    "duration_ms": 390231,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c03e2f0a284086fcb633bd06",
+                    "id": 10743,
+                    "artist": "Mayada El Hennawy"
+                },
+                {
+                    "name": "Lila",
+                    "track_url": "",
+                    "duration_ms": 398982,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c03e2f0a284086fcb633bd06",
+                    "id": 10744,
+                    "artist": "Mayada El Hennawy"
+                },
+                {
+                    "name": "Kalam El Layel",
+                    "track_url": "",
+                    "duration_ms": 668148,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c03e2f0a284086fcb633bd06",
+                    "id": 10745,
+                    "artist": "Mayada El Hennawy"
+                },
+                {
+                    "name": "Walah",
+                    "track_url": "",
+                    "duration_ms": 454701,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c03e2f0a284086fcb633bd06",
+                    "id": 10746,
+                    "artist": "Mayada El Hennawy"
+                },
+                {
+                    "name": "Betebeaid Any",
+                    "track_url": "",
+                    "duration_ms": 534897,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c03e2f0a284086fcb633bd06",
+                    "id": 10747,
+                    "artist": "Mayada El Hennawy"
+                },
+                {
+                    "name": "Maly",
+                    "track_url": "",
+                    "duration_ms": 457313,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c03e2f0a284086fcb633bd06",
+                    "id": 10748,
+                    "artist": "Mayada El Hennawy"
+                }
+            ],
+            "id": 10742
+        },
+        {
+            "name": "Toba",
+            "release_date": "1998-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b27372e3d98d9aa9188e997ec1c9",
+            "track_url": "https://open.spotify.com/album/4q7W0iw3NgvldC2NeiLL5Z",
+            "tracks": [
+                {
+                    "name": "Toba",
+                    "track_url": "",
+                    "duration_ms": 283442,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27372e3d98d9aa9188e997ec1c9",
+                    "id": 10750,
+                    "artist": "Mayada El Hennawy"
+                },
+                {
+                    "name": "Dawa Einy",
+                    "track_url": "",
+                    "duration_ms": 509819,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27372e3d98d9aa9188e997ec1c9",
+                    "id": 10751,
+                    "artist": "Mayada El Hennawy"
+                },
+                {
+                    "name": "Akher Resala",
+                    "track_url": "",
+                    "duration_ms": 445192,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27372e3d98d9aa9188e997ec1c9",
+                    "id": 10752,
+                    "artist": "Mayada El Hennawy"
+                },
+                {
+                    "name": "Albe Aleik",
+                    "track_url": "",
+                    "duration_ms": 265810,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27372e3d98d9aa9188e997ec1c9",
+                    "id": 10753,
+                    "artist": "Mayada El Hennawy"
+                },
+                {
+                    "name": "Etasalt",
+                    "track_url": "",
+                    "duration_ms": 381428,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27372e3d98d9aa9188e997ec1c9",
+                    "id": 10754,
+                    "artist": "Mayada El Hennawy"
+                },
+                {
+                    "name": "Leya Hak Andak",
+                    "track_url": "",
+                    "duration_ms": 443521,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27372e3d98d9aa9188e997ec1c9",
+                    "id": 10755,
+                    "artist": "Mayada El Hennawy"
+                }
+            ],
+            "id": 10749
+        },
+        {
+            "name": "Gebt Alb Menein Zay El Rabea Live",
+            "release_date": "1997-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b27303fbff0b6696aa678bd03e26",
+            "track_url": "https://open.spotify.com/album/1Y57be3GAtwLXR8aPl4vOH",
+            "tracks": [
+                {
+                    "name": "Gebt Alb Menaen Live Record",
+                    "track_url": "",
+                    "duration_ms": 1176464,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27303fbff0b6696aa678bd03e26",
+                    "id": 10757,
+                    "artist": "Mayada El Hennawy"
+                },
+                {
+                    "name": "Zay El Rabeaa Live Record",
+                    "track_url": "",
+                    "duration_ms": 1176099,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27303fbff0b6696aa678bd03e26",
+                    "id": 10758,
+                    "artist": "Mayada El Hennawy"
+                }
+            ],
+            "id": 10756
+        },
+        {
+            "name": "El Layali",
+            "release_date": "1997-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b3477eded7fbaf4c48b2ff02",
+            "track_url": "https://open.spotify.com/album/3QNcRoTyS4dMawskF8qRF6",
+            "tracks": [
+                {
+                    "name": "El Layali",
+                    "track_url": "",
+                    "duration_ms": 741630,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b3477eded7fbaf4c48b2ff02",
+                    "id": 10760,
+                    "artist": "Mayada El Hennawy"
+                },
+                {
+                    "name": "Tayeb Ya Leil",
+                    "track_url": "",
+                    "duration_ms": 450521,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b3477eded7fbaf4c48b2ff02",
+                    "id": 10761,
+                    "artist": "Mayada El Hennawy"
+                },
+                {
+                    "name": "Ya Amar Meel",
+                    "track_url": "",
+                    "duration_ms": 607152,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b3477eded7fbaf4c48b2ff02",
+                    "id": 10762,
+                    "artist": "Mayada El Hennawy"
+                },
+                {
+                    "name": "Seboly Albi",
+                    "track_url": "",
+                    "duration_ms": 555769,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b3477eded7fbaf4c48b2ff02",
+                    "id": 10763,
+                    "artist": "Mayada El Hennawy"
+                },
+                {
+                    "name": "El Hob Elly Kan",
+                    "track_url": "",
+                    "duration_ms": 1185163,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b3477eded7fbaf4c48b2ff02",
+                    "id": 10764,
+                    "artist": "Mayada El Hennawy"
+                }
+            ],
+            "id": 10759
+        },
+        {
+            "name": "Matgarabnesh",
+            "release_date": "1996-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734eef0b03f1a840ee8e3b7af3",
+            "track_url": "https://open.spotify.com/album/5pYSluZoP9mPF1EWjYFdLr",
+            "tracks": [
+                {
+                    "name": "Matgarabnesh",
+                    "track_url": "",
+                    "duration_ms": 433516,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734eef0b03f1a840ee8e3b7af3",
+                    "id": 10766,
+                    "artist": "Mayada El Hennawy"
+                },
+                {
+                    "name": "Enta Hena",
+                    "track_url": "",
+                    "duration_ms": 430041,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734eef0b03f1a840ee8e3b7af3",
+                    "id": 10767,
+                    "artist": "Mayada El Hennawy"
+                },
+                {
+                    "name": "Fagaa",
+                    "track_url": "",
+                    "duration_ms": 371109,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734eef0b03f1a840ee8e3b7af3",
+                    "id": 10768,
+                    "artist": "Mayada El Hennawy"
+                },
+                {
+                    "name": "W Edert Ezay",
+                    "track_url": "",
+                    "duration_ms": 859416,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734eef0b03f1a840ee8e3b7af3",
+                    "id": 10769,
+                    "artist": "Mayada El Hennawy"
+                },
+                {
+                    "name": "Khaly El Khesam Legherna",
+                    "track_url": "",
+                    "duration_ms": 372102,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734eef0b03f1a840ee8e3b7af3",
+                    "id": 10770,
+                    "artist": "Mayada El Hennawy"
+                }
+            ],
+            "id": 10765
+        },
+        {
+            "name": "Ana Moghrama",
+            "release_date": "1996-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b27305fba70186c8c6f7667fb9bb",
+            "track_url": "https://open.spotify.com/album/0QJqiAX2trIKVPsL9qOG8e",
+            "tracks": [
+                {
+                    "name": "Ana Mogharama",
+                    "track_url": "",
+                    "duration_ms": 492526,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27305fba70186c8c6f7667fb9bb",
+                    "id": 10772,
+                    "artist": "Mayada El Hennawy"
+                },
+                {
+                    "name": "Tasawaro",
+                    "track_url": "",
+                    "duration_ms": 540435,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27305fba70186c8c6f7667fb9bb",
+                    "id": 10773,
+                    "artist": "Mayada El Hennawy"
+                },
+                {
+                    "name": "Matefakarsh Keteer",
+                    "track_url": "",
+                    "duration_ms": 402874,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27305fba70186c8c6f7667fb9bb",
+                    "id": 10774,
+                    "artist": "Mayada El Hennawy"
+                },
+                {
+                    "name": "Ma Tegrahoosh",
+                    "track_url": "",
+                    "duration_ms": 580272,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27305fba70186c8c6f7667fb9bb",
+                    "id": 10775,
+                    "artist": "Mayada El Hennawy"
+                }
+            ],
+            "id": 10771
+        },
+        {
+            "name": "Ya Shouq",
+            "release_date": "1995-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273629f301082e865ca82f053ee",
+            "track_url": "https://open.spotify.com/album/2ApRI0L7tky4QwhmdemiUF",
+            "tracks": [
+                {
+                    "name": "Ya Shook",
+                    "track_url": "",
+                    "duration_ms": 545607,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273629f301082e865ca82f053ee",
+                    "id": 10777,
+                    "artist": "Mayada El Hennawy"
+                },
+                {
+                    "name": "Men Ghaier Loka",
+                    "track_url": "",
+                    "duration_ms": 365911,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273629f301082e865ca82f053ee",
+                    "id": 10778,
+                    "artist": "Mayada El Hennawy"
+                },
+                {
+                    "name": "El Fark Baina",
+                    "track_url": "",
+                    "duration_ms": 555403,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273629f301082e865ca82f053ee",
+                    "id": 10779,
+                    "artist": "Mayada El Hennawy"
+                },
+                {
+                    "name": "Kebriaay",
+                    "track_url": "",
+                    "duration_ms": 413349,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273629f301082e865ca82f053ee",
+                    "id": 10780,
+                    "artist": "Mayada El Hennawy"
+                },
+                {
+                    "name": "Mestaghrabeen",
+                    "track_url": "",
+                    "duration_ms": 546234,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273629f301082e865ca82f053ee",
+                    "id": 10781,
+                    "artist": "Mayada El Hennawy"
+                },
+                {
+                    "name": "Ela El Nesian",
+                    "track_url": "",
+                    "duration_ms": 509375,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273629f301082e865ca82f053ee",
+                    "id": 10782,
+                    "artist": "Mayada El Hennawy"
+                }
+            ],
+            "id": 10776
+        },
+        {
+            "name": "Howa mosh Ana",
+            "release_date": "1995-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273488c049e2342dab66a57a15a",
+            "track_url": "https://open.spotify.com/album/10Hgjiy09IW1zW2VDIGxE5",
+            "tracks": [
+                {
+                    "name": "Howa mosh Ana",
+                    "track_url": "",
+                    "duration_ms": 494329,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273488c049e2342dab66a57a15a",
+                    "id": 10784,
+                    "artist": "Mayada El Hennawy"
+                },
+                {
+                    "name": "Tawelna Ketir",
+                    "track_url": "",
+                    "duration_ms": 406374,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273488c049e2342dab66a57a15a",
+                    "id": 10785,
+                    "artist": "Mayada El Hennawy"
+                },
+                {
+                    "name": "Ma Afrahsh Leih",
+                    "track_url": "",
+                    "duration_ms": 342087,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273488c049e2342dab66a57a15a",
+                    "id": 10786,
+                    "artist": "Mayada El Hennawy"
+                },
+                {
+                    "name": "Akher Mara",
+                    "track_url": "",
+                    "duration_ms": 413898,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273488c049e2342dab66a57a15a",
+                    "id": 10787,
+                    "artist": "Mayada El Hennawy"
+                },
+                {
+                    "name": "Oddam Eneik",
+                    "track_url": "",
+                    "duration_ms": 426802,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273488c049e2342dab66a57a15a",
+                    "id": 10788,
+                    "artist": "Mayada El Hennawy"
+                },
+                {
+                    "name": "Hafakkarak",
+                    "track_url": "",
+                    "duration_ms": 377065,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273488c049e2342dab66a57a15a",
+                    "id": 10789,
+                    "artist": "Mayada El Hennawy"
+                }
+            ],
+            "id": 10783
+        },
+        {
+            "name": "Habena Galak Kalamy",
+            "release_date": "1994-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a3616f85f389b221e00786ec",
+            "track_url": "https://open.spotify.com/album/7A153ol2IGakokVL78G1dy",
+            "tracks": [
+                {
+                    "name": "Habena Wala Kan Al Bal",
+                    "track_url": "",
+                    "duration_ms": 414629,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a3616f85f389b221e00786ec",
+                    "id": 10791,
+                    "artist": "Mayada El Hennawy"
+                },
+                {
+                    "name": "Galak Kalamy",
+                    "track_url": "",
+                    "duration_ms": 410032,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a3616f85f389b221e00786ec",
+                    "id": 10792,
+                    "artist": "Mayada El Hennawy"
+                },
+                {
+                    "name": "Meen Edak El Haq",
+                    "track_url": "",
+                    "duration_ms": 550675,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a3616f85f389b221e00786ec",
+                    "id": 10793,
+                    "artist": "Mayada El Hennawy"
+                },
+                {
+                    "name": "Laymeen",
+                    "track_url": "",
+                    "duration_ms": 377170,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a3616f85f389b221e00786ec",
+                    "id": 10794,
+                    "artist": "Mayada El Hennawy"
+                },
+                {
+                    "name": "Enta Tani",
+                    "track_url": "",
+                    "duration_ms": 617992,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a3616f85f389b221e00786ec",
+                    "id": 10795,
+                    "artist": "Mayada El Hennawy"
+                }
+            ],
+            "id": 10790
+        },
+        {
+            "name": "Bayent El Hob Alaya",
+            "release_date": "1994-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b61881f5d4c62d5827025ce4",
+            "track_url": "https://open.spotify.com/album/2ayBAdtVIynihC1POULDiq",
+            "tracks": [
+                {
+                    "name": "Bayent El Hob Alaya",
+                    "track_url": "",
+                    "duration_ms": 250032,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b61881f5d4c62d5827025ce4",
+                    "id": 10797,
+                    "artist": "Mayada El Hennawy"
+                },
+                {
+                    "name": "Kaloly Ansa",
+                    "track_url": "",
+                    "duration_ms": 664334,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b61881f5d4c62d5827025ce4",
+                    "id": 10798,
+                    "artist": "Mayada El Hennawy"
+                },
+                {
+                    "name": "Mahma Aghany",
+                    "track_url": "",
+                    "duration_ms": 290704,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b61881f5d4c62d5827025ce4",
+                    "id": 10799,
+                    "artist": "Mayada El Hennawy"
+                },
+                {
+                    "name": "Ademt El Roh",
+                    "track_url": "",
+                    "duration_ms": 579854,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b61881f5d4c62d5827025ce4",
+                    "id": 10800,
+                    "artist": "Mayada El Hennawy"
+                },
+                {
+                    "name": "Maak Lenehaya",
+                    "track_url": "",
+                    "duration_ms": 617156,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b61881f5d4c62d5827025ce4",
+                    "id": 10801,
+                    "artist": "Mayada El Hennawy"
+                }
+            ],
+            "id": 10796
+        },
+        {
+            "name": "Aktar Men El Hob Adeelak Eh Live",
+            "release_date": "1993-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736acd823183e57174cb732034",
+            "track_url": "https://open.spotify.com/album/6XrAnNw3X6eF8Qca9hdgWb",
+            "tracks": [
+                {
+                    "name": "Aktar Men El Hob Adelak 1 Live Record",
+                    "track_url": "",
+                    "duration_ms": 2318880,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736acd823183e57174cb732034",
+                    "id": 10803,
+                    "artist": "Mayada El Hennawy"
+                },
+                {
+                    "name": "Fatet Sana",
+                    "track_url": "",
+                    "duration_ms": 1246973,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736acd823183e57174cb732034",
+                    "id": 10804,
+                    "artist": "Mayada El Hennawy"
+                }
+            ],
+            "id": 10802
+        },
+        {
+            "name": "Amr El Hawa",
+            "release_date": "1992-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b27374b36ef37e54058ad5cae15d",
+            "track_url": "https://open.spotify.com/album/3k1XYualCUTX7Uz1jmpTjY",
+            "tracks": [
+                {
+                    "name": "Amr El Hawa",
+                    "track_url": "",
+                    "duration_ms": 677630,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27374b36ef37e54058ad5cae15d",
+                    "id": 10806,
+                    "artist": "Mayada El Hennawy"
+                },
+                {
+                    "name": "Kased Tesaharny",
+                    "track_url": "",
+                    "duration_ms": 444513,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27374b36ef37e54058ad5cae15d",
+                    "id": 10807,
+                    "artist": "Mayada El Hennawy"
+                },
+                {
+                    "name": "Ana Mokhlesalak",
+                    "track_url": "",
+                    "duration_ms": 500415,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27374b36ef37e54058ad5cae15d",
+                    "id": 10808,
+                    "artist": "Mayada El Hennawy"
+                },
+                {
+                    "name": "Al Shams",
+                    "track_url": "",
+                    "duration_ms": 571442,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27374b36ef37e54058ad5cae15d",
+                    "id": 10809,
+                    "artist": "Mayada El Hennawy"
+                }
+            ],
+            "id": 10805
+        },
+        {
+            "name": "Ehlaw Omry Mahla El Ghram",
+            "release_date": "1989-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737464cecc529b7d3c0fe34857",
+            "track_url": "https://open.spotify.com/album/6Kv22hhkSeZSisqm1koSbU",
+            "tracks": [
+                {
+                    "name": "Ehlaw Omry",
+                    "track_url": "",
+                    "duration_ms": 1485075,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737464cecc529b7d3c0fe34857",
+                    "id": 10811,
+                    "artist": "Mayada El Hennawy"
+                },
+                {
+                    "name": "Mahla El Ghram",
+                    "track_url": "",
+                    "duration_ms": 1460807,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737464cecc529b7d3c0fe34857",
+                    "id": 10812,
+                    "artist": "Mayada El Hennawy"
+                }
+            ],
+            "id": 10810
+        },
+        {
+            "name": "We Betehlef Leih El Hob Betaa Zaman",
+            "release_date": "1988-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731f75a0261fc70fa7059c7b81",
+            "track_url": "https://open.spotify.com/album/3XUGBCy820oqblXRlmRkYT",
+            "tracks": [
+                {
+                    "name": "We Btahlef Leeh Live Record",
+                    "track_url": "",
+                    "duration_ms": 1077042,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731f75a0261fc70fa7059c7b81",
+                    "id": 10814,
+                    "artist": "Mayada El Hennawy"
+                },
+                {
+                    "name": "El Hop Betaa Zaman Live Record",
+                    "track_url": "",
+                    "duration_ms": 1073333,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731f75a0261fc70fa7059c7b81",
+                    "id": 10815,
+                    "artist": "Mayada El Hennawy"
+                }
+            ],
+            "id": 10813
+        },
+        {
+            "name": "Akher Zaman Enta El Habeeb",
+            "release_date": "1987-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b27301f4d1c05ff49d83ee784dde",
+            "track_url": "https://open.spotify.com/album/1bpYWWWHXghZjtQrrddHt9",
+            "tracks": [
+                {
+                    "name": "Akher Zaman",
+                    "track_url": "",
+                    "duration_ms": 2383583,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27301f4d1c05ff49d83ee784dde",
+                    "id": 10817,
+                    "artist": "Mayada El Hennawy"
+                },
+                {
+                    "name": "Anta El Habeb",
+                    "track_url": "",
+                    "duration_ms": 999380,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27301f4d1c05ff49d83ee784dde",
+                    "id": 10818,
+                    "artist": "Mayada El Hennawy"
+                }
+            ],
+            "id": 10816
+        },
+        {
+            "name": "Thawret El Shouq",
+            "release_date": "1985-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f153af42336674e10fb51b4e",
+            "track_url": "https://open.spotify.com/album/1GrVvqct4bLZu0UlpUIL8G",
+            "tracks": [
+                {
+                    "name": "Thawret El Shok",
+                    "track_url": "",
+                    "duration_ms": 1106169,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f153af42336674e10fb51b4e",
+                    "id": 10820,
+                    "artist": "Mayada El Hennawy"
+                },
+                {
+                    "name": "Bokaa El Habieb",
+                    "track_url": "",
+                    "duration_ms": 1066201,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f153af42336674e10fb51b4e",
+                    "id": 10821,
+                    "artist": "Mayada El Hennawy"
+                }
+            ],
+            "id": 10819
+        },
+        {
+            "name": "Talg We Nar",
+            "release_date": "1985-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ec04d4f41992d43d0ee3d088",
+            "track_url": "https://open.spotify.com/album/4MDSBoLEhDfOipBKCLtJHD",
+            "tracks": [
+                {
+                    "name": "Thalg We Nar",
+                    "track_url": "",
+                    "duration_ms": 2319034,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ec04d4f41992d43d0ee3d088",
+                    "id": 10823,
+                    "artist": "Mayada El Hennawy"
+                },
+                {
+                    "name": "Gaza Kalby",
+                    "track_url": "",
+                    "duration_ms": 1150629,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ec04d4f41992d43d0ee3d088",
+                    "id": 10824,
+                    "artist": "Mayada El Hennawy"
+                }
+            ],
+            "id": 10822
+        },
+        {
+            "name": "Hekayet Hob Thawret el Shouq",
+            "release_date": "1985-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a823744d69a55c0a4e1a655b",
+            "track_url": "https://open.spotify.com/album/3Q7F9LlrBsflxGlYS5UZf3",
+            "tracks": [
+                {
+                    "name": "Hekayet Hob",
+                    "track_url": "",
+                    "duration_ms": 1825450,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a823744d69a55c0a4e1a655b",
+                    "id": 10826,
+                    "artist": "Mayada El Hennawy"
+                },
+                {
+                    "name": "Thawret El Shok",
+                    "track_url": "",
+                    "duration_ms": 1166172,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a823744d69a55c0a4e1a655b",
+                    "id": 10827,
+                    "artist": "Mayada El Hennawy"
+                }
+            ],
+            "id": 10825
+        },
+        {
+            "name": "Daawa Lel Hob",
+            "release_date": "1984-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b27305d586e651ea3c2c428948d6",
+            "track_url": "https://open.spotify.com/album/2FIFJphFWrftI16PuZvme6",
+            "tracks": [
+                {
+                    "name": "Dawaa Lel Hob",
+                    "track_url": "",
+                    "duration_ms": 1191903,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27305d586e651ea3c2c428948d6",
+                    "id": 10829,
+                    "artist": "Mayada El Hennawy"
+                },
+                {
+                    "name": "El Habeb El Mostabed",
+                    "track_url": "",
+                    "duration_ms": 1148696,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27305d586e651ea3c2c428948d6",
+                    "id": 10830,
+                    "artist": "Mayada El Hennawy"
+                }
+            ],
+            "id": 10828
+        },
+        {
+            "name": "Hobak Mayenteheesh Habena we Ethabena",
+            "release_date": "1983-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b84715c65a62929c07e1f357",
+            "track_url": "https://open.spotify.com/album/5EumXX488vPcDUZmtxcn9v",
+            "tracks": [
+                {
+                    "name": "Hobak Mayentehesh Live Record",
+                    "track_url": "",
+                    "duration_ms": 2297274,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b84715c65a62929c07e1f357",
+                    "id": 10832,
+                    "artist": "Mayada El Hennawy"
+                },
+                {
+                    "name": "Habena we Ethabena",
+                    "track_url": "",
+                    "duration_ms": 1167583,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b84715c65a62929c07e1f357",
+                    "id": 10833,
+                    "artist": "Mayada El Hennawy"
+                }
+            ],
+            "id": 10831
+        },
+        {
+            "name": "Awel We Akher Habeeb Daawa Lel Hob",
+            "release_date": "1983-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738bf70cd7c970006323e0801e",
+            "track_url": "https://open.spotify.com/album/5eA7mKigc31UHpT0mmgBhs",
+            "tracks": [
+                {
+                    "name": "Awel We Akher Habeeb Live Record",
+                    "track_url": "",
+                    "duration_ms": 2356807,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738bf70cd7c970006323e0801e",
+                    "id": 10835,
+                    "artist": "Mayada El Hennawy"
+                },
+                {
+                    "name": "Dawaa Lel Hob",
+                    "track_url": "",
+                    "duration_ms": 1193235,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738bf70cd7c970006323e0801e",
+                    "id": 10836,
+                    "artist": "Mayada El Hennawy"
+                }
+            ],
+            "id": 10834
+        },
+        {
+            "name": "Seedi Ana Ana Amel Eh Live",
+            "release_date": "1982-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b606af1fb4da59e43c89394c",
+            "track_url": "https://open.spotify.com/album/2TrkhflhrQNiD2HQ8leABy",
+            "tracks": [
+                {
+                    "name": "Sidi Ana Live",
+                    "track_url": "",
+                    "duration_ms": 2330162,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b606af1fb4da59e43c89394c",
+                    "id": 10838,
+                    "artist": "Mayada El Hennawy"
+                },
+                {
+                    "name": "Ana Amel Aeh Live Record",
+                    "track_url": "",
+                    "duration_ms": 1012938,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b606af1fb4da59e43c89394c",
+                    "id": 10839,
+                    "artist": "Mayada El Hennawy"
+                }
+            ],
+            "id": 10837
+        },
+        {
+            "name": "Awel Ma shoftak Seraa Maa El Yaas",
+            "release_date": "1981-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730cdf024d4d42efd04216bc4e",
+            "track_url": "https://open.spotify.com/album/1JjHiG3wAysWgQkRFbm19m",
+            "tracks": [
+                {
+                    "name": "Awel Ma shoftak",
+                    "track_url": "",
+                    "duration_ms": 2677695,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730cdf024d4d42efd04216bc4e",
+                    "id": 10841,
+                    "artist": "Mayada El Hennawy"
+                },
+                {
+                    "name": "Seraa Maa El Yaas",
+                    "track_url": "",
+                    "duration_ms": 884023,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730cdf024d4d42efd04216bc4e",
+                    "id": 10842,
+                    "artist": "Mayada El Hennawy"
+                }
+            ],
+            "id": 10840
+        }
+    ],
+    "singles": [
+        {
+            "name": "Habet Zekraiat",
+            "release_date": "2024-05-02",
+            "image": "https://i.scdn.co/image/ab67616d0000b273716c64673adfa0b1d98422f1",
+            "track_url": "",
+            "id": 10843,
+            "artist": "Mayada El Hennawy"
+        },
+        {
+            "name": "Ahebany Kama Ana",
+            "release_date": "2024-02-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27333cda6af91452439abf3a99d",
+            "track_url": "",
+            "id": 10844,
+            "artist": "Mayada El Hennawy"
+        },
+        {
+            "name": "Ya Leilet El Eid",
+            "release_date": "2023-06-26",
+            "image": "https://i.scdn.co/image/ab67616d0000b27314b19f7f10de248ba4c72d5f",
+            "track_url": "",
+            "id": 10845,
+            "artist": "Mayada El Hennawy"
+        },
+        {
+            "name": "Talg W Nar Live",
+            "release_date": "2002-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b9d4326fe78e825e672c427e",
+            "track_url": "",
+            "id": 10846,
+            "artist": "Mayada El Hennawy"
+        },
+        {
+            "name": "Ana Baashaak Live",
+            "release_date": "2002-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730d4e2058384aa9cba993a3ec",
+            "track_url": "",
+            "id": 10847,
+            "artist": "Mayada El Hennawy"
+        },
+        {
+            "name": "Regeana Lel Bedaya Live",
+            "release_date": "1993-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b27345fbba83416ea93647dc5e0a",
+            "track_url": "",
+            "id": 10848,
+            "artist": "Mayada El Hennawy"
+        },
+        {
+            "name": "3Andy Kalam",
+            "release_date": "1992-09-22",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e32b2d5ff7790599ca3318b3",
+            "track_url": "",
+            "id": 10849,
+            "artist": "Mayada El Hennawy"
+        },
+        {
+            "name": "El Hal El Waheed Live",
+            "release_date": "1990-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735ffa3e5f90d7b6902b62c005",
+            "track_url": "",
+            "id": 10850,
+            "artist": "Mayada El Hennawy"
+        },
+        {
+            "name": "El Hob Elly Kan Live",
+            "release_date": "1988-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c5b4524147c42af84543e15e",
+            "track_url": "",
+            "id": 10851,
+            "artist": "Mayada El Hennawy"
+        },
+        {
+            "name": "Ealan El Hob",
+            "release_date": "1987-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c9fc13291a64fb4a596b7b04",
+            "track_url": "",
+            "id": 10852,
+            "artist": "Mayada El Hennawy"
+        },
+        {
+            "name": "Sidi Ana",
+            "release_date": "1982-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b47f9eb8f6402d46bcbda052",
+            "track_url": "",
+            "id": 10853,
+            "artist": "Mayada El Hennawy"
+        },
+        {
+            "name": "Hekayet Hob Live",
+            "release_date": "1982-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c2ffbabb8d2c4d61c73a4588",
+            "track_url": "",
+            "id": 10854,
+            "artist": "Mayada El Hennawy"
+        }
+    ],
+    "popular_tracks": [
+        {
+            "name": "Bayent El Hob Alaya",
+            "track_url": "",
+            "duration_ms": 250032,
+            "image": "https://i.scdn.co/image/ab67616d0000b273b61881f5d4c62d5827025ce4",
+            "id": 10855,
+            "artist": "Mayada El Hennawy"
+        },
+        {
+            "name": "El Hob Elly Kan",
+            "track_url": "",
+            "duration_ms": 1185163,
+            "image": "https://i.scdn.co/image/ab67616d0000b273b3477eded7fbaf4c48b2ff02",
+            "id": 10856,
+            "artist": "Mayada El Hennawy"
+        },
+        {
+            "name": "Al Shams",
+            "track_url": "",
+            "duration_ms": 571442,
+            "image": "https://i.scdn.co/image/ab67616d0000b27374b36ef37e54058ad5cae15d",
+            "id": 10857,
+            "artist": "Mayada El Hennawy"
+        },
+        {
+            "name": "Ana Baashaak",
+            "track_url": "",
+            "duration_ms": 2222355,
+            "image": "https://i.scdn.co/image/ab67616d0000b273f59f541a427d9a61588da62b",
+            "id": 10858,
+            "artist": "Mayada El Hennawy"
+        },
+        {
+            "name": "Ehlaw Omry",
+            "track_url": "",
+            "duration_ms": 1485075,
+            "image": "https://i.scdn.co/image/ab67616d0000b2737464cecc529b7d3c0fe34857",
+            "id": 10859,
+            "artist": "Mayada El Hennawy"
+        },
+        {
+            "name": "Fatet Sana",
+            "track_url": "",
+            "duration_ms": 1246973,
+            "image": "https://i.scdn.co/image/ab67616d0000b2736acd823183e57174cb732034",
+            "id": 10860,
+            "artist": "Mayada El Hennawy"
+        },
+        {
+            "name": "Ghayart Haytey",
+            "track_url": "",
+            "duration_ms": 390231,
+            "image": "https://i.scdn.co/image/ab67616d0000b273c03e2f0a284086fcb633bd06",
+            "id": 10861,
+            "artist": "Mayada El Hennawy"
+        },
+        {
+            "name": "Seboly Albi",
+            "track_url": "",
+            "duration_ms": 555769,
+            "image": "https://i.scdn.co/image/ab67616d0000b273b3477eded7fbaf4c48b2ff02",
+            "id": 10862,
+            "artist": "Mayada El Hennawy"
+        },
+        {
+            "name": "Mouch Awaydak",
+            "track_url": "",
+            "duration_ms": 1263626,
+            "image": "https://i.scdn.co/image/ab67616d0000b2731806b28625273a830755bfc7",
+            "id": 10863,
+            "artist": "Mayada El Hennawy"
+        },
+        {
+            "name": "Ahsanlak Trouh",
+            "track_url": "",
+            "duration_ms": 319226,
+            "image": "https://i.scdn.co/image/ab67616d0000b2736771659fa9b2ea49466d4280",
+            "id": 10864,
+            "artist": "Mayada El Hennawy"
+        }
+    ]
+}

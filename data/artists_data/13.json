@@ -1,0 +1,2162 @@
+{
+    "artist": {
+        "id": "2356",
+        "name": "Angham",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb99f39839e4f023fbf33d45e1",
+        "background_image": "https://i.scdn.co/image/ab6761610000517499f39839e4f023fbf33d45e1"
+    },
+    "albums": [
+        {
+            "name": "تيجي نسيب",
+            "release_date": "2024-07-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732a729d001483ba6e99710b5f",
+            "track_url": "https://open.spotify.com/album/2hq36WlHifY01YuBdfLv15",
+            "tracks": [
+                {
+                    "name": "بقالك قلب",
+                    "track_url": "https://www.dropbox.com/scl/fi/ezcq3v7bptlt98ycsrzu9/Albumaty.Com_angham_wbkalk_klb.mp3?rlkey=lvcevrg4wku3of3rb6hdg496q&st=09s6ey5j&dl=1",
+                    "duration_ms": 205714,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732a729d001483ba6e99710b5f",
+                    "id": 2358,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "هو انت مين",
+                    "track_url": "https://www.dropbox.com/scl/fi/fe24uvilvhw0rgpm9vdk2/Albumaty.Com_angham_hw_ant_myn.mp3?rlkey=bof2na8j6zzxoco2bnw2rf50t&st=e1sa075a&dl=1",
+                    "duration_ms": 281052,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732a729d001483ba6e99710b5f",
+                    "id": 2359,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "موافقه",
+                    "track_url": "https://www.dropbox.com/scl/fi/e0a6b3t9regl8hw8i4eec/Albumaty.Com_angham_mwafkh.mp3?rlkey=lcuz1q31squoxbhyouo1oknya&st=eclo66y1&dl=1",
+                    "duration_ms": 273984,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732a729d001483ba6e99710b5f",
+                    "id": 2360,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "ايه الأخبار",
+                    "track_url": "https://www.dropbox.com/scl/fi/cwq751fbucg7degqb0bhm/Albumaty.Com_angham_eyh_alakhbar.mp3?rlkey=diiiuvf0mk119iibrbv8a06qf&st=ipb808dd&dl=1",
+                    "duration_ms": 275526,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732a729d001483ba6e99710b5f",
+                    "id": 2361,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "خليك معاها",
+                    "track_url": "https://www.dropbox.com/scl/fi/8ue419y979ofqri0ipwur/Albumaty.Com_angham_khlyk_maaha.mp3?rlkey=ypvi3u3c08olpowmix7bdfyxv&st=ck93q3ir&dl=1",
+                    "duration_ms": 258333,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732a729d001483ba6e99710b5f",
+                    "id": 2362,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "اسكت",
+                    "track_url": "https://www.dropbox.com/scl/fi/awnkhk27v2rk3grz2dzrp/Albumaty.Com_angham_askt.mp3?rlkey=l2i9mkifp3p39o4f5pje4sx0u&st=srohhbai&dl=1",
+                    "duration_ms": 209999,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732a729d001483ba6e99710b5f",
+                    "id": 2363,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "اقولك ايه",
+                    "track_url": "https://www.dropbox.com/scl/fi/jsu60a7x8lc1uaz5q1hfv/Albumaty.Com_angham_akwlk_eyh.mp3?rlkey=c2l57a2iwtys4kdv1uycpexvc&st=fxxohlzf&dl=1",
+                    "duration_ms": 249705,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732a729d001483ba6e99710b5f",
+                    "id": 2364,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "كان برئ",
+                    "track_url": "https://www.dropbox.com/scl/fi/qcnpbiv8rj81vnfxh9hfi/Albumaty.Com_angham_kan_bri.mp3?rlkey=x9o1u6mjjltaieo1akr7jhsce&st=zjpehcb6&dl=1",
+                    "duration_ms": 196153,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732a729d001483ba6e99710b5f",
+                    "id": 2365,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "القلوب اسرار",
+                    "track_url": "https://www.dropbox.com/scl/fi/1n3s75i28ndobjkhwaeqt/Albumaty.Com_angham_alklwb_asrar.mp3?rlkey=80y4szegk2jszy3fh7nmbnm0c&st=3sm3x6e7&dl=1",
+                    "duration_ms": 220500,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732a729d001483ba6e99710b5f",
+                    "id": 2366,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "ماكانش وقته",
+                    "track_url": "https://www.dropbox.com/scl/fi/zkps5ke1o21obzkxknheb/Albumaty.Com_angham_maknsh_wkth.mp3?rlkey=qan53g4zqz86ldqee6biuo7ay&st=5leulkri&dl=1",
+                    "duration_ms": 204000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732a729d001483ba6e99710b5f",
+                    "id": 2367,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "بنعمل حاجات",
+                    "track_url": "https://www.dropbox.com/scl/fi/ifw799ibx88r4a1oc4nwp/Albumaty.Com_angham_bnaml_hagat.mp3?rlkey=3z3ulcbn91wr5xky8z7vi5g9r&st=bd6dtfmj&dl=1",
+                    "duration_ms": 286265,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732a729d001483ba6e99710b5f",
+                    "id": 2368,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "تيجي نسيب",
+                    "track_url": "https://www.dropbox.com/scl/fi/ct6efu5jj7k2cgwh53xrj/Albumaty.Com_angham_tygy_nsyb.mp3?rlkey=jdfc0qyi127ogpks3my8duygn&st=dldx9hpc&dl=1",
+                    "duration_ms": 225226,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732a729d001483ba6e99710b5f",
+                    "id": 2369,
+                    "artist": "Angham"
+                }
+            ],
+            "id": 2357
+        },
+        {
+            "name": "راح تذكرني",
+            "release_date": "2021-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b907013c5ee7fe667160eb30",
+            "track_url": "https://open.spotify.com/album/1KHCzU4yfqT5DzMMq0miVS",
+            "tracks": [
+                {
+                    "name": "La Thajja",
+                    "track_url": "https://www.dropbox.com/scl/fi/ms1496riyqn7dbccxf3vw/06_La_Thajja.mp3?rlkey=u52yi8x7p6ccd5e2gbl3xjtbn&st=74arh246&dl=1",
+                    "duration_ms": 272100,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b907013c5ee7fe667160eb30",
+                    "id": 2384,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Yowjeoonk",
+                    "track_url": "https://www.dropbox.com/scl/fi/ite72ksxij1pmha59vpxb/07_Yowjeoonk.mp3?rlkey=0eq64comp2y8m2gkwre40wlnu&st=28xxg26g&dl=1",
+                    "duration_ms": 289000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b907013c5ee7fe667160eb30",
+                    "id": 2385,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Wen Trouh",
+                    "track_url": "https://www.dropbox.com/scl/fi/3hfrpz7j6y8si60q5mwts/11_Wen_Trouh.mp3?rlkey=4gdl4kcrykpshi46rtorl34v2&st=7qd6a9rx&dl=1",
+                    "duration_ms": 334100,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b907013c5ee7fe667160eb30",
+                    "id": 2386,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Rah Tethkerni",
+                    "track_url": "https://www.dropbox.com/scl/fi/s73n7tfu7qondtsu75xhr/02_Rah_Tethkerni.mp3?rlkey=s6b8r6nxosnl7kgtf2pxdzdio&st=43nxf07k&dl=1",
+                    "duration_ms": 239000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b907013c5ee7fe667160eb30",
+                    "id": 2387,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Mastaheel",
+                    "track_url": "https://www.dropbox.com/scl/fi/7e7tlkq20qg9jeahteeu9/10_Mastaheel.mp3?rlkey=hpiqwjg09as6ltncdriwvbq7e&st=e303r1vo&dl=1",
+                    "duration_ms": 195400,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b907013c5ee7fe667160eb30",
+                    "id": 2388,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Hada Galbah",
+                    "track_url": "https://www.dropbox.com/scl/fi/olv599wwqnjfhwm2h2vad/01_Hada_Galbah.mp3?rlkey=loxm91u3tz4ijirs2tgwsjy03&st=nxgd1zg9&dl=1",
+                    "duration_ms": 257000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b907013c5ee7fe667160eb30",
+                    "id": 2389,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Mojarad Shai",
+                    "track_url": "https://www.dropbox.com/scl/fi/dsyhoxtt9oei3v5pu1rxn/08_Mojarad_Shai.mp3?rlkey=9zzh4s24ly68q3k3mvfkuzby1&st=czbdsmrr&dl=1",
+                    "duration_ms": 291000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b907013c5ee7fe667160eb30",
+                    "id": 2390,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Elahi",
+                    "track_url": "https://www.dropbox.com/scl/fi/vzdqu458w4u256macq92q/03_Elahi.mp3?rlkey=s2ufc1agmpqz6cp6stjp85oti&st=7nkv7v1n&dl=1",
+                    "duration_ms": 215511,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b907013c5ee7fe667160eb30",
+                    "id": 2391,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Al Kheyana",
+                    "track_url": "https://www.dropbox.com/scl/fi/r739osfs5ch79vypitfop/05_Al_Kheyana.mp3?rlkey=iu23rvuvuubo532ymyhfc01kk&st=vorxb0jp&dl=1",
+                    "duration_ms": 313223,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b907013c5ee7fe667160eb30",
+                    "id": 2392,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Law Tehlef",
+                    "track_url": "https://www.dropbox.com/scl/fi/ocr8sbll4tkf8cw7r7td1/09_Law_Tehlef.mp3?rlkey=jx9pny279rumqvj3xqeov3urw&st=h4qbsjdx&dl=1",
+                    "duration_ms": 341499,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b907013c5ee7fe667160eb30",
+                    "id": 2393,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Ashof nugom",
+                    "track_url": "https://www.dropbox.com/scl/fi/7kskvqad98twqij2xacih/04_Ashof_Nugom.mp3?rlkey=the54htwgihf7pnyfch3rnxk5&st=ufdi9gxg&dl=1",
+                    "duration_ms": 376800,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b907013c5ee7fe667160eb30",
+                    "id": 2394,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Telagena",
+                    "track_url": "https://www.dropbox.com/scl/fi/y6ydpttgkesolf4w6b8qw/12_Telagena.mp3?rlkey=xmt2m756clvsewbjod4xe3rdu&st=dhzibcdi&dl=1",
+                    "duration_ms": 367000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b907013c5ee7fe667160eb30",
+                    "id": 2395,
+                    "artist": "Angham"
+                }
+            ],
+            "id": 2383
+        },
+        {
+            "name": "Mazh",
+            "release_date": "2020-11-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b9fdfb8e61ab452f0af742f2",
+            "track_url": "https://open.spotify.com/album/5DTSXkZYDWyqSX9KAxTimM",
+            "tracks": [
+                {
+                    "name": "Mazh",
+                    "track_url": "https://www.dropbox.com/scl/fi/xwtfnnm0sz4h8eb6hwi4e/Albumaty.Com_angham_mzh.mp3?rlkey=y5pdy3rqz31oroxd3h9zokaaz&st=j6gwaq3c&dl=1",
+                    "duration_ms": 179940,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b9fdfb8e61ab452f0af742f2",
+                    "id": 2397,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Teslam Yedeenah",
+                    "track_url": "https://www.dropbox.com/scl/fi/05a5kd1qcrmgk0qiq95ac/Albumaty.Com_angham_tslm_ydynh.mp3?rlkey=luwe9aq4xghzxbno3cw2w9nzm&st=na7mckdl&dl=1",
+                    "duration_ms": 239146,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b9fdfb8e61ab452f0af742f2",
+                    "id": 2398,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "La Testaghreb",
+                    "track_url": "https://www.dropbox.com/scl/fi/mw1vaxxt6zq5289uc7b1h/Albumaty.Com_angham_la_tstghrb.mp3?rlkey=i2zyntqnqbm5h889r5eewtuz0&st=gvf6pjtx&dl=1",
+                    "duration_ms": 290636,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b9fdfb8e61ab452f0af742f2",
+                    "id": 2399,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Laygeen",
+                    "track_url": "https://www.dropbox.com/scl/fi/rob8wie0zcnno3c3az61b/Albumaty.Com_angham_laykyn.mp3?rlkey=kgx4fi91zvpzwg6ix0r6h306h&st=gjxcmuhr&dl=1",
+                    "duration_ms": 214741,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b9fdfb8e61ab452f0af742f2",
+                    "id": 2400,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Anani",
+                    "track_url": "https://www.dropbox.com/scl/fi/1ygcowo8vl7tlrvsiztpy/Albumaty.Com_angham_anany.mp3?rlkey=h4oowj7hc7b41g6802jcf4san&st=88hok4l7&dl=1",
+                    "duration_ms": 437685,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b9fdfb8e61ab452f0af742f2",
+                    "id": 2401,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Akher Lega",
+                    "track_url": "https://www.dropbox.com/scl/fi/bb6vizp6se1xbz8n6upl0/Albumaty.Com_angham_akhr_lka.mp3?rlkey=lv06kkh1rc1nxwz1r6lv85aw9&st=bj8g3utc&dl=1",
+                    "duration_ms": 297984,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b9fdfb8e61ab452f0af742f2",
+                    "id": 2402,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Ghareeb",
+                    "track_url": "https://www.dropbox.com/scl/fi/p08b10whir573y5yndh93/Albumaty.Com_angham_ghryb.mp3?rlkey=eo16y4iz9x3hb15r1h3ygh7eq&st=v7iw26wz&dl=1",
+                    "duration_ms": 330752,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b9fdfb8e61ab452f0af742f2",
+                    "id": 2403,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Abta Alay",
+                    "track_url": "https://www.dropbox.com/scl/fi/4866l9p4g341zih17ypao/Albumaty.Com_angham_abty_aly.mp3?rlkey=ke94egedx81c165rvqdl5cr1d&st=m8ugrc9o&dl=1",
+                    "duration_ms": 289770,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b9fdfb8e61ab452f0af742f2",
+                    "id": 2404,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Thel W Hajeer",
+                    "track_url": "https://www.dropbox.com/scl/fi/qb6geot73ldkfvuwr3p93/Albumaty.Com_angham_zl_wh-yr.mp3?rlkey=0ujftdb3xdhic1bhy3lv6nax5&st=ywn90xxf&dl=1",
+                    "duration_ms": 280018,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b9fdfb8e61ab452f0af742f2",
+                    "id": 2405,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Hena W Henak",
+                    "track_url": "https://www.dropbox.com/scl/fi/lz39nbmope75u5cdw8sze/Albumaty.Com_angham_hna_whnak.mp3?rlkey=t0wdjrq40lmnd8tcrcmqea06d&st=8deyh5nq&dl=1",
+                    "duration_ms": 274080,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b9fdfb8e61ab452f0af742f2",
+                    "id": 2406,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Adawer",
+                    "track_url": "https://www.dropbox.com/scl/fi/vk7mr4hw99rxvb3j6pkdh/Albumaty.Com_angham_adwr.mp3?rlkey=7jvybagvk6fivqvoyq8an834h&st=im4yo1fm&dl=1",
+                    "duration_ms": 340597,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b9fdfb8e61ab452f0af742f2",
+                    "id": 2407,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Thalath Horouf",
+                    "track_url": "https://www.dropbox.com/scl/fi/kdtz515p7a1xu049wtv0j/Albumaty.Com_angham_slas_hrwf.mp3?rlkey=ddlwfwem6qlygrx6ik4h40qp6&st=14s6paho&dl=1",
+                    "duration_ms": 333333,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b9fdfb8e61ab452f0af742f2",
+                    "id": 2408,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Alf Asef",
+                    "track_url": "https://www.dropbox.com/scl/fi/ansuiizilx0uwjan72r6c/Albumaty.Com_angham_alf_asf.mp3?rlkey=dg8i4gilg9zhdhizvzs6pg9db&st=oic6dage&dl=1",
+                    "duration_ms": 322876,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b9fdfb8e61ab452f0af742f2",
+                    "id": 2409,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Esmak Habeebi",
+                    "track_url": "https://www.dropbox.com/scl/fi/whq7n08tysb7eqg3ktzp8/Albumaty.Com_angham_esmk_hbyby.mp3?rlkey=fdjctnerzb4j0ixr5y7pr14rm&st=r2lp0pn8&dl=1",
+                    "duration_ms": 217963,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b9fdfb8e61ab452f0af742f2",
+                    "id": 2410,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Tawla",
+                    "track_url": "https://www.dropbox.com/scl/fi/kxcesgsht53jdg86pazei/Albumaty.Com_angham_tawlt.mp3?rlkey=dz7ksl0c75pia5pzezfjgqlv2&st=rbgukf1c&dl=1",
+                    "duration_ms": 378453,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b9fdfb8e61ab452f0af742f2",
+                    "id": 2411,
+                    "artist": "Angham"
+                }
+            ],
+            "id": 2396
+        },
+        {
+            "name": "Hala Khasa Gedan",
+            "release_date": "2019-02-20",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738ed964665ee0f2820ff11c07",
+            "track_url": "https://open.spotify.com/album/0MA5maRPOVZeQDw78MDadR",
+            "tracks": [
+                {
+                    "name": "Hala Khasa Gedan",
+                    "track_url": "https://www.dropbox.com/scl/fi/331dnulwgbph171qzc4hr/01._Hala_Khasa_Gedan.mp3?rlkey=kq3kgcfrzvz0kbtneb2vnmf8a&st=1cjd1n15&dl=1",
+                    "duration_ms": 286000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738ed964665ee0f2820ff11c07",
+                    "id": 2413,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Yaretak Fahemni",
+                    "track_url": "https://www.dropbox.com/scl/fi/z0zsls8sx3cmn223z959y/02._Yaretak_Fahemni.mp3?rlkey=h9cmxtddxj8fnf65i7go5hi4x&st=xe3lswpa&dl=1",
+                    "duration_ms": 332531,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738ed964665ee0f2820ff11c07",
+                    "id": 2414,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Hatoul Lrabena Eh",
+                    "track_url": "https://www.dropbox.com/scl/fi/bi3w1xwmjc1iv1k9spmum/03._Hatoul_Lrabena_Eh.mp3?rlkey=owuudrlmenroankiab04ttrkw&st=4xolys05&dl=1",
+                    "duration_ms": 240074,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738ed964665ee0f2820ff11c07",
+                    "id": 2415,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Habayebna",
+                    "track_url": "https://www.dropbox.com/scl/fi/0r0wfnanjnpnvazvwgia4/04._Habayebna.mp3?rlkey=33dj8vxyt0x3lpyiv8p3v17ob&st=fe7r6umy&dl=1",
+                    "duration_ms": 261773,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738ed964665ee0f2820ff11c07",
+                    "id": 2416,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Ala Hesak Fe Ayami",
+                    "track_url": "https://www.dropbox.com/scl/fi/ngvj6iflvhx494c8yysbd/05._Ala_Hesak_Fe_Ayami.mp3?rlkey=qzpwaw9kntpbhl9j5jlv7k74f&st=1mspxrdf&dl=1",
+                    "duration_ms": 342272,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738ed964665ee0f2820ff11c07",
+                    "id": 2417,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Wala Deblet",
+                    "track_url": "https://www.dropbox.com/scl/fi/jv7lvlucw66ajo9puhiwq/06._Wala_Deblet.mp3?rlkey=xomwp0396q9kydnloaeu6sh9l&st=11rs1jqw&dl=1",
+                    "duration_ms": 269949,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738ed964665ee0f2820ff11c07",
+                    "id": 2418,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Baoul Nasyak",
+                    "track_url": "https://www.dropbox.com/scl/fi/z9bnurov51vg6w3cnjlsi/07._Baoul_Nasyak.mp3?rlkey=99ma1esazmpuih8c22p7mxy6s&st=ytmuyo5f&dl=1",
+                    "duration_ms": 217338,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738ed964665ee0f2820ff11c07",
+                    "id": 2419,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Nazwa",
+                    "track_url": "https://www.dropbox.com/scl/fi/0pzmtqifk8pod0nk45vt6/08._Nazwa.mp3?rlkey=h2k5dugejzyfomdk4jwt42xv2&st=9vcji2mc&dl=1",
+                    "duration_ms": 241052,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738ed964665ee0f2820ff11c07",
+                    "id": 2420,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Btewsefni Bteksefni",
+                    "track_url": "https://www.dropbox.com/scl/fi/5aj20xn9bbgz4ju18mtjd/09._Btewsefni_Bteksefni.mp3?rlkey=6dpevvz8gxvsg9jiff2c7colj&st=wqgpph1o&dl=1",
+                    "duration_ms": 267008,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738ed964665ee0f2820ff11c07",
+                    "id": 2421,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Hodna",
+                    "track_url": "https://www.dropbox.com/scl/fi/fsod50l28qcoplphtdfje/10._Hodna.mp3?rlkey=gal533fpusg8bkr6r35kgrwi4&st=yfx2gfiy&dl=1",
+                    "duration_ms": 317538,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738ed964665ee0f2820ff11c07",
+                    "id": 2422,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Asameek Elketeera",
+                    "track_url": "https://www.dropbox.com/scl/fi/9ta2g5o2co777jui9zrhq/11._Asameek_Elketeera.mp3?rlkey=q03llyb1kerjtp16fw0rv9slr&st=y2ay59ai&dl=1",
+                    "duration_ms": 191402,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738ed964665ee0f2820ff11c07",
+                    "id": 2423,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Mettamena",
+                    "track_url": "https://www.dropbox.com/scl/fi/008ww7f71355ev8qjb69s/12._Mettamena.mp3?rlkey=gb6kvr1we9quew1vv8urb6zx2&st=hhz6m82t&dl=1",
+                    "duration_ms": 294895,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738ed964665ee0f2820ff11c07",
+                    "id": 2424,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Layla",
+                    "track_url": "https://www.dropbox.com/scl/fi/s8hn27g9ennot9is6b4fx/13._Layla.mp3?rlkey=7qte58wukagmsjo4jmok07809&st=02f4uozu&dl=1",
+                    "duration_ms": 333941,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738ed964665ee0f2820ff11c07",
+                    "id": 2425,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Habdaa Men Elakher",
+                    "track_url": "https://www.dropbox.com/scl/fi/ivzkz28rgr5nejjsgdeo3/14._Habdaa_Men_Elakher.mp3?rlkey=czey79h1ykzx1xvx4ezx3alvu&st=zy1xnxcw&dl=1",
+                    "duration_ms": 283814,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738ed964665ee0f2820ff11c07",
+                    "id": 2426,
+                    "artist": "Angham"
+                }
+            ],
+            "id": 2412
+        },
+        {
+            "name": "Ahlam Barya",
+            "release_date": "2015-10-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f93999297365d47e63c48599",
+            "track_url": "https://open.spotify.com/album/5WVo1un1NRtLkDMURrUIjP",
+            "tracks": [
+                {
+                    "name": "Aktablk Tahod",
+                    "track_url": "https://www.dropbox.com/scl/fi/diwl1eofel516756kwb33/05_Aktablk_Tahod.mp3?rlkey=t0nw8gntb2eeqlvs10woohha4&st=bwgdk5wr&dl=1",
+                    "duration_ms": 247196,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f93999297365d47e63c48599",
+                    "id": 2428,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Ahy Gat",
+                    "track_url": "https://www.dropbox.com/scl/fi/omen9wftq24j9ak3to5yg/01_Ahy_Gat.mp3?rlkey=hog202qlvnzlf52p7vbtjd0xj&st=f1tr6pbm&dl=1",
+                    "duration_ms": 242050,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f93999297365d47e63c48599",
+                    "id": 2429,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Ben Elbenen",
+                    "track_url": "https://www.dropbox.com/scl/fi/oovsztdsw6t3ffat9uqqz/03_Ben_Elbenen.mp3?rlkey=jlque0eiol84xoglvavx95hg8&st=br430u67&dl=1",
+                    "duration_ms": 275304,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f93999297365d47e63c48599",
+                    "id": 2430,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Hata Naasa",
+                    "track_url": "https://www.dropbox.com/scl/fi/g678zl5s9hx4ptiu8pkvn/06_Hata_Naasa.mp3?rlkey=smdor1rtkdhbgw4rmg1mprdoi&st=4tjxo103&dl=1",
+                    "duration_ms": 267937,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f93999297365d47e63c48599",
+                    "id": 2431,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Atgah Wahed",
+                    "track_url": "https://www.dropbox.com/scl/fi/cworbwxjauij4a4sgc3jt/02_Atgah_Wahed.mp3?rlkey=hdmh0pcjpj5qlzfggowgufawx&st=mywkj07h&dl=1",
+                    "duration_ms": 240927,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f93999297365d47e63c48599",
+                    "id": 2432,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Tol Manta Baeed",
+                    "track_url": "https://www.dropbox.com/scl/fi/szdhcq9yc6kca4m2fai2s/04_Tol_Manta_Baeed.mp3?rlkey=h5pvvc4hdi4xun1t1qsfade8x&st=iy3g68u9&dl=1",
+                    "duration_ms": 244453,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f93999297365d47e63c48599",
+                    "id": 2433,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Ahlam Barya",
+                    "track_url": "https://www.dropbox.com/scl/fi/zoghtf822md1dhdk2dr7y/07_Ahlam_Barya.mp3?rlkey=3lonb1kxjomc94glbs0zunhvd&st=k0ft6z21&dl=1",
+                    "duration_ms": 304796,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f93999297365d47e63c48599",
+                    "id": 2434,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Fengan Elnesian",
+                    "track_url": "https://www.dropbox.com/scl/fi/k7yf5xx45qbd4qxh0lqah/08_Fengan_Elnesian.mp3?rlkey=0ooj97yhm5diusu0o482eyk2m&st=qf09cyy3&dl=1",
+                    "duration_ms": 322690,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f93999297365d47e63c48599",
+                    "id": 2435,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Baaet Wahdak",
+                    "track_url": "https://www.dropbox.com/scl/fi/fszu4gwv4u4rbzifn6v9h/12_Baaet_Wahedk.mp3?rlkey=7zrv87xmnnfnk8mxv2fmunfte&st=fngw2xhm&dl=1",
+                    "duration_ms": 330318,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f93999297365d47e63c48599",
+                    "id": 2436,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Ganbak Makany",
+                    "track_url": "https://www.dropbox.com/scl/fi/c0lhmqve6devai4ky431z/11_Ganbak_Makany.mp3?rlkey=g5vtf1ymyi2v1wikaexqcg44y&st=y7t0j87q&dl=1",
+                    "duration_ms": 296176,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f93999297365d47e63c48599",
+                    "id": 2437,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Bahab Aghany",
+                    "track_url": "https://www.dropbox.com/scl/fi/n4vygfbmk9vquurjikjed/10_Bahab_Aghany.mp3?rlkey=idqpbzwsdqjsdkduckhw1ddzc&st=ur31xecj&dl=1",
+                    "duration_ms": 303151,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f93999297365d47e63c48599",
+                    "id": 2438,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Bakrah ElMosika",
+                    "track_url": "https://www.dropbox.com/scl/fi/acm33n64oopzijiemw16w/09_Bakrah_Elmosika.mp3?rlkey=d4lkagty1lx4voqcsmbrzwuey&st=7evlam43&dl=1",
+                    "duration_ms": 202266,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f93999297365d47e63c48599",
+                    "id": 2439,
+                    "artist": "Angham"
+                }
+            ],
+            "id": 2427
+        },
+        {
+            "name": "Ella Ana",
+            "release_date": "2014-12-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a102419c652ab625ff043a98",
+            "track_url": "https://open.spotify.com/album/1Y9C5qb6afrjHoDHkFu3hA",
+            "tracks": [
+                {
+                    "name": "Nemret Telefonak Kam",
+                    "track_url": "https://www.dropbox.com/scl/fi/fghj4rzzg4lc9wns7x5pu/01_-_Telefonak_Kam.mp3?rlkey=dbq068s9ve7bur9gwu866atun&st=pcccf23g&dl=1",
+                    "duration_ms": 239693,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a102419c652ab625ff043a98",
+                    "id": 2441,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Bokra Teshoof",
+                    "track_url": "https://www.dropbox.com/scl/fi/cyss7cnem8efq9wu4g4mz/02_-_Bokra_Teshof.mp3?rlkey=el4eu50lnz2n76ochwhs2cg03&st=u5d54r8h&dl=1",
+                    "duration_ms": 366880,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a102419c652ab625ff043a98",
+                    "id": 2442,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Hessak Fel Donia",
+                    "track_url": "https://www.dropbox.com/scl/fi/mtspr1iao2clbc0471rum/03_-_Hesak_Fe_El_Donia.mp3?rlkey=ke8n3nhqp7sz2beosniy9d5ei&st=kf8krl18&dl=1",
+                    "duration_ms": 364800,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a102419c652ab625ff043a98",
+                    "id": 2443,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Shantet Saffar",
+                    "track_url": "https://www.dropbox.com/scl/fi/jq3bjsi4tcvoj0i3tpclm/04_-_Shantet_Safar.mp3?rlkey=g73a4l1ovwwu7zu1db7nkibxc&st=db05etr6&dl=1",
+                    "duration_ms": 520066,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a102419c652ab625ff043a98",
+                    "id": 2444,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "La Zelt Abhath",
+                    "track_url": "https://www.dropbox.com/scl/fi/u7yg1fcw6x37hnf8kvsja/05_-_La_Zelt_Abhas_An_Sabab.mp3?rlkey=4zh960z8j9ow12078ymf9w04k&st=xafj4l1b&dl=1",
+                    "duration_ms": 371440,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a102419c652ab625ff043a98",
+                    "id": 2445,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Maarafsh Meen",
+                    "track_url": "https://www.dropbox.com/scl/fi/kroc9ry8rat42jjkqt7vn/06_-_Meen_Qal_Le_Habeeby.mp3?rlkey=8ccwu5bgbe9erejcviqvjuxek&st=v9qvx4r0&dl=1",
+                    "duration_ms": 394480,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a102419c652ab625ff043a98",
+                    "id": 2446,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Ala Bab El Mattar",
+                    "track_url": "https://www.dropbox.com/scl/fi/ekoiflwtfzj4r6gn73qb9/07_-_Ala_Bab_El_Mattar.mp3?rlkey=579lrn7njke3x3a56b9czfz21&st=o8oszbo0&dl=1",
+                    "duration_ms": 265266,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a102419c652ab625ff043a98",
+                    "id": 2447,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Ella Ana",
+                    "track_url": "https://www.dropbox.com/scl/fi/kw23v6ft7u5c2mb9byg8o/08_-_Ela_Ana.mp3?rlkey=0fnq28fm4huit83rpxax2x1g8&st=obgpp9iy&dl=1",
+                    "duration_ms": 390053,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a102419c652ab625ff043a98",
+                    "id": 2448,
+                    "artist": "Angham"
+                }
+            ],
+            "id": 2440
+        },
+        {
+            "name": "Leih Sebtaha",
+            "release_date": "2013-09-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b44e95b6016c04307be885df",
+            "track_url": "https://open.spotify.com/album/0LyRF1HsXB2HP971UZNRPQ",
+            "tracks": [
+                {
+                    "name": "Sidi Wesalak",
+                    "track_url": "https://www.dropbox.com/scl/fi/0poazuu5gybus26s3fzam/01_-_Sidi_Wesalak.mp3?rlkey=r44veq154e6j0ufyzevfvfxsz&st=j13ka573&dl=1",
+                    "duration_ms": 316565,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b44e95b6016c04307be885df",
+                    "id": 2461,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Leh Sebtaha",
+                    "track_url": "https://www.dropbox.com/scl/fi/2et2uuc7it9nptvek4fo1/02_-_Leih_Sebtaha.mp3?rlkey=yvumnwrm6zlukwfj4x27b5lzy&st=zqd70yr8&dl=1",
+                    "duration_ms": 330280,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b44e95b6016c04307be885df",
+                    "id": 2462,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Rahet Layali",
+                    "track_url": "https://www.dropbox.com/scl/fi/m4dwpd36anlgf2jq2h8ej/03_-_Rahet_Layali.mp3?rlkey=tllc7g2rbeieqf9isz3n25gum&st=n1lhcodq&dl=1",
+                    "duration_ms": 273254,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b44e95b6016c04307be885df",
+                    "id": 2463,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Magabsh Serti",
+                    "track_url": "https://www.dropbox.com/scl/fi/qbh9tft9ri15k8jmd884o/04_-_Ma_Gabsh_Serti.mp3?rlkey=m9vau2o06xodqgeodcie622bq&st=9pfuuymh&dl=1",
+                    "duration_ms": 376882,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b44e95b6016c04307be885df",
+                    "id": 2464,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Tedahak Alaya",
+                    "track_url": "https://www.dropbox.com/scl/fi/1b4eff4pwiigemmp65brk/05_-_Tedhak_Alaya.mp3?rlkey=px90lqebypz47o6l9geikobg0&st=z1abjhlw&dl=1",
+                    "duration_ms": 266619,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b44e95b6016c04307be885df",
+                    "id": 2465,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Negoum El Leil",
+                    "track_url": "https://www.dropbox.com/scl/fi/cum25731dmy6dnt9e3ut6/06_-_Negoum_El-Leil.mp3?rlkey=1co2vxtyywyecixycb8mh1ay5&st=a0lr72xh&dl=1",
+                    "duration_ms": 320954,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b44e95b6016c04307be885df",
+                    "id": 2466,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Habitak Leih",
+                    "track_url": "https://www.dropbox.com/scl/fi/os5e91l29q55js0m54c01/07_-_Hbetak_Leih.mp3?rlkey=jquxwkb0msh3fxcxypilda7l8&st=z7qq1ei4&dl=1",
+                    "duration_ms": 282868,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b44e95b6016c04307be885df",
+                    "id": 2467,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Hayran",
+                    "track_url": "https://www.dropbox.com/scl/fi/zs9gr2enjc0huq3o87bkk/08_-_Hayran.mp3?rlkey=lfrn4vxjp7623k7k5wsb4mwvw&st=9m7l2mt9&dl=1",
+                    "duration_ms": 295641,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b44e95b6016c04307be885df",
+                    "id": 2468,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Ana Andak",
+                    "track_url": "https://www.dropbox.com/scl/fi/c2hixiazcep9rxm749w2w/09_-_Ana_Andak.mp3?rlkey=668q713ri3ht8lbkiyubcwbtq&st=roaq7wna&dl=1",
+                    "duration_ms": 283129,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b44e95b6016c04307be885df",
+                    "id": 2469,
+                    "artist": "Angham"
+                }
+            ],
+            "id": 2460
+        },
+        {
+            "name": "Angham Collection",
+            "release_date": "2012-06-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735aeb51cdc19aa66f11c69063",
+            "track_url": "https://open.spotify.com/album/53Ue1FuQU5keCtTYXFOwIq",
+            "tracks": [
+                {
+                    "name": "Nemret Telephonak Kam",
+                    "track_url": "https://www.dropbox.com/scl/fi/fghj4rzzg4lc9wns7x5pu/01_-_Telefonak_Kam.mp3?rlkey=dbq068s9ve7bur9gwu866atun&st=n1jodfqx&dl=1",
+                    "duration_ms": 239693,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735aeb51cdc19aa66f11c69063",
+                    "id": 2471,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Bokra Teshoof",
+                    "track_url": "https://www.dropbox.com/scl/fi/cyss7cnem8efq9wu4g4mz/02_-_Bokra_Teshof.mp3?rlkey=el4eu50lnz2n76ochwhs2cg03&st=m69y5dhp&dl=1",
+                    "duration_ms": 366880,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735aeb51cdc19aa66f11c69063",
+                    "id": 2472,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Hessak Fel Donia",
+                    "track_url": "https://www.dropbox.com/scl/fi/mtspr1iao2clbc0471rum/03_-_Hesak_Fe_El_Donia.mp3?rlkey=ke8n3nhqp7sz2beosniy9d5ei&st=as4u6yyt&dl=1",
+                    "duration_ms": 364800,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735aeb51cdc19aa66f11c69063",
+                    "id": 2473,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Shantit Safar",
+                    "track_url": "https://www.dropbox.com/scl/fi/jq3bjsi4tcvoj0i3tpclm/04_-_Shantet_Safar.mp3?rlkey=g73a4l1ovwwu7zu1db7nkibxc&st=0sfdf4tn&dl=1",
+                    "duration_ms": 520066,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735aeb51cdc19aa66f11c69063",
+                    "id": 2474,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "La Zelt Abhath Aan Sabab",
+                    "track_url": "https://www.dropbox.com/scl/fi/u7yg1fcw6x37hnf8kvsja/05_-_La_Zelt_Abhas_An_Sabab.mp3?rlkey=4zh960z8j9ow12078ymf9w04k&st=9ffbbe0u&dl=1",
+                    "duration_ms": 371440,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735aeb51cdc19aa66f11c69063",
+                    "id": 2475,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Maarafsh Meen",
+                    "track_url": "",
+                    "duration_ms": 394480,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735aeb51cdc19aa66f11c69063",
+                    "id": 2476,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Waddaa Al Matar",
+                    "track_url": "https://www.dropbox.com/scl/fi/ekoiflwtfzj4r6gn73qb9/07_-_Ala_Bab_El_Mattar.mp3?rlkey=579lrn7njke3x3a56b9czfz21&st=avb9kbm3&dl=1",
+                    "duration_ms": 265266,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735aeb51cdc19aa66f11c69063",
+                    "id": 2477,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Ella Ana",
+                    "track_url": "https://www.dropbox.com/scl/fi/kw23v6ft7u5c2mb9byg8o/08_-_Ela_Ana.mp3?rlkey=0fnq28fm4huit83rpxax2x1g8&st=adfwc6tl&dl=1",
+                    "duration_ms": 390066,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735aeb51cdc19aa66f11c69063",
+                    "id": 2478,
+                    "artist": "Angham"
+                }
+            ],
+            "id": 2470
+        },
+        {
+            "name": "Al Hekayah Mohammadeyah",
+            "release_date": "2011",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c9e2f0d4a5df3369cad229a2",
+            "track_url": "https://open.spotify.com/album/4dKqpCMQN27CbAXeP2uTV7",
+            "tracks": [
+                {
+                    "name": "Amenah",
+                    "track_url": "https://www.dropbox.com/scl/fi/uvz9ystch2h7eq7bynp2r/01.Aaamna.mp3?rlkey=nppiu35sfytlmu0l1q5i5lgr3&st=nunbxf8o&dl=1",
+                    "duration_ms": 208135,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c9e2f0d4a5df3369cad229a2",
+                    "id": 2480,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Safeyah Zawgat Al Rassoul",
+                    "track_url": "https://www.dropbox.com/scl/fi/asmwh8d0e9hhz3rglw4xt/02.Safeyya_-5bAl_Hekaya_Mohamadeyya-5d.mp3?rlkey=5rwnwbegcgjevqw6mywtifqru&st=3bffe5st&dl=1",
+                    "duration_ms": 226264,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c9e2f0d4a5df3369cad229a2",
+                    "id": 2481,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Om Ayman",
+                    "track_url": "https://www.dropbox.com/scl/fi/0vj4ac9gux00dt8fqo525/03.Oum_Ayman.mp3?rlkey=wyttvqgy3j66kgj6nxm0wmq1y&st=6ht7jzwo&dl=1",
+                    "duration_ms": 203580,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c9e2f0d4a5df3369cad229a2",
+                    "id": 2482,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Fatemah Bent Al Rassoul",
+                    "track_url": "https://www.dropbox.com/scl/fi/8mcvfrd91dke168njsbxy/04.Fatema.mp3?rlkey=1amhny3rzohvbav0w8m91h0fy&st=y5tblag1&dl=1",
+                    "duration_ms": 241996,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c9e2f0d4a5df3369cad229a2",
+                    "id": 2483,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Aaeshah",
+                    "track_url": "https://www.dropbox.com/scl/fi/oibejxbg3cbqogrv27gjk/05.Aaaesha.mp3?rlkey=yq7kq31pfguc6q75emth5a8fe&st=wmmh1sxn&dl=1",
+                    "duration_ms": 270025,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c9e2f0d4a5df3369cad229a2",
+                    "id": 2484,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Zaynab Bent Al Rassoul",
+                    "track_url": "https://www.dropbox.com/scl/fi/vavp55lpvjyd8dgbhmv96/06.Zainab.mp3?rlkey=250yxpm7ns82ppjxf57c4531q&st=96rw76ew&dl=1",
+                    "duration_ms": 243501,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c9e2f0d4a5df3369cad229a2",
+                    "id": 2485,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Haleemah Al Sadeyah",
+                    "track_url": "https://www.dropbox.com/scl/fi/xulhtcos41d3035u919eg/07.Halima_El_Saaadeyya.mp3?rlkey=7z2dcgs5oc80hyfg7a04z7och&st=tjbj205h&dl=1",
+                    "duration_ms": 177891,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c9e2f0d4a5df3369cad229a2",
+                    "id": 2486,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Om Omarah",
+                    "track_url": "https://www.dropbox.com/scl/fi/l0nnj6st75scol6l5jl4r/08.Oum_Eamara.mp3?rlkey=7zix240s5mhns1gff3sjyp28d&st=cg9f1ms3&dl=1",
+                    "duration_ms": 202701,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c9e2f0d4a5df3369cad229a2",
+                    "id": 2487,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Asmaa Bent Abi Bakr",
+                    "track_url": "https://www.dropbox.com/scl/fi/ynwgznbw9e6no3tk37tck/09.Asmaa_Bent_Abi_Bakr.mp3?rlkey=dn958w64toe588rbobrfulh2w&st=u7bxx80f&dl=1",
+                    "duration_ms": 264821,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c9e2f0d4a5df3369cad229a2",
+                    "id": 2488,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Maria Al Qebteyah",
+                    "track_url": "https://www.dropbox.com/scl/fi/mdqwn1tcgjem2ieatf3uk/10.Maria_El_Qebteyya.mp3?rlkey=pc5x8kt64p1rgn9zqe62lcyom&st=pdi5ajqv&dl=1",
+                    "duration_ms": 200445,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c9e2f0d4a5df3369cad229a2",
+                    "id": 2489,
+                    "artist": "Angham"
+                }
+            ],
+            "id": 2479
+        },
+        {
+            "name": "Nefsi Ahebak",
+            "release_date": "2009-06-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b27371d76d427b8317444be40030",
+            "track_url": "https://open.spotify.com/album/3Dd9rsahEeSHD9l8SWyqlv",
+            "tracks": [
+                {
+                    "name": "Saat Kitir",
+                    "track_url": "https://www.dropbox.com/scl/fi/zso8n4cgpprbg0pl0z6b3/04.Saat_Keteer.mp3?rlkey=x4hzjf9j7klsc5di42df7ymvp&st=enfpfehx&dl=1",
+                    "duration_ms": 267546,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27371d76d427b8317444be40030",
+                    "id": 2491,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Law Aaish Maak",
+                    "track_url": "https://www.dropbox.com/scl/fi/era5atibzrfy0p8b8sg6o/01.Law_Aaeesh_Maak.mp3?rlkey=8ovysm2tuw9rhfdipgazig7s6&st=axup0w6a&dl=1",
+                    "duration_ms": 288655,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27371d76d427b8317444be40030",
+                    "id": 2492,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Dayy Einek",
+                    "track_url": "https://www.dropbox.com/scl/fi/nzzhux9rq829pa831sqyl/10.Dayy_Eanik.mp3?rlkey=g3pqhiu2fjcim7d8ulx579kb6&st=ojx54uhk&dl=1",
+                    "duration_ms": 258379,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27371d76d427b8317444be40030",
+                    "id": 2493,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Habibi Malak",
+                    "track_url": "https://www.dropbox.com/scl/fi/zj52dk56ag3hm4bqfotfk/02.Habibi_Malak.mp3?rlkey=6f2a46nh2byvuqm495rbggkla&st=sv6v80tz&dl=1",
+                    "duration_ms": 286409,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27371d76d427b8317444be40030",
+                    "id": 2494,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Nefsy Ahebak",
+                    "track_url": "https://www.dropbox.com/scl/fi/8b7zpzfxe34g0p43ygovf/03.Nefsi_Ahebak.mp3?rlkey=qnkn242zaib2ud80v46dpu0a7&st=flcpxeko&dl=1",
+                    "duration_ms": 299287,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27371d76d427b8317444be40030",
+                    "id": 2495,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Mesh Fi Balak",
+                    "track_url": "https://www.dropbox.com/scl/fi/zor6jqwe1aw8omcotwna6/11.Mesh_Fi_Balak.mp3?rlkey=dsc4l7yi8sb2vd7adyny97rsd&st=nsockwhx&dl=1",
+                    "duration_ms": 186412,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27371d76d427b8317444be40030",
+                    "id": 2496,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Wahda Bethebak",
+                    "track_url": "https://www.dropbox.com/scl/fi/z81dzok23xjiwglsz4hva/07.Wahda_Bet-hebak.mp3?rlkey=4dj6gdv3xflh5zpklbmn3mnoc&st=ktl94gca&dl=1",
+                    "duration_ms": 292966,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27371d76d427b8317444be40030",
+                    "id": 2497,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Mahzouma",
+                    "track_url": "https://www.dropbox.com/scl/fi/0lc5xkrikdrtpokvpm1ck/06.Mahzouma.mp3?rlkey=lh179civuluzysktn8slfrd2k&st=404g2v1c&dl=1",
+                    "duration_ms": 213370,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27371d76d427b8317444be40030",
+                    "id": 2498,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Dilwaaty Ahsan",
+                    "track_url": "https://www.dropbox.com/scl/fi/1kwp0jqq9as8mh3gsle58/05.Delawaaty_Ahsan.mp3?rlkey=8damom6fv9rlu3thrk1cheyyt&st=dfvxd84q&dl=1",
+                    "duration_ms": 238709,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27371d76d427b8317444be40030",
+                    "id": 2499,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Law Nsareh Baad",
+                    "track_url": "https://www.dropbox.com/scl/fi/2lh9kqjvm11unjhw3ojhs/08.Law_Nesareh_Baad.mp3?rlkey=5hih0k9nixzpftx64b2tlhwrd&st=x571ccbt&dl=1",
+                    "duration_ms": 243437,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27371d76d427b8317444be40030",
+                    "id": 2500,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Eisht Snin",
+                    "track_url": "https://www.dropbox.com/scl/fi/jf4vn9spnzmjkuxs79m9g/09.Esht_Seneen.mp3?rlkey=pv1psc09ydmfk8jwbt6yucnch&st=3amg1m95&dl=1",
+                    "duration_ms": 312792,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27371d76d427b8317444be40030",
+                    "id": 2501,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Wallahi Helwa",
+                    "track_url": "https://www.dropbox.com/scl/fi/ho9ro0mzhyrmgci0sqwus/12.Walahy_Helwa.mp3?rlkey=vk0y40amagfqqty0qammmk26w&st=2girk27u&dl=1",
+                    "duration_ms": 204985,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27371d76d427b8317444be40030",
+                    "id": 2502,
+                    "artist": "Angham"
+                }
+            ],
+            "id": 2490
+        },
+        {
+            "name": "2007",
+            "release_date": "2007-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739286c3379aeb29591bcddada",
+            "track_url": "https://open.spotify.com/album/61xg6KrBtLt7lM3SETfATn",
+            "tracks": [
+                {
+                    "name": "Mabahebbesh",
+                    "track_url": "https://www.dropbox.com/scl/fi/nibenhbtht2yd0pcnz9w9/07.Mabahebbesh.mp3?rlkey=lxd77l2qxksmolf0gah25zcsk&st=iaub91pd&dl=1",
+                    "duration_ms": 242285,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739286c3379aeb29591bcddada",
+                    "id": 2504,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Bagheer",
+                    "track_url": "https://www.dropbox.com/scl/fi/b0xskcpyfc644uvs4lzhu/05.Bagheer.mp3?rlkey=d7lx9vhk4sx8bd0g6o5y69e1m&st=4bibh3k8&dl=1",
+                    "duration_ms": 267467,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739286c3379aeb29591bcddada",
+                    "id": 2505,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Ashky Lemeen",
+                    "track_url": "https://www.dropbox.com/scl/fi/apzx9lhsh898v2h0kcjv3/09.Ashky_Le_Meen.mp3?rlkey=jdejkjtlnbm8hb26kr06xt5ue&st=4803md4t&dl=1",
+                    "duration_ms": 295523,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739286c3379aeb29591bcddada",
+                    "id": 2506,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "El Houruf",
+                    "track_url": "https://www.dropbox.com/scl/fi/d66db8hhqk5sa8bhzuc48/10.El-Horouf.mp3?rlkey=5lnfl63y8ze4fiu39reipn28e&st=adsvk6mk&dl=1",
+                    "duration_ms": 276323,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739286c3379aeb29591bcddada",
+                    "id": 2507,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Ghayarteny",
+                    "track_url": "https://www.dropbox.com/scl/fi/k3f3ng2offqjfk0ygblbr/08.Ghayarteny.mp3?rlkey=w2drc2ngc8xiygt09j6fraywd&st=hfshgy2x&dl=1",
+                    "duration_ms": 273449,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739286c3379aeb29591bcddada",
+                    "id": 2508,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Da Elly Andy",
+                    "track_url": "https://www.dropbox.com/scl/fi/9gra0th99rbidfamal1t5/06.Da_Elly_Andy.mp3?rlkey=j9bxqitmwjw6dqvtdfxa9tdhm&st=02xnlctm&dl=1",
+                    "duration_ms": 225854,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739286c3379aeb29591bcddada",
+                    "id": 2509,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "El Amal",
+                    "track_url": "https://www.dropbox.com/scl/fi/bufeqmm1a3hj1wqb8f13t/04.El_Amal.mp3?rlkey=0dd7sois6ks8umoti7c2olkot&st=wv4vwcvi&dl=1",
+                    "duration_ms": 235676,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739286c3379aeb29591bcddada",
+                    "id": 2510,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Kol Ma Nearrab",
+                    "track_url": "https://www.dropbox.com/scl/fi/53li78tcaxg3cve4rs09o/01.Kol_Ma_Nearrab.mp3?rlkey=muws10pw5vwuvtuud5k6u93hv&st=g1b5opwd&dl=1",
+                    "duration_ms": 290690,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739286c3379aeb29591bcddada",
+                    "id": 2511,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Atmannalo El Khair",
+                    "track_url": "https://www.dropbox.com/scl/fi/hsqvnuteo8mftre38ufo0/03.Atmannalo_El_Khair.mp3?rlkey=jvtk2w6n9h8240tylv4rari5v&st=ko9ef6i8&dl=1",
+                    "duration_ms": 285675,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739286c3379aeb29591bcddada",
+                    "id": 2512,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Mabet'alemsh",
+                    "track_url": "https://www.dropbox.com/scl/fi/kvx4sgfir1ug5hnictha8/02.Mabatallemsh.mp3?rlkey=bmja6xi86beg21zt0sothrx1e&st=zmwwxh7h&dl=1",
+                    "duration_ms": 303412,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739286c3379aeb29591bcddada",
+                    "id": 2513,
+                    "artist": "Angham"
+                }
+            ],
+            "id": 2503
+        },
+        {
+            "name": "Bahebak Waheshtini",
+            "release_date": "2005-07-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734721c8b777a04a5dfe38b16b",
+            "track_url": "https://open.spotify.com/album/0y0WcwRhWcgwYJOvpywwCB",
+            "tracks": [
+                {
+                    "name": "Astannah Eih",
+                    "track_url": "https://www.dropbox.com/scl/fi/w9hvx6mac0jaeb9um6lvo/08.Astannah_Eih.mp3?rlkey=q86b1dbhby14mm4imbl4mvone&st=sotzv1hr&dl=1",
+                    "duration_ms": 414171,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734721c8b777a04a5dfe38b16b",
+                    "id": 2522,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Bahib Nafsy",
+                    "track_url": "https://www.dropbox.com/scl/fi/a4oerd7vhf02ij7kxuk6x/02.Bahib_Nafsy.mp3?rlkey=mmzc2smy6zq79l2uxylvmknmz&st=cyo4t4xz&dl=1",
+                    "duration_ms": 280607,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734721c8b777a04a5dfe38b16b",
+                    "id": 2523,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Inta Meen",
+                    "track_url": "https://www.dropbox.com/scl/fi/f4rhnh5s9cqsgnllkl5ts/06.Inta_Meen.mp3?rlkey=cm3iju61c1ad33y6e6v4owdwe&st=l4rxqmtg&dl=1",
+                    "duration_ms": 426501,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734721c8b777a04a5dfe38b16b",
+                    "id": 2524,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Bahibik Wahashtinee",
+                    "track_url": "https://www.dropbox.com/scl/fi/phjvy7gsm0g4ykjvw5xqk/10.Bahibik_Wahashteny.mp3?rlkey=ebwlrvrl4gew1j4ig11k3riwm&st=rqzu1wqn&dl=1",
+                    "duration_ms": 267807,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734721c8b777a04a5dfe38b16b",
+                    "id": 2525,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Titghayar",
+                    "track_url": "https://www.dropbox.com/scl/fi/swk21tai23oyukes1s9dt/04.Titghayar.mp3?rlkey=vzikfd95ewjt86djmxcjjwzju&st=lxahi7ku&dl=1",
+                    "duration_ms": 248372,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734721c8b777a04a5dfe38b16b",
+                    "id": 2526,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Fakrak",
+                    "track_url": "https://www.dropbox.com/scl/fi/44swuj9csxv5m4509aatq/01.Fakrak.mp3?rlkey=r5a2kvj5dno8opdi0wv5vdby0&st=r02sms3u&dl=1",
+                    "duration_ms": 301635,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734721c8b777a04a5dfe38b16b",
+                    "id": 2527,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Ad Ma Teadar",
+                    "track_url": "https://www.dropbox.com/scl/fi/ksnby48mpkw3rsh6zt6wm/05.Ad_Ma_Teadar.mp3?rlkey=nru6lrcmcvu2gtxfhev9z9imf&st=hbqytcj2&dl=1",
+                    "duration_ms": 265926,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734721c8b777a04a5dfe38b16b",
+                    "id": 2528,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Albak",
+                    "track_url": "https://www.dropbox.com/scl/fi/gpzg764nm9mxjljysb1xk/11.Albak.mp3?rlkey=fw5hxslj53wo9pqvewvmgl9ao&st=soe8rhos&dl=1",
+                    "duration_ms": 460042,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734721c8b777a04a5dfe38b16b",
+                    "id": 2529,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Ool Kida",
+                    "track_url": "https://www.dropbox.com/scl/fi/da8loz9svyzfqxttly7jn/07.Ol_Keda.mp3?rlkey=ra78rq42lslyc69txw0l2j5rd&st=dv5noeyx&dl=1",
+                    "duration_ms": 219585,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734721c8b777a04a5dfe38b16b",
+                    "id": 2530,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Meen Gheirak",
+                    "track_url": "https://www.dropbox.com/scl/fi/wc64yqmqx9kq0am1hmsrt/03.Meen_Gheirak.mp3?rlkey=27khtrz0glk6t95n00fx8p3ty&st=v7ar361e&dl=1",
+                    "duration_ms": 293799,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734721c8b777a04a5dfe38b16b",
+                    "id": 2531,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Ana Binisbalak",
+                    "track_url": "https://www.dropbox.com/scl/fi/yn7192rmwjmyb0ki7pmru/09.Ana_Binisbalak.mp3?rlkey=mptj3zou0my29h8ri43j357f6&st=zgjs18c8&dl=1",
+                    "duration_ms": 151379,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734721c8b777a04a5dfe38b16b",
+                    "id": 2532,
+                    "artist": "Angham"
+                }
+            ],
+            "id": 2521
+        },
+        {
+            "name": "Omry Maak",
+            "release_date": "2002-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273fd658188077d8960bce4e115",
+            "track_url": "https://open.spotify.com/album/3vvDdIvYc1Y4NnLtdA8Zzt",
+            "tracks": [
+                {
+                    "name": "Omry Maak",
+                    "track_url": "https://www.dropbox.com/scl/fi/qwze1zf3ex40tdft50xt6/01._Omry_Maak.mp3?rlkey=u84kknobxv4lcj4qdlxr3pj0c&st=aitoyf59&dl=1",
+                    "duration_ms": 326805,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fd658188077d8960bce4e115",
+                    "id": 2534,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Ma Yhemesh",
+                    "track_url": "https://www.dropbox.com/scl/fi/exag7yugrz7tc2u7v9cjy/02._Mayhemsh.mp3?rlkey=5vrbokiiea37lsonn58mxjid0&st=gfplgm9v&dl=1",
+                    "duration_ms": 278662,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fd658188077d8960bce4e115",
+                    "id": 2535,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Arrafha Beya",
+                    "track_url": "https://www.dropbox.com/scl/fi/javpm3zc9dnn6ud14mh45/03._Arafha_Beya.mp3?rlkey=j7vrv6gch1bazsnk4lwe6x81i&st=v0631ld4&dl=1",
+                    "duration_ms": 313823,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fd658188077d8960bce4e115",
+                    "id": 2536,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Esraany",
+                    "track_url": "https://www.dropbox.com/scl/fi/7plmx5r3pflgdix3mvym5/04._Esraany.mp3?rlkey=pe9opo8deic3cuvpiw2wvg6oe&st=awtx97j5&dl=1",
+                    "duration_ms": 277591,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fd658188077d8960bce4e115",
+                    "id": 2537,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Bahtag Atkalem",
+                    "track_url": "https://www.dropbox.com/scl/fi/tjblu2sto1ozx6e8875xq/05._Bahtag_Atkalem.mp3?rlkey=sutptqw6xm3zp5slzix0n9w00&st=qx5ot72j&dl=1",
+                    "duration_ms": 209516,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fd658188077d8960bce4e115",
+                    "id": 2538,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Theb Atghayar",
+                    "track_url": "https://www.dropbox.com/scl/fi/l7jdmb4mrkyk27fkrvvrz/06._Teheb_Atghayar.mp3?rlkey=cq24s2dv2q67che5v79jvb82b&st=hfw5an93&dl=1",
+                    "duration_ms": 192301,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fd658188077d8960bce4e115",
+                    "id": 2539,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Ana Mkhasmak",
+                    "track_url": "https://www.dropbox.com/scl/fi/oy7ofcg8y7flgbgy9dggj/07._Ana_Mkhasmak.mp3?rlkey=dgaizy7bxsyzylt52whd56dsk&st=i7qmuusz&dl=1",
+                    "duration_ms": 273437,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fd658188077d8960bce4e115",
+                    "id": 2540,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Ala Fekra",
+                    "track_url": "https://www.dropbox.com/scl/fi/lu83149ys80w3g23dwee1/08._Ala_Fekra.mp3?rlkey=ggsqtbao9gtqaw9tbhc8ll7s2&st=varmrf1l&dl=1",
+                    "duration_ms": 223256,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fd658188077d8960bce4e115",
+                    "id": 2541,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Shoft El Donya",
+                    "track_url": "https://www.dropbox.com/scl/fi/yhvyhe8ubwxudybqtfu3i/09._Shoft_El_Donia.mp3?rlkey=v65npjhps1hbtyzmrbe52on0v&st=m2z3gkk9&dl=1",
+                    "duration_ms": 254577,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fd658188077d8960bce4e115",
+                    "id": 2542,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Fenak",
+                    "track_url": "https://www.dropbox.com/scl/fi/a5k1b9xvrfay0uy6uip3m/10._Fainak.mp3?rlkey=e282gl6m7ze3pq4ut1z0lj5ee&st=1pczo20k&dl=1",
+                    "duration_ms": 300422,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fd658188077d8960bce4e115",
+                    "id": 2543,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Regeana",
+                    "track_url": "https://www.dropbox.com/scl/fi/qc3gjs74kl20crty5eglc/11._Regeena_Fy_Kalamna.mp3?rlkey=we5w4m0olwzx5abfi7i02vf6e&st=lcy8qzrh&dl=1",
+                    "duration_ms": 245382,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fd658188077d8960bce4e115",
+                    "id": 2544,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Halak",
+                    "track_url": "https://www.dropbox.com/scl/fi/hqzo76l7fdlxaw3e5aih4/12._Halak.mp3?rlkey=ixqc1zajclt11j7keag04a9tb&st=xf76wxhk&dl=1",
+                    "duration_ms": 266828,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fd658188077d8960bce4e115",
+                    "id": 2545,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Arrafha Beya Remix",
+                    "track_url": "https://www.dropbox.com/scl/fi/2p80qujfqi9f40yt9vuto/13._Arafha_Beya_-Remix.mp3?rlkey=qozddotuxbu4f8t06u70ft56k&st=a8koom4x&dl=1",
+                    "duration_ms": 241490,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fd658188077d8960bce4e115",
+                    "id": 2546,
+                    "artist": "Angham"
+                }
+            ],
+            "id": 2533
+        },
+        {
+            "name": "كوكتيل أنغام",
+            "release_date": "1999-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273fed49601342e47577e8504c7",
+            "track_url": "https://open.spotify.com/album/6X0739quvs9MurToYbtJYO",
+            "tracks": [
+                {
+                    "name": "بكرة تشوف",
+                    "track_url": "https://www.dropbox.com/scl/fi/cyss7cnem8efq9wu4g4mz/02_-_Bokra_Teshof.mp3?rlkey=el4eu50lnz2n76ochwhs2cg03&st=wrjaho8k&dl=1",
+                    "duration_ms": 363545,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fed49601342e47577e8504c7",
+                    "id": 2548,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "إلا أنا",
+                    "track_url": "https://www.dropbox.com/scl/fi/kw23v6ft7u5c2mb9byg8o/08_-_Ela_Ana.mp3?rlkey=0fnq28fm4huit83rpxax2x1g8&st=s38dnkxq&dl=1",
+                    "duration_ms": 388116,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fed49601342e47577e8504c7",
+                    "id": 2549,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "حسك فس الدنيا",
+                    "track_url": "https://www.dropbox.com/scl/fi/mtspr1iao2clbc0471rum/03_-_Hesak_Fe_El_Donia.mp3?rlkey=ke8n3nhqp7sz2beosniy9d5ei&st=2tthctqp&dl=1",
+                    "duration_ms": 358363,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fed49601342e47577e8504c7",
+                    "id": 2550,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "لا زلت أبحث عن سبب",
+                    "track_url": "https://www.dropbox.com/scl/fi/u7yg1fcw6x37hnf8kvsja/05_-_La_Zelt_Abhas_An_Sabab.mp3?rlkey=4zh960z8j9ow12078ymf9w04k&st=xafj4l1b&dl=1",
+                    "duration_ms": 367681,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fed49601342e47577e8504c7",
+                    "id": 2551,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "معرفش مين",
+                    "track_url": "https://www.dropbox.com/scl/fi/kroc9ry8rat42jjkqt7vn/06_-_Meen_Qal_Le_Habeeby.mp3?rlkey=8ccwu5bgbe9erejcviqvjuxek&st=v9qvx4r0&dl=1",
+                    "duration_ms": 391154,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fed49601342e47577e8504c7",
+                    "id": 2552,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "نمرت تليفونك كام",
+                    "track_url": "https://www.dropbox.com/scl/fi/fghj4rzzg4lc9wns7x5pu/01_-_Telefonak_Kam.mp3?rlkey=dbq068s9ve7bur9gwu866atun&st=fgbjfxst&dl=1",
+                    "duration_ms": 235727,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fed49601342e47577e8504c7",
+                    "id": 2553,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "شنطة سفر",
+                    "track_url": "https://www.dropbox.com/scl/fi/jq3bjsi4tcvoj0i3tpclm/04_-_Shantet_Safar.mp3?rlkey=g73a4l1ovwwu7zu1db7nkibxc&st=b00ipq40&dl=1",
+                    "duration_ms": 515199,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fed49601342e47577e8504c7",
+                    "id": 2554,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "وداع المطر",
+                    "track_url": "https://www.dropbox.com/scl/fi/ekoiflwtfzj4r6gn73qb9/07_-_Ala_Bab_El_Mattar.mp3?rlkey=579lrn7njke3x3a56b9czfz21&st=o8oszbo0&dl=1",
+                    "duration_ms": 261570,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273fed49601342e47577e8504c7",
+                    "id": 2555,
+                    "artist": "Angham"
+                }
+            ],
+            "id": 2547
+        },
+        {
+            "name": "Wahdania",
+            "release_date": "1999-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273574571798799b61a096600f2",
+            "track_url": "https://open.spotify.com/album/3GI94JSIIcW5DJTDgwLsyy",
+            "tracks": [
+                {
+                    "name": "Baatli Nazrah",
+                    "track_url": "https://www.dropbox.com/scl/fi/2793n9vtwprh7a6yb0x9i/02_-_Batly_Nazra.mp3?rlkey=cojhupw3asjnkcioj01zh07sv&st=yohb9vye&dl=1",
+                    "duration_ms": 441196,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273574571798799b61a096600f2",
+                    "id": 2557,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Bafakr Feek",
+                    "track_url": "https://www.dropbox.com/scl/fi/dklcdbhv5p2vrs6npx7yq/09_-_Bafaker_Feek.mp3?rlkey=93e86mk3e8mj0zu8vxwz4q5hi&st=jdzw0fg1&dl=1",
+                    "duration_ms": 318420,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273574571798799b61a096600f2",
+                    "id": 2558,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Bethbaha Wla",
+                    "track_url": "https://www.dropbox.com/scl/fi/9xttlzlb42hf6sxdxga8b/08_-_Bethebha_Walla.mp3?rlkey=kazhovrqivgukbyco6jf92t0y&st=jfyx0ql6&dl=1",
+                    "duration_ms": 273934,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273574571798799b61a096600f2",
+                    "id": 2559,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "El Donia Droub",
+                    "track_url": "https://www.dropbox.com/scl/fi/le256rlfuccp5gmnlmrfl/04_-_El_Donia_Droub.mp3?rlkey=co6xh8ui4258cqgm4nfwlei3o&st=w02wh8sd&dl=1",
+                    "duration_ms": 330489,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273574571798799b61a096600f2",
+                    "id": 2560,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Mafhmtnish",
+                    "track_url": "https://www.dropbox.com/scl/fi/3lg8hg0cyylo8s32imm8i/03_-_MaFehemtnish.mp3?rlkey=9nxml8bhyopy6b0h3hbutjj68&st=20zxgj5p&dl=1",
+                    "duration_ms": 295014,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273574571798799b61a096600f2",
+                    "id": 2561,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Saadni W Asaadak",
+                    "track_url": "https://www.dropbox.com/scl/fi/ws270wq7k3mr56enpxatu/06_-_Saedny_Wa_Sadak.mp3?rlkey=baufela9xyl49oigbap3tiudn&st=zw2e2j2p&dl=1",
+                    "duration_ms": 259357,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273574571798799b61a096600f2",
+                    "id": 2562,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Wahdania",
+                    "track_url": "https://www.dropbox.com/scl/fi/9jl21r2cuiajw4ssijepm/01_-_Wahdanya.mp3?rlkey=i8gr3mugjyil8bygynua5iq7k&st=lmes4a5b&dl=1",
+                    "duration_ms": 345640,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273574571798799b61a096600f2",
+                    "id": 2563,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Zaiak Ma Fish",
+                    "track_url": "https://www.dropbox.com/scl/fi/pv0d3yi8wm5ffnao042on/10_-_Zayak_Mafish.mp3?rlkey=1rudm2294tavgn5xw9983n3sg&st=6umw589b&dl=1",
+                    "duration_ms": 368471,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273574571798799b61a096600f2",
+                    "id": 2564,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "El Qalak Had",
+                    "track_url": "https://www.dropbox.com/scl/fi/yngczva4cri1ip23eon0p/07_-_Elalak_Had.mp3?rlkey=l3dk0s6t9rq1nhhfv2e2rmn7u&st=9ahwf9px&dl=1",
+                    "duration_ms": 349636,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273574571798799b61a096600f2",
+                    "id": 2565,
+                    "artist": "Angham"
+                }
+            ],
+            "id": 2556
+        },
+        {
+            "name": "Bethib Meen",
+            "release_date": "1997-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273cc26b3af00d4371f4c1ca5f7",
+            "track_url": "https://open.spotify.com/album/0NMFEwfbia1go0VtNmR7Wc",
+            "tracks": [
+                {
+                    "name": "Bithib Min",
+                    "track_url": "https://www.dropbox.com/scl/fi/kngne0tslaxkbxmy1esn3/07_-_Betheb_Meen.mp3?rlkey=j3ilitvgxfrqldivxbwm0ee7j&st=twc1dfjg&dl=1",
+                    "duration_ms": 411253,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cc26b3af00d4371f4c1ca5f7",
+                    "id": 2567,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Al golob",
+                    "track_url": "https://www.dropbox.com/scl/fi/j63m3109ka05nr2ecvzwr/03_-_El_Qolob.mp3?rlkey=ru7rwhw7c2jbf0e17iisxfaed&st=g18s9d5w&dl=1",
+                    "duration_ms": 384053,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cc26b3af00d4371f4c1ca5f7",
+                    "id": 2568,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Salem Aleh",
+                    "track_url": "https://www.dropbox.com/scl/fi/pvfbc3iir3r8eq7wy455d/02_-_Salem_Aalayh.mp3?rlkey=1lj8v6tpdcloq9tblkp5onejj&st=qc5r293e&dl=1",
+                    "duration_ms": 455346,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cc26b3af00d4371f4c1ca5f7",
+                    "id": 2569,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "E'Tabelna",
+                    "track_url": "https://www.dropbox.com/scl/fi/dfrlvfcd908p62c13uhxk/04_-_Etqabelna.mp3?rlkey=d5k9y4ni2v3onfn2rdksn2guq&st=0ds3j5c0&dl=1",
+                    "duration_ms": 264933,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cc26b3af00d4371f4c1ca5f7",
+                    "id": 2570,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Min baaed",
+                    "track_url": "https://www.dropbox.com/scl/fi/h2hyaogi1p42x53zqc6un/05_-_Meen_Baeaayd.mp3?rlkey=1l4ibl8tz9xepy0gbjpod4yjh&st=kedgc71q&dl=1",
+                    "duration_ms": 892706,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cc26b3af00d4371f4c1ca5f7",
+                    "id": 2571,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Ajebny",
+                    "track_url": "https://www.dropbox.com/scl/fi/j63dzl618xmv2u8506kn9/01_-_Agebny.mp3?rlkey=ew21guv3b62xuway8ghv1lrpk&st=rv5m8wxq&dl=1",
+                    "duration_ms": 550520,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cc26b3af00d4371f4c1ca5f7",
+                    "id": 2572,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "bilady",
+                    "track_url": "https://www.dropbox.com/scl/fi/jzta0hc5kh6kjxefk6wy7/06_-_Belady.mp3?rlkey=0lxtwsc6a44r4k4ucuxpegaz1&st=0wrnlmbc&dl=1",
+                    "duration_ms": 428253,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cc26b3af00d4371f4c1ca5f7",
+                    "id": 2573,
+                    "artist": "Angham"
+                }
+            ],
+            "id": 2566
+        },
+        {
+            "name": "Shay Daa",
+            "release_date": "1994-04-12",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735a7c43a0535f2b67900e5733",
+            "track_url": "https://open.spotify.com/album/5ibB9e3sb2KTKg4XWftKDi",
+            "tracks": [
+                {
+                    "name": "Ams Al Douha",
+                    "track_url": "https://www.dropbox.com/scl/fi/y988y2yvjuhjet8iovpik/03_-_Ames_El_Doha.mp3?rlkey=w8f57g4unrwu8togsh0a604tl&st=bo6eh3nj&dl=1",
+                    "duration_ms": 451831,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735a7c43a0535f2b67900e5733",
+                    "id": 2575,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Asra Man Al Reeh",
+                    "track_url": "https://www.dropbox.com/scl/fi/hnbgkz5q1afasyt3sxthy/05_-_Asraaa_Mean_El_Reah.mp3?rlkey=z6c00lq3iv1t9jg5c2t57glsy&st=4ltsbg0e&dl=1",
+                    "duration_ms": 377555,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735a7c43a0535f2b67900e5733",
+                    "id": 2576,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Awal Ma Eady",
+                    "track_url": "https://www.dropbox.com/scl/fi/b20klggit9wsvkvq59093/01_-_Awel_Ma_Eidy.mp3?rlkey=6jad90osrqy21tf8ge4rfb4j5&st=p6ms6siz&dl=1",
+                    "duration_ms": 333367,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735a7c43a0535f2b67900e5733",
+                    "id": 2577,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "La Tageeb",
+                    "track_url": "https://www.dropbox.com/scl/fi/jxi521o3s0ayzfyfmenlx/04_-_La_Tegeb.mp3?rlkey=ls0mfgcu9gxjojobpxnsalowq&st=v7tbr4p0&dl=1",
+                    "duration_ms": 363477,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735a7c43a0535f2b67900e5733",
+                    "id": 2578,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Men Whan Ajee",
+                    "track_url": "https://www.dropbox.com/scl/fi/oejvue25cspvdnufquc8u/06_-_Mean_Wain_Agy.mp3?rlkey=15ludl06khnk5iobjazlx0e9u&st=nz5k9nb5&dl=1",
+                    "duration_ms": 297313,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735a7c43a0535f2b67900e5733",
+                    "id": 2579,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "Shay Daa",
+                    "track_url": "https://www.dropbox.com/scl/fi/an1meqzar7h9uml6m0ckh/02_-_Sheaaa_Daaa.mp3?rlkey=81bj1nso9912tzet656h4k7ck&st=ypk0kiux&dl=1",
+                    "duration_ms": 431416,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735a7c43a0535f2b67900e5733",
+                    "id": 2580,
+                    "artist": "Angham"
+                }
+            ],
+            "id": 2574
+        },
+        {
+            "name": "في الركن البعيد الهادي",
+            "release_date": "1988-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273894d59870642a06a2a1af6f0",
+            "track_url": "https://open.spotify.com/album/0yHJiXwTwkrf9ppbYNNB2S",
+            "tracks": [
+                {
+                    "name": "بسبوسه",
+                    "track_url": "https://www.dropbox.com/scl/fi/g5mxs88wd1xrjhddz418j/.mp3?rlkey=h5wy2dsxu7enf1wrueimt6spe&st=q74migws&dl=1",
+                    "duration_ms": 284969,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273894d59870642a06a2a1af6f0",
+                    "id": 2589,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "تامر ياحب",
+                    "track_url": "https://www.dropbox.com/scl/fi/goz3mjscpuv21qav5136z/.mp3?rlkey=95nnavs5wrqe0okf4kuk307h2&st=xn026lp0&dl=1",
+                    "duration_ms": 535745,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273894d59870642a06a2a1af6f0",
+                    "id": 2590,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "في الركن البعيد الهادي",
+                    "track_url": "https://www.dropbox.com/scl/fi/thlwfa8rbxbhmlbscddix/.mp3?rlkey=cztrkzlazqizuf7ntslzhjdws&st=286lyka5&dl=1",
+                    "duration_ms": 434599,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273894d59870642a06a2a1af6f0",
+                    "id": 2591,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "انا وانت",
+                    "track_url": "https://www.dropbox.com/scl/fi/xo5kbr7sa9byq2dksnfxz/.mp3?rlkey=qak32j8clc5z46u2spaicr408&st=p7tlxj8d&dl=1",
+                    "duration_ms": 349570,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273894d59870642a06a2a1af6f0",
+                    "id": 2592,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "لا يا الحبيب",
+                    "track_url": "https://www.dropbox.com/scl/fi/l7mu57wy3ofbhuwbnzs0b/.mp3?rlkey=5xi1q936ymdyu3btewqphuau8&st=7wgjwgy5&dl=1",
+                    "duration_ms": 295314,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273894d59870642a06a2a1af6f0",
+                    "id": 2593,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "ياعيني ع الصدف",
+                    "track_url": "https://www.dropbox.com/scl/fi/elwszd320ksvtbfamygsm/.mp3?rlkey=2158cjx785a32ez1j7cdh8yse&st=cc3l089g&dl=1",
+                    "duration_ms": 366654,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273894d59870642a06a2a1af6f0",
+                    "id": 2594,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "الأم",
+                    "track_url": "https://www.dropbox.com/scl/fi/qk5atpmwf3ltobf5100n7/.mp3?rlkey=mkgawtb80bsd3s045r1ui547l&st=kx66504p&dl=1",
+                    "duration_ms": 375614,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273894d59870642a06a2a1af6f0",
+                    "id": 2595,
+                    "artist": "Angham"
+                }
+            ],
+            "id": 2588
+        },
+        {
+            "name": "حرية قرار",
+            "release_date": "1988-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273848a5af261d6bfe2e395f5f9",
+            "track_url": "https://open.spotify.com/album/02b6G4XRxOH6kZ8CoSnsIE",
+            "tracks": [
+                {
+                    "name": "بكره",
+                    "track_url": "https://www.dropbox.com/scl/fi/d3hm7qxnah3qnicusd33l/03_-_Bokra.mp3?rlkey=ccumr3qi1nfg77t1a5ykhrev8&st=t8sxqstf&dl=1",
+                    "duration_ms": 405968,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273848a5af261d6bfe2e395f5f9",
+                    "id": 2597,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "حرية قرار",
+                    "track_url": "https://www.dropbox.com/scl/fi/li34sj6vt2ta9krx647kr/02_-_Horeyt_Karar.mp3?rlkey=x9f2lx9b025r7yd2rbar2p203&st=8qrim49f&dl=1",
+                    "duration_ms": 314383,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273848a5af261d6bfe2e395f5f9",
+                    "id": 2598,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "هيبه",
+                    "track_url": "https://www.dropbox.com/scl/fi/m6qqs7o691nw7kuvslnf4/01_-_Hayba.mp3?rlkey=5uuylvjvuomk68cwjihcdrjwp&st=juf4wxwd&dl=1",
+                    "duration_ms": 355395,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273848a5af261d6bfe2e395f5f9",
+                    "id": 2599,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "عيدنا مبارك",
+                    "track_url": "https://www.dropbox.com/scl/fi/xm4n5ci0nksmllar57lza/06_-_Eidna_Mubarak.mp3?rlkey=ddhvkbgrcr64d5in63wo8n4ai&st=vez0v52b&dl=1",
+                    "duration_ms": 219088,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273848a5af261d6bfe2e395f5f9",
+                    "id": 2600,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "غريب",
+                    "track_url": "https://www.dropbox.com/scl/fi/rdgd6cua5lhx0ls3zsimc/04_-_Ghareeb.mp3?rlkey=qpmdiffxgj75fmtm0wjnfqltk&st=waos0o1n&dl=1",
+                    "duration_ms": 328228,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273848a5af261d6bfe2e395f5f9",
+                    "id": 2601,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "حد فاضي",
+                    "track_url": "https://www.dropbox.com/scl/fi/tp356r0ihoo6xck92kfkh/05_-_Ma_Had_Fady.mp3?rlkey=dcwzmpew00g4o1gxenyqj95yf&st=xwerl2iy&dl=1",
+                    "duration_ms": 409600,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273848a5af261d6bfe2e395f5f9",
+                    "id": 2602,
+                    "artist": "Angham"
+                }
+            ],
+            "id": 2596
+        },
+        {
+            "name": "هيبة",
+            "release_date": "1900",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735a0595cabed2846d6cf21284",
+            "track_url": "https://open.spotify.com/album/7AFvHWV66mxfHLaV6yhqZb",
+            "tracks": [
+                {
+                    "name": "هيبة",
+                    "track_url": "https://www.dropbox.com/scl/fi/m6qqs7o691nw7kuvslnf4/01_-_Hayba.mp3?rlkey=5uuylvjvuomk68cwjihcdrjwp&st=r76crw1d&dl=1",
+                    "duration_ms": 350534,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735a0595cabed2846d6cf21284",
+                    "id": 2604,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "حرية قرار",
+                    "track_url": "https://www.dropbox.com/scl/fi/li34sj6vt2ta9krx647kr/02_-_Horeyt_Karar.mp3?rlkey=x9f2lx9b025r7yd2rbar2p203&st=69wmjgeo&dl=1",
+                    "duration_ms": 308959,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735a0595cabed2846d6cf21284",
+                    "id": 2605,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "بكره",
+                    "track_url": "https://www.dropbox.com/scl/fi/d3hm7qxnah3qnicusd33l/03_-_Bokra.mp3?rlkey=ccumr3qi1nfg77t1a5ykhrev8&st=ciyrxd3r&dl=1",
+                    "duration_ms": 399620,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735a0595cabed2846d6cf21284",
+                    "id": 2606,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "غريب",
+                    "track_url": "https://www.dropbox.com/scl/fi/rdgd6cua5lhx0ls3zsimc/04_-_Ghareeb.mp3?rlkey=qpmdiffxgj75fmtm0wjnfqltk&st=2lf0l7l0&dl=1",
+                    "duration_ms": 315572,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735a0595cabed2846d6cf21284",
+                    "id": 2607,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "ما حدا فاضي",
+                    "track_url": "https://www.dropbox.com/scl/fi/tp356r0ihoo6xck92kfkh/05_-_Ma_Had_Fady.mp3?rlkey=dcwzmpew00g4o1gxenyqj95yf&st=1wgr3lqy&dl=1",
+                    "duration_ms": 404185,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735a0595cabed2846d6cf21284",
+                    "id": 2608,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "عيدنا مبارك",
+                    "track_url": "https://www.dropbox.com/scl/fi/xm4n5ci0nksmllar57lza/06_-_Eidna_Mubarak.mp3?rlkey=ddhvkbgrcr64d5in63wo8n4ai&st=carwls0b&dl=1",
+                    "duration_ms": 212142,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735a0595cabed2846d6cf21284",
+                    "id": 2609,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "حلفتكم بالله",
+                    "track_url": "https://www.dropbox.com/scl/fi/rr0ufcybzl1irzltt9p8h/07_-_Hlektkoum_Be_Allah.mp3?rlkey=5od0matlp44hgjbc0rdv3uwy6&st=6nk5vc76&dl=1",
+                    "duration_ms": 386393,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735a0595cabed2846d6cf21284",
+                    "id": 2610,
+                    "artist": "Angham"
+                },
+                {
+                    "name": "ليه أحبك",
+                    "track_url": "https://www.dropbox.com/scl/fi/7ps1c5vpiu2l6nhr19qly/08_-_Leih_Ahebak.mp3?rlkey=31ybs1966k7vi3vd9j9hkwe9t&st=vu3uf66y&dl=1",
+                    "duration_ms": 278477,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735a0595cabed2846d6cf21284",
+                    "id": 2611,
+                    "artist": "Angham"
+                }
+            ],
+            "id": 2603
+        }
+    ],
+    "singles": [
+        {
+            "name": "Akbar Alb",
+            "release_date": "2024-03-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ce9594180ee2ad597cf72d40",
+            "track_url": "https://www.dropbox.com/scl/fi/s3bphj70tmsozqqw0zshu/.mp3?rlkey=sdz367kj18tsk1f0ic3aa8b6y&st=qd73rzzv&dl=1",
+            "id": 2612,
+            "artist": "Angham"
+        },
+        {
+            "name": "Halefona",
+            "release_date": "2023-11-14",
+            "image": "https://i.scdn.co/image/ab67616d0000b273aa4655a041000924584f76ec",
+            "track_url": "https://www.dropbox.com/scl/fi/njx1xfzfpiexbyhbjj8zx/.mp3?rlkey=w2xhkafhvhntev71m5vjdcc56&st=zqd586v8&dl=1",
+            "id": 2613,
+            "artist": "Angham"
+        },
+        {
+            "name": "Seebk Enta",
+            "release_date": "2023-05-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738dcc0b57ce3c7d54684a70ba",
+            "track_url": "https://www.dropbox.com/scl/fi/miqjv2uqzbtodfp2qilsn/.mp3?rlkey=c57txfc01rh2mdczcpez8xhfb&st=kub18ql9&dl=1",
+            "id": 2616,
+            "artist": "Angham"
+        },
+        {
+            "name": "أحلامنا",
+            "release_date": "2023-04-13",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f672ae8ecffd0617d7b4a3f1",
+            "track_url": "https://www.dropbox.com/scl/fi/5kjtxnjv666p4ihurvzcw/.mp3?rlkey=2izesfg09t1rrj6rfptpa4s5u&st=5a9jsns1&dl=1",
+            "id": 2619,
+            "artist": "Angham"
+        },
+        {
+            "name": "Shebr W Nos",
+            "release_date": "2023-03-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b27335328f8f12e24fd2ab6c2455",
+            "track_url": "https://www.dropbox.com/scl/fi/2jxub1tc7qtiojk1ty6bo/.mp3?rlkey=2zeqbp8v5hmvwsn024hamcoot&st=p9jrylya&dl=1",
+            "id": 2620,
+            "artist": "Angham"
+        },
+        {
+            "name": "Ana Baasha El Bahr",
+            "release_date": "2023-03-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b4aef99d24b0db5dd6cb4d98",
+            "track_url": "https://www.dropbox.com/scl/fi/aaidb9w31xoar864d06dn/.mp3?rlkey=0v08dl8rlayvpy99itvbhvu6o&st=elv65yyg&dl=1",
+            "id": 2627,
+            "artist": "Angham"
+        },
+        {
+            "name": "نسينا نعيش",
+            "release_date": "2023-02-26",
+            "image": "https://i.scdn.co/image/ab67616d0000b27324e7ff0769d0d893f4dd773e",
+            "track_url": "https://www.dropbox.com/scl/fi/bfa23463b3qgqmivz8rbp/.mp3?rlkey=ir0d0n0l38yyq30ivp1gffq5d&st=1mkig20f&dl=1",
+            "id": 2628,
+            "artist": "Angham"
+        },
+        {
+            "name": "خليني شوية معاك",
+            "release_date": "2023-02-14",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731c77168ce487affe52ee2c98",
+            "track_url": "https://www.dropbox.com/scl/fi/bass75nmfrhsa26yyj63t/khlyny_shwyt_maak.mp3?rlkey=jen0umnl9h8nq66x7usuu14kq&st=ucckq2pt&dl=1",
+            "id": 2629,
+            "artist": "Angham"
+        },
+        {
+            "name": "عشان ارضيك",
+            "release_date": "2023-01-22",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737db156730eabfbdadf4c8ad0",
+            "track_url": "https://www.dropbox.com/scl/fi/nfztcnyfn213wf5gx3c54/.mp3?rlkey=qkhgvbvvdib8mbomoj2j3lnyn&st=otetkoj7&dl=1",
+            "id": 2630,
+            "artist": "Angham"
+        },
+        {
+            "name": "عارفه قيمتي",
+            "release_date": "2022-08-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b27341ff4f80a709219c9cef169e",
+            "track_url": "https://www.dropbox.com/scl/fi/p7gq724bfvotjm7uj0dtl/.mp3?rlkey=2hnnkb5bzsoshtagj4lynenzk&st=c56slsc6&dl=1",
+            "id": 2631,
+            "artist": "Angham"
+        },
+        {
+            "name": "Loha Bahta",
+            "release_date": "2022-05-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738da447923711aa61bfd61ffe",
+            "track_url": "https://www.dropbox.com/scl/fi/u6qcc7npsyaw6q4ucg5i9/.mp3?rlkey=3eo88qvfc23k2evcl38h90cns&st=rmouohk5&dl=1",
+            "id": 2632,
+            "artist": "Angham"
+        },
+        {
+            "name": "النشيد الوطني (من مسلسل الاختيار 3)",
+            "release_date": "2022-05-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273cdcf6a34a911cc20920dd5b0",
+            "track_url": "https://www.dropbox.com/scl/fi/kncl66jyqq37kqoj5k0el/.mp3?rlkey=04fuc3g4o2b5bef0nehji06yn&st=0yvuvqob&dl=1",
+            "id": 2633,
+            "artist": "Angham"
+        },
+        {
+            "name": "انا مش ضعيفة (فاتن امل حربي)",
+            "release_date": "2022-04-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b273afefe13eb0eb05e038331e6e",
+            "track_url": "https://www.dropbox.com/scl/fi/8lseck39enks6gxwzr0gm/.mp3?rlkey=uq8jv7hl573pwvkfxntc6qrp6&st=weiwlz16&dl=1",
+            "id": 2634,
+            "artist": "Angham"
+        },
+        {
+            "name": "Hateshtaou",
+            "release_date": "2021-11-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739060e0820b6dc17560b14348",
+            "track_url": "https://www.dropbox.com/scl/fi/5oexegk1hs2aao3hvexyu/.mp3?rlkey=9rix0e8ejxq44ckq1dnqmjbvw&st=uhjbcqjo&dl=1",
+            "id": 2635,
+            "artist": "Angham"
+        },
+        {
+            "name": "W Nefdal Norkos",
+            "release_date": "2021-08-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736aa9477043720ca39b9d70c0",
+            "track_url": "https://www.dropbox.com/scl/fi/s3bsshbra253zja81w5v9/.mp3?rlkey=559c1nfie52m616nupjmxhyno&st=wxjc7ka6&dl=1",
+            "id": 2636,
+            "artist": "Angham"
+        },
+        {
+            "name": "Ana Baatoh Kteer",
+            "release_date": "2021-06-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ae2ed56a8c9a4f0240d65e99",
+            "track_url": "https://www.dropbox.com/scl/fi/u5n7cybsgxzybjtdt3y1f/.mp3?rlkey=32117bu11hed92z9f3l3jukpw&st=2oym2u1g&dl=1",
+            "id": 2637,
+            "artist": "Angham"
+        },
+        {
+            "name": "Howa Nafs El Shouk",
+            "release_date": "2021-03-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b27328f800a74edef4eca4046078",
+            "track_url": "https://www.dropbox.com/scl/fi/b35styctwoes2oikwbg1c/.mp3?rlkey=ay1sr0wf8642szqgvlhaar1ab&st=ij6bz6tv&dl=1",
+            "id": 2638,
+            "artist": "Angham"
+        },
+        {
+            "name": "Noatet Matar",
+            "release_date": "2021-03-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ee3bd5954164c61aa0e41ef2",
+            "track_url": "https://www.dropbox.com/scl/fi/p8d7nffttar64djfunnwx/.mp3?rlkey=cnyo7lzrwaljqaoqtci365oi7&st=vrt4uyqk&dl=1",
+            "id": 2639,
+            "artist": "Angham"
+        },
+        {
+            "name": "Bardo Betewhashni",
+            "release_date": "2021-01-05",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739844aeda0cb72f6ac0fc2c8d",
+            "track_url": "https://www.dropbox.com/scl/fi/necj46qxblk87yrhycqb8/.mp3?rlkey=gz93mxu8ikb1v0xg82g8xwm6t&st=hyjy2plv&dl=1",
+            "id": 2640,
+            "artist": "Angham"
+        },
+        {
+            "name": "Maly We Mal Elnas",
+            "release_date": "2020-09-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b27380b7326059db76c3d1811e30",
+            "track_url": "https://www.dropbox.com/scl/fi/4h96pih7xnqpr0e1ykyrh/.mp3?rlkey=gt11tfjomf7u86a9ie299oo5b&st=5pk5ep6s&dl=1",
+            "id": 2641,
+            "artist": "Angham"
+        },
+        {
+            "name": "Bahebak We Bartahlak",
+            "release_date": "2020-08-29",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733e77768a2d4b2c0271c430c1",
+            "track_url": "https://www.dropbox.com/scl/fi/idnyjgzofnvqse2ojqblc/.mp3?rlkey=uavw1a37up4wsa8o1l1e5qgyb&st=89tm978z&dl=1",
+            "id": 2642,
+            "artist": "Angham"
+        },
+        {
+            "name": "Kona Bendhak",
+            "release_date": "2020-04-29",
+            "image": "https://i.scdn.co/image/ab67616d0000b27382e16c7b67ca1ae796ddde8f",
+            "track_url": "https://www.dropbox.com/scl/fi/fy7cv4b3f0kltj9hieg5q/.mp3?rlkey=ehxdk4gn8dflbnb8j0jbafm9g&st=dc9mdujj&dl=1",
+            "id": 2643,
+            "artist": "Angham"
+        },
+        {
+            "name": "Hadotah Morah (Hodotet Morra)",
+            "release_date": "2019-05-13",
+            "image": "https://i.scdn.co/image/ab67616d0000b273cdab3208b49adf6d29fc59eb",
+            "track_url": "https://www.dropbox.com/scl/fi/do8rzk10patvix0poyuvc/.mp3?rlkey=mw3eph2ghxbqwmkwvslycbue8&st=v1fsf9di&dl=1",
+            "id": 2644,
+            "artist": "Angham"
+        },
+        {
+            "name": "Bakhaf Afrah",
+            "release_date": "2018-09-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734531d4026e54ded9eaf5994f",
+            "track_url": "https://www.dropbox.com/scl/fi/cfx9ssbbh1v4271fay8zx/.mp3?rlkey=8rp4a0288c0j75abr6wnoivmg&st=mrku7ogh&dl=1",
+            "id": 2645,
+            "artist": "Angham"
+        },
+        {
+            "name": "Metlakhbata",
+            "release_date": "2018-08-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734098c9e7a1370313cba9e866",
+            "track_url": "https://www.dropbox.com/scl/fi/egongzzeitz607tjjst3o/.mp3?rlkey=o088a19ow0brumym2sbwsx5qh&st=cqgr7xji&dl=1",
+            "id": 2646,
+            "artist": "Angham"
+        },
+        {
+            "name": "30 Youm Farha",
+            "release_date": "2018-06-03",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735f101b58aa27f0b9a8fd76a4",
+            "track_url": "https://www.dropbox.com/scl/fi/tgour07grfjzuwvc3yvy5/30.mp3?rlkey=mnfxwcf7hsjghkt8hxjcjevb8&st=qkc3f2aa&dl=1",
+            "id": 2647,
+            "artist": "Angham"
+        },
+        {
+            "name": "Wahda Kamla",
+            "release_date": "2018-04-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ec6b9a056b383d79ba81491c",
+            "track_url": "https://www.dropbox.com/scl/fi/vgg98jyb590ogv8qduvxu/.mp3?rlkey=9nbhcsjwsfgr367xqwk395y3e&st=sa5vzi4w&dl=1",
+            "id": 2648,
+            "artist": "Angham"
+        },
+        {
+            "name": "Eamel Khair",
+            "release_date": "2018-04-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b27316f1e4536f18e13681d19201",
+            "track_url": "https://www.dropbox.com/scl/fi/82vv1jpub7u2u5hq4juj6/.mp3?rlkey=bpeq46lpanmx0eub0wr00gbjv&st=8z3vh7f3&dl=1",
+            "id": 2649,
+            "artist": "Angham"
+        },
+        {
+            "name": "Sanda Aleik",
+            "release_date": "2018-04-17",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d9551649e554a37250453a47",
+            "track_url": "https://www.dropbox.com/scl/fi/oh6cb65w7pp8czpx4xu5q/.mp3?rlkey=zilnl9rbb3lzvexjmq6plkplr&st=i59cii8c&dl=1",
+            "id": 2650,
+            "artist": "Angham"
+        },
+        {
+            "name": "Balady El Tareekh",
+            "release_date": "2018-04-17",
+            "image": "https://i.scdn.co/image/ab67616d0000b273dad8c9fee61dd17c57bede14",
+            "track_url": "https://www.dropbox.com/scl/fi/ybyaa16nxp8vk3lsvkjnx/.mp3?rlkey=ufo5f9qfo5cy3jmfgpbplfo87&st=26dpv70u&dl=1",
+            "id": 2651,
+            "artist": "Angham"
+        },
+        {
+            "name": "An Farh Ghayeb",
+            "release_date": "2018-04-17",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738acc0fa35869e18f2df835e0",
+            "track_url": "https://www.dropbox.com/scl/fi/mwhpuzyj85ot8emwii80q/.mp3?rlkey=fk59ufopt4uezxjcyyef71hvy&st=htib8o7k&dl=1",
+            "id": 2652,
+            "artist": "Angham"
+        },
+        {
+            "name": "11 Felmalaab",
+            "release_date": "2018-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e46f989d9171fd4d0e99c623",
+            "track_url": "https://www.dropbox.com/scl/fi/ye6eurzjwg3s9io9owv02/11.mp3?rlkey=byydgdpk2e0wvm5w3wf7ssdga&st=d6hmzhvh&dl=1",
+            "id": 2653,
+            "artist": "Angham"
+        },
+        {
+            "name": "Gol Hader - Single",
+            "release_date": "2017-07-05",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c1c2ade932194365d63dbfe7",
+            "track_url": "https://www.dropbox.com/scl/fi/1zi7xv6z1d67fe7f2keau/.mp3?rlkey=k7oaib33izqbpsa8cmtqdihvr&st=ppx31gz4&dl=1",
+            "id": 2654,
+            "artist": "Angham"
+        },
+        {
+            "name": "قلبي معي",
+            "release_date": "2017-06-06",
+            "image": "https://i.scdn.co/image/ab67616d0000b273be678dd635e8855ae126ef80",
+            "track_url": "https://www.dropbox.com/scl/fi/c2ymwl3s07uqwsotxzig0/.mp3?rlkey=0ggxgzlo9wpaz44asq963ei4t&st=6r8hhr2w&dl=1",
+            "id": 2655,
+            "artist": "Angham"
+        },
+        {
+            "name": "Mafi Methlek",
+            "release_date": "2016-12-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739cc4977ef9f6912b1c5fdfc5",
+            "track_url": "https://www.dropbox.com/scl/fi/97hduapi6tr0zp7kscnkm/Mafi.Methlek.mp3?rlkey=0s5jzvmb1syejckpojwmxi36y&st=uplal7cf&dl=1",
+            "id": 2656,
+            "artist": "Angham"
+        },
+        {
+            "name": "Mahadish Yehasebni",
+            "release_date": "2013-10-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b27388c4bc6e4c2b26f27224c460",
+            "track_url": "https://www.dropbox.com/scl/fi/ujbkt0uxwo8r8rbny09u6/Mahadesh.Yehasebny.mp3?rlkey=z1zsp5f333uldln51ht0zc1hc&st=p9x690qt&dl=1",
+            "id": 2657,
+            "artist": "Angham"
+        },
+        {
+            "name": "خواف",
+            "release_date": "2011-11-13",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737a8124b64e510f038680b32e",
+            "track_url": "https://www.dropbox.com/scl/fi/us3c1j727sk7clsy962cl/.mp3?rlkey=1mzd7l4rh8hgepg6uloou002r&st=s750tub0&dl=1",
+            "id": 2659,
+            "artist": "Angham"
+        },
+        {
+            "name": "Sibto",
+            "release_date": "2011-06-29",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738563853b9bedf9bd89d10db4",
+            "track_url": "https://www.dropbox.com/scl/fi/gmf3g9btq2p1ziqyzib34/sibto.mp3?rlkey=ioc115jj9k8oo97yn576ruu21&st=zlo43b2n&dl=1",
+            "id": 2660,
+            "artist": "Angham"
+        },
+        {
+            "name": "Yanayer",
+            "release_date": "2011-02-12",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739474d2e038e0455cf3c33b2a",
+            "track_url": "https://www.dropbox.com/scl/fi/4bo2lj2bfgh3hdbut4uhb/yanayer.mp3?rlkey=qcnalyekq4kw0m1exjvm4wvuc&st=npadmrwm&dl=1",
+            "id": 2661,
+            "artist": "Angham"
+        }
+    ],
+    "popular_tracks": [
+        {
+            "name": "هو انت مين",
+            "track_url": "https://www.dropbox.com/scl/fi/fe24uvilvhw0rgpm9vdk2/Albumaty.Com_angham_hw_ant_myn.mp3?rlkey=bof2na8j6zzxoco2bnw2rf50t&st=e1sa075a&dl=1",
+            "duration_ms": 281052,
+            "image": "https://i.scdn.co/image/ab67616d0000b2732a729d001483ba6e99710b5f",
+            "id": 2359,
+            "artist": "Angham"
+        },
+        {
+            "name": "تيجي نسيب",
+            "track_url": "https://www.dropbox.com/scl/fi/ct6efu5jj7k2cgwh53xrj/Albumaty.Com_angham_tygy_nsyb.mp3?rlkey=jdfc0qyi127ogpks3my8duygn&st=dldx9hpc&dl=1",
+            "duration_ms": 225226,
+            "image": "https://i.scdn.co/image/ab67616d0000b2732a729d001483ba6e99710b5f",
+            "id": 2369,
+            "artist": "Angham"
+        },
+        {
+            "name": "W Nefdal Norkos",
+            "release_date": "2021-08-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736aa9477043720ca39b9d70c0",
+            "track_url": "https://www.dropbox.com/scl/fi/s3bsshbra253zja81w5v9/.mp3?rlkey=559c1nfie52m616nupjmxhyno&st=wxjc7ka6&dl=1",
+            "id": 2636,
+            "artist": "Angham"
+        },
+        {
+            "name": "خليك معاها",
+            "track_url": "https://www.dropbox.com/scl/fi/8ue419y979ofqri0ipwur/Albumaty.Com_angham_khlyk_maaha.mp3?rlkey=ypvi3u3c08olpowmix7bdfyxv&st=ck93q3ir&dl=1",
+            "duration_ms": 258333,
+            "image": "https://i.scdn.co/image/ab67616d0000b2732a729d001483ba6e99710b5f",
+            "id": 2362,
+            "artist": "Angham"
+        },
+        {
+            "name": "ياريتك فاهمني",
+            "track_url": "https://www.dropbox.com/scl/fi/z0zsls8sx3cmn223z959y/02._Yaretak_Fahemni.mp3?rlkey=h9cmxtddxj8fnf65i7go5hi4x&st=xe3lswpa&dl=1",
+            "duration_ms": 332531,
+            "image": "https://i.scdn.co/image/ab67616d0000b2738aad1328fce4ec77921e0813",
+            "id": 2666,
+            "artist": "Angham"
+        },
+        {
+            "name": "Loha Bahta",
+            "release_date": "2022-05-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738da447923711aa61bfd61ffe",
+            "track_url": "https://www.dropbox.com/scl/fi/u6qcc7npsyaw6q4ucg5i9/.mp3?rlkey=3eo88qvfc23k2evcl38h90cns&st=rmouohk5&dl=1",
+            "id": 2632,
+            "artist": "Angham"
+        },
+        {
+            "name": "أحلامنا",
+            "release_date": "2023-04-13",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f672ae8ecffd0617d7b4a3f1",
+            "track_url": "https://www.dropbox.com/scl/fi/5kjtxnjv666p4ihurvzcw/.mp3?rlkey=2izesfg09t1rrj6rfptpa4s5u&st=5a9jsns1&dl=1",
+            "id": 2619,
+            "artist": "Angham"
+        },
+        {
+            "name": "خليني شوية معاك",
+            "release_date": "2023-02-14",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731c77168ce487affe52ee2c98",
+            "track_url": "https://www.dropbox.com/scl/fi/bass75nmfrhsa26yyj63t/khlyny_shwyt_maak.mp3?rlkey=jen0umnl9h8nq66x7usuu14kq&st=ucckq2pt&dl=1",
+            "id": 2629,
+            "artist": "Angham"
+        },
+        {
+            "name": "بقالك قلب",
+            "track_url": "https://www.dropbox.com/scl/fi/ezcq3v7bptlt98ycsrzu9/Albumaty.Com_angham_wbkalk_klb.mp3?rlkey=lvcevrg4wku3of3rb6hdg496q&st=09s6ey5j&dl=1",
+            "duration_ms": 205714,
+            "image": "https://i.scdn.co/image/ab67616d0000b2732a729d001483ba6e99710b5f",
+            "id": 2358,
+            "artist": "Angham"
+        },
+        {
+            "name": "كان برئ",
+            "track_url": "https://www.dropbox.com/scl/fi/qcnpbiv8rj81vnfxh9hfi/Albumaty.Com_angham_kan_bri.mp3?rlkey=x9o1u6mjjltaieo1akr7jhsce&st=zjpehcb6&dl=1",
+            "duration_ms": 196153,
+            "image": "https://i.scdn.co/image/ab67616d0000b2732a729d001483ba6e99710b5f",
+            "id": 2365,
+            "artist": "Angham"
+        }
+    ]
+}

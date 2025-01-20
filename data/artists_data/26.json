@@ -1,0 +1,680 @@
+{
+    "artist": {
+        "id": "4341",
+        "name": "Afroto",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebde9edeca3acfbbd7b84d56fe",
+        "background_image": "https://i.scdn.co/image/ab67616100005174de9edeca3acfbbd7b84d56fe"
+    },
+    "albums": [
+        {
+            "name": "أفضل أغانى 2024",
+            "release_date": "2024-07-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732dd4211dff9e6ca8b39818ed",
+            "track_url": "https://open.spotify.com/album/7Fx2opgiB62sccFEmebS9o",
+            "tracks": [
+                {
+                    "name": "VINI",
+                    "track_url": "",
+                    "duration_ms": 184568,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732dd4211dff9e6ca8b39818ed",
+                    "id": 4343,
+                    "artist": "Afroto"
+                },
+                {
+                    "name": "WELAD ELMAGANEN",
+                    "track_url": "",
+                    "duration_ms": 138000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732dd4211dff9e6ca8b39818ed",
+                    "id": 4344,
+                    "artist": "Afroto"
+                },
+                {
+                    "name": "HABIBI",
+                    "track_url": "",
+                    "duration_ms": 148624,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732dd4211dff9e6ca8b39818ed",
+                    "id": 4345,
+                    "artist": "Afroto"
+                },
+                {
+                    "name": "MONW3AT 2019",
+                    "track_url": "",
+                    "duration_ms": 276135,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732dd4211dff9e6ca8b39818ed",
+                    "id": 4346,
+                    "artist": "Afroto"
+                },
+                {
+                    "name": "ZAMAN",
+                    "track_url": "",
+                    "duration_ms": 213529,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732dd4211dff9e6ca8b39818ed",
+                    "id": 4347,
+                    "artist": "Afroto"
+                },
+                {
+                    "name": "VODOO",
+                    "track_url": "",
+                    "duration_ms": 144193,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732dd4211dff9e6ca8b39818ed",
+                    "id": 4348,
+                    "artist": "Afroto"
+                },
+                {
+                    "name": "ALAFRIKI",
+                    "track_url": "",
+                    "duration_ms": 152888,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732dd4211dff9e6ca8b39818ed",
+                    "id": 4349,
+                    "artist": "Afroto"
+                },
+                {
+                    "name": "KEBDA",
+                    "track_url": "",
+                    "duration_ms": 170769,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732dd4211dff9e6ca8b39818ed",
+                    "id": 4350,
+                    "artist": "Afroto"
+                },
+                {
+                    "name": "MONAMOUR",
+                    "track_url": "",
+                    "duration_ms": 154005,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732dd4211dff9e6ca8b39818ed",
+                    "id": 4351,
+                    "artist": "Afroto"
+                },
+                {
+                    "name": "MAFESH MWDO3",
+                    "track_url": "",
+                    "duration_ms": 206775,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732dd4211dff9e6ca8b39818ed",
+                    "id": 4352,
+                    "artist": "Afroto"
+                },
+                {
+                    "name": "MALAK",
+                    "track_url": "",
+                    "duration_ms": 214646,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732dd4211dff9e6ca8b39818ed",
+                    "id": 4353,
+                    "artist": "Afroto"
+                },
+                {
+                    "name": "WADINI",
+                    "track_url": "",
+                    "duration_ms": 202909,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732dd4211dff9e6ca8b39818ed",
+                    "id": 4354,
+                    "artist": "Afroto"
+                }
+            ],
+            "id": 4342
+        },
+        {
+            "name": "SAN STEFANO",
+            "release_date": "2022-06-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d67f4b7e9100a60b6fd108fd",
+            "track_url": "https://open.spotify.com/album/0AkGcmpMk9Ctaa8LgigTT1",
+            "tracks": [
+                {
+                    "name": "SAN STEFANO",
+                    "track_url": "",
+                    "duration_ms": 177551,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d67f4b7e9100a60b6fd108fd",
+                    "id": 4356,
+                    "artist": "Afroto"
+                },
+                {
+                    "name": "MAREED",
+                    "track_url": "",
+                    "duration_ms": 216710,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d67f4b7e9100a60b6fd108fd",
+                    "id": 4357,
+                    "artist": "Afroto"
+                },
+                {
+                    "name": "SMOOM",
+                    "track_url": "",
+                    "duration_ms": 236862,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d67f4b7e9100a60b6fd108fd",
+                    "id": 4358,
+                    "artist": "Afroto"
+                },
+                {
+                    "name": "VALENTINO",
+                    "track_url": "",
+                    "duration_ms": 157402,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d67f4b7e9100a60b6fd108fd",
+                    "id": 4359,
+                    "artist": "Afroto"
+                },
+                {
+                    "name": "HANFANTAZOOK",
+                    "track_url": "",
+                    "duration_ms": 193124,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d67f4b7e9100a60b6fd108fd",
+                    "id": 4360,
+                    "artist": "Afroto"
+                },
+                {
+                    "name": "NAPALM",
+                    "track_url": "",
+                    "duration_ms": 144793,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d67f4b7e9100a60b6fd108fd",
+                    "id": 4361,
+                    "artist": "Afroto"
+                },
+                {
+                    "name": "TEGE GOAL",
+                    "track_url": "",
+                    "duration_ms": 196363,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d67f4b7e9100a60b6fd108fd",
+                    "id": 4362,
+                    "artist": "Afroto"
+                },
+                {
+                    "name": "AHWAGY",
+                    "track_url": "",
+                    "duration_ms": 201398,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d67f4b7e9100a60b6fd108fd",
+                    "id": 4363,
+                    "artist": "Afroto"
+                },
+                {
+                    "name": "Brazil",
+                    "track_url": "",
+                    "duration_ms": 212000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d67f4b7e9100a60b6fd108fd",
+                    "id": 4364,
+                    "artist": "Afroto"
+                }
+            ],
+            "id": 4355
+        }
+    ],
+    "singles": [
+        {
+            "name": "Beyti Plus ده بجد اوڤر",
+            "release_date": "2024-08-16",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f46df2eaf3ec5b63427d336d",
+            "track_url": "",
+            "id": 4365,
+            "artist": "Afroto"
+        },
+        {
+            "name": "Wo3ood",
+            "release_date": "2024-01-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b273156a91970f6531dcbeeb7e5a",
+            "track_url": "",
+            "id": 4366,
+            "artist": "Afroto"
+        },
+        {
+            "name": "TA TA TA",
+            "release_date": "2023-09-14",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731ca75640f0b14d56d60255f3",
+            "track_url": "",
+            "id": 4367,
+            "artist": "Afroto"
+        },
+        {
+            "name": "Star W Mayhemosh (Freedom Music)",
+            "release_date": "2023-08-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b273120bc53a8e11544ca8173cc9",
+            "track_url": "",
+            "id": 4368,
+            "artist": "Afroto"
+        },
+        {
+            "name": "Sunn Beliya",
+            "release_date": "2023-07-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b4519b5f7a69c4d570f2d583",
+            "track_url": "",
+            "id": 4369,
+            "artist": "Afroto"
+        },
+        {
+            "name": "Oum O2af (Red Bull Sound Clash 2023)",
+            "release_date": "2023-05-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b27374a40fdb7e95c1d2ebd0403e",
+            "track_url": "",
+            "id": 4370,
+            "artist": "Afroto"
+        },
+        {
+            "name": "Belad",
+            "release_date": "2023-05-05",
+            "image": "https://i.scdn.co/image/ab67616d0000b273241653667d3902f39c328676",
+            "track_url": "",
+            "id": 4371,
+            "artist": "Afroto"
+        },
+        {
+            "name": "BAHZ",
+            "release_date": "2023-03-02",
+            "image": "https://i.scdn.co/image/ab67616d0000b27375127b2bd11e5118619413d1",
+            "track_url": "",
+            "id": 4372,
+            "artist": "Afroto"
+        },
+        {
+            "name": "7ALA",
+            "release_date": "2023-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d43202f0278f782ac5525423",
+            "track_url": "",
+            "id": 4373,
+            "artist": "Afroto"
+        },
+        {
+            "name": "Yalla Lusail",
+            "release_date": "2022-09-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b273fdaacceadf17a2b9b36aff90",
+            "track_url": "",
+            "id": 4374,
+            "artist": "Afroto"
+        },
+        {
+            "name": "ANA DEAL",
+            "release_date": "2022-09-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b27320ef26be61da2af38fd25f30",
+            "track_url": "",
+            "id": 4375,
+            "artist": "Afroto"
+        },
+        {
+            "name": "SAN STEFANO",
+            "release_date": "2022-06-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ac886afff6ea7246474ac789",
+            "track_url": "",
+            "id": 4376,
+            "artist": "Afroto"
+        },
+        {
+            "name": "HARAZEEK",
+            "release_date": "2022-03-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a937462dda3aa3efbb717585",
+            "track_url": "",
+            "id": 4377,
+            "artist": "Afroto"
+        },
+        {
+            "name": "Msh Bel 7ozoz (Remix)",
+            "release_date": "2022-01-12",
+            "image": "https://i.scdn.co/image/ab67616d0000b27383d2735f456fbdea0354f60f",
+            "track_url": "",
+            "id": 4378,
+            "artist": "Afroto"
+        },
+        {
+            "name": "Tege Goal",
+            "release_date": "2022-01-02",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f1cd887e360e246eedd9fdb6",
+            "track_url": "",
+            "id": 4379,
+            "artist": "Afroto"
+        },
+        {
+            "name": "Pluto",
+            "release_date": "2021-11-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e70bb34d27cba3d3a8fd50b7",
+            "track_url": "",
+            "id": 4380,
+            "artist": "Afroto"
+        },
+        {
+            "name": "FAR2 KHEBRA",
+            "release_date": "2021-10-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b27363aa82b22a9458bc5d23eba1",
+            "track_url": "",
+            "id": 4381,
+            "artist": "Afroto"
+        },
+        {
+            "name": "TASALE (CUPID 2)",
+            "release_date": "2021-10-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b273bc4b22caee24efafc89ba4fc",
+            "track_url": "",
+            "id": 4382,
+            "artist": "Afroto"
+        },
+        {
+            "name": "Min Mafesh",
+            "release_date": "2021-09-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b273332b67d4fc73dca6bfc2bb08",
+            "track_url": "",
+            "id": 4383,
+            "artist": "Afroto"
+        },
+        {
+            "name": "بص ا بومبو",
+            "release_date": "2021-08-12",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736b77537894bbc26c48a7c480",
+            "track_url": "",
+            "id": 4384,
+            "artist": "Afroto"
+        },
+        {
+            "name": "Msh Bel 7ozoz - مش بالحظوظ",
+            "release_date": "2021-05-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735b0275ca1c84a177c9ca0f1b",
+            "track_url": "",
+            "id": 4385,
+            "artist": "Afroto"
+        },
+        {
+            "name": "متفقين",
+            "release_date": "2021-04-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735dbfa266dbe2b65422ff1133",
+            "track_url": "",
+            "id": 4386,
+            "artist": "Afroto"
+        },
+        {
+            "name": "3akaret",
+            "release_date": "2021-04-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733baf39bc2c51f09b9fc72cb8",
+            "track_url": "",
+            "id": 4387,
+            "artist": "Afroto"
+        },
+        {
+            "name": "Cupid",
+            "release_date": "2021-02-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b273aea409e99cbbb540c2fb4b64",
+            "track_url": "",
+            "id": 4388,
+            "artist": "Afroto"
+        },
+        {
+            "name": "Baskot",
+            "release_date": "2021-02-22",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d1f183dc032a6179c8b0c750",
+            "track_url": "",
+            "id": 4389,
+            "artist": "Afroto"
+        },
+        {
+            "name": "تلاته واحد",
+            "release_date": "2021-02-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b273fdcbb5cd7b3f27877c3edbac",
+            "track_url": "",
+            "id": 4390,
+            "artist": "Afroto"
+        },
+        {
+            "name": "Gaw Sa3b",
+            "release_date": "2021-02-20",
+            "image": "https://i.scdn.co/image/ab67616d0000b273943e3f8c1544717c6cec0a28",
+            "track_url": "",
+            "id": 4391,
+            "artist": "Afroto"
+        },
+        {
+            "name": "Adary",
+            "release_date": "2021-01-20",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e5ce6b0d9a8d56941db0f22c",
+            "track_url": "",
+            "id": 4392,
+            "artist": "Afroto"
+        },
+        {
+            "name": "مش هقولهالك",
+            "release_date": "2021-01-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b273adf38f13719eda3876c4b3d4",
+            "track_url": "",
+            "id": 4393,
+            "artist": "Afroto"
+        },
+        {
+            "name": "DaY5a",
+            "release_date": "2021-01-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f3a65ad991be621aae23f5ed",
+            "track_url": "",
+            "id": 4394,
+            "artist": "Afroto"
+        },
+        {
+            "name": "Ebn Elsyouf",
+            "release_date": "2020-12-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b27316e7a651feb9b56470cf3f2d",
+            "track_url": "",
+            "id": 4395,
+            "artist": "Afroto"
+        },
+        {
+            "name": "Ala Ba'ady",
+            "release_date": "2020-11-06",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d80a74f36490a100ab4f51a1",
+            "track_url": "",
+            "id": 4396,
+            "artist": "Afroto"
+        },
+        {
+            "name": "Mahragan El Gouna",
+            "release_date": "2020-10-13",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e5a88e2bd1f73bfc5d1c8fb2",
+            "track_url": "",
+            "id": 4397,
+            "artist": "Afroto"
+        },
+        {
+            "name": "Ento A3da2e - انتوا اعدائى",
+            "release_date": "2020-09-12",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f9bdafc43ae2945da1669754",
+            "track_url": "",
+            "id": 4398,
+            "artist": "Afroto"
+        },
+        {
+            "name": "طرازان",
+            "release_date": "2020-09-02",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c7aac3326e655ba2e6cf75f2",
+            "track_url": "",
+            "id": 4399,
+            "artist": "Afroto"
+        },
+        {
+            "name": "Enjy 1442",
+            "release_date": "2020-08-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733a61c37ebad8c42c70640f41",
+            "track_url": "",
+            "id": 4400,
+            "artist": "Afroto"
+        },
+        {
+            "name": "Mazalat",
+            "release_date": "2020-07-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738d9ad91ebe10c76f3ab2e103",
+            "track_url": "",
+            "id": 4401,
+            "artist": "Afroto"
+        },
+        {
+            "name": "Sogara",
+            "release_date": "2020-06-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732f20affd300fa8121bf5efd9",
+            "track_url": "",
+            "id": 4402,
+            "artist": "Afroto"
+        },
+        {
+            "name": "Mussolini",
+            "release_date": "2020-05-26",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c2270249118846323e0d70c5",
+            "track_url": "",
+            "id": 4403,
+            "artist": "Afroto"
+        },
+        {
+            "name": "بكار",
+            "release_date": "2020-05-16",
+            "image": "https://i.scdn.co/image/ab67616d0000b27361452f186c46893090fc8114",
+            "track_url": "",
+            "id": 4404,
+            "artist": "Afroto"
+        },
+        {
+            "name": "على عينى",
+            "release_date": "2020-04-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b273da48fdb75eefa102021e5247",
+            "track_url": "",
+            "id": 4405,
+            "artist": "Afroto"
+        },
+        {
+            "name": "Meen Dol Yala",
+            "release_date": "2020-04-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b27369e619e5e921bf875a10e435",
+            "track_url": "",
+            "id": 4406,
+            "artist": "Afroto"
+        },
+        {
+            "name": "Ice Tower",
+            "release_date": "2020-03-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730ff09f517489e4541c0d4823",
+            "track_url": "",
+            "id": 4407,
+            "artist": "Afroto"
+        },
+        {
+            "name": "كاسين",
+            "release_date": "2020-01-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f6ecab157720dbdfb0d5ffa3",
+            "track_url": "",
+            "id": 4408,
+            "artist": "Afroto"
+        },
+        {
+            "name": "بلوبيف",
+            "release_date": "2019-11-27",
+            "image": "https://i.scdn.co/image/ab67616d0000b27385273ec18cd8cd0e235ade11",
+            "track_url": "",
+            "id": 4409,
+            "artist": "Afroto"
+        },
+        {
+            "name": "ناميجا",
+            "release_date": "2019-09-29",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734f01a6102d17d736fdc5635f",
+            "track_url": "",
+            "id": 4410,
+            "artist": "Afroto"
+        },
+        {
+            "name": "متفقين",
+            "release_date": "2019-09-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736689ad3091ea9e64356d3555",
+            "track_url": "",
+            "id": 4411,
+            "artist": "Afroto"
+        },
+        {
+            "name": "ده وحش ٢",
+            "release_date": "2019-08-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b27340ad1bd898402cb95a247ba0",
+            "track_url": "",
+            "id": 4412,
+            "artist": "Afroto"
+        },
+        {
+            "name": "ده وحش",
+            "release_date": "2019-08-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c39f94c91927dd42b75c10db",
+            "track_url": "",
+            "id": 4413,
+            "artist": "Afroto"
+        },
+        {
+            "name": "تدريب جمباز",
+            "release_date": "2019-08-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b27333cf2e4de7f0f60e42327248",
+            "track_url": "",
+            "id": 4414,
+            "artist": "Afroto"
+        }
+    ],
+    "popular_tracks": [
+        {
+            "name": "KEBDA",
+            "track_url": "",
+            "duration_ms": 170769,
+            "image": "https://i.scdn.co/image/ab67616d0000b2732dd4211dff9e6ca8b39818ed",
+            "id": 4415,
+            "artist": "Afroto"
+        },
+        {
+            "name": "7ALA",
+            "track_url": "",
+            "duration_ms": 181311,
+            "image": "https://i.scdn.co/image/ab67616d0000b273d43202f0278f782ac5525423",
+            "id": 4416,
+            "artist": "Afroto"
+        },
+        {
+            "name": "WADINI",
+            "track_url": "",
+            "duration_ms": 202909,
+            "image": "https://i.scdn.co/image/ab67616d0000b2732dd4211dff9e6ca8b39818ed",
+            "id": 4417,
+            "artist": "Afroto"
+        },
+        {
+            "name": "Brazil",
+            "track_url": "",
+            "duration_ms": 212000,
+            "image": "https://i.scdn.co/image/ab67616d0000b273d67f4b7e9100a60b6fd108fd",
+            "id": 4418,
+            "artist": "Afroto"
+        },
+        {
+            "name": "Msh Bel 7ozoz - مش بالحظوظ",
+            "track_url": "",
+            "duration_ms": 200735,
+            "image": "https://i.scdn.co/image/ab67616d0000b2735b0275ca1c84a177c9ca0f1b",
+            "id": 4419,
+            "artist": "Afroto"
+        },
+        {
+            "name": "VODOO",
+            "track_url": "",
+            "duration_ms": 144193,
+            "image": "https://i.scdn.co/image/ab67616d0000b2732dd4211dff9e6ca8b39818ed",
+            "id": 4420,
+            "artist": "Afroto"
+        },
+        {
+            "name": "Matloob",
+            "track_url": "",
+            "duration_ms": 203520,
+            "image": "https://i.scdn.co/image/ab67616d0000b273241653667d3902f39c328676",
+            "id": 4421,
+            "artist": "Afroto"
+        },
+        {
+            "name": "FAR2 KHEBRA",
+            "track_url": "",
+            "duration_ms": 188356,
+            "image": "https://i.scdn.co/image/ab67616d0000b27363aa82b22a9458bc5d23eba1",
+            "id": 4422,
+            "artist": "Afroto"
+        },
+        {
+            "name": "MONW3AT 2019",
+            "track_url": "",
+            "duration_ms": 276135,
+            "image": "https://i.scdn.co/image/ab67616d0000b2732dd4211dff9e6ca8b39818ed",
+            "id": 4423,
+            "artist": "Afroto"
+        },
+        {
+            "name": "Ala Ba'ady",
+            "track_url": "",
+            "duration_ms": 247500,
+            "image": "https://i.scdn.co/image/ab67616d0000b273d80a74f36490a100ab4f51a1",
+            "id": 4424,
+            "artist": "Afroto"
+        }
+    ]
+}

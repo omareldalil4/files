@@ -1,0 +1,957 @@
+{
+    "artist": {
+        "id": "1207",
+        "name": "Sherine",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb1fa228ebdfdbd596bfa1bd77",
+        "background_image": "https://i.scdn.co/image/ab676161000051741fa228ebdfdbd596bfa1bd77"
+    },
+    "albums": [
+        {
+            "name": "Aweditny El Donia",
+            "release_date": "2024-10-18",
+            "image": "https://t2.genius.com/unsafe/383x0/https%3A%2F%2Fimages.genius.com%2F456500b56ba8242d1adb3179bedabe93.1000x1000x1.png",
+            "track_url": "https://open.spotify.com/album/1aCq7XjXXVc3WxPYYUrbeP",
+            "tracks": [
+                {
+                    "name": "Aweditny El Donia",
+                    "track_url": "https://www.dropbox.com/scl/fi/kd8oe31lq1ay3ovaj9fpa/.mp3?rlkey=48tpzfebjyh7tc60cdtcd7ixp&st=rxxf4922&dl=1",
+                    "duration_ms": 197302,
+                    "image": "https://t2.genius.com/unsafe/383x0/https%3A%2F%2Fimages.genius.com%2F456500b56ba8242d1adb3179bedabe93.1000x1000x1.png",
+                    "id": 12414,
+                    "artist": "Sherine"
+                },
+                {
+                    "name": "Batmana Ansak",
+                    "track_url": "https://www.dropbox.com/scl/fi/n2nadjk06kkwikjqnb269/.mp3?rlkey=zdfraj9z2fy4v213nleby60t6&st=oyzjgk9r&dl=1",
+                    "duration_ms": 197302,
+                    "image": "https://t2.genius.com/unsafe/383x0/https%3A%2F%2Fimages.genius.com%2F456500b56ba8242d1adb3179bedabe93.1000x1000x1.png",
+                    "id": 12415,
+                    "artist": "Sherine"
+                },
+                {
+                    "name": "Ebtasamt",
+                    "track_url": "https://www.dropbox.com/scl/fi/u0peadqepa9kxf9e6y1pf/.mp3?rlkey=ozwgkfb0z3fzgyan07sbxlkqd&st=f3rvcfpm&dl=1",
+                    "duration_ms": 197302,
+                    "image": "https://t2.genius.com/unsafe/383x0/https%3A%2F%2Fimages.genius.com%2F456500b56ba8242d1adb3179bedabe93.1000x1000x1.png",
+                    "id": 12416,
+                    "artist": "Sherine"
+                },
+                {
+                    "name": "Aalak Nesiny",
+                    "track_url": "https://www.dropbox.com/scl/fi/b61klfdxf2b6u2v09gbbs/.mp3?rlkey=lwynx95parx02nbrae0af9oao&st=47lvyh2b&dl=1",
+                    "duration_ms": 197302,
+                    "image": "https://t2.genius.com/unsafe/383x0/https%3A%2F%2Fimages.genius.com%2F456500b56ba8242d1adb3179bedabe93.1000x1000x1.png",
+                    "id": 12417,
+                    "artist": "Sherine"
+                },
+                {
+                    "name": "3asal Hayati",
+                    "track_url": "https://www.dropbox.com/scl/fi/f228348aeni5a1xpnunpn/.mp3?rlkey=dzv041qugtekqr9fqbndeifes&st=2jk1ftks&dl=1",
+                    "duration_ms": 197302,
+                    "image": "https://t2.genius.com/unsafe/383x0/https%3A%2F%2Fimages.genius.com%2F456500b56ba8242d1adb3179bedabe93.1000x1000x1.png",
+                    "id": 12418,
+                    "artist": "Sherine"
+                },
+                {
+                    "name": "We Mazal 3albal",
+                    "track_url": "https://www.dropbox.com/scl/fi/ecj47uaumy0k5xdksvjmp/.mp3?rlkey=9dn5zdahgkzk47wj69y3vt7sc&st=ouekkwp1&dl=1",
+                    "duration_ms": 197302,
+                    "image": "https://t2.genius.com/unsafe/383x0/https%3A%2F%2Fimages.genius.com%2F456500b56ba8242d1adb3179bedabe93.1000x1000x1.png",
+                    "id": 12419,
+                    "artist": "Sherine"
+                },
+                {
+                    "name": "Hanehtefel",
+                    "track_url": "https://www.dropbox.com/scl/fi/282zoru69zfkr0gz7p06v/.mp3?rlkey=yr99xhmndnbi5aj7v2fevw2qd&st=g9t8huze&dl=1",
+                    "duration_ms": 197302,
+                    "image": "https://t2.genius.com/unsafe/383x0/https%3A%2F%2Fimages.genius.com%2F456500b56ba8242d1adb3179bedabe93.1000x1000x1.png",
+                    "id": 12420,
+                    "artist": "Sherine"
+                },
+                {
+                    "name": "Elly Yabel Habibi",
+                    "track_url": "https://www.dropbox.com/scl/fi/q0p2tafbp27t9pfhpku7p/.mp3?rlkey=hoq201upms9af2lipq8jhprgg&st=qj4midrr&dl=1",
+                    "duration_ms": 197302,
+                    "image": "https://t2.genius.com/unsafe/383x0/https%3A%2F%2Fimages.genius.com%2F456500b56ba8242d1adb3179bedabe93.1000x1000x1.png",
+                    "id": 12421,
+                    "artist": "Sherine"
+                }
+            ],
+            "id": 12413
+        },
+        {
+            "name": "نساى",
+            "release_date": "2018-10-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b273cfa4e906cda39d8f62fe81e3",
+            "track_url": "https://open.spotify.com/album/1aCq7XjXXVc3WxPYYUrbeP",
+            "tracks": [
+                {
+                    "name": "نساى",
+                    "track_url": "https://www.dropbox.com/scl/fi/36crs1a2th9ui714gwyn5/01._Nassay.mp3?rlkey=3o47w0ftoq7d4we8pvuguxrkz&st=9rjttjmh&dl=1",
+                    "duration_ms": 197302,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cfa4e906cda39d8f62fe81e3",
+                    "id": 1209,
+                    "artist": "Sherine"
+                },
+                {
+                    "name": "بحبك من زمان",
+                    "track_url": "https://www.dropbox.com/scl/fi/i8ydplurg0gmu4uhlj7uo/02._Bahibbak_Min_Zaman.mp3?rlkey=hisb8mwesxs1d37a9w9gzvugb&st=u9agxfhu&dl=1",
+                    "duration_ms": 301191,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cfa4e906cda39d8f62fe81e3",
+                    "id": 1210,
+                    "artist": "Sherine"
+                },
+                {
+                    "name": "بياعين الصبر",
+                    "track_url": "https://www.dropbox.com/scl/fi/ehb5ysmf0zd5tj05tkk33/03._Bayyaeen_El_Sabr.mp3?rlkey=iztty0bv343dysvwc14zykib1&st=l2w44pvr&dl=1",
+                    "duration_ms": 280737,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cfa4e906cda39d8f62fe81e3",
+                    "id": 1211,
+                    "artist": "Sherine"
+                },
+                {
+                    "name": "ضعفى",
+                    "track_url": "https://www.dropbox.com/scl/fi/5tnixhxx59i3fn7wh78on/04._Daafy.mp3?rlkey=52yzbry974yqrkg4d19qfr3af&st=onbbssk4&dl=1",
+                    "duration_ms": 282044,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cfa4e906cda39d8f62fe81e3",
+                    "id": 1212,
+                    "artist": "Sherine"
+                },
+                {
+                    "name": "حبه جنة",
+                    "track_url": "https://www.dropbox.com/scl/fi/ffuszgph97eqwp1pwd7y5/05._Hobboh_Ganna.mp3?rlkey=3c1utybsjsiys0mefugesfl61&st=7phpmrtn&dl=1",
+                    "duration_ms": 302027,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cfa4e906cda39d8f62fe81e3",
+                    "id": 1213,
+                    "artist": "Sherine"
+                },
+                {
+                    "name": "الوتر الحساس",
+                    "track_url": "https://www.dropbox.com/scl/fi/iyj8op6lfsxzebp1ifx14/06._El_Watar_El_Hassas.mp3?rlkey=ft2gvxp8dlzhsfscst27ckwg1&st=55rdlj57&dl=1",
+                    "duration_ms": 261224,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cfa4e906cda39d8f62fe81e3",
+                    "id": 1214,
+                    "artist": "Sherine"
+                },
+                {
+                    "name": "كلام عينيه",
+                    "track_url": "https://www.dropbox.com/scl/fi/tgsvonhe7id2q7sw541wj/07._Kalam_Eneih.mp3?rlkey=p5ubmadancdw25lg6e45mmb40&st=4p203py7&dl=1",
+                    "duration_ms": 235833,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cfa4e906cda39d8f62fe81e3",
+                    "id": 1215,
+                    "artist": "Sherine"
+                },
+                {
+                    "name": "ياريتها جت",
+                    "track_url": "https://www.dropbox.com/scl/fi/fpprwc9b5bmtkir7y19da/08._Ya_Rateha_Gat.mp3?rlkey=r9sdj0qsz6vjo6tp7y47gm3ia&st=javrd5tm&dl=1",
+                    "duration_ms": 291944,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cfa4e906cda39d8f62fe81e3",
+                    "id": 1216,
+                    "artist": "Sherine"
+                },
+                {
+                    "name": "زمان",
+                    "track_url": "https://www.dropbox.com/scl/fi/d3550rwii8kff8cgtdta5/09._Zaman.mp3?rlkey=csvsahy4iqsied7q05r2icql3&st=k328bcwf&dl=1",
+                    "duration_ms": 237113,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cfa4e906cda39d8f62fe81e3",
+                    "id": 1217,
+                    "artist": "Sherine"
+                },
+                {
+                    "name": "الكدابين",
+                    "track_url": "https://www.dropbox.com/scl/fi/y3ny4vosqbr8aqujqvo8r/10._El_Kadabeen.mp3?rlkey=eyrt0i7calae8dx98qq9yyb3f&st=fkalhtpx&dl=1",
+                    "duration_ms": 248659,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cfa4e906cda39d8f62fe81e3",
+                    "id": 1218,
+                    "artist": "Sherine"
+                },
+                {
+                    "name": "طيبة وجدعة",
+                    "track_url": "https://www.dropbox.com/scl/fi/1u27d2ksjldtu7qv2dcad/11._Taiba_We_Gadaa.mp3?rlkey=nxlqdkqxtsrf0enke38puir05&st=t3wosbtd&dl=1",
+                    "duration_ms": 285335,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cfa4e906cda39d8f62fe81e3",
+                    "id": 1219,
+                    "artist": "Sherine"
+                },
+                {
+                    "name": "تاج راسك",
+                    "track_url": "https://www.dropbox.com/scl/fi/lp2bwn988dlkpps4x3qex/12._Tag_Rasak.mp3?rlkey=w5hb45gzcsc3zxorarepjf63s&st=385l9hsl&dl=1",
+                    "duration_ms": 249338,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cfa4e906cda39d8f62fe81e3",
+                    "id": 1220,
+                    "artist": "Sherine"
+                }
+            ],
+            "id": 1208
+        },
+        {
+            "name": "Esaal Alaya",
+            "release_date": "2014-02-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b27388cd321bd36f198f63b4d6e8",
+            "track_url": "https://open.spotify.com/album/0EeDD6UMZI1Z5IabTSzRdY",
+            "tracks": [
+                {
+                    "name": "Aasabo Talaga",
+                    "track_url": "https://www.dropbox.com/scl/fi/a248q7ldbhw954iaqvfax/05_-_Aasabo_Talaga.mp3?rlkey=tcplplf56jjenpwzrnup4100z&st=67pnw5oz&dl=1",
+                    "duration_ms": 196858,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27388cd321bd36f198f63b4d6e8",
+                    "id": 1222,
+                    "artist": "Sherine"
+                },
+                {
+                    "name": "Esaal Alaya",
+                    "track_url": "https://www.dropbox.com/scl/fi/vhedox597npp52ixifqcu/10_-_Esal_Alia.mp3?rlkey=4cpouqwu3rcuqrw4o0eon2nd9&st=w655a4kz&dl=1",
+                    "duration_ms": 304195,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27388cd321bd36f198f63b4d6e8",
+                    "id": 1223,
+                    "artist": "Sherine"
+                },
+                {
+                    "name": "We El Nabi Law Gane",
+                    "track_url": "https://www.dropbox.com/scl/fi/w7ma9bpcyio014zp39cvj/02_-_Wenaby_Law_Gany.mp3?rlkey=ga0z61idhssisx7z03o4wlv6p&st=sbh7xpbl&dl=1",
+                    "duration_ms": 253857,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27388cd321bd36f198f63b4d6e8",
+                    "id": 1224,
+                    "artist": "Sherine"
+                },
+                {
+                    "name": "Nafse Afham Leh",
+                    "track_url": "https://www.dropbox.com/scl/fi/02goajstbew3swzyes2t2/03_-_Nefsy_Afham_Leah.mp3?rlkey=lxs1byqfth78y2u6n06vgsmxq&st=sc0ge193&dl=1",
+                    "duration_ms": 289724,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27388cd321bd36f198f63b4d6e8",
+                    "id": 1225,
+                    "artist": "Sherine"
+                },
+                {
+                    "name": "Da Mesh Habibi",
+                    "track_url": "https://www.dropbox.com/scl/fi/mjzennf8vb908ug95hmui/09_-_Dah_Mesh_Habiby.mp3?rlkey=k649h5oug22xi2sn2638meded&st=nqttekys&dl=1",
+                    "duration_ms": 281312,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27388cd321bd36f198f63b4d6e8",
+                    "id": 1226,
+                    "artist": "Sherine"
+                },
+                {
+                    "name": "Bethke Fe Eih",
+                    "track_url": "https://www.dropbox.com/scl/fi/k7erkxxxgoq6kngw8q3uk/11_-_Betahky_Fe_Eah.mp3?rlkey=81w7f8b3dus520krsmcedkzur&st=vgtvdnva&dl=1",
+                    "duration_ms": 221857,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27388cd321bd36f198f63b4d6e8",
+                    "id": 1227,
+                    "artist": "Sherine"
+                },
+                {
+                    "name": "Hatrooh",
+                    "track_url": "https://www.dropbox.com/scl/fi/bitpw5a6eq8isks1bz1nl/04_-_Hatro7.mp3?rlkey=6a5s95dfuwjsbjekj2m8ehxf5&st=cnagra4v&dl=1",
+                    "duration_ms": 296306,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27388cd321bd36f198f63b4d6e8",
+                    "id": 1228,
+                    "artist": "Sherine"
+                },
+                {
+                    "name": "Wahda Be Wahda",
+                    "track_url": "https://www.dropbox.com/scl/fi/ui77woy1kz44wzeq9cslp/06_-_Wahda_Be_Wahda.mp3?rlkey=226eu4s9oav7as7awe3moh6j8&st=lzv1hqzi&dl=1",
+                    "duration_ms": 254850,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27388cd321bd36f198f63b4d6e8",
+                    "id": 1229,
+                    "artist": "Sherine"
+                },
+                {
+                    "name": "Law Lesa Baaee",
+                    "track_url": "https://www.dropbox.com/scl/fi/sdt24d67dqukak1xgg4wf/08_-_Law_Lesa_Baay.mp3?rlkey=uihp3x610dh6zrtk2632emfe9&st=1tke3aze&dl=1",
+                    "duration_ms": 294086,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27388cd321bd36f198f63b4d6e8",
+                    "id": 1230,
+                    "artist": "Sherine"
+                },
+                {
+                    "name": "Masaola Menak",
+                    "track_url": "https://www.dropbox.com/scl/fi/9p6xwi89jzlzq4vua9oax/07_-_Masaola_Menak.mp3?rlkey=6zcc9vndejcy6sdq4f3thmkgq&st=ohwk2j44&dl=1",
+                    "duration_ms": 252395,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27388cd321bd36f198f63b4d6e8",
+                    "id": 1231,
+                    "artist": "Sherine"
+                }
+            ],
+            "id": 1221
+        },
+        {
+            "name": "Ana Kteer",
+            "release_date": "2014-01-16",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a136127385a174cf5d901859",
+            "track_url": "https://open.spotify.com/album/6Qbm7jzEzGqfZJqLaAUAdT",
+            "tracks": [
+                {
+                    "name": "We Meen Ekhtar",
+                    "track_url": "https://www.dropbox.com/scl/fi/9ib9d28w16abvuyz5n224/01_-_W_Meen_Ekhtar.mp3?rlkey=a5g1q6xhl32vg4bugf6qloyf5&st=fbfh7vfi&dl=1",
+                    "duration_ms": 271438,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a136127385a174cf5d901859",
+                    "id": 1233,
+                    "artist": "Sherine"
+                },
+                {
+                    "name": "Da' El Saytara",
+                    "track_url": "https://www.dropbox.com/scl/fi/7ziwkvziz0ks425zah4gd/02_-_Da2_Al_Saytara.mp3?rlkey=fc1sdl3p6et6uj25gtj4x5fk7&st=wov1ctsr&dl=1",
+                    "duration_ms": 202422,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a136127385a174cf5d901859",
+                    "id": 1234,
+                    "artist": "Sherine"
+                },
+                {
+                    "name": "Metakhda Mel Ayam",
+                    "track_url": "https://www.dropbox.com/scl/fi/tg47fjs1m9v7n7bzbggrt/03_-_Mota5tha_Men_Al_Ayam.mp3?rlkey=38z9c2bawnjgffdqfxpphw1on&st=r5l5vq10&dl=1",
+                    "duration_ms": 248764,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a136127385a174cf5d901859",
+                    "id": 1235,
+                    "artist": "Sherine"
+                },
+                {
+                    "name": "Ya Layaly",
+                    "track_url": "https://www.dropbox.com/scl/fi/5f3jgsurfsw6jw5wg3m91/04_-_Ya_Layali.mp3?rlkey=3zw4vjqv4at2dnb68xowk9526&st=lzvzmgiq&dl=1",
+                    "duration_ms": 299258,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a136127385a174cf5d901859",
+                    "id": 1236,
+                    "artist": "Sherine"
+                },
+                {
+                    "name": "Shokran Ya Shahm",
+                    "track_url": "https://www.dropbox.com/scl/fi/m8iiejobydcc0nxe8x6my/05_-_Shokran_Ya_Shaham.mp3?rlkey=f9hicyh8rym4v6lqhp92ro8jc&st=hkpf8aba&dl=1",
+                    "duration_ms": 225985,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a136127385a174cf5d901859",
+                    "id": 1237,
+                    "artist": "Sherine"
+                },
+                {
+                    "name": "Khayneen",
+                    "track_url": "https://www.dropbox.com/scl/fi/29j7nfzvrqtrx5wq77mvf/06_-_Khaynen.mp3?rlkey=izvk6yy42xwngmjabdq0p2d8m&st=56s16o7k&dl=1",
+                    "duration_ms": 214256,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a136127385a174cf5d901859",
+                    "id": 1238,
+                    "artist": "Sherine"
+                },
+                {
+                    "name": "Fe Leila",
+                    "track_url": "https://www.dropbox.com/scl/fi/gzhbad4zf8anxtpejaghz/07_-_Fee_Leila.mp3?rlkey=n4h2qfluyjymobys616fjdr7i&st=q2pux0p7&dl=1",
+                    "duration_ms": 231941,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a136127385a174cf5d901859",
+                    "id": 1239,
+                    "artist": "Sherine"
+                },
+                {
+                    "name": "Mesh Khayfa",
+                    "track_url": "https://www.dropbox.com/scl/fi/opwcr2pzz7aybrun0eusk/08_-_Mosh_Khayfa.mp3?rlkey=9c653f6knhi55c3ezk1pi17z5&st=1efiocbx&dl=1",
+                    "duration_ms": 200489,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a136127385a174cf5d901859",
+                    "id": 1240,
+                    "artist": "Sherine"
+                },
+                {
+                    "name": "Elet El Noum",
+                    "track_url": "https://www.dropbox.com/scl/fi/9g3ks7dicfxcyguuen7i6/09_-_Qelt_Noom.mp3?rlkey=edvjob79htpjsvg4n1zst5gd6&st=uipohbt1&dl=1",
+                    "duration_ms": 199418,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a136127385a174cf5d901859",
+                    "id": 1241,
+                    "artist": "Sherine"
+                },
+                {
+                    "name": "Tagroba Mo'lema",
+                    "track_url": "https://www.dropbox.com/scl/fi/u5yaekaeswvh1uxa3l350/10_-_Tajrba_Mo2lema.mp3?rlkey=ebtttov6b1ra8bp9c0hahczzz&st=27qvlbkn&dl=1",
+                    "duration_ms": 284107,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a136127385a174cf5d901859",
+                    "id": 1242,
+                    "artist": "Sherine"
+                },
+                {
+                    "name": "Kolly Melkak",
+                    "track_url": "https://www.dropbox.com/scl/fi/zmfsj3z9cciozs6yvmwtu/11_-_Koly_Melkak.mp3?rlkey=5pew8e9ndb1e0vd0u4r1575h8&st=4w01nu99&dl=1",
+                    "duration_ms": 289123,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a136127385a174cf5d901859",
+                    "id": 1243,
+                    "artist": "Sherine"
+                },
+                {
+                    "name": "Ana Keter",
+                    "track_url": "https://www.dropbox.com/scl/fi/x4c8l7wz30dc25rf6muvc/12_-_Ana_Keteer.mp3?rlkey=5xpmmxdmukp5l0u8wasurpeyy&st=u6i0x4ri&dl=1",
+                    "duration_ms": 348290,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a136127385a174cf5d901859",
+                    "id": 1244,
+                    "artist": "Sherine"
+                }
+            ],
+            "id": 1232
+        },
+        {
+            "name": "Habeat",
+            "release_date": "2009-07-05",
+            "image": "https://i.scdn.co/image/ab67616d0000b273370bd2dd29d98def32454e18",
+            "track_url": "https://open.spotify.com/album/28n12Le01l3gNUYIIsrSzs",
+            "tracks": [
+                {
+                    "name": "Katar Khaere",
+                    "track_url": "https://www.dropbox.com/scl/fi/gectec2ipeqy9z6fdhml0/05.Katar_Kheari.mp3?rlkey=eulp76txot4bdarkhljrh3dr8&st=uqda6krz&dl=1",
+                    "duration_ms": 251010,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273370bd2dd29d98def32454e18",
+                    "id": 1246,
+                    "artist": "Sherine"
+                },
+                {
+                    "name": "Mathasbnesh",
+                    "track_url": "https://www.dropbox.com/scl/fi/h6rfgexieap9nq41mrhxz/08.Mathasebnesh.mp3?rlkey=lh655isugs9aavlxrxz2gkxcs&st=dc22o84m&dl=1",
+                    "duration_ms": 292649,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273370bd2dd29d98def32454e18",
+                    "id": 1247,
+                    "artist": "Sherine"
+                },
+                {
+                    "name": "Enkatble Aomr",
+                    "track_url": "https://www.dropbox.com/scl/fi/9nheq9zifnku55oqoik3m/02.Enkatable.mp3?rlkey=jy3r3dhxj0vbfs5kwpfqfk1x8&st=nxfz24i8&dl=1",
+                    "duration_ms": 238341,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273370bd2dd29d98def32454e18",
+                    "id": 1248,
+                    "artist": "Sherine"
+                },
+                {
+                    "name": "Akheran Etgarraat",
+                    "track_url": "https://www.dropbox.com/scl/fi/wu9y3roqs831per4khuyn/01.Akheran.mp3?rlkey=foym777uvj5hao13siczrgb07&st=8uw36min&dl=1",
+                    "duration_ms": 251036,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273370bd2dd29d98def32454e18",
+                    "id": 1249,
+                    "artist": "Sherine"
+                },
+                {
+                    "name": "Khallitni_Akhaf",
+                    "track_url": "https://www.dropbox.com/scl/fi/4kxpn1surmsreip9fgay8/04.Fe_Had.mp3?rlkey=yjzviz7sbfr0kvsy6y63xeg2c&st=azp2elz5&dl=1",
+                    "duration_ms": 250017,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273370bd2dd29d98def32454e18",
+                    "id": 1250,
+                    "artist": "Sherine"
+                },
+                {
+                    "name": "Habayt",
+                    "track_url": "https://www.dropbox.com/scl/fi/ipylqq22uu8drncefiqah/10.Habeet.mp3?rlkey=ls8y3x9jup7qyxpfcq04esgrt&st=7n3voaca&dl=1",
+                    "duration_ms": 261328,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273370bd2dd29d98def32454e18",
+                    "id": 1251,
+                    "artist": "Sherine"
+                },
+                {
+                    "name": "Mafish Manea",
+                    "track_url": "https://www.dropbox.com/scl/fi/dmbi228wq1o6mltjpe1f7/07.Mafish_Manea.mp3?rlkey=vgr8ozu8yv7828ojs2co3yp89&st=kggsuy80&dl=1",
+                    "duration_ms": 293224,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273370bd2dd29d98def32454e18",
+                    "id": 1252,
+                    "artist": "Sherine"
+                },
+                {
+                    "name": "Fakrne Eih",
+                    "track_url": "https://www.dropbox.com/scl/fi/jndrnv15j5z0cnv4mh5kj/03.Fakerni_Eah.mp3?rlkey=wzfkyelk9emsf51tiltzxeyp0&st=77cto4o6&dl=1",
+                    "duration_ms": 280084,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273370bd2dd29d98def32454e18",
+                    "id": 1253,
+                    "artist": "Sherine"
+                },
+                {
+                    "name": "Ma Balash",
+                    "track_url": "https://www.dropbox.com/scl/fi/q99y1988stjztivohzrgk/06.Mabalash.mp3?rlkey=r91f6sf1hkt7g9q9qsbe29f6s&st=7tu53w4c&dl=1",
+                    "duration_ms": 248372,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273370bd2dd29d98def32454e18",
+                    "id": 1254,
+                    "artist": "Sherine"
+                },
+                {
+                    "name": "Ol La Emta",
+                    "track_url": "https://www.dropbox.com/scl/fi/2i39br98soabi3n9lowao/09.Oly_Emta.mp3?rlkey=k9y9l364fjpdciulzf5e3vzyo&st=u2w0iluj&dl=1",
+                    "duration_ms": 216320,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273370bd2dd29d98def32454e18",
+                    "id": 1255,
+                    "artist": "Sherine"
+                }
+            ],
+            "id": 1245
+        },
+        {
+            "name": "Lazem A3eesh",
+            "release_date": "2005-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273815bc0d0382f154678eaa77f",
+            "track_url": "https://open.spotify.com/album/3QutrFTKwcT0Wn99v3u9cw",
+            "tracks": [
+                {
+                    "name": "Mafish Marra",
+                    "track_url": "https://www.dropbox.com/scl/fi/xzn57ma7suzsso6nl4onz/01.Mafeesh_Marra.mp3?rlkey=wbjuprn1igfeuuhkc0uonxge2&st=ixc05c07&dl=1",
+                    "duration_ms": 235075,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273815bc0d0382f154678eaa77f",
+                    "id": 1257,
+                    "artist": "Sherine"
+                },
+                {
+                    "name": "Lazem A3eesh",
+                    "track_url": "https://www.dropbox.com/scl/fi/mu3zm2iegxwjo4pyjccuv/02.Lazem_Ayesh.mp3?rlkey=srlppocmlpm034f28rkyelqrk&st=4l7vk74h&dl=1",
+                    "duration_ms": 258168,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273815bc0d0382f154678eaa77f",
+                    "id": 1258,
+                    "artist": "Sherine"
+                },
+                {
+                    "name": "Tammen Alby",
+                    "track_url": "https://www.dropbox.com/scl/fi/7mjidj4m5zqnepyazyvtb/03.Tammen_Alby.mp3?rlkey=f1c4jvl14br1kv0wr7bu1fkyn&st=19bz0gd4&dl=1",
+                    "duration_ms": 259631,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273815bc0d0382f154678eaa77f",
+                    "id": 1259,
+                    "artist": "Sherine"
+                },
+                {
+                    "name": "3la Bali",
+                    "track_url": "https://www.dropbox.com/scl/fi/2e9d56cnkdjc3dtyd9bk0/04.Ala_Baly.mp3?rlkey=b8emlzefyhmcls3zb3dmmy9aj&st=ivb1ehzg&dl=1",
+                    "duration_ms": 279457,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273815bc0d0382f154678eaa77f",
+                    "id": 1260,
+                    "artist": "Sherine"
+                },
+                {
+                    "name": "Kont Ba2oul",
+                    "track_url": "https://www.dropbox.com/scl/fi/dqovoren05gjg87uttdt5/05.Kont_Baaoul.mp3?rlkey=fjhah37ym8we7i7ifjuevw3mi&st=qu18vp80&dl=1",
+                    "duration_ms": 257645,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273815bc0d0382f154678eaa77f",
+                    "id": 1261,
+                    "artist": "Sherine"
+                },
+                {
+                    "name": "Elly Garehny",
+                    "track_url": "https://www.dropbox.com/scl/fi/cjkh888qmrny7210xwv1v/06.Elly_Garehny.mp3?rlkey=wxvz3zzt58r8pp0nb18opz2p3&st=7b36z1t4&dl=1",
+                    "duration_ms": 288261,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273815bc0d0382f154678eaa77f",
+                    "id": 1262,
+                    "artist": "Sherine"
+                },
+                {
+                    "name": "2al Sa3aban 3aleh",
+                    "track_url": "https://www.dropbox.com/scl/fi/b2imrccsuyxe1dd11fraq/07.Aal_Saaban_Aleh.mp3?rlkey=iidedcpagca6o5vmrgnm16kaz&st=v6hvggtq&dl=1",
+                    "duration_ms": 278073,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273815bc0d0382f154678eaa77f",
+                    "id": 1263,
+                    "artist": "Sherine"
+                },
+                {
+                    "name": "Ein Wo Nenny",
+                    "track_url": "https://www.dropbox.com/scl/fi/kw7xt6tcgs4lxmucb7e9h/08.Ein_We_Ninny.mp3?rlkey=6ugawodotk36xllqy3q3pleuz&st=c30yr76v&dl=1",
+                    "duration_ms": 247144,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273815bc0d0382f154678eaa77f",
+                    "id": 1264,
+                    "artist": "Sherine"
+                },
+                {
+                    "name": "W Bena2es Hayati Ma3ak",
+                    "track_url": "https://www.dropbox.com/scl/fi/tvs43dn01cm5it83rlcny/09.We_Binaaes_Hayaty_Maak.mp3?rlkey=hf8vzrem90fuf3uguy4s7e0s0&st=hp9vut86&dl=1",
+                    "duration_ms": 275408,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273815bc0d0382f154678eaa77f",
+                    "id": 1265,
+                    "artist": "Sherine"
+                },
+                {
+                    "name": "Enta Akher Wahed",
+                    "track_url": "https://www.dropbox.com/scl/fi/31uceisll5spsauuf1bxq/10.Enta_Akher_Wahed.mp3?rlkey=7wv0qip37r8n4hwzytu86x6qy&st=vmitow7a&dl=1",
+                    "duration_ms": 224914,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273815bc0d0382f154678eaa77f",
+                    "id": 1266,
+                    "artist": "Sherine"
+                }
+            ],
+            "id": 1256
+        },
+        {
+            "name": "Garh Tany",
+            "release_date": "2003-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736f5efd372331919ebd9d0fc9",
+            "track_url": "https://open.spotify.com/album/7iykGeMdxOdYtNRtYCNaMA",
+            "tracks": [
+                {
+                    "name": "Sabry Aalil",
+                    "track_url": "https://www.dropbox.com/scl/fi/68hvj72xej8ti088a95tw/01.Sabri_Aleel.mp3?rlkey=a1c8v9mu4urdh6x0by8adz27k&st=zt9vo9eb&dl=1",
+                    "duration_ms": 289227,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736f5efd372331919ebd9d0fc9",
+                    "id": 1268,
+                    "artist": "Sherine"
+                },
+                {
+                    "name": "Eh Eh",
+                    "track_url": "https://www.dropbox.com/scl/fi/gp57f3xdyi85t6c24xxeb/02.Eih_Eih.mp3?rlkey=9q5mytau1hksc3jb6h5gxfviz&st=yihu5g3h&dl=1",
+                    "duration_ms": 267493,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736f5efd372331919ebd9d0fc9",
+                    "id": 1269,
+                    "artist": "Sherine"
+                },
+                {
+                    "name": "Ana Fel Gharam",
+                    "track_url": "https://www.dropbox.com/scl/fi/d1de8qum2g77zkdzmvlbg/03.Ana_Fil_gharam.mp3?rlkey=ifabak6l494287eb8ch9qdbnz&st=qdiankcy&dl=1",
+                    "duration_ms": 227787,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736f5efd372331919ebd9d0fc9",
+                    "id": 1270,
+                    "artist": "Sherine"
+                },
+                {
+                    "name": "Kont Arfa",
+                    "track_url": "https://www.dropbox.com/scl/fi/zogwatzbxdb57vuni8rqy/04.Kont_Arfa.mp3?rlkey=9z2ahl1z24ap654gwqohyxfyn&st=8uk5p83w&dl=1",
+                    "duration_ms": 263836,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736f5efd372331919ebd9d0fc9",
+                    "id": 1271,
+                    "artist": "Sherine"
+                },
+                {
+                    "name": "Betewhashny",
+                    "track_url": "https://www.dropbox.com/scl/fi/hgppjdgymtl2upa5nvx7c/05.Betwhashni.mp3?rlkey=mrbzkegsbfaodjlq0bt6j9284&st=0o3pn00o&dl=1",
+                    "duration_ms": 264777,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736f5efd372331919ebd9d0fc9",
+                    "id": 1272,
+                    "artist": "Sherine"
+                },
+                {
+                    "name": "Nesiny",
+                    "track_url": "https://www.dropbox.com/scl/fi/i3exeth92eh9d6opet87m/06.Niseeni.mp3?rlkey=uwjiopmd40uqalkx18m95xhck&st=pf1b8uvg&dl=1",
+                    "duration_ms": 320653,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736f5efd372331919ebd9d0fc9",
+                    "id": 1273,
+                    "artist": "Sherine"
+                },
+                {
+                    "name": "Bos Ba2a",
+                    "track_url": "https://www.dropbox.com/scl/fi/ce9yb9sowk5i603abg123/07.Bos_Baaa.mp3?rlkey=imsc6zw7vd9p4wfk499ja4rbd&st=tw2fek0q&dl=1",
+                    "duration_ms": 258821,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736f5efd372331919ebd9d0fc9",
+                    "id": 1274,
+                    "artist": "Sherine"
+                },
+                {
+                    "name": "Garh Tany",
+                    "track_url": "https://www.dropbox.com/scl/fi/xlom0dsuz9udhps8wgepo/08.Garh_Tani.mp3?rlkey=ptrn6giubps9kt2m80g4690k0&st=u971f18h&dl=1",
+                    "duration_ms": 261276,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736f5efd372331919ebd9d0fc9",
+                    "id": 1275,
+                    "artist": "Sherine"
+                },
+                {
+                    "name": "Kalam",
+                    "track_url": "https://www.dropbox.com/scl/fi/l5vqwrmql9zmycro93hcb/09.Kalam.mp3?rlkey=rj06amysvpv0sbna1k4uz1qv7&st=4rj3rlwr&dl=1",
+                    "duration_ms": 290533,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736f5efd372331919ebd9d0fc9",
+                    "id": 1276,
+                    "artist": "Sherine"
+                },
+                {
+                    "name": "Ah Law Gany Tany",
+                    "track_url": "https://www.dropbox.com/scl/fi/t30eiv5pvjomd3oum3ug7/10.Ah_Law_Gani_Tani.mp3?rlkey=fu3zxki6lui7r3fg3synibfen&st=09kha772&dl=1",
+                    "duration_ms": 308323,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736f5efd372331919ebd9d0fc9",
+                    "id": 1277,
+                    "artist": "Sherine"
+                },
+                {
+                    "name": "Mategrahnish",
+                    "track_url": "https://www.dropbox.com/scl/fi/hym3408ble0j7w0x5rnoz/11.Ma_Tigirahneesh.mp3?rlkey=7s515emm0bbg65lshedfh6dru&st=gg71ojjf&dl=1",
+                    "duration_ms": 352731,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736f5efd372331919ebd9d0fc9",
+                    "id": 1278,
+                    "artist": "Sherine"
+                }
+            ],
+            "id": 1267
+        }
+    ],
+    "singles": [
+        {
+            "name": "المترو",
+            "release_date": "2016-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27307e1dcc1d2a1224b42814296",
+            "track_url": "https://www.dropbox.com/scl/fi/vdoamqeotba97pqykac6a/.mp3?rlkey=wqu6yzhjc42hx3qqlmbsd6u09&st=v6af2bhh&dl=1",
+            "id": 1297,
+            "artist": "Sherine"
+        },
+        {
+            "name": "انت البيت - اعلان حديد عز",
+            "release_date": "2020-01-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735612eed221121a233420b782",
+            "track_url": "https://www.dropbox.com/scl/fi/1zzxd4cfdv21vjm6ihn8i/.mp3?rlkey=mv3yi3vbdn1jc26q64zsb87q3&st=oxohrj8l&dl=1",
+            "id": 1288,
+            "artist": "Sherine"
+        },
+        {
+            "name": "رياح الحياة",
+            "release_date": "2020-01-07",
+            "image": "https://images.panet.com//media/photos/ettbtgalznnn/lo0l/ettbtgalznnnlo0l.jpg",
+            "track_url": "https://www.dropbox.com/scl/fi/6hueejl7i3zsqi1r6p11c/.mp3?rlkey=avf9zlhxltqk03r70zmyxh75l&st=ioseyhsg&dl=1",
+            "id": 1289,
+            "artist": "Sherine"
+        },
+        {
+            "name": "El Dahab",
+            "release_date": "2024-02-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b27371549815c933c01a72319531",
+            "track_url": "https://www.dropbox.com/scl/fi/fe7qvo6rc27zbofu1e9ez/.mp3?rlkey=78m2tvb5gkjv0mgle4t4elgfo&st=4brhk4v0&dl=1",
+            "id": 1279,
+            "artist": "Sherine"
+        },
+        {
+            "name": "W Bahleflak",
+            "release_date": "2021-12-22",
+            "image": "https://i.scdn.co/image/ab67616d00001e02deea686cecd1639388787ad7",
+            "track_url": "https://www.dropbox.com/scl/fi/rq703kuwfbntred3p6bua/.mp3?rlkey=dyrykoe69s9l652lyetkqwwga&st=biyo6o9a&dl=1",
+            "id": 12422,
+            "artist": "Sherine"
+        },
+        {
+            "name": "Khasemt El Noum",
+            "release_date": "2021-12-16",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d64838241aa9a919c7aa4eb1",
+            "track_url": "https://www.dropbox.com/scl/fi/dddjuqfvu3birt4j9k0kk/.mp3?rlkey=ku6c91v3f01nay16f1qdrvf7p&st=2pheolpe&dl=1",
+            "id": 1285,
+            "artist": "Sherine"
+        },
+        {
+            "name": "Kollaha Ghayrana",
+            "release_date": "2021-11-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b3e381a46c50c297a78dd652",
+            "track_url": "https://www.dropbox.com/scl/fi/rxgnomdyry7fxgisly7an/.mp3?rlkey=eld4dd0b6ii1qr9d2qm726ywk&st=7luyhoym&dl=1",
+            "id": 1286,
+            "artist": "Sherine"
+        },
+        {
+            "name": "القماص",
+            "release_date": "2011-07-01",
+            "image": "https://t2.genius.com/unsafe/193x193/https%3A%2F%2Fimages.genius.com%2Ff4c69b0d1d836bc824f24f4241f51857.1000x1000x1.png",
+            "track_url": "https://www.dropbox.com/scl/fi/oftfe6lk5hr8itnv7mwxf/.mp3?rlkey=z6amo6m7d01vh7wcyjnl1givb&st=7f84sz8o&dl=1",
+            "id": 1304,
+            "artist": "Sherine"
+        },
+        {
+            "name": "بعلم الوصول (اعلان حياة كريمة) ",
+            "release_date": "2013-10-01",
+            "image": "https://watanimg.elwatannews.com/image_archive/original_lower_quality/4733044841609262883.jpg",
+            "track_url": "https://www.dropbox.com/scl/fi/ipadkdesi13ts7cwmgne7/.mp3?rlkey=acn33w64we82w95elrginf7sb&st=i2lw4p4u&dl=1",
+            "id": 1300,
+            "artist": "Sherine"
+        },
+        {
+            "name": "Mesh Ad El Hawa",
+            "release_date": "2020-04-03",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735b284308c9bf28256bb1d82f",
+            "track_url": "https://www.dropbox.com/scl/fi/8bbq8xgiz1vwpo9xpjxyt/.mp3?rlkey=yrxk5g2daq7q4whbpev5r4x6y&st=uwobt9ip&dl=1",
+            "id": 1287,
+            "artist": "Sherine"
+        },
+        {
+            "name": "Keda (Tareky)",
+            "release_date": "2013-07-01",
+            "image": "https://i.scdn.co/image/ab67616d0000aa54fc15177e97eaf7a7a3581513",
+            "track_url": "https://www.dropbox.com/scl/fi/8x65b1qwqjiz31btr9n4y/.mp3?rlkey=upet61ux3plkdtp7q937chtdd&st=kh5h2wrj&dl=1",
+            "id": 1302,
+            "artist": "Sherine"
+        },
+        {
+            "name": "حلاوة الدنيا",
+            "release_date": "2010-09-01",
+            "image": "https://artwork.anghcdn.co/webp/?id=9170174&size=296",
+            "track_url": "https://www.dropbox.com/scl/fi/bb7p7nxm8mc6qid72d1r6/.mp3?rlkey=c3n2qcfkjvdacnm6rxrqdt2fq&st=xugr1xal&dl=1",
+            "id": 1305,
+            "artist": "Sherine"
+        },
+        {
+            "name": "ليالينا",
+            "release_date": "2017",
+            "image": "https://i.scdn.co/image/ab67616d0000b27307e1dcc1d2a1224b42814296",
+            "track_url": "https://www.dropbox.com/scl/fi/3twdlc8a0qz2bbuafk0g8/.mp3?rlkey=19v6mh9gynyrikxv8kew6xva4&st=usozk85r&dl=1",
+            "id": 1296,
+            "artist": "Sherine"
+        },
+        {
+            "name": "المراية",
+            "release_date": "2019-11-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c27369cc8cc399cddf064df7",
+            "track_url": "https://www.dropbox.com/scl/fi/x229xg8shcijf83yq67n5/.mp3?rlkey=czvjhaldhvdenex2lybacdm8v&st=zv2zblr8&dl=1",
+            "id": 1290,
+            "artist": "Sherine"
+        },
+        {
+            "name": "El Hob Khedaa",
+            "release_date": "2019-08-14",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d16b841de8804b3b424d3ef2",
+            "track_url": "https://www.dropbox.com/scl/fi/h0z6xija86scvmr4wk048/.mp3?rlkey=b0l42jcs8ukb47hz3jrzcnoii&st=o3drj6w9&dl=1",
+            "id": 1291,
+            "artist": "Sherine"
+        },
+        {
+            "name": "Tareky Series",
+            "release_date": "2019-07-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b273fc15177e97eaf7a7a3581513",
+            "track_url": "https://www.dropbox.com/scl/fi/rsg3ly6u6gu8xqzbrjuoo/.mp3?rlkey=kjiwajpqfahzzfhcsny5y8pg8&st=ommx14rz&dl=1",
+            "id": 1292,
+            "artist": "Sherine"
+        },
+        {
+            "name": "Ya Betfaker Ya Bet7es",
+            "release_date": "2019-04-27",
+            "image": "https://i.scdn.co/image/ab67616d0000b273302bd17f36eb98d9f1a3607c",
+            "track_url": "https://www.dropbox.com/scl/fi/f3i8gpyhjjqx72kaakya9/.mp3?rlkey=2lf58ae6l0dy1tq2vxryir6d2&st=ov0zz8wo&dl=1",
+            "id": 1293,
+            "artist": "Sherine"
+        },
+        {
+            "name": "Howa Da",
+            "release_date": "2018-04-17",
+            "image": "https://i.scdn.co/image/ab67616d0000b273395d9878d7c1972269d5bb9b",
+            "track_url": "https://www.dropbox.com/scl/fi/2d556kneromjy5y5dr3sg/.mp3?rlkey=2vx31cs4c10uy4p0petubkawu&st=apxhq1rh&dl=1",
+            "id": 1294,
+            "artist": "Sherine"
+        },
+        {
+            "name": "Ya Ma3afer",
+            "release_date": "2018",
+            "image": "https://i.scdn.co/image/ab67616d0000b27387b80286090ae30446cf7334",
+            "track_url": "https://www.dropbox.com/scl/fi/fsvdgimm4abc7bzir5gs6/.mp3?rlkey=l9cv4uikm7ta6b2qo7s4q4wg7&st=qwh4ncl2&dl=1",
+            "id": 1295,
+            "artist": "Sherine"
+        },
+        {
+            "name": "جنودنا رجالة",
+            "release_date": "2015-02-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b273425b080814e4797fdf45bb67",
+            "track_url": "https://www.dropbox.com/scl/fi/gbx6uw9xrg65j6mxhpebg/.mp3?rlkey=9flex4pjqjt3m7sv1sh8hpmng&st=7okj4dcw&dl=1",
+            "id": 1298,
+            "artist": "Sherine"
+        },
+        {
+            "name": "سلم علي الشهداء",
+            "release_date": "2014-07-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b27394a3fcc19de6a81ef92ad413",
+            "track_url": "https://www.dropbox.com/scl/fi/25qwzpzg7s3l5lqb294ct/.mp3?rlkey=4hne7t19ofl60wrf5cpax3akf&st=fl1k2r0w&dl=1",
+            "id": 1299,
+            "artist": "Sherine"
+        },
+        {
+            "name": "مشاعر",
+            "release_date": "2013-07-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b273fb8046f87f5fc23663faeddb",
+            "track_url": "https://www.dropbox.com/scl/fi/sumbgma8w1vi9nb0qcyvy/.mp3?rlkey=ttwrtb48c0st7o65s4085hm12&st=tkbuft31&dl=1",
+            "id": 1301,
+            "artist": "Sherine"
+        },
+        {
+            "name": "Forsa Akhira",
+            "release_date": "2012-04-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b273769c28f365c7c9e226ca9fba",
+            "track_url": "https://www.dropbox.com/scl/fi/ycidxconrsv8j62m06alk/.mp3?rlkey=lk6ca1sss1w1og9vtws8xo56e&st=66avvkxf&dl=1",
+            "id": 1303,
+            "artist": "Sherine"
+        },
+        {
+            "name": "عاشت مصر",
+            "release_date": "2009-11-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ba0333b00f449cf2112dcaa7",
+            "track_url": "https://www.dropbox.com/scl/fi/ud2x7p9ko9x7uuz54f2eh/.mp3?rlkey=rtk1egt2u4xzqiy6ixtnkp7h6&st=roe9yduq&dl=1",
+            "id": 1306,
+            "artist": "Sherine"
+        },
+        {
+            "name": "Batamenak",
+            "release_date": "2008-01-05",
+            "image": "https://i.scdn.co/image/ab67616d0000b273bbda8aa8449ea235ded768b5",
+            "track_url": "https://www.dropbox.com/scl/fi/49ncsj6ekjsfigr0fzzao/01.Bataminak.mp3?rlkey=1mkix1n6fpkiy8ebh0qg1hhjh&st=zo1e8nxw&dl=1",
+            "id": 1311,
+            "artist": "Sherine"
+        },
+        {
+            "name": "Masherbtesh Men Nelha",
+            "release_date": "2007-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f9874f497d28d1d38e170965",
+            "track_url": "https://www.dropbox.com/scl/fi/z9795ma0pyxv2r74k558t/.mp3?rlkey=qapfwxckjv9vl68ztv7680m7j&st=2uhsf7kb&dl=1",
+            "id": 1312,
+            "artist": "Sherine"
+        },
+        {
+            "name": "Ketir Bne3sha2",
+            "release_date": "2005-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730fceb26a6f42c1fc312f3617",
+            "track_url": "https://www.dropbox.com/scl/fi/zl0p2p40eyr0zrjxmqhy5/.mp3?rlkey=uoq85aoau5qx3ifeg57naq6nw&st=hx7lqpj6&dl=1",
+            "id": 1314,
+            "artist": "Sherine"
+        }
+    ],
+    "popular_tracks": [
+        {
+            "name": "كلام عينيه",
+            "track_url": "https://www.dropbox.com/scl/fi/tgsvonhe7id2q7sw541wj/07._Kalam_Eneih.mp3?rlkey=p5ubmadancdw25lg6e45mmb40&st=4p203py7&dl=1",
+            "duration_ms": 235833,
+            "image": "https://i.scdn.co/image/ab67616d0000b273cfa4e906cda39d8f62fe81e3",
+            "id": 1315,
+            "artist": "Sherine"
+        },
+        {
+            "name": "الوتر الحساس",
+            "track_url": "https://www.dropbox.com/scl/fi/iyj8op6lfsxzebp1ifx14/06._El_Watar_El_Hassas.mp3?rlkey=ft2gvxp8dlzhsfscst27ckwg1&st=55rdlj57&dl=1",
+            "duration_ms": 261224,
+            "image": "https://i.scdn.co/image/ab67616d0000b273cfa4e906cda39d8f62fe81e3",
+            "id": 1316,
+            "artist": "Sherine"
+        },
+        {
+            "name": "3la Bali",
+            "track_url": "https://www.dropbox.com/scl/fi/2e9d56cnkdjc3dtyd9bk0/04.Ala_Baly.mp3?rlkey=b8emlzefyhmcls3zb3dmmy9aj&st=ivb1ehzg&dl=1",
+            "duration_ms": 279457,
+            "image": "https://i.scdn.co/image/ab67616d0000b273815bc0d0382f154678eaa77f",
+            "id": 1317,
+            "artist": "Sherine"
+        },
+        {
+            "name": "Sabry Aalil",
+            "track_url": "https://www.dropbox.com/scl/fi/68hvj72xej8ti088a95tw/01.Sabri_Aleel.mp3?rlkey=a1c8v9mu4urdh6x0by8adz27k&st=zt9vo9eb&dl=1",
+            "duration_ms": 289227,
+            "image": "https://i.scdn.co/image/ab67616d0000b2736f5efd372331919ebd9d0fc9",
+            "id": 1318,
+            "artist": "Sherine"
+        },
+        {
+            "name": "حبه جنة",
+            "track_url": "https://www.dropbox.com/scl/fi/ffuszgph97eqwp1pwd7y5/05._Hobboh_Ganna.mp3?rlkey=3c1utybsjsiys0mefugesfl61&st=7phpmrtn&dl=1",
+            "duration_ms": 302027,
+            "image": "https://i.scdn.co/image/ab67616d0000b273cfa4e906cda39d8f62fe81e3",
+            "id": 1319,
+            "artist": "Sherine"
+        },
+        {
+            "name": "بكلمه منك",
+            "track_url": "https://www.dropbox.com/scl/fi/glokpb6v8648z7awy4ex2/.mp3?rlkey=rz8bgsbxbtipcvwo5tjkh2ilk&st=fjmhpxpr&dl=1",
+            "duration_ms": 257278,
+            "image": "https://i.scdn.co/image/ab67616d0000b273cf2af704faffd8722649aebe",
+            "id": 1320,
+            "artist": "Sherine"
+        },
+        {
+            "name": "Ya Layaly",
+            "track_url": "https://www.dropbox.com/scl/fi/5f3jgsurfsw6jw5wg3m91/04_-_Ya_Layali.mp3?rlkey=3zw4vjqv4at2dnb68xowk9526&st=lzvzmgiq&dl=1",
+            "duration_ms": 299258,
+            "image": "https://i.scdn.co/image/ab67616d0000b273a136127385a174cf5d901859",
+            "id": 1321,
+            "artist": "Sherine"
+        },
+        {
+            "name": "ماتحاسبنيش",
+            "track_url": "https://www.dropbox.com/scl/fi/8zms6h2pokdduwf0dwoit/.mp3?rlkey=fmhw3t2glz35kiaio02g2350s&st=82nrue6d&dl=1",
+            "duration_ms": 292649,
+            "image": "https://i.scdn.co/image/ab67616d0000b273eeda6561470e805c98befd32",
+            "id": 1322,
+            "artist": "Sherine"
+        },
+        {
+            "name": "المراية",
+            "track_url": "https://www.dropbox.com/scl/fi/x229xg8shcijf83yq67n5/.mp3?rlkey=czvjhaldhvdenex2lybacdm8v&st=zv2zblr8&dl=1",
+            "duration_ms": 174276,
+            "image": "https://i.scdn.co/image/ab67616d0000b273c27369cc8cc399cddf064df7",
+            "id": 1323,
+            "artist": "Sherine"
+        },
+        {
+            "name": "الكدابين",
+            "track_url": "https://www.dropbox.com/scl/fi/y3ny4vosqbr8aqujqvo8r/10._El_Kadabeen.mp3?rlkey=eyrt0i7calae8dx98qq9yyb3f&st=fkalhtpx&dl=1",
+            "duration_ms": 248659,
+            "image": "https://i.scdn.co/image/ab67616d0000b273cfa4e906cda39d8f62fe81e3",
+            "id": 1324,
+            "artist": "Sherine"
+        }
+    ]
+}

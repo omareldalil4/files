@@ -1,0 +1,2722 @@
+{
+    "artist": {
+        "id": "6199",
+        "name": "Kadim Al Sahir",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb83af4d8f4730d6653220711a",
+        "background_image": "https://i.scdn.co/image/ab6761610000517483af4d8f4730d6653220711a"
+    },
+    "albums": [
+        {
+            "name": "Maa Alhob",
+            "release_date": "2024-02-14",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733074caea4b4dc16437db7ee1",
+            "track_url": "https://open.spotify.com/album/42Gtt3JjgqO4Kf148FesNn",
+            "tracks": [
+                {
+                    "name": "Ya Wafiya",
+                    "track_url": "",
+                    "duration_ms": 341187,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733074caea4b4dc16437db7ee1",
+                    "id": 6201,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Ya Qalb",
+                    "track_url": "",
+                    "duration_ms": 328937,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733074caea4b4dc16437db7ee1",
+                    "id": 6202,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Piano",
+                    "track_url": "",
+                    "duration_ms": 358900,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733074caea4b4dc16437db7ee1",
+                    "id": 6203,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Maaki",
+                    "track_url": "",
+                    "duration_ms": 315861,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733074caea4b4dc16437db7ee1",
+                    "id": 6204,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Tareekho Meeladi",
+                    "track_url": "",
+                    "duration_ms": 290485,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733074caea4b4dc16437db7ee1",
+                    "id": 6205,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Raqsat Omr",
+                    "track_url": "",
+                    "duration_ms": 286623,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733074caea4b4dc16437db7ee1",
+                    "id": 6206,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "La Tathlimeehi",
+                    "track_url": "",
+                    "duration_ms": 383556,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733074caea4b4dc16437db7ee1",
+                    "id": 6207,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Torani Ohibboki",
+                    "track_url": "",
+                    "duration_ms": 270358,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733074caea4b4dc16437db7ee1",
+                    "id": 6208,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Aoodo",
+                    "track_url": "",
+                    "duration_ms": 279182,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733074caea4b4dc16437db7ee1",
+                    "id": 6209,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Al Layl",
+                    "track_url": "",
+                    "duration_ms": 290406,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733074caea4b4dc16437db7ee1",
+                    "id": 6210,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Mararti Bisadri",
+                    "track_url": "",
+                    "duration_ms": 309948,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733074caea4b4dc16437db7ee1",
+                    "id": 6211,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "La Tasali",
+                    "track_url": "",
+                    "duration_ms": 333855,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733074caea4b4dc16437db7ee1",
+                    "id": 6212,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "La Tarhaloo",
+                    "track_url": "",
+                    "duration_ms": 310806,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733074caea4b4dc16437db7ee1",
+                    "id": 6213,
+                    "artist": "Kadim Al Sahir"
+                }
+            ],
+            "id": 6200
+        },
+        {
+            "name": "سلمتك بيدالله",
+            "release_date": "2021-03-02",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731a5467acc930c06de5a7d28f",
+            "track_url": "https://open.spotify.com/album/7G1PuutqQe0kny712r531Z",
+            "tracks": [
+                {
+                    "name": "العزيز",
+                    "track_url": "",
+                    "duration_ms": 518640,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731a5467acc930c06de5a7d28f",
+                    "id": 6215,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "غزال",
+                    "track_url": "",
+                    "duration_ms": 413040,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731a5467acc930c06de5a7d28f",
+                    "id": 6216,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "ضحكته بعيونه",
+                    "track_url": "",
+                    "duration_ms": 266040,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731a5467acc930c06de5a7d28f",
+                    "id": 6217,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "ايش جابرك على المر",
+                    "track_url": "",
+                    "duration_ms": 523039,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731a5467acc930c06de5a7d28f",
+                    "id": 6218,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "لدغة الحيه",
+                    "track_url": "",
+                    "duration_ms": 432040,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731a5467acc930c06de5a7d28f",
+                    "id": 6219,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "عبرت الشط",
+                    "track_url": "",
+                    "duration_ms": 464040,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731a5467acc930c06de5a7d28f",
+                    "id": 6220,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "ما تحرك إحساسي",
+                    "track_url": "",
+                    "duration_ms": 645200,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731a5467acc930c06de5a7d28f",
+                    "id": 6221,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "ميسور الحال",
+                    "track_url": "",
+                    "duration_ms": 414840,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731a5467acc930c06de5a7d28f",
+                    "id": 6222,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "سلمتك بيد الله",
+                    "track_url": "",
+                    "duration_ms": 480480,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731a5467acc930c06de5a7d28f",
+                    "id": 6223,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "تارك أهلي",
+                    "track_url": "",
+                    "duration_ms": 535200,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731a5467acc930c06de5a7d28f",
+                    "id": 6224,
+                    "artist": "Kadim Al Sahir"
+                }
+            ],
+            "id": 6214
+        },
+        {
+            "name": "كتاب الحب",
+            "release_date": "2016-09-12",
+            "image": "https://i.scdn.co/image/ab67616d0000b273212db5c167e78aac54553d2e",
+            "track_url": "https://open.spotify.com/album/1BaxVri9f9Xjdt3ZkBEpzN",
+            "tracks": [
+                {
+                    "name": "من كتاب الحب",
+                    "track_url": "",
+                    "duration_ms": 380293,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273212db5c167e78aac54553d2e",
+                    "id": 6226,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "رسالة حب صغيرة",
+                    "track_url": "",
+                    "duration_ms": 251533,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273212db5c167e78aac54553d2e",
+                    "id": 6227,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "كوني امرأة",
+                    "track_url": "",
+                    "duration_ms": 317266,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273212db5c167e78aac54553d2e",
+                    "id": 6228,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "عيد العشاق",
+                    "track_url": "",
+                    "duration_ms": 424160,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273212db5c167e78aac54553d2e",
+                    "id": 6229,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "لو لم تكوني انت في حياتي",
+                    "track_url": "",
+                    "duration_ms": 489973,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273212db5c167e78aac54553d2e",
+                    "id": 6230,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "زر مرة",
+                    "track_url": "",
+                    "duration_ms": 277493,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273212db5c167e78aac54553d2e",
+                    "id": 6231,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "شؤون صغيرة",
+                    "track_url": "",
+                    "duration_ms": 360840,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273212db5c167e78aac54553d2e",
+                    "id": 6232,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "قصة خلافاتنا",
+                    "track_url": "",
+                    "duration_ms": 224973,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273212db5c167e78aac54553d2e",
+                    "id": 6233,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "تناقضات",
+                    "track_url": "",
+                    "duration_ms": 353720,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273212db5c167e78aac54553d2e",
+                    "id": 6234,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "لجسمك عطراً خطير النوايا",
+                    "track_url": "",
+                    "duration_ms": 311613,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273212db5c167e78aac54553d2e",
+                    "id": 6235,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "فاكهة الحب",
+                    "track_url": "",
+                    "duration_ms": 268333,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273212db5c167e78aac54553d2e",
+                    "id": 6236,
+                    "artist": "Kadim Al Sahir"
+                }
+            ],
+            "id": 6225
+        },
+        {
+            "name": "La Tazedeh Lawaah",
+            "release_date": "2011-02-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b273009d6c0ab3ba4fb1d36ee1df",
+            "track_url": "https://open.spotify.com/album/0xc4Hg1FtQ9isFwEpMtS4z",
+            "tracks": [
+                {
+                    "name": "Ma Ahbak Baad",
+                    "track_url": "",
+                    "duration_ms": 193959,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273009d6c0ab3ba4fb1d36ee1df",
+                    "id": 6238,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Marat Al Baly",
+                    "track_url": "",
+                    "duration_ms": 320966,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273009d6c0ab3ba4fb1d36ee1df",
+                    "id": 6239,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Dalaa El Nesaa",
+                    "track_url": "",
+                    "duration_ms": 275957,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273009d6c0ab3ba4fb1d36ee1df",
+                    "id": 6240,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Jalesah Wahdak",
+                    "track_url": "",
+                    "duration_ms": 277968,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273009d6c0ab3ba4fb1d36ee1df",
+                    "id": 6241,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Athare El Zaal",
+                    "track_url": "",
+                    "duration_ms": 282383,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273009d6c0ab3ba4fb1d36ee1df",
+                    "id": 6242,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "El Sour",
+                    "track_url": "",
+                    "duration_ms": 352966,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273009d6c0ab3ba4fb1d36ee1df",
+                    "id": 6243,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "La Tazedeh Lawaah",
+                    "track_url": "",
+                    "duration_ms": 390948,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273009d6c0ab3ba4fb1d36ee1df",
+                    "id": 6244,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Al Hob",
+                    "track_url": "",
+                    "duration_ms": 323422,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273009d6c0ab3ba4fb1d36ee1df",
+                    "id": 6245,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Khalas El Yom",
+                    "track_url": "",
+                    "duration_ms": 238968,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273009d6c0ab3ba4fb1d36ee1df",
+                    "id": 6246,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Hayara Ya Zaman",
+                    "track_url": "",
+                    "duration_ms": 222563,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273009d6c0ab3ba4fb1d36ee1df",
+                    "id": 6247,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Ya Sayde El Mohtaram",
+                    "track_url": "",
+                    "duration_ms": 316969,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273009d6c0ab3ba4fb1d36ee1df",
+                    "id": 6248,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Maza Baad",
+                    "track_url": "",
+                    "duration_ms": 249965,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273009d6c0ab3ba4fb1d36ee1df",
+                    "id": 6249,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Yabu Oyoun Elsoud",
+                    "track_url": "",
+                    "duration_ms": 266448,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273009d6c0ab3ba4fb1d36ee1df",
+                    "id": 6250,
+                    "artist": "Kadim Al Sahir"
+                }
+            ],
+            "id": 6237
+        },
+        {
+            "name": "Al Rassem Bil Kalimat",
+            "release_date": "2009-10-12",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737f50242ee38a95bd0f89e980",
+            "track_url": "https://open.spotify.com/album/0YA1ElpdHdvymu99GFbctD",
+            "tracks": [
+                {
+                    "name": "Habebty",
+                    "track_url": "",
+                    "duration_ms": 315506,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737f50242ee38a95bd0f89e980",
+                    "id": 6252,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Al Rasm Be El Kalimat",
+                    "track_url": "",
+                    "duration_ms": 571794,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737f50242ee38a95bd0f89e980",
+                    "id": 6253,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Nemt W Hlemt",
+                    "track_url": "",
+                    "duration_ms": 285518,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737f50242ee38a95bd0f89e980",
+                    "id": 6254,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Al Jareeda",
+                    "track_url": "",
+                    "duration_ms": 277786,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737f50242ee38a95bd0f89e980",
+                    "id": 6255,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Iskuth",
+                    "track_url": "",
+                    "duration_ms": 308558,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737f50242ee38a95bd0f89e980",
+                    "id": 6256,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Mu Thabiyi",
+                    "track_url": "",
+                    "duration_ms": 440633,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737f50242ee38a95bd0f89e980",
+                    "id": 6257,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Dalalk Zayid",
+                    "track_url": "",
+                    "duration_ms": 240222,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737f50242ee38a95bd0f89e980",
+                    "id": 6258,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Wein El Baba",
+                    "track_url": "",
+                    "duration_ms": 171885,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737f50242ee38a95bd0f89e980",
+                    "id": 6259,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Al Mahkama",
+                    "track_url": "",
+                    "duration_ms": 448417,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737f50242ee38a95bd0f89e980",
+                    "id": 6260,
+                    "artist": "Kadim Al Sahir"
+                }
+            ],
+            "id": 6251
+        },
+        {
+            "name": "Sowar",
+            "release_date": "2008-09-29",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735a92f8eb03c73046bb23c631",
+            "track_url": "https://open.spotify.com/album/3J2ADtJqEGCP4K46FePA8K",
+            "tracks": [
+                {
+                    "name": "Maa Beghdadiya",
+                    "track_url": "",
+                    "duration_ms": 450481,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735a92f8eb03c73046bb23c631",
+                    "id": 6262,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Aensa Al Aalam",
+                    "track_url": "",
+                    "duration_ms": 223190,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735a92f8eb03c73046bb23c631",
+                    "id": 6263,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Sowar",
+                    "track_url": "",
+                    "duration_ms": 255033,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735a92f8eb03c73046bb23c631",
+                    "id": 6264,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Sit Al Helwat",
+                    "track_url": "",
+                    "duration_ms": 215275,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735a92f8eb03c73046bb23c631",
+                    "id": 6265,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Tiheb Tedallaa",
+                    "track_url": "",
+                    "duration_ms": 231941,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735a92f8eb03c73046bb23c631",
+                    "id": 6266,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Tehebni",
+                    "track_url": "",
+                    "duration_ms": 255817,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735a92f8eb03c73046bb23c631",
+                    "id": 6267,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Alamak",
+                    "track_url": "",
+                    "duration_ms": 255268,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735a92f8eb03c73046bb23c631",
+                    "id": 6268,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Hat Hodnak",
+                    "track_url": "",
+                    "duration_ms": 283820,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735a92f8eb03c73046bb23c631",
+                    "id": 6269,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Aom Al Chela",
+                    "track_url": "",
+                    "duration_ms": 224862,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735a92f8eb03c73046bb23c631",
+                    "id": 6270,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Sadaf",
+                    "track_url": "",
+                    "duration_ms": 236564,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735a92f8eb03c73046bb23c631",
+                    "id": 6271,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Akheran",
+                    "track_url": "",
+                    "duration_ms": 249495,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735a92f8eb03c73046bb23c631",
+                    "id": 6272,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Ayel",
+                    "track_url": "",
+                    "duration_ms": 257436,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735a92f8eb03c73046bb23c631",
+                    "id": 6273,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Makhad Al Rouh",
+                    "track_url": "",
+                    "duration_ms": 315663,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735a92f8eb03c73046bb23c631",
+                    "id": 6274,
+                    "artist": "Kadim Al Sahir"
+                }
+            ],
+            "id": 6261
+        },
+        {
+            "name": "Yawmyat Rajoul Mahzoom",
+            "release_date": "2007-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27358d738659648cf9607f1042b",
+            "track_url": "https://open.spotify.com/album/2DOpVtqEq56gih7rVnazC0",
+            "tracks": [
+                {
+                    "name": "Berreed Beruth",
+                    "track_url": "",
+                    "duration_ms": 279640,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27358d738659648cf9607f1042b",
+                    "id": 6276,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Ghali",
+                    "track_url": "",
+                    "duration_ms": 260048,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27358d738659648cf9607f1042b",
+                    "id": 6277,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Houb",
+                    "track_url": "",
+                    "duration_ms": 318589,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27358d738659648cf9607f1042b",
+                    "id": 6278,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Atouhabini?",
+                    "track_url": "",
+                    "duration_ms": 445361,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27358d738659648cf9607f1042b",
+                    "id": 6279,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Erdi Koududaha",
+                    "track_url": "",
+                    "duration_ms": 308662,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27358d738659648cf9607f1042b",
+                    "id": 6280,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Takhi Jeth",
+                    "track_url": "",
+                    "duration_ms": 313182,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27358d738659648cf9607f1042b",
+                    "id": 6281,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Edhak",
+                    "track_url": "",
+                    "duration_ms": 247379,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27358d738659648cf9607f1042b",
+                    "id": 6282,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Yawmyat Rajoul Mahzoom",
+                    "track_url": "",
+                    "duration_ms": 355787,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27358d738659648cf9607f1042b",
+                    "id": 6283,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Madinath Al Hob",
+                    "track_url": "",
+                    "duration_ms": 639608,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27358d738659648cf9607f1042b",
+                    "id": 6284,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Ensa'a",
+                    "track_url": "",
+                    "duration_ms": 342700,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27358d738659648cf9607f1042b",
+                    "id": 6285,
+                    "artist": "Kadim Al Sahir"
+                }
+            ],
+            "id": 6275
+        },
+        {
+            "name": "Entaha Al Mushwar",
+            "release_date": "2005-11-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27343b8bbc490259ff0276aa8a5",
+            "track_url": "https://open.spotify.com/album/2im0gzgLabULRLaEfiHDq1",
+            "tracks": [
+                {
+                    "name": "Alowla Behayate",
+                    "track_url": "",
+                    "duration_ms": 286902,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27343b8bbc490259ff0276aa8a5",
+                    "id": 6287,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Tetbaghdad Àlina",
+                    "track_url": "",
+                    "duration_ms": 187036,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27343b8bbc490259ff0276aa8a5",
+                    "id": 6288,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Albenaya",
+                    "track_url": "",
+                    "duration_ms": 185391,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27343b8bbc490259ff0276aa8a5",
+                    "id": 6289,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Lak Ayame",
+                    "track_url": "",
+                    "duration_ms": 285884,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27343b8bbc490259ff0276aa8a5",
+                    "id": 6290,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Mashe Beshare`a",
+                    "track_url": "",
+                    "duration_ms": 204146,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27343b8bbc490259ff0276aa8a5",
+                    "id": 6291,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Saghier",
+                    "track_url": "",
+                    "duration_ms": 214204,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27343b8bbc490259ff0276aa8a5",
+                    "id": 6292,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Entaha Almeshwar",
+                    "track_url": "",
+                    "duration_ms": 526654,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27343b8bbc490259ff0276aa8a5",
+                    "id": 6293,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Hareb",
+                    "track_url": "",
+                    "duration_ms": 211905,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27343b8bbc490259ff0276aa8a5",
+                    "id": 6294,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Erjà Habebe",
+                    "track_url": "",
+                    "duration_ms": 252708,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27343b8bbc490259ff0276aa8a5",
+                    "id": 6295,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Jetak Amshe",
+                    "track_url": "",
+                    "duration_ms": 276506,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27343b8bbc490259ff0276aa8a5",
+                    "id": 6296,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Taharake",
+                    "track_url": "",
+                    "duration_ms": 349988,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27343b8bbc490259ff0276aa8a5",
+                    "id": 6297,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Wa Ene Oheboke",
+                    "track_url": "",
+                    "duration_ms": 506644,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27343b8bbc490259ff0276aa8a5",
+                    "id": 6298,
+                    "artist": "Kadim Al Sahir"
+                }
+            ],
+            "id": 6286
+        },
+        {
+            "name": "Haflet Beyt El Din, Vol. 1 (Live)",
+            "release_date": "2005-08-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b273edf6150c7721a038c6f0fbed",
+            "track_url": "https://open.spotify.com/album/7n4a6M3nR4Aep1bX019lwI",
+            "tracks": [
+                {
+                    "name": "Atfal Baghdad - Live",
+                    "track_url": "",
+                    "duration_ms": 331760,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273edf6150c7721a038c6f0fbed",
+                    "id": 6300,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Yadouki - Live",
+                    "track_url": "",
+                    "duration_ms": 473506,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273edf6150c7721a038c6f0fbed",
+                    "id": 6301,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Bab El Jar - Live",
+                    "track_url": "",
+                    "duration_ms": 362893,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273edf6150c7721a038c6f0fbed",
+                    "id": 6302,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Ella Anti - Live",
+                    "track_url": "",
+                    "duration_ms": 597066,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273edf6150c7721a038c6f0fbed",
+                    "id": 6303,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "El Leila Ehsasy Gharib - Live",
+                    "track_url": "",
+                    "duration_ms": 302106,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273edf6150c7721a038c6f0fbed",
+                    "id": 6304,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Hal Endaki Shakon - Live",
+                    "track_url": "",
+                    "duration_ms": 768320,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273edf6150c7721a038c6f0fbed",
+                    "id": 6305,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Kellak Ala Baadak Helou - Live",
+                    "track_url": "",
+                    "duration_ms": 375200,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273edf6150c7721a038c6f0fbed",
+                    "id": 6306,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Lasti Fatenati - Live",
+                    "track_url": "",
+                    "duration_ms": 266120,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273edf6150c7721a038c6f0fbed",
+                    "id": 6307,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Maska Oudy - Live",
+                    "track_url": "",
+                    "duration_ms": 370160,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273edf6150c7721a038c6f0fbed",
+                    "id": 6308,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Entahat El Harb - Live",
+                    "track_url": "",
+                    "duration_ms": 334533,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273edf6150c7721a038c6f0fbed",
+                    "id": 6309,
+                    "artist": "Kadim Al Sahir"
+                }
+            ],
+            "id": 6299
+        },
+        {
+            "name": "Ila Tilmitha",
+            "release_date": "2004-11-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734710dc4703111902e60e4690",
+            "track_url": "https://open.spotify.com/album/4JDywkMa0NkaYaf63yJBNn",
+            "tracks": [
+                {
+                    "name": "Ahbini",
+                    "track_url": "",
+                    "duration_ms": 427859,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734710dc4703111902e60e4690",
+                    "id": 6311,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Furshat Ramil El Baar",
+                    "track_url": "",
+                    "duration_ms": 293198,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734710dc4703111902e60e4690",
+                    "id": 6312,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Ashko ayam",
+                    "track_url": "",
+                    "duration_ms": 377678,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734710dc4703111902e60e4690",
+                    "id": 6313,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Kabary Aaqleq",
+                    "track_url": "",
+                    "duration_ms": 359836,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734710dc4703111902e60e4690",
+                    "id": 6314,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Ila Tilmiza",
+                    "track_url": "",
+                    "duration_ms": 237635,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734710dc4703111902e60e4690",
+                    "id": 6315,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Saidat Omri",
+                    "track_url": "",
+                    "duration_ms": 397531,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734710dc4703111902e60e4690",
+                    "id": 6316,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Ishsar Ishdawa",
+                    "track_url": "",
+                    "duration_ms": 201195,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734710dc4703111902e60e4690",
+                    "id": 6317,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Imshi Bi Hadawa",
+                    "track_url": "",
+                    "duration_ms": 297508,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734710dc4703111902e60e4690",
+                    "id": 6318,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Eih Yani",
+                    "track_url": "",
+                    "duration_ms": 290612,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734710dc4703111902e60e4690",
+                    "id": 6319,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Saiegeen El Zahab",
+                    "track_url": "",
+                    "duration_ms": 271725,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734710dc4703111902e60e4690",
+                    "id": 6320,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Mawal Dakat Aliah & Walla Dinia",
+                    "track_url": "",
+                    "duration_ms": 309211,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734710dc4703111902e60e4690",
+                    "id": 6321,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Mawal Ghorfat El Mikiaj",
+                    "track_url": "",
+                    "duration_ms": 147408,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734710dc4703111902e60e4690",
+                    "id": 6322,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "May Warad",
+                    "track_url": "",
+                    "duration_ms": 210364,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734710dc4703111902e60e4690",
+                    "id": 6323,
+                    "artist": "Kadim Al Sahir"
+                }
+            ],
+            "id": 6310
+        },
+        {
+            "name": "Haflet Casino Du Liban (Live)",
+            "release_date": "2004-08-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b27394ef3d2bee3bbd48423cfdb7",
+            "track_url": "https://open.spotify.com/album/1iOBU21rl31aCsB12xrIp8",
+            "tracks": [
+                {
+                    "name": "Ya Chajret Zaytoun - Live",
+                    "track_url": "",
+                    "duration_ms": 139426,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27394ef3d2bee3bbd48423cfdb7",
+                    "id": 6325,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Bafakar Fi Li Nassini - Live",
+                    "track_url": "",
+                    "duration_ms": 133080,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27394ef3d2bee3bbd48423cfdb7",
+                    "id": 6326,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Haza Loun - Live",
+                    "track_url": "",
+                    "duration_ms": 136240,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27394ef3d2bee3bbd48423cfdb7",
+                    "id": 6327,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Mahrouss - Live",
+                    "track_url": "",
+                    "duration_ms": 197546,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27394ef3d2bee3bbd48423cfdb7",
+                    "id": 6328,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Ahebini Bila Okadi - Live",
+                    "track_url": "",
+                    "duration_ms": 280093,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27394ef3d2bee3bbd48423cfdb7",
+                    "id": 6329,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Foug Nakhel - Live",
+                    "track_url": "",
+                    "duration_ms": 135346,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27394ef3d2bee3bbd48423cfdb7",
+                    "id": 6330,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Ya Em L'ouyoun Lsoud - Live",
+                    "track_url": "",
+                    "duration_ms": 158626,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27394ef3d2bee3bbd48423cfdb7",
+                    "id": 6331,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Ya Leyl La Tentehi - Live",
+                    "track_url": "",
+                    "duration_ms": 257812,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27394ef3d2bee3bbd48423cfdb7",
+                    "id": 6332,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Ana Wa Layla - Live",
+                    "track_url": "",
+                    "duration_ms": 65185,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27394ef3d2bee3bbd48423cfdb7",
+                    "id": 6333,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Ashkik Li Min - Live",
+                    "track_url": "",
+                    "duration_ms": 139520,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27394ef3d2bee3bbd48423cfdb7",
+                    "id": 6334,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Set Lhabayeb - Live",
+                    "track_url": "",
+                    "duration_ms": 202213,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27394ef3d2bee3bbd48423cfdb7",
+                    "id": 6335,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Nassam Alayna Lhawa - Live",
+                    "track_url": "",
+                    "duration_ms": 126200,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27394ef3d2bee3bbd48423cfdb7",
+                    "id": 6336,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Amara Ya Amara - Live",
+                    "track_url": "",
+                    "duration_ms": 71293,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27394ef3d2bee3bbd48423cfdb7",
+                    "id": 6337,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Kabiri Akleki - Live",
+                    "track_url": "",
+                    "duration_ms": 106400,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27394ef3d2bee3bbd48423cfdb7",
+                    "id": 6338,
+                    "artist": "Kadim Al Sahir"
+                }
+            ],
+            "id": 6324
+        },
+        {
+            "name": "Haflet Beyt El Din, Vol. 2 (Live)",
+            "release_date": "2004-08-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ff195a7a5a910692305aed23",
+            "track_url": "https://open.spotify.com/album/0K3Yz03U57bIw52euJcRHX",
+            "tracks": [
+                {
+                    "name": "Baghdad La Tata'allami - Live",
+                    "track_url": "",
+                    "duration_ms": 429693,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ff195a7a5a910692305aed23",
+                    "id": 6340,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Kol Ma Tekbar Tehla - Live",
+                    "track_url": "",
+                    "duration_ms": 218186,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ff195a7a5a910692305aed23",
+                    "id": 6341,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Sabahak Sokar - Live",
+                    "track_url": "",
+                    "duration_ms": 338373,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ff195a7a5a910692305aed23",
+                    "id": 6342,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Takoulin Lhawa - Live",
+                    "track_url": "",
+                    "duration_ms": 381240,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ff195a7a5a910692305aed23",
+                    "id": 6343,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Law Annana - Live",
+                    "track_url": "",
+                    "duration_ms": 295160,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ff195a7a5a910692305aed23",
+                    "id": 6344,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Ghaliya - Live",
+                    "track_url": "",
+                    "duration_ms": 325933,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ff195a7a5a910692305aed23",
+                    "id": 6345,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Abouss Rouhak - Live",
+                    "track_url": "",
+                    "duration_ms": 128080,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ff195a7a5a910692305aed23",
+                    "id": 6346,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "El Azizin - Live",
+                    "track_url": "",
+                    "duration_ms": 327946,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ff195a7a5a910692305aed23",
+                    "id": 6347,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Koul Li Walaw Katheban - Live",
+                    "track_url": "",
+                    "duration_ms": 361280,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ff195a7a5a910692305aed23",
+                    "id": 6348,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Eid W Hob - Live",
+                    "track_url": "",
+                    "duration_ms": 442880,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ff195a7a5a910692305aed23",
+                    "id": 6349,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Baad Lhob - Live",
+                    "track_url": "",
+                    "duration_ms": 482533,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ff195a7a5a910692305aed23",
+                    "id": 6350,
+                    "artist": "Kadim Al Sahir"
+                }
+            ],
+            "id": 6339
+        },
+        {
+            "name": "Hafiat Al Kadamain",
+            "release_date": "2003-06-29",
+            "image": "https://i.scdn.co/image/ab67616d0000b273bc318934b65f954c06dd0556",
+            "track_url": "https://open.spotify.com/album/52W2Mb8MmuAMuTXEPRYupk",
+            "tracks": [
+                {
+                    "name": "KulMa Tekbar Tehla",
+                    "track_url": "",
+                    "duration_ms": 208613,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bc318934b65f954c06dd0556",
+                    "id": 6352,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Al Helwa",
+                    "track_url": "",
+                    "duration_ms": 331859,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bc318934b65f954c06dd0556",
+                    "id": 6353,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Darb Al Alam",
+                    "track_url": "",
+                    "duration_ms": 535954,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bc318934b65f954c06dd0556",
+                    "id": 6354,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Aboos Rohak",
+                    "track_url": "",
+                    "duration_ms": 445283,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bc318934b65f954c06dd0556",
+                    "id": 6355,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Tegulin Al Hawa",
+                    "track_url": "",
+                    "duration_ms": 337737,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bc318934b65f954c06dd0556",
+                    "id": 6356,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Meneen Enta",
+                    "track_url": "",
+                    "duration_ms": 264176,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bc318934b65f954c06dd0556",
+                    "id": 6357,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Hewar Ma'a Al Nafs",
+                    "track_url": "",
+                    "duration_ms": 295575,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bc318934b65f954c06dd0556",
+                    "id": 6358,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Menu Ent",
+                    "track_url": "",
+                    "duration_ms": 289802,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bc318934b65f954c06dd0556",
+                    "id": 6359,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "The War is Over (Featuring Sarah Brightman)",
+                    "track_url": "",
+                    "duration_ms": 315454,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bc318934b65f954c06dd0556",
+                    "id": 6360,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Sabahak Sukar",
+                    "track_url": "",
+                    "duration_ms": 283951,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bc318934b65f954c06dd0556",
+                    "id": 6361,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Hal Endak Shak",
+                    "track_url": "",
+                    "duration_ms": 566256,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bc318934b65f954c06dd0556",
+                    "id": 6362,
+                    "artist": "Kadim Al Sahir"
+                }
+            ],
+            "id": 6351
+        },
+        {
+            "name": "Qusat Habebain",
+            "release_date": "2002-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27398c5bd10e2d472e42272f80e",
+            "track_url": "https://open.spotify.com/album/7zwvaTQN8AXEXJkVrwZRIQ",
+            "tracks": [
+                {
+                    "name": "Mouharam",
+                    "track_url": "",
+                    "duration_ms": 293929,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27398c5bd10e2d472e42272f80e",
+                    "id": 6364,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Ya Nas",
+                    "track_url": "",
+                    "duration_ms": 245028,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27398c5bd10e2d472e42272f80e",
+                    "id": 6365,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Eid Wa Hob",
+                    "track_url": "",
+                    "duration_ms": 224417,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27398c5bd10e2d472e42272f80e",
+                    "id": 6366,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Law Anana",
+                    "track_url": "",
+                    "duration_ms": 302759,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27398c5bd10e2d472e42272f80e",
+                    "id": 6367,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Kan Sadiki",
+                    "track_url": "",
+                    "duration_ms": 532976,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27398c5bd10e2d472e42272f80e",
+                    "id": 6368,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Kol Mur",
+                    "track_url": "",
+                    "duration_ms": 215745,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27398c5bd10e2d472e42272f80e",
+                    "id": 6369,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Dalas",
+                    "track_url": "",
+                    "duration_ms": 172773,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27398c5bd10e2d472e42272f80e",
+                    "id": 6370,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Lalla",
+                    "track_url": "",
+                    "duration_ms": 218148,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27398c5bd10e2d472e42272f80e",
+                    "id": 6371,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Dalli Zidi",
+                    "track_url": "",
+                    "duration_ms": 229955,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27398c5bd10e2d472e42272f80e",
+                    "id": 6372,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Yadak",
+                    "track_url": "",
+                    "duration_ms": 328515,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27398c5bd10e2d472e42272f80e",
+                    "id": 6373,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Hanet Alayk",
+                    "track_url": "",
+                    "duration_ms": 209946,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27398c5bd10e2d472e42272f80e",
+                    "id": 6374,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Takulin",
+                    "track_url": "",
+                    "duration_ms": 296333,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27398c5bd10e2d472e42272f80e",
+                    "id": 6375,
+                    "artist": "Kadim Al Sahir"
+                }
+            ],
+            "id": 6363
+        },
+        {
+            "name": "Abhathu Anki",
+            "release_date": "2001-04-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d70b2f7aa68be9f4ab65df0b",
+            "track_url": "https://open.spotify.com/album/6tR695SZoiGxw8BNUzSFDq",
+            "tracks": [
+                {
+                    "name": "El Leila Ihsasi Ghareeb",
+                    "track_url": "",
+                    "duration_ms": 364016,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d70b2f7aa68be9f4ab65df0b",
+                    "id": 6377,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Kol Aam Wa Anti Habibati",
+                    "track_url": "",
+                    "duration_ms": 288600,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d70b2f7aa68be9f4ab65df0b",
+                    "id": 6378,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Saaltaha",
+                    "track_url": "",
+                    "duration_ms": 335516,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d70b2f7aa68be9f4ab65df0b",
+                    "id": 6379,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Abhathu Anki",
+                    "track_url": "",
+                    "duration_ms": 319085,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d70b2f7aa68be9f4ab65df0b",
+                    "id": 6380,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Mo Thihitak",
+                    "track_url": "",
+                    "duration_ms": 290063,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d70b2f7aa68be9f4ab65df0b",
+                    "id": 6381,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Malah Wa Ihtijib",
+                    "track_url": "",
+                    "duration_ms": 319895,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d70b2f7aa68be9f4ab65df0b",
+                    "id": 6382,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Elli Yireed El Hilo",
+                    "track_url": "",
+                    "duration_ms": 196466,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d70b2f7aa68be9f4ab65df0b",
+                    "id": 6383,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Ya Zamen",
+                    "track_url": "",
+                    "duration_ms": 247092,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d70b2f7aa68be9f4ab65df0b",
+                    "id": 6384,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Shokran",
+                    "track_url": "",
+                    "duration_ms": 378435,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d70b2f7aa68be9f4ab65df0b",
+                    "id": 6385,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Al Zamen",
+                    "track_url": "",
+                    "duration_ms": 223164,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d70b2f7aa68be9f4ab65df0b",
+                    "id": 6386,
+                    "artist": "Kadim Al Sahir"
+                }
+            ],
+            "id": 6376
+        },
+        {
+            "name": "Haflet Beirout Pt.2",
+            "release_date": "2000-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273dfd41cbb1cdf5672005872ba",
+            "track_url": "https://open.spotify.com/album/7kUaznEb9m1iG2yNVTTiQG",
+            "tracks": [
+                {
+                    "name": "Ya Rayheen Lobnan",
+                    "track_url": "",
+                    "duration_ms": 388906,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273dfd41cbb1cdf5672005872ba",
+                    "id": 6388,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Eshlon Awadaak",
+                    "track_url": "",
+                    "duration_ms": 415306,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273dfd41cbb1cdf5672005872ba",
+                    "id": 6389,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Kollak Ala Baadak Helw",
+                    "track_url": "",
+                    "duration_ms": 516000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273dfd41cbb1cdf5672005872ba",
+                    "id": 6390,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Enny Khayartoki",
+                    "track_url": "",
+                    "duration_ms": 721346,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273dfd41cbb1cdf5672005872ba",
+                    "id": 6391,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Garh El Habib",
+                    "track_url": "",
+                    "duration_ms": 801760,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273dfd41cbb1cdf5672005872ba",
+                    "id": 6392,
+                    "artist": "Kadim Al Sahir"
+                }
+            ],
+            "id": 6387
+        },
+        {
+            "name": "Haflet Beirout Pt.1",
+            "release_date": "2000-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f662848f4743a5fd52579121",
+            "track_url": "https://open.spotify.com/album/1Z8I7qx8bbW3iCXhiDkTs6",
+            "tracks": [
+                {
+                    "name": "Sallemtak",
+                    "track_url": "",
+                    "duration_ms": 305480,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f662848f4743a5fd52579121",
+                    "id": 6394,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Abart El Shatt",
+                    "track_url": "",
+                    "duration_ms": 866320,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f662848f4743a5fd52579121",
+                    "id": 6395,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "El Leila",
+                    "track_url": "",
+                    "duration_ms": 698573,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f662848f4743a5fd52579121",
+                    "id": 6396,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Hatha El Loun",
+                    "track_url": "",
+                    "duration_ms": 453746,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f662848f4743a5fd52579121",
+                    "id": 6397,
+                    "artist": "Kadim Al Sahir"
+                }
+            ],
+            "id": 6393
+        },
+        {
+            "name": "Galset Samar Hayya",
+            "release_date": "2000-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733bf09c32756e6657d6faae59",
+            "track_url": "https://open.spotify.com/album/1NXLM1R7Q4qxcqidEQwHM7",
+            "tracks": [
+                {
+                    "name": "Gabar",
+                    "track_url": "",
+                    "duration_ms": 495346,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733bf09c32756e6657d6faae59",
+                    "id": 6399,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Mawwal Ha Habiby",
+                    "track_url": "",
+                    "duration_ms": 298946,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733bf09c32756e6657d6faae59",
+                    "id": 6400,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Mawwal - Oghneyet Ya Leil La Tentehy",
+                    "track_url": "",
+                    "duration_ms": 267786,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733bf09c32756e6657d6faae59",
+                    "id": 6401,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Mawwal Laqaodlak Al Darb Qaoud",
+                    "track_url": "",
+                    "duration_ms": 291360,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733bf09c32756e6657d6faae59",
+                    "id": 6402,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Hasnaa Oman",
+                    "track_url": "",
+                    "duration_ms": 124786,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733bf09c32756e6657d6faae59",
+                    "id": 6403,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Mahrous Men Ein El Bashar",
+                    "track_url": "",
+                    "duration_ms": 525893,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733bf09c32756e6657d6faae59",
+                    "id": 6404,
+                    "artist": "Kadim Al Sahir"
+                }
+            ],
+            "id": 6398
+        },
+        {
+            "name": "Al Hob Al Mustaheel",
+            "release_date": "2000-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734173ba2b2a42d43665054693",
+            "track_url": "https://open.spotify.com/album/0ytuOtv23lGkqhy6qC3vO2",
+            "tracks": [
+                {
+                    "name": "Ma'darshe",
+                    "track_url": "",
+                    "duration_ms": 296960,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734173ba2b2a42d43665054693",
+                    "id": 6406,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Waledee Al Tayeb",
+                    "track_url": "",
+                    "duration_ms": 268199,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734173ba2b2a42d43665054693",
+                    "id": 6407,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "La Titnahhad",
+                    "track_url": "",
+                    "duration_ms": 293355,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734173ba2b2a42d43665054693",
+                    "id": 6408,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Al Mustabeddah",
+                    "track_url": "",
+                    "duration_ms": 359183,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734173ba2b2a42d43665054693",
+                    "id": 6409,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Aghazelak",
+                    "track_url": "",
+                    "duration_ms": 236956,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734173ba2b2a42d43665054693",
+                    "id": 6410,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Rakhasit Dam'ee",
+                    "track_url": "",
+                    "duration_ms": 295000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734173ba2b2a42d43665054693",
+                    "id": 6411,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Mustakeel",
+                    "track_url": "",
+                    "duration_ms": 345417,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734173ba2b2a42d43665054693",
+                    "id": 6412,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Min Tikoun",
+                    "track_url": "",
+                    "duration_ms": 323866,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734173ba2b2a42d43665054693",
+                    "id": 6413,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "W'endak Ein",
+                    "track_url": "",
+                    "duration_ms": 314540,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734173ba2b2a42d43665054693",
+                    "id": 6414,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Al Hob Al Mustaheel",
+                    "track_url": "",
+                    "duration_ms": 475715,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734173ba2b2a42d43665054693",
+                    "id": 6415,
+                    "artist": "Kadim Al Sahir"
+                }
+            ],
+            "id": 6405
+        },
+        {
+            "name": "Habibati Wal Matar",
+            "release_date": "1999-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d3c8a329abdebc2fd3de45d0",
+            "track_url": "https://open.spotify.com/album/79Bw1khMvlEWxwtaooB0GB",
+            "tracks": [
+                {
+                    "name": "Ta'ibtou",
+                    "track_url": "",
+                    "duration_ms": 282533,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d3c8a329abdebc2fd3de45d0",
+                    "id": 6417,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Mamnoo'aton Anti",
+                    "track_url": "",
+                    "duration_ms": 495040,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d3c8a329abdebc2fd3de45d0",
+                    "id": 6418,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Qoulee Ouhibbouka",
+                    "track_url": "",
+                    "duration_ms": 331786,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d3c8a329abdebc2fd3de45d0",
+                    "id": 6419,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Akrahouha",
+                    "track_url": "",
+                    "duration_ms": 344400,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d3c8a329abdebc2fd3de45d0",
+                    "id": 6420,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Hiya",
+                    "track_url": "",
+                    "duration_ms": 184360,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d3c8a329abdebc2fd3de45d0",
+                    "id": 6421,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Mushtaq",
+                    "track_url": "",
+                    "duration_ms": 239666,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d3c8a329abdebc2fd3de45d0",
+                    "id": 6422,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Habibati Wal Matar",
+                    "track_url": "",
+                    "duration_ms": 293253,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d3c8a329abdebc2fd3de45d0",
+                    "id": 6423,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Attahaddiat",
+                    "track_url": "",
+                    "duration_ms": 441173,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d3c8a329abdebc2fd3de45d0",
+                    "id": 6424,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Lasti Fatinati",
+                    "track_url": "",
+                    "duration_ms": 408480,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d3c8a329abdebc2fd3de45d0",
+                    "id": 6425,
+                    "artist": "Kadim Al Sahir"
+                }
+            ],
+            "id": 6416
+        },
+        {
+            "name": "Ana Wa Laila",
+            "release_date": "1997-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b12a1ab2eb8777e20689fcb9",
+            "track_url": "https://open.spotify.com/album/4ZyO46siZUppdC1tqXLLWe",
+            "tracks": [
+                {
+                    "name": "Ana Wa Laila",
+                    "track_url": "",
+                    "duration_ms": 808266,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b12a1ab2eb8777e20689fcb9",
+                    "id": 6427,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Ashkeek Limeen",
+                    "track_url": "",
+                    "duration_ms": 658253,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b12a1ab2eb8777e20689fcb9",
+                    "id": 6428,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Ah…Ala Ah/Mawal Aqool Al Ah",
+                    "track_url": "",
+                    "duration_ms": 410853,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b12a1ab2eb8777e20689fcb9",
+                    "id": 6429,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Illa Antee",
+                    "track_url": "",
+                    "duration_ms": 482533,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b12a1ab2eb8777e20689fcb9",
+                    "id": 6430,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "La'ab Bihom Le'aeb",
+                    "track_url": "",
+                    "duration_ms": 218586,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b12a1ab2eb8777e20689fcb9",
+                    "id": 6431,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Abat Mahmoom",
+                    "track_url": "",
+                    "duration_ms": 274200,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b12a1ab2eb8777e20689fcb9",
+                    "id": 6432,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Bilhadawa",
+                    "track_url": "",
+                    "duration_ms": 227333,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b12a1ab2eb8777e20689fcb9",
+                    "id": 6433,
+                    "artist": "Kadim Al Sahir"
+                }
+            ],
+            "id": 6426
+        },
+        {
+            "name": "Fi Madrasat Al Hob",
+            "release_date": "1996-08-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733ff853e763702cecace24850",
+            "track_url": "https://open.spotify.com/album/03FGlCK3kwcXeuaKnP7952",
+            "tracks": [
+                {
+                    "name": "Zeidini Ishqan",
+                    "track_url": "",
+                    "duration_ms": 448826,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733ff853e763702cecace24850",
+                    "id": 6435,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Fe Madrasat Lhob",
+                    "track_url": "",
+                    "duration_ms": 699560,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733ff853e763702cecace24850",
+                    "id": 6436,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Salami",
+                    "track_url": "",
+                    "duration_ms": 349240,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733ff853e763702cecace24850",
+                    "id": 6437,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Ya Mdalal",
+                    "track_url": "",
+                    "duration_ms": 210746,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733ff853e763702cecace24850",
+                    "id": 6438,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Bab Al Jar",
+                    "track_url": "",
+                    "duration_ms": 343800,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733ff853e763702cecace24850",
+                    "id": 6439,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Arraheel",
+                    "track_url": "",
+                    "duration_ms": 351266,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733ff853e763702cecace24850",
+                    "id": 6440,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Lak Wahsha",
+                    "track_url": "",
+                    "duration_ms": 236533,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733ff853e763702cecace24850",
+                    "id": 6441,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Aljameela",
+                    "track_url": "",
+                    "duration_ms": 228200,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733ff853e763702cecace24850",
+                    "id": 6442,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Wain Akhthak",
+                    "track_url": "",
+                    "duration_ms": 350573,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733ff853e763702cecace24850",
+                    "id": 6443,
+                    "artist": "Kadim Al Sahir"
+                }
+            ],
+            "id": 6434
+        },
+        {
+            "name": "Ghazal",
+            "release_date": "1996-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b813a4090786fee1fda763b0",
+            "track_url": "https://open.spotify.com/album/14jOz7qWEQTvT1Hsvy3lY0",
+            "tracks": [
+                {
+                    "name": "Abart Al Shat",
+                    "track_url": "",
+                    "duration_ms": 568562,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b813a4090786fee1fda763b0",
+                    "id": 6445,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Baadak Bahla Al Omor",
+                    "track_url": "",
+                    "duration_ms": 332769,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b813a4090786fee1fda763b0",
+                    "id": 6446,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Ghazal",
+                    "track_url": "",
+                    "duration_ms": 379199,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b813a4090786fee1fda763b0",
+                    "id": 6447,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Inshallah",
+                    "track_url": "",
+                    "duration_ms": 288342,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b813a4090786fee1fda763b0",
+                    "id": 6448,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Ishjabrak Ala Al Mur",
+                    "track_url": "",
+                    "duration_ms": 512275,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b813a4090786fee1fda763b0",
+                    "id": 6449,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Ladghat Al Hayya",
+                    "track_url": "",
+                    "duration_ms": 404082,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b813a4090786fee1fda763b0",
+                    "id": 6450,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Law Kan",
+                    "track_url": "",
+                    "duration_ms": 290458,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b813a4090786fee1fda763b0",
+                    "id": 6451,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Shakhs Thani",
+                    "track_url": "",
+                    "duration_ms": 435298,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b813a4090786fee1fda763b0",
+                    "id": 6452,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Treed Assameh",
+                    "track_url": "",
+                    "duration_ms": 402304,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b813a4090786fee1fda763b0",
+                    "id": 6453,
+                    "artist": "Kadim Al Sahir"
+                }
+            ],
+            "id": 6444
+        },
+        {
+            "name": "Ba'Ad Al Hob",
+            "release_date": "1995-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273748372f4b70fedef3022eadd",
+            "track_url": "https://open.spotify.com/album/2Ro807NACs4StaffbQUd8A",
+            "tracks": [
+                {
+                    "name": "Ha Habibi - Remastered 2000",
+                    "track_url": "",
+                    "duration_ms": 243200,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273748372f4b70fedef3022eadd",
+                    "id": 6455,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Dhomni Ala Sadrak - Remastered 2000",
+                    "track_url": "",
+                    "duration_ms": 249800,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273748372f4b70fedef3022eadd",
+                    "id": 6456,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Yahala B'hattoul - Remastered 2000",
+                    "track_url": "",
+                    "duration_ms": 380533,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273748372f4b70fedef3022eadd",
+                    "id": 6457,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Merci - Remastered 2000",
+                    "track_url": "",
+                    "duration_ms": 326200,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273748372f4b70fedef3022eadd",
+                    "id": 6458,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Kolak Ala Badhak - Remastered 2000",
+                    "track_url": "",
+                    "duration_ms": 349333,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273748372f4b70fedef3022eadd",
+                    "id": 6459,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Meen Qassak - Remastered 2000",
+                    "track_url": "",
+                    "duration_ms": 534906,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273748372f4b70fedef3022eadd",
+                    "id": 6460,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Ba'ad Al Hob - Remastered 2000",
+                    "track_url": "",
+                    "duration_ms": 966093,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273748372f4b70fedef3022eadd",
+                    "id": 6461,
+                    "artist": "Kadim Al Sahir"
+                }
+            ],
+            "id": 6454
+        },
+        {
+            "name": "Salamtak Min El Ah",
+            "release_date": "1993-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273755f472fdb3e4ccd0e6132ea",
+            "track_url": "https://open.spotify.com/album/1Xbv6vSRqT1PpLHtj0sQea",
+            "tracks": [
+                {
+                    "name": "Mnen Ajeeb Ehsas",
+                    "track_url": "",
+                    "duration_ms": 283300,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273755f472fdb3e4ccd0e6132ea",
+                    "id": 6463,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Ya Sakina Hayena",
+                    "track_url": "",
+                    "duration_ms": 256640,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273755f472fdb3e4ccd0e6132ea",
+                    "id": 6464,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Ya Layl",
+                    "track_url": "",
+                    "duration_ms": 453742,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273755f472fdb3e4ccd0e6132ea",
+                    "id": 6465,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Nizlat Lilbaher",
+                    "track_url": "",
+                    "duration_ms": 1742666,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273755f472fdb3e4ccd0e6132ea",
+                    "id": 6466,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Salamtak Min El Ah",
+                    "track_url": "",
+                    "duration_ms": 1743666,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273755f472fdb3e4ccd0e6132ea",
+                    "id": 6467,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Kasedat Ikhtari",
+                    "track_url": "",
+                    "duration_ms": 854073,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273755f472fdb3e4ccd0e6132ea",
+                    "id": 6468,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Yedhrab El Hob",
+                    "track_url": "",
+                    "duration_ms": 271355,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273755f472fdb3e4ccd0e6132ea",
+                    "id": 6469,
+                    "artist": "Kadim Al Sahir"
+                }
+            ],
+            "id": 6462
+        },
+        {
+            "name": "Efrah",
+            "release_date": "1990-02-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737aa0232a97a5d53db5400b7c",
+            "track_url": "https://open.spotify.com/album/7arD569hDSNwMZj5b4Vl8r",
+            "tracks": [
+                {
+                    "name": "Hadded",
+                    "track_url": "",
+                    "duration_ms": 351506,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737aa0232a97a5d53db5400b7c",
+                    "id": 6471,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Wenyt",
+                    "track_url": "",
+                    "duration_ms": 318786,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737aa0232a97a5d53db5400b7c",
+                    "id": 6472,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Mawal Ya Donia",
+                    "track_url": "",
+                    "duration_ms": 697813,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737aa0232a97a5d53db5400b7c",
+                    "id": 6473,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Hona Al Lawn",
+                    "track_url": "",
+                    "duration_ms": 305720,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737aa0232a97a5d53db5400b7c",
+                    "id": 6474,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Efrah",
+                    "track_url": "",
+                    "duration_ms": 393506,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737aa0232a97a5d53db5400b7c",
+                    "id": 6475,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "La Tahtajj",
+                    "track_url": "",
+                    "duration_ms": 485773,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737aa0232a97a5d53db5400b7c",
+                    "id": 6476,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Malek Meazza",
+                    "track_url": "",
+                    "duration_ms": 319826,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737aa0232a97a5d53db5400b7c",
+                    "id": 6477,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Matar Tair",
+                    "track_url": "",
+                    "duration_ms": 437133,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737aa0232a97a5d53db5400b7c",
+                    "id": 6478,
+                    "artist": "Kadim Al Sahir"
+                }
+            ],
+            "id": 6470
+        },
+        {
+            "name": "Banat Alaeibak",
+            "release_date": "1990-01-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d50f965366c91c019d5c3392",
+            "track_url": "https://open.spotify.com/album/445ye51eHfcmBVLnF9wDVk",
+            "tracks": [
+                {
+                    "name": "Anta Al Hakam",
+                    "track_url": "",
+                    "duration_ms": 369853,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d50f965366c91c019d5c3392",
+                    "id": 6480,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Banat Alaeibak",
+                    "track_url": "",
+                    "duration_ms": 308680,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d50f965366c91c019d5c3392",
+                    "id": 6481,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Eshhelo Toolak",
+                    "track_url": "",
+                    "duration_ms": 356280,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d50f965366c91c019d5c3392",
+                    "id": 6482,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Rahal",
+                    "track_url": "",
+                    "duration_ms": 223320,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d50f965366c91c019d5c3392",
+                    "id": 6483,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Al Nar",
+                    "track_url": "",
+                    "duration_ms": 412493,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d50f965366c91c019d5c3392",
+                    "id": 6484,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Aleila 02",
+                    "track_url": "",
+                    "duration_ms": 297746,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d50f965366c91c019d5c3392",
+                    "id": 6485,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Maalem Ala Alsadmat",
+                    "track_url": "",
+                    "duration_ms": 473986,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d50f965366c91c019d5c3392",
+                    "id": 6486,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "La Tehromooni",
+                    "track_url": "",
+                    "duration_ms": 503533,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d50f965366c91c019d5c3392",
+                    "id": 6487,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Al Aroosa",
+                    "track_url": "",
+                    "duration_ms": 312000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d50f965366c91c019d5c3392",
+                    "id": 6488,
+                    "artist": "Kadim Al Sahir"
+                }
+            ],
+            "id": 6479
+        },
+        {
+            "name": "Waffar Kalamak",
+            "release_date": "1990-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f462912b1f3de39fc7fe9252",
+            "track_url": "https://open.spotify.com/album/2QsRAKC9SWRsXFMp0tDWey",
+            "tracks": [
+                {
+                    "name": "Waffar Kalamak",
+                    "track_url": "",
+                    "duration_ms": 436868,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f462912b1f3de39fc7fe9252",
+                    "id": 6490,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Ana Khayef",
+                    "track_url": "",
+                    "duration_ms": 324894,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f462912b1f3de39fc7fe9252",
+                    "id": 6491,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Enta Kol Eddonya",
+                    "track_url": "",
+                    "duration_ms": 639882,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f462912b1f3de39fc7fe9252",
+                    "id": 6492,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Nessyanak As3ab Mabeek",
+                    "track_url": "",
+                    "duration_ms": 344866,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f462912b1f3de39fc7fe9252",
+                    "id": 6493,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Ne3mat Al Ayam",
+                    "track_url": "",
+                    "duration_ms": 375898,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f462912b1f3de39fc7fe9252",
+                    "id": 6494,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Ehtemal",
+                    "track_url": "",
+                    "duration_ms": 329871,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f462912b1f3de39fc7fe9252",
+                    "id": 6495,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Qabel Ma Ashofak",
+                    "track_url": "",
+                    "duration_ms": 209781,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f462912b1f3de39fc7fe9252",
+                    "id": 6496,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Eish Jabrak 3al Morr",
+                    "track_url": "",
+                    "duration_ms": 309938,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f462912b1f3de39fc7fe9252",
+                    "id": 6497,
+                    "artist": "Kadim Al Sahir"
+                },
+                {
+                    "name": "Eid El Hob",
+                    "track_url": "",
+                    "duration_ms": 279845,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f462912b1f3de39fc7fe9252",
+                    "id": 6498,
+                    "artist": "Kadim Al Sahir"
+                }
+            ],
+            "id": 6489
+        }
+    ],
+    "singles": [
+        {
+            "name": "جاءت معذبتي",
+            "release_date": "2024-11-06",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735c6161e12f251875fb02d5bb",
+            "track_url": "",
+            "id": 6499,
+            "artist": "Kadim Al Sahir"
+        },
+        {
+            "name": "Ya Qalb",
+            "release_date": "2024-02-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f9d9384393128a4b66c27973",
+            "track_url": "",
+            "id": 6500,
+            "artist": "Kadim Al Sahir"
+        },
+        {
+            "name": "Ya Wafiya",
+            "release_date": "2024-01-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d3d6286a87c572094ef6b078",
+            "track_url": "",
+            "id": 6501,
+            "artist": "Kadim Al Sahir"
+        },
+        {
+            "name": "Hold Your Fire",
+            "release_date": "2023-11-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736c60be7d3c5c1d5801924dbe",
+            "track_url": "",
+            "id": 6502,
+            "artist": "Kadim Al Sahir"
+        },
+        {
+            "name": "Bariha Bil Hilm",
+            "release_date": "2023-11-22",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730ff63bf347b5b07e98b5f485",
+            "track_url": "",
+            "id": 6503,
+            "artist": "Kadim Al Sahir"
+        },
+        {
+            "name": "Yakrahun Al Huba",
+            "release_date": "2023-02-03",
+            "image": "https://i.scdn.co/image/ab67616d0000b273debd42f59f6ae9358cdce565",
+            "track_url": "",
+            "id": 6504,
+            "artist": "Kadim Al Sahir"
+        },
+        {
+            "name": "Ahl Aleshg",
+            "release_date": "2022-06-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d3a57655925a4a08cf8310d9",
+            "track_url": "",
+            "id": 6505,
+            "artist": "Kadim Al Sahir"
+        },
+        {
+            "name": "Al Hayat",
+            "release_date": "2021-05-02",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739787680d1f26c6eb00375d16",
+            "track_url": "",
+            "id": 6506,
+            "artist": "Kadim Al Sahir"
+        },
+        {
+            "name": "Hope Probe",
+            "release_date": "2021-02-06",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735d2bb749630cb6b756c02464",
+            "track_url": "",
+            "id": 6507,
+            "artist": "Kadim Al Sahir"
+        },
+        {
+            "name": "Iraquna",
+            "release_date": "2020-10-29",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b6412b269f8150a7f480252c",
+            "track_url": "",
+            "id": 6508,
+            "artist": "Kadim Al Sahir"
+        },
+        {
+            "name": "مالي خلق",
+            "release_date": "2016-10-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734600cd886b6e3ac8dd373ae6",
+            "track_url": "",
+            "id": 6509,
+            "artist": "Kadim Al Sahir"
+        },
+        {
+            "name": "غرناطة",
+            "release_date": "2016-05-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b27315239deb60e10d4c4b481c06",
+            "track_url": "",
+            "id": 6510,
+            "artist": "Kadim Al Sahir"
+        },
+        {
+            "name": "الزمل",
+            "release_date": "2016-05-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b273db61c702653254895c87e040",
+            "track_url": "",
+            "id": 6511,
+            "artist": "Kadim Al Sahir"
+        },
+        {
+            "name": "Al Waq Waq",
+            "release_date": "2015-05-12",
+            "image": "https://i.scdn.co/image/ab67616d0000b273627eb8fe8730add3adc466f0",
+            "track_url": "",
+            "id": 6512,
+            "artist": "Kadim Al Sahir"
+        },
+        {
+            "name": "سيداتي انساتي ساداتي",
+            "release_date": "2014-01-14",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737b93f88710d96899f20e5c08",
+            "track_url": "",
+            "id": 6513,
+            "artist": "Kadim Al Sahir"
+        },
+        {
+            "name": "Qalbi Qawi",
+            "release_date": "2013-09-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b273872e97548456764daf954aeb",
+            "track_url": "",
+            "id": 6514,
+            "artist": "Kadim Al Sahir"
+        },
+        {
+            "name": "مرت على بالي",
+            "release_date": "2011-11-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27398cabfb3f1fee4d9b1882412",
+            "track_url": "",
+            "id": 6515,
+            "artist": "Kadim Al Sahir"
+        },
+        {
+            "name": "Set Lhabayeb (Live)",
+            "release_date": "2008-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27364b092b5915d56a7c1f82438",
+            "track_url": "",
+            "id": 6516,
+            "artist": "Kadim Al Sahir"
+        },
+        {
+            "name": "Nay",
+            "release_date": "2007-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273da8afd9925d605813f89fbdf",
+            "track_url": "",
+            "id": 6517,
+            "artist": "Kadim Al Sahir"
+        },
+        {
+            "name": "Ya Rayheen Lobnan (Live)",
+            "release_date": "2001-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736973c4f1fbad1b28dbfbfaa8",
+            "track_url": "",
+            "id": 6518,
+            "artist": "Kadim Al Sahir"
+        },
+        {
+            "name": "Sa'aban Aleya",
+            "release_date": "1996-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27396ca0a98662ba8acd6fc83a4",
+            "track_url": "",
+            "id": 6519,
+            "artist": "Kadim Al Sahir"
+        },
+        {
+            "name": "Aghsilly Bilbard",
+            "release_date": "1996-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e15dccb4cb8f16084e5734c4",
+            "track_url": "",
+            "id": 6520,
+            "artist": "Kadim Al Sahir"
+        },
+        {
+            "name": "La Ya Sadiki",
+            "release_date": "1995-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d764966abdb9a37adb56a43e",
+            "track_url": "",
+            "id": 6521,
+            "artist": "Kadim Al Sahir"
+        },
+        {
+            "name": "Ya Rayeh Ila Lebnan",
+            "release_date": "1991-01-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735b76c67369da2ca4d28dc734",
+            "track_url": "",
+            "id": 6522,
+            "artist": "Kadim Al Sahir"
+        },
+        {
+            "name": "La Ya Sadiki",
+            "release_date": "1990-03-26",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b77a1f2ec820d33953ca4a8a",
+            "track_url": "",
+            "id": 6523,
+            "artist": "Kadim Al Sahir"
+        },
+        {
+            "name": "Sawt Al Ketar",
+            "release_date": "1990-03-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a0a1bdd8c7a53ffdfb585118",
+            "track_url": "",
+            "id": 6524,
+            "artist": "Kadim Al Sahir"
+        }
+    ],
+    "popular_tracks": [
+        {
+            "name": "Ha Habibi - Remastered 2000",
+            "track_url": "",
+            "duration_ms": 243200,
+            "image": "https://i.scdn.co/image/ab67616d0000b273748372f4b70fedef3022eadd",
+            "id": 6525,
+            "artist": "Kadim Al Sahir"
+        },
+        {
+            "name": "هل عندك شك",
+            "track_url": "",
+            "duration_ms": 566256,
+            "image": "https://i.scdn.co/image/ab67616d0000b2738fd6a8f39346211e1f8ddc45",
+            "id": 6526,
+            "artist": "Kadim Al Sahir"
+        },
+        {
+            "name": "المحكمة",
+            "track_url": "",
+            "duration_ms": 448417,
+            "image": "https://i.scdn.co/image/ab67616d0000b27323ccf573c2fb0a967ba01ac1",
+            "id": 6527,
+            "artist": "Kadim Al Sahir"
+        },
+        {
+            "name": "عيد العشاق",
+            "track_url": "",
+            "duration_ms": 424160,
+            "image": "https://i.scdn.co/image/ab67616d0000b273212db5c167e78aac54553d2e",
+            "id": 6528,
+            "artist": "Kadim Al Sahir"
+        },
+        {
+            "name": "زيديني عشقآ",
+            "track_url": "",
+            "duration_ms": 448826,
+            "image": "https://i.scdn.co/image/ab67616d0000b273b822b7d4f7da076f7a1aad43",
+            "id": 6529,
+            "artist": "Kadim Al Sahir"
+        },
+        {
+            "name": "كوني امرأة",
+            "track_url": "",
+            "duration_ms": 317266,
+            "image": "https://i.scdn.co/image/ab67616d0000b273212db5c167e78aac54553d2e",
+            "id": 6530,
+            "artist": "Kadim Al Sahir"
+        },
+        {
+            "name": "Ya Wafiya",
+            "track_url": "",
+            "duration_ms": 341187,
+            "image": "https://i.scdn.co/image/ab67616d0000b2733074caea4b4dc16437db7ee1",
+            "id": 6531,
+            "artist": "Kadim Al Sahir"
+        },
+        {
+            "name": "Dhomni Ala Sadrak - Remastered 2000",
+            "track_url": "",
+            "duration_ms": 249800,
+            "image": "https://i.scdn.co/image/ab67616d0000b273748372f4b70fedef3022eadd",
+            "id": 6532,
+            "artist": "Kadim Al Sahir"
+        },
+        {
+            "name": "ما احبك بعد",
+            "track_url": "",
+            "duration_ms": 193959,
+            "image": "https://i.scdn.co/image/ab67616d0000b2735f7f0a6b7988439b725ddc40",
+            "id": 6533,
+            "artist": "Kadim Al Sahir"
+        },
+        {
+            "name": "من كتاب الحب",
+            "track_url": "",
+            "duration_ms": 380293,
+            "image": "https://i.scdn.co/image/ab67616d0000b273212db5c167e78aac54553d2e",
+            "id": 6534,
+            "artist": "Kadim Al Sahir"
+        }
+    ]
+}

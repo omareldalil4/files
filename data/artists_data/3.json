@@ -1,0 +1,1449 @@
+{
+    "artist": {
+        "id": "856",
+        "name": "Nancy Ajram",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb329752085651d60c507a862a",
+        "background_image": "https://i.scdn.co/image/ab67616100005174329752085651d60c507a862a"
+    },
+    "albums": [
+        {
+            "name": "Nancy 10",
+            "release_date": "2021-07-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731c8f766ba8cfbd29747261a3",
+            "track_url": "https://open.spotify.com/album/3uqaoNAn5imRyAztEcb6Bb",
+            "tracks": [
+                {
+                    "name": "Salamat",
+                    "track_url": "https://www.dropbox.com/scl/fi/j6o9qw7u4issunbav7bd4/06-Salamat-MaTb3aa.Com.mp3?rlkey=qcxamh1lons92gzsjpcjgifbi&st=fnuoep9q&dl=1",
+                    "duration_ms": 180918,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731c8f766ba8cfbd29747261a3",
+                    "id": 915,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Baddi Hada Hebbou",
+                    "track_url": "https://www.dropbox.com/scl/fi/jocv559vfxcq948o62qz8/04-Baddi.Hada.Hebbou-MaTb3aa.Com.mp3?rlkey=ye8odm7xcjt73ucidap8plkhe&st=u3egghpd&dl=1",
+                    "duration_ms": 254441,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731c8f766ba8cfbd29747261a3",
+                    "id": 916,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Hobbak Bi Ye'wa",
+                    "track_url": "https://www.dropbox.com/scl/fi/6ox1hcms9wh7bylphvg5v/01-Hobbak.Bi.Ye2wa-MaTb3aa.Com.mp3?rlkey=ag8lji1lfet27ds4i0yvtxc9c&st=glwc46at&dl=1",
+                    "duration_ms": 234343,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731c8f766ba8cfbd29747261a3",
+                    "id": 917,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Meshkeltak Alwahidi",
+                    "track_url": "https://www.dropbox.com/scl/fi/y5efeesjswhuh1r26ipu8/02-Meshkeltak.Alwahidi-MaTb3aa.Com.mp3?rlkey=fe2p266vlhbw46mgxczllquve&st=9nv6r3wt&dl=1",
+                    "duration_ms": 202408,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731c8f766ba8cfbd29747261a3",
+                    "id": 918,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Hayda Ana",
+                    "track_url": "https://www.dropbox.com/scl/fi/rs01vx2h0f3p1nk82hnlr/05-Hayda.Ana-MaTb3aa.Com.mp3?rlkey=tgtnd8umra9lmv7wko2gd4m0h&st=et3sgkno&dl=1",
+                    "duration_ms": 205543,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731c8f766ba8cfbd29747261a3",
+                    "id": 919,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Gayya Maak",
+                    "track_url": "https://www.dropbox.com/scl/fi/0py0so8wfntzqhce2s50e/03-Gayya.Maak-MaTb3aa.Com.mp3?rlkey=xnsodnz9lcubk1slqox7rmez1&st=c2g2zbh9&dl=1",
+                    "duration_ms": 193039,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731c8f766ba8cfbd29747261a3",
+                    "id": 920,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Ya Nas Goulouli",
+                    "track_url": "https://www.dropbox.com/scl/fi/pos5gesfozudz9ski2mjt/07-Ya.Nas.Goulouli-MaTb3aa.Com.mp3?rlkey=oecldi93hmrjzgnb5zkr3xmnr&st=uycxs1wj&dl=1",
+                    "duration_ms": 196487,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731c8f766ba8cfbd29747261a3",
+                    "id": 921,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Ma Te'tezer",
+                    "track_url": "https://www.dropbox.com/scl/fi/xt92o64h1nc73mvc44iuv/08-Ma.Tetezer-MaTb3aa.Com.mp3?rlkey=e9y1w4omvrhubxv8j8pzc8xcp&st=5jzxyi6h&dl=1",
+                    "duration_ms": 208399,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731c8f766ba8cfbd29747261a3",
+                    "id": 922,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "على شانك (حبك سفاح)",
+                    "track_url": "https://www.dropbox.com/scl/fi/otbqr21ow1cnndddx5xbn/09-Aala.Shanak-MaTb3aa.Com.mp3?rlkey=eeztr6wbf0fmh6kz3y83batjz&st=32zekvhl&dl=1",
+                    "duration_ms": 194382,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731c8f766ba8cfbd29747261a3",
+                    "id": 923,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Miye w khamsin",
+                    "track_url": "https://www.dropbox.com/scl/fi/ee0cuns2005atoetvd1nn/10-Miye.w.Khamsin-MaTb3aa.Com.mp3?rlkey=4aopwun79i9vbl4ek9v51t8gm&st=v8k6kdvd&dl=1",
+                    "duration_ms": 174264,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731c8f766ba8cfbd29747261a3",
+                    "id": 924,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Yama",
+                    "track_url": "https://www.dropbox.com/scl/fi/k3nha30sscxd5hw9cs3zx/11-Yama-MaTb3aa.Com.mp3?rlkey=e7eddqa9l6scsnt0h070ky9ws&st=jakmnl3p&dl=1",
+                    "duration_ms": 248784,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731c8f766ba8cfbd29747261a3",
+                    "id": 925,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Hayat",
+                    "track_url": "https://www.dropbox.com/scl/fi/48agqzhckd0vp9yijb9tq/12-Hayat-MaTb3aa.Com.mp3?rlkey=hyexpwzhs0mi6lsesxoy4urs0&st=j47830rw&dl=1",
+                    "duration_ms": 190333,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731c8f766ba8cfbd29747261a3",
+                    "id": 926,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Hagat Khousousiya",
+                    "track_url": "https://www.dropbox.com/scl/fi/a9gn807i4m2fp0x2s26xn/13-Hagat.Khousousiya-MaTb3aa.Com.mp3?rlkey=680xwlfqjusajukah0ibo98jb&st=syv297ww&dl=1",
+                    "duration_ms": 206843,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731c8f766ba8cfbd29747261a3",
+                    "id": 927,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Aateb w Loum",
+                    "track_url": "https://www.dropbox.com/scl/fi/6plolgdb99qrnadr46f3v/14-Aateb.w.Loum-MaTb3aa.Com.mp3?rlkey=2wsop63bwgznqgwpwbqeml8k1&st=cn5xjemp&dl=1",
+                    "duration_ms": 231961,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731c8f766ba8cfbd29747261a3",
+                    "id": 928,
+                    "artist": "Nancy Ajram"
+                }
+            ],
+            "id": 914
+        },
+        {
+            "name": "Nancy 9 (Hassa Beek)",
+            "release_date": "2017-04-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b27321b860385b6951b952da0747",
+            "track_url": "https://open.spotify.com/album/3ZzJduvd3tDXhfQKcKxXyz",
+            "tracks": [
+                {
+                    "name": "Hassa Beek",
+                    "track_url": "https://www.dropbox.com/scl/fi/c4r57uim9tpz0f1b6vsly/01-7asa.Biak-MaTb3aa.Com.mp3?rlkey=o3yg50bjk39oh4106td3kejuy&st=trx441et&dl=1",
+                    "duration_ms": 226463,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27321b860385b6951b952da0747",
+                    "id": 930,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Helm El Banat",
+                    "track_url": "https://www.dropbox.com/scl/fi/f3gnp3rlouwmz6pnkmh4p/02-Helm.ElBanat-MaTb3aa.Com.mp3?rlkey=w1pvvpqmfp85uc506gdfl43jf&st=u4q5psj5&dl=1",
+                    "duration_ms": 221669,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27321b860385b6951b952da0747",
+                    "id": 931,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Khamsa Farfasha",
+                    "track_url": "https://www.dropbox.com/scl/fi/lcf1nmbgixyudkwpvvx24/05-Khamsa.Farfash-MaTb3aa.Com.mp3?rlkey=2eoqlcwv4a8tnnzy61jslhhf7&st=4eqvzdv4&dl=1",
+                    "duration_ms": 269199,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27321b860385b6951b952da0747",
+                    "id": 932,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Albi Biyes'al Einy",
+                    "track_url": "https://www.dropbox.com/scl/fi/4wdhww6wv3j9i3m335qym/08-Alby.BeYasal.3eeni-MaTb3aa.Com.mp3?rlkey=22mgmyl8qgkebjyrsi97bxuzl&st=fm8vryip&dl=1",
+                    "duration_ms": 255071,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27321b860385b6951b952da0747",
+                    "id": 933,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Kharab Byoot",
+                    "track_url": "https://www.dropbox.com/scl/fi/6b36cm93j5nx9szwntbob/14-5arab-Beuoat-MaTb3aa.Com.mp3?rlkey=5ngo9gvbgs9h9y6yi68ql1yg3&st=gqh3jvpx&dl=1",
+                    "duration_ms": 209385,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27321b860385b6951b952da0747",
+                    "id": 934,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "El Hob Zay El Watar",
+                    "track_url": "https://www.dropbox.com/scl/fi/0e87xvk2xo116rub22som/03-El7op.Zay.Elwart-MaTb3aa.Com.mp3?rlkey=p92kioan676yjn3rgnq8623aw&st=8afw9ltw&dl=1",
+                    "duration_ms": 263717,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27321b860385b6951b952da0747",
+                    "id": 935,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Keefak Bel Hob",
+                    "track_url": "https://www.dropbox.com/scl/fi/93q85tko41of2d9an1y2k/04-Kifak.Bel7op-MaTb3aa.Com.mp3?rlkey=b02z3mhdvchrow6yxzvs07ani&st=b3st32f9&dl=1",
+                    "duration_ms": 222169,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27321b860385b6951b952da0747",
+                    "id": 936,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "W Maak",
+                    "track_url": "https://www.dropbox.com/scl/fi/yzrahpb2t6x5ok0wjad2i/07-W.Ma3ak-MaTb3aa.Com.mp3?rlkey=7ijcwuv0gllalllfoidjrzgnz&st=3rfp8w4m&dl=1",
+                    "duration_ms": 221936,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27321b860385b6951b952da0747",
+                    "id": 937,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Mesh Enta",
+                    "track_url": "https://www.dropbox.com/scl/fi/34i2x1338ktnxhq6dj6gi/09-Msh.Anta-MaTb3aa.Com.mp3?rlkey=8tgbkuj9ntjrhaab0tiesbq8p&st=uhgbs11d&dl=1",
+                    "duration_ms": 216038,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27321b860385b6951b952da0747",
+                    "id": 938,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Zabbat W Khattat",
+                    "track_url": "https://www.dropbox.com/scl/fi/ltv4jvyshnhb33lpo2h7s/10-Zabbat.W.Khattat-MaTb3aa.Com.mp3?rlkey=xvfe7awygr88h5g30gmasirxt&st=r2hgbzyb&dl=1",
+                    "duration_ms": 197777,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27321b860385b6951b952da0747",
+                    "id": 939,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Bel Sodfa",
+                    "track_url": "https://www.dropbox.com/scl/fi/l8w19b8l02c2sgbkc913f/11-Bel.Sodfa-MaTb3aa.Com.mp3?rlkey=nmicl066utje3dpktyano2npi&st=bybq6fhe&dl=1",
+                    "duration_ms": 258258,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27321b860385b6951b952da0747",
+                    "id": 940,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Ayi Hob W Ayi Gheera",
+                    "track_url": "https://www.dropbox.com/scl/fi/bl35szg6qonhbu31u9dt4/12-Ayi.Hob.W.Ayi.Gheera-MaTb3aa.Com.mp3?rlkey=0ldlqm0bv211e89cv2ghnyig1&st=sxk43i1v&dl=1",
+                    "duration_ms": 276114,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27321b860385b6951b952da0747",
+                    "id": 941,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Aam Betaala' Feek",
+                    "track_url": "https://www.dropbox.com/scl/fi/bdhw0c5onke81dleyze08/13-Aam-Betaala-Feek-MaTb3aa.Com.mp3?rlkey=jqlewbkuxpyf4gbjwv8mg89w9&st=105z9cde&dl=1",
+                    "duration_ms": 219901,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27321b860385b6951b952da0747",
+                    "id": 942,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Rooh Ya Shater",
+                    "track_url": "https://www.dropbox.com/scl/fi/kw08rbc4b3ym0zzr097zt/06-Ro7.Ya.Sha2tr-MaTb3aa.Com.mp3?rlkey=79n8h5mwzjylcvf8qbni2uq15&st=9bft4mwt&dl=1",
+                    "duration_ms": 239854,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27321b860385b6951b952da0747",
+                    "id": 943,
+                    "artist": "Nancy Ajram"
+                }
+            ],
+            "id": 929
+        },
+        {
+            "name": "Betfakar Fi Eih",
+            "release_date": "2014-02-14",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ac3178572e5b6f9d5c38358c",
+            "track_url": "https://open.spotify.com/album/22zjh4LxrqFEjW273HFhow",
+            "tracks": [
+                {
+                    "name": "Betfakar Fi Eih",
+                    "track_url": "https://www.dropbox.com/scl/fi/j7fkg22uuuli53w7ury9y/01-Betfakar.Fi.Eih-MaTb3aa.Com.mp3?rlkey=32xc3km3xctavp7vx0200ol0b&st=8o6qqw86&dl=1",
+                    "duration_ms": 236266,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ac3178572e5b6f9d5c38358c",
+                    "id": 945,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Meen Dah Elly Nseik",
+                    "track_url": "https://www.dropbox.com/scl/fi/4xp27reghte62zx03d2eo/02-Meen.Da.Elly.Nesik-MaTb3aa.Com.mp3?rlkey=znpsbb795zfj2lg9i51di0nax&st=z9qtvtxl&dl=1",
+                    "duration_ms": 222826,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ac3178572e5b6f9d5c38358c",
+                    "id": 946,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Meen Gheiry Ana",
+                    "track_url": "https://www.dropbox.com/scl/fi/ea0deokbrksmpwebltepa/03-Men.Gheri.Ana-MaTb3aa.Com.mp3?rlkey=j7yko40v8r3cbt1bak6iak0sq&st=wiuhugn7&dl=1",
+                    "duration_ms": 247120,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ac3178572e5b6f9d5c38358c",
+                    "id": 947,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Safer",
+                    "track_url": "https://www.dropbox.com/scl/fi/ar1mk9ni2vyi6h12wnmss/04-Safer-Ana.Rohy.Maak-MaTb3aa.Com.mp3?rlkey=6bexr7xu5eki30z9042q7mxtx&st=qqc9gf30&dl=1",
+                    "duration_ms": 301426,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ac3178572e5b6f9d5c38358c",
+                    "id": 948,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Saharny Sahar",
+                    "track_url": "https://www.dropbox.com/scl/fi/mixylals3li7arb26z7dg/05-Saharni.Sahar-MaTb3aa.Com.mp3?rlkey=qrmqakiy2x318x7g0hlnskmnh&st=s1552wve&dl=1",
+                    "duration_ms": 232880,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ac3178572e5b6f9d5c38358c",
+                    "id": 949,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Baladeyat",
+                    "track_url": "https://www.dropbox.com/scl/fi/b8y79rgtqhfeprv5xrpe4/06-Baldeyat-Ana.Meno-MaTb3aa.Com.mp3?rlkey=apefj0k3g8ftbyuttcgcy819q&st=anyn7zoc&dl=1",
+                    "duration_ms": 270373,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ac3178572e5b6f9d5c38358c",
+                    "id": 950,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Zaman Kan Andy Alb",
+                    "track_url": "https://www.dropbox.com/scl/fi/wobwauy2yu64qyb8y96ba/07-Zaman.Kan.Andi.Alb-MaTb3aa.Com.mp3?rlkey=brxs8jfq7nag7inf5hol4ztuu&st=7d5mqbnd&dl=1",
+                    "duration_ms": 308720,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ac3178572e5b6f9d5c38358c",
+                    "id": 951,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Lamset Eid",
+                    "track_url": "https://www.dropbox.com/scl/fi/noxvrzgvmck5obw462pag/08-Lamsset.Eid-MaTb3aa.Com.mp3?rlkey=di3gy4iey9omllsjna4hgqyul&st=1rq9boaa&dl=1",
+                    "duration_ms": 235560,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ac3178572e5b6f9d5c38358c",
+                    "id": 952,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Leya Haq",
+                    "track_url": "https://www.dropbox.com/scl/fi/di1vihjeg2elq2debo60a/09-Leya.7a2-MaTb3aa.Com.mp3?rlkey=qvzcyih90fzlypgfogfi0u21g&st=nf7du19o&dl=1",
+                    "duration_ms": 240786,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ac3178572e5b6f9d5c38358c",
+                    "id": 953,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Ebn El Geran",
+                    "track_url": "https://www.dropbox.com/scl/fi/jq3w4382j4j8xubp3w289/10-Ebn.ElGeran-MaTb3aa.Com.mp3?rlkey=01ps794igemdssd0ejt25s60z&st=accdbjpa&dl=1",
+                    "duration_ms": 268080,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ac3178572e5b6f9d5c38358c",
+                    "id": 954,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Wana Ben Ideik",
+                    "track_url": "https://www.dropbox.com/scl/fi/3a986lyn69bbzbq4inr7p/11-Wana.Been.Edek-MaTb3aa.Com.mp3?rlkey=4i1ujhp2sv4e3n65buh8jbvrl&st=9mfan1f3&dl=1",
+                    "duration_ms": 210853,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ac3178572e5b6f9d5c38358c",
+                    "id": 955,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Khaffef Alaya",
+                    "track_url": "https://www.dropbox.com/scl/fi/h8p4lnylo3mxymxsurdu8/12-Khafef.3le-MaTb3aa.Com.mp3?rlkey=3k69i3z1ztij6xuklmfhrwavz&st=lo5qm33l&dl=1",
+                    "duration_ms": 238040,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ac3178572e5b6f9d5c38358c",
+                    "id": 956,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Mashy Haddy",
+                    "track_url": "https://www.dropbox.com/scl/fi/hcqeeka6gs1foa40jjamc/13-Mashy.Hadi-MaTb3aa.Com.mp3?rlkey=ozf9badbex5rkeak9v9m6hdgl&st=uc2ivxzl&dl=1",
+                    "duration_ms": 259026,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ac3178572e5b6f9d5c38358c",
+                    "id": 957,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Betegy Sertak",
+                    "track_url": "https://www.dropbox.com/scl/fi/r63pfwcg3q129qq4peop7/14-Betegy.Sertak-MaTb3aa.Com.mp3?rlkey=8tr985nvlpb1dk7buvwsn6ug0&st=l2m4or8d&dl=1",
+                    "duration_ms": 376360,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ac3178572e5b6f9d5c38358c",
+                    "id": 958,
+                    "artist": "Nancy Ajram"
+                }
+            ],
+            "id": 944
+        },
+        {
+            "name": "Nancy 8",
+            "release_date": "2014-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273cc04e5d1cc212b83e958410b",
+            "track_url": "https://open.spotify.com/album/4qnpLJsIGyGeVlCMYU2LsX",
+            "tracks": [
+                {
+                    "name": "Ma Tegi Hena - ما تيجي هنا",
+                    "track_url": "https://www.dropbox.com/scl/fi/uf0bhreuwnd5ewyveeuv1/01-Ma.Tegy.Hena-MaTb3aa.Com.mp3?rlkey=p9qepe6x13txuitlkcgg2nx88&st=18z9nr56&dl=1",
+                    "duration_ms": 253080,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cc04e5d1cc212b83e958410b",
+                    "id": 960,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Mouch Fara Ktir - مش فارقة كتير",
+                    "track_url": "https://www.dropbox.com/scl/fi/lgs7pzzftt6x0ippjosdc/02-Mosh.Far2a.Keter-MaTb3aa.Com.mp3?rlkey=rie3563m56mflddiuku0guxbo&st=8monhfhn&dl=1",
+                    "duration_ms": 302520,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cc04e5d1cc212b83e958410b",
+                    "id": 961,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Men El Yawm - من اليوم",
+                    "track_url": "https://www.dropbox.com/scl/fi/p2kmtfm4d52gmigov0ng2/.mp3?rlkey=fyv64jxzrvtqh4mxuefbz6th8&st=biw22ivp&dl=1",
+                    "duration_ms": 222266,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cc04e5d1cc212b83e958410b",
+                    "id": 962,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Yalla - يلا",
+                    "track_url": "https://www.dropbox.com/scl/fi/qfzp7to2cy9kl2a7h6b62/04-Yala-MaTb3aa.Com.mp3?rlkey=wk4cwda8wabbl3qrowkmg9b2b&st=ewct47n0&dl=1",
+                    "duration_ms": 235413,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cc04e5d1cc212b83e958410b",
+                    "id": 963,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Tisabeg El Rih - تسابق الريح",
+                    "track_url": "https://www.dropbox.com/scl/fi/64hn90znaxks66trr7ov0/05-Tsab2.ElReeh-MaTb3aa.Com.mp3?rlkey=rvopvesn4qnj69xqwsaj2itm1&st=303s1ioz&dl=1",
+                    "duration_ms": 203600,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cc04e5d1cc212b83e958410b",
+                    "id": 964,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Rahent Aleik - راهنت عليك",
+                    "track_url": "https://www.dropbox.com/scl/fi/3obrl5s05zo2x7dswhkht/06-Rahnt.3alik-MaTb3aa.Com.mp3?rlkey=r7jzg1u3asayaij0xa9rducbe&st=7kn512ib&dl=1",
+                    "duration_ms": 249200,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cc04e5d1cc212b83e958410b",
+                    "id": 965,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Shou Hal Ossa - شو هالقصة",
+                    "track_url": "https://www.dropbox.com/scl/fi/4yidm85fussspyoxmdgd2/07-Show.Ha.El-Qassa-MaTb3aa.Com.mp3?rlkey=g63q9x1rc2zi1389zxblvm3h2&st=8elapnrm&dl=1",
+                    "duration_ms": 260746,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cc04e5d1cc212b83e958410b",
+                    "id": 966,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Nam Bi Albi - نام بقلبي",
+                    "track_url": "https://www.dropbox.com/scl/fi/4mlke1w7l2psdd5bxkks9/08.Naam.Be.Alby-MaTb3aa.Com.mp3?rlkey=k1f6e2bh2myp87tmcjg2p2n22&st=zyragwd8&dl=1",
+                    "duration_ms": 240800,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cc04e5d1cc212b83e958410b",
+                    "id": 967,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Etnen Souhab - اتنين صحاب",
+                    "track_url": "https://www.dropbox.com/scl/fi/ol61dq445hmq5x4griuu1/09-Etnen.Eshab-MaTb3aa.Com.mp3?rlkey=3dgyjezemdlhryjnrozxguj6n&st=6ct6nlz7&dl=1",
+                    "duration_ms": 253466,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cc04e5d1cc212b83e958410b",
+                    "id": 968,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Ma Aw'edak Ma Ghir - ما أوعدك ما غير",
+                    "track_url": "https://www.dropbox.com/scl/fi/0m7xda443ltkm02dr8efm/10-Ma.Aw3dak-MaTb3aa.Com.mp3?rlkey=sbvy1gwv20cwz6kp17a2cq11b&st=znzvri9i&dl=1",
+                    "duration_ms": 287466,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cc04e5d1cc212b83e958410b",
+                    "id": 969,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "W Bkoun Jayi Wadeak - وبكون جايي ودّعك",
+                    "track_url": "https://www.dropbox.com/scl/fi/g8p9w94rtnh78khqjt8a5/11-We.Bakon.Gay.Awda3k-MaTb3aa.Com.mp3?rlkey=yzt41zjt8kkb6igvo9ifefrn0&st=yq2llnfc&dl=1",
+                    "duration_ms": 217240,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cc04e5d1cc212b83e958410b",
+                    "id": 970,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Ba'a Koli Da - بقى كل ده",
+                    "track_url": "https://www.dropbox.com/scl/fi/onirisko3f0zhwzdjzgc2/12-Ba2a.Kol.Da-MaTb3aa.Com.mp3?rlkey=a9obyv60zynekscjn45n9zaul&st=il784dmd&dl=1",
+                    "duration_ms": 235826,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cc04e5d1cc212b83e958410b",
+                    "id": 971,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Fakra Zaman - فاكرة زمان",
+                    "track_url": "https://www.dropbox.com/scl/fi/q8vex61lqoxmcfmfjrj2v/13-Fakra.Zaman-MaTb3aa.Com.mp3?rlkey=xexqj6k0nujopu2yknm07v2zq&st=8x5x4s40&dl=1",
+                    "duration_ms": 247773,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cc04e5d1cc212b83e958410b",
+                    "id": 972,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Ya Khayen - يا خاين",
+                    "track_url": "https://www.dropbox.com/scl/fi/6qdbot9g62v2inovt19oe/14-Ya.5ayen-MaTb3aa.Com.mp3?rlkey=g2muf4rm8usup3p8lahirq8wy&st=1k8s1uce&dl=1",
+                    "duration_ms": 216693,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cc04e5d1cc212b83e958410b",
+                    "id": 973,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Bel Raha - بالراحة",
+                    "track_url": "https://www.dropbox.com/scl/fi/wjpq6tsmifhsf1791m73r/15-Bel.Raha-MaTb3aa.Com.mp3?rlkey=8aaa15fw2zokvnlzzzftjpyvv&st=v8p1sbn0&dl=1",
+                    "duration_ms": 236600,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273cc04e5d1cc212b83e958410b",
+                    "id": 974,
+                    "artist": "Nancy Ajram"
+                }
+            ],
+            "id": 959
+        },
+        {
+            "name": "Super Nancy",
+            "release_date": "2012-09-13",
+            "image": "https://i.scdn.co/image/ab67616d0000b273912af2992febf8dc02fca070",
+            "track_url": "https://open.spotify.com/album/0d4Mg6zVIZUniP3PpelQAg",
+            "tracks": [
+                {
+                    "name": "Bo' Elkatkout",
+                    "track_url": "https://www.dropbox.com/scl/fi/ivfcudv11d3oivvrkw6bn/02-Bo2.ElKatkout-MaTb3aa.Com.mp3?rlkey=2lpwzoa8bgrwbefa0js2ifu4h&st=agljpeau&dl=1",
+                    "duration_ms": 193040,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273912af2992febf8dc02fca070",
+                    "id": 976,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Ya Banat",
+                    "track_url": "https://www.dropbox.com/scl/fi/cg3wku0fdgkzrqklu1tdb/01-Ya.Banat-MaTb3aa.Com.mp3?rlkey=ajd65af3mcy9xnzkzy2798mye&st=bx6mioyx&dl=1",
+                    "duration_ms": 190266,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273912af2992febf8dc02fca070",
+                    "id": 977,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Ba'ouse",
+                    "track_url": "https://www.dropbox.com/scl/fi/53imu7hhcwe1t99c8n85h/03-Baqosah-MaTb3aa.Com.mp3?rlkey=a49poraa5hpd5d0ceyx9227hs&st=5urxbvtn&dl=1",
+                    "duration_ms": 169760,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273912af2992febf8dc02fca070",
+                    "id": 978,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Sana Helwa",
+                    "track_url": "https://www.dropbox.com/scl/fi/jx6wb03z81ec851yb8vso/04-Sana.Helwa.Ya.Gamil-MaTb3aa.Com.mp3?rlkey=qvnmlpdtro4swchsvel22g845&st=2ld386k6&dl=1",
+                    "duration_ms": 240840,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273912af2992febf8dc02fca070",
+                    "id": 979,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Stohi",
+                    "track_url": "https://www.dropbox.com/scl/fi/20tbd7rp0gdcr0doa3p55/05-Sotouhy-MaTb3aa.Com.mp3?rlkey=j02jt40fkqirkwhicrdax618l&st=8hhbkhwo&dl=1",
+                    "duration_ms": 230866,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273912af2992febf8dc02fca070",
+                    "id": 980,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Oulou Hela",
+                    "track_url": "https://www.dropbox.com/scl/fi/ec83d73h65mkpzhgsamsw/07-Oulo.Hela-MaTb3aa.Com.mp3?rlkey=3wtgy26d6ujhv3jpn6lpfjf1j&st=z7bhyu95&dl=1",
+                    "duration_ms": 245600,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273912af2992febf8dc02fca070",
+                    "id": 981,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Wezz Aynak",
+                    "track_url": "https://www.dropbox.com/scl/fi/1j6lblkbf4tzjj62zsn2p/06-Wez-Einak-MaTb3aa.Com.mp3?rlkey=p2b105otmipvmvnen4wuzxe8u&st=fcwjdksq&dl=1",
+                    "duration_ms": 190320,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273912af2992febf8dc02fca070",
+                    "id": 982,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Adi Elbeida",
+                    "track_url": "https://www.dropbox.com/scl/fi/3os9h2xp9fktrlujj9tdx/08-Ady.ElBeida-MaTb3aa.Com.mp3?rlkey=9qj233lt3bkidymzit8khgvwx&st=zn1tk5xf&dl=1",
+                    "duration_ms": 212826,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273912af2992febf8dc02fca070",
+                    "id": 983,
+                    "artist": "Nancy Ajram"
+                }
+            ],
+            "id": 975
+        },
+        {
+            "name": "Nancy 7",
+            "release_date": "2010-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273236c4288dfb37bbfdf159ed6",
+            "track_url": "https://open.spotify.com/album/11wjLyox9zqa83zKltR2gP",
+            "tracks": [
+                {
+                    "name": "Eyni Aleyk",
+                    "track_url": "https://www.dropbox.com/scl/fi/m4w5dds8xp3lwe74a4qhf/01-3aini.3aleik-MaTb3aa.Com.mp3?rlkey=vh6lvngevwn3qtjxl3dx6zukv&st=1xhebg36&dl=1",
+                    "duration_ms": 268280,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273236c4288dfb37bbfdf159ed6",
+                    "id": 985,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "T'akharet Shway",
+                    "track_url": "https://www.dropbox.com/scl/fi/0oombcvrnjnxdhofidpyt/02-T2akhart.Shwai-MaTb3aa.Com.mp3?rlkey=okf9qqxdjcbdxhlhev6edl92t&st=0evla7qp&dl=1",
+                    "duration_ms": 259346,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273236c4288dfb37bbfdf159ed6",
+                    "id": 986,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Eyh Akhbar Nafseyitou",
+                    "track_url": "https://www.dropbox.com/scl/fi/7lyls8vd89jg80kicir21/03-Eh.Akhbar.Nafsyeto-MaTb3aa.Com.mp3?rlkey=v8o020clw3o2518q6jca0zd6p&st=8imid1pi&dl=1",
+                    "duration_ms": 215800,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273236c4288dfb37bbfdf159ed6",
+                    "id": 987,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Emta Hashoufak",
+                    "track_url": "https://www.dropbox.com/scl/fi/6zqtfdxb6fsp4iuw4iq8w/04-Emta.Hashofak-MaTb3aa.Com.mp3?rlkey=a9qbmhpxygqt6ve3l29l4z83k&st=tosaevc4&dl=1",
+                    "duration_ms": 236746,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273236c4288dfb37bbfdf159ed6",
+                    "id": 988,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Ya Kothor",
+                    "track_url": "https://www.dropbox.com/scl/fi/3znwm4n9b97r6p1yqhbnq/05-Ya.Kathar-MaTb3aa.Com.mp3?rlkey=gj63578jvh7m1lbrzo7oy10pv&st=bmqzhw7n&dl=1",
+                    "duration_ms": 309360,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273236c4288dfb37bbfdf159ed6",
+                    "id": 989,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Ok",
+                    "track_url": "https://www.dropbox.com/scl/fi/dhosorkayk0appriuvb7v/06-OK-MaTb3aa.Com.mp3?rlkey=8v6q41w8fgaqniggj14hbrvv2&st=3lcw7j3m&dl=1",
+                    "duration_ms": 207000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273236c4288dfb37bbfdf159ed6",
+                    "id": 990,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Fi Hagat",
+                    "track_url": "https://www.dropbox.com/scl/fi/fceue0a3nddhm55p114cy/07-Fe.7agat-MaTb3aa.Com.mp3?rlkey=pcfxn66gmwuskt9re5fcptbux&st=p7p35zdm&dl=1",
+                    "duration_ms": 266200,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273236c4288dfb37bbfdf159ed6",
+                    "id": 991,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Lessa Gaya A'oullou",
+                    "track_url": "https://www.dropbox.com/scl/fi/31e63saj49j4obzw34o4w/08-Lessa.Gaya.A2ollo-MaTb3aa.Com.mp3?rlkey=ce937x75o7zkxofq5o2c2tee8&st=8cprz52p&dl=1",
+                    "duration_ms": 246280,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273236c4288dfb37bbfdf159ed6",
+                    "id": 992,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Belhadawa",
+                    "track_url": "https://www.dropbox.com/scl/fi/6e4glm3vmftd2rtzcnb1x/09-Bel.Hadawa-MaTb3aa.Com.mp3?rlkey=q1to9gc43y4uzintlcvjvfz3m&st=uv9iz92z&dl=1",
+                    "duration_ms": 249253,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273236c4288dfb37bbfdf159ed6",
+                    "id": 993,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Min Elma Endou",
+                    "track_url": "https://www.dropbox.com/scl/fi/kr5bk3yypngflr1azs3p9/10-Meen.Ma.3ando-MaTb3aa.Com.mp3?rlkey=r3qte0s25tt9cm5i04pk1iz83&st=03rejzis&dl=1",
+                    "duration_ms": 254920,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273236c4288dfb37bbfdf159ed6",
+                    "id": 994,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Eyh Elli Garali",
+                    "track_url": "https://www.dropbox.com/scl/fi/8bga3ruad0b2c0ycyo4gs/11-Eh.Elli.Garali-MaTb3aa.Com.mp3?rlkey=pxx4rnrisc271pox5whp4m51t&st=u54fv8q8&dl=1",
+                    "duration_ms": 262720,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273236c4288dfb37bbfdf159ed6",
+                    "id": 995,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Kol Ma Teddi",
+                    "track_url": "https://www.dropbox.com/scl/fi/gmhfqx62nmmzempgkjcli/12-Kol.Ma.Teddi-MaTb3aa.Com.mp3?rlkey=pmffkvo5kfow45ff17mvof8h1&st=wr1fidzm&dl=1",
+                    "duration_ms": 281506,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273236c4288dfb37bbfdf159ed6",
+                    "id": 996,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Assaad Allah Missak",
+                    "track_url": "https://www.dropbox.com/scl/fi/hek0stfe121qn29odwitp/13-As3ad.Allah.Mesak-MaTb3aa.Com.mp3?rlkey=rg8fmvab3p8i665t85pav0kpd&st=bltjg309&dl=1",
+                    "duration_ms": 215826,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273236c4288dfb37bbfdf159ed6",
+                    "id": 997,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Sheikh El Shabab",
+                    "track_url": "https://www.dropbox.com/scl/fi/6trmx3ybrb9a9zyhlerry/14-Sheikh.ElShabab-MaTb3aa.Com.mp3?rlkey=v5kmssa9wq3ymivin2g0vn3tl&st=gj0vkw0k&dl=1",
+                    "duration_ms": 200266,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273236c4288dfb37bbfdf159ed6",
+                    "id": 998,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Bayaa W Shater",
+                    "track_url": "https://www.dropbox.com/scl/fi/e2avuisqtkbimrh03gyax/15-Baya3.W.Shater-MaTb3aa.Com.mp3?rlkey=xylig3lnndh1pwijbdu3e3e25&st=mdu2pzah&dl=1",
+                    "duration_ms": 261146,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273236c4288dfb37bbfdf159ed6",
+                    "id": 999,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Hkayat El Deni",
+                    "track_url": "https://www.dropbox.com/scl/fi/wvoavyrw4ez3lbadkvz48/16-7ekayat.ElDonia-MaTb3aa.Com.mp3?rlkey=po00a8h9l1id4ls69z7509q90&st=gzyxr2qg&dl=1",
+                    "duration_ms": 267400,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273236c4288dfb37bbfdf159ed6",
+                    "id": 1000,
+                    "artist": "Nancy Ajram"
+                }
+            ],
+            "id": 984
+        },
+        {
+            "name": "Shakhbat Shakhabit",
+            "release_date": "2007-06-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733e87e9d8f219e79012d1d17a",
+            "track_url": "https://open.spotify.com/album/1NrLLmEX7iTSIayKR9621h",
+            "tracks": [
+                {
+                    "name": "Shakhbat Shakhabit",
+                    "track_url": "https://www.dropbox.com/scl/fi/zzcux6g4ylmifzzi7lw20/01-Shakhbat.Shakhabeet-MaTb3aa.Com.mp3?rlkey=uav69a8k5y9b3tr7jjmhz13bc&st=df3y229z&dl=1",
+                    "duration_ms": 212760,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733e87e9d8f219e79012d1d17a",
+                    "id": 1002,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Kart Shahn",
+                    "track_url": "https://www.dropbox.com/scl/fi/to4jr61f9zgjllwoadz8z/02-Kart.Shahn-MaTb3aa.Com.mp3?rlkey=af48jkejrezbqopyb0qmsucc1&st=hej74puw&dl=1",
+                    "duration_ms": 273133,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733e87e9d8f219e79012d1d17a",
+                    "id": 1003,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Katkouta",
+                    "track_url": "https://www.dropbox.com/scl/fi/iyte7ee3a1353aiy87x7s/03-Katkouta-MaTb3aa.Com.mp3?rlkey=09360r9680xau971rlo8hwa96&st=3xnpa85w&dl=1",
+                    "duration_ms": 204680,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733e87e9d8f219e79012d1d17a",
+                    "id": 1004,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Risala Lel Aalam",
+                    "track_url": "https://www.dropbox.com/scl/fi/kw1our551x6qsb12ut3bw/04-Resala.Lel.Aalam-MaTb3aa.Com.mp3?rlkey=897vkof87nbl9crk4pekjg075&st=4oqousjo&dl=1",
+                    "duration_ms": 229173,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733e87e9d8f219e79012d1d17a",
+                    "id": 1005,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Shater",
+                    "track_url": "https://www.dropbox.com/scl/fi/qcze45quus49wh7s5yl6w/05-Shater-MaTb3aa.Com.mp3?rlkey=pdekpgc6p9g2mabbg305ltc1v&st=c0dt1t9h&dl=1",
+                    "duration_ms": 188200,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733e87e9d8f219e79012d1d17a",
+                    "id": 1006,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Eid Milad",
+                    "track_url": "https://www.dropbox.com/scl/fi/rc7diei3rxw7763s6npbc/06-Eid.Milad-MaTb3aa.Com.mp3?rlkey=109rbfe4x52jy0qny9dvhychy&st=o6npe5ey&dl=1",
+                    "duration_ms": 248720,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733e87e9d8f219e79012d1d17a",
+                    "id": 1007,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Kollena",
+                    "track_url": "https://www.dropbox.com/scl/fi/f6agmncxkror8wjrm9py3/07-Kolena-MaTb3aa.Com.mp3?rlkey=03rdxmsuygmj1qgiohanclpos&st=lafloi71&dl=1",
+                    "duration_ms": 237026,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733e87e9d8f219e79012d1d17a",
+                    "id": 1008,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Osfour El Nounou",
+                    "track_url": "https://www.dropbox.com/scl/fi/k1j0gmdyxt5g0c6nammmz/08-Asfoury.ElNono-MaTb3aa.Com.mp3?rlkey=yvijly6hz41tdnkrzxdkexcqh&st=1v2unit9&dl=1",
+                    "duration_ms": 225720,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733e87e9d8f219e79012d1d17a",
+                    "id": 1009,
+                    "artist": "Nancy Ajram"
+                }
+            ],
+            "id": 1001
+        },
+        {
+            "name": "Ya Tabtab",
+            "release_date": "2006-12-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273524c4540b3f4df756712e8be",
+            "track_url": "https://open.spotify.com/album/1EUOmPNn2Fw6dwsjxKLFmC",
+            "tracks": [
+                {
+                    "name": "Ya Tabtab Wa Dallaa",
+                    "track_url": "https://www.dropbox.com/scl/fi/sq9pn2g1c3aq076wyl5s7/01-Ya.Tabtab-MaTb3aa.Com.mp3?rlkey=8wdiv5x2a5luk5tcuch959ydi&st=goillh34&dl=1",
+                    "duration_ms": 262240,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273524c4540b3f4df756712e8be",
+                    "id": 1011,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Ehsas Jdid",
+                    "track_url": "https://www.dropbox.com/scl/fi/zcu7ytq49ajrgl2udq2or/02-Ehsas.jdid-MaTb3aa.Com.mp3?rlkey=uc7ezquz6fobkz5gpf868jvr9&st=lr7639nm&dl=1",
+                    "duration_ms": 270813,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273524c4540b3f4df756712e8be",
+                    "id": 1012,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Mogabah",
+                    "track_url": "https://www.dropbox.com/scl/fi/uecnh47jvfxbczv3ehemj/03-Moegaba-MaTb3aa.Com.mp3?rlkey=baom7f0wrdlvfz7x20cl58e7z&st=c6wlv7io&dl=1",
+                    "duration_ms": 217813,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273524c4540b3f4df756712e8be",
+                    "id": 1013,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Moshtaga Leik",
+                    "track_url": "https://www.dropbox.com/scl/fi/jqrpc5lsduoh2va5qjsgt/04-Moushtaka.Lik-MaTb3aa.Com.mp3?rlkey=6076zqrykszj5gy5ntlh0v71r&st=yq5zmjkf&dl=1",
+                    "duration_ms": 267400,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273524c4540b3f4df756712e8be",
+                    "id": 1014,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Ana Yalli Bhebbak",
+                    "track_url": "https://www.dropbox.com/scl/fi/6od5s7w1vsx9tytyuucnq/05-Ana.Yalli.Bahebbak-MaTb3aa.Com.mp3?rlkey=ofgzzrur3xymi67lzc8zd2irv&st=i1cc5ghq&dl=1",
+                    "duration_ms": 208373,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273524c4540b3f4df756712e8be",
+                    "id": 1015,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Ashteky Menno",
+                    "track_url": "https://www.dropbox.com/scl/fi/7b3vqx0rpqxdjwlzmsw8g/06-Astiki.Menno-MaTb3aa.Com.mp3?rlkey=wzc66nbvwfvxhv6o782ue7ua0&st=xmu9igwu&dl=1",
+                    "duration_ms": 204746,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273524c4540b3f4df756712e8be",
+                    "id": 1016,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Oul Hansaki",
+                    "track_url": "https://www.dropbox.com/scl/fi/0zlt520y9jmssqq0g2omb/07-Oul.Hansaki-MaTb3aa.Com.mp3?rlkey=2r1wbsc89mrs6lhw3y1k1ovl0&st=kk8ni29e&dl=1",
+                    "duration_ms": 354213,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273524c4540b3f4df756712e8be",
+                    "id": 1017,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Elly Kan",
+                    "track_url": "https://www.dropbox.com/scl/fi/i1s21wqbd3ppx2w9njyh9/08-Elli.Kan-MaTb3aa.Com.mp3?rlkey=5g0sz268zs9hr4yzj4ms6jqih&st=io47ou5t&dl=1",
+                    "duration_ms": 272186,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273524c4540b3f4df756712e8be",
+                    "id": 1018,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Yassi El Sayed",
+                    "track_url": "https://www.dropbox.com/scl/fi/qlzq4gbuotkm0eet3gdvr/09-Ya.Si.Elsayed-MaTb3aa.Com.mp3?rlkey=a9kedyq4l10x3ukvbwujeu7x5&st=ydvqtz0t&dl=1",
+                    "duration_ms": 260346,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273524c4540b3f4df756712e8be",
+                    "id": 1019,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Sabrak Alaya",
+                    "track_url": "https://www.dropbox.com/scl/fi/90032twbtl4i2vupdsf8b/10-Sabrak.Alaya-MaTb3aa.Com.mp3?rlkey=1ew5t4uybt2brdlr1hpow2jv0&st=ad1wlbz5&dl=1",
+                    "duration_ms": 292093,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273524c4540b3f4df756712e8be",
+                    "id": 1020,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Law Dallalouny",
+                    "track_url": "https://www.dropbox.com/scl/fi/9kvhoi2ynng04tjb7m85u/11-Law.Dallalouni-MaTb3aa.Com.mp3?rlkey=s3s9kjx0wr37ctyx3tk6fymac&st=cactn2hn&dl=1",
+                    "duration_ms": 272613,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273524c4540b3f4df756712e8be",
+                    "id": 1021,
+                    "artist": "Nancy Ajram"
+                }
+            ],
+            "id": 1010
+        },
+        {
+            "name": "Ah W Noss",
+            "release_date": "2004-04-14",
+            "image": "https://i.scdn.co/image/ab67616d0000b27370cc5db6d9df5534b4d84602",
+            "track_url": "https://open.spotify.com/album/7swKpd6fuKyi25OzEHtq8Q",
+            "tracks": [
+                {
+                    "name": "Ah W Noss",
+                    "track_url": "https://www.dropbox.com/scl/fi/v7g3t53zezbt7m0boumey/01._Ah_we_Noss.mp3?rlkey=c5qxvper1asfp1z03w4w4w4lg&st=7spzb8q4&dl=1",
+                    "duration_ms": 281836,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27370cc5db6d9df5534b4d84602",
+                    "id": 1023,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Ana Leyh",
+                    "track_url": "https://www.dropbox.com/scl/fi/gv35tablebj22p5nzzk77/02._Ana_Leyh.mp3?rlkey=cgdcwv57anvr7yvx19hbo3x45&st=ipyyi3io&dl=1",
+                    "duration_ms": 329588,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27370cc5db6d9df5534b4d84602",
+                    "id": 1024,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Enta Eih",
+                    "track_url": "https://www.dropbox.com/scl/fi/8br9sf2n79549v4anmmkz/03._Enta_Eh.mp3?rlkey=zpg2eh715fisu0ajmf18qo7ds&st=gpknmjw8&dl=1",
+                    "duration_ms": 305372,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27370cc5db6d9df5534b4d84602",
+                    "id": 1025,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Sana Wara Sana",
+                    "track_url": "https://www.dropbox.com/scl/fi/l5bgxwnbyta06sauh7qfw/04._Sana_Wara_Sana.mp3?rlkey=inpr10lutfni9nt09klxpne4j&st=x22h6d6s&dl=1",
+                    "duration_ms": 275984,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27370cc5db6d9df5534b4d84602",
+                    "id": 1026,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Lawn Oyounak",
+                    "track_url": "https://www.dropbox.com/scl/fi/89487rnjlqzqu14w7fjnj/05._Lawn_3yonak.mp3?rlkey=bvga2vd3q5khfaxrnfcz499wr&st=nuwp0dap&dl=1",
+                    "duration_ms": 237114,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27370cc5db6d9df5534b4d84602",
+                    "id": 1027,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Baddalaa Aleyk",
+                    "track_url": "https://www.dropbox.com/scl/fi/5oe377p20813otn4gctyg/06._Raddalaa_Aleyk.mp3?rlkey=a4cigvhx3pl62w7vct9sb6zi4&st=hl7bcd2u&dl=1",
+                    "duration_ms": 275357,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27370cc5db6d9df5534b4d84602",
+                    "id": 1028,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Taala Ya",
+                    "track_url": "https://www.dropbox.com/scl/fi/0fxz2p353da0daj29n4kq/07._Ta3ala_Ya.mp3?rlkey=4ow2urjza928irpowbv8q01wt&st=47uyxvei&dl=1",
+                    "duration_ms": 288863,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27370cc5db6d9df5534b4d84602",
+                    "id": 1029,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Gayen Youaololi",
+                    "track_url": "https://www.dropbox.com/scl/fi/5h53k9jk39bt5z5ihzeqn/08._Gayen_You2ololi.mp3?rlkey=nub6xxvcaqbirulrtiburqgms&st=y7q5cz5l&dl=1",
+                    "duration_ms": 323710,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27370cc5db6d9df5534b4d84602",
+                    "id": 1030,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Hobbak Liya",
+                    "track_url": "https://www.dropbox.com/scl/fi/u3gzfse3ixbfuiszwugfk/09._Hobbak_Liya.mp3?rlkey=70h218wgjb89xrfqj53fwm1yz&st=7gv6yuj1&dl=1",
+                    "duration_ms": 318015,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27370cc5db6d9df5534b4d84602",
+                    "id": 1031,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "La Telom",
+                    "track_url": "https://www.dropbox.com/scl/fi/othg1h0jxkm5merzvapaa/10._La_Telom.mp3?rlkey=3saosl6ztaqmqeqds94ln9gio&st=vsznldby&dl=1",
+                    "duration_ms": 308402,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27370cc5db6d9df5534b4d84602",
+                    "id": 1032,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Ool Tani Keda",
+                    "track_url": "https://www.dropbox.com/scl/fi/6axi2k2xeejmpp3sas5cd/11._Ool_Tani_Keda.mp3?rlkey=tti0it1amsi8x063ph0c0snw9&st=80khsmiz&dl=1",
+                    "duration_ms": 247432,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27370cc5db6d9df5534b4d84602",
+                    "id": 1033,
+                    "artist": "Nancy Ajram"
+                }
+            ],
+            "id": 1022
+        },
+        {
+            "name": "Sheel Oyoonak Anni",
+            "release_date": "2001-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27334d57b27df53521522de1269",
+            "track_url": "https://open.spotify.com/album/14ebzB4fjBhQzvH13qL3LV",
+            "tracks": [
+                {
+                    "name": "Ananiyah",
+                    "track_url": "https://www.dropbox.com/scl/fi/s417dpj5siz336wg2ssed/01.Ananiyah.mp3?rlkey=wedrn8bdmqpj2v3pojmgszc37&st=rwsze6zf&dl=1",
+                    "duration_ms": 277026,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27334d57b27df53521522de1269",
+                    "id": 1035,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Moktanaa Heyk",
+                    "track_url": "https://www.dropbox.com/scl/fi/fn0zapw6kfcctt0qdz1vo/02.Moktan3a_Hek.mp3?rlkey=3tjgj9hv84fezv3kpw1w5a79b&st=849p4p3m&dl=1",
+                    "duration_ms": 264026,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27334d57b27df53521522de1269",
+                    "id": 1036,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Sheel Oyounak Anni",
+                    "track_url": "https://www.dropbox.com/scl/fi/zjovi4b0swb3xjgd71nb9/03.Sheel_Oyunak_Any.mp3?rlkey=roqty4dwt3cqg2g6w4a6ngi12&st=8zpq58u7&dl=1",
+                    "duration_ms": 325920,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27334d57b27df53521522de1269",
+                    "id": 1037,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Kan Omri Ashra",
+                    "track_url": "https://www.dropbox.com/scl/fi/ao8m356dahsy3ixkrw6no/04.Kan_3omry_Ashra.mp3?rlkey=8btp8nhqw6ubaf65q0uamtjm2&st=qdf40icf&dl=1",
+                    "duration_ms": 257240,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27334d57b27df53521522de1269",
+                    "id": 1038,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Am Byesal Albi",
+                    "track_url": "https://www.dropbox.com/scl/fi/l05l9oz7s51rcf593g07f/05.3m_Bys2l_Alby.mp3?rlkey=0nqxvp6iaiy3q93958aq83mj1&st=rx34nlu5&dl=1",
+                    "duration_ms": 269226,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27334d57b27df53521522de1269",
+                    "id": 1039,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Al Yady",
+                    "track_url": "https://www.dropbox.com/scl/fi/16szn5mei87imcldfxnf4/06.3al_Ayade.mp3?rlkey=cu7e6x4fw2wn5vh4iyjn9hh4j&st=7svlq316&dl=1",
+                    "duration_ms": 278880,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27334d57b27df53521522de1269",
+                    "id": 1040,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Rah Ellak Keef",
+                    "track_url": "https://www.dropbox.com/scl/fi/zqlju18d5rkv53q9ntm59/07.Ra7_Elak_Keef.mp3?rlkey=iu4fk4e6kwxp4pro7qooum0py&st=v584oth7&dl=1",
+                    "duration_ms": 326226,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27334d57b27df53521522de1269",
+                    "id": 1041,
+                    "artist": "Nancy Ajram"
+                }
+            ],
+            "id": 1034
+        },
+        {
+            "name": "Mihtagalak",
+            "release_date": "1998-03-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738b568aa3cedfa4abd755ed00",
+            "track_url": "https://open.spotify.com/album/4b6oKkNPcUHJJfWLKKDb8a",
+            "tracks": [
+                {
+                    "name": "Mihtagalak",
+                    "track_url": "https://www.dropbox.com/scl/fi/miu8vmnyth6z7iwyfkzu3/01.Me7tagalak.mp3?rlkey=dyr8dqh4mf4bnje0irpwchnb7&st=uzp994kb&dl=1",
+                    "duration_ms": 353506,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738b568aa3cedfa4abd755ed00",
+                    "id": 1043,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Moudhesh",
+                    "track_url": "https://www.dropbox.com/scl/fi/559rse7yk1v47oejj6j05/02.Modhesh.mp3?rlkey=3tsgjcuwdg0hc532513ncnch7&st=q9yyqi5u&dl=1",
+                    "duration_ms": 275666,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738b568aa3cedfa4abd755ed00",
+                    "id": 1044,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Ana Aam Faker Feek",
+                    "track_url": "https://www.dropbox.com/scl/fi/nzv5q3k05ra3vd1rfv17t/03.Ana_3m_Faker_Feek.mp3?rlkey=q5qvj14wvosnalwj8mhhns1m7&st=q0aoydsu&dl=1",
+                    "duration_ms": 323666,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738b568aa3cedfa4abd755ed00",
+                    "id": 1045,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Akid Ya Hayati Aktar",
+                    "track_url": "https://www.dropbox.com/scl/fi/22bifhuiaqqw1vmlin69e/04.Ya_7ayati_Aktar.mp3?rlkey=qcww4t36be18ovme0z2xsbn61&st=9emrjzy6&dl=1",
+                    "duration_ms": 387866,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738b568aa3cedfa4abd755ed00",
+                    "id": 1046,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Awal Sahra",
+                    "track_url": "https://www.dropbox.com/scl/fi/7bl4y4rxr1ojsi8xjc3r4/05.Awal_Sahra.mp3?rlkey=vh20j4ou0475z2zme42pi013d&st=l2r226k9&dl=1",
+                    "duration_ms": 298133,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738b568aa3cedfa4abd755ed00",
+                    "id": 1047,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Al Hob Teir",
+                    "track_url": "https://www.dropbox.com/scl/fi/qbmaxku1htj8mptkp9trz/06.El_7ob_Ter.mp3?rlkey=buuapeh3dfunmbztwrardjpnn&st=oc85loea&dl=1",
+                    "duration_ms": 360560,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738b568aa3cedfa4abd755ed00",
+                    "id": 1048,
+                    "artist": "Nancy Ajram"
+                },
+                {
+                    "name": "Ya Wad Ya Tkeel",
+                    "track_url": "https://www.dropbox.com/scl/fi/j4tikpwc282fo4edjka2v/07.Ya_Wad_Ya_Teel.mp3?rlkey=oa47x11uyr9fzkxywk57tos02&st=865bjj9b&dl=1",
+                    "duration_ms": 299173,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2738b568aa3cedfa4abd755ed00",
+                    "id": 1049,
+                    "artist": "Nancy Ajram"
+                }
+            ],
+            "id": 1042
+        }
+    ],
+    "singles": [
+        {
+            "name": "Men Nazra",
+            "release_date": "2024-07-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739c1faef07b7bba2fbbfa0f7d",
+            "track_url": "https://www.dropbox.com/scl/fi/dk4cjr69wonpr394s7qgl/.mp3?rlkey=plal9c8u55pap7rrxgi5ni1wt&st=zjs6aubc&dl=1",
+            "id": 1051,
+            "artist": "Nancy Ajram"
+        },
+        {
+            "name": "مقسوم",
+            "release_date": "2024-01-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b27354c40ca263c1f7d8a3ef847f",
+            "track_url": "https://www.dropbox.com/scl/fi/ub35x8c51h46sabhrwqtk/.mp3?rlkey=un2n0ffg2pc4da6uev8eu10im&st=l9iut6gs&dl=1",
+            "id": 1054,
+            "artist": "Nancy Ajram"
+        },
+        {
+            "name": "قلبي يا محتاس",
+            "release_date": "2024-01-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730d495838269775585da29400",
+            "track_url": "https://www.dropbox.com/scl/fi/47yo6cwazy20itwx34dkn/.mp3?rlkey=rjapo5jkhib4esrx95sa2a30h&st=hengrx2q&dl=1",
+            "id": 1055,
+            "artist": "Nancy Ajram"
+        },
+        {
+            "name": "Tegy Nenbeset",
+            "release_date": "2023-08-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b27375773695865d6f74c56abf5b",
+            "track_url": "https://www.dropbox.com/scl/fi/uaayptdv6ar2mupiphjm4/.mp3?rlkey=cqf0ahpvy5rhoi9pk58h80q39&st=4knog1g4&dl=1",
+            "id": 1059,
+            "artist": "Nancy Ajram"
+        },
+        {
+            "name": "إتفضل عندنا",
+            "release_date": "2023-05-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b27301e8ff9797c0c976611db93a",
+            "track_url": "https://www.dropbox.com/scl/fi/k9m359o1wadg8orng8oee/.mp3?rlkey=6utm8mumsqb0xavufyowo9qet&st=rc0bikc9&dl=1",
+            "id": 1060,
+            "artist": "Nancy Ajram"
+        },
+        {
+            "name": "آخر إصدار",
+            "release_date": "2023-05-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f73d80ffc153960902db2d60",
+            "track_url": "https://www.dropbox.com/scl/fi/qlue3joe8gzn97916nyah/.mp3?rlkey=q5olo4wk7aqf5wob1ngywu19z&st=tzj24ftl&dl=1",
+            "id": 1061,
+            "artist": "Nancy Ajram"
+        },
+        {
+            "name": "يا عيد",
+            "release_date": "2022-12-13",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f1e173ca49ff53488051730a",
+            "track_url": "https://www.dropbox.com/scl/fi/bnd6bdzq95s6qzyhmd6o2/.mp3?rlkey=ehadtwszgqz6zo83hwtjzur8z&st=daympwe5&dl=1",
+            "id": 1062,
+            "artist": "Nancy Ajram"
+        },
+        {
+            "name": "Sah Sah",
+            "release_date": "2022-07-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b273be4d2292041d770905f8972d",
+            "track_url": "https://www.dropbox.com/scl/fi/6q1fbgv8ngjwuxethaes3/.mp3.crdownload?rlkey=g20s14oofc5d5x5jzj4j1pyh3&st=tp3p455j&dl=1",
+            "id": 1064,
+            "artist": "Nancy Ajram"
+        },
+        {
+            "name": "ياساتر (تتر مسلسل يوتيرن)",
+            "release_date": "2022-03-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f290f48a3c69754c24f4fc31",
+            "track_url": "https://www.dropbox.com/scl/fi/llrljtt791kg63ewnkqwv/.mp3.crdownload?rlkey=e4qcs0he6fy0kl5lndm4chbjf&st=pofzvyoo&dl=1",
+            "id": 1066,
+            "artist": "Nancy Ajram"
+        },
+        {
+            "name": "Amar Lekol Al Nass",
+            "release_date": "2022-01-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b27379f028ea8f922ae73e0f2b88",
+            "track_url": "",
+            "id": 1068,
+            "artist": "Nancy Ajram"
+        },
+        {
+            "name": "Baddi Hada Hebbou",
+            "release_date": "2021-07-02",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731f52d7a2aec89c9310a06853",
+            "track_url": "",
+            "id": 1069,
+            "artist": "Nancy Ajram"
+        },
+        {
+            "name": "Gayya Maak",
+            "track_url": "https://www.dropbox.com/scl/fi/0py0so8wfntzqhce2s50e/03-Gayya.Maak-MaTb3aa.Com.mp3?rlkey=xnsodnz9lcubk1slqox7rmez1&st=c2g2zbh9&dl=1",
+            "duration_ms": 193039,
+            "image": "https://i.scdn.co/image/ab67616d0000b2731c8f766ba8cfbd29747261a3",
+            "id": 920,
+            "artist": "Nancy Ajram"
+        },
+        {
+            "name": "Meshkeltak Alwahidi",
+            "track_url": "https://www.dropbox.com/scl/fi/y5efeesjswhuh1r26ipu8/02-Meshkeltak.Alwahidi-MaTb3aa.Com.mp3?rlkey=fe2p266vlhbw46mgxczllquve&st=9nv6r3wt&dl=1",
+            "duration_ms": 202408,
+            "image": "https://i.scdn.co/image/ab67616d0000b2731c8f766ba8cfbd29747261a3",
+            "id": 918,
+            "artist": "Nancy Ajram"
+        },
+        {
+            "name": "Hobbak Bi Ye'wa",
+            "track_url": "https://www.dropbox.com/scl/fi/6ox1hcms9wh7bylphvg5v/01-Hobbak.Bi.Ye2wa-MaTb3aa.Com.mp3?rlkey=ag8lji1lfet27ds4i0yvtxc9c&st=glwc46at&dl=1",
+            "duration_ms": 234343,
+            "image": "https://i.scdn.co/image/ab67616d0000b2731c8f766ba8cfbd29747261a3",
+            "id": 917,
+            "artist": "Nancy Ajram"
+        },
+        {
+            "name": "Emmi",
+            "release_date": "2021-03-16",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739213bf22416099579b2c1a85",
+            "track_url": "https://www.dropbox.com/scl/fi/i2ubnkiqrt3ndhuan11u5/.mp3?rlkey=lnc4wzkbm7nabu2gfvdv80xp9&st=uyxyh10f&dl=1",
+            "id": 1073,
+            "artist": "Nancy Ajram"
+        },
+        {
+            "name": "El Omr",
+            "release_date": "2020-04-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b273bc4305fde163ae6bd010717a",
+            "track_url": "https://www.dropbox.com/scl/fi/mxpoj7qu4vq0aqkmlrk5a/.mp3?rlkey=6fr1jx6jw42s4c0uvwso5p70u&st=bpnbr8ac&dl=1",
+            "id": 1078,
+            "artist": "Nancy Ajram"
+        },
+        {
+            "name": "Albi Ya Albi",
+            "release_date": "2020-01-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739e7d30df02b301c12516ca65",
+            "track_url": "https://www.dropbox.com/scl/fi/ldu265flafaquambtztlr/.mp3?rlkey=ig8p6tf0n99vnng1g54qg8x29&st=upi4xhec&dl=1",
+            "id": 1079,
+            "artist": "Nancy Ajram"
+        },
+        {
+            "name": "Ragel Ebn Ragel",
+            "release_date": "2019-04-12",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736fecf126f1f4d68ca4f05c69",
+            "track_url": "https://www.dropbox.com/scl/fi/rqxmow3ykzjr1zab3wp36/.mp3?rlkey=opjefglvv8mrjim0fdnoyz3vj&st=8lwuxxac&dl=1",
+            "id": 1080,
+            "artist": "Nancy Ajram"
+        },
+        {
+            "name": "LYA",
+            "release_date": "2019-02-05",
+            "image": "https://i.scdn.co/image/ab67616d0000b27325649b6427892f39f3a15cb2",
+            "track_url": "https://www.dropbox.com/scl/fi/gsqgkrg3nu7etnj9qvuj6/.mp3?rlkey=of42z09i4as50j0xwm8maw9vc&st=b3zczrcy&dl=1",
+            "id": 1081,
+            "artist": "Nancy Ajram"
+        },
+        {
+            "name": "Badna Nwalee El Jaw",
+            "release_date": "2018-09-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b273462a95f90ac5f6c59a04c81c",
+            "track_url": "https://www.dropbox.com/scl/fi/eah911vbaqhsbs8pttsue/.mp3?rlkey=rphenp6quyra7j93t2t137t3p&st=zgzyu59u&dl=1",
+            "id": 1082,
+            "artist": "Nancy Ajram"
+        },
+        {
+            "name": "Betegy Sertak",
+            "release_date": "2018-02-16",
+            "image": "https://i.scdn.co/image/ab67616d0000b273065e6bf0745a388da641322f",
+            "track_url": "https://www.dropbox.com/scl/fi/apzjvh3vudsdoap1brllf/.mp3?rlkey=beedhcnre0kut1cgslax3iscu&st=4b2pnb2r&dl=1",
+            "id": 1084,
+            "artist": "Nancy Ajram"
+        },
+        {
+            "name": "Maasoma Nossain",
+            "release_date": "2018-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27384fdd25ea749e95da6cf30d9",
+            "track_url": "https://www.dropbox.com/scl/fi/s2h5o349bz48f1xid22o3/.mp3?rlkey=ct5z3juloy637iajc430ez68r&st=eziqguo7&dl=1",
+            "id": 1085,
+            "artist": "Nancy Ajram"
+        },
+        {
+            "name": "Heya Helwa",
+            "release_date": "2018-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731b6aa04807123f673f721deb",
+            "track_url": "https://www.dropbox.com/scl/fi/pl9n2alahmibcn5hzo80a/.mp3?rlkey=gxop81k6am95my8lghu9vpo47&st=zec7bznj&dl=1",
+            "id": 1086,
+            "artist": "Nancy Ajram"
+        },
+        {
+            "name": "Hassa Beek",
+            "track_url": "https://www.dropbox.com/scl/fi/c4r57uim9tpz0f1b6vsly/01-7asa.Biak-MaTb3aa.Com.mp3?rlkey=o3yg50bjk39oh4106td3kejuy&st=trx441et&dl=1",
+            "duration_ms": 226463,
+            "image": "https://i.scdn.co/image/ab67616d0000b27321b860385b6951b952da0747",
+            "id": 930,
+            "artist": "Nancy Ajram"
+        },
+        {
+            "name": "El Hob Zay El Watar",
+            "track_url": "https://www.dropbox.com/scl/fi/0e87xvk2xo116rub22som/03-El7op.Zay.Elwart-MaTb3aa.Com.mp3?rlkey=p92kioan676yjn3rgnq8623aw&st=8afw9ltw&dl=1",
+            "duration_ms": 263717,
+            "image": "https://i.scdn.co/image/ab67616d0000b27321b860385b6951b952da0747",
+            "id": 935,
+            "artist": "Nancy Ajram"
+        },
+        {
+            "name": "Aam Betaala’ Feek",
+            "release_date": "2016-12-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b273290f17c62fa7bd5806435827",
+            "track_url": "https://www.dropbox.com/scl/fi/wffn8uhck1ipxl7ezkxpn/.mp3?rlkey=0z1x027cnuxnht0lydzp17zkb&st=dxx4hbhv&dl=1",
+            "id": 1089,
+            "artist": "Nancy Ajram"
+        },
+        {
+            "name": "Maakoul El Gharam",
+            "release_date": "2015-11-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d4cbb57dd7f7983c96497866",
+            "track_url": "https://www.dropbox.com/scl/fi/g0703r0kpix4l2o8bgsmr/.mp3?rlkey=vprujw0bxdf08wloa0j4zhdnj&st=0p8m9t9c&dl=1",
+            "id": 1090,
+            "artist": "Nancy Ajram"
+        },
+        {
+            "name": "Mestaneyak",
+            "release_date": "2015-05-05",
+            "image": "https://i.scdn.co/image/ab67616d0000b273564604fa29af4dd64ef455f4",
+            "track_url": "https://www.dropbox.com/scl/fi/f5euo4hhcdq48f12jdhw4/.mp3?rlkey=wqxv6wa55mwtk8nnys7rkkmkf&st=rzv4f5s6&dl=1",
+            "id": 1091,
+            "artist": "Nancy Ajram"
+        },
+        {
+            "name": "Ya Ghali",
+            "release_date": "2015",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b906484fd62cfd11c5c48b57",
+            "track_url": "https://www.dropbox.com/scl/fi/4zqyabnojgffbo4n1zsdw/.mp3?rlkey=fz9aoourahw3vrsabjvb2ewm7&st=353a688o&dl=1",
+            "id": 1092,
+            "artist": "Nancy Ajram"
+        },
+        {
+            "name": "El Donia Helwa",
+            "release_date": "2011-01-26",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737abd590bc27e218865a53ced",
+            "track_url": "https://www.dropbox.com/scl/fi/vpjwisp39n2huzp3azkvd/.mp3?rlkey=ur1mtamizyi7we2i9cpvi6vzd&st=g3glbb75&dl=1",
+            "id": 1097,
+            "artist": "Nancy Ajram"
+        },
+        {
+            "name": "تتر نهاية مسلسل سمارة",
+            "release_date": "2011-01-02",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739d6b2db62b53ab6c983fa8e1",
+            "track_url": "https://www.dropbox.com/scl/fi/0tjfjg9xkktp03zjj8ye4/.mp3?rlkey=9o4dfpf2lnzacijb6tzp7h4n4&st=e7d08rgj&dl=1",
+            "id": 1098,
+            "artist": "Nancy Ajram"
+        },
+        {
+            "name": "تتر بداية مسلسل سمارة",
+            "release_date": "2011-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f0860d98f3ab4536a34193d6",
+            "track_url": "https://www.dropbox.com/scl/fi/k11i55llplkk6rnllz7rp/.mp3.crdownload?rlkey=egtrk2skdijs8re8qlekrxtio&st=r0eqjfgv&dl=1",
+            "id": 1099,
+            "artist": "Nancy Ajram"
+        }
+    ],
+    "popular_tracks": [
+        {
+            "name": "Ya Tabtab Wa Dallaa",
+            "track_url": "https://www.dropbox.com/scl/fi/sq9pn2g1c3aq076wyl5s7/01-Ya.Tabtab-MaTb3aa.Com.mp3?rlkey=8wdiv5x2a5luk5tcuch959ydi&st=goillh34&dl=1",
+            "duration_ms": 262240,
+            "image": "https://i.scdn.co/image/ab67616d0000b273524c4540b3f4df756712e8be",
+            "id": 1011,
+            "artist": "Nancy Ajram"
+        },
+        {
+            "name": "Albi Ya Albi",
+            "release_date": "2020-01-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739e7d30df02b301c12516ca65",
+            "track_url": "https://www.dropbox.com/scl/fi/ldu265flafaquambtztlr/.mp3?rlkey=ig8p6tf0n99vnng1g54qg8x29&st=upi4xhec&dl=1",
+            "id": 1079,
+            "artist": "Nancy Ajram"
+        },
+        {
+            "name": "Ah W Noss",
+            "track_url": "https://www.dropbox.com/scl/fi/v7g3t53zezbt7m0boumey/01._Ah_we_Noss.mp3?rlkey=c5qxvper1asfp1z03w4w4w4lg&st=7spzb8q4&dl=1",
+            "duration_ms": 281836,
+            "image": "https://i.scdn.co/image/ab67616d0000b27370cc5db6d9df5534b4d84602",
+            "id": 1023,
+            "artist": "Nancy Ajram"
+        },
+        {
+            "name": "Inta Eyh",
+            "track_url": "https://www.dropbox.com/scl/fi/6lgybv3jely5q1of9bo2v/.mp3?rlkey=w7etjd88gm8md0v2pqhl13rkx&st=n7imy4hy&dl=1",
+            "duration_ms": 304413,
+            "image": "https://i.scdn.co/image/ab67616d0000b273a980ceaa61450d8644601ae3",
+            "id": 1103,
+            "artist": "Nancy Ajram"
+        },
+        {
+            "name": "Rahent Aleik",
+            "track_url": "https://www.dropbox.com/scl/fi/qi3i27xqfwllk4tud04g0/.mp3?rlkey=h92yze4y3rtggs3z6kmgiz4w9&st=ltyija9r&dl=1",
+            "duration_ms": 249200,
+            "image": "https://i.scdn.co/image/ab67616d0000b2732df891038ddc76e6bf0806f3",
+            "id": 1104,
+            "artist": "Nancy Ajram"
+        },
+        {
+            "name": "Aam Betaala' Feek",
+            "track_url": "https://www.dropbox.com/scl/fi/bdhw0c5onke81dleyze08/13-Aam-Betaala-Feek-MaTb3aa.Com.mp3?rlkey=jqlewbkuxpyf4gbjwv8mg89w9&st=105z9cde&dl=1",
+            "duration_ms": 219901,
+            "image": "https://i.scdn.co/image/ab67616d0000b27321b860385b6951b952da0747",
+            "id": 942,
+            "artist": "Nancy Ajram"
+        },
+        {
+            "name": "Tegy Nenbeset",
+            "release_date": "2023-08-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b27375773695865d6f74c56abf5b",
+            "track_url": "https://www.dropbox.com/scl/fi/uaayptdv6ar2mupiphjm4/.mp3?rlkey=cqf0ahpvy5rhoi9pk58h80q39&st=4knog1g4&dl=1",
+            "id": 1059,
+            "artist": "Nancy Ajram"
+        },
+        {
+            "name": "Ma Tegi Hena - ما تيجي هنا",
+            "track_url": "https://www.dropbox.com/scl/fi/uf0bhreuwnd5ewyveeuv1/01-Ma.Tegy.Hena-MaTb3aa.Com.mp3?rlkey=p9qepe6x13txuitlkcgg2nx88&st=18z9nr56&dl=1",
+            "duration_ms": 253080,
+            "image": "https://i.scdn.co/image/ab67616d0000b273cc04e5d1cc212b83e958410b",
+            "id": 960,
+            "artist": "Nancy Ajram"
+        },
+        {
+            "name": "قلبي يا محتاس",
+            "release_date": "2024-01-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730d495838269775585da29400",
+            "track_url": "https://www.dropbox.com/scl/fi/47yo6cwazy20itwx34dkn/.mp3?rlkey=rjapo5jkhib4esrx95sa2a30h&st=hengrx2q&dl=1",
+            "id": 1055,
+            "artist": "Nancy Ajram"
+        },
+        {
+            "name": "Wana Ben Ideik",
+            "track_url": "https://www.dropbox.com/scl/fi/3a986lyn69bbzbq4inr7p/11-Wana.Been.Edek-MaTb3aa.Com.mp3?rlkey=4i1ujhp2sv4e3n65buh8jbvrl&st=9mfan1f3&dl=1",
+            "duration_ms": 210853,
+            "image": "https://i.scdn.co/image/ab67616d0000b273ac3178572e5b6f9d5c38358c",
+            "id": 955,
+            "artist": "Nancy Ajram"
+        }
+    ]
+}

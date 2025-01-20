@@ -1,0 +1,221 @@
+{
+    "artist": {
+        "id": "4997",
+        "name": "Pousi",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb75fbd8d3eb6b3aaa4a70f5ac",
+        "background_image": "https://i.scdn.co/image/ab6761610000517475fbd8d3eb6b3aaa4a70f5ac"
+    },
+    "albums": [],
+    "singles": [
+        {
+            "name": "عقبالكوا",
+            "release_date": "2024-11-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736b1a0eceaece0b16c9179634",
+            "track_url": "",
+            "id": 4998,
+            "artist": "Pousi"
+        },
+        {
+            "name": "أنا بابا",
+            "release_date": "2024-07-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e3cd69165190728003853d05",
+            "track_url": "",
+            "id": 4999,
+            "artist": "Pousi"
+        },
+        {
+            "name": "تيجي زي ما تيجي (من فيلم ولاد رزق 3)",
+            "release_date": "2024-06-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f276ec0c001a7348ff545518",
+            "track_url": "",
+            "id": 5000,
+            "artist": "Pousi"
+        },
+        {
+            "name": "Bahebak Ana",
+            "release_date": "2024-05-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b27367eac442f5b3d6fad6955079",
+            "track_url": "",
+            "id": 5001,
+            "artist": "Pousi"
+        },
+        {
+            "name": "انا مش راح انسى",
+            "release_date": "2024-04-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a0c5dbbc47f8593ec1223b51",
+            "track_url": "",
+            "id": 5002,
+            "artist": "Pousi"
+        },
+        {
+            "name": "دنيا جديدة - من مسلسل اعلى نسبة مشاهدة",
+            "release_date": "2024-03-27",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f20af9cca334aa90a7924034",
+            "track_url": "",
+            "id": 5003,
+            "artist": "Pousi"
+        },
+        {
+            "name": "تتر مسلسل اعلى نسبة مشاهدة",
+            "release_date": "2024-03-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b27364931bef4ec50c194fefbfca",
+            "track_url": "",
+            "id": 5004,
+            "artist": "Pousi"
+        },
+        {
+            "name": "Zayyo Tani",
+            "release_date": "2024-01-27",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735557c6191b25f9f46d3eff34",
+            "track_url": "",
+            "id": 5005,
+            "artist": "Pousi"
+        },
+        {
+            "name": "Massoly W Sabaho",
+            "release_date": "2023-06-22",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733646ce4b698424253976431a",
+            "track_url": "",
+            "id": 5006,
+            "artist": "Pousi"
+        },
+        {
+            "name": "Abia El Donia",
+            "release_date": "2021-09-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e13d38c4c3c1c2e9d30552b8",
+            "track_url": "",
+            "id": 5007,
+            "artist": "Pousi"
+        },
+        {
+            "name": "Main Event",
+            "release_date": "2021-04-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738aa24590c7ccc51c46ecd60e",
+            "track_url": "",
+            "id": 5008,
+            "artist": "Pousi"
+        },
+        {
+            "name": "Poppin",
+            "release_date": "2021-04-12",
+            "image": "https://i.scdn.co/image/ab67616d0000b273eb22c3bc372e7bcedfca97d7",
+            "track_url": "",
+            "id": 5009,
+            "artist": "Pousi"
+        },
+        {
+            "name": "What's Happening!!?",
+            "release_date": "2021-01-20",
+            "image": "https://i.scdn.co/image/ab67616d0000b273bc502e27ca80eae48ea7e2ec",
+            "track_url": "",
+            "id": 5010,
+            "artist": "Pousi"
+        },
+        {
+            "name": "Idol (Groovypedia Live)",
+            "release_date": "2020-10-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733eaceeb00b3cdfc6a1e89fd1",
+            "track_url": "",
+            "id": 5011,
+            "artist": "Pousi"
+        },
+        {
+            "name": "Coast to Coast",
+            "release_date": "2019-07-26",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b7fb966b462707caea031fb2",
+            "track_url": "",
+            "id": 5012,
+            "artist": "Pousi"
+        },
+        {
+            "name": "Ah Ya Donia",
+            "release_date": "2013-12-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b273388ff6a8a896b29cbae3badd",
+            "track_url": "",
+            "id": 5013,
+            "artist": "Pousi"
+        }
+    ],
+    "popular_tracks": [
+        {
+            "name": "أنا بابا",
+            "track_url": "",
+            "duration_ms": 190434,
+            "image": "https://i.scdn.co/image/ab67616d0000b273e3cd69165190728003853d05",
+            "id": 5014,
+            "artist": "Pousi"
+        },
+        {
+            "name": "Abia El Donia",
+            "track_url": "",
+            "duration_ms": 212957,
+            "image": "https://i.scdn.co/image/ab67616d0000b273e13d38c4c3c1c2e9d30552b8",
+            "id": 5015,
+            "artist": "Pousi"
+        },
+        {
+            "name": "تيجي زي ما تيجي (من فيلم ولاد رزق 3)",
+            "track_url": "",
+            "duration_ms": 235200,
+            "image": "https://i.scdn.co/image/ab67616d0000b273f276ec0c001a7348ff545518",
+            "id": 5016,
+            "artist": "Pousi"
+        },
+        {
+            "name": "دنيا جديدة - من مسلسل اعلى نسبة مشاهدة",
+            "track_url": "",
+            "duration_ms": 163271,
+            "image": "https://i.scdn.co/image/ab67616d0000b273f20af9cca334aa90a7924034",
+            "id": 5017,
+            "artist": "Pousi"
+        },
+        {
+            "name": "عقبالكوا",
+            "track_url": "",
+            "duration_ms": 180329,
+            "image": "https://i.scdn.co/image/ab67616d0000b2736b1a0eceaece0b16c9179634",
+            "id": 5018,
+            "artist": "Pousi"
+        },
+        {
+            "name": "تتر مسلسل اعلى نسبة مشاهدة",
+            "track_url": "",
+            "duration_ms": 195306,
+            "image": "https://i.scdn.co/image/ab67616d0000b27364931bef4ec50c194fefbfca",
+            "id": 5019,
+            "artist": "Pousi"
+        },
+        {
+            "name": "Ah Ya Donia",
+            "track_url": "",
+            "duration_ms": 282017,
+            "image": "https://i.scdn.co/image/ab67616d0000b273388ff6a8a896b29cbae3badd",
+            "id": 5020,
+            "artist": "Pousi"
+        },
+        {
+            "name": "El Youmein Dol",
+            "track_url": "",
+            "duration_ms": 189920,
+            "image": "https://i.scdn.co/image/ab67616d0000b27332122295ca6fe23e4d19d19e",
+            "id": 5021,
+            "artist": "Pousi"
+        },
+        {
+            "name": "Poppin",
+            "track_url": "",
+            "duration_ms": 87999,
+            "image": "https://i.scdn.co/image/ab67616d0000b273eb22c3bc372e7bcedfca97d7",
+            "id": 5022,
+            "artist": "Pousi"
+        },
+        {
+            "name": "الجوازه الشيك - لايف",
+            "track_url": "",
+            "duration_ms": 216895,
+            "image": "https://i.scdn.co/image/ab67616d0000b273a0c5dbbc47f8593ec1223b51",
+            "id": 5023,
+            "artist": "Pousi"
+        }
+    ]
+}

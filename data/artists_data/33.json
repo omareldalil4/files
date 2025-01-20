@@ -1,0 +1,599 @@
+{
+    "artist": {
+        "id": "5167",
+        "name": "Carmen Soliman",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb3b23270ac0311bd94329f445",
+        "background_image": "https://i.scdn.co/image/ab676161000051743b23270ac0311bd94329f445"
+    },
+    "albums": [
+        {
+            "name": "آخباري",
+            "release_date": "2013-06-03",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b24ebc9d4d99174b45184334",
+            "track_url": "https://open.spotify.com/album/3hU1Ze3t8E7i0vsOI2jLj8",
+            "tracks": [
+                {
+                    "name": "حبيبي مش حبيبي",
+                    "track_url": "",
+                    "duration_ms": 210293,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b24ebc9d4d99174b45184334",
+                    "id": 5169,
+                    "artist": "Carmen Soliman"
+                },
+                {
+                    "name": "مش حتكلم",
+                    "track_url": "",
+                    "duration_ms": 267680,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b24ebc9d4d99174b45184334",
+                    "id": 5170,
+                    "artist": "Carmen Soliman"
+                },
+                {
+                    "name": "صبرة",
+                    "track_url": "",
+                    "duration_ms": 196013,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b24ebc9d4d99174b45184334",
+                    "id": 5171,
+                    "artist": "Carmen Soliman"
+                },
+                {
+                    "name": "قلبي يدق",
+                    "track_url": "",
+                    "duration_ms": 310600,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b24ebc9d4d99174b45184334",
+                    "id": 5172,
+                    "artist": "Carmen Soliman"
+                },
+                {
+                    "name": "هذا فيا",
+                    "track_url": "",
+                    "duration_ms": 313013,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b24ebc9d4d99174b45184334",
+                    "id": 5173,
+                    "artist": "Carmen Soliman"
+                },
+                {
+                    "name": "حاجة مش عاجباني",
+                    "track_url": "",
+                    "duration_ms": 291773,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b24ebc9d4d99174b45184334",
+                    "id": 5174,
+                    "artist": "Carmen Soliman"
+                },
+                {
+                    "name": "مجنون رسمي",
+                    "track_url": "",
+                    "duration_ms": 226680,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b24ebc9d4d99174b45184334",
+                    "id": 5175,
+                    "artist": "Carmen Soliman"
+                },
+                {
+                    "name": "الحال من بعضوا",
+                    "track_url": "",
+                    "duration_ms": 269093,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b24ebc9d4d99174b45184334",
+                    "id": 5176,
+                    "artist": "Carmen Soliman"
+                },
+                {
+                    "name": "عيش على أعصابك",
+                    "track_url": "",
+                    "duration_ms": 244600,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b24ebc9d4d99174b45184334",
+                    "id": 5177,
+                    "artist": "Carmen Soliman"
+                },
+                {
+                    "name": "غيرت رأيك",
+                    "track_url": "",
+                    "duration_ms": 299693,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b24ebc9d4d99174b45184334",
+                    "id": 5178,
+                    "artist": "Carmen Soliman"
+                },
+                {
+                    "name": "كلام كلام",
+                    "track_url": "",
+                    "duration_ms": 240573,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b24ebc9d4d99174b45184334",
+                    "id": 5179,
+                    "artist": "Carmen Soliman"
+                },
+                {
+                    "name": "أخباري",
+                    "track_url": "",
+                    "duration_ms": 349920,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b24ebc9d4d99174b45184334",
+                    "id": 5180,
+                    "artist": "Carmen Soliman"
+                }
+            ],
+            "id": 5168
+        }
+    ],
+    "singles": [
+        {
+            "name": "Aseblak Rohy",
+            "release_date": "2024-10-16",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738acfd7d118e55ccddebf0b11",
+            "track_url": "",
+            "id": 5181,
+            "artist": "Carmen Soliman"
+        },
+        {
+            "name": "Hena Hena",
+            "release_date": "2024-09-05",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732a82963a00c17e659c559f16",
+            "track_url": "",
+            "id": 5182,
+            "artist": "Carmen Soliman"
+        },
+        {
+            "name": "Habayeb Albi",
+            "release_date": "2024-09-05",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c69798dab913b74c96249172",
+            "track_url": "",
+            "id": 5183,
+            "artist": "Carmen Soliman"
+        },
+        {
+            "name": "Boka2yat (feat. Aziz El Shafei)",
+            "release_date": "2024-08-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b27397efd14ded83651ada103246",
+            "track_url": "",
+            "id": 5184,
+            "artist": "Carmen Soliman"
+        },
+        {
+            "name": "Ya 7aram Ma3lesh",
+            "release_date": "2024-07-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732b4ecd8beaa8948953a107ad",
+            "track_url": "",
+            "id": 5185,
+            "artist": "Carmen Soliman"
+        },
+        {
+            "name": "Habayeb Albi",
+            "release_date": "2024-07-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e2633b1bded169c5182dac1a",
+            "track_url": "",
+            "id": 5186,
+            "artist": "Carmen Soliman"
+        },
+        {
+            "name": "Fe Zahmet El Donia",
+            "release_date": "2024-03-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734248f03071e5cf317a7c4ea6",
+            "track_url": "",
+            "id": 5187,
+            "artist": "Carmen Soliman"
+        },
+        {
+            "name": "Konna Fi Makan",
+            "release_date": "2024-02-14",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d256b86afac29d9a2fcdc622",
+            "track_url": "",
+            "id": 5188,
+            "artist": "Carmen Soliman"
+        },
+        {
+            "name": "Rawa2any",
+            "release_date": "2023-09-27",
+            "image": "https://i.scdn.co/image/ab67616d0000b27320170e4d3f9268af539b60e4",
+            "track_url": "",
+            "id": 5189,
+            "artist": "Carmen Soliman"
+        },
+        {
+            "name": "Ya Gamalak (Acoustic Version)",
+            "release_date": "2023-07-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f563de3d638e4058da315a94",
+            "track_url": "",
+            "id": 5190,
+            "artist": "Carmen Soliman"
+        },
+        {
+            "name": "Enta El Aseel",
+            "release_date": "2023-05-26",
+            "image": "https://i.scdn.co/image/ab67616d0000b273cf9d19c387baae344d72ca0f",
+            "track_url": "",
+            "id": 5191,
+            "artist": "Carmen Soliman"
+        },
+        {
+            "name": "Ya Gamalak",
+            "release_date": "2023-02-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b27303e2631d06b117d2c0d459f3",
+            "track_url": "",
+            "id": 5192,
+            "artist": "Carmen Soliman"
+        },
+        {
+            "name": "Kheira",
+            "release_date": "2022-02-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738275f1c67d69f0544177691f",
+            "track_url": "",
+            "id": 5193,
+            "artist": "Carmen Soliman"
+        },
+        {
+            "name": "Hobak Enta",
+            "release_date": "2021-12-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b27397a1502f04ec9e08595889fe",
+            "track_url": "",
+            "id": 5194,
+            "artist": "Carmen Soliman"
+        },
+        {
+            "name": "Lema3lomatak",
+            "release_date": "2021-10-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738b838f27806a562450cf671f",
+            "track_url": "",
+            "id": 5195,
+            "artist": "Carmen Soliman"
+        },
+        {
+            "name": "L3bety",
+            "release_date": "2021-07-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732466891549d78b70e666422c",
+            "track_url": "",
+            "id": 5196,
+            "artist": "Carmen Soliman"
+        },
+        {
+            "name": "تعبت أشكي",
+            "release_date": "2021-03-13",
+            "image": "https://i.scdn.co/image/ab67616d0000b27348f267d2175121f5dc5d07a8",
+            "track_url": "",
+            "id": 5197,
+            "artist": "Carmen Soliman"
+        },
+        {
+            "name": "Deezer Sessions",
+            "release_date": "2021-03-12",
+            "image": "https://i.scdn.co/image/ab67616d0000b27349043a945591f58caf629215",
+            "track_url": "",
+            "id": 5198,
+            "artist": "Carmen Soliman"
+        },
+        {
+            "name": "One More Dance (with Carmen Soliman) [Arabic Version]",
+            "release_date": "2021-03-05",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738a76a114834f5ad42bd79815",
+            "track_url": "",
+            "id": 5199,
+            "artist": "Carmen Soliman"
+        },
+        {
+            "name": "الذكرى الشتويه",
+            "release_date": "2021-01-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b27317938e7c8b571e88c59d0052",
+            "track_url": "",
+            "id": 5200,
+            "artist": "Carmen Soliman"
+        },
+        {
+            "name": "صاروخ للقمر (من فيلم Netflix “فوق القمر”)",
+            "release_date": "2020-09-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731233aa8034b232ddf8ed8b9a",
+            "track_url": "",
+            "id": 5201,
+            "artist": "Carmen Soliman"
+        },
+        {
+            "name": "Leena Ra2sa",
+            "release_date": "2020-08-05",
+            "image": "https://i.scdn.co/image/ab67616d0000b273862c77515f7f175a917b999b",
+            "track_url": "",
+            "id": 5202,
+            "artist": "Carmen Soliman"
+        },
+        {
+            "name": "Bassatak",
+            "release_date": "2019-12-12",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739d48353d17bdca23f8da60e2",
+            "track_url": "",
+            "id": 5203,
+            "artist": "Carmen Soliman"
+        },
+        {
+            "name": "Lazim Ngheeb",
+            "release_date": "2019-11-27",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f2c8dcc13169c8ea81e46f9d",
+            "track_url": "",
+            "id": 5204,
+            "artist": "Carmen Soliman"
+        },
+        {
+            "name": "Tefanan",
+            "release_date": "2019-10-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b27373eca4392bd8f1a801ef80ee",
+            "track_url": "",
+            "id": 5205,
+            "artist": "Carmen Soliman"
+        },
+        {
+            "name": "Nasiby We Aesmitak Soundtrack Part 3",
+            "release_date": "2019-09-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27327776a10b75f654b6300bd9a",
+            "track_url": "",
+            "id": 5206,
+            "artist": "Carmen Soliman"
+        },
+        {
+            "name": "Nawrto El Donia",
+            "release_date": "2019-08-03",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734a1d2c6860fd5c526692b546",
+            "track_url": "",
+            "id": 5207,
+            "artist": "Carmen Soliman"
+        },
+        {
+            "name": "Sotor Hekaity",
+            "release_date": "2019-05-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b273302b68c7293864e02fd933f9",
+            "track_url": "",
+            "id": 5208,
+            "artist": "Carmen Soliman"
+        },
+        {
+            "name": "El Saah Betaet Abl El Noum",
+            "release_date": "2019-03-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d2fd63f19d7ff88a1143304d",
+            "track_url": "",
+            "id": 5209,
+            "artist": "Carmen Soliman"
+        },
+        {
+            "name": "Hodn Dafy",
+            "release_date": "2019-02-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b27363aca767e0c1bd99028e7552",
+            "track_url": "",
+            "id": 5210,
+            "artist": "Carmen Soliman"
+        },
+        {
+            "name": "Men Kol Makan",
+            "release_date": "2018-11-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b273300409946590e2978f31ca82",
+            "track_url": "",
+            "id": 5211,
+            "artist": "Carmen Soliman"
+        },
+        {
+            "name": "Liela",
+            "release_date": "2018-04-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b27338d81983d204848ab704bdeb",
+            "track_url": "",
+            "id": 5212,
+            "artist": "Carmen Soliman"
+        },
+        {
+            "name": "Hassa Be Saada",
+            "release_date": "2018-03-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b9e2956d9328ebd648d8624c",
+            "track_url": "",
+            "id": 5213,
+            "artist": "Carmen Soliman"
+        },
+        {
+            "name": "Habibi Asef Azaagtk",
+            "release_date": "2017-12-06",
+            "image": "https://i.scdn.co/image/ab67616d0000b27392b2a2ba987ce439c887be63",
+            "track_url": "",
+            "id": 5214,
+            "artist": "Carmen Soliman"
+        },
+        {
+            "name": "Ain El Shams",
+            "release_date": "2017-12-06",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ab4854549fbce837c761ff43",
+            "track_url": "",
+            "id": 5215,
+            "artist": "Carmen Soliman"
+        },
+        {
+            "name": "Mabgha Shai",
+            "release_date": "2017-09-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e0dea481d41bd3dc3f5f48d8",
+            "track_url": "",
+            "id": 5216,
+            "artist": "Carmen Soliman"
+        },
+        {
+            "name": "Rabena Yekhalik Le Albi",
+            "release_date": "2017-04-14",
+            "image": "https://i.scdn.co/image/ab67616d0000b27343256dc79a069bf69fbdc36a",
+            "track_url": "",
+            "id": 5217,
+            "artist": "Carmen Soliman"
+        },
+        {
+            "name": "Lama Teshofak Einy",
+            "release_date": "2016-07-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b0bb84a3e3fa5e4ab514b068",
+            "track_url": "",
+            "id": 5218,
+            "artist": "Carmen Soliman"
+        },
+        {
+            "name": "Feeha Elhayah",
+            "release_date": "2015-06-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b273afb6725f2c9991bbcb76d1b6",
+            "track_url": "",
+            "id": 5219,
+            "artist": "Carmen Soliman"
+        },
+        {
+            "name": "Mahy Sahla",
+            "release_date": "2015-05-20",
+            "image": "https://i.scdn.co/image/ab67616d0000b27359c4957e85405a2f35de7d58",
+            "track_url": "",
+            "id": 5220,
+            "artist": "Carmen Soliman"
+        },
+        {
+            "name": "3ala 2ad Nyety",
+            "release_date": "2015-05-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b273692a55895df2302a59e98137",
+            "track_url": "",
+            "id": 5221,
+            "artist": "Carmen Soliman"
+        },
+        {
+            "name": "Hanan El Donia",
+            "release_date": "2015-03-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b27303cc5951dcb173c39844c75d",
+            "track_url": "",
+            "id": 5222,
+            "artist": "Carmen Soliman"
+        },
+        {
+            "name": "Alb Wahed - Single (National Day of Emirates)",
+            "release_date": "2015",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ec664f2d59579a36f8a678ff",
+            "track_url": "",
+            "id": 5223,
+            "artist": "Carmen Soliman"
+        },
+        {
+            "name": "Hasebak Rabena",
+            "release_date": "2014-12-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b27376a85829eb761b482b30d70d",
+            "track_url": "",
+            "id": 5224,
+            "artist": "Carmen Soliman"
+        },
+        {
+            "name": "حبيبي مش حبيبي (Remix)",
+            "release_date": "2014-08-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738d162b29e1eb9a6d5fc98498",
+            "track_url": "",
+            "id": 5225,
+            "artist": "Carmen Soliman"
+        },
+        {
+            "name": "Ya Sa7",
+            "release_date": "2013-07-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c32ea3b9e10520960e4c75d3",
+            "track_url": "",
+            "id": 5226,
+            "artist": "Carmen Soliman"
+        },
+        {
+            "name": "كلام كلام",
+            "release_date": "2013-06-03",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731406d40ede3baa06c052a7aa",
+            "track_url": "",
+            "id": 5227,
+            "artist": "Carmen Soliman"
+        },
+        {
+            "name": "تتر نهاية مسلسل فرح ليلى",
+            "release_date": "2013-01-02",
+            "image": "https://i.scdn.co/image/ab67616d0000b273812b477090438be401d5d70e",
+            "track_url": "",
+            "id": 5228,
+            "artist": "Carmen Soliman"
+        },
+        {
+            "name": "تتر بداية مسلسل فرح ليلى",
+            "release_date": "2013-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732ec08af097cfb7c23e9d3b1b",
+            "track_url": "",
+            "id": 5229,
+            "artist": "Carmen Soliman"
+        },
+        {
+            "name": "Khofy",
+            "release_date": "2011",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b7899d5e8f196166b1741e07",
+            "track_url": "",
+            "id": 5230,
+            "artist": "Carmen Soliman"
+        }
+    ],
+    "popular_tracks": [
+        {
+            "name": "We Know The Way (Te Fenua te Malie)",
+            "track_url": "",
+            "duration_ms": 88360,
+            "image": "https://i.scdn.co/image/ab67616d0000b2738eeeac45667b57b513ecb7c6",
+            "id": 5231,
+            "artist": "Carmen Soliman"
+        },
+        {
+            "name": "Leena Ra2sa",
+            "track_url": "",
+            "duration_ms": 231807,
+            "image": "https://i.scdn.co/image/ab67616d0000b273862c77515f7f175a917b999b",
+            "id": 5232,
+            "artist": "Carmen Soliman"
+        },
+        {
+            "name": "We're Back",
+            "track_url": "",
+            "duration_ms": 191746,
+            "image": "https://i.scdn.co/image/ab67616d0000b2738eeeac45667b57b513ecb7c6",
+            "id": 5233,
+            "artist": "Carmen Soliman"
+        },
+        {
+            "name": "Hobak Enta",
+            "track_url": "",
+            "duration_ms": 181682,
+            "image": "https://i.scdn.co/image/ab67616d0000b27397a1502f04ec9e08595889fe",
+            "id": 5234,
+            "artist": "Carmen Soliman"
+        },
+        {
+            "name": "Aseblak Rohy",
+            "track_url": "",
+            "duration_ms": 235408,
+            "image": "https://i.scdn.co/image/ab67616d0000b2738acfd7d118e55ccddebf0b11",
+            "id": 5235,
+            "artist": "Carmen Soliman"
+        },
+        {
+            "name": "Ya Gamalak",
+            "track_url": "",
+            "duration_ms": 209983,
+            "image": "https://i.scdn.co/image/ab67616d0000b27303e2631d06b117d2c0d459f3",
+            "id": 5236,
+            "artist": "Carmen Soliman"
+        },
+        {
+            "name": "حبيبي مش حبيبي",
+            "track_url": "",
+            "duration_ms": 210293,
+            "image": "https://i.scdn.co/image/ab67616d0000b273b24ebc9d4d99174b45184334",
+            "id": 5237,
+            "artist": "Carmen Soliman"
+        },
+        {
+            "name": "Hena Hena",
+            "track_url": "",
+            "duration_ms": 201840,
+            "image": "https://i.scdn.co/image/ab67616d0000b2732a82963a00c17e659c559f16",
+            "id": 5238,
+            "artist": "Carmen Soliman"
+        },
+        {
+            "name": "Lama Teshofak Einy",
+            "track_url": "",
+            "duration_ms": 184900,
+            "image": "https://i.scdn.co/image/ab67616d0000b273b0bb84a3e3fa5e4ab514b068",
+            "id": 5239,
+            "artist": "Carmen Soliman"
+        },
+        {
+            "name": "Rabena Yekhalik Le Albi",
+            "track_url": "",
+            "duration_ms": 284551,
+            "image": "https://i.scdn.co/image/ab67616d0000b27343256dc79a069bf69fbdc36a",
+            "id": 5240,
+            "artist": "Carmen Soliman"
+        }
+    ]
+}

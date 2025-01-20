@@ -1,0 +1,272 @@
+{
+    "artist": {
+        "id": "7827",
+        "name": "TUL8TE",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb5f10cea1a442c10f5d970e11",
+        "background_image": "https://i.scdn.co/image/ab676161000051745f10cea1a442c10f5d970e11"
+    },
+    "albums": [
+        {
+            "name": "كوكتيل غنائي للفنان تووليت حصرياً لحبايب قلبي",
+            "release_date": "2024-07-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b27380780c32a91dcffdef4b2cd9",
+            "track_url": "https://open.spotify.com/album/42aXaZ9YPO28BbWlTLXVXV",
+            "tracks": [
+                {
+                    "name": "ماتيجي اعدي عليكي",
+                    "track_url": "https://www.dropbox.com/scl/fi/qcya9hm4cchgumjyvjlch/04-MATEEGY.A3ADY.ALEIKY-MaTb3aa.Com.mp3?rlkey=a1oxesp8gseui3v87fpzm7drl&st=g9qjhdck&dl=1",
+                    "duration_ms": 145454,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27380780c32a91dcffdef4b2cd9",
+                    "id": 7838,
+                    "artist": "TUL8TE"
+                },
+                {
+                    "name": "ليه بنخبي و مش بنقول",
+                    "track_url": "https://www.dropbox.com/scl/fi/9899y712ta3syt9id1ex7/02-LEH.BENKHABY-MaTb3aa.Com.mp3?rlkey=80bmaxqvkbcmzrb3zu9gx7xih&st=lfpsk1if&dl=1",
+                    "duration_ms": 189320,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27380780c32a91dcffdef4b2cd9",
+                    "id": 7839,
+                    "artist": "TUL8TE"
+                },
+                {
+                    "name": "حبيبي ليه",
+                    "track_url": "https://www.dropbox.com/scl/fi/7iftspscnxu74ohc7be3q/05-HABEEBY.LEH-MaTb3aa.Com.mp3?rlkey=yzurwes79i6d6bhx36112len4&st=nifkoe1r&dl=1",
+                    "duration_ms": 120145,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27380780c32a91dcffdef4b2cd9",
+                    "id": 7840,
+                    "artist": "TUL8TE"
+                },
+                {
+                    "name": "نفس الكلام اللي بغنيه",
+                    "track_url": "https://www.dropbox.com/scl/fi/kov2g74xaflfz7qukaf76/07-NAFS.ELKALAM.ELBAGHANEEH-MaTb3aa.Com.mp3?rlkey=go8pkuwe1zbl3fjd3xbrvu6dy&st=koremmqd&dl=1",
+                    "duration_ms": 201080,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27380780c32a91dcffdef4b2cd9",
+                    "id": 7841,
+                    "artist": "TUL8TE"
+                },
+                {
+                    "name": "بقيت وحيد",
+                    "track_url": "https://www.dropbox.com/scl/fi/590g168rdcwbo30xvn330/01-BAEET.WAHEED-MaTb3aa.Com.mp3?rlkey=8atpsv182hl4bcawu4vtvdftr&st=iub7rsof&dl=1",
+                    "duration_ms": 157785,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27380780c32a91dcffdef4b2cd9",
+                    "id": 7842,
+                    "artist": "TUL8TE"
+                },
+                {
+                    "name": "عينيكي لون السما باليل",
+                    "track_url": "https://www.dropbox.com/scl/fi/i19sen6s505zfawfk97x5/06-3ENEEKI.LOON.ELSAMA.BELEIL-MaTb3aa.Com.mp3?rlkey=b70lx9g3iusmbqh8tok7fz0ca&st=27jmdou5&dl=1",
+                    "duration_ms": 194958,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27380780c32a91dcffdef4b2cd9",
+                    "id": 7843,
+                    "artist": "TUL8TE"
+                },
+                {
+                    "name": "عزبة الهجانه فين؟",
+                    "track_url": "https://www.dropbox.com/scl/fi/b3gx6bud8yhpcjuzvrtfz/08-EZBET.ELHAGGANA.FEEN-MaTb3aa.Com.mp3?rlkey=yt0a1a9mdpvc5zv8sn61r2wfh&st=o1pvuyng&dl=1",
+                    "duration_ms": 156862,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27380780c32a91dcffdef4b2cd9",
+                    "id": 7844,
+                    "artist": "TUL8TE"
+                },
+                {
+                    "name": "لسه بريء",
+                    "track_url": "https://www.dropbox.com/scl/fi/npt4p12vyp7372r9lbbsw/03-LESA.BAREE-MaTb3aa.Com.mp3?rlkey=xk6xkqrkdyvsjjeq490lvsesn&st=6d2z7amn&dl=1",
+                    "duration_ms": 186345,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27380780c32a91dcffdef4b2cd9",
+                    "id": 7845,
+                    "artist": "TUL8TE"
+                }
+            ],
+            "id": 7837
+        },
+        {
+            "name": "TESH SHABAB",
+            "release_date": "2024-02-22",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730b35cbc46da738189984a5bf",
+            "track_url": "https://open.spotify.com/album/3w53F7NZlyw6P5yt28dwmy",
+            "tracks": [
+                {
+                    "name": "SAWA",
+                    "track_url": "https://www.dropbox.com/scl/fi/wlotj23ey4m08eyi21fnk/SAWA-_.mp3?rlkey=8417k8st5skynx8lp2t2grfsy&st=wo09k905&dl=1",
+                    "duration_ms": 109931,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730b35cbc46da738189984a5bf",
+                    "id": 7847,
+                    "artist": "TUL8TE"
+                },
+                {
+                    "name": "LAMA BETETGANEN",
+                    "track_url": "https://www.dropbox.com/scl/fi/x3a3o8lxq5s0ncw3jl8ik/LAMA-BETETGANEN.mp3?rlkey=8kruliekixqsyis8e4hwjbvva&st=5k8kpuvb&dl=1",
+                    "duration_ms": 169500,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730b35cbc46da738189984a5bf",
+                    "id": 7848,
+                    "artist": "TUL8TE"
+                },
+                {
+                    "name": "IFWY",
+                    "track_url": "https://www.dropbox.com/scl/fi/7fr8knwwzyevgz0wteuti/IFWY.mp3?rlkey=ps3gt6lvkibg77pv72pkyw3m9&st=2w6uke7z&dl=1",
+                    "duration_ms": 160952,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730b35cbc46da738189984a5bf",
+                    "id": 7849,
+                    "artist": "TUL8TE"
+                },
+                {
+                    "name": "TESH SHABAB",
+                    "track_url": "https://www.dropbox.com/scl/fi/657glrblru38sb474qisy/TESH-SHABAB.mp3?rlkey=yi2xexgz98nwl8ic5oef96t8g&st=49lhdrym&dl=1",
+                    "duration_ms": 146742,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730b35cbc46da738189984a5bf",
+                    "id": 7850,
+                    "artist": "TUL8TE"
+                },
+                {
+                    "name": "MSH BENA",
+                    "track_url": "https://www.dropbox.com/scl/fi/1cq2i12wdz804zeo0h13n/MSH-BENA.mp3?rlkey=qrljid6hgxvzwdyxm4qv2ylzt&st=dqs26o45&dl=1",
+                    "duration_ms": 240374,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730b35cbc46da738189984a5bf",
+                    "id": 7851,
+                    "artist": "TUL8TE"
+                },
+                {
+                    "name": "LEH DA HASAL?? (INTERLUDE)",
+                    "track_url": "https://www.dropbox.com/scl/fi/cttzlr6ia887tob6e1pni/LEH-DA-HASAL?rlkey=gagtlbijxzoviy6vugjkh8nxd&st=m1hldap0&dl=1",
+                    "duration_ms": 50618,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730b35cbc46da738189984a5bf",
+                    "id": 7852,
+                    "artist": "TUL8TE"
+                },
+                {
+                    "name": "3AMAL A3EED",
+                    "track_url": "https://www.dropbox.com/scl/fi/kjqsdzz7hgzt1zjpacelz/3AMAL-A3EED.mp3?rlkey=e4e2gyk1yjka7zhk69jpuihs3&st=utloobzs&dl=1",
+                    "duration_ms": 252500,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730b35cbc46da738189984a5bf",
+                    "id": 7853,
+                    "artist": "TUL8TE"
+                },
+                {
+                    "name": "TOOLATE",
+                    "track_url": "https://www.dropbox.com/scl/fi/ar1t1c9ivomgkf9h3s1no/TOO-LATE.m4a?rlkey=w9f9or75neq07m3rhl96x4u44&st=fc9dzhat&dl=1",
+                    "duration_ms": 145500,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730b35cbc46da738189984a5bf",
+                    "id": 7854,
+                    "artist": "TUL8TE"
+                },
+                {
+                    "name": "LAYALINA",
+                    "track_url": "https://www.dropbox.com/scl/fi/8ucyth5339l973cybacak/LAYALINA.mp3?rlkey=igtqzs678eljg44dzrtykx0vq&st=nf6z5bi9&dl=1",
+                    "duration_ms": 218833,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730b35cbc46da738189984a5bf",
+                    "id": 7855,
+                    "artist": "TUL8TE"
+                },
+                {
+                    "name": "FASEL",
+                    "track_url": "https://www.dropbox.com/scl/fi/z8p8my4ywzf89dm7uhv7t/FASEL.mp3?rlkey=h0prxaxeu1lfp4szqqoxythze&st=7x4nccit&dl=1",
+                    "duration_ms": 107812,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2730b35cbc46da738189984a5bf",
+                    "id": 7856,
+                    "artist": "TUL8TE"
+                }
+            ],
+            "id": 7846
+        }
+    ],
+    "singles": [
+        {
+            "name": "BERKA (feat. TUL8TE, R3 رع & Tayeb Santo)",
+            "release_date": "2024-05-02",
+            "image": "https://i.scdn.co/image/ab67616d0000b27367a4d056b1fc62f18f41edd2",
+            "track_url": "https://www.dropbox.com/scl/fi/2kfe5fz6bjxyyxpk9l4hi/BERKA.mp3?rlkey=3956znfe5j9h8n1jje1jwylyl&st=njgbegt4&dl=1",
+            "id": 7857,
+            "artist": "TUL8TE"
+        },
+        {
+            "name": "MAGHOOL",
+            "release_date": "2023-05-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738e4f850ac33c97e0988980a9",
+            "track_url": "https://www.dropbox.com/scl/fi/81lbgi9bdatuv2w3q7af5/MAGHOOL.mp3?rlkey=7vbytl6rw4642u887rki9ygk7&st=nslgmvog&dl=1",
+            "id": 7858,
+            "artist": "TUL8TE"
+        }
+    ],
+    "popular_tracks": [
+        {
+            "name": "ماتيجي اعدي عليكي",
+            "track_url": "https://www.dropbox.com/scl/fi/qcya9hm4cchgumjyvjlch/04-MATEEGY.A3ADY.ALEIKY-MaTb3aa.Com.mp3?rlkey=a1oxesp8gseui3v87fpzm7drl&st=aerai0zb&dl=1",
+            "duration_ms": 145454,
+            "image": "https://i.scdn.co/image/ab67616d0000b27380780c32a91dcffdef4b2cd9",
+            "id": 7859,
+            "artist": "TUL8TE"
+        },
+        {
+            "name": "حبيبي ليه",
+            "track_url": "https://www.dropbox.com/scl/fi/7iftspscnxu74ohc7be3q/05-HABEEBY.LEH-MaTb3aa.Com.mp3?rlkey=yzurwes79i6d6bhx36112len4&st=nifkoe1r&dl=1",
+            "duration_ms": 120145,
+            "image": "https://i.scdn.co/image/ab67616d0000b27380780c32a91dcffdef4b2cd9",
+            "id": 7860,
+            "artist": "TUL8TE"
+        },
+        {
+            "name": "بقيت وحيد",
+            "track_url": "https://www.dropbox.com/scl/fi/590g168rdcwbo30xvn330/01-BAEET.WAHEED-MaTb3aa.Com.mp3?rlkey=8atpsv182hl4bcawu4vtvdftr&st=iub7rsof&dl=1",
+            "duration_ms": 157785,
+            "image": "https://i.scdn.co/image/ab67616d0000b27380780c32a91dcffdef4b2cd9",
+            "id": 7861,
+            "artist": "TUL8TE"
+        },
+        {
+            "name": "LAYALINA",
+            "track_url": "https://www.dropbox.com/scl/fi/8ucyth5339l973cybacak/LAYALINA.mp3?rlkey=igtqzs678eljg44dzrtykx0vq&st=nf6z5bi9&dl=1",
+            "duration_ms": 218833,
+            "image": "https://i.scdn.co/image/ab67616d0000b273cd08f7df5783c39c57d382f4",
+            "id": 7862,
+            "artist": "TUL8TE"
+        },
+        {
+            "name": "ليه بنخبي و مش بنقول",
+            "track_url": "https://www.dropbox.com/scl/fi/9899y712ta3syt9id1ex7/02-LEH.BENKHABY-MaTb3aa.Com.mp3?rlkey=80bmaxqvkbcmzrb3zu9gx7xih&st=lfpsk1if&dl=1",
+            "duration_ms": 189320,
+            "image": "https://i.scdn.co/image/ab67616d0000b27380780c32a91dcffdef4b2cd9",
+            "id": 7863,
+            "artist": "TUL8TE"
+        },
+        {
+            "name": "LAMA BETETGANEN",
+            "track_url": "https://www.dropbox.com/scl/fi/x3a3o8lxq5s0ncw3jl8ik/LAMA-BETETGANEN.mp3?rlkey=8kruliekixqsyis8e4hwjbvva&st=5k8kpuvb&dl=1",
+            "duration_ms": 169500,
+            "image": "https://i.scdn.co/image/ab67616d0000b273cd08f7df5783c39c57d382f4",
+            "id": 7864,
+            "artist": "TUL8TE"
+        },
+        {
+            "name": "MAGHOOL",
+            "track_url": "https://www.dropbox.com/scl/fi/81lbgi9bdatuv2w3q7af5/MAGHOOL.mp3?rlkey=7vbytl6rw4642u887rki9ygk7&st=nslgmvog&dl=1",
+            "duration_ms": 233888,
+            "image": "https://i.scdn.co/image/ab67616d0000b2738e4f850ac33c97e0988980a9",
+            "id": 7865,
+            "artist": "TUL8TE"
+        },
+        {
+            "name": "عينيكي لون السما باليل",
+            "track_url": "https://www.dropbox.com/scl/fi/i19sen6s505zfawfk97x5/06-3ENEEKI.LOON.ELSAMA.BELEIL-MaTb3aa.Com.mp3?rlkey=b70lx9g3iusmbqh8tok7fz0ca&st=27jmdou5&dl=1",
+            "duration_ms": 194958,
+            "image": "https://i.scdn.co/image/ab67616d0000b27380780c32a91dcffdef4b2cd9",
+            "id": 7866,
+            "artist": "TUL8TE"
+        },
+        {
+            "name": "نفس الكلام اللي بغنيه",
+            "track_url": "https://www.dropbox.com/scl/fi/kov2g74xaflfz7qukaf76/07-NAFS.ELKALAM.ELBAGHANEEH-MaTb3aa.Com.mp3?rlkey=go8pkuwe1zbl3fjd3xbrvu6dy&st=koremmqd&dl=1",
+            "duration_ms": 201080,
+            "image": "https://i.scdn.co/image/ab67616d0000b27380780c32a91dcffdef4b2cd9",
+            "id": 7867,
+            "artist": "TUL8TE"
+        },
+        {
+            "name": "لسه بريء",
+            "track_url": "https://www.dropbox.com/scl/fi/npt4p12vyp7372r9lbbsw/03-LESA.BAREE-MaTb3aa.Com.mp3?rlkey=xk6xkqrkdyvsjjeq490lvsesn&st=6d2z7amn&dl=1",
+            "duration_ms": 186345,
+            "image": "https://i.scdn.co/image/ab67616d0000b27380780c32a91dcffdef4b2cd9",
+            "id": 7868,
+            "artist": "TUL8TE"
+        }
+    ]
+}

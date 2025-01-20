@@ -1,0 +1,1063 @@
+{
+    "artist": {
+        "id": "7214",
+        "name": "Mohamed Mohie",
+        "image": "https://i.scdn.co/image/ab67616d0000b2732a2920a1649a982ff99d29a2",
+        "background_image": "https://i.scdn.co/image/ab67616d00001e022a2920a1649a982ff99d29a2"
+    },
+    "albums": [
+        {
+            "name": "Aatpak",
+            "release_date": "2015-01-22",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f97d4814f7d8e45a483e9df8",
+            "track_url": "https://open.spotify.com/album/1352ZW7hEEkGNeYup5XxRI",
+            "tracks": [
+                {
+                    "name": "Habbena Garahouna",
+                    "track_url": "",
+                    "duration_ms": 273867,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f97d4814f7d8e45a483e9df8",
+                    "id": 7216,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "Aatpak",
+                    "track_url": "",
+                    "duration_ms": 282853,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f97d4814f7d8e45a483e9df8",
+                    "id": 7217,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "Hatta El Hawa",
+                    "track_url": "",
+                    "duration_ms": 304718,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f97d4814f7d8e45a483e9df8",
+                    "id": 7218,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "Mn El Awel",
+                    "track_url": "",
+                    "duration_ms": 186853,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f97d4814f7d8e45a483e9df8",
+                    "id": 7219,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "Enty Fein",
+                    "track_url": "",
+                    "duration_ms": 220656,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f97d4814f7d8e45a483e9df8",
+                    "id": 7220,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "Atary",
+                    "track_url": "",
+                    "duration_ms": 193123,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f97d4814f7d8e45a483e9df8",
+                    "id": 7221,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "Tany",
+                    "track_url": "",
+                    "duration_ms": 224888,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f97d4814f7d8e45a483e9df8",
+                    "id": 7222,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "Ta'ban Ya Alby",
+                    "track_url": "",
+                    "duration_ms": 163422,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f97d4814f7d8e45a483e9df8",
+                    "id": 7223,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "Behour El Hawa",
+                    "track_url": "",
+                    "duration_ms": 211382,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f97d4814f7d8e45a483e9df8",
+                    "id": 7224,
+                    "artist": "Mohamed Mohie"
+                }
+            ],
+            "id": 7215
+        },
+        {
+            "name": "Mazloum",
+            "release_date": "2008-12-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731fb263dede2b68273698bcf2",
+            "track_url": "https://open.spotify.com/album/2qhbEKcHSyINjlTSyYtsZm",
+            "tracks": [
+                {
+                    "name": "Mazloum",
+                    "track_url": "",
+                    "duration_ms": 258493,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731fb263dede2b68273698bcf2",
+                    "id": 7226,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "Zayei Keteer",
+                    "track_url": "",
+                    "duration_ms": 229213,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731fb263dede2b68273698bcf2",
+                    "id": 7227,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "Ya Ana",
+                    "track_url": "",
+                    "duration_ms": 290346,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731fb263dede2b68273698bcf2",
+                    "id": 7228,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "Fakrani Bahebaha",
+                    "track_url": "",
+                    "duration_ms": 246013,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731fb263dede2b68273698bcf2",
+                    "id": 7229,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "Kebret Alaya",
+                    "track_url": "",
+                    "duration_ms": 251760,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731fb263dede2b68273698bcf2",
+                    "id": 7230,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "Tool El Nahar Wel Lail",
+                    "track_url": "",
+                    "duration_ms": 234706,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731fb263dede2b68273698bcf2",
+                    "id": 7231,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "Marra Sebtak",
+                    "track_url": "",
+                    "duration_ms": 202693,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731fb263dede2b68273698bcf2",
+                    "id": 7232,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "Wala Hases Bel Aman",
+                    "track_url": "",
+                    "duration_ms": 209893,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731fb263dede2b68273698bcf2",
+                    "id": 7233,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "Maba'etsh Fady",
+                    "track_url": "",
+                    "duration_ms": 256693,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731fb263dede2b68273698bcf2",
+                    "id": 7234,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "Elmeseeny",
+                    "track_url": "",
+                    "duration_ms": 132070,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731fb263dede2b68273698bcf2",
+                    "id": 7235,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "Rekhees El Hawa",
+                    "track_url": "",
+                    "duration_ms": 381813,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731fb263dede2b68273698bcf2",
+                    "id": 7236,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "Mafish Haga",
+                    "track_url": "",
+                    "duration_ms": 249466,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731fb263dede2b68273698bcf2",
+                    "id": 7237,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "Shababy Rakhasto",
+                    "track_url": "",
+                    "duration_ms": 278000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731fb263dede2b68273698bcf2",
+                    "id": 7238,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "El Om",
+                    "track_url": "",
+                    "duration_ms": 229653,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731fb263dede2b68273698bcf2",
+                    "id": 7239,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "Mazloum (Remix)",
+                    "track_url": "",
+                    "duration_ms": 290746,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731fb263dede2b68273698bcf2",
+                    "id": 7240,
+                    "artist": "Mohamed Mohie"
+                }
+            ],
+            "id": 7225
+        },
+        {
+            "name": "2ader W Te3melha",
+            "release_date": "2003-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273017857692ea9f3c5deda5536",
+            "track_url": "https://open.spotify.com/album/6bZlcQjbKczYDA9RdzCeJu",
+            "tracks": [
+                {
+                    "name": "2ader W Te3melha",
+                    "track_url": "",
+                    "duration_ms": 271255,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273017857692ea9f3c5deda5536",
+                    "id": 7242,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "Dayman Ala Baly",
+                    "track_url": "",
+                    "duration_ms": 227291,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273017857692ea9f3c5deda5536",
+                    "id": 7243,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "Kont Te2olly",
+                    "track_url": "",
+                    "duration_ms": 267023,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273017857692ea9f3c5deda5536",
+                    "id": 7244,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "Konna Zaman",
+                    "track_url": "",
+                    "duration_ms": 221257,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273017857692ea9f3c5deda5536",
+                    "id": 7245,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "Hatsibny Bgd",
+                    "track_url": "",
+                    "duration_ms": 279484,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273017857692ea9f3c5deda5536",
+                    "id": 7246,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "Ana Bashkorak",
+                    "track_url": "",
+                    "duration_ms": 270811,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273017857692ea9f3c5deda5536",
+                    "id": 7247,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "Bas Erga3",
+                    "track_url": "",
+                    "duration_ms": 277707,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273017857692ea9f3c5deda5536",
+                    "id": 7248,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "Betheb Nafsak",
+                    "track_url": "",
+                    "duration_ms": 202710,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273017857692ea9f3c5deda5536",
+                    "id": 7249,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "Khallina As7ab",
+                    "track_url": "",
+                    "duration_ms": 230191,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273017857692ea9f3c5deda5536",
+                    "id": 7250,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "Fakrak Malak",
+                    "track_url": "",
+                    "duration_ms": 278804,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273017857692ea9f3c5deda5536",
+                    "id": 7251,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "W Dah Meen",
+                    "track_url": "",
+                    "duration_ms": 245838,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273017857692ea9f3c5deda5536",
+                    "id": 7252,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "Fi Leila",
+                    "track_url": "",
+                    "duration_ms": 294870,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273017857692ea9f3c5deda5536",
+                    "id": 7253,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "Betgheib Alaya Remix",
+                    "track_url": "",
+                    "duration_ms": 240248,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273017857692ea9f3c5deda5536",
+                    "id": 7254,
+                    "artist": "Mohamed Mohie"
+                }
+            ],
+            "id": 7241
+        },
+        {
+            "name": "Soura W Dam3a",
+            "release_date": "2001-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732a2920a1649a982ff99d29a2",
+            "track_url": "https://open.spotify.com/album/3DfqKxFZ6cbUnIvCNObbbG",
+            "tracks": [
+                {
+                    "name": "Fel Awel",
+                    "track_url": "",
+                    "duration_ms": 270106,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732a2920a1649a982ff99d29a2",
+                    "id": 7256,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "Soura W Dam3a",
+                    "track_url": "",
+                    "duration_ms": 283088,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732a2920a1649a982ff99d29a2",
+                    "id": 7257,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "Leh Beyfakkarouny",
+                    "track_url": "",
+                    "duration_ms": 279928,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732a2920a1649a982ff99d29a2",
+                    "id": 7258,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "Etkallem Alaya",
+                    "track_url": "",
+                    "duration_ms": 298109,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732a2920a1649a982ff99d29a2",
+                    "id": 7259,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "Hawelt",
+                    "track_url": "",
+                    "duration_ms": 277054,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732a2920a1649a982ff99d29a2",
+                    "id": 7260,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "El Soghayar",
+                    "track_url": "",
+                    "duration_ms": 304117,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732a2920a1649a982ff99d29a2",
+                    "id": 7261,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "Maly Enaharda",
+                    "track_url": "",
+                    "duration_ms": 260101,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732a2920a1649a982ff99d29a2",
+                    "id": 7262,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "Betghib Alaya",
+                    "track_url": "",
+                    "duration_ms": 241110,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732a2920a1649a982ff99d29a2",
+                    "id": 7263,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "Sho3oury",
+                    "track_url": "",
+                    "duration_ms": 323082,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732a2920a1649a982ff99d29a2",
+                    "id": 7264,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "Bahebbak",
+                    "track_url": "",
+                    "duration_ms": 250200,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732a2920a1649a982ff99d29a2",
+                    "id": 7265,
+                    "artist": "Mohamed Mohie"
+                }
+            ],
+            "id": 7255
+        },
+        {
+            "name": "Aghla Elnas",
+            "release_date": "1998-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734078853e09c7f68150080309",
+            "track_url": "https://open.spotify.com/album/5asUVu4Ddi8H0HkoCCQNe6",
+            "tracks": [
+                {
+                    "name": "Ya Hawa",
+                    "track_url": "",
+                    "duration_ms": 320960,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734078853e09c7f68150080309",
+                    "id": 7267,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "Kol Mafeya",
+                    "track_url": "",
+                    "duration_ms": 272080,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734078853e09c7f68150080309",
+                    "id": 7268,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "Lesa Faker",
+                    "track_url": "",
+                    "duration_ms": 316293,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734078853e09c7f68150080309",
+                    "id": 7269,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "Habibak Elthany",
+                    "track_url": "",
+                    "duration_ms": 402826,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734078853e09c7f68150080309",
+                    "id": 7270,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "Mawal Elhanin",
+                    "track_url": "",
+                    "duration_ms": 211333,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734078853e09c7f68150080309",
+                    "id": 7271,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "Sadaqteny",
+                    "track_url": "",
+                    "duration_ms": 335320,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734078853e09c7f68150080309",
+                    "id": 7272,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "Aan Alawan",
+                    "track_url": "",
+                    "duration_ms": 299960,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734078853e09c7f68150080309",
+                    "id": 7273,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "Min Gheyrek",
+                    "track_url": "",
+                    "duration_ms": 554360,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734078853e09c7f68150080309",
+                    "id": 7274,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "Aghla Elnas",
+                    "track_url": "",
+                    "duration_ms": 308706,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734078853e09c7f68150080309",
+                    "id": 7275,
+                    "artist": "Mohamed Mohie"
+                }
+            ],
+            "id": 7266
+        },
+        {
+            "name": "Roh Alby",
+            "release_date": "1995-12-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27371ec6ec7fa00d505c0e8a0ed",
+            "track_url": "https://open.spotify.com/album/09iSw6kGLKGL65mTxXUHp9",
+            "tracks": [
+                {
+                    "name": "Ahl El Malama",
+                    "track_url": "",
+                    "duration_ms": 277026,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27371ec6ec7fa00d505c0e8a0ed",
+                    "id": 7277,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "Ta'bak Ya Alby",
+                    "track_url": "",
+                    "duration_ms": 258933,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27371ec6ec7fa00d505c0e8a0ed",
+                    "id": 7278,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "El Sabr Gamil",
+                    "track_url": "",
+                    "duration_ms": 318733,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27371ec6ec7fa00d505c0e8a0ed",
+                    "id": 7279,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "El Saif",
+                    "track_url": "",
+                    "duration_ms": 196373,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27371ec6ec7fa00d505c0e8a0ed",
+                    "id": 7280,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "Helwa El Hayah",
+                    "track_url": "",
+                    "duration_ms": 223053,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27371ec6ec7fa00d505c0e8a0ed",
+                    "id": 7281,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "Ma Etmaneit",
+                    "track_url": "",
+                    "duration_ms": 116653,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27371ec6ec7fa00d505c0e8a0ed",
+                    "id": 7282,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "Nedaa",
+                    "track_url": "",
+                    "duration_ms": 290160,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27371ec6ec7fa00d505c0e8a0ed",
+                    "id": 7283,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "Enty",
+                    "track_url": "",
+                    "duration_ms": 301306,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27371ec6ec7fa00d505c0e8a0ed",
+                    "id": 7284,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "Alby Aleik",
+                    "track_url": "",
+                    "duration_ms": 164813,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27371ec6ec7fa00d505c0e8a0ed",
+                    "id": 7285,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "Roh Alby",
+                    "track_url": "",
+                    "duration_ms": 314426,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27371ec6ec7fa00d505c0e8a0ed",
+                    "id": 7286,
+                    "artist": "Mohamed Mohie"
+                }
+            ],
+            "id": 7276
+        },
+        {
+            "name": "Leh El Habeb",
+            "release_date": "1992-12-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a2b88be93fa17ea03febdb20",
+            "track_url": "https://open.spotify.com/album/3EHVqsQB4brO1m0H0eOnuw",
+            "tracks": [
+                {
+                    "name": "Leh El Habeb",
+                    "track_url": "",
+                    "duration_ms": 199733,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a2b88be93fa17ea03febdb20",
+                    "id": 7288,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "W Amalt Eh",
+                    "track_url": "",
+                    "duration_ms": 195573,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a2b88be93fa17ea03febdb20",
+                    "id": 7289,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "Meghannawy",
+                    "track_url": "",
+                    "duration_ms": 222160,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a2b88be93fa17ea03febdb20",
+                    "id": 7290,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "Enty Arfa",
+                    "track_url": "",
+                    "duration_ms": 150000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a2b88be93fa17ea03febdb20",
+                    "id": 7291,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "Malkeesh Haq",
+                    "track_url": "",
+                    "duration_ms": 196600,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a2b88be93fa17ea03febdb20",
+                    "id": 7292,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "Baateb Aalek",
+                    "track_url": "",
+                    "duration_ms": 251133,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a2b88be93fa17ea03febdb20",
+                    "id": 7293,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "Dehketak",
+                    "track_url": "",
+                    "duration_ms": 178106,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a2b88be93fa17ea03febdb20",
+                    "id": 7294,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "Khayef",
+                    "track_url": "",
+                    "duration_ms": 181466,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a2b88be93fa17ea03febdb20",
+                    "id": 7295,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "W Eshtaqtelak",
+                    "track_url": "",
+                    "duration_ms": 205866,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a2b88be93fa17ea03febdb20",
+                    "id": 7296,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "Habbeet",
+                    "track_url": "",
+                    "duration_ms": 209800,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a2b88be93fa17ea03febdb20",
+                    "id": 7297,
+                    "artist": "Mohamed Mohie"
+                }
+            ],
+            "id": 7287
+        },
+        {
+            "name": "Habeet",
+            "release_date": "1992-12-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731ae0eecedfa2125d10d1e4a0",
+            "track_url": "https://open.spotify.com/album/4ghFkMQ2dGNk77IVgNqJ2q",
+            "tracks": [
+                {
+                    "name": "Ana Habeet",
+                    "track_url": "",
+                    "duration_ms": 195666,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731ae0eecedfa2125d10d1e4a0",
+                    "id": 7299,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "Ha'ollek",
+                    "track_url": "",
+                    "duration_ms": 186773,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731ae0eecedfa2125d10d1e4a0",
+                    "id": 7300,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "Ya Reit",
+                    "track_url": "",
+                    "duration_ms": 250893,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731ae0eecedfa2125d10d1e4a0",
+                    "id": 7301,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "Hadoota",
+                    "track_url": "",
+                    "duration_ms": 251733,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731ae0eecedfa2125d10d1e4a0",
+                    "id": 7302,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "Tamenna",
+                    "track_url": "",
+                    "duration_ms": 212533,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731ae0eecedfa2125d10d1e4a0",
+                    "id": 7303,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "Ya Gamalha",
+                    "track_url": "",
+                    "duration_ms": 263840,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731ae0eecedfa2125d10d1e4a0",
+                    "id": 7304,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "Banadeeky",
+                    "track_url": "",
+                    "duration_ms": 206600,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731ae0eecedfa2125d10d1e4a0",
+                    "id": 7305,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "Te'arafy",
+                    "track_url": "",
+                    "duration_ms": 231733,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731ae0eecedfa2125d10d1e4a0",
+                    "id": 7306,
+                    "artist": "Mohamed Mohie"
+                }
+            ],
+            "id": 7298
+        },
+        {
+            "name": "Aatbak",
+            "release_date": "1991-12-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e0ffaba2cdb0293752757c12",
+            "track_url": "https://open.spotify.com/album/0pTZ36lMNLflpaVSWvOjgH",
+            "tracks": [
+                {
+                    "name": "Hata El Hawa",
+                    "track_url": "",
+                    "duration_ms": 302826,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e0ffaba2cdb0293752757c12",
+                    "id": 7308,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "Mn El Awel",
+                    "track_url": "",
+                    "duration_ms": 184266,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e0ffaba2cdb0293752757c12",
+                    "id": 7309,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "Aatbak",
+                    "track_url": "",
+                    "duration_ms": 281026,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e0ffaba2cdb0293752757c12",
+                    "id": 7310,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "Enty Fein",
+                    "track_url": "",
+                    "duration_ms": 218226,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e0ffaba2cdb0293752757c12",
+                    "id": 7311,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "Habbena Garahouna",
+                    "track_url": "",
+                    "duration_ms": 271693,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e0ffaba2cdb0293752757c12",
+                    "id": 7312,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "Atary",
+                    "track_url": "",
+                    "duration_ms": 190826,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e0ffaba2cdb0293752757c12",
+                    "id": 7313,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "Tany",
+                    "track_url": "",
+                    "duration_ms": 222906,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e0ffaba2cdb0293752757c12",
+                    "id": 7314,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "Taaban Ya Alby",
+                    "track_url": "",
+                    "duration_ms": 161306,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e0ffaba2cdb0293752757c12",
+                    "id": 7315,
+                    "artist": "Mohamed Mohie"
+                },
+                {
+                    "name": "Bohour El Hawa",
+                    "track_url": "",
+                    "duration_ms": 211093,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e0ffaba2cdb0293752757c12",
+                    "id": 7316,
+                    "artist": "Mohamed Mohie"
+                }
+            ],
+            "id": 7307
+        }
+    ],
+    "singles": [
+        {
+            "name": "اوعدك ( التجربة )",
+            "release_date": "2024-06-27",
+            "image": "https://i.scdn.co/image/ab67616d0000b27343b3fd7f9aaf0ea0a82444b5",
+            "track_url": "",
+            "id": 7317,
+            "artist": "Mohamed Mohie"
+        },
+        {
+            "name": "محمد محى | شيكو",
+            "release_date": "2023-12-14",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731aa991fda0820e69a292482f",
+            "track_url": "",
+            "id": 7318,
+            "artist": "Mohamed Mohie"
+        },
+        {
+            "name": "Fe Keda",
+            "release_date": "2022-07-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b5d7bfcf785cc9689c79feab",
+            "track_url": "",
+            "id": 7319,
+            "artist": "Mohamed Mohie"
+        },
+        {
+            "name": "Maat El Kalam",
+            "release_date": "2022-03-02",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a8f8fda253122bf1eb1500b3",
+            "track_url": "",
+            "id": 7320,
+            "artist": "Mohamed Mohie"
+        },
+        {
+            "name": "Betaa Zaman",
+            "release_date": "2021-12-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b273326ed16612af103145e3c13a",
+            "track_url": "",
+            "id": 7321,
+            "artist": "Mohamed Mohie"
+        },
+        {
+            "name": "Haga Ghareeba",
+            "release_date": "2021-12-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731615c7f2793a819614ab7833",
+            "track_url": "",
+            "id": 7322,
+            "artist": "Mohamed Mohie"
+        },
+        {
+            "name": "Ya Lally",
+            "release_date": "2021-11-17",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f9cdb07eab5992a5c5af55f2",
+            "track_url": "",
+            "id": 7323,
+            "artist": "Mohamed Mohie"
+        },
+        {
+            "name": "War2a W 2lam",
+            "release_date": "2021-08-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739fa452282bd772f2c7883d6c",
+            "track_url": "",
+            "id": 7324,
+            "artist": "Mohamed Mohie"
+        },
+        {
+            "name": "Mabaetsh Shabahy",
+            "release_date": "2021-03-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b27329484dd42f69fe61e279ef24",
+            "track_url": "",
+            "id": 7325,
+            "artist": "Mohamed Mohie"
+        },
+        {
+            "name": "Enta Fe Dami",
+            "release_date": "2021-02-14",
+            "image": "https://i.scdn.co/image/ab67616d0000b273410a7899ba8fe25c7720a380",
+            "track_url": "",
+            "id": 7326,
+            "artist": "Mohamed Mohie"
+        },
+        {
+            "name": "Baedna",
+            "release_date": "2020-11-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f9f532044cb8860756f8c856",
+            "track_url": "",
+            "id": 7327,
+            "artist": "Mohamed Mohie"
+        },
+        {
+            "name": "Qadia",
+            "release_date": "2020-08-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b27386e2138f9b92ce725f5380db",
+            "track_url": "",
+            "id": 7328,
+            "artist": "Mohamed Mohie"
+        },
+        {
+            "name": "Olt Akhono",
+            "release_date": "2020-07-03",
+            "image": "https://i.scdn.co/image/ab67616d0000b27340a4380c6a82c7e98b72c1c7",
+            "track_url": "",
+            "id": 7329,
+            "artist": "Mohamed Mohie"
+        },
+        {
+            "name": "Fawadt Amry",
+            "release_date": "2020-04-05",
+            "image": "https://i.scdn.co/image/ab67616d0000b27310eab5f0a0c950a99e30e6bf",
+            "track_url": "",
+            "id": 7330,
+            "artist": "Mohamed Mohie"
+        },
+        {
+            "name": "خلق آدم",
+            "release_date": "2020-03-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a33c60d1172923714c24ecfa",
+            "track_url": "",
+            "id": 7331,
+            "artist": "Mohamed Mohie"
+        },
+        {
+            "name": "الله (انشوده)",
+            "release_date": "2020-03-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b27383e00dfe0610d4c8cedaa7f8",
+            "track_url": "",
+            "id": 7332,
+            "artist": "Mohamed Mohie"
+        },
+        {
+            "name": "Sahranin",
+            "release_date": "2020-02-29",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731413c295dc6b7bb17165c422",
+            "track_url": "",
+            "id": 7333,
+            "artist": "Mohamed Mohie"
+        },
+        {
+            "name": "Mazika Hazainy",
+            "release_date": "2016-05-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e352d4fbbcfd21ac8cebe587",
+            "track_url": "",
+            "id": 7334,
+            "artist": "Mohamed Mohie"
+        }
+    ],
+    "popular_tracks": [
+        {
+            "name": "Leh Beyfakkarouny",
+            "track_url": "",
+            "duration_ms": 279928,
+            "image": "https://i.scdn.co/image/ab67616d0000b2732a2920a1649a982ff99d29a2",
+            "id": 7335,
+            "artist": "Mohamed Mohie"
+        },
+        {
+            "name": "Bahebbak",
+            "track_url": "",
+            "duration_ms": 250200,
+            "image": "https://i.scdn.co/image/ab67616d0000b2732a2920a1649a982ff99d29a2",
+            "id": 7336,
+            "artist": "Mohamed Mohie"
+        },
+        {
+            "name": "Aatpak",
+            "track_url": "",
+            "duration_ms": 282853,
+            "image": "https://i.scdn.co/image/ab67616d0000b273f97d4814f7d8e45a483e9df8",
+            "id": 7337,
+            "artist": "Mohamed Mohie"
+        },
+        {
+            "name": "Aatbak",
+            "track_url": "",
+            "duration_ms": 281026,
+            "image": "https://i.scdn.co/image/ab67616d0000b273e0ffaba2cdb0293752757c12",
+            "id": 7338,
+            "artist": "Mohamed Mohie"
+        },
+        {
+            "name": "Ahl El Malama",
+            "track_url": "",
+            "duration_ms": 277026,
+            "image": "https://i.scdn.co/image/ab67616d0000b27371ec6ec7fa00d505c0e8a0ed",
+            "id": 7339,
+            "artist": "Mohamed Mohie"
+        },
+        {
+            "name": "2ader W Te3melha",
+            "track_url": "",
+            "duration_ms": 271255,
+            "image": "https://i.scdn.co/image/ab67616d0000b273017857692ea9f3c5deda5536",
+            "id": 7340,
+            "artist": "Mohamed Mohie"
+        },
+        {
+            "name": "Fe Keda",
+            "track_url": "",
+            "duration_ms": 305000,
+            "image": "https://i.scdn.co/image/ab67616d0000b273b5d7bfcf785cc9689c79feab",
+            "id": 7341,
+            "artist": "Mohamed Mohie"
+        },
+        {
+            "name": "Etkallem Alaya",
+            "track_url": "",
+            "duration_ms": 298109,
+            "image": "https://i.scdn.co/image/ab67616d0000b2732a2920a1649a982ff99d29a2",
+            "id": 7342,
+            "artist": "Mohamed Mohie"
+        },
+        {
+            "name": "Soura W Dam3a",
+            "track_url": "",
+            "duration_ms": 283088,
+            "image": "https://i.scdn.co/image/ab67616d0000b2732a2920a1649a982ff99d29a2",
+            "id": 7343,
+            "artist": "Mohamed Mohie"
+        },
+        {
+            "name": "Betghib Alaya",
+            "track_url": "",
+            "duration_ms": 241110,
+            "image": "https://i.scdn.co/image/ab67616d0000b2732a2920a1649a982ff99d29a2",
+            "id": 7344,
+            "artist": "Mohamed Mohie"
+        }
+    ]
+}

@@ -1,0 +1,493 @@
+{
+    "artist": {
+        "id": "9341",
+        "name": "Eslam Kabonga",
+        "image": "https://i.scdn.co/image/ab67616d0000b2739e0dc9036c0b6dd32315d722",
+        "background_image": "https://i.scdn.co/image/ab67616d00001e029e0dc9036c0b6dd32315d722"
+    },
+    "albums": [],
+    "singles": [
+        {
+            "name": "قصه كل الشباب",
+            "release_date": "2024-12-26",
+            "image": "https://i.scdn.co/image/ab67616d0000b273169d76752a6062e5d6238ca1",
+            "track_url": "",
+            "id": 9342,
+            "artist": "Eslam Kabonga"
+        },
+        {
+            "name": "انا مش ديلار يا حكومه",
+            "release_date": "2024-12-26",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739c383d244d92e67c0a6c63ed",
+            "track_url": "",
+            "id": 9343,
+            "artist": "Eslam Kabonga"
+        },
+        {
+            "name": "نكرتو خيري",
+            "release_date": "2024-12-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b27340251545b2630a7b39b92705",
+            "track_url": "",
+            "id": 9344,
+            "artist": "Eslam Kabonga"
+        },
+        {
+            "name": "مشواري خبط ودم",
+            "release_date": "2024-12-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b273216eedd05245343f66654309",
+            "track_url": "",
+            "id": 9345,
+            "artist": "Eslam Kabonga"
+        },
+        {
+            "name": "فتش بين الوشوش",
+            "release_date": "2024-12-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b273fb808185c08a66853d42afec",
+            "track_url": "",
+            "id": 9346,
+            "artist": "Eslam Kabonga"
+        },
+        {
+            "name": "صاحب الحجرين قعدتو كركر",
+            "release_date": "2024-12-20",
+            "image": "https://i.scdn.co/image/ab67616d0000b273591946d3b5a86cbe695bc052",
+            "track_url": "",
+            "id": 9347,
+            "artist": "Eslam Kabonga"
+        },
+        {
+            "name": "وشك هيعمل بوم",
+            "release_date": "2024-12-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731631fc8157cb6520fcf3969c",
+            "track_url": "",
+            "id": 9348,
+            "artist": "Eslam Kabonga"
+        },
+        {
+            "name": "نو امان (No Aman)",
+            "release_date": "2024-12-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731ad35d88043f68dbd551039d",
+            "track_url": "",
+            "id": 9349,
+            "artist": "Eslam Kabonga"
+        },
+        {
+            "name": "عايزين تشوفوا وقعتي",
+            "release_date": "2024-12-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733e544fa02f576b6717438dd8",
+            "track_url": "",
+            "id": 9350,
+            "artist": "Eslam Kabonga"
+        },
+        {
+            "name": "انا الاسد حاكم مملكتي",
+            "release_date": "2024-12-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735e7aaa5c440af145f672df4d",
+            "track_url": "",
+            "id": 9351,
+            "artist": "Eslam Kabonga"
+        },
+        {
+            "name": "المغامر الطايش",
+            "release_date": "2024-12-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b27339809053a1e74b75a8ef03ae",
+            "track_url": "",
+            "id": 9352,
+            "artist": "Eslam Kabonga"
+        },
+        {
+            "name": "انا المغامر انتو مين",
+            "release_date": "2024-12-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b273390ff6c073a7a55a85cbd908",
+            "track_url": "",
+            "id": 9353,
+            "artist": "Eslam Kabonga"
+        },
+        {
+            "name": "الى نفسو فيا",
+            "release_date": "2024-12-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730b42d51ef438fab33c4a80b6",
+            "track_url": "",
+            "id": 9354,
+            "artist": "Eslam Kabonga"
+        },
+        {
+            "name": "من صغري بخصم جهات",
+            "release_date": "2024-12-17",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b3455ded609e83b9950956b1",
+            "track_url": "",
+            "id": 9355,
+            "artist": "Eslam Kabonga"
+        },
+        {
+            "name": "لمو السلاح",
+            "release_date": "2024-12-17",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f6b8ea028fc5cb7409202716",
+            "track_url": "",
+            "id": 9356,
+            "artist": "Eslam Kabonga"
+        },
+        {
+            "name": "يلا جوله",
+            "release_date": "2024-12-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b27311595d17dd2f9cbd6da7b0ab",
+            "track_url": "",
+            "id": 9357,
+            "artist": "Eslam Kabonga"
+        },
+        {
+            "name": "هقول رساله الكل يسمع",
+            "release_date": "2024-12-13",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736aec7126ac33b471fc2a13ed",
+            "track_url": "",
+            "id": 9358,
+            "artist": "Eslam Kabonga"
+        },
+        {
+            "name": "شاطب علي اسمك لاغيه",
+            "release_date": "2024-12-13",
+            "image": "https://i.scdn.co/image/ab67616d0000b27345c66488584f8fcb71c6431c",
+            "track_url": "",
+            "id": 9359,
+            "artist": "Eslam Kabonga"
+        },
+        {
+            "name": "الاخ نعمه الاخ سند",
+            "release_date": "2024-12-13",
+            "image": "https://i.scdn.co/image/ab67616d0000b273cc1439f625e6c6811bcf573f",
+            "track_url": "",
+            "id": 9360,
+            "artist": "Eslam Kabonga"
+        },
+        {
+            "name": "ساكن في عالم النمايج",
+            "release_date": "2024-12-12",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738c4cd4c9c0b4eaad1f5b07a2",
+            "track_url": "",
+            "id": 9361,
+            "artist": "Eslam Kabonga"
+        },
+        {
+            "name": "حب مين ياغشيم",
+            "release_date": "2024-12-12",
+            "image": "https://i.scdn.co/image/ab67616d0000b273bb295749466018acdab62c2f",
+            "track_url": "",
+            "id": 9362,
+            "artist": "Eslam Kabonga"
+        },
+        {
+            "name": "محدش صان",
+            "release_date": "2024-12-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b273145364f57ac0b193a463642f",
+            "track_url": "",
+            "id": 9363,
+            "artist": "Eslam Kabonga"
+        },
+        {
+            "name": "فتحنا باب الانتداب",
+            "release_date": "2024-12-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736b262513d01e513b8e526a2e",
+            "track_url": "",
+            "id": 9364,
+            "artist": "Eslam Kabonga"
+        },
+        {
+            "name": "سيفي واقف ياللي انت كارف",
+            "release_date": "2024-12-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ff6abca4978a1a4f75618a64",
+            "track_url": "",
+            "id": 9365,
+            "artist": "Eslam Kabonga"
+        },
+        {
+            "name": "ساحب سلاحي وجارح",
+            "release_date": "2024-12-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737e374ed610406f1803daaf5a",
+            "track_url": "",
+            "id": 9366,
+            "artist": "Eslam Kabonga"
+        },
+        {
+            "name": "هنط جامب في جامب تاني (عوده العلاقات)",
+            "release_date": "2024-12-06",
+            "image": "https://i.scdn.co/image/ab67616d0000b273962fd968b8b14b0885c980f7",
+            "track_url": "",
+            "id": 9367,
+            "artist": "Eslam Kabonga"
+        },
+        {
+            "name": "باب الخصومة متاح",
+            "release_date": "2024-12-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735599bd9b6ffc9c0d937c5ef4",
+            "track_url": "",
+            "id": 9368,
+            "artist": "Eslam Kabonga"
+        },
+        {
+            "name": "ملناش كبير كبيرنا فوق",
+            "release_date": "2024-12-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27344d22af7d1d85ddf8812b0f3",
+            "track_url": "",
+            "id": 9369,
+            "artist": "Eslam Kabonga"
+        },
+        {
+            "name": "طز فيك",
+            "release_date": "2024-12-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273445f6f00a177c03564ab0f41",
+            "track_url": "",
+            "id": 9370,
+            "artist": "Eslam Kabonga"
+        },
+        {
+            "name": "وريتك الخير",
+            "release_date": "2024-11-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b27396c84cee1907c7e0a9c62ae7",
+            "track_url": "",
+            "id": 9371,
+            "artist": "Eslam Kabonga"
+        },
+        {
+            "name": "ناصر كان اذكى من رفاعي",
+            "release_date": "2024-11-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b273014dd9a74e09a8cb86ad5225",
+            "track_url": "",
+            "id": 9372,
+            "artist": "Eslam Kabonga"
+        },
+        {
+            "name": "سوري مبردش انا بستوري",
+            "release_date": "2024-11-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b273838697cdcf1a33b97dafd06b",
+            "track_url": "",
+            "id": 9373,
+            "artist": "Eslam Kabonga"
+        },
+        {
+            "name": "اي لاف يو بيبي ماي كوين",
+            "release_date": "2024-11-29",
+            "image": "https://i.scdn.co/image/ab67616d0000b27340fa85bad16a06271a51c710",
+            "track_url": "",
+            "id": 9374,
+            "artist": "Eslam Kabonga"
+        },
+        {
+            "name": "صايع مسجون",
+            "release_date": "2024-11-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b273fc37b8edef7f2f165dc0eddf",
+            "track_url": "",
+            "id": 9375,
+            "artist": "Eslam Kabonga"
+        },
+        {
+            "name": "انا الكابوس اللي راعبكو",
+            "release_date": "2024-11-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d49188ed1e7787913338bf8c",
+            "track_url": "",
+            "id": 9376,
+            "artist": "Eslam Kabonga"
+        },
+        {
+            "name": "ملوك الجدعنه",
+            "release_date": "2024-11-26",
+            "image": "https://i.scdn.co/image/ab67616d0000b27375359b4e8a167c6a7fa05cdb",
+            "track_url": "",
+            "id": 9377,
+            "artist": "Eslam Kabonga"
+        },
+        {
+            "name": "مزراب ع منور يا ابن جهتي",
+            "release_date": "2024-11-26",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731281ce18120043e9fef8a6f7",
+            "track_url": "",
+            "id": 9378,
+            "artist": "Eslam Kabonga"
+        },
+        {
+            "name": "مرعب الاجيال",
+            "release_date": "2024-11-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b273abbb9d7e836baeae6fa9b5e4",
+            "track_url": "",
+            "id": 9379,
+            "artist": "Eslam Kabonga"
+        },
+        {
+            "name": "كومبارس في فلم الهلفوت",
+            "release_date": "2024-11-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735007a226411a116e588a4280",
+            "track_url": "",
+            "id": 9380,
+            "artist": "Eslam Kabonga"
+        },
+        {
+            "name": "وضعي سامحلي اعيش اغامر",
+            "release_date": "2024-11-22",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f233892b60e38a764977345a",
+            "track_url": "",
+            "id": 9381,
+            "artist": "Eslam Kabonga"
+        },
+        {
+            "name": "مسجون من سنه 60",
+            "release_date": "2024-11-22",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b99c11426724158092eb4da1",
+            "track_url": "",
+            "id": 9382,
+            "artist": "Eslam Kabonga"
+        },
+        {
+            "name": "كلو يعمل انسحاب",
+            "release_date": "2024-11-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b273fe063603620dddf8f270743a",
+            "track_url": "",
+            "id": 9383,
+            "artist": "Eslam Kabonga"
+        },
+        {
+            "name": "اخطر عنتيل",
+            "release_date": "2024-11-20",
+            "image": "https://i.scdn.co/image/ab67616d0000b27313714df61697e88bd6023eb4",
+            "track_url": "",
+            "id": 9384,
+            "artist": "Eslam Kabonga"
+        },
+        {
+            "name": "الاكشن شغلتي واختصاصي",
+            "release_date": "2024-11-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d52de292737468c59cfc38bd",
+            "track_url": "",
+            "id": 9385,
+            "artist": "Eslam Kabonga"
+        },
+        {
+            "name": "اخطر كائن في الكون",
+            "release_date": "2024-11-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e86c02c6d2341a074b9032bc",
+            "track_url": "",
+            "id": 9386,
+            "artist": "Eslam Kabonga"
+        },
+        {
+            "name": "هلافيت جايين في صيت",
+            "release_date": "2024-11-16",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d6966adfa494fd86ed56fff4",
+            "track_url": "",
+            "id": 9387,
+            "artist": "Eslam Kabonga"
+        },
+        {
+            "name": "ناصر كان اذكي من رفاعي",
+            "release_date": "2024-11-16",
+            "image": "https://i.scdn.co/image/ab67616d0000b273082eea42128862c02b418255",
+            "track_url": "",
+            "id": 9388,
+            "artist": "Eslam Kabonga"
+        },
+        {
+            "name": "فينك يا خصمي لا اراك",
+            "release_date": "2024-11-05",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a2fcc967aa542f13bdba3a69",
+            "track_url": "",
+            "id": 9389,
+            "artist": "Eslam Kabonga"
+        },
+        {
+            "name": "وزير الدلع",
+            "release_date": "2024-11-03",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736b00dc196930b0e9e6e7b4c7",
+            "track_url": "",
+            "id": 9390,
+            "artist": "Eslam Kabonga"
+        },
+        {
+            "name": "مقطوع من شجرة",
+            "release_date": "2024-11-03",
+            "image": "https://i.scdn.co/image/ab67616d0000b273953831580d951060833a6a85",
+            "track_url": "",
+            "id": 9391,
+            "artist": "Eslam Kabonga"
+        }
+    ],
+    "popular_tracks": [
+        {
+            "name": "مالناش كبير كبيرنا فوق",
+            "track_url": "",
+            "duration_ms": 316421,
+            "image": "https://i.scdn.co/image/ab67616d0000b2739e0dc9036c0b6dd32315d722",
+            "id": 9392,
+            "artist": "Eslam Kabonga"
+        },
+        {
+            "name": "سوري مبردش انا بستوري",
+            "track_url": "",
+            "duration_ms": 253361,
+            "image": "https://i.scdn.co/image/ab67616d0000b273c00de3ba9755a269c85a7b4d",
+            "id": 9393,
+            "artist": "Eslam Kabonga"
+        },
+        {
+            "name": "ايوا يا حبيبتي وحشتينى",
+            "track_url": "",
+            "duration_ms": 433934,
+            "image": "https://i.scdn.co/image/ab67616d0000b27391b277f80ee25b2d25ec1a50",
+            "id": 9394,
+            "artist": "Eslam Kabonga"
+        },
+        {
+            "name": "زماني صابني عيار",
+            "track_url": "",
+            "duration_ms": 189818,
+            "image": "https://i.scdn.co/image/ab67616d0000b27393cb6472efde041cd78b1b39",
+            "id": 9395,
+            "artist": "Eslam Kabonga"
+        },
+        {
+            "name": "اللي نفسه فيا بيتي ميتوهش",
+            "track_url": "",
+            "duration_ms": 385068,
+            "image": "https://i.scdn.co/image/ab67616d0000b273f629f09c000f9239113cf422",
+            "id": 9396,
+            "artist": "Eslam Kabonga"
+        },
+        {
+            "name": "بلاش كرفات",
+            "track_url": "",
+            "duration_ms": 377092,
+            "image": "https://i.scdn.co/image/ab67616d0000b27351aefc7f98180972ed0e7300",
+            "id": 9397,
+            "artist": "Eslam Kabonga"
+        },
+        {
+            "name": "اسمك فولان انا هلغيه",
+            "track_url": "",
+            "duration_ms": 321271,
+            "image": "https://i.scdn.co/image/ab67616d0000b273639e2fe94b89df69d9684787",
+            "id": 9398,
+            "artist": "Eslam Kabonga"
+        },
+        {
+            "name": "طب هأ دي حبيبتك مش بتقول لا - مهرجان - طب هأ دي حبيبتك مش بتقول لا - اسلام كابونجا -ميسو ميسره -توزيع فيجو الدخلاوي مهرجانات",
+            "track_url": "",
+            "duration_ms": 291631,
+            "image": "https://i.scdn.co/image/ab67616d0000b273f04816192b9861025fce3809",
+            "id": 9399,
+            "artist": "Eslam Kabonga"
+        },
+        {
+            "name": "بونجور هلعب جولة وطفو النور",
+            "track_url": "",
+            "duration_ms": 355938,
+            "image": "https://i.scdn.co/image/ab67616d0000b27372f05b024f46db6750f1efed",
+            "id": 9400,
+            "artist": "Eslam Kabonga"
+        },
+        {
+            "name": "من صغري عقباوي",
+            "track_url": "",
+            "duration_ms": 264724,
+            "image": "https://i.scdn.co/image/ab67616d0000b273c2d11608c8f2633dbc099825",
+            "id": 9401,
+            "artist": "Eslam Kabonga"
+        }
+    ]
+}

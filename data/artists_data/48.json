@@ -1,0 +1,471 @@
+{
+    "artist": {
+        "id": "7345",
+        "name": "Mohammed Saeed",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb9fa60f01bc337ec62951610b",
+        "background_image": "https://i.scdn.co/image/ab676161000051749fa60f01bc337ec62951610b"
+    },
+    "albums": [
+        {
+            "name": "Markeba (Phase One)",
+            "release_date": "2024-12-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b27365057d74a73c7a664605f338",
+            "track_url": "https://open.spotify.com/album/4LRt35cFkXXU4Gs6DFJsem",
+            "tracks": [
+                {
+                    "name": "Elly Sar",
+                    "track_url": "",
+                    "duration_ms": 213835,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27365057d74a73c7a664605f338",
+                    "id": 7347,
+                    "artist": "Mohammed Saeed"
+                },
+                {
+                    "name": "Mashy Adwar Aleky",
+                    "track_url": "",
+                    "duration_ms": 178741,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27365057d74a73c7a664605f338",
+                    "id": 7348,
+                    "artist": "Mohammed Saeed"
+                },
+                {
+                    "name": "Matndahesh",
+                    "track_url": "",
+                    "duration_ms": 185308,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27365057d74a73c7a664605f338",
+                    "id": 7349,
+                    "artist": "Mohammed Saeed"
+                },
+                {
+                    "name": "Qeset Kol Youmen",
+                    "track_url": "",
+                    "duration_ms": 149762,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27365057d74a73c7a664605f338",
+                    "id": 7350,
+                    "artist": "Mohammed Saeed"
+                },
+                {
+                    "name": "Ya Ghaly",
+                    "track_url": "",
+                    "duration_ms": 152054,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27365057d74a73c7a664605f338",
+                    "id": 7351,
+                    "artist": "Mohammed Saeed"
+                },
+                {
+                    "name": "Eb3deni",
+                    "track_url": "",
+                    "duration_ms": 235275,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27365057d74a73c7a664605f338",
+                    "id": 7352,
+                    "artist": "Mohammed Saeed"
+                },
+                {
+                    "name": "Hal?",
+                    "track_url": "",
+                    "duration_ms": 168961,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27365057d74a73c7a664605f338",
+                    "id": 7353,
+                    "artist": "Mohammed Saeed"
+                }
+            ],
+            "id": 7346
+        }
+    ],
+    "singles": [
+        {
+            "name": "Kedba",
+            "release_date": "2024-11-13",
+            "image": "https://i.scdn.co/image/ab67616d0000b27385b5d71e172954c1534305ad",
+            "track_url": "",
+            "id": 7354,
+            "artist": "Mohammed Saeed"
+        },
+        {
+            "name": "راحت فين",
+            "release_date": "2024-08-22",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732b32bf2225f11dc343d9a477",
+            "track_url": "",
+            "id": 7355,
+            "artist": "Mohammed Saeed"
+        },
+        {
+            "name": "Bel Ayam",
+            "release_date": "2024-07-27",
+            "image": "https://i.scdn.co/image/ab67616d0000b273296badb181bc4dc62f6d0a51",
+            "track_url": "",
+            "id": 7356,
+            "artist": "Mohammed Saeed"
+        },
+        {
+            "name": "Kol Ma Aftkr",
+            "release_date": "2024-07-26",
+            "image": "https://i.scdn.co/image/ab67616d0000b27330b9078fe5cd8892ca5d80a8",
+            "track_url": "",
+            "id": 7357,
+            "artist": "Mohammed Saeed"
+        },
+        {
+            "name": "Tb Khaleky",
+            "release_date": "2024-07-16",
+            "image": "https://i.scdn.co/image/ab67616d0000b27349d7a7ec9b5ae0ca13401d23",
+            "track_url": "",
+            "id": 7358,
+            "artist": "Mohammed Saeed"
+        },
+        {
+            "name": "Kol Elly Eshto",
+            "release_date": "2024-06-13",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d3419a6379e206141c6ba38b",
+            "track_url": "",
+            "id": 7359,
+            "artist": "Mohammed Saeed"
+        },
+        {
+            "name": "Bara L Koon",
+            "release_date": "2024-02-22",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d54e076861831a33e7eb8d27",
+            "track_url": "",
+            "id": 7360,
+            "artist": "Mohammed Saeed"
+        },
+        {
+            "name": "Ya Naseeni",
+            "release_date": "2024-02-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b27398b1f9140c6b0361d8f85473",
+            "track_url": "",
+            "id": 7361,
+            "artist": "Mohammed Saeed"
+        },
+        {
+            "name": "Lw Bs",
+            "release_date": "2023-12-20",
+            "image": "https://i.scdn.co/image/ab67616d0000b273cf39b2245e3e8cb126977bf3",
+            "track_url": "",
+            "id": 7362,
+            "artist": "Mohammed Saeed"
+        },
+        {
+            "name": "Lela",
+            "release_date": "2023-08-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d98b787000cc8accb8c8925d",
+            "track_url": "",
+            "id": 7363,
+            "artist": "Mohammed Saeed"
+        },
+        {
+            "name": "Kam Sana",
+            "release_date": "2023-07-05",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737b9a58b2717d4d49b269903e",
+            "track_url": "",
+            "id": 7364,
+            "artist": "Mohammed Saeed"
+        },
+        {
+            "name": "7PM",
+            "release_date": "2023-05-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b273fbe156a32ac06b69c33cde3d",
+            "track_url": "",
+            "id": 7365,
+            "artist": "Mohammed Saeed"
+        },
+        {
+            "name": "Mestaneky",
+            "release_date": "2023-03-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734500b0078a44d28486358dd1",
+            "track_url": "",
+            "id": 7366,
+            "artist": "Mohammed Saeed"
+        },
+        {
+            "name": "Fe Einy",
+            "release_date": "2023-01-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b27367f50dc902688f7bd32ff333",
+            "track_url": "",
+            "id": 7367,
+            "artist": "Mohammed Saeed"
+        },
+        {
+            "name": "W El 7al Eh",
+            "release_date": "2022-12-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b27371be0abd9dd85481e5c3720b",
+            "track_url": "",
+            "id": 7368,
+            "artist": "Mohammed Saeed"
+        },
+        {
+            "name": "Alo Aleky",
+            "release_date": "2022-11-16",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738625cb212a85eba02eec9eea",
+            "track_url": "",
+            "id": 7369,
+            "artist": "Mohammed Saeed"
+        },
+        {
+            "name": "Matstagrabesh",
+            "release_date": "2022-08-17",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c1fe08c55d5804c59e91524c",
+            "track_url": "",
+            "id": 7370,
+            "artist": "Mohammed Saeed"
+        },
+        {
+            "name": "Geet Aktblk",
+            "release_date": "2022-05-03",
+            "image": "https://i.scdn.co/image/ab67616d0000b273782fbe273bb32803bc7ed54a",
+            "track_url": "",
+            "id": 7371,
+            "artist": "Mohammed Saeed"
+        },
+        {
+            "name": "Mehtag L Wogodk",
+            "release_date": "2021-12-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b273cb48f9fa36a3bf51ca358cf5",
+            "track_url": "",
+            "id": 7372,
+            "artist": "Mohammed Saeed"
+        },
+        {
+            "name": "Konty 2olely",
+            "release_date": "2021-11-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b273199c0d5a78010999d4e7ffee",
+            "track_url": "",
+            "id": 7373,
+            "artist": "Mohammed Saeed"
+        },
+        {
+            "name": "Shofy 7aly",
+            "release_date": "2021-10-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b273204375292885f2b2fa08fca2",
+            "track_url": "",
+            "id": 7374,
+            "artist": "Mohammed Saeed"
+        },
+        {
+            "name": "Dalalek",
+            "release_date": "2021-07-14",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c11a247f0d4fd04c6f22ab96",
+            "track_url": "",
+            "id": 7375,
+            "artist": "Mohammed Saeed"
+        },
+        {
+            "name": "Gheby",
+            "release_date": "2021-04-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c014a9ae0fc3e093e153f349",
+            "track_url": "",
+            "id": 7376,
+            "artist": "Mohammed Saeed"
+        },
+        {
+            "name": "Makmelnash",
+            "release_date": "2021-01-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b27386362d632139c1da1c8a5b57",
+            "track_url": "",
+            "id": 7377,
+            "artist": "Mohammed Saeed"
+        },
+        {
+            "name": "Nasy",
+            "release_date": "2020-11-16",
+            "image": "https://i.scdn.co/image/ab67616d0000b273504a95e44aaa2206ba2aa357",
+            "track_url": "",
+            "id": 7378,
+            "artist": "Mohammed Saeed"
+        },
+        {
+            "name": "Keef Elhal",
+            "release_date": "2020-09-17",
+            "image": "https://i.scdn.co/image/ab67616d0000b273feabe4401c1ccd6f7ab4035b",
+            "track_url": "",
+            "id": 7379,
+            "artist": "Mohammed Saeed"
+        },
+        {
+            "name": "L7aly",
+            "release_date": "2020-06-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ca5929f584f9627cffa53ec2",
+            "track_url": "",
+            "id": 7380,
+            "artist": "Mohammed Saeed"
+        },
+        {
+            "name": "Rag3a Tany Leh",
+            "release_date": "2020-05-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b273524a5e1a0a89e9ce28a4c9c7",
+            "track_url": "",
+            "id": 7381,
+            "artist": "Mohammed Saeed"
+        },
+        {
+            "name": "Beny W Benk",
+            "release_date": "2019-12-20",
+            "image": "https://i.scdn.co/image/ab67616d0000b27330898d75ff1ff5ddb10e247b",
+            "track_url": "",
+            "id": 7382,
+            "artist": "Mohammed Saeed"
+        },
+        {
+            "name": "Gawab",
+            "release_date": "2019-10-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732d3f2d2e90386fe4b44efb96",
+            "track_url": "",
+            "id": 7383,
+            "artist": "Mohammed Saeed"
+        },
+        {
+            "name": "Met3'er",
+            "release_date": "2019-06-27",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f468a2a8f7785aaab79eb025",
+            "track_url": "",
+            "id": 7384,
+            "artist": "Mohammed Saeed"
+        },
+        {
+            "name": "Ya Welly",
+            "release_date": "2019-06-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b273436336d19c08b43fef7117d6",
+            "track_url": "",
+            "id": 7385,
+            "artist": "Mohammed Saeed"
+        },
+        {
+            "name": "Wahdy Lakn",
+            "release_date": "2019-04-29",
+            "image": "https://i.scdn.co/image/ab67616d0000b273cf3b1baf15aa7467becd3f02",
+            "track_url": "",
+            "id": 7386,
+            "artist": "Mohammed Saeed"
+        },
+        {
+            "name": "Law",
+            "release_date": "2019-03-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d50231b864c87cceb2b8a9a2",
+            "track_url": "",
+            "id": 7387,
+            "artist": "Mohammed Saeed"
+        },
+        {
+            "name": "Mesh Bahke",
+            "release_date": "2019-02-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b27328af66fb88638156b5285996",
+            "track_url": "",
+            "id": 7388,
+            "artist": "Mohammed Saeed"
+        },
+        {
+            "name": "Mafesh Badeel",
+            "release_date": "2018-12-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b27350ed914802df2a62f03f0f79",
+            "track_url": "",
+            "id": 7389,
+            "artist": "Mohammed Saeed"
+        },
+        {
+            "name": "Bedon Mwa3ed",
+            "release_date": "2018-10-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d439909f540191a3e328fffe",
+            "track_url": "",
+            "id": 7390,
+            "artist": "Mohammed Saeed"
+        },
+        {
+            "name": "GOWAKY",
+            "release_date": "2018-08-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273db2f39e77e9c878bf3dd21b1",
+            "track_url": "",
+            "id": 7391,
+            "artist": "Mohammed Saeed"
+        },
+        {
+            "name": "Before",
+            "release_date": "2017-03-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b27306bc21c0d6185ecd6ae86c92",
+            "track_url": "",
+            "id": 7392,
+            "artist": "Mohammed Saeed"
+        }
+    ],
+    "popular_tracks": [
+        {
+            "name": "Alo Aleky",
+            "track_url": "",
+            "duration_ms": 178885,
+            "image": "https://i.scdn.co/image/ab67616d0000b2738625cb212a85eba02eec9eea",
+            "id": 7393,
+            "artist": "Mohammed Saeed"
+        },
+        {
+            "name": "Fe Einy",
+            "track_url": "",
+            "duration_ms": 188225,
+            "image": "https://i.scdn.co/image/ab67616d0000b27367f50dc902688f7bd32ff333",
+            "id": 7394,
+            "artist": "Mohammed Saeed"
+        },
+        {
+            "name": "Konty 2olely",
+            "track_url": "",
+            "duration_ms": 169732,
+            "image": "https://i.scdn.co/image/ab67616d0000b273199c0d5a78010999d4e7ffee",
+            "id": 7395,
+            "artist": "Mohammed Saeed"
+        },
+        {
+            "name": "Mehtag L Wogodk",
+            "track_url": "",
+            "duration_ms": 180927,
+            "image": "https://i.scdn.co/image/ab67616d0000b273cb48f9fa36a3bf51ca358cf5",
+            "id": 7396,
+            "artist": "Mohammed Saeed"
+        },
+        {
+            "name": "W El 7al Eh",
+            "track_url": "",
+            "duration_ms": 179284,
+            "image": "https://i.scdn.co/image/ab67616d0000b27371be0abd9dd85481e5c3720b",
+            "id": 7397,
+            "artist": "Mohammed Saeed"
+        },
+        {
+            "name": "Met3'er",
+            "track_url": "",
+            "duration_ms": 171458,
+            "image": "https://i.scdn.co/image/ab67616d0000b273f468a2a8f7785aaab79eb025",
+            "id": 7398,
+            "artist": "Mohammed Saeed"
+        },
+        {
+            "name": "Law",
+            "track_url": "",
+            "duration_ms": 234775,
+            "image": "https://i.scdn.co/image/ab67616d0000b273d50231b864c87cceb2b8a9a2",
+            "id": 7399,
+            "artist": "Mohammed Saeed"
+        },
+        {
+            "name": "Beny W Benk",
+            "track_url": "",
+            "duration_ms": 244136,
+            "image": "https://i.scdn.co/image/ab67616d0000b27330898d75ff1ff5ddb10e247b",
+            "id": 7400,
+            "artist": "Mohammed Saeed"
+        },
+        {
+            "name": "Wahdy Lakn",
+            "track_url": "",
+            "duration_ms": 207782,
+            "image": "https://i.scdn.co/image/ab67616d0000b273cf3b1baf15aa7467becd3f02",
+            "id": 7401,
+            "artist": "Mohammed Saeed"
+        },
+        {
+            "name": "Makmelnash",
+            "track_url": "",
+            "duration_ms": 191637,
+            "image": "https://i.scdn.co/image/ab67616d0000b27386362d632139c1da1c8a5b57",
+            "id": 7402,
+            "artist": "Mohammed Saeed"
+        }
+    ]
+}

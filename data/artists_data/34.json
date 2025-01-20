@@ -1,0 +1,1385 @@
+{
+    "artist": {
+        "id": "5241",
+        "name": "Carole Samaha",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb27a056304bf726a48f73fa96",
+        "background_image": "https://i.scdn.co/image/ab6761610000517427a056304bf726a48f73fa96"
+    },
+    "albums": [
+        {
+            "name": "Mokhtalifa",
+            "release_date": "2024-09-09",
+            "image": "https://i.scdn.co/image/ab67616d0000b273bd598458b92cf31997a0aee1",
+            "track_url": "https://open.spotify.com/album/5jNzmtcSilAskFLb2iWulf",
+            "tracks": [
+                {
+                    "name": "Ghannou La Habibi",
+                    "track_url": "",
+                    "duration_ms": 233705,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bd598458b92cf31997a0aee1",
+                    "id": 5243,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Nafas",
+                    "track_url": "",
+                    "duration_ms": 224574,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bd598458b92cf31997a0aee1",
+                    "id": 5244,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Agmal Sinine",
+                    "track_url": "",
+                    "duration_ms": 174043,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bd598458b92cf31997a0aee1",
+                    "id": 5245,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Ktir Bkhaf",
+                    "track_url": "",
+                    "duration_ms": 210238,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bd598458b92cf31997a0aee1",
+                    "id": 5246,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Halet Takhdir",
+                    "track_url": "",
+                    "duration_ms": 210875,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bd598458b92cf31997a0aee1",
+                    "id": 5247,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Mokhtalifa",
+                    "track_url": "",
+                    "duration_ms": 178252,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bd598458b92cf31997a0aee1",
+                    "id": 5248,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Habibi Salam",
+                    "track_url": "",
+                    "duration_ms": 213750,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bd598458b92cf31997a0aee1",
+                    "id": 5249,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Khabbini Bshanta",
+                    "track_url": "",
+                    "duration_ms": 234172,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bd598458b92cf31997a0aee1",
+                    "id": 5250,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Baet Assad",
+                    "track_url": "",
+                    "duration_ms": 198246,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bd598458b92cf31997a0aee1",
+                    "id": 5251,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Betaaed",
+                    "track_url": "",
+                    "duration_ms": 158743,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bd598458b92cf31997a0aee1",
+                    "id": 5252,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Tab Baaden?",
+                    "track_url": "",
+                    "duration_ms": 202298,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bd598458b92cf31997a0aee1",
+                    "id": 5253,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Waet El Hobb",
+                    "track_url": "",
+                    "duration_ms": 258858,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bd598458b92cf31997a0aee1",
+                    "id": 5254,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Edhak Ya Albi",
+                    "track_url": "",
+                    "duration_ms": 183222,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bd598458b92cf31997a0aee1",
+                    "id": 5255,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Bossa",
+                    "track_url": "",
+                    "duration_ms": 198770,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bd598458b92cf31997a0aee1",
+                    "id": 5256,
+                    "artist": "Carole Samaha"
+                }
+            ],
+            "id": 5242
+        },
+        {
+            "name": "Golden Album",
+            "release_date": "2023-03-03",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ee2cca26f432bcfefc85004a",
+            "track_url": "https://open.spotify.com/album/7otH0nP1oQMggV9AjUcW9D",
+            "tracks": [
+                {
+                    "name": "Satantahi Al Harbu",
+                    "track_url": "",
+                    "duration_ms": 220704,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ee2cca26f432bcfefc85004a",
+                    "id": 5258,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Elahy",
+                    "track_url": "",
+                    "duration_ms": 256241,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ee2cca26f432bcfefc85004a",
+                    "id": 5259,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Beirut",
+                    "track_url": "",
+                    "duration_ms": 221288,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ee2cca26f432bcfefc85004a",
+                    "id": 5260,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Fakker Bi Ghayrika",
+                    "track_url": "",
+                    "duration_ms": 304097,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ee2cca26f432bcfefc85004a",
+                    "id": 5261,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Ehtizar",
+                    "track_url": "",
+                    "duration_ms": 273311,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ee2cca26f432bcfefc85004a",
+                    "id": 5262,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Ayoha Al Marroun",
+                    "track_url": "",
+                    "duration_ms": 222375,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ee2cca26f432bcfefc85004a",
+                    "id": 5263,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Sa Assiru Yawman",
+                    "track_url": "",
+                    "duration_ms": 307500,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ee2cca26f432bcfefc85004a",
+                    "id": 5264,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Toyour Al Nil",
+                    "track_url": "",
+                    "duration_ms": 271709,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ee2cca26f432bcfefc85004a",
+                    "id": 5265,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Sa Ahlomu",
+                    "track_url": "",
+                    "duration_ms": 196764,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ee2cca26f432bcfefc85004a",
+                    "id": 5266,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Kitar Al Sa'a Al Wahida",
+                    "track_url": "",
+                    "duration_ms": 311034,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ee2cca26f432bcfefc85004a",
+                    "id": 5267,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "La Anamu Li Ahloma",
+                    "track_url": "",
+                    "duration_ms": 279267,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ee2cca26f432bcfefc85004a",
+                    "id": 5268,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Wa Nahnu Nohebb Al Hayat",
+                    "track_url": "",
+                    "duration_ms": 239602,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273ee2cca26f432bcfefc85004a",
+                    "id": 5269,
+                    "artist": "Carole Samaha"
+                }
+            ],
+            "id": 5257
+        },
+        {
+            "name": "Christmas Carole",
+            "release_date": "2020-12-14",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739ae46ba801e4fff9faed893f",
+            "track_url": "https://open.spotify.com/album/1s1lsnDRMzQm60iuCSdGsj",
+            "tracks": [
+                {
+                    "name": "Men Sini la Sini",
+                    "track_url": "",
+                    "duration_ms": 141971,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739ae46ba801e4fff9faed893f",
+                    "id": 5271,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Iyyam El Shiti",
+                    "track_url": "",
+                    "duration_ms": 196955,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739ae46ba801e4fff9faed893f",
+                    "id": 5272,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Ta'a Nefrah Ta'a Nemrah",
+                    "track_url": "",
+                    "duration_ms": 130753,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739ae46ba801e4fff9faed893f",
+                    "id": 5273,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Santa",
+                    "track_url": "",
+                    "duration_ms": 184585,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739ae46ba801e4fff9faed893f",
+                    "id": 5274,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Erja' Ya Zamane",
+                    "track_url": "",
+                    "duration_ms": 231498,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739ae46ba801e4fff9faed893f",
+                    "id": 5275,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Kel Eid wo Enta bi Kheir Habibi",
+                    "track_url": "",
+                    "duration_ms": 225710,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739ae46ba801e4fff9faed893f",
+                    "id": 5276,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Yassouh Jayi",
+                    "track_url": "",
+                    "duration_ms": 290098,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739ae46ba801e4fff9faed893f",
+                    "id": 5277,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Malek el Salam",
+                    "track_url": "",
+                    "duration_ms": 227974,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739ae46ba801e4fff9faed893f",
+                    "id": 5278,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Bi Akher El Shareh",
+                    "track_url": "",
+                    "duration_ms": 217197,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739ae46ba801e4fff9faed893f",
+                    "id": 5279,
+                    "artist": "Carole Samaha"
+                }
+            ],
+            "id": 5270
+        },
+        {
+            "name": "ذكرياتي",
+            "release_date": "2016-05-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739b0f08c67e8207bb0481acb6",
+            "track_url": "https://open.spotify.com/album/1U3MCleTMuewwvyFuZwEIU",
+            "tracks": [
+                {
+                    "name": "أنا سحراك",
+                    "track_url": "",
+                    "duration_ms": 273306,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739b0f08c67e8207bb0481acb6",
+                    "id": 5281,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "مخلصة",
+                    "track_url": "",
+                    "duration_ms": 284480,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739b0f08c67e8207bb0481acb6",
+                    "id": 5282,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "عزيزة",
+                    "track_url": "",
+                    "duration_ms": 236720,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739b0f08c67e8207bb0481acb6",
+                    "id": 5283,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "صحابي",
+                    "track_url": "",
+                    "duration_ms": 260746,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739b0f08c67e8207bb0481acb6",
+                    "id": 5284,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "روح فل",
+                    "track_url": "",
+                    "duration_ms": 253653,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739b0f08c67e8207bb0481acb6",
+                    "id": 5285,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "ياليل نسيني",
+                    "track_url": "",
+                    "duration_ms": 252306,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739b0f08c67e8207bb0481acb6",
+                    "id": 5286,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "هيدا قدري",
+                    "track_url": "",
+                    "duration_ms": 249480,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739b0f08c67e8207bb0481acb6",
+                    "id": 5287,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "ذكرياتي",
+                    "track_url": "",
+                    "duration_ms": 333040,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739b0f08c67e8207bb0481acb6",
+                    "id": 5288,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Merci",
+                    "track_url": "",
+                    "duration_ms": 217106,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739b0f08c67e8207bb0481acb6",
+                    "id": 5289,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "غيرت مبادئي",
+                    "track_url": "",
+                    "duration_ms": 349613,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739b0f08c67e8207bb0481acb6",
+                    "id": 5290,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "لبنان",
+                    "track_url": "",
+                    "duration_ms": 251226,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739b0f08c67e8207bb0481acb6",
+                    "id": 5291,
+                    "artist": "Carole Samaha"
+                }
+            ],
+            "id": 5280
+        },
+        {
+            "name": "Ehssas",
+            "release_date": "2013-03-12",
+            "image": "https://i.scdn.co/image/ab67616d0000b27337e33576fa35a29f842e099a",
+            "track_url": "https://open.spotify.com/album/07LWwSO3nHuU2zgJMDzU0X",
+            "tracks": [
+                {
+                    "name": "Wahchani Bladi",
+                    "track_url": "",
+                    "duration_ms": 271229,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27337e33576fa35a29f842e099a",
+                    "id": 5293,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Khedni Maak",
+                    "track_url": "",
+                    "duration_ms": 234840,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27337e33576fa35a29f842e099a",
+                    "id": 5294,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Ehsas",
+                    "track_url": "",
+                    "duration_ms": 288208,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27337e33576fa35a29f842e099a",
+                    "id": 5295,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Ma Bnethammelsh Baad",
+                    "track_url": "",
+                    "duration_ms": 210259,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27337e33576fa35a29f842e099a",
+                    "id": 5296,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Ana Geet",
+                    "track_url": "",
+                    "duration_ms": 258142,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27337e33576fa35a29f842e099a",
+                    "id": 5297,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Hakhounak",
+                    "track_url": "",
+                    "duration_ms": 410671,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27337e33576fa35a29f842e099a",
+                    "id": 5298,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "El Afrah",
+                    "track_url": "",
+                    "duration_ms": 203624,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27337e33576fa35a29f842e099a",
+                    "id": 5299,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Ohdonni",
+                    "track_url": "",
+                    "duration_ms": 269949,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27337e33576fa35a29f842e099a",
+                    "id": 5300,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Yaoumayn Shahrayn",
+                    "track_url": "",
+                    "duration_ms": 235702,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27337e33576fa35a29f842e099a",
+                    "id": 5301,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Mosh Maaool",
+                    "track_url": "",
+                    "duration_ms": 205165,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27337e33576fa35a29f842e099a",
+                    "id": 5302,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Wou Taawadet",
+                    "track_url": "",
+                    "duration_ms": 259866,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27337e33576fa35a29f842e099a",
+                    "id": 5303,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Mosh Tayaak",
+                    "track_url": "",
+                    "duration_ms": 271046,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27337e33576fa35a29f842e099a",
+                    "id": 5304,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Inta Tofl Kbir",
+                    "track_url": "",
+                    "duration_ms": 247275,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27337e33576fa35a29f842e099a",
+                    "id": 5305,
+                    "artist": "Carole Samaha"
+                }
+            ],
+            "id": 5292
+        },
+        {
+            "name": "Hodoudy El Sama",
+            "release_date": "2009-03-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b273bb0d4e36ff2a8329cef89fa8",
+            "track_url": "https://open.spotify.com/album/6KQqCpl7h42T79RHGUk2sd",
+            "tracks": [
+                {
+                    "name": "Ragalak",
+                    "track_url": "",
+                    "duration_ms": 238000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bb0d4e36ff2a8329cef89fa8",
+                    "id": 5307,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Hodoudy El Sama",
+                    "track_url": "",
+                    "duration_ms": 216000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bb0d4e36ff2a8329cef89fa8",
+                    "id": 5308,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Ma Bakhaf",
+                    "track_url": "",
+                    "duration_ms": 253000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bb0d4e36ff2a8329cef89fa8",
+                    "id": 5309,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Khallik Behalak",
+                    "track_url": "",
+                    "duration_ms": 241136,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bb0d4e36ff2a8329cef89fa8",
+                    "id": 5310,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Aoul Ansak",
+                    "track_url": "",
+                    "duration_ms": 216346,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bb0d4e36ff2a8329cef89fa8",
+                    "id": 5311,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Nadeit",
+                    "track_url": "",
+                    "duration_ms": 201221,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bb0d4e36ff2a8329cef89fa8",
+                    "id": 5312,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Meen Allak",
+                    "track_url": "",
+                    "duration_ms": 199653,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bb0d4e36ff2a8329cef89fa8",
+                    "id": 5313,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Awel Ma Abeltak",
+                    "track_url": "",
+                    "duration_ms": 288000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bb0d4e36ff2a8329cef89fa8",
+                    "id": 5314,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Ala Soutak",
+                    "track_url": "",
+                    "duration_ms": 197041,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bb0d4e36ff2a8329cef89fa8",
+                    "id": 5315,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Majnouni (Jeet)",
+                    "track_url": "",
+                    "duration_ms": 234579,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bb0d4e36ff2a8329cef89fa8",
+                    "id": 5316,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Ali",
+                    "track_url": "",
+                    "duration_ms": 214230,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bb0d4e36ff2a8329cef89fa8",
+                    "id": 5317,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Yama Layaly",
+                    "track_url": "",
+                    "duration_ms": 287345,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bb0d4e36ff2a8329cef89fa8",
+                    "id": 5318,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Zabahny",
+                    "track_url": "",
+                    "duration_ms": 277000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bb0d4e36ff2a8329cef89fa8",
+                    "id": 5319,
+                    "artist": "Carole Samaha"
+                }
+            ],
+            "id": 5306
+        },
+        {
+            "name": "Adwaa' El Shohra",
+            "release_date": "2006-06-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734887ba75c68a9a7ba0c9f915",
+            "track_url": "https://open.spotify.com/album/1KhaNzsVNtdGtnfhVJgIJp",
+            "tracks": [
+                {
+                    "name": "Esma'ny",
+                    "track_url": "",
+                    "duration_ms": 215426,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734887ba75c68a9a7ba0c9f915",
+                    "id": 5321,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Ya Azaby",
+                    "track_url": "",
+                    "duration_ms": 295333,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734887ba75c68a9a7ba0c9f915",
+                    "id": 5322,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Ya Habibi Etzakkar",
+                    "track_url": "",
+                    "duration_ms": 257519,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734887ba75c68a9a7ba0c9f915",
+                    "id": 5323,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Wehyatak",
+                    "track_url": "",
+                    "duration_ms": 236733,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734887ba75c68a9a7ba0c9f915",
+                    "id": 5324,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Adwaa' El Shohra",
+                    "track_url": "",
+                    "duration_ms": 252986,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734887ba75c68a9a7ba0c9f915",
+                    "id": 5325,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Zaelani",
+                    "track_url": "",
+                    "duration_ms": 234986,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734887ba75c68a9a7ba0c9f915",
+                    "id": 5326,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Mashghoul Baly",
+                    "track_url": "",
+                    "duration_ms": 294813,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734887ba75c68a9a7ba0c9f915",
+                    "id": 5327,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "E'tazalt El Hob",
+                    "track_url": "",
+                    "duration_ms": 319760,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734887ba75c68a9a7ba0c9f915",
+                    "id": 5328,
+                    "artist": "Carole Samaha"
+                }
+            ],
+            "id": 5320
+        },
+        {
+            "name": "Ana Horra",
+            "release_date": "2004-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b2cd347d162e478b349611e1",
+            "track_url": "https://open.spotify.com/album/34O1UaMvw1US6F7JvtGw34",
+            "tracks": [
+                {
+                    "name": "Ana Horra",
+                    "track_url": "",
+                    "duration_ms": 283142,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b2cd347d162e478b349611e1",
+                    "id": 5330,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Habibi Ya",
+                    "track_url": "",
+                    "duration_ms": 212794,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b2cd347d162e478b349611e1",
+                    "id": 5331,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Nezlet Essitarah",
+                    "track_url": "",
+                    "duration_ms": 261983,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b2cd347d162e478b349611e1",
+                    "id": 5332,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Habbet Delwaat",
+                    "track_url": "",
+                    "duration_ms": 228520,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b2cd347d162e478b349611e1",
+                    "id": 5333,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Wahiat Hawana",
+                    "track_url": "",
+                    "duration_ms": 227684,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b2cd347d162e478b349611e1",
+                    "id": 5334,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Ghali Aliya",
+                    "track_url": "",
+                    "duration_ms": 212298,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b2cd347d162e478b349611e1",
+                    "id": 5335,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Hob Al Rooh",
+                    "track_url": "",
+                    "duration_ms": 200673,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b2cd347d162e478b349611e1",
+                    "id": 5336,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Law Fee",
+                    "track_url": "",
+                    "duration_ms": 245290,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b2cd347d162e478b349611e1",
+                    "id": 5337,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Keda Ala Tool",
+                    "track_url": "",
+                    "duration_ms": 201796,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b2cd347d162e478b349611e1",
+                    "id": 5338,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Keef Badi Eeesh",
+                    "track_url": "",
+                    "duration_ms": 276585,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b2cd347d162e478b349611e1",
+                    "id": 5339,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Mouweli",
+                    "track_url": "",
+                    "duration_ms": 220265,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273b2cd347d162e478b349611e1",
+                    "id": 5340,
+                    "artist": "Carole Samaha"
+                }
+            ],
+            "id": 5329
+        },
+        {
+            "name": "Helm",
+            "release_date": "2003-06-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735634a50e5dd9b9f0d7e9c717",
+            "track_url": "https://open.spotify.com/album/5ZtffaFHscFIsdnJfAPotq",
+            "tracks": [
+                {
+                    "name": "Keef",
+                    "track_url": "",
+                    "duration_ms": 204485,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735634a50e5dd9b9f0d7e9c717",
+                    "id": 5342,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Ettala Fia",
+                    "track_url": "",
+                    "duration_ms": 285558,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735634a50e5dd9b9f0d7e9c717",
+                    "id": 5343,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Gharebah",
+                    "track_url": "",
+                    "duration_ms": 284473,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735634a50e5dd9b9f0d7e9c717",
+                    "id": 5344,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Mesll El Helm",
+                    "track_url": "",
+                    "duration_ms": 272926,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735634a50e5dd9b9f0d7e9c717",
+                    "id": 5345,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Ana Men Donak",
+                    "track_url": "",
+                    "duration_ms": 251401,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735634a50e5dd9b9f0d7e9c717",
+                    "id": 5346,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Habib Alby",
+                    "track_url": "",
+                    "duration_ms": 270993,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735634a50e5dd9b9f0d7e9c717",
+                    "id": 5347,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Rageh",
+                    "track_url": "",
+                    "duration_ms": 232228,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735634a50e5dd9b9f0d7e9c717",
+                    "id": 5348,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Kadesh",
+                    "track_url": "",
+                    "duration_ms": 256730,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735634a50e5dd9b9f0d7e9c717",
+                    "id": 5349,
+                    "artist": "Carole Samaha"
+                }
+            ],
+            "id": 5341
+        },
+        {
+            "name": "Oughniat El Toufoula",
+            "release_date": "2003-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a7a06990c4455af1f0e1ec80",
+            "track_url": "https://open.spotify.com/album/6xuPnT4y3ASL6DI2yJ11Su",
+            "tracks": [
+                {
+                    "name": "Oughniat El Toufoula",
+                    "track_url": "",
+                    "duration_ms": 342053,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a7a06990c4455af1f0e1ec80",
+                    "id": 5351,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Bisabah El Alf Ltalet",
+                    "track_url": "",
+                    "duration_ms": 267240,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a7a06990c4455af1f0e1ec80",
+                    "id": 5352,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Ana Law Bikdar Rouh La Endak",
+                    "track_url": "",
+                    "duration_ms": 287426,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a7a06990c4455af1f0e1ec80",
+                    "id": 5353,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Wihyatek Dallik Ouli",
+                    "track_url": "",
+                    "duration_ms": 290173,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a7a06990c4455af1f0e1ec80",
+                    "id": 5354,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Ftahli Lbab",
+                    "track_url": "",
+                    "duration_ms": 251533,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a7a06990c4455af1f0e1ec80",
+                    "id": 5355,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Attef An'oud El Hob",
+                    "track_url": "",
+                    "duration_ms": 321080,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a7a06990c4455af1f0e1ec80",
+                    "id": 5356,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "La Taerif Esmi",
+                    "track_url": "",
+                    "duration_ms": 136026,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273a7a06990c4455af1f0e1ec80",
+                    "id": 5357,
+                    "artist": "Carole Samaha"
+                }
+            ],
+            "id": 5350
+        },
+        {
+            "name": "Enamored Of God",
+            "release_date": "1999-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273bbf98dc41cbbf1ca1a32913e",
+            "track_url": "https://open.spotify.com/album/47RjfmwZomgxLBAdKssEQO",
+            "tracks": [
+                {
+                    "name": "Musique En Calice",
+                    "track_url": "",
+                    "duration_ms": 141680,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bbf98dc41cbbf1ca1a32913e",
+                    "id": 5359,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Illusion En Nectar",
+                    "track_url": "",
+                    "duration_ms": 397120,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bbf98dc41cbbf1ca1a32913e",
+                    "id": 5360,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Attachement Puis Systole Et Resignation",
+                    "track_url": "",
+                    "duration_ms": 149560,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bbf98dc41cbbf1ca1a32913e",
+                    "id": 5361,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Ascèse Et Espérance",
+                    "track_url": "",
+                    "duration_ms": 174560,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bbf98dc41cbbf1ca1a32913e",
+                    "id": 5362,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Dévotion, Initiation Et Séparation",
+                    "track_url": "",
+                    "duration_ms": 573280,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bbf98dc41cbbf1ca1a32913e",
+                    "id": 5363,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Doute, Initiation Et Certitude",
+                    "track_url": "",
+                    "duration_ms": 331226,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bbf98dc41cbbf1ca1a32913e",
+                    "id": 5364,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Imprégnation Et Contemplation",
+                    "track_url": "",
+                    "duration_ms": 298186,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bbf98dc41cbbf1ca1a32913e",
+                    "id": 5365,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Gnose",
+                    "track_url": "",
+                    "duration_ms": 190160,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bbf98dc41cbbf1ca1a32913e",
+                    "id": 5366,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Réconfort",
+                    "track_url": "",
+                    "duration_ms": 338773,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bbf98dc41cbbf1ca1a32913e",
+                    "id": 5367,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Vision",
+                    "track_url": "",
+                    "duration_ms": 198760,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bbf98dc41cbbf1ca1a32913e",
+                    "id": 5368,
+                    "artist": "Carole Samaha"
+                },
+                {
+                    "name": "Anéantissement",
+                    "track_url": "",
+                    "duration_ms": 326413,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bbf98dc41cbbf1ca1a32913e",
+                    "id": 5369,
+                    "artist": "Carole Samaha"
+                }
+            ],
+            "id": 5358
+        }
+    ],
+    "singles": [
+        {
+            "name": "Nafas",
+            "release_date": "2024-12-17",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d6bc92da6c934d80434078bf",
+            "track_url": "",
+            "id": 5370,
+            "artist": "Carole Samaha"
+        },
+        {
+            "name": "Edhak Ya Albi",
+            "release_date": "2024-06-12",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c4731bbda7f8a26d52227a0d",
+            "track_url": "",
+            "id": 5371,
+            "artist": "Carole Samaha"
+        },
+        {
+            "name": "Bossa",
+            "release_date": "2024-01-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c6000221e4c6b75e7534ad58",
+            "track_url": "",
+            "id": 5372,
+            "artist": "Carole Samaha"
+        },
+        {
+            "name": "Nasskha Menni",
+            "release_date": "2023-06-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733510d41a955bf14e10099ab7",
+            "track_url": "",
+            "id": 5373,
+            "artist": "Carole Samaha"
+        },
+        {
+            "name": "Satantahi Al Harbu",
+            "release_date": "2023-02-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b27307e478798a4d35ba833526a5",
+            "track_url": "",
+            "id": 5374,
+            "artist": "Carole Samaha"
+        },
+        {
+            "name": "مغرومة بمين",
+            "release_date": "2022-10-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733c79621cb022985a26403233",
+            "track_url": "",
+            "id": 5375,
+            "artist": "Carole Samaha"
+        },
+        {
+            "name": "احنا ملوك اللعبه دي (World Squash Championship Theme song)",
+            "release_date": "2022-05-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d25f76936ac8106387e65c0a",
+            "track_url": "",
+            "id": 5376,
+            "artist": "Carole Samaha"
+        },
+        {
+            "name": "Fawda",
+            "release_date": "2022-02-02",
+            "image": "https://i.scdn.co/image/ab67616d0000b27333eeeec26027276df651b762",
+            "track_url": "",
+            "id": 5377,
+            "artist": "Carole Samaha"
+        },
+        {
+            "name": "Bon voyage (French Version)",
+            "release_date": "2021-08-13",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f9509b35b595f286e2a10833",
+            "track_url": "",
+            "id": 5378,
+            "artist": "Carole Samaha"
+        },
+        {
+            "name": "اللي خان (تتر مسلسل ضد الكسر)",
+            "release_date": "2021-04-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735d143465444821999b0543c5",
+            "track_url": "",
+            "id": 5379,
+            "artist": "Carole Samaha"
+        },
+        {
+            "name": "Etkalem Arabi",
+            "release_date": "2021-04-05",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732a5809ea18c1ece0d079f3ed",
+            "track_url": "",
+            "id": 5380,
+            "artist": "Carole Samaha"
+        },
+        {
+            "name": "Erja' Ya Zamane",
+            "release_date": "2020-12-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f2fb4eaff365f62bcf3c73fd",
+            "track_url": "",
+            "id": 5381,
+            "artist": "Carole Samaha"
+        },
+        {
+            "name": "Santa",
+            "release_date": "2020-12-05",
+            "image": "https://i.scdn.co/image/ab67616d0000b273779dea2078906a6ecd5d5f36",
+            "track_url": "",
+            "id": 5382,
+            "artist": "Carole Samaha"
+        },
+        {
+            "name": "Iyyam El Shiti",
+            "release_date": "2020-12-03",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735dea235a12b9bff4162014f7",
+            "track_url": "",
+            "id": 5383,
+            "artist": "Carole Samaha"
+        },
+        {
+            "name": "Men Sini la Sini",
+            "release_date": "2020-12-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ac68bbbb61a3b9bec903d777",
+            "track_url": "",
+            "id": 5384,
+            "artist": "Carole Samaha"
+        },
+        {
+            "name": "Mosh Ha Eish",
+            "release_date": "2020-03-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c9fb9390b849089af9843687",
+            "track_url": "",
+            "id": 5385,
+            "artist": "Carole Samaha"
+        },
+        {
+            "name": "Bet'amen Bel Sodfi",
+            "release_date": "2019-08-26",
+            "image": "https://i.scdn.co/image/ab67616d0000b27306518f04156dababee321ee8",
+            "track_url": "",
+            "id": 5386,
+            "artist": "Carole Samaha"
+        },
+        {
+            "name": "Inshallah",
+            "release_date": "2019-07-03",
+            "image": "https://i.scdn.co/image/ab67616d0000b27307c9b632b31e4688c409b40b",
+            "track_url": "",
+            "id": 5387,
+            "artist": "Carole Samaha"
+        },
+        {
+            "name": "Al Moutallaka",
+            "release_date": "2019-03-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a71fc24896e3002ca1f0ebc5",
+            "track_url": "",
+            "id": 5388,
+            "artist": "Carole Samaha"
+        },
+        {
+            "name": "Ahla Bi Yasouh",
+            "release_date": "2018-12-06",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734e67ebbb1464849ca9642920",
+            "track_url": "",
+            "id": 5389,
+            "artist": "Carole Samaha"
+        },
+        {
+            "name": "Mabrouk La Albi",
+            "release_date": "2018-11-13",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731e8cd14191288587d0307792",
+            "track_url": "",
+            "id": 5390,
+            "artist": "Carole Samaha"
+        },
+        {
+            "name": "Koullouna Lel Watan",
+            "release_date": "2018-11-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731e3d78d2b32a0671baa9f7a9",
+            "track_url": "",
+            "id": 5391,
+            "artist": "Carole Samaha"
+        },
+        {
+            "name": "Ensa Hmoumak",
+            "release_date": "2018-01-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b273904d1c5d5bf0ad1e71a00e4e",
+            "track_url": "",
+            "id": 5392,
+            "artist": "Carole Samaha"
+        },
+        {
+            "name": "Dans cette étable",
+            "release_date": "2017-12-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b273162f9865de916e04d6de898d",
+            "track_url": "",
+            "id": 5393,
+            "artist": "Carole Samaha"
+        },
+        {
+            "name": "رجع قلبي",
+            "release_date": "2017-04-27",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732461e0c96e4fa24ea3203665",
+            "track_url": "",
+            "id": 5394,
+            "artist": "Carole Samaha"
+        },
+        {
+            "name": "روح فل",
+            "release_date": "2016-02-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731eaf688611b6b4a3735c68bd",
+            "track_url": "",
+            "id": 5395,
+            "artist": "Carole Samaha"
+        },
+        {
+            "name": "El Shark El Azim",
+            "release_date": "2015-01-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731aab28c960d8846f2aa2160c",
+            "track_url": "",
+            "id": 5396,
+            "artist": "Carole Samaha"
+        },
+        {
+            "name": "Geel Gedid",
+            "release_date": "2014-11-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a8e66dba64e883cf1f726f51",
+            "track_url": "",
+            "id": 5397,
+            "artist": "Carole Samaha"
+        },
+        {
+            "name": "Sahranine",
+            "release_date": "2014-01-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a98b17a71e88b2ad511383a3",
+            "track_url": "",
+            "id": 5398,
+            "artist": "Carole Samaha"
+        },
+        {
+            "name": "Carole Samaha",
+            "release_date": "2013-10-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a6a7156ce7bd16b326040fcd",
+            "track_url": "",
+            "id": 5399,
+            "artist": "Carole Samaha"
+        },
+        {
+            "name": "Yama Layaly",
+            "release_date": "2009-03-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273749570cb5df98660e277ee76",
+            "track_url": "",
+            "id": 5400,
+            "artist": "Carole Samaha"
+        },
+        {
+            "name": "Rouh Fell (Remıx)",
+            "release_date": "2007",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f1252ee4cc9a613a1a68f828",
+            "track_url": "",
+            "id": 5401,
+            "artist": "Carole Samaha"
+        }
+    ],
+    "popular_tracks": [
+        {
+            "name": "Aoul Ansak",
+            "track_url": "",
+            "duration_ms": 216346,
+            "image": "https://i.scdn.co/image/ab67616d0000b273bb0d4e36ff2a8329cef89fa8",
+            "id": 5402,
+            "artist": "Carole Samaha"
+        },
+        {
+            "name": "Ettala Fia",
+            "track_url": "",
+            "duration_ms": 285558,
+            "image": "https://i.scdn.co/image/ab67616d0000b2735634a50e5dd9b9f0d7e9c717",
+            "id": 5403,
+            "artist": "Carole Samaha"
+        },
+        {
+            "name": "Khallik Behalak",
+            "track_url": "",
+            "duration_ms": 241136,
+            "image": "https://i.scdn.co/image/ab67616d0000b273bb0d4e36ff2a8329cef89fa8",
+            "id": 5404,
+            "artist": "Carole Samaha"
+        },
+        {
+            "name": "Esma'ny",
+            "track_url": "",
+            "duration_ms": 215426,
+            "image": "https://i.scdn.co/image/ab67616d0000b2734887ba75c68a9a7ba0c9f915",
+            "id": 5405,
+            "artist": "Carole Samaha"
+        },
+        {
+            "name": "Yama Layaly",
+            "track_url": "",
+            "duration_ms": 287345,
+            "image": "https://i.scdn.co/image/ab67616d0000b273bb0d4e36ff2a8329cef89fa8",
+            "id": 5406,
+            "artist": "Carole Samaha"
+        },
+        {
+            "name": "Adwaa' El Shohra",
+            "track_url": "",
+            "duration_ms": 252986,
+            "image": "https://i.scdn.co/image/ab67616d0000b2734887ba75c68a9a7ba0c9f915",
+            "id": 5407,
+            "artist": "Carole Samaha"
+        },
+        {
+            "name": "Nasskha Menni",
+            "track_url": "",
+            "duration_ms": 209684,
+            "image": "https://i.scdn.co/image/ab67616d0000b2733510d41a955bf14e10099ab7",
+            "id": 5408,
+            "artist": "Carole Samaha"
+        },
+        {
+            "name": "Majnouni (Jeet)",
+            "track_url": "",
+            "duration_ms": 234579,
+            "image": "https://i.scdn.co/image/ab67616d0000b273bb0d4e36ff2a8329cef89fa8",
+            "id": 5409,
+            "artist": "Carole Samaha"
+        },
+        {
+            "name": "Habbet Delwaat",
+            "track_url": "",
+            "duration_ms": 228520,
+            "image": "https://i.scdn.co/image/ab67616d0000b273b2cd347d162e478b349611e1",
+            "id": 5410,
+            "artist": "Carole Samaha"
+        },
+        {
+            "name": "وحشاني بلادي",
+            "track_url": "",
+            "duration_ms": 271229,
+            "image": "https://i.scdn.co/image/ab67616d0000b273ca9e97dbdfe670c34189a93e",
+            "id": 5411,
+            "artist": "Carole Samaha"
+        }
+    ]
+}

@@ -1,0 +1,1795 @@
+{
+    "artist": {
+        "id": "5486",
+        "name": "Elissa",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebb9e4f4dc02996d2b6f1749cd",
+        "background_image": "https://i.scdn.co/image/ab67616100005174b9e4f4dc02996d2b6f1749cd"
+    },
+    "albums": [
+        {
+            "name": "Ana Sekketen",
+            "release_date": "2024-05-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734caa6a143349c230abdb6092",
+            "track_url": "https://open.spotify.com/album/6sFV6GrrgCV2J6VOSPmt2o",
+            "tracks": [
+                {
+                    "name": "Batmayel Ala El Beat",
+                    "track_url": "",
+                    "duration_ms": 247093,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734caa6a143349c230abdb6092",
+                    "id": 5488,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "⁠Ana Sekketen",
+                    "track_url": "",
+                    "duration_ms": 297597,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734caa6a143349c230abdb6092",
+                    "id": 5489,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "⁠Farhana Maak",
+                    "track_url": "",
+                    "duration_ms": 280592,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734caa6a143349c230abdb6092",
+                    "id": 5490,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "⁠Kello Wahem",
+                    "track_url": "",
+                    "duration_ms": 202589,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734caa6a143349c230abdb6092",
+                    "id": 5491,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "⁠El Okd",
+                    "track_url": "",
+                    "duration_ms": 218322,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734caa6a143349c230abdb6092",
+                    "id": 5492,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "⁠El Nazra El Oula",
+                    "track_url": "",
+                    "duration_ms": 226309,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734caa6a143349c230abdb6092",
+                    "id": 5493,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "⁠Chou Kan Biemnaak",
+                    "track_url": "",
+                    "duration_ms": 247530,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734caa6a143349c230abdb6092",
+                    "id": 5494,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "⁠Men Awel El Satr",
+                    "track_url": "",
+                    "duration_ms": 226505,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734caa6a143349c230abdb6092",
+                    "id": 5495,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "⁠Nazarat",
+                    "track_url": "",
+                    "duration_ms": 198997,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734caa6a143349c230abdb6092",
+                    "id": 5496,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "⁠Hazzi Dehekli",
+                    "track_url": "",
+                    "duration_ms": 192778,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734caa6a143349c230abdb6092",
+                    "id": 5497,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "⁠Halali",
+                    "track_url": "",
+                    "duration_ms": 246709,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734caa6a143349c230abdb6092",
+                    "id": 5498,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "⁠Julio W Fairuz",
+                    "track_url": "",
+                    "duration_ms": 268706,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2734caa6a143349c230abdb6092",
+                    "id": 5499,
+                    "artist": "Elissa"
+                }
+            ],
+            "id": 5487
+        },
+        {
+            "name": "Sahbit Raey",
+            "release_date": "2020-07-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733f8b9783920ab04883fbe82d",
+            "track_url": "https://open.spotify.com/album/0oXIpAgpGx3rRIyKlV6Wfs",
+            "tracks": [
+                {
+                    "name": "Sahbit Raey",
+                    "track_url": "",
+                    "duration_ms": 228186,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733f8b9783920ab04883fbe82d",
+                    "id": 5501,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Aghanina",
+                    "track_url": "",
+                    "duration_ms": 247640,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733f8b9783920ab04883fbe82d",
+                    "id": 5502,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Azima",
+                    "track_url": "",
+                    "duration_ms": 285720,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733f8b9783920ab04883fbe82d",
+                    "id": 5503,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Wafi",
+                    "track_url": "",
+                    "duration_ms": 224760,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733f8b9783920ab04883fbe82d",
+                    "id": 5504,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Moubaha Lik",
+                    "track_url": "",
+                    "duration_ms": 258706,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733f8b9783920ab04883fbe82d",
+                    "id": 5505,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Habbit Ehtimam",
+                    "track_url": "",
+                    "duration_ms": 279893,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733f8b9783920ab04883fbe82d",
+                    "id": 5506,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Ala Hess Hikayetna",
+                    "track_url": "",
+                    "duration_ms": 277093,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733f8b9783920ab04883fbe82d",
+                    "id": 5507,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Haatebrak Mot",
+                    "track_url": "",
+                    "duration_ms": 196306,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733f8b9783920ab04883fbe82d",
+                    "id": 5508,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Ghaltet Waet",
+                    "track_url": "",
+                    "duration_ms": 228040,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733f8b9783920ab04883fbe82d",
+                    "id": 5509,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Ana Chebh Nsitak",
+                    "track_url": "",
+                    "duration_ms": 276440,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733f8b9783920ab04883fbe82d",
+                    "id": 5510,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Hanghanni Kaman W Kaman",
+                    "track_url": "",
+                    "duration_ms": 226680,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733f8b9783920ab04883fbe82d",
+                    "id": 5511,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Smaany",
+                    "track_url": "",
+                    "duration_ms": 189520,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733f8b9783920ab04883fbe82d",
+                    "id": 5512,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Lek Liwahdak",
+                    "track_url": "",
+                    "duration_ms": 189293,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733f8b9783920ab04883fbe82d",
+                    "id": 5513,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "W Enta Osadi",
+                    "track_url": "",
+                    "duration_ms": 215226,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733f8b9783920ab04883fbe82d",
+                    "id": 5514,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Eli Allah",
+                    "track_url": "",
+                    "duration_ms": 258133,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733f8b9783920ab04883fbe82d",
+                    "id": 5515,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Benheb El Hayat",
+                    "track_url": "",
+                    "duration_ms": 279386,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733f8b9783920ab04883fbe82d",
+                    "id": 5516,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Ahwit El Madi",
+                    "track_url": "",
+                    "duration_ms": 276133,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733f8b9783920ab04883fbe82d",
+                    "id": 5517,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Mourir sur scene",
+                    "track_url": "",
+                    "duration_ms": 204986,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733f8b9783920ab04883fbe82d",
+                    "id": 5518,
+                    "artist": "Elissa"
+                }
+            ],
+            "id": 5500
+        },
+        {
+            "name": "Ila Kol Elli Bihebbouni",
+            "release_date": "2018-07-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731efcbb3a08b4d2cda62c9a2d",
+            "track_url": "https://open.spotify.com/album/0FSD2qQ7WW1B9AQaN3RTHj",
+            "tracks": [
+                {
+                    "name": "Ben Albi W Albak",
+                    "track_url": "",
+                    "duration_ms": 232306,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731efcbb3a08b4d2cda62c9a2d",
+                    "id": 5520,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Wahashtouni",
+                    "track_url": "",
+                    "duration_ms": 335440,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731efcbb3a08b4d2cda62c9a2d",
+                    "id": 5521,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Hikayat",
+                    "track_url": "",
+                    "duration_ms": 313826,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731efcbb3a08b4d2cda62c9a2d",
+                    "id": 5522,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Al Mekhfi",
+                    "track_url": "",
+                    "duration_ms": 210466,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731efcbb3a08b4d2cda62c9a2d",
+                    "id": 5523,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Lessa Fiha Kalam",
+                    "track_url": "",
+                    "duration_ms": 290133,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731efcbb3a08b4d2cda62c9a2d",
+                    "id": 5524,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Men Inaya Di",
+                    "track_url": "",
+                    "duration_ms": 235266,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731efcbb3a08b4d2cda62c9a2d",
+                    "id": 5525,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Ana Wahida",
+                    "track_url": "",
+                    "duration_ms": 242946,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731efcbb3a08b4d2cda62c9a2d",
+                    "id": 5526,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Kitira Aleh",
+                    "track_url": "",
+                    "duration_ms": 244000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731efcbb3a08b4d2cda62c9a2d",
+                    "id": 5527,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Nefsi Aollo",
+                    "track_url": "",
+                    "duration_ms": 332853,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731efcbb3a08b4d2cda62c9a2d",
+                    "id": 5528,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Bena Nechaa",
+                    "track_url": "",
+                    "duration_ms": 243946,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731efcbb3a08b4d2cda62c9a2d",
+                    "id": 5529,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Mafish Asbab",
+                    "track_url": "",
+                    "duration_ms": 246853,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731efcbb3a08b4d2cda62c9a2d",
+                    "id": 5530,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Enta W Maii",
+                    "track_url": "",
+                    "duration_ms": 276706,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731efcbb3a08b4d2cda62c9a2d",
+                    "id": 5531,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Krahni",
+                    "track_url": "",
+                    "duration_ms": 290253,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731efcbb3a08b4d2cda62c9a2d",
+                    "id": 5532,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Ertah W Eish",
+                    "track_url": "",
+                    "duration_ms": 289586,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731efcbb3a08b4d2cda62c9a2d",
+                    "id": 5533,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Maridit Ehtimam",
+                    "track_url": "",
+                    "duration_ms": 279613,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731efcbb3a08b4d2cda62c9a2d",
+                    "id": 5534,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Ila Kol Elli Bihebbouni",
+                    "track_url": "",
+                    "duration_ms": 319706,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2731efcbb3a08b4d2cda62c9a2d",
+                    "id": 5535,
+                    "artist": "Elissa"
+                }
+            ],
+            "id": 5519
+        },
+        {
+            "name": "Saharna Ya Lail",
+            "release_date": "2016-06-05",
+            "image": "https://i.scdn.co/image/ab67616d0000b273bb050ce10e4c33490df08a9a",
+            "track_url": "https://open.spotify.com/album/0CgH3MIOquvKzvCsh0MR0i",
+            "tracks": [
+                {
+                    "name": "Aaks Elli Shayfenha",
+                    "track_url": "",
+                    "duration_ms": 266501,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bb050ce10e4c33490df08a9a",
+                    "id": 5537,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Maktooba Leek",
+                    "track_url": "",
+                    "duration_ms": 316969,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bb050ce10e4c33490df08a9a",
+                    "id": 5538,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Saharna Ya Leil",
+                    "track_url": "",
+                    "duration_ms": 256496,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bb050ce10e4c33490df08a9a",
+                    "id": 5539,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Wala Baad Senin",
+                    "track_url": "",
+                    "duration_ms": 274181,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bb050ce10e4c33490df08a9a",
+                    "id": 5540,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Aghla El Habayeb",
+                    "track_url": "",
+                    "duration_ms": 198164,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bb050ce10e4c33490df08a9a",
+                    "id": 5541,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Maliket El Ehsas",
+                    "track_url": "",
+                    "duration_ms": 283115,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bb050ce10e4c33490df08a9a",
+                    "id": 5542,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Omry Ebtada",
+                    "track_url": "",
+                    "duration_ms": 209449,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bb050ce10e4c33490df08a9a",
+                    "id": 5543,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Motamareda",
+                    "track_url": "",
+                    "duration_ms": 293198,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bb050ce10e4c33490df08a9a",
+                    "id": 5544,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Metlak Ma Fi",
+                    "track_url": "",
+                    "duration_ms": 284499,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bb050ce10e4c33490df08a9a",
+                    "id": 5545,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Alb W Rouh",
+                    "track_url": "",
+                    "duration_ms": 300486,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bb050ce10e4c33490df08a9a",
+                    "id": 5546,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Fall El Haki",
+                    "track_url": "",
+                    "duration_ms": 302550,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bb050ce10e4c33490df08a9a",
+                    "id": 5547,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Hakhaf Men Eah",
+                    "track_url": "",
+                    "duration_ms": 285204,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bb050ce10e4c33490df08a9a",
+                    "id": 5548,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Ya Rait",
+                    "track_url": "",
+                    "duration_ms": 271986,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bb050ce10e4c33490df08a9a",
+                    "id": 5549,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Mesh Arfa Laih",
+                    "track_url": "",
+                    "duration_ms": 215144,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bb050ce10e4c33490df08a9a",
+                    "id": 5550,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Hatsebni",
+                    "track_url": "",
+                    "duration_ms": 307905,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bb050ce10e4c33490df08a9a",
+                    "id": 5551,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "El Hodn",
+                    "track_url": "",
+                    "duration_ms": 243722,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273bb050ce10e4c33490df08a9a",
+                    "id": 5552,
+                    "artist": "Elissa"
+                }
+            ],
+            "id": 5536
+        },
+        {
+            "name": "Halet Hob",
+            "release_date": "2014-07-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737955eb0ac113f03793d83b1f",
+            "track_url": "https://open.spotify.com/album/2QvFrpLXc2HZwQbQkVukOW",
+            "tracks": [
+                {
+                    "name": "Halet Hob",
+                    "track_url": "",
+                    "duration_ms": 309028,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737955eb0ac113f03793d83b1f",
+                    "id": 5554,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Hob Kol Hayaty",
+                    "track_url": "",
+                    "duration_ms": 214804,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737955eb0ac113f03793d83b1f",
+                    "id": 5555,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Ya Merayti",
+                    "track_url": "",
+                    "duration_ms": 270367,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737955eb0ac113f03793d83b1f",
+                    "id": 5556,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Helwa Ya Baladi",
+                    "track_url": "",
+                    "duration_ms": 224287,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737955eb0ac113f03793d83b1f",
+                    "id": 5557,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Law Etaabelna",
+                    "track_url": "",
+                    "duration_ms": 239177,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737955eb0ac113f03793d83b1f",
+                    "id": 5558,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Bataly Tehebeeh",
+                    "track_url": "",
+                    "duration_ms": 254850,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737955eb0ac113f03793d83b1f",
+                    "id": 5559,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Awel Mara",
+                    "track_url": "",
+                    "duration_ms": 307983,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737955eb0ac113f03793d83b1f",
+                    "id": 5560,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Omr Gedid",
+                    "track_url": "",
+                    "duration_ms": 232071,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737955eb0ac113f03793d83b1f",
+                    "id": 5561,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Ana Magnoona",
+                    "track_url": "",
+                    "duration_ms": 285596,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737955eb0ac113f03793d83b1f",
+                    "id": 5562,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Add El Ayam",
+                    "track_url": "",
+                    "duration_ms": 295000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737955eb0ac113f03793d83b1f",
+                    "id": 5563,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Wagat Alby",
+                    "track_url": "",
+                    "duration_ms": 295366,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737955eb0ac113f03793d83b1f",
+                    "id": 5564,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Insana Bereeaa",
+                    "track_url": "",
+                    "duration_ms": 294426,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737955eb0ac113f03793d83b1f",
+                    "id": 5565,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Beraghm El Zorouf",
+                    "track_url": "",
+                    "duration_ms": 292937,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737955eb0ac113f03793d83b1f",
+                    "id": 5566,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Ana Nefssi",
+                    "track_url": "",
+                    "duration_ms": 265404,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2737955eb0ac113f03793d83b1f",
+                    "id": 5567,
+                    "artist": "Elissa"
+                }
+            ],
+            "id": 5553
+        },
+        {
+            "name": "Asaad Wahda",
+            "release_date": "2012-02-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b27323970d28fe80d1b5c6ec9d0f",
+            "track_url": "https://open.spotify.com/album/1ppVmx3JFg7IYHkeMb2vBX",
+            "tracks": [
+                {
+                    "name": "Alolle El Eid",
+                    "track_url": "",
+                    "duration_ms": 295601,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27323970d28fe80d1b5c6ec9d0f",
+                    "id": 5569,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Asaad Wahda",
+                    "track_url": "",
+                    "duration_ms": 276009,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27323970d28fe80d1b5c6ec9d0f",
+                    "id": 5570,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Teabet Menak",
+                    "track_url": "",
+                    "duration_ms": 303777,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27323970d28fe80d1b5c6ec9d0f",
+                    "id": 5571,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Fi Ayounek",
+                    "track_url": "",
+                    "duration_ms": 272274,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27323970d28fe80d1b5c6ec9d0f",
+                    "id": 5572,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Albi Hases Feek",
+                    "track_url": "",
+                    "duration_ms": 305841,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27323970d28fe80d1b5c6ec9d0f",
+                    "id": 5573,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Faker",
+                    "track_url": "",
+                    "duration_ms": 344659,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27323970d28fe80d1b5c6ec9d0f",
+                    "id": 5574,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Law Aoullak",
+                    "track_url": "",
+                    "duration_ms": 228858,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27323970d28fe80d1b5c6ec9d0f",
+                    "id": 5575,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Lola EL Malamah",
+                    "track_url": "",
+                    "duration_ms": 336248,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27323970d28fe80d1b5c6ec9d0f",
+                    "id": 5576,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Saat",
+                    "track_url": "",
+                    "duration_ms": 305319,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27323970d28fe80d1b5c6ec9d0f",
+                    "id": 5577,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Kerahtak Ana",
+                    "track_url": "",
+                    "duration_ms": 362814,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27323970d28fe80d1b5c6ec9d0f",
+                    "id": 5578,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Moutafaala",
+                    "track_url": "",
+                    "duration_ms": 326060,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27323970d28fe80d1b5c6ec9d0f",
+                    "id": 5579,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Oghmorne",
+                    "track_url": "",
+                    "duration_ms": 310726,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27323970d28fe80d1b5c6ec9d0f",
+                    "id": 5580,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Rahtello",
+                    "track_url": "",
+                    "duration_ms": 245472,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27323970d28fe80d1b5c6ec9d0f",
+                    "id": 5581,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Haylef W Yergaali",
+                    "track_url": "",
+                    "duration_ms": 249103,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27323970d28fe80d1b5c6ec9d0f",
+                    "id": 5582,
+                    "artist": "Elissa"
+                }
+            ],
+            "id": 5568
+        },
+        {
+            "name": "Tsadaq Bmein",
+            "release_date": "2009-12-26",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d99d2f25e4e493d6694b6cc5",
+            "track_url": "https://open.spotify.com/album/0z54dmphx3rhrfbbfdmM7B",
+            "tracks": [
+                {
+                    "name": "Tsadaq Bmein",
+                    "track_url": "",
+                    "duration_ms": 278334,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d99d2f25e4e493d6694b6cc5",
+                    "id": 5584,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Salemle Aleh",
+                    "track_url": "",
+                    "duration_ms": 289280,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d99d2f25e4e493d6694b6cc5",
+                    "id": 5585,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Abaly Habeby",
+                    "track_url": "",
+                    "duration_ms": 323004,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d99d2f25e4e493d6694b6cc5",
+                    "id": 5586,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Ma Aash Wala Kan",
+                    "track_url": "",
+                    "duration_ms": 258532,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d99d2f25e4e493d6694b6cc5",
+                    "id": 5587,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "W Byestehy",
+                    "track_url": "",
+                    "duration_ms": 258742,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d99d2f25e4e493d6694b6cc5",
+                    "id": 5588,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Masdoumah",
+                    "track_url": "",
+                    "duration_ms": 262373,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d99d2f25e4e493d6694b6cc5",
+                    "id": 5589,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Eftakart",
+                    "track_url": "",
+                    "duration_ms": 354272,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d99d2f25e4e493d6694b6cc5",
+                    "id": 5590,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Fi Shi Nkasar",
+                    "track_url": "",
+                    "duration_ms": 208274,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d99d2f25e4e493d6694b6cc5",
+                    "id": 5591,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Law Faye",
+                    "track_url": "",
+                    "duration_ms": 249443,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d99d2f25e4e493d6694b6cc5",
+                    "id": 5592,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Men Gheir Mounasba",
+                    "track_url": "",
+                    "duration_ms": 290324,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d99d2f25e4e493d6694b6cc5",
+                    "id": 5593,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Amry Lraby",
+                    "track_url": "",
+                    "duration_ms": 236486,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d99d2f25e4e493d6694b6cc5",
+                    "id": 5594,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Ma Tearafchi Leih",
+                    "track_url": "",
+                    "duration_ms": 287268,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d99d2f25e4e493d6694b6cc5",
+                    "id": 5595,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Aisha We El Salam",
+                    "track_url": "",
+                    "duration_ms": 348342,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d99d2f25e4e493d6694b6cc5",
+                    "id": 5596,
+                    "artist": "Elissa"
+                }
+            ],
+            "id": 5583
+        },
+        {
+            "name": "Ayami Beek (Wana A'dar)",
+            "release_date": "2007-12-20",
+            "image": "https://i.scdn.co/image/ab67616d0000b273840cb19d7218e3bb585249ff",
+            "track_url": "https://open.spotify.com/album/3w2y3OshIfNKAHgqVhzc8x",
+            "tracks": [
+                {
+                    "name": "Betmoun",
+                    "track_url": "",
+                    "duration_ms": 245002,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273840cb19d7218e3bb585249ff",
+                    "id": 5598,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Ayami Beek",
+                    "track_url": "",
+                    "duration_ms": 280267,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273840cb19d7218e3bb585249ff",
+                    "id": 5599,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Awakher Al Shita",
+                    "track_url": "",
+                    "duration_ms": 273031,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273840cb19d7218e3bb585249ff",
+                    "id": 5600,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Edek 'refet",
+                    "track_url": "",
+                    "duration_ms": 291004,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273840cb19d7218e3bb585249ff",
+                    "id": 5601,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Khod Balak Alaya",
+                    "track_url": "",
+                    "duration_ms": 330292,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273840cb19d7218e3bb585249ff",
+                    "id": 5602,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Saher Eini",
+                    "track_url": "",
+                    "duration_ms": 275617,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273840cb19d7218e3bb585249ff",
+                    "id": 5603,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Law Ma Tiji",
+                    "track_url": "",
+                    "duration_ms": 274938,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273840cb19d7218e3bb585249ff",
+                    "id": 5604,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Ana Bastaghrab Aalei",
+                    "track_url": "",
+                    "duration_ms": 269008,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273840cb19d7218e3bb585249ff",
+                    "id": 5605,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "A'la Hobak",
+                    "track_url": "",
+                    "duration_ms": 218435,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273840cb19d7218e3bb585249ff",
+                    "id": 5606,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Moush Kiteer Aaleik",
+                    "track_url": "",
+                    "duration_ms": 269400,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273840cb19d7218e3bb585249ff",
+                    "id": 5607,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Ya Aalem",
+                    "track_url": "",
+                    "duration_ms": 314122,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273840cb19d7218e3bb585249ff",
+                    "id": 5608,
+                    "artist": "Elissa"
+                }
+            ],
+            "id": 5597
+        },
+        {
+            "name": "Bastanak",
+            "release_date": "2006-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e3322686f3d88596c904c426",
+            "track_url": "https://open.spotify.com/album/2NFsnkSVms09exwbl60X3l",
+            "tracks": [
+                {
+                    "name": "Baaich Ala Hissak",
+                    "track_url": "",
+                    "duration_ms": 262974,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e3322686f3d88596c904c426",
+                    "id": 5610,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Law Taarafou",
+                    "track_url": "",
+                    "duration_ms": 253857,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e3322686f3d88596c904c426",
+                    "id": 5611,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Zanbi Ana",
+                    "track_url": "",
+                    "duration_ms": 277133,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e3322686f3d88596c904c426",
+                    "id": 5612,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Law Kan",
+                    "track_url": "",
+                    "duration_ms": 277681,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e3322686f3d88596c904c426",
+                    "id": 5613,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Fatet Sineen",
+                    "track_url": "",
+                    "duration_ms": 246804,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e3322686f3d88596c904c426",
+                    "id": 5614,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Law Basset Eddamak",
+                    "track_url": "",
+                    "duration_ms": 245707,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e3322686f3d88596c904c426",
+                    "id": 5615,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Kermalak",
+                    "track_url": "",
+                    "duration_ms": 298866,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e3322686f3d88596c904c426",
+                    "id": 5616,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Hikayti Maak",
+                    "track_url": "",
+                    "duration_ms": 319007,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e3322686f3d88596c904c426",
+                    "id": 5617,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Bastanak",
+                    "track_url": "",
+                    "duration_ms": 237087,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e3322686f3d88596c904c426",
+                    "id": 5618,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Matkhafch Minni",
+                    "track_url": "",
+                    "duration_ms": 260440,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e3322686f3d88596c904c426",
+                    "id": 5619,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Taa",
+                    "track_url": "",
+                    "duration_ms": 276558,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e3322686f3d88596c904c426",
+                    "id": 5620,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Tlob Itmana",
+                    "track_url": "",
+                    "duration_ms": 262164,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e3322686f3d88596c904c426",
+                    "id": 5621,
+                    "artist": "Elissa"
+                }
+            ],
+            "id": 5609
+        },
+        {
+            "name": "Ahla Dounya",
+            "release_date": "2004-06-05",
+            "image": "https://i.scdn.co/image/ab67616d0000b27348fc8672e32b4f3db013d3f9",
+            "track_url": "https://open.spotify.com/album/2lbMDIUyYAxZCGzqCFf2L3",
+            "tracks": [
+                {
+                    "name": "Hobak Waja'",
+                    "track_url": "",
+                    "duration_ms": 287111,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27348fc8672e32b4f3db013d3f9",
+                    "id": 5623,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Kol Yuom Fe Omry",
+                    "track_url": "",
+                    "duration_ms": 322351,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27348fc8672e32b4f3db013d3f9",
+                    "id": 5624,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Ahla Donia",
+                    "track_url": "",
+                    "duration_ms": 257488,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27348fc8672e32b4f3db013d3f9",
+                    "id": 5625,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Gawaya Leek",
+                    "track_url": "",
+                    "duration_ms": 274207,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27348fc8672e32b4f3db013d3f9",
+                    "id": 5626,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Ergaa Lel Shoua",
+                    "track_url": "",
+                    "duration_ms": 314958,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27348fc8672e32b4f3db013d3f9",
+                    "id": 5627,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Kan Nefse Aaraf",
+                    "track_url": "",
+                    "duration_ms": 302106,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27348fc8672e32b4f3db013d3f9",
+                    "id": 5628,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Bean El Aean",
+                    "track_url": "",
+                    "duration_ms": 255242,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27348fc8672e32b4f3db013d3f9",
+                    "id": 5629,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Arable",
+                    "track_url": "",
+                    "duration_ms": 228388,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27348fc8672e32b4f3db013d3f9",
+                    "id": 5630,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Khalini Aaeash",
+                    "track_url": "",
+                    "duration_ms": 287738,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27348fc8672e32b4f3db013d3f9",
+                    "id": 5631,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Erham Albe",
+                    "track_url": "",
+                    "duration_ms": 246099,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27348fc8672e32b4f3db013d3f9",
+                    "id": 5632,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Zekra",
+                    "track_url": "",
+                    "duration_ms": 303360,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27348fc8672e32b4f3db013d3f9",
+                    "id": 5633,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Lw Nergaa Sawa",
+                    "track_url": "",
+                    "duration_ms": 277394,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27348fc8672e32b4f3db013d3f9",
+                    "id": 5634,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Ad Ma Bashtalak",
+                    "track_url": "",
+                    "duration_ms": 228127,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27348fc8672e32b4f3db013d3f9",
+                    "id": 5635,
+                    "artist": "Elissa"
+                }
+            ],
+            "id": 5622
+        },
+        {
+            "name": "Aayshalak",
+            "release_date": "2002-01-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739c6a5ac50043c645779de1ad",
+            "track_url": "https://open.spotify.com/album/4iitDZmbi4tg9iCyUVkXY4",
+            "tracks": [
+                {
+                    "name": "Aayshalak",
+                    "track_url": "",
+                    "duration_ms": 280080,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739c6a5ac50043c645779de1ad",
+                    "id": 5637,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Ah Min Hawak",
+                    "track_url": "",
+                    "duration_ms": 284400,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739c6a5ac50043c645779de1ad",
+                    "id": 5638,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Ajmal Ihssas",
+                    "track_url": "",
+                    "duration_ms": 356653,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739c6a5ac50043c645779de1ad",
+                    "id": 5639,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Shaghilni",
+                    "track_url": "",
+                    "duration_ms": 253373,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739c6a5ac50043c645779de1ad",
+                    "id": 5640,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Shiltak Min Albi",
+                    "track_url": "",
+                    "duration_ms": 298600,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739c6a5ac50043c645779de1ad",
+                    "id": 5641,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Million Ahibbak",
+                    "track_url": "",
+                    "duration_ms": 360373,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739c6a5ac50043c645779de1ad",
+                    "id": 5642,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Baada",
+                    "track_url": "",
+                    "duration_ms": 256013,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739c6a5ac50043c645779de1ad",
+                    "id": 5643,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Kilmit Hob",
+                    "track_url": "",
+                    "duration_ms": 237960,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739c6a5ac50043c645779de1ad",
+                    "id": 5644,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "La Trouh",
+                    "track_url": "",
+                    "duration_ms": 247746,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739c6a5ac50043c645779de1ad",
+                    "id": 5645,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Shou El Hal",
+                    "track_url": "",
+                    "duration_ms": 255093,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739c6a5ac50043c645779de1ad",
+                    "id": 5646,
+                    "artist": "Elissa"
+                }
+            ],
+            "id": 5636
+        },
+        {
+            "name": "W Akherta Maak",
+            "release_date": "2001-04-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733745f4dcacb7edd41fc628cb",
+            "track_url": "https://open.spotify.com/album/0M5LrNl9s5C31vYf9qfgTu",
+            "tracks": [
+                {
+                    "name": "Daa El Aenwan",
+                    "track_url": "",
+                    "duration_ms": 277146,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733745f4dcacb7edd41fc628cb",
+                    "id": 5648,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Betghib Betrouh",
+                    "track_url": "",
+                    "duration_ms": 260519,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733745f4dcacb7edd41fc628cb",
+                    "id": 5649,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "W Akherta Maak",
+                    "track_url": "",
+                    "duration_ms": 335906,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733745f4dcacb7edd41fc628cb",
+                    "id": 5650,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Haram",
+                    "track_url": "",
+                    "duration_ms": 248533,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733745f4dcacb7edd41fc628cb",
+                    "id": 5651,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Minn Albi Tmanayat",
+                    "track_url": "",
+                    "duration_ms": 177626,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733745f4dcacb7edd41fc628cb",
+                    "id": 5652,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Wahyat el Hob",
+                    "track_url": "",
+                    "duration_ms": 269066,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733745f4dcacb7edd41fc628cb",
+                    "id": 5653,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Ramchet A'yn",
+                    "track_url": "",
+                    "duration_ms": 279653,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733745f4dcacb7edd41fc628cb",
+                    "id": 5654,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Saealna",
+                    "track_url": "",
+                    "duration_ms": 286106,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733745f4dcacb7edd41fc628cb",
+                    "id": 5655,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Saharni Habibi",
+                    "track_url": "",
+                    "duration_ms": 273920,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733745f4dcacb7edd41fc628cb",
+                    "id": 5656,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Chafouna Tneyn",
+                    "track_url": "",
+                    "duration_ms": 262853,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733745f4dcacb7edd41fc628cb",
+                    "id": 5657,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Min Bloum",
+                    "track_url": "",
+                    "duration_ms": 237080,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2733745f4dcacb7edd41fc628cb",
+                    "id": 5658,
+                    "artist": "Elissa"
+                }
+            ],
+            "id": 5647
+        },
+        {
+            "name": "Baddi Doub",
+            "release_date": "1999-06-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f6154b3024f30dede5f032ed",
+            "track_url": "https://open.spotify.com/album/65Q4W7OEqLr98fmiKKAdXe",
+            "tracks": [
+                {
+                    "name": "Baddi Doub",
+                    "track_url": "",
+                    "duration_ms": 239098,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f6154b3024f30dede5f032ed",
+                    "id": 5660,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Da Lolak",
+                    "track_url": "",
+                    "duration_ms": 295288,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f6154b3024f30dede5f032ed",
+                    "id": 5661,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Helm El Ahlam",
+                    "track_url": "",
+                    "duration_ms": 257802,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f6154b3024f30dede5f032ed",
+                    "id": 5662,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Waynak Habibi",
+                    "track_url": "",
+                    "duration_ms": 280528,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f6154b3024f30dede5f032ed",
+                    "id": 5663,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Elissa",
+                    "track_url": "",
+                    "duration_ms": 284499,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f6154b3024f30dede5f032ed",
+                    "id": 5664,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Chou Ma Sar",
+                    "track_url": "",
+                    "duration_ms": 216816,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f6154b3024f30dede5f032ed",
+                    "id": 5665,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Zaalan",
+                    "track_url": "",
+                    "duration_ms": 200620,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f6154b3024f30dede5f032ed",
+                    "id": 5666,
+                    "artist": "Elissa"
+                },
+                {
+                    "name": "Ghali",
+                    "track_url": "",
+                    "duration_ms": 239856,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f6154b3024f30dede5f032ed",
+                    "id": 5667,
+                    "artist": "Elissa"
+                }
+            ],
+            "id": 5659
+        }
+    ],
+    "singles": [
+        {
+            "name": "Hobbak Metl Beirut",
+            "release_date": "2024-12-05",
+            "image": "https://i.scdn.co/image/ab67616d0000b273037b2eff52c4a01229c304b6",
+            "track_url": "",
+            "id": 5668,
+            "artist": "Elissa"
+        },
+        {
+            "name": "Dayman Ala Baly",
+            "release_date": "2024-03-13",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730f1dd4e23f03e2e74ccbdc28",
+            "track_url": "",
+            "id": 5669,
+            "artist": "Elissa"
+        },
+        {
+            "name": "Kermalak",
+            "release_date": "2024-03-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736b9f5e2200569db05682373a",
+            "track_url": "",
+            "id": 5670,
+            "artist": "Elissa"
+        },
+        {
+            "name": "Ana Mish Soutak",
+            "release_date": "2024-03-06",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730ba8b5c8c66a72ad3e95ad56",
+            "track_url": "",
+            "id": 5671,
+            "artist": "Elissa"
+        },
+        {
+            "name": "Kello Waham - Rodge Remix",
+            "release_date": "2024-03-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b27359de4135e8eb2c89a1e111a7",
+            "track_url": "",
+            "id": 5672,
+            "artist": "Elissa"
+        },
+        {
+            "name": "Kello Waham",
+            "release_date": "2024-01-29",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c456fcb0f2ec5830a13995f8",
+            "track_url": "",
+            "id": 5673,
+            "artist": "Elissa"
+        },
+        {
+            "name": "El Okd",
+            "release_date": "2023-08-20",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739186244f031ea395659cb1fe",
+            "track_url": "",
+            "id": 5674,
+            "artist": "Elissa"
+        },
+        {
+            "name": "Batmayel Aala El Beat",
+            "release_date": "2023-06-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b27391ec1446415b6a8652c35a5e",
+            "track_url": "",
+            "id": 5675,
+            "artist": "Elissa"
+        },
+        {
+            "name": "ما تندم ع شي",
+            "release_date": "2023-01-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e765c383e95a96068eb50ac1",
+            "track_url": "",
+            "id": 5676,
+            "artist": "Elissa"
+        },
+        {
+            "name": "أنا وبس",
+            "release_date": "2022-08-16",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737704c2b5189fca49fbd233b4",
+            "track_url": "",
+            "id": 5677,
+            "artist": "Elissa"
+        },
+        {
+            "name": "زهرة من الياسمين",
+            "release_date": "2022-07-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d11b706a4901aa4f192a9c9d",
+            "track_url": "",
+            "id": 5678,
+            "artist": "Elissa"
+        },
+        {
+            "name": "من أول دقيقة (رودج ريمكس)",
+            "release_date": "2022-07-05",
+            "image": "https://i.scdn.co/image/ab67616d0000b273773645221ae47b2d316abc7f",
+            "track_url": "",
+            "id": 5679,
+            "artist": "Elissa"
+        },
+        {
+            "name": "Min Awel Dekika",
+            "release_date": "2022-05-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ff61555391eb9d9e25557807",
+            "track_url": "",
+            "id": 5680,
+            "artist": "Elissa"
+        },
+        {
+            "name": "Damayer",
+            "release_date": "2022-04-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738c2b04e6d6e07452f7fb47bb",
+            "track_url": "",
+            "id": 5681,
+            "artist": "Elissa"
+        },
+        {
+            "name": "Maridit Ehtimam",
+            "release_date": "2021-12-12",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ae71b787c5facdb1c0775308",
+            "track_url": "",
+            "id": 5682,
+            "artist": "Elissa"
+        },
+        {
+            "name": "Law Tearafou",
+            "release_date": "2021-12-12",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731a7a4da854ca238011a3f1b5",
+            "track_url": "",
+            "id": 5683,
+            "artist": "Elissa"
+        },
+        {
+            "name": "Karahni",
+            "release_date": "2021-12-12",
+            "image": "https://i.scdn.co/image/ab67616d0000b27302f479635c218b286c005bc1",
+            "track_url": "",
+            "id": 5684,
+            "artist": "Elissa"
+        },
+        {
+            "name": "Ajmal Ihssas",
+            "release_date": "2021-12-12",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739f58e2eb87fb64442a1295cd",
+            "track_url": "",
+            "id": 5685,
+            "artist": "Elissa"
+        },
+        {
+            "name": "Enta W Maii",
+            "release_date": "2021-12-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f2ce1eebe69ed410a826696d",
+            "track_url": "",
+            "id": 5686,
+            "artist": "Elissa"
+        },
+        {
+            "name": "Aghani Min Hayati",
+            "release_date": "2021-06-14",
+            "image": "https://i.scdn.co/image/ab67616d0000b27348da7f9e6548524d86d739bc",
+            "track_url": "",
+            "id": 5687,
+            "artist": "Elissa"
+        },
+        {
+            "name": "Ya Am Salamtak",
+            "release_date": "2021-05-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273aa59ffcb191f24a812ccfcbd",
+            "track_url": "",
+            "id": 5688,
+            "artist": "Elissa"
+        },
+        {
+            "name": "Aam Thour",
+            "release_date": "2019-11-22",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731ef9b94d0c0cfa90a2fbc0fa",
+            "track_url": "",
+            "id": 5689,
+            "artist": "Elissa"
+        },
+        {
+            "name": "قبل أى حد (ماتحسبهاش عيش وغامر)",
+            "release_date": "2019-07-22",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d411077e300fece577265fe9",
+            "track_url": "",
+            "id": 5690,
+            "artist": "Elissa"
+        },
+        {
+            "name": "Bokra Btechroq Shams ElAied",
+            "release_date": "2018-12-27",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738332c6f23ec25a7ca3b33600",
+            "track_url": "",
+            "id": 5691,
+            "artist": "Elissa"
+        },
+        {
+            "name": "Esht W Shift",
+            "release_date": "2018-05-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d0470262c1e929794edd998d",
+            "track_url": "",
+            "id": 5692,
+            "artist": "Elissa"
+        },
+        {
+            "name": "Zakaria - Single",
+            "release_date": "2017-06-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b27364967bb3d0c561e8372ee61a",
+            "track_url": "",
+            "id": 5693,
+            "artist": "Elissa"
+        },
+        {
+            "name": "Men Wara EL Shababik - Single",
+            "release_date": "2017-06-16",
+            "image": "https://i.scdn.co/image/ab67616d0000b273472d2340faaaf861f70fb821",
+            "track_url": "",
+            "id": 5694,
+            "artist": "Elissa"
+        },
+        {
+            "name": "Mawtini",
+            "release_date": "2015-04-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ab8d04f08accbea6b9ca79a9",
+            "track_url": "",
+            "id": 5695,
+            "artist": "Elissa"
+        },
+        {
+            "name": "Law (Law TV Series)",
+            "release_date": "2014-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d46af10419af6af296dc32b3",
+            "track_url": "",
+            "id": 5696,
+            "artist": "Elissa"
+        },
+        {
+            "name": "Agmal Ihsas (Live In Paris)",
+            "release_date": "2013-02-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b27357a606dea420b22a62e6e91f",
+            "track_url": "",
+            "id": 5697,
+            "artist": "Elissa"
+        }
+    ],
+    "popular_tracks": [
+        {
+            "name": "Aayshalak",
+            "track_url": "",
+            "duration_ms": 280080,
+            "image": "https://i.scdn.co/image/ab67616d0000b2739c6a5ac50043c645779de1ad",
+            "id": 5698,
+            "artist": "Elissa"
+        },
+        {
+            "name": "Min Awel Dekika",
+            "track_url": "",
+            "duration_ms": 272560,
+            "image": "https://i.scdn.co/image/ab67616d0000b273ff61555391eb9d9e25557807",
+            "id": 5699,
+            "artist": "Elissa"
+        },
+        {
+            "name": "Ajmal Ihssas",
+            "track_url": "",
+            "duration_ms": 356653,
+            "image": "https://i.scdn.co/image/ab67616d0000b2739c6a5ac50043c645779de1ad",
+            "id": 5700,
+            "artist": "Elissa"
+        },
+        {
+            "name": "بتمون",
+            "track_url": "",
+            "duration_ms": 245002,
+            "image": "https://i.scdn.co/image/ab67616d0000b273efb7881ec37ac9410a867d55",
+            "id": 5701,
+            "artist": "Elissa"
+        },
+        {
+            "name": "Law - Law TV Series",
+            "track_url": "",
+            "duration_ms": 192792,
+            "image": "https://i.scdn.co/image/ab67616d0000b273d46af10419af6af296dc32b3",
+            "id": 5702,
+            "artist": "Elissa"
+        },
+        {
+            "name": "فاتت سنين",
+            "track_url": "",
+            "duration_ms": 246804,
+            "image": "https://i.scdn.co/image/ab67616d0000b2733db921076ad77c7b97a39beb",
+            "id": 5703,
+            "artist": "Elissa"
+        },
+        {
+            "name": "حب كل حياتي",
+            "track_url": "",
+            "duration_ms": 214804,
+            "image": "https://i.scdn.co/image/ab67616d0000b273339143f31b7b257728df1caf",
+            "id": 5704,
+            "artist": "Elissa"
+        },
+        {
+            "name": "اسعد واحده",
+            "track_url": "",
+            "duration_ms": 276009,
+            "image": "https://i.scdn.co/image/ab67616d0000b2738b36f08f6d67013dd52ebf9b",
+            "id": 5705,
+            "artist": "Elissa"
+        },
+        {
+            "name": "فاكر",
+            "track_url": "",
+            "duration_ms": 344659,
+            "image": "https://i.scdn.co/image/ab67616d0000b2738b36f08f6d67013dd52ebf9b",
+            "id": 5706,
+            "artist": "Elissa"
+        },
+        {
+            "name": "هنغني كمان وكمان",
+            "track_url": "",
+            "duration_ms": 226680,
+            "image": "https://i.scdn.co/image/ab67616d0000b27376a72a409c2c3b47e35d0d69",
+            "id": 5707,
+            "artist": "Elissa"
+        }
+    ]
+}

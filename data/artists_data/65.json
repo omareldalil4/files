@@ -1,0 +1,37 @@
+{
+    "artist": {
+        "id": "8850",
+        "name": "Zainab Hassan",
+        "image": "https://i.scdn.co/image/ab67616d0000b2734c6b11d7be22113c67c6e8de",
+        "background_image": "https://i.scdn.co/image/ab67616d00001e024c6b11d7be22113c67c6e8de"
+    },
+    "albums": [],
+    "singles": [
+        {
+            "name": "Yom Min el Ayyam",
+            "release_date": "2022-02-13",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734c6b11d7be22113c67c6e8de",
+            "track_url": "",
+            "id": 8851,
+            "artist": "Zainab Hassan"
+        }
+    ],
+    "popular_tracks": [
+        {
+            "name": "Yom Min el Ayyam",
+            "track_url": "",
+            "duration_ms": 220800,
+            "image": "https://i.scdn.co/image/ab67616d0000b2734c6b11d7be22113c67c6e8de",
+            "id": 8852,
+            "artist": "Zainab Hassan"
+        },
+        {
+            "name": "٦ ايام",
+            "track_url": "",
+            "duration_ms": 174666,
+            "image": "https://i.scdn.co/image/ab67616d0000b2739ac87e07d72621c33db3a992",
+            "id": 8853,
+            "artist": "Zainab Hassan"
+        }
+    ]
+}

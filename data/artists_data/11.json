@@ -1,0 +1,429 @@
+{
+    "artist": {
+        "id": "2221",
+        "name": "Mohamed Ramadan",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb13f802da9f8b045baf963666",
+        "background_image": "https://i.scdn.co/image/ab6761610000517413f802da9f8b045baf963666"
+    },
+    "albums": [],
+    "singles": [
+        {
+            "name": "قطتي مبتخربش",
+            "release_date": "2025-01-12",
+            "image": "https://i.scdn.co/image/ab67616d00001e02718ba912ef61eb05ddd2cb99",
+            "track_url": "https://www.dropbox.com/scl/fi/pexuw49o5m3xhrcit0oyd/.mp3?rlkey=7c4ukkmmwri63xi750uhaospr&st=cr1nq978&dl=1",
+            "id": 12411,
+            "artist": "Mohamed Ramadan"
+        },
+        {
+            "name": "أنا البلد",
+            "release_date": "2025-01-04",
+            "image": "https://scontent.fcai21-3.fna.fbcdn.net/v/t39.30808-6/472284304_1284342203052068_5706813167342306636_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=8rD_K4vJE4cQ7kNvgEq-Xd_&_nc_oc=AdjKrY6ImYfrlov7ybgxKo11vPvnFZlrZBXxFFwbKl_QNyNn80QEVLk9W6V30kXSCgs&_nc_zt=23&_nc_ht=scontent.fcai21-3.fna&_nc_gid=AJBlLBq7Z3CDerU5KBsbEGF&oh=00_AYApZIksAcRIkHEy5tAGB2nb8WRnKgO5aNtuSvwp62Wagg&oe=678F34AC",
+            "track_url": "https://www.dropbox.com/scl/fi/d21xmlxplennc7repoo6w/.mp3?rlkey=hch1nhzc54f4yj7blv0329oab&st=vh9qvj1k&dl=1",
+            "id": 12412,
+            "artist": "Mohamed Ramadan"
+        },
+        {
+            "name": "Joanna - برج الثور",
+            "release_date": "2024-12-06",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735122edc382d0af677031213b",
+            "track_url": "https://www.dropbox.com/scl/fi/2lqo8rvqt1qaxgo5x88gt/.mp3?rlkey=uamhkbarv7beur7gqwzzdhxc6&st=56kxq2r6&dl=1",
+            "id": 2222,
+            "artist": "Mohamed Ramadan"
+        },
+        {
+            "name": "Mesh Fady",
+            "release_date": "2024-08-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b27364e932f96604d0bc1bd380f5",
+            "track_url": "https://www.dropbox.com/scl/fi/kq300rlea0v131r51mvke/.mp3?rlkey=1agiziwp5uhne0w7fyy37tlcp&st=61esdnnd&dl=1",
+            "id": 2224,
+            "artist": "Mohamed Ramadan"
+        },
+        {
+            "name": "Eih ya Coca-Cola",
+            "release_date": "2024-08-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c16d6ddfc730b62e6eb87ea9",
+            "track_url": "https://www.dropbox.com/scl/fi/b4m3gl4op89l41h7g39ng/.mp3?rlkey=6gazny1g4l4ddt4qm81op2i8u&st=rdtz9pch&dl=1",
+            "id": 2225,
+            "artist": "Mohamed Ramadan"
+        },
+        {
+            "name": "Kebeer Balad",
+            "release_date": "2024-07-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b273cdeae42c654f37c3a1454e27",
+            "track_url": "https://www.dropbox.com/scl/fi/sctvrbs55f5xk4iatdkz2/.mp3?rlkey=ezkt3rum242jscaywec98jmc5&st=8vup3u4h&dl=1",
+            "id": 2226,
+            "artist": "Mohamed Ramadan"
+        },
+        {
+            "name": "Mafish Keda",
+            "release_date": "2024-07-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c0f3d116bcfd3b334fdeae7f",
+            "track_url": "https://www.dropbox.com/scl/fi/kq300rlea0v131r51mvke/.mp3?rlkey=1agiziwp5uhne0w7fyy37tlcp&st=28cdv6kr&dl=1",
+            "id": 2227,
+            "artist": "Mohamed Ramadan"
+        },
+        {
+            "name": "Bmazagy",
+            "release_date": "2024-07-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b93e8e8e09b7aff9b80bc684",
+            "track_url": "https://www.dropbox.com/scl/fi/f3riq8d4fsr8j7m5qe442/.mp3?rlkey=i1zddp64rbh4s0xsdbfol76pi&st=qzokzg7n&dl=1",
+            "id": 2228,
+            "artist": "Mohamed Ramadan"
+        },
+        {
+            "name": "Seven",
+            "release_date": "2024-03-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b273606914b61e0452a011f9d785",
+            "track_url": "https://www.dropbox.com/scl/fi/wxchs4csoeki9dgf2xyd3/.mp3?rlkey=ziamk8rzgochhh3zd7vsarij3&st=i80bzgfj&dl=1",
+            "id": 2229,
+            "artist": "Mohamed Ramadan"
+        },
+        {
+            "name": "Hagry Hagry",
+            "release_date": "2023-08-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f4fa8aa0704924e22d6d34c6",
+            "track_url": "https://www.dropbox.com/scl/fi/k86sjpd62dwkby2rvm9z8/.mp3?rlkey=bm3qa64dh5dnhk1027deol6j2&st=438csfxj&dl=1",
+            "id": 2234,
+            "artist": "Mohamed Ramadan"
+        },
+        {
+            "name": "Hanor2os",
+            "release_date": "2023-08-16",
+            "image": "https://i.scdn.co/image/ab67616d0000b273840257d06ee7e021c8344df1",
+            "track_url": "https://www.dropbox.com/scl/fi/gthm8t4pn5nre04r6uqo5/.mp3?rlkey=7lyy1dq44w04yd0zedli5ntly&st=zklbf3wo&dl=1",
+            "id": 2235,
+            "artist": "Mohamed Ramadan"
+        },
+        {
+            "name": "Aloo",
+            "release_date": "2023-08-16",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a835c05a318911cb9a907816",
+            "track_url": "https://www.dropbox.com/scl/fi/qigzzk27qyk4tsu9kcbhp/.mp3?rlkey=kmu5b7mprkffghofrfbm297in&st=nztt31o7&dl=1",
+            "id": 2236,
+            "artist": "Mohamed Ramadan"
+        },
+        {
+            "name": "3 Elzero",
+            "release_date": "2023-08-02",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736d0d47c9eec1f58b1ec4446d",
+            "track_url": "https://www.dropbox.com/scl/fi/ei4rnd77wirwjdtmnnjiq/.mp3?rlkey=dsjpbuz1vaxe78uqytta7ww5g&st=ze1mbfhd&dl=1",
+            "id": 2237,
+            "artist": "Mohamed Ramadan"
+        },
+        {
+            "name": "Khamsa kol Khames",
+            "release_date": "2023-07-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739e342098b8e16cd14bdb3b97",
+            "track_url": "https://www.dropbox.com/scl/fi/1dq1g116wp3fh20xx8mgw/.mp3?rlkey=b5qvoqqggwlze9qp5tv7yrxzb&st=32taye0z&dl=1",
+            "id": 2238,
+            "artist": "Mohamed Ramadan"
+        },
+        {
+            "name": "TETABTAB (feat. Stefanos Pitsiniagkas)",
+            "release_date": "2023-07-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b273abad94375c5af8bf9047d6dc",
+            "track_url": "https://www.dropbox.com/scl/fi/4x8fhcyl8vnlxz8ffv49y/.mp3?rlkey=gpsvvrbcni1y2ieftf67u8zqu&st=plgvhhsx&dl=1",
+            "id": 2239,
+            "artist": "Mohamed Ramadan"
+        },
+        {
+            "name": "Malek Elsahar",
+            "release_date": "2023-07-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732cdd42e7cad28206e1be780b",
+            "track_url": "https://www.dropbox.com/scl/fi/s4uurvkznv85vdqnuoson/.mp3?rlkey=nr4ybefs3uohzetddxp35l75u&st=bwt82gmx&dl=1",
+            "id": 2240,
+            "artist": "Mohamed Ramadan"
+        },
+        {
+            "name": "هارلي (أغنية الفيلم)",
+            "release_date": "2023-05-12",
+            "image": "https://i.scdn.co/image/ab67616d0000b273235837c8fc8e80baca9d66d7",
+            "track_url": "https://www.dropbox.com/scl/fi/j90zkyk70swezypd3t5x3/.mp3?rlkey=m43432ayja88c8wbykg7xlbxg&st=e7p51x74&dl=1",
+            "id": 2242,
+            "artist": "Mohamed Ramadan"
+        },
+        {
+            "name": "تجري ورايا (من فيلم هارلي)",
+            "release_date": "2023-05-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ec69291166b1b6306d1daa78",
+            "track_url": "https://www.dropbox.com/scl/fi/rtxt6zqp3ye7m7ghwqqy7/.mp3?rlkey=20d2bg79rof8s164wafxlmqc8&st=xzr3skjd&dl=1",
+            "id": 2243,
+            "artist": "Mohamed Ramadan"
+        },
+        {
+            "name": "TMO",
+            "release_date": "2023-04-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f8132d03b9c475e08b4e7f5e",
+            "track_url": "https://www.dropbox.com/scl/fi/a6iu44eiqf8gg3uauk9rd/.mp3?rlkey=q4msdobkxw3ad901sff6z02jt&st=l2ceo1pw&dl=1",
+            "id": 2244,
+            "artist": "Mohamed Ramadan"
+        },
+        {
+            "name": "To2 Nagaa (From Harley Movie)",
+            "release_date": "2023-04-26",
+            "image": "https://i.scdn.co/image/ab67616d0000b273741ad4b698cffbb59f5a9530",
+            "track_url": "https://www.dropbox.com/scl/fi/nejcwrs6c477nbp91lnco/.mp3?rlkey=ioea16bigic4mxuts0o6s6vc1&st=ok715bce&dl=1",
+            "id": 2245,
+            "artist": "Mohamed Ramadan"
+        },
+        {
+            "name": "Come Baby Come",
+            "release_date": "2023-04-20",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738fa50799074f09287a469e5f",
+            "track_url": "https://www.dropbox.com/scl/fi/bhxgha6jqjkx3xxtzrhgo/.mp3?rlkey=0j63cyck1owti2xw9k0x2693q&st=siltxfm6&dl=1",
+            "id": 2246,
+            "artist": "Mohamed Ramadan"
+        },
+        {
+            "name": "Nassaba",
+            "release_date": "2023-02-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273816765a070503c764e9b745e",
+            "track_url": "https://www.dropbox.com/scl/fi/ne8nm50o2m6mxwmxw79qy/.mp3?rlkey=lsnjc5pxif4yj5g4rvypu8lnm&st=a62p8mol&dl=1",
+            "id": 2247,
+            "artist": "Mohamed Ramadan"
+        },
+        {
+            "name": "على وضعنا",
+            "release_date": "2023-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f661d91b70b222b29be44280",
+            "track_url": "https://www.dropbox.com/scl/fi/83r0sl355fzrtfkya0xvq/.mp3?rlkey=qh86s7vvsg23g4544l2ijf6q6&st=swm9czsk&dl=1",
+            "id": 2248,
+            "artist": "Mohamed Ramadan"
+        },
+        {
+            "name": "Law Nasyeen",
+            "release_date": "2022-11-17",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ccc5903a6824d24b826ea686",
+            "track_url": "https://www.dropbox.com/scl/fi/zaqtuq4czuzy55n2a8vb0/.mp3?rlkey=0jma31p4n0i0ubrx9i429rd7d&st=49dpkxi5&dl=1",
+            "id": 2249,
+            "artist": "Mohamed Ramadan"
+        },
+        {
+            "name": "Dawsha",
+            "release_date": "2022-09-14",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736bb9f5f41b34f5e9ee13c130",
+            "track_url": "https://www.dropbox.com/scl/fi/x964liulodapt6kwgkpgz/.mp3?rlkey=nyxhoue8jodh3z6v8ltgdt4qp&st=ok1x7t64&dl=1",
+            "id": 2250,
+            "artist": "Mohamed Ramadan"
+        },
+        {
+            "name": "متغاظين",
+            "release_date": "2022-08-20",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734251ac415dd3b5952eac0f18",
+            "track_url": "https://www.dropbox.com/scl/fi/n0chh57f2zre3izt6ihev/.mp3.crdownload?rlkey=1z0d86c5xw6x4x35nry9jt2wa&st=m6uol37n&dl=1",
+            "id": 2251,
+            "artist": "Mohamed Ramadan"
+        },
+        {
+            "name": "Tanteet",
+            "release_date": "2022-06-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b273dfdc368b9388a6fdd07057b8",
+            "track_url": "https://www.dropbox.com/scl/fi/wrr2dgam1a3e9zl6z95s9/.mp3?rlkey=xlyz6d4p3xes3q2oqmf4k2x1s&st=7d0qi9gu&dl=1",
+            "id": 2252,
+            "artist": "Mohamed Ramadan"
+        },
+        {
+            "name": "Balaleen",
+            "release_date": "2022-05-29",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d5e0c75e5310a7103a72d0c6",
+            "track_url": "https://www.dropbox.com/scl/fi/5tuiutcygixla4ubrp9hw/.mp3?rlkey=b8r2zwug13enh42s1unws2r0a&st=0uryeuqo&dl=1",
+            "id": 2253,
+            "artist": "Mohamed Ramadan"
+        },
+        {
+            "name": "Amleen Gamdeen",
+            "release_date": "2022-05-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273dd4723011b8e3d4b76bd5cd1",
+            "track_url": "https://www.dropbox.com/scl/fi/p11jjpe40vbkjdfeq0sy1/.mp3?rlkey=r80of7q1ju6lsnij4kzdbd3yk&st=5f632pyd&dl=1",
+            "id": 2254,
+            "artist": "Mohamed Ramadan"
+        },
+        {
+            "name": "Every Day",
+            "release_date": "2022-03-20",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736e7fee8fe824ff90f0196fa4",
+            "track_url": "https://www.dropbox.com/scl/fi/h72wdkreciyn8sx6mwgjh/.mp3?rlkey=c2uw4vseqcnkk49ki0t1vaxm6&st=zgnc1k0j&dl=1",
+            "id": 2255,
+            "artist": "Mohamed Ramadan"
+        },
+        {
+            "name": "Bye Bye Thanawiya",
+            "release_date": "2022-02-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b273aa2cc53c7ec7f7c054e8a9a2",
+            "track_url": "https://www.dropbox.com/scl/fi/euza7xa3hsdnh3y40vig8/.mp3?rlkey=mpg0kriggi05lkuthhro6a4ee&st=52rt1wau&dl=1",
+            "id": 2256,
+            "artist": "Mohamed Ramadan"
+        },
+        {
+            "name": "Gaw El Banat",
+            "release_date": "2021-10-14",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e2ef11f8934f14350b284f76",
+            "track_url": "https://www.dropbox.com/scl/fi/yzpgronq15mpq8ilfi53w/.mp3?rlkey=cumi8rk1mq7iu63zky4ft9v4m&st=2qnqoji4&dl=1",
+            "id": 2258,
+            "artist": "Mohamed Ramadan"
+        },
+        {
+            "name": "Alla Allah",
+            "release_date": "2021-08-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738412c6b2c3cf23f1bde92515",
+            "track_url": "https://www.dropbox.com/scl/fi/bnkqmtpwpiju5qvnqt3cy/.mp3?rlkey=ldfsmwyqgot8h4lmkbw95fi65&st=ruobhmx3&dl=1",
+            "id": 2259,
+            "artist": "Mohamed Ramadan"
+        },
+        {
+            "name": "Thabet",
+            "release_date": "2021-06-16",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733d81aad9f2429f4fbaf35e95",
+            "track_url": "https://www.dropbox.com/scl/fi/8azfq75b1dhkifwuccgey/.mp3?rlkey=xaym833ig81cn9udf8vbgqhxz&st=qulghk2a&dl=1",
+            "id": 2260,
+            "artist": "Mohamed Ramadan"
+        },
+        {
+            "name": "Versace Baby",
+            "release_date": "2021-05-13",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739e16b4ef98ee965cd203b9d4",
+            "track_url": "https://www.dropbox.com/scl/fi/qylygtpqownbvfywpd4pa/.mp3?rlkey=56ghwbofv048gi4cuktyvys0g&st=ktxqr7dt&dl=1",
+            "id": 2262,
+            "artist": "Mohamed Ramadan"
+        },
+        {
+            "name": "Ana El Batal",
+            "release_date": "2021-03-03",
+            "image": "https://i.scdn.co/image/ab67616d0000b273db3dc3d674169a63b45fbbe8",
+            "track_url": "https://www.dropbox.com/scl/fi/qqqu11wnodskl46y7v248/.mp3?rlkey=scea33seqm05w10r825vgapmx&st=jsun47et&dl=1",
+            "id": 2263,
+            "artist": "Mohamed Ramadan"
+        },
+        {
+            "name": "Aladdin Lamp",
+            "release_date": "2021-02-02",
+            "image": "https://i.scdn.co/image/ab67616d0000b27390dcd66f81e55d841baaf3c7",
+            "track_url": "https://www.dropbox.com/scl/fi/tazy2h5psxp2t8wdhz8of/.mp3?rlkey=0gqian6axbsdvrdfnystud0uh&st=gtc3dmrc&dl=1",
+            "id": 2264,
+            "artist": "Mohamed Ramadan"
+        },
+        {
+            "name": "Yalla Beena",
+            "release_date": "2021-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b27334221e0bccb8a9f072142ae4",
+            "track_url": "https://www.dropbox.com/scl/fi/b2v5hoz0mqaqqjhy1wu6j/.mp3?rlkey=iqjdmfet6f4qkhsvp371b6gle&st=lq2dmqmo&dl=1",
+            "id": 2265,
+            "artist": "Mohamed Ramadan"
+        },
+        {
+            "name": "Ana Eltop",
+            "release_date": "2020-12-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730793812fa83e2ae57255de56",
+            "track_url": "https://www.dropbox.com/scl/fi/p3q3k08cnzzr40h51ol8y/.mp3?rlkey=7pwqr5kzyh40tmid8fgxea65h&st=n82rba3y&dl=1",
+            "id": 2266,
+            "artist": "Mohamed Ramadan"
+        },
+        {
+            "name": "Ya Habibi",
+            "release_date": "2020-09-06",
+            "image": "https://i.scdn.co/image/ab67616d0000b27311188cd8bc0f1927980951fc",
+            "track_url": "https://www.dropbox.com/scl/fi/3ve0b3j2k182kql2fxder/.mp3?rlkey=q6vctxdeyhfpgpfwiknam3bcu&st=znjamdk7&dl=1",
+            "id": 2267,
+            "artist": "Mohamed Ramadan"
+        },
+        {
+            "name": "TIK TOK",
+            "release_date": "2020-07-17",
+            "image": "https://i.scdn.co/image/ab67616d0000b27307051e357c4139b24e3666af",
+            "track_url": "https://www.dropbox.com/scl/fi/l3tfb9yjafy690pkjhflv/Tik-Tok.mp3?rlkey=flnct4uw8nk9d2z6xbob3rgfr&st=z0y8rd2k&dl=1",
+            "id": 2268,
+            "artist": "Mohamed Ramadan"
+        },
+        {
+            "name": "Corona Virus",
+            "release_date": "2020-06-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734a9e9e8d2875b705c0ce8cdd",
+            "track_url": "https://www.dropbox.com/scl/fi/n38a6cm0pvnx84y50fqe9/.mp3?rlkey=i7lolm736l4j8l0vvdfq7g1kf&st=zmqmhn4q&dl=1",
+            "id": 2269,
+            "artist": "Mohamed Ramadan"
+        },
+        {
+            "name": "Omy Maleka",
+            "release_date": "2020-03-20",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733ed4820978c2a3c5e23bd287",
+            "track_url": "https://www.dropbox.com/scl/fi/ynosrfhoh2zqz635k68ko/.mp3?rlkey=h11ot47pl25ht1xdx1v4zj1ze&st=d6amlsg0&dl=1",
+            "id": 2270,
+            "artist": "Mohamed Ramadan"
+        },
+        {
+            "name": "Enta Gadaa",
+            "release_date": "2020-03-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e3b505ff740e5ce8987c3f4f",
+            "track_url": "https://www.dropbox.com/scl/fi/si8ss0uvr0td3bbep6ypd/.mp3?rlkey=rcrmbae9r56o3gqb18wp8x9p2&st=nsa9nqu8&dl=1",
+            "id": 2271,
+            "artist": "Mohamed Ramadan"
+        }
+    ],
+    "popular_tracks": [
+        {
+            "name": "Ya Habibi",
+            "track_url": "https://www.dropbox.com/scl/fi/3ve0b3j2k182kql2fxder/.mp3?rlkey=q6vctxdeyhfpgpfwiknam3bcu&st=znjamdk7&dl=1",
+            "duration_ms": 187090,
+            "image": "https://i.scdn.co/image/ab67616d0000b27311188cd8bc0f1927980951fc",
+            "id": 2272,
+            "artist": "Mohamed Ramadan"
+        },
+        {
+            "name": "رايحين نسهر - بام بام",
+            "track_url": "https://www.dropbox.com/scl/fi/iub0w9ay8i2ngqlw1mqau/BUM-BUM.mp3?rlkey=oii2q6t37g2r2rgrnm8osidsn&st=7z811bi7&dl=1",
+            "duration_ms": 169500,
+            "image": "https://i.scdn.co/image/ab67616d0000b2734d5b5fb1b0d51071b89f7049",
+            "id": 2273,
+            "artist": "Mohamed Ramadan"
+        },
+        {
+            "name": "Ensay",
+            "track_url": "https://www.dropbox.com/scl/fi/ctdsmclcaqfhol4stknsn/.mp3?rlkey=dqvc571gszzjbq988exrrmiai&st=ai0b9ouh&dl=1",
+            "duration_ms": 224391,
+            "image": "https://i.scdn.co/image/ab67616d0000b2736b20fa85ab55a223633baff5",
+            "id": 2274,
+            "artist": "Mohamed Ramadan"
+        },
+        {
+            "name": "Come Baby Come",
+            "track_url": "https://www.dropbox.com/scl/fi/bhxgha6jqjkx3xxtzrhgo/.mp3?rlkey=0j63cyck1owti2xw9k0x2693q&st=siltxfm6&dl=1",
+            "duration_ms": 145486,
+            "image": "https://i.scdn.co/image/ab67616d0000b273e22126fb5ed885499cc5bbb5",
+            "id": 2276,
+            "artist": "Mohamed Ramadan"
+        },
+        {
+            "name": "Thabet",
+            "track_url": "https://www.dropbox.com/scl/fi/8azfq75b1dhkifwuccgey/.mp3?rlkey=xaym833ig81cn9udf8vbgqhxz&st=qulghk2a&dl=1",
+            "duration_ms": 154000,
+            "image": "https://i.scdn.co/image/ab67616d0000b273cdc5d31023362066a69007a5",
+            "id": 2277,
+            "artist": "Mohamed Ramadan"
+        },
+        {
+            "name": "Number One",
+            "track_url": "https://www.dropbox.com/scl/fi/tqtdjmoeeshqe3303nzds/.mp3?rlkey=unpw65ug2yoylwfsn3hvo5ap4&st=cr0bqahn&dl=1",
+            "duration_ms": 105665,
+            "image": "https://i.scdn.co/image/ab67616d0000b27306e9f80deea0e69ff289ca4c",
+            "id": 2279,
+            "artist": "Mohamed Ramadan"
+        },
+        {
+            "name": "Mafia",
+            "track_url": "https://www.dropbox.com/scl/fi/t12uqeufn75dhjvf4as9m/.mp3?rlkey=mwd6k5zh4kgi41oga9oxh4jqn&st=h11495nq&dl=1",
+            "duration_ms": 164216,
+            "image": "https://i.scdn.co/image/ab67616d0000b273cb33ec15282a4404315fe1e9",
+            "id": 2280,
+            "artist": "Mohamed Ramadan"
+        },
+        {
+            "name": "Aladdin Lamp",
+            "track_url": "https://www.dropbox.com/scl/fi/tazy2h5psxp2t8wdhz8of/.mp3?rlkey=0gqian6axbsdvrdfnystud0uh&st=gtc3dmrc&dl=1",
+            "duration_ms": 177541,
+            "image": "https://i.scdn.co/image/ab67616d0000b27390dcd66f81e55d841baaf3c7",
+            "id": 2281,
+            "artist": "Mohamed Ramadan"
+        }
+    ]
+}

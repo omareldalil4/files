@@ -1,0 +1,698 @@
+{
+    "artist": {
+        "id": "8854",
+        "name": "Ziad Bourji",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb8b2359ec4c44592f76796ddc",
+        "background_image": "https://i.scdn.co/image/ab676161000051748b2359ec4c44592f76796ddc"
+    },
+    "albums": [
+        {
+            "name": "Ghanni Aal Aali",
+            "release_date": "2021-06-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732af4f432c85cb53fba96b538",
+            "track_url": "https://open.spotify.com/album/0ColZ9HHGeXs0RVcBWIQra",
+            "tracks": [
+                {
+                    "name": "Ana Weyak",
+                    "track_url": "",
+                    "duration_ms": 238240,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732af4f432c85cb53fba96b538",
+                    "id": 8856,
+                    "artist": "Ziad Bourji"
+                },
+                {
+                    "name": "El Hob Dayaani",
+                    "track_url": "",
+                    "duration_ms": 221400,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732af4f432c85cb53fba96b538",
+                    "id": 8857,
+                    "artist": "Ziad Bourji"
+                },
+                {
+                    "name": "Mech Taye'",
+                    "track_url": "",
+                    "duration_ms": 207560,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732af4f432c85cb53fba96b538",
+                    "id": 8858,
+                    "artist": "Ziad Bourji"
+                },
+                {
+                    "name": "Shou Helou",
+                    "track_url": "",
+                    "duration_ms": 213360,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732af4f432c85cb53fba96b538",
+                    "id": 8859,
+                    "artist": "Ziad Bourji"
+                },
+                {
+                    "name": "Wen Baddak Trouh",
+                    "track_url": "",
+                    "duration_ms": 258838,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732af4f432c85cb53fba96b538",
+                    "id": 8860,
+                    "artist": "Ziad Bourji"
+                },
+                {
+                    "name": "Ya Ghali Alayi",
+                    "track_url": "",
+                    "duration_ms": 200120,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2732af4f432c85cb53fba96b538",
+                    "id": 8861,
+                    "artist": "Ziad Bourji"
+                }
+            ],
+            "id": 8855
+        },
+        {
+            "name": "Ana Bachkorak",
+            "release_date": "2015-02-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d645d3f43978b7c00c8ce1fb",
+            "track_url": "https://open.spotify.com/album/4e8L6Gah4FEZDcr6pfVudV",
+            "tracks": [
+                {
+                    "name": "Ana Bachkorak",
+                    "track_url": "",
+                    "duration_ms": 365760,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d645d3f43978b7c00c8ce1fb",
+                    "id": 8863,
+                    "artist": "Ziad Bourji"
+                },
+                {
+                    "name": "Mazloum Ana",
+                    "track_url": "",
+                    "duration_ms": 296426,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d645d3f43978b7c00c8ce1fb",
+                    "id": 8864,
+                    "artist": "Ziad Bourji"
+                },
+                {
+                    "name": "Fi Youm",
+                    "track_url": "",
+                    "duration_ms": 369933,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d645d3f43978b7c00c8ce1fb",
+                    "id": 8865,
+                    "artist": "Ziad Bourji"
+                },
+                {
+                    "name": "Ahebak",
+                    "track_url": "",
+                    "duration_ms": 268066,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d645d3f43978b7c00c8ce1fb",
+                    "id": 8866,
+                    "artist": "Ziad Bourji"
+                },
+                {
+                    "name": "Kalamak Assi",
+                    "track_url": "",
+                    "duration_ms": 297053,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d645d3f43978b7c00c8ce1fb",
+                    "id": 8867,
+                    "artist": "Ziad Bourji"
+                },
+                {
+                    "name": "El Ouyoun El Soud",
+                    "track_url": "",
+                    "duration_ms": 448826,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273d645d3f43978b7c00c8ce1fb",
+                    "id": 8868,
+                    "artist": "Ziad Bourji"
+                }
+            ],
+            "id": 8862
+        },
+        {
+            "name": "Ana Albi Alayk",
+            "release_date": "2006-01-26",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f46f5a35f630c5ad2e727823",
+            "track_url": "https://open.spotify.com/album/4wHpYIy4nAXpmnc02Iv6YC",
+            "tracks": [
+                {
+                    "name": "Ana Albi Alayk",
+                    "track_url": "",
+                    "duration_ms": 253857,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f46f5a35f630c5ad2e727823",
+                    "id": 8870,
+                    "artist": "Ziad Bourji"
+                },
+                {
+                    "name": "Ala Kefak",
+                    "track_url": "",
+                    "duration_ms": 256286,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f46f5a35f630c5ad2e727823",
+                    "id": 8871,
+                    "artist": "Ziad Bourji"
+                },
+                {
+                    "name": "Khalini Hadak",
+                    "track_url": "",
+                    "duration_ms": 236303,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f46f5a35f630c5ad2e727823",
+                    "id": 8872,
+                    "artist": "Ziad Bourji"
+                },
+                {
+                    "name": "Men Albi We Rouhe",
+                    "track_url": "",
+                    "duration_ms": 286902,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f46f5a35f630c5ad2e727823",
+                    "id": 8873,
+                    "artist": "Ziad Bourji"
+                },
+                {
+                    "name": "Mahroum El Noum",
+                    "track_url": "",
+                    "duration_ms": 68519,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f46f5a35f630c5ad2e727823",
+                    "id": 8874,
+                    "artist": "Ziad Bourji"
+                },
+                {
+                    "name": "Ghareb Enta",
+                    "track_url": "",
+                    "duration_ms": 238158,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f46f5a35f630c5ad2e727823",
+                    "id": 8875,
+                    "artist": "Ziad Bourji"
+                },
+                {
+                    "name": "Ya Msaherni",
+                    "track_url": "",
+                    "duration_ms": 233795,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f46f5a35f630c5ad2e727823",
+                    "id": 8876,
+                    "artist": "Ziad Bourji"
+                },
+                {
+                    "name": "Ya Hawa El'aeshaq",
+                    "track_url": "",
+                    "duration_ms": 274442,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273f46f5a35f630c5ad2e727823",
+                    "id": 8877,
+                    "artist": "Ziad Bourji"
+                }
+            ],
+            "id": 8869
+        },
+        {
+            "name": "Shaghel Bali",
+            "release_date": "2004-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2736122aef8fec69624c1e1c012",
+            "track_url": "https://open.spotify.com/album/7FFGMk78piU96KnjXgVHuS",
+            "tracks": [
+                {
+                    "name": "Khallik Maaya",
+                    "track_url": "",
+                    "duration_ms": 250226,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736122aef8fec69624c1e1c012",
+                    "id": 8879,
+                    "artist": "Ziad Bourji"
+                },
+                {
+                    "name": "Aghla Min Ouyouni",
+                    "track_url": "",
+                    "duration_ms": 286040,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736122aef8fec69624c1e1c012",
+                    "id": 8880,
+                    "artist": "Ziad Bourji"
+                },
+                {
+                    "name": "Ma Baloumak",
+                    "track_url": "",
+                    "duration_ms": 208039,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736122aef8fec69624c1e1c012",
+                    "id": 8881,
+                    "artist": "Ziad Bourji"
+                },
+                {
+                    "name": "Albi Injarah",
+                    "track_url": "",
+                    "duration_ms": 224548,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736122aef8fec69624c1e1c012",
+                    "id": 8882,
+                    "artist": "Ziad Bourji"
+                },
+                {
+                    "name": "Oudi",
+                    "track_url": "",
+                    "duration_ms": 235520,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736122aef8fec69624c1e1c012",
+                    "id": 8883,
+                    "artist": "Ziad Bourji"
+                },
+                {
+                    "name": "Shaghel Bali",
+                    "track_url": "",
+                    "duration_ms": 273632,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736122aef8fec69624c1e1c012",
+                    "id": 8884,
+                    "artist": "Ziad Bourji"
+                },
+                {
+                    "name": "Waynak",
+                    "track_url": "",
+                    "duration_ms": 246804,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736122aef8fec69624c1e1c012",
+                    "id": 8885,
+                    "artist": "Ziad Bourji"
+                },
+                {
+                    "name": "Wa Akhiran",
+                    "track_url": "",
+                    "duration_ms": 209136,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2736122aef8fec69624c1e1c012",
+                    "id": 8886,
+                    "artist": "Ziad Bourji"
+                }
+            ],
+            "id": 8878
+        }
+    ],
+    "singles": [
+        {
+            "name": "Lyawm Yawmi",
+            "release_date": "2024-06-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737bad89a5bb42f2412ee71319",
+            "track_url": "",
+            "id": 8887,
+            "artist": "Ziad Bourji"
+        },
+        {
+            "name": "Ana Men Dubai",
+            "release_date": "2024-03-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273eada7fe4d4087571c39d5c99",
+            "track_url": "",
+            "id": 8888,
+            "artist": "Ziad Bourji"
+        },
+        {
+            "name": "Haak Alayi",
+            "release_date": "2024-02-13",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737ea7057f71d6040b03fd100d",
+            "track_url": "",
+            "id": 8889,
+            "artist": "Ziad Bourji"
+        },
+        {
+            "name": "Fakrou Feena",
+            "release_date": "2023-10-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b9799464495e7e8a7ea6fa10",
+            "track_url": "",
+            "id": 8890,
+            "artist": "Ziad Bourji"
+        },
+        {
+            "name": "Ana Lamin",
+            "release_date": "2023-06-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b273681ee2dc44ffdb7829cfae03",
+            "track_url": "",
+            "id": 8891,
+            "artist": "Ziad Bourji"
+        },
+        {
+            "name": "Ya Gharam",
+            "release_date": "2023-02-02",
+            "image": "https://i.scdn.co/image/ab67616d0000b273287412c86a2cac3ea2ea7e0f",
+            "track_url": "",
+            "id": 8892,
+            "artist": "Ziad Bourji"
+        },
+        {
+            "name": "Shtaatella",
+            "release_date": "2022-12-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b273165d812234d22a15bad9b622",
+            "track_url": "",
+            "id": 8893,
+            "artist": "Ziad Bourji"
+        },
+        {
+            "name": "W Btir",
+            "release_date": "2022-09-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731a07cf1964cb8a1fcdf5a4c7",
+            "track_url": "",
+            "id": 8894,
+            "artist": "Ziad Bourji"
+        },
+        {
+            "name": "اجت الصيفية",
+            "release_date": "2022-06-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b090dfd10aef41a3c1aa26de",
+            "track_url": "",
+            "id": 8895,
+            "artist": "Ziad Bourji"
+        },
+        {
+            "name": "Haydi Habibit Albi",
+            "release_date": "2022-02-03",
+            "image": "https://i.scdn.co/image/ab67616d0000b27357d4256a05b2846ed6848a20",
+            "track_url": "",
+            "id": 8896,
+            "artist": "Ziad Bourji"
+        },
+        {
+            "name": "Smalla Alayki",
+            "release_date": "2021-04-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734754435400dd6d4e2f32f190",
+            "track_url": "",
+            "id": 8897,
+            "artist": "Ziad Bourji"
+        },
+        {
+            "name": "Metel El Laabi",
+            "release_date": "2021-04-07",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a2b4d3d89bd216a170b46cd5",
+            "track_url": "",
+            "id": 8898,
+            "artist": "Ziad Bourji"
+        },
+        {
+            "name": "Byekhtelif El Hadis",
+            "release_date": "2021-04-03",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731a9bb4392fc2c538f3d407d5",
+            "track_url": "",
+            "id": 8899,
+            "artist": "Ziad Bourji"
+        },
+        {
+            "name": "El Hob Dayaani",
+            "release_date": "2020-11-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732697f6ed629506870c13586a",
+            "track_url": "",
+            "id": 8900,
+            "artist": "Ziad Bourji"
+        },
+        {
+            "name": "Ana Weyak",
+            "release_date": "2020-01-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b273773ecb28514d01436675790e",
+            "track_url": "",
+            "id": 8901,
+            "artist": "Ziad Bourji"
+        },
+        {
+            "name": "La Ouyounik El Helwin",
+            "release_date": "2019-08-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738aa9f13c3a0b205de2660782",
+            "track_url": "",
+            "id": 8902,
+            "artist": "Ziad Bourji"
+        },
+        {
+            "name": "خسرنا بعض",
+            "release_date": "2019-06-03",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ed434437fc0b163879613d56",
+            "track_url": "",
+            "id": 8903,
+            "artist": "Ziad Bourji"
+        },
+        {
+            "name": "S'al Dmouii",
+            "release_date": "2019-01-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739641e70d11cd1d580ce0715c",
+            "track_url": "",
+            "id": 8904,
+            "artist": "Ziad Bourji"
+        },
+        {
+            "name": "A'ed Aala Albak",
+            "release_date": "2018-12-17",
+            "image": "https://i.scdn.co/image/ab67616d0000b27333d52588156b44d2ac394616",
+            "track_url": "",
+            "id": 8905,
+            "artist": "Ziad Bourji"
+        },
+        {
+            "name": "Wein Baddak Trouh",
+            "release_date": "2018-11-03",
+            "image": "https://i.scdn.co/image/ab67616d0000b273888efbc2f1d968fd09edf8fd",
+            "track_url": "",
+            "id": 8906,
+            "artist": "Ziad Bourji"
+        },
+        {
+            "name": "Mesh Taye'",
+            "release_date": "2018-08-22",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d1197cd7c7dec81addecbf18",
+            "track_url": "",
+            "id": 8907,
+            "artist": "Ziad Bourji"
+        },
+        {
+            "name": "Khalik Maaya",
+            "release_date": "2017-11-29",
+            "image": "https://i.scdn.co/image/ab67616d0000b273605bc0aed6635e01ae82b8bc",
+            "track_url": "",
+            "id": 8908,
+            "artist": "Ziad Bourji"
+        },
+        {
+            "name": "Shou Helou",
+            "release_date": "2017-09-06",
+            "image": "https://i.scdn.co/image/ab67616d0000b273096865184da6eca726a2b98d",
+            "track_url": "",
+            "id": 8909,
+            "artist": "Ziad Bourji"
+        },
+        {
+            "name": "صوت الحنين (مسلسل شوق)",
+            "release_date": "2017-02-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b273308700d912e288f00d134cb0",
+            "track_url": "",
+            "id": 8910,
+            "artist": "Ziad Bourji"
+        },
+        {
+            "name": "Bi Ghamdet Ein",
+            "release_date": "2017-01-13",
+            "image": "https://i.scdn.co/image/ab67616d0000b273bb7788ef6f6f37deaeb69a5a",
+            "track_url": "",
+            "id": 8911,
+            "artist": "Ziad Bourji"
+        },
+        {
+            "name": "Habibi Wayno",
+            "release_date": "2016-10-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f4348cfc6369b51dbcda4300",
+            "track_url": "",
+            "id": 8912,
+            "artist": "Ziad Bourji"
+        },
+        {
+            "name": "Al Eh",
+            "release_date": "2016-09-12",
+            "image": "https://i.scdn.co/image/ab67616d0000b27378bce61b7f16486289ee1333",
+            "track_url": "",
+            "id": 8913,
+            "artist": "Ziad Bourji"
+        },
+        {
+            "name": "Helyani",
+            "release_date": "2016-05-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e75efe265923032428e0195e",
+            "track_url": "",
+            "id": 8914,
+            "artist": "Ziad Bourji"
+        },
+        {
+            "name": "Baad El Foraa",
+            "release_date": "2016-05-12",
+            "image": "https://i.scdn.co/image/ab67616d0000b273126c8470bd2e84db151ab168",
+            "track_url": "",
+            "id": 8915,
+            "artist": "Ziad Bourji"
+        },
+        {
+            "name": "Helwi W Kezzabi",
+            "release_date": "2016-05-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b2731bcddecff5a30f6b7e3409b7",
+            "track_url": "",
+            "id": 8916,
+            "artist": "Ziad Bourji"
+        },
+        {
+            "name": "Mosh Nawi Aala Khir",
+            "release_date": "2015-09-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b2733cb96266b62a799cce88b095",
+            "track_url": "",
+            "id": 8917,
+            "artist": "Ziad Bourji"
+        },
+        {
+            "name": "Khayen",
+            "release_date": "2014-11-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c533921535e64b799bae4b81",
+            "track_url": "",
+            "id": 8918,
+            "artist": "Ziad Bourji"
+        },
+        {
+            "name": "Ya Hanan",
+            "release_date": "2014-11-20",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737643e8fe96a6f7ad8e057ef2",
+            "track_url": "",
+            "id": 8919,
+            "artist": "Ziad Bourji"
+        },
+        {
+            "name": "Habib El Aleb",
+            "release_date": "2014-09-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735f0e53c3c4e7ee318a930413",
+            "track_url": "",
+            "id": 8920,
+            "artist": "Ziad Bourji"
+        },
+        {
+            "name": "Blahza",
+            "release_date": "2014-06-12",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734c21761b6112c7da2c2737c2",
+            "track_url": "",
+            "id": 8921,
+            "artist": "Ziad Bourji"
+        },
+        {
+            "name": "Ma Baa T'ele Eashaa",
+            "release_date": "2014-01-14",
+            "image": "https://i.scdn.co/image/ab67616d0000b273b67623a4199f48061425e814",
+            "track_url": "",
+            "id": 8922,
+            "artist": "Ziad Bourji"
+        },
+        {
+            "name": "Tlaii La Barra",
+            "release_date": "2013-05-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734e632211d3c5c87eb13168e0",
+            "track_url": "",
+            "id": 8923,
+            "artist": "Ziad Bourji"
+        },
+        {
+            "name": "Ya Habibi Chou Bhebak",
+            "release_date": "2012-05-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b27301bae9988309c7b148fb9882",
+            "track_url": "",
+            "id": 8924,
+            "artist": "Ziad Bourji"
+        },
+        {
+            "name": "Ghaltet Omri",
+            "release_date": "2011-10-11",
+            "image": "https://i.scdn.co/image/ab67616d0000b27366a92c48a6a703a75f970665",
+            "track_url": "",
+            "id": 8925,
+            "artist": "Ziad Bourji"
+        },
+        {
+            "name": "Ma Byestehou",
+            "release_date": "2010-04-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b273bc62a4daa3013b913741fee5",
+            "track_url": "",
+            "id": 8926,
+            "artist": "Ziad Bourji"
+        },
+        {
+            "name": "Wallah",
+            "release_date": "2007-04-03",
+            "image": "https://i.scdn.co/image/ab67616d0000b27331128ab58717089992ba0359",
+            "track_url": "",
+            "id": 8927,
+            "artist": "Ziad Bourji"
+        },
+        {
+            "name": "Haydi Emi",
+            "release_date": "2006-09-23",
+            "image": "https://i.scdn.co/image/ab67616d0000b273baaf9c9374ba2c836fa71ba5",
+            "track_url": "",
+            "id": 8928,
+            "artist": "Ziad Bourji"
+        },
+        {
+            "name": "وراك وراك",
+            "release_date": "1990-04-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732fcfc82ef039d9f2ea88eae0",
+            "track_url": "",
+            "id": 8929,
+            "artist": "Ziad Bourji"
+        }
+    ],
+    "popular_tracks": [
+        {
+            "name": "Shou Helou",
+            "track_url": "",
+            "duration_ms": 211046,
+            "image": "https://i.scdn.co/image/ab67616d0000b273096865184da6eca726a2b98d",
+            "id": 8930,
+            "artist": "Ziad Bourji"
+        },
+        {
+            "name": "Helyani",
+            "track_url": "",
+            "duration_ms": 179774,
+            "image": "https://i.scdn.co/image/ab67616d0000b273e75efe265923032428e0195e",
+            "id": 8931,
+            "artist": "Ziad Bourji"
+        },
+        {
+            "name": "W Btir",
+            "track_url": "",
+            "duration_ms": 250094,
+            "image": "https://i.scdn.co/image/ab67616d0000b2731a07cf1964cb8a1fcdf5a4c7",
+            "id": 8932,
+            "artist": "Ziad Bourji"
+        },
+        {
+            "name": "Ana Weyak",
+            "track_url": "",
+            "duration_ms": 202786,
+            "image": "https://i.scdn.co/image/ab67616d0000b273773ecb28514d01436675790e",
+            "id": 8933,
+            "artist": "Ziad Bourji"
+        },
+        {
+            "name": "Haydi Habibit Albi",
+            "track_url": "",
+            "duration_ms": 222732,
+            "image": "https://i.scdn.co/image/ab67616d0000b27357d4256a05b2846ed6848a20",
+            "id": 8934,
+            "artist": "Ziad Bourji"
+        },
+        {
+            "name": "خسرنا بعض",
+            "track_url": "",
+            "duration_ms": 187561,
+            "image": "https://i.scdn.co/image/ab67616d0000b273ed434437fc0b163879613d56",
+            "id": 8935,
+            "artist": "Ziad Bourji"
+        },
+        {
+            "name": "Habibi Wayno",
+            "track_url": "",
+            "duration_ms": 286149,
+            "image": "https://i.scdn.co/image/ab67616d0000b273f4348cfc6369b51dbcda4300",
+            "id": 8936,
+            "artist": "Ziad Bourji"
+        },
+        {
+            "name": "Shou Helou",
+            "track_url": "",
+            "duration_ms": 213360,
+            "image": "https://i.scdn.co/image/ab67616d0000b2732af4f432c85cb53fba96b538",
+            "id": 8937,
+            "artist": "Ziad Bourji"
+        },
+        {
+            "name": "Byekhtelif El Hadis",
+            "track_url": "",
+            "duration_ms": 193161,
+            "image": "https://i.scdn.co/image/ab67616d0000b2731a9bb4392fc2c538f3d407d5",
+            "id": 8938,
+            "artist": "Ziad Bourji"
+        },
+        {
+            "name": "Mesh Taye'",
+            "track_url": "",
+            "duration_ms": 174816,
+            "image": "https://i.scdn.co/image/ab67616d0000b273d1197cd7c7dec81addecbf18",
+            "id": 8939,
+            "artist": "Ziad Bourji"
+        }
+    ]
+}

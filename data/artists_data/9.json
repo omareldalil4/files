@@ -1,0 +1,1367 @@
+{
+    "artist": {
+        "id": "1932",
+        "name": "Mohamed Hamaki",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb400700c316395513ac8231a4",
+        "background_image": "https://i.scdn.co/image/ab67616100005174400700c316395513ac8231a4"
+    },
+    "albums": [
+        {
+            "name": "Howa El Asas",
+            "release_date": "2021-07-10",
+            "image": "https://i1.sndcdn.com/artworks-aUz47OdfyhE8kzBj-lxAJww-t500x500.jpg",
+            "track_url": "https://open.spotify.com/album/1BmwF8bp2Ci3ESamotA2FI",
+            "tracks": [
+                {
+                    "name": "Wakla ElGaw",
+                    "track_url": "https://www.dropbox.com/scl/fi/u81jmk6rpcsfv493ry1e2/01-Wakla.ElGaw-MaTb3aa.Com.mp3?rlkey=24acrc0rnxduwbfxxia3aysqo&st=jpiby1kn&dl=1",
+                    "duration_ms": 589780,
+                    "image": "https://i1.sndcdn.com/artworks-aUz47OdfyhE8kzBj-lxAJww-t500x500.jpg",
+                    "id": 12402,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "Bena2es",
+                    "track_url": "https://www.dropbox.com/scl/fi/7ppzgbdkhzs2gu22c5mvl/02-Bena2es-MaTb3aa.Com.mp3?rlkey=miautk40sj7eb299aczehnfjy&st=gc9g0wld&dl=1",
+                    "duration_ms": 589780,
+                    "image": "https://i1.sndcdn.com/artworks-aUz47OdfyhE8kzBj-lxAJww-t500x500.jpg",
+                    "id": 12403,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "Sadma",
+                    "track_url": "https://www.dropbox.com/scl/fi/fv6wluz5iqn7jsz4pd2d8/03-Sadma-MaTb3aa.Com.mp3?rlkey=4mjkmik7u22y44fw90de07mq1&st=zgwj4mss&dl=1",
+                    "duration_ms": 589780,
+                    "image": "https://i1.sndcdn.com/artworks-aUz47OdfyhE8kzBj-lxAJww-t500x500.jpg",
+                    "id": 12404,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "Shagel 3eyoun ElNas",
+                    "track_url": "https://www.dropbox.com/scl/fi/54je6rd3mx687mrq3sbd1/04-Shagel.3eyoun.ElNas-MaTb3aa.Com.mp3?rlkey=e0qfe6qwf1qd61nbeahuki69b&st=c5j9qtwq&dl=1",
+                    "duration_ms": 589780,
+                    "image": "https://i1.sndcdn.com/artworks-aUz47OdfyhE8kzBj-lxAJww-t500x500.jpg",
+                    "id": 12405,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "Tekhsarny",
+                    "track_url": "https://www.dropbox.com/scl/fi/j7ogb269q9ugryu82p3ib/05-Tekhsarny-MaTb3aa.Com.mp3?rlkey=p45tevil9msb4mrcxrqh5upml&st=0x5vjc4w&dl=1",
+                    "duration_ms": 589780,
+                    "image": "https://i1.sndcdn.com/artworks-aUz47OdfyhE8kzBj-lxAJww-t500x500.jpg",
+                    "id": 12406,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "Leily Taal",
+                    "track_url": "https://www.dropbox.com/scl/fi/l2j3ryxwkk7gqfpx5wqzp/06-Leily.Taal-MaTb3aa.Com.mp3?rlkey=3bt0tmssdskyl45obo3g14pjt&st=l90kfmmv&dl=1",
+                    "duration_ms": 589780,
+                    "image": "https://i1.sndcdn.com/artworks-aUz47OdfyhE8kzBj-lxAJww-t500x500.jpg",
+                    "id": 12407,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "El 3o2d El Loli",
+                    "track_url": "https://www.dropbox.com/scl/fi/0e4h2ggsdv43ew0xi724z/07-El3o2d.ElLoli-MaTb3aa.Com.mp3?rlkey=ceaaly5at4t91dtey8syell79&st=i4zj9tuy&dl=1",
+                    "duration_ms": 589780,
+                    "image": "https://i1.sndcdn.com/artworks-aUz47OdfyhE8kzBj-lxAJww-t500x500.jpg",
+                    "id": 12408,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "Gedida Lang",
+                    "track_url": "https://www.dropbox.com/scl/fi/4vm4w974hk1t0gmtkvi3s/08-Gedida.Lang-MaTb3aa.Com.mp3?rlkey=8jdslx1yz14nxmt4ugnv8t45m&st=ffbfvynp&dl=1",
+                    "duration_ms": 589780,
+                    "image": "https://i1.sndcdn.com/artworks-aUz47OdfyhE8kzBj-lxAJww-t500x500.jpg",
+                    "id": 12409,
+                    "artist": "Mohamed Hamaki"
+                }
+            ],
+            "id": 12401
+        },
+        {
+            "name": "Ya Fatenny",
+            "release_date": "2021-11-03",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c3e84996ef5959862603a6be",
+            "track_url": "https://open.spotify.com/album/4c7UeqkDVT5AZI3hN7oitj",
+            "tracks": [
+                {
+                    "name": "Ya Fatenny",
+                    "track_url": "https://www.dropbox.com/scl/fi/wcnri63sejplnxgo65dvp/Albumaty.Com_mhmd_hmaky_ya_fatny.mp3?rlkey=7mbhh6fp5cpnjzblrrvtss2dz&st=oilblhsa&dl=1",
+                    "duration_ms": 224000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c3e84996ef5959862603a6be",
+                    "id": 1938,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "Mataawednash",
+                    "track_url": "https://www.dropbox.com/scl/fi/lt15g9ljro1ie9jn30iqf/Albumaty.Com_mhmd_hmaky_mtawdnash.mp3?rlkey=rem6md6k580kacutoze9amco2&st=qkha41cw&dl=1",
+                    "duration_ms": 247714,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c3e84996ef5959862603a6be",
+                    "id": 1939,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "Benfarea",
+                    "track_url": "https://www.dropbox.com/scl/fi/1bpfmgdmd5fs461vko0u9/Albumaty.Com_mhmd_hmaky_bnfark.mp3?rlkey=a4acx9l744e141qeb7c7y1lbl&st=khfwyigb&dl=1",
+                    "duration_ms": 243733,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c3e84996ef5959862603a6be",
+                    "id": 1940,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "Law Hatsib",
+                    "track_url": "https://www.dropbox.com/scl/fi/sb3nmynmiohteri6awk6t/Albumaty.Com_mhmd_hmaky_lw_htsyb.mp3?rlkey=9mt8ejz0oskohqf9ys08gyl4t&st=sf0xc0c0&dl=1",
+                    "duration_ms": 228000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c3e84996ef5959862603a6be",
+                    "id": 1941,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "Mesh Aader Ansa",
+                    "track_url": "https://www.dropbox.com/scl/fi/p1iv95tegeyxrrbmsud68/Albumaty.Com_mhmd_hmaky_msh_kadr_ansy.mp3?rlkey=10ekxrru5athz9oem1nttzdyc&st=yst3jysg&dl=1",
+                    "duration_ms": 192213,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c3e84996ef5959862603a6be",
+                    "id": 1942,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "Ya Naseem",
+                    "track_url": "https://www.dropbox.com/scl/fi/27cndefc2fzhz9o4m9d5z/Albumaty.Com_mhmd_hmaky_ya_nsym.mp3?rlkey=zyf52hk0m418ibw2f9mncah0d&st=ehtkmk8k&dl=1",
+                    "duration_ms": 218146,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c3e84996ef5959862603a6be",
+                    "id": 1943,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "Ard Mostamer",
+                    "track_url": "https://www.dropbox.com/scl/fi/p3cyrjyubz24nlw510vpg/Albumaty.Com_mhmd_hmaky_ard_mstmr.mp3?rlkey=a3mliz30evx9gkewatvfypsrn&st=jgwf7cbi&dl=1",
+                    "duration_ms": 240000,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c3e84996ef5959862603a6be",
+                    "id": 1944,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "Zayaha Meen",
+                    "track_url": "https://www.dropbox.com/scl/fi/42x69iru4bcnbp6vxfbzk/Albumaty.Com_mhmd_hmaky_zyha_myn.mp3?rlkey=fjt1kweuc6nggumkpvsvrkg0o&st=krltn8fv&dl=1",
+                    "duration_ms": 204200,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c3e84996ef5959862603a6be",
+                    "id": 1945,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "Tak",
+                    "track_url": "https://www.dropbox.com/scl/fi/tb3gdhfbs2gzncvxyzweb/Albumaty.Com_mhmd_hmaky_tk.mp3?rlkey=az0a5z7oqg7q8flml5tf300qi&st=7qgxev89&dl=1",
+                    "duration_ms": 176620,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c3e84996ef5959862603a6be",
+                    "id": 1946,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "Ayzak Tesmaany",
+                    "track_url": "https://www.dropbox.com/scl/fi/hgpxismdd4qb7s4upzdn5/Albumaty.Com_mhmd_hmaky_aayzk_tsmany.mp3?rlkey=fnnbtmlurtpy2pyy9dapx6ghv&st=ixpk08wb&dl=1",
+                    "duration_ms": 176120,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c3e84996ef5959862603a6be",
+                    "id": 1947,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "Rodoudoh Ghariba",
+                    "track_url": "https://www.dropbox.com/scl/fi/knibh4brzefkqftznlyfb/Albumaty.Com_mhmd_hmaky_rdwdh_ghrybt.mp3?rlkey=nrlm9kob50q1dclmzr4bgvlzg&st=cxkeiejd&dl=1",
+                    "duration_ms": 184117,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c3e84996ef5959862603a6be",
+                    "id": 1948,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "Talea Mooda",
+                    "track_url": "https://www.dropbox.com/scl/fi/y8ooaqgay9c8e0wyfiagu/Albumaty.Com_mhmd_hmaky_tala_mwdt.mp3?rlkey=kvbdnicbc78pxxnqz3i32kibx&st=o4js0u19&dl=1",
+                    "duration_ms": 200767,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c3e84996ef5959862603a6be",
+                    "id": 1949,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "Zalamouny",
+                    "track_url": "https://www.dropbox.com/scl/fi/bkmn8ygeykbqo7l2c0fqo/Albumaty.Com_mhmd_hmaky_zlmwny.mp3?rlkey=emlmsiz6nsf3p2izjnhyeb3eu&st=zp3chbjq&dl=1",
+                    "duration_ms": 207100,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c3e84996ef5959862603a6be",
+                    "id": 1950,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "Wala Leila Men Layalik",
+                    "track_url": "https://www.dropbox.com/scl/fi/6yak8lv4whfx4zmg8jtsr/Albumaty.Com_mhmd_hmaky_lylt_mn_lyalyk.mp3?rlkey=a5zvmj19g2b0ega2cx7pll8iu&st=8xo51btr&dl=1",
+                    "duration_ms": 245920,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c3e84996ef5959862603a6be",
+                    "id": 1951,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "Nadana (Bonus Track)",
+                    "track_url": "https://www.dropbox.com/scl/fi/ds611lqsx7kq8hg9wmb6j/.mp3?rlkey=gjz5bjq2v1mqt5cbzy16d2a9i&st=dq7hbahq&dl=1",
+                    "duration_ms": 202493,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c3e84996ef5959862603a6be",
+                    "id": 1952,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "La Malama (Bonus Track)",
+                    "track_url": "https://www.dropbox.com/scl/fi/qfwcrk0wcc44syl02t0d1/.mp3?rlkey=smtpjrwtohonknd6ruyyf8mlo&st=ykzby76d&dl=1",
+                    "duration_ms": 228853,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c3e84996ef5959862603a6be",
+                    "id": 1953,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "Wadina Baeid (Bonus Track)",
+                    "track_url": "https://www.dropbox.com/scl/fi/rbacrfjmf3uy4ztoth45v/.mp3?rlkey=9ru2ur5f1gzwy95yusq1kph04&st=et3wclpz&dl=1",
+                    "duration_ms": 249448,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273c3e84996ef5959862603a6be",
+                    "id": 1954,
+                    "artist": "Mohamed Hamaki"
+                }
+            ],
+            "id": 1937
+        },
+        {
+            "name": "Kol Yom Men Dah",
+            "release_date": "2019-01-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e33e51cc66ef3d4f45f4e6c8",
+            "track_url": "https://open.spotify.com/album/5jLCYOiVF1KkRjDJl10r4f",
+            "tracks": [
+                {
+                    "name": "Yzalzel",
+                    "track_url": "https://www.dropbox.com/scl/fi/u42en5uj1yl9qk44q0ii5/01._Yzalzel.mp3?rlkey=j8v08bkvjguhiwzvyehm9tscc&st=729325tw&dl=1",
+                    "duration_ms": 195893,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e33e51cc66ef3d4f45f4e6c8",
+                    "id": 1956,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "Kol Yom Men Dah",
+                    "track_url": "https://www.dropbox.com/scl/fi/86leqnyd8byzur1ibgvvk/02._Kol_Yom_Men_Dah.mp3?rlkey=rm23ysuu4541umy7xm5zpcal8&st=5b48fp0j&dl=1",
+                    "duration_ms": 214866,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e33e51cc66ef3d4f45f4e6c8",
+                    "id": 1957,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "Layla",
+                    "track_url": "https://www.dropbox.com/scl/fi/glsncpr8ht9cb31s67o9q/03._Layla.mp3?rlkey=kcsyc76rhq1b292t2b2qd0d1q&st=8h1delzk&dl=1",
+                    "duration_ms": 202986,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e33e51cc66ef3d4f45f4e6c8",
+                    "id": 1958,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "Oyoni Sahrana",
+                    "track_url": "https://www.dropbox.com/scl/fi/5fic1dn410ph45lui1rpo/04._Oyoni_Sahrana.mp3?rlkey=8547y50zihsi91pm8q0n4zxi5&st=9yv969hc&dl=1",
+                    "duration_ms": 208186,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e33e51cc66ef3d4f45f4e6c8",
+                    "id": 1959,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "Sowar",
+                    "track_url": "https://www.dropbox.com/scl/fi/p8vc0pcnkou5vr0ecqka1/05._Sowar.mp3?rlkey=335tw8zdj0ebdcpsytmkg6muo&st=198d98d7&dl=1",
+                    "duration_ms": 245106,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e33e51cc66ef3d4f45f4e6c8",
+                    "id": 1960,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "Wamel Eih",
+                    "track_url": "https://www.dropbox.com/scl/fi/xx8dbfn40thla0cr3wlw1/06._Wamel_Eih.mp3?rlkey=rsydyz4q12lty6r5i3mi49zws&st=vakdlg0r&dl=1",
+                    "duration_ms": 195533,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e33e51cc66ef3d4f45f4e6c8",
+                    "id": 1961,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "Baeit Maah",
+                    "track_url": "https://www.dropbox.com/scl/fi/8civ07wwm1187ub41oz3j/07._Baeit_Maah.mp3?rlkey=1alk4qfczw5a2ckilxyvrw4t3&st=9gw8yde2&dl=1",
+                    "duration_ms": 267586,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e33e51cc66ef3d4f45f4e6c8",
+                    "id": 1962,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "Ya Ghorba",
+                    "track_url": "https://www.dropbox.com/scl/fi/e5qpyysqeu8p76y9ck1jk/08._Ya_Ghorba.mp3?rlkey=c5i5fxqnhnxjc8fwnz5yvucac&st=1yv2ycys&dl=1",
+                    "duration_ms": 227440,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e33e51cc66ef3d4f45f4e6c8",
+                    "id": 1963,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "Mel Bedaya",
+                    "track_url": "https://www.dropbox.com/scl/fi/tjyxdwr7qf6rf3funmaky/09._Mel_Bedaya.mp3?rlkey=szfjtl5vg4ikkl1in7u8uuqpb&st=34b72ntw&dl=1",
+                    "duration_ms": 278546,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e33e51cc66ef3d4f45f4e6c8",
+                    "id": 1964,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "Ya Sattar",
+                    "track_url": "https://www.dropbox.com/scl/fi/g9nrhdyce3lku0kxzvrs0/10._Ya_Sattar.mp3?rlkey=voxu5zfpoujxu2xeky0css7hn&st=ndsb8of1&dl=1",
+                    "duration_ms": 224520,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e33e51cc66ef3d4f45f4e6c8",
+                    "id": 1965,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "Oddam El Nas",
+                    "track_url": "https://www.dropbox.com/scl/fi/dk8u228wtmgv3wog49i81/11._Oddam_El_Nas.mp3?rlkey=qbytndigfbuag7gkupeip1bf7&st=c8v4izit&dl=1",
+                    "duration_ms": 227586,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e33e51cc66ef3d4f45f4e6c8",
+                    "id": 1966,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "Kefaya Holoul Wasat",
+                    "track_url": "https://www.dropbox.com/scl/fi/yr5qqayfea1ljypsgfqji/12._Kefaya_Holoul_Wasat.mp3?rlkey=rbkdr27agwfc4gyqtn6k09jsu&st=wu7qefbg&dl=1",
+                    "duration_ms": 239880,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e33e51cc66ef3d4f45f4e6c8",
+                    "id": 1967,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "Radeeny",
+                    "track_url": "https://www.dropbox.com/scl/fi/n0lvc4h2m8w7xlh251rpu/13._Radeeny.mp3?rlkey=2fzr87knnkyhb8xeevk81oik4&st=05ghtf3a&dl=1",
+                    "duration_ms": 273880,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e33e51cc66ef3d4f45f4e6c8",
+                    "id": 1968,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "Rasmek Fe Khayali",
+                    "track_url": "https://www.dropbox.com/scl/fi/nxyrgawum06qs6lldhg5n/14._Rasmek_Fe_Khayali.mp3?rlkey=pwdmcmn98ulclb7fz5o714to3&st=j2n86u91&dl=1",
+                    "duration_ms": 222573,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e33e51cc66ef3d4f45f4e6c8",
+                    "id": 1969,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "La Etab Wala Heira",
+                    "track_url": "https://www.dropbox.com/scl/fi/cfappe22vszvt851e81z7/15._La_Etab_Wala_Heira.mp3?rlkey=zli8nugx7h5n8a4v087i1k9hk&st=l60xlvbc&dl=1",
+                    "duration_ms": 192520,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e33e51cc66ef3d4f45f4e6c8",
+                    "id": 1970,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "El Hekaya Hekayetna",
+                    "track_url": "https://www.dropbox.com/scl/fi/vxd0pdnqr123cjcl2agmo/16._El_Hekaya_Hekayetna.mp3?rlkey=fgq67xil1e8dgv33npxak7ola&st=vnjfik09&dl=1",
+                    "duration_ms": 289373,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e33e51cc66ef3d4f45f4e6c8",
+                    "id": 1971,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "Aash Min Shafak",
+                    "track_url": "https://www.dropbox.com/scl/fi/zsea0ftnh4e4fgfnqhlu7/17._Aash_Min_Shafak.mp3?rlkey=6if1qxfb3akzeohhsbdu2dkb2&st=c0lb648w&dl=1",
+                    "duration_ms": 194680,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e33e51cc66ef3d4f45f4e6c8",
+                    "id": 1972,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "Khallina Zay Mahna",
+                    "track_url": "https://www.dropbox.com/scl/fi/st7mqfo4hmq4w80zf4yie/18._Khallina_Zay_Mahna.mp3?rlkey=dboamqjd5585ml3065zh2mzpx&st=1yesh3x4&dl=1",
+                    "duration_ms": 286320,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e33e51cc66ef3d4f45f4e6c8",
+                    "id": 1973,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "Aalo Annek",
+                    "track_url": "https://www.dropbox.com/scl/fi/twooea8d77pq01c55p792/19._Aalo_Annek.mp3?rlkey=j4kufu8wbgn5vk0ytflq6a4od&st=5mtvaxv6&dl=1",
+                    "duration_ms": 250120,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e33e51cc66ef3d4f45f4e6c8",
+                    "id": 1974,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "Khodni Eleik",
+                    "track_url": "https://www.dropbox.com/scl/fi/bw9grrbs1a269f6byzbnp/20._Khodni_Eleik.mp3?rlkey=jznup41l0gsbjo9ypxhgvr9us&st=m4i19smn&dl=1",
+                    "duration_ms": 212293,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e33e51cc66ef3d4f45f4e6c8",
+                    "id": 1975,
+                    "artist": "Mohamed Hamaki"
+                }
+            ],
+            "id": 1955
+        },
+        {
+            "name": "Omroh Ma Yeghib",
+            "release_date": "2015-08-12",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e046b64c2498064f2f60d423",
+            "track_url": "https://open.spotify.com/album/3U6oFvwXd6i8LFbbhqmKQq",
+            "tracks": [
+                {
+                    "name": "Agmal Youm",
+                    "track_url": "https://www.dropbox.com/scl/fi/mn2031eia7mgg705tgc7t/Hamaki_-_Agmal_Youm.mp3?rlkey=7mi93bqkq9vyiwfo5eg1cq4x2&st=57btjerl&dl=1",
+                    "duration_ms": 211591,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e046b64c2498064f2f60d423",
+                    "id": 1977,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "Mabalash",
+                    "track_url": "https://www.dropbox.com/scl/fi/rergta476cygaarz5qpyz/Hamaki_-_Ma_Balash.mp3?rlkey=hdxqr10nld50iqe05dc107chr&st=htypqz6f&dl=1",
+                    "duration_ms": 248241,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e046b64c2498064f2f60d423",
+                    "id": 1978,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "Mayni",
+                    "track_url": "https://www.dropbox.com/scl/fi/i9srq2w9o4n3htevs9vvr/Hamaki_-_Mayni.mp3?rlkey=mqfu7f05oc25k67dsts46rkmv&st=9plw17fv&dl=1",
+                    "duration_ms": 239751,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e046b64c2498064f2f60d423",
+                    "id": 1979,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "Kanet Henak",
+                    "track_url": "https://www.dropbox.com/scl/fi/58jzz0t0xhdohl9zketht/Hamaki_-_Kanet_Henak.mp3?rlkey=ss7iva5lx111ry9b8y0m77mau&st=rbimjp00&dl=1",
+                    "duration_ms": 297377,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e046b64c2498064f2f60d423",
+                    "id": 1980,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "Neseet",
+                    "track_url": "https://www.dropbox.com/scl/fi/4fg7az2gufg4q0thwjnnq/Hamaki_-_Nesit.mp3?rlkey=pyza4on7tywkxs4jr18fcijaj&st=uqdngshw&dl=1",
+                    "duration_ms": 233508,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e046b64c2498064f2f60d423",
+                    "id": 1981,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "Saber Ala Hali",
+                    "track_url": "https://www.dropbox.com/scl/fi/tf05y3v0h60otngd1u726/Hamaki_-_Saber_Ala_Hali.mp3?rlkey=edh89lp5nf76c9do6sah2sw5t&st=lk12ea9f&dl=1",
+                    "duration_ms": 244976,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e046b64c2498064f2f60d423",
+                    "id": 1982,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "Nesmet Shoa'",
+                    "track_url": "https://www.dropbox.com/scl/fi/s5zxapxffoz0la37u9rsl/Hamaki_-_Nesmet_Shouq.mp3?rlkey=yb5awfj8bpfszafg7i0oigbmx&st=niv29rsf&dl=1",
+                    "duration_ms": 243644,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e046b64c2498064f2f60d423",
+                    "id": 1983,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "Yalli Zaa'lan",
+                    "track_url": "https://www.dropbox.com/scl/fi/ngyzxuaxuofqnmu9gcqq2/Hamaki_-_Yally_Zaalan.mp3?rlkey=ndjmnitmdx8dudoxc0hr5pvtl&st=fdvr6s04&dl=1",
+                    "duration_ms": 292440,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e046b64c2498064f2f60d423",
+                    "id": 1984,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "Ana Serraha",
+                    "track_url": "https://www.dropbox.com/scl/fi/2uoockmphwzv3wu0dsolf/Hamaki_-_Ana_Serraha.mp3?rlkey=de2nd13p2ur1i23jxd2o46xhw&st=buyorcxu&dl=1",
+                    "duration_ms": 151275,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e046b64c2498064f2f60d423",
+                    "id": 1985,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "El Ghali Naseeni",
+                    "track_url": "https://www.dropbox.com/scl/fi/ce5r1hmaktkz1l9wblne7/Hamaki_-_El_Ghaly_Nasiny.mp3?rlkey=m0tb6lvgg7n4n9ti8am6aszpz&st=km9x54pv&dl=1",
+                    "duration_ms": 203128,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e046b64c2498064f2f60d423",
+                    "id": 1986,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "Kan W Kan",
+                    "track_url": "https://www.dropbox.com/scl/fi/88yiz7d0pmhjpjq93ogu4/Hamaki_-_Kan_We_Kan.mp3?rlkey=7euqwku2et0aqa57kdvj2591z&st=zc5tz8ag&dl=1",
+                    "duration_ms": 189753,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e046b64c2498064f2f60d423",
+                    "id": 1987,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "Omro Maygheeb",
+                    "track_url": "https://www.dropbox.com/scl/fi/x1kqxjmcvphba7pq4bfxa/Hamaki_-_Omroh_Ma_Yeghib.mp3?rlkey=h14xdw6ux52gbr6mzla1bk1ns&st=2xcfc6hd&dl=1",
+                    "duration_ms": 252839,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e046b64c2498064f2f60d423",
+                    "id": 1988,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "Be'dna Laih",
+                    "track_url": "https://www.dropbox.com/scl/fi/5twf2d2lzpqv6sdjdgrn7/Hamaki_-_Baedna_Leh.mp3?rlkey=1yskocfcvztbdv5e63eiop0yn&st=lghg9hvm&dl=1",
+                    "duration_ms": 364068,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e046b64c2498064f2f60d423",
+                    "id": 1989,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "Enta Habibi",
+                    "track_url": "https://www.dropbox.com/scl/fi/8gsvj5dl3jgnplp9oxxr5/Hamaki_-_Enta_Habibi.mp3?rlkey=8obmyyboy4lufurcp0luflxmf&st=9g20paev&dl=1",
+                    "duration_ms": 228153,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e046b64c2498064f2f60d423",
+                    "id": 1990,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "Eli Ekhtaro Albi",
+                    "track_url": "https://www.dropbox.com/scl/fi/00uiw2whtits2t6b6cos5/Hamaki_-_Elly_Ekhtaroh_Albi.mp3?rlkey=qy84i72teen3jgh3udb6aqdck&st=rc3nai2z&dl=1",
+                    "duration_ms": 193201,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273e046b64c2498064f2f60d423",
+                    "id": 1991,
+                    "artist": "Mohamed Hamaki"
+                }
+            ],
+            "id": 1976
+        },
+        {
+            "name": "Mn Alby Baghani",
+            "release_date": "2013-05-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739c38a56778f8679d8b82affb",
+            "track_url": "https://open.spotify.com/album/7f4sCptaAR6iTh3ZnY1ZR7",
+            "tracks": [
+                {
+                    "name": "Nefsi Aba'a Ganbo",
+                    "track_url": "https://www.dropbox.com/scl/fi/374vkkvxhhl8dsu8tngyd/01.Nefsi_Aba_a_Ganbo.mp3?rlkey=bzg3ra1ujlosntr447aq667nc&st=p222n3nw&dl=1",
+                    "duration_ms": 244532,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739c38a56778f8679d8b82affb",
+                    "id": 1993,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "Da Lolak",
+                    "track_url": "https://www.dropbox.com/scl/fi/9c4c5b9ec2r6qlqxao3ud/02.Da_Lolak.mp3?rlkey=gahyulffkatvtwcqwpgf0tv2l&st=0a5jz3hb&dl=1",
+                    "duration_ms": 281025,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739c38a56778f8679d8b82affb",
+                    "id": 1994,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "Hay'olo",
+                    "track_url": "https://www.dropbox.com/scl/fi/fa8ht5nypou0sfo323aeb/03.Hay_olo.mp3?rlkey=hfew5a6p3xmvb1v4tndz1f1ma&st=q7l161op&dl=1",
+                    "duration_ms": 264176,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739c38a56778f8679d8b82affb",
+                    "id": 1995,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "Haga Mestakhabeya",
+                    "track_url": "https://www.dropbox.com/scl/fi/1dcpco7trhkyvqtpt2dzv/04.Haga_Mestakhabeya.mp3?rlkey=02p3yotewjj7fxqa4hd4rdw4z&st=37myzfkj&dl=1",
+                    "duration_ms": 287791,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739c38a56778f8679d8b82affb",
+                    "id": 1996,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "Ahla El Nas",
+                    "track_url": "https://www.dropbox.com/scl/fi/1ymqeh77gt7ogg6mrir53/05.Ahla_El_Nas.mp3?rlkey=d7xglzctorgdfsgpjw81yif80&st=s52zxov8&dl=1",
+                    "duration_ms": 285675,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739c38a56778f8679d8b82affb",
+                    "id": 1997,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "Mn De'ty",
+                    "track_url": "https://www.dropbox.com/scl/fi/anxd8s3zsc9m4903zwmyr/06.Mn_De_ty.mp3?rlkey=f99zqm6kvpd4jz40zyfud4bk0&st=qkwq9xp1&dl=1",
+                    "duration_ms": 237557,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739c38a56778f8679d8b82affb",
+                    "id": 1998,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "A'arafo",
+                    "track_url": "https://www.dropbox.com/scl/fi/f75mwyb9np0yl433hq26n/07.A_arafo.mp3?rlkey=orrurtbqty86sh4rdgi3v9fiu&st=weqmvmag&dl=1",
+                    "duration_ms": 238132,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739c38a56778f8679d8b82affb",
+                    "id": 1999,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "Wadi Haly Ma'ak",
+                    "track_url": "https://www.dropbox.com/scl/fi/xuj06f6i2f5cbov77b9ep/08.Wadi_Haly_Ma_ak.mp3?rlkey=tlogzkw236cavqkwdl5vmv8vl&st=t5yl9mhe&dl=1",
+                    "duration_ms": 229093,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739c38a56778f8679d8b82affb",
+                    "id": 2000,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "Gara Eh",
+                    "track_url": "https://www.dropbox.com/scl/fi/x578psig7sodzpx3nbo0x/09.Gara_Eh.mp3?rlkey=zdogz6whnms5tgx2gcak95m6h&st=y2d0u8v9&dl=1",
+                    "duration_ms": 209084,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739c38a56778f8679d8b82affb",
+                    "id": 2001,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "Enta Bete'ned Ma'aya",
+                    "track_url": "https://www.dropbox.com/scl/fi/6ox7gpgljmpngimp3vk4s/10.Enta_Bete_ned_Ma_aya.mp3?rlkey=bd4iy3jabwrcynpkr9tkpm3ud&st=sbe3vup2&dl=1",
+                    "duration_ms": 299023,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739c38a56778f8679d8b82affb",
+                    "id": 2002,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "Nadman",
+                    "track_url": "https://www.dropbox.com/scl/fi/e0zxztrwefvp5iuh21w7k/11.Nadman.mp3?rlkey=rexbop7r1zc89bahg0f0erf5f&st=qf5xm9sm&dl=1",
+                    "duration_ms": 237740,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739c38a56778f8679d8b82affb",
+                    "id": 2003,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "Mn Alby Baghany",
+                    "track_url": "https://www.dropbox.com/scl/fi/kuj6499xgk1orb12zq5uu/12.Mn_Alby_Baghany.mp3?rlkey=p1ulcj0vyl30fmn9o1w8chufa&st=1fdu1s3m&dl=1",
+                    "duration_ms": 290507,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739c38a56778f8679d8b82affb",
+                    "id": 2004,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "Adi Elli Fi Balli",
+                    "track_url": "https://www.dropbox.com/scl/fi/12nw8onq1oqitocu5d20z/13_-_Ady_Elly_Fe_Baly.mp3?rlkey=njklyn1duzg4up1mzdkvngqr9&st=zgj8057f&dl=1",
+                    "duration_ms": 263105,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2739c38a56778f8679d8b82affb",
+                    "id": 2005,
+                    "artist": "Mohamed Hamaki"
+                }
+            ],
+            "id": 1992
+        },
+        {
+            "name": "حاجة مش طبيعية",
+            "release_date": "2010-03-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b27348b50c23f1e0f026eb453f82",
+            "track_url": "https://open.spotify.com/album/1Jhqekv9FUvhmVHwGPfjXi",
+            "tracks": [
+                {
+                    "name": "قول واتكلم",
+                    "track_url": "https://www.dropbox.com/scl/fi/hbvplt1m64jd2juzc4ny3/11.Ool_We_Etkalem.mp3?rlkey=ndsy8eixj2nm1b3kzt9kivumg&st=ryji552t&dl=1",
+                    "duration_ms": 243491,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27348b50c23f1e0f026eb453f82",
+                    "id": 2007,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "حاجة مش طبيعية",
+                    "track_url": "https://www.dropbox.com/scl/fi/dvlvt5p181ag223u388sn/03.Haga_Mosh_Tabeaya.mp3?rlkey=q0x9hc0zu5d6dyek2apxtpfh2&st=81ximyua&dl=1",
+                    "duration_ms": 297414,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27348b50c23f1e0f026eb453f82",
+                    "id": 2008,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "بتدارى",
+                    "track_url": "https://www.dropbox.com/scl/fi/0o3qyxq1kvmn07gi3or8l/10.Betdari.mp3?rlkey=xxrd4w3av6iwi40p3cq5l2dyk&st=2mj7o4bp&dl=1",
+                    "duration_ms": 240359,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27348b50c23f1e0f026eb453f82",
+                    "id": 2009,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "دنيتى اتغيرت",
+                    "track_url": "https://www.dropbox.com/scl/fi/bk60yqznuv9tw2a9b3oqe/08.Donyeti_Etghayaret.mp3?rlkey=xotia4gdzu2mxc7ejc581b2oa&st=n9i6w45q&dl=1",
+                    "duration_ms": 259832,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27348b50c23f1e0f026eb453f82",
+                    "id": 2010,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "فى حضن عينيك",
+                    "track_url": "https://www.dropbox.com/scl/fi/203pt7n6g7m3uxqwowp6z/01.Fi_Hodn_Eneik.mp3?rlkey=9lllbxk2n5f1wuspqghp242pe&st=3gym9f1q&dl=1",
+                    "duration_ms": 257230,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27348b50c23f1e0f026eb453f82",
+                    "id": 2011,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "كان مالى",
+                    "track_url": "https://www.dropbox.com/scl/fi/9fz6xuerv1l1iqb1754ai/04.Kan_Mali.mp3?rlkey=0102jjn74zmzh3e7kzb6nzbaf&st=yw8kc9c0&dl=1",
+                    "duration_ms": 264827,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27348b50c23f1e0f026eb453f82",
+                    "id": 2012,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "لسه بتخاف",
+                    "track_url": "https://www.dropbox.com/scl/fi/83noq3ogof2cdbw0nsxuk/06.Lessa_Betkhaf.mp3?rlkey=9s0do8m32xd8sqbkcidp18z3t&st=jtspndti&dl=1",
+                    "duration_ms": 181441,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27348b50c23f1e0f026eb453f82",
+                    "id": 2013,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "لو دعيالى",
+                    "track_url": "https://www.dropbox.com/scl/fi/f544p2p1mtj2ac0j2yzw9/07.Law_Daayali.mp3?rlkey=upy0qn4jp1ujpvvliyodrdin3&st=oa7s4ucm&dl=1",
+                    "duration_ms": 243809,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27348b50c23f1e0f026eb453f82",
+                    "id": 2014,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "متعقد",
+                    "track_url": "https://www.dropbox.com/scl/fi/2vfz8hhefe08s7fj5eabz/02.Metaakad.mp3?rlkey=mszrg4keshcjfmwe54xfx4gnn&st=jew5jaxb&dl=1",
+                    "duration_ms": 272151,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27348b50c23f1e0f026eb453f82",
+                    "id": 2015,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "مش سهل",
+                    "track_url": "https://www.dropbox.com/scl/fi/pvw5ovxb7v2sngu1og407/05.Mosh_Sahl.mp3?rlkey=w7df3d7mxpwakbaaspmpfaria&st=9tipr1g6&dl=1",
+                    "duration_ms": 228624,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27348b50c23f1e0f026eb453f82",
+                    "id": 2016,
+                    "artist": "Mohamed Hamaki"
+                }
+            ],
+            "id": 2006
+        },
+        {
+            "name": "ناويها",
+            "release_date": "2008-03-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735527bb726ed8036c3b232a8d",
+            "track_url": "https://open.spotify.com/album/1I8Klnu5XE2py8zIsz842u",
+            "tracks": [
+                {
+                    "name": "قالو فيكى",
+                    "track_url": "https://www.dropbox.com/scl/fi/1p6p1j6hhmqc8w08d9g02/07._Aalo_Fiki.mp3?rlkey=tpwahzwt60t542uka3w4xl47u&st=1ixa8aha&dl=1",
+                    "duration_ms": 224390,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735527bb726ed8036c3b232a8d",
+                    "id": 2018,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "حبيبى لو زعلان",
+                    "track_url": "https://www.dropbox.com/scl/fi/bzez1uuwpii26wxpv0zti/03._Habibi_Law_Zaalan.mp3?rlkey=igdol0xcbti96l38fsendxkx2&st=atgu76pk&dl=1",
+                    "duration_ms": 221890,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735527bb726ed8036c3b232a8d",
+                    "id": 2019,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "اكتر من الدنيا",
+                    "track_url": "https://www.dropbox.com/scl/fi/kkhlrcpxly2uy86m0rfji/02._Aktar_Men_El_Donia.mp3?rlkey=sqdy9g6c48be1g9alji0j84az&st=apzt7atj&dl=1",
+                    "duration_ms": 244824,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735527bb726ed8036c3b232a8d",
+                    "id": 2020,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "انا لو اذيته",
+                    "track_url": "https://www.dropbox.com/scl/fi/v5suy6ryt568nn1thdjp1/08._Ana_Law_Azetoh.mp3?rlkey=1jnm7yew0msmx9affaslgytoi&st=38jm9j41&dl=1",
+                    "duration_ms": 297580,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735527bb726ed8036c3b232a8d",
+                    "id": 2021,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "جت يا مجتش",
+                    "track_url": "https://www.dropbox.com/scl/fi/h1ziqkds3mmbxt3mcnmro/06._Gat_Ya_Magatsh.mp3?rlkey=1hauag3fpw5pklxyqv07t33nv&st=j0d22qwy&dl=1",
+                    "duration_ms": 241898,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735527bb726ed8036c3b232a8d",
+                    "id": 2022,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "هانت",
+                    "track_url": "https://www.dropbox.com/scl/fi/0lcl5prk949ezlq4kl1nb/09._Haanet.mp3?rlkey=622l81sq636hecmedfv1sxm3u&st=i2z0dtyk&dl=1",
+                    "duration_ms": 225505,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735527bb726ed8036c3b232a8d",
+                    "id": 2023,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "مش معقول",
+                    "track_url": "https://www.dropbox.com/scl/fi/lowhhkuxlmsl0zu821lgo/05._Mesh_Maaol.mp3?rlkey=tzdnf4fbz3ugvkgn4d2qeer3q&st=y5jd4npw&dl=1",
+                    "duration_ms": 238136,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735527bb726ed8036c3b232a8d",
+                    "id": 2024,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "ناويها",
+                    "track_url": "https://www.dropbox.com/scl/fi/klxiu9cy3oeg1khiyth4g/04._Naweeha.mp3?rlkey=b0ofcg2zm8txgiikgy44lpssk&st=ljg1xtba&dl=1",
+                    "duration_ms": 228105,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735527bb726ed8036c3b232a8d",
+                    "id": 2025,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "و افتكرت",
+                    "track_url": "https://www.dropbox.com/scl/fi/a6t11ocmi0i0urejknpvt/10._We_Eftakart.mp3?rlkey=g2305vp88t7yq6eksikuhqf1r&st=e0slhb4c&dl=1",
+                    "duration_ms": 253894,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735527bb726ed8036c3b232a8d",
+                    "id": 2026,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "هنا جنبى",
+                    "track_url": "https://www.dropbox.com/scl/fi/4na45259qihwi6xeed6ro/11._Hena_Ganby.mp3?rlkey=4lqozrmadp973oii5cm9o1z7i&st=n8cx8g79&dl=1",
+                    "duration_ms": 207725,
+                    "image": "https://i.scdn.co/image/ab67616d0000b2735527bb726ed8036c3b232a8d",
+                    "id": 2027,
+                    "artist": "Mohamed Hamaki"
+                }
+            ],
+            "id": 2017
+        },
+        {
+            "name": "خلص الكلام",
+            "release_date": "2006-09-06",
+            "image": "https://i.scdn.co/image/ab67616d0000b273efed63c14ec5825ceb603f35",
+            "track_url": "https://open.spotify.com/album/2UYUtkOJXLA3hjUqRS5Wc5",
+            "tracks": [
+                {
+                    "name": "حالا دلوقتى",
+                    "track_url": "https://www.dropbox.com/scl/fi/c3sh50qdxprnpblabrjd4/10._Halan_Delwaati.mp3?rlkey=7ubaien5jzhvxos8ytz71axml&st=58loawfk&dl=1",
+                    "duration_ms": 237075,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273efed63c14ec5825ceb603f35",
+                    "id": 2029,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "احلى حاجة فيكى",
+                    "track_url": "https://www.dropbox.com/scl/fi/tv0vikirk8yf9egyhqg9j/12._Ahla_Haga_Feeky.mp3?rlkey=irlfekafn8g6upwsl6fi5vvwz&st=d58ezmdt&dl=1",
+                    "duration_ms": 222627,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273efed63c14ec5825ceb603f35",
+                    "id": 2030,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "بقت عادة",
+                    "track_url": "https://www.dropbox.com/scl/fi/ll2ud30mvg2atwjq5n9ym/08._Baaet_Ada.mp3?rlkey=cq07wmroqb10cxmjd8umslxth&st=k22qejkf&dl=1",
+                    "duration_ms": 248374,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273efed63c14ec5825ceb603f35",
+                    "id": 2031,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "خلص الكلام",
+                    "track_url": "https://www.dropbox.com/scl/fi/7qf72qromnobfxi940pw5/09._Kheles_Elkalam.mp3?rlkey=m61a0zcn1h6m8uq7c629zah9v&st=qvuenzx6&dl=1",
+                    "duration_ms": 251777,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273efed63c14ec5825ceb603f35",
+                    "id": 2032,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "كنت تتكلم",
+                    "track_url": "https://www.dropbox.com/scl/fi/z9xrfndj7x24lab2uumnu/11._Kont_Tetkalem.mp3?rlkey=jmm27ml5uw2y1rf038hj3pkvp&st=1rqi2ng3&dl=1",
+                    "duration_ms": 237123,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273efed63c14ec5825ceb603f35",
+                    "id": 2033,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "ليه يا حبيبى",
+                    "track_url": "https://www.dropbox.com/scl/fi/6961iofzgznzpyuvosfhr/05._Leah_Ya_Habibi.mp3?rlkey=udig3xdkv1stfju7qkua0op3c&st=icdf505u&dl=1",
+                    "duration_ms": 260315,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273efed63c14ec5825ceb603f35",
+                    "id": 2034,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "رسالة",
+                    "track_url": "https://www.dropbox.com/scl/fi/dtmraxxpj5ocd9d28rsmu/07._Message_-Mosh_Hatensani.mp3?rlkey=kmxnfw6woztrqin2zth2xh46h&st=gq6yijcm&dl=1",
+                    "duration_ms": 131664,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273efed63c14ec5825ceb603f35",
+                    "id": 2035,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "طمنونى عينيك",
+                    "track_url": "https://www.dropbox.com/scl/fi/6te4pmou84wakatp5cshf/02._Tamenouni_Enek.mp3?rlkey=vx6sg9k1blp45shtwhymjvcfm&st=l0qti3vt&dl=1",
+                    "duration_ms": 238774,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273efed63c14ec5825ceb603f35",
+                    "id": 2036,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "وقت قريب",
+                    "track_url": "https://www.dropbox.com/scl/fi/3zxxgoi8z1gikxvzo0npc/04._Waat_Orayeb.mp3?rlkey=qd6yh6op26uilusrkgjwkqmrg&st=37mi88ay&dl=1",
+                    "duration_ms": 256765,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273efed63c14ec5825ceb603f35",
+                    "id": 2037,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "واحدة واحدة",
+                    "track_url": "https://www.dropbox.com/scl/fi/kc9rp5e6dvepytetus9r1/06._Wahda_Wahda.mp3?rlkey=tqtrscecipf0sfol1rsjmn4du&st=c9jtaw8t&dl=1",
+                    "duration_ms": 178900,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273efed63c14ec5825ceb603f35",
+                    "id": 2038,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "يا ريت",
+                    "track_url": "https://www.dropbox.com/scl/fi/7w6tyk5yxlifzql2lyvda/.mp3?rlkey=8xj0b63k2chpoi915m1d3ggxx&st=9emb2usn&dl=1",
+                    "duration_ms": 245820,
+                    "image": "https://i.scdn.co/image/ab67616d0000b273efed63c14ec5825ceb603f35",
+                    "id": 2039,
+                    "artist": "Mohamed Hamaki"
+                }
+            ],
+            "id": 2028
+        },
+        {
+            "name": "خلينا نعيش",
+            "release_date": "2003-03-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b27382064603097a04165e37b4a9",
+            "track_url": "https://open.spotify.com/album/4MQTvKD6kjg1eMAsTNTbp9",
+            "tracks": [
+                {
+                    "name": "ادينى بدوب",
+                    "track_url": "https://www.dropbox.com/scl/fi/34xmjv7so4tb2sozeu3ge/08._Adiny_Badoub.mp3?rlkey=f8rfnvxksh87idt3g244zyzdh&st=r1iwks81&dl=1",
+                    "duration_ms": 286434,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27382064603097a04165e37b4a9",
+                    "id": 2041,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "ان الاوان",
+                    "track_url": "https://www.dropbox.com/scl/fi/c15f6vtxyqormi91pue6b/01._An_El_Awaan.mp3?rlkey=bj6oq3x66wi2mesq7bdigalqo&st=lfn86al4&dl=1",
+                    "duration_ms": 271945,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27382064603097a04165e37b4a9",
+                    "id": 2042,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "اوعد قلبى",
+                    "track_url": "https://www.dropbox.com/scl/fi/pjcmvucelb55r7tco5r8f/09._Ewed_Albi.mp3?rlkey=iz7pi4xqqjb763x8sc9u6qkwb&st=p0o3gay0&dl=1",
+                    "duration_ms": 260428,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27382064603097a04165e37b4a9",
+                    "id": 2043,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "اول ليله",
+                    "track_url": "https://www.dropbox.com/scl/fi/9gqfm5sitjnnftc5w7gw3/06._Awel_Leila.mp3?rlkey=815o6rendmawwk1rl5apzvzl3&st=tjovkp47&dl=1",
+                    "duration_ms": 295350,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27382064603097a04165e37b4a9",
+                    "id": 2044,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "بتبعد ليه",
+                    "track_url": "https://www.dropbox.com/scl/fi/83wmd4caweatcwio2uor1/07._Betebead_Leah.mp3?rlkey=9uwhjahp1qchnlk1aatp31l2s&st=k7911i39&dl=1",
+                    "duration_ms": 215096,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27382064603097a04165e37b4a9",
+                    "id": 2045,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "بتضحك",
+                    "track_url": "https://www.dropbox.com/scl/fi/u5zukchjpgs4yseend1o5/02._Betedhak.mp3?rlkey=c6ab7dujo4gd7lt71bglo5ujc&st=itb0gas1&dl=1",
+                    "duration_ms": 262538,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27382064603097a04165e37b4a9",
+                    "id": 2046,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "خلينا نعيش",
+                    "track_url": "https://www.dropbox.com/scl/fi/22ne5swo7kiixf7esuxsa/10._Khallina_Neysh.mp3?rlkey=yqbco9oyn0z4i3tylcvbid8l2&st=mnkxec7j&dl=1",
+                    "duration_ms": 253793,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27382064603097a04165e37b4a9",
+                    "id": 2047,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "ليه لا",
+                    "track_url": "https://www.dropbox.com/scl/fi/pdbm8t4x6i0wca368cpcd/03._Leah_Laa.mp3?rlkey=c6th23s94udq08nr1ect8duct&st=38gtud24&dl=1",
+                    "duration_ms": 222904,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27382064603097a04165e37b4a9",
+                    "id": 2048,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "ياللى غايب",
+                    "track_url": "https://www.dropbox.com/scl/fi/luidvwf7dxmtyep2mpyya/05._Yalli_Ghayeb.mp3?rlkey=ecvoa2n2m6r6zomzjlx5dz2aj&st=jspw4ufp&dl=1",
+                    "duration_ms": 255226,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27382064603097a04165e37b4a9",
+                    "id": 2049,
+                    "artist": "Mohamed Hamaki"
+                },
+                {
+                    "name": "مقدرش انساك",
+                    "track_url": "https://www.dropbox.com/scl/fi/3r8h0k7b7wj52lpk458o8/04._Madarch_Ansaak.mp3?rlkey=1vb4x4a2mtwjlaxja966ebpe2&st=rl6uymgf&dl=1",
+                    "duration_ms": 290514,
+                    "image": "https://i.scdn.co/image/ab67616d0000b27382064603097a04165e37b4a9",
+                    "id": 2050,
+                    "artist": "Mohamed Hamaki"
+                }
+            ],
+            "id": 2040
+        }
+    ],
+    "singles": [
+        {
+            "name": "Gedida Lang",
+            "release_date": "2024-08-22",
+            "image": "https://i.scdn.co/image/ab67616d0000b27364c9060955b159f056c49e5b",
+            "track_url": "https://www.dropbox.com/scl/fi/4vm4w974hk1t0gmtkvi3s/08-Gedida.Lang-MaTb3aa.Com.mp3?rlkey=8jdslx1yz14nxmt4ugnv8t45m&st=ffbfvynp&dl=1",
+            "id": 2051,
+            "artist": "Mohamed Hamaki"
+        },
+        {
+            "name": "Tekhsarny",
+            "release_date": "2024-08-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730dda2558369fbe3d80f23900",
+            "track_url": "https://www.dropbox.com/scl/fi/j7ogb269q9ugryu82p3ib/05-Tekhsarny-MaTb3aa.Com.mp3?rlkey=p45tevil9msb4mrcxrqh5upml&st=0x5vjc4w&dl=1",
+            "id": 2052,
+            "artist": "Mohamed Hamaki"
+        },
+        {
+            "name": "Leily Taal",
+            "release_date": "2024-08-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f6c0fe1a467abefbc3cace17",
+            "track_url": "https://www.dropbox.com/scl/fi/l2j3ryxwkk7gqfpx5wqzp/06-Leily.Taal-MaTb3aa.Com.mp3?rlkey=3bt0tmssdskyl45obo3g14pjt&st=l90kfmmv&dl=1",
+            "id": 2053,
+            "artist": "Mohamed Hamaki"
+        },
+        {
+            "name": "El 3o2d El Loli",
+            "release_date": "2024-08-08",
+            "image": "https://i.scdn.co/image/ab67616d0000b2735e0fe40e44082f5e5148be0a",
+            "track_url": "https://www.dropbox.com/scl/fi/0e4h2ggsdv43ew0xi724z/07-El3o2d.ElLoli-MaTb3aa.Com.mp3?rlkey=ceaaly5at4t91dtey8syell79&st=i4zj9tuy&dl=1",
+            "id": 2054,
+            "artist": "Mohamed Hamaki"
+        },
+        {
+            "name": "Shagel 3eyoun ElNas",
+            "release_date": "2024-07-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b273db17b0cdd121a925193258e5",
+            "track_url": "https://www.dropbox.com/scl/fi/54je6rd3mx687mrq3sbd1/04-Shagel.3eyoun.ElNas-MaTb3aa.Com.mp3?rlkey=e0qfe6qwf1qd61nbeahuki69b&st=c5j9qtwq&dl=1",
+            "id": 2055,
+            "artist": "Mohamed Hamaki"
+        },
+        {
+            "name": "Sadma",
+            "release_date": "2024-07-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b27344c5b55c8a6f5ec5723c1ae3",
+            "track_url": "https://www.dropbox.com/scl/fi/fv6wluz5iqn7jsz4pd2d8/03-Sadma-MaTb3aa.Com.mp3?rlkey=4mjkmik7u22y44fw90de07mq1&st=zgwj4mss&dl=1",
+            "id": 2056,
+            "artist": "Mohamed Hamaki"
+        },
+        {
+            "name": "Bena2es",
+            "release_date": "2024-07-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b2734d4a2666bdda6cfccdd886ac",
+            "track_url": "https://www.dropbox.com/scl/fi/7ppzgbdkhzs2gu22c5mvl/02-Bena2es-MaTb3aa.Com.mp3?rlkey=miautk40sj7eb299aczehnfjy&st=gc9g0wld&dl=1",
+            "id": 2057,
+            "artist": "Mohamed Hamaki"
+        },
+        {
+            "name": "Wakla El Gaw",
+            "release_date": "2024-07-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b27375936b0a5dfc6fc5d157cd35",
+            "track_url": "https://www.dropbox.com/scl/fi/u81jmk6rpcsfv493ry1e2/01-Wakla.ElGaw-MaTb3aa.Com.mp3?rlkey=24acrc0rnxduwbfxxia3aysqo&st=jpiby1kn&dl=1",
+            "id": 2058,
+            "artist": "Mohamed Hamaki"
+        },
+        {
+            "name": "ايه السعادة دي",
+            "release_date": "2023-08-31",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f0f6a39a02f387c9e19c0444",
+            "track_url": "https://www.dropbox.com/scl/fi/nff4oktg21fj3mslh8ip8/.mp3?rlkey=5je1n7je9aua8z6sdp2xdtjsa&st=ro7i53ti&dl=1",
+            "id": 2060,
+            "artist": "Mohamed Hamaki"
+        },
+        {
+            "name": "دلعنا كتير",
+            "release_date": "2023-08-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739f7a898799b15e47fb054bb3",
+            "track_url": "https://www.dropbox.com/scl/fi/pf7shj6udoowhzglj70vd/.mp3?rlkey=ztpi7sepcrdcg8u1ikog0se71&st=qassv61j&dl=1",
+            "id": 2061,
+            "artist": "Mohamed Hamaki"
+        },
+        {
+            "name": "ده قلبي ده",
+            "release_date": "2023-08-17",
+            "image": "https://i.scdn.co/image/ab67616d0000b27322d52a871c6c82c9294a91c3",
+            "track_url": "https://www.dropbox.com/scl/fi/57vk6ij4uzf0zpr0kzvy5/.mp3?rlkey=dfqz6xfhg7ghgtm8pn8bjjxmz&st=pgosv9zp&dl=1",
+            "id": 2062,
+            "artist": "Mohamed Hamaki"
+        },
+        {
+            "name": "مش كفاية فراق",
+            "release_date": "2023-08-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b273fb9288871f12f0b809963bb4",
+            "track_url": "https://www.dropbox.com/scl/fi/ibczgl21tbptv2l4lvhr7/.mp3?rlkey=csj8f32c4ovtsxyhajl2gw8rx&st=yx8w6qoh&dl=1",
+            "id": 2063,
+            "artist": "Mohamed Hamaki"
+        },
+        {
+            "name": "حبيت المقابلة",
+            "release_date": "2023-08-03",
+            "image": "https://i.scdn.co/image/ab67616d0000b27391c664789a3282f2cf970e39",
+            "track_url": "https://www.dropbox.com/scl/fi/l74y0wnv0qzi0vq6t2oks/.mp3?rlkey=xkeklku6j5bvgd9jysump9mu4&st=gkymdb8b&dl=1",
+            "id": 2064,
+            "artist": "Mohamed Hamaki"
+        },
+        {
+            "name": "لمون نعناع",
+            "release_date": "2023-07-20",
+            "image": "https://i.scdn.co/image/ab67616d0000b273abf364be8312039d86c3de66",
+            "track_url": "https://www.dropbox.com/scl/fi/onq2wxfla8beooz1ya8dr/.mp3?rlkey=cvbwwhyu3b184hc7xz6tmf5te&st=cwyfvw9p&dl=1",
+            "id": 2065,
+            "artist": "Mohamed Hamaki"
+        },
+        {
+            "name": "Fadouloh El Makan",
+            "release_date": "2023-03-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b273cb050d22f6148b4ca8c64cb8",
+            "track_url": "https://www.dropbox.com/scl/fi/vmr8peu9xjrhksy400qg7/.mp3?rlkey=fc3ygf1fcj5qfzb5wgkyqqaut&st=pve0su2u&dl=1",
+            "id": 2066,
+            "artist": "Mohamed Hamaki"
+        },
+        {
+            "name": "Alby Habak Gedan",
+            "release_date": "2022-08-17",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a7f5fbed94824ff2f3cd9287",
+            "track_url": "https://www.dropbox.com/scl/fi/8kbphuvf8naawxdtodu3c/.mp3?rlkey=n2uoqrncq6y7tv1h039d2aqkb&st=2szbrr6n&dl=1",
+            "id": 2067,
+            "artist": "Mohamed Hamaki"
+        },
+        {
+            "name": "Adrenaline",
+            "release_date": "2022-07-28",
+            "image": "https://i.scdn.co/image/ab67616d0000b2732c3fddb8ad2225856cfd2b22",
+            "track_url": "https://www.dropbox.com/scl/fi/46wx26kvaxr0sffojgw0s/.mp3?rlkey=73mo9y60lxoz29w98ikhsuhgb&st=tyn2hz27&dl=1",
+            "id": 2068,
+            "artist": "Mohamed Hamaki"
+        },
+        {
+            "name": "Agaby",
+            "release_date": "2022-02-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b27368d6df97ea43529ed44cc2fa",
+            "track_url": "https://www.dropbox.com/scl/fi/9b45yaxtawfzikt4uiis8/.mp3?rlkey=56j0qwg25nwyl0tv5e5nhy8ev&st=scz03rbx&dl=1",
+            "id": 2069,
+            "artist": "Mohamed Hamaki"
+        },
+        {
+            "name": "ليلة العمر",
+            "release_date": "2021-09-30",
+            "image": "https://i.scdn.co/image/ab67616d0000b2737ecd39e6732ac8dc3b9d0670",
+            "track_url": "https://www.dropbox.com/scl/fi/s2525rex2h40ns0tqqsj1/.mp3?rlkey=i2tnyyc67i2mr5i1x5v065a34&st=w766axrq&dl=1",
+            "id": 2070,
+            "artist": "Mohamed Hamaki"
+        },
+        {
+            "name": "Yalli Aalem Bina",
+            "release_date": "2021-04-15",
+            "image": "https://i.scdn.co/image/ab67616d0000b2738be0fc58e1b60ac02062af79",
+            "track_url": "https://www.dropbox.com/scl/fi/qx2tuzw5iub7ove5qz6jm/.mp3?rlkey=afoevtyhtgrbvas9ec78c74pe&st=4bfqmiut&dl=1",
+            "id": 2071,
+            "artist": "Mohamed Hamaki"
+        },
+        {
+            "name": "Dah Wa2toh",
+            "release_date": "2021-04-14",
+            "image": "https://i.scdn.co/image/ab67616d0000b273d140dac3489efe506203c363",
+            "track_url": "https://www.dropbox.com/scl/fi/vl4uizxj0z3by08limpnu/.mp3?rlkey=oqzu1x5hzsmxnnou5mt0qtl9z&st=8h5u4xeu&dl=1",
+            "id": 2072,
+            "artist": "Mohamed Hamaki"
+        },
+        {
+            "name": "Hayatak Fi Sora",
+            "release_date": "2021-03-10",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a55db89e35d4fe5ede49ea53",
+            "track_url": "https://www.dropbox.com/scl/fi/yn3ecgeeqnkoierivkqv9/.mp3?rlkey=vj3alybdtf39hs481rzs5u17b&st=gnpz5ufs&dl=1",
+            "id": 2073,
+            "artist": "Mohamed Hamaki"
+        },
+        {
+            "name": "اللقا (من فيلم 30 سنة)",
+            "release_date": "2016-07-08",
+            "image": "https://artwork.anghcdn.co/webp/?id=14669450&size=296",
+            "track_url": "https://www.dropbox.com/scl/fi/n6fo719w5qvmt7k532ril/.mp3?rlkey=f11r5jayit2xhzk4tqu5luelz&st=1p9nrphy&dl=1",
+            "id": 12410,
+            "artist": "Mohamed Hamaki"
+        },
+        {
+            "name": "Howa Da Habiby",
+            "release_date": "2020-08-04",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739d6137a90bdd187c0ba676d9",
+            "track_url": "https://www.dropbox.com/scl/fi/d017uoahna1smkm1hzxe6/.mp3?rlkey=xw8ow6j8njlmoasoa0q8bbryr&st=i0559mo1&dl=1",
+            "id": 2074,
+            "artist": "Mohamed Hamaki"
+        },
+        {
+            "name": "Ya Rahman",
+            "release_date": "2019-05-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b273ff9649e6fbfffe3557841c9a",
+            "track_url": "https://www.dropbox.com/scl/fi/y5e68m5ajp3ih6d6upcph/07.Al-Rahman.mp3?rlkey=9sq05rqrknwixqa68xxe9xnac&st=mvnnsi8m&dl=1",
+            "id": 2075,
+            "artist": "Mohamed Hamaki"
+        },
+        {
+            "name": "Anta Alazeem",
+            "release_date": "2019-05-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b273868ecc13e01a8e7e2d4e0451",
+            "track_url": "https://www.dropbox.com/scl/fi/sfk0w8ae0uvjzn9f59v1p/.mp3?rlkey=uxcsgnxve8qk6bp62fjg89jlz&st=ugkju7gs&dl=1",
+            "id": 2076,
+            "artist": "Mohamed Hamaki"
+        },
+        {
+            "name": "Alemny",
+            "release_date": "2019-05-21",
+            "image": "https://i.scdn.co/image/ab67616d0000b27378a2eb8703e067dfe0b450cb",
+            "track_url": "https://www.dropbox.com/scl/fi/oixbhnnvumc3orrsjtvd7/.mp3?rlkey=3yn6r1gh7vgxkbbrwikz2air2&st=85f0aubi&dl=1",
+            "id": 2077,
+            "artist": "Mohamed Hamaki"
+        },
+        {
+            "name": "Taheyati",
+            "release_date": "2018-01-01",
+            "image": "https://i.scdn.co/image/ab67616d0000b273eb59ccff9379f38bf57f70fb",
+            "track_url": "https://www.dropbox.com/scl/fi/i7x5a1e5qzitxfkr2f8b9/.mp3?rlkey=esv330yoy4b73y1bkimqfoi4b&st=udmf14ez&dl=1",
+            "id": 2078,
+            "artist": "Mohamed Hamaki"
+        },
+        {
+            "name": "Aktar Wahda Habetni",
+            "release_date": "2012-03-20",
+            "image": "https://i.scdn.co/image/ab67616d0000b273e7c15a0becc6236dcc48b794",
+            "track_url": "https://www.dropbox.com/scl/fi/7qd8oc21gy5545qr4du34/06.Aktar-Wahda-Habetni.mp3?rlkey=ci75uel5kmc90otwcjinp1szd&st=wjmcsrp2&dl=1",
+            "id": 2079,
+            "artist": "Mohamed Hamaki"
+        },
+        {
+            "name": "ابعد تجينى",
+            "release_date": "2010-05-25",
+            "image": "https://i.scdn.co/image/ab67616d0000b2730f579ab2f0fb878af12af93f",
+            "track_url": "https://www.dropbox.com/scl/fi/13q4jx1x9tsmdw13avei2/04.Abeed-Teginy.mp3?rlkey=sqhcl14hmbib96hh6u6nowskc&st=fcs1ftdy&dl=1",
+            "id": 2080,
+            "artist": "Mohamed Hamaki"
+        },
+        {
+            "name": "أم الدنيا",
+            "release_date": "2010-05-19",
+            "image": "https://i.scdn.co/image/ab67616d0000b2739784a3f956d44723a516647a",
+            "track_url": "https://www.dropbox.com/scl/fi/05ri5mo7sz05mxdhespnz/.mp3?rlkey=8dkui1s1djou0fmv3ps3ul33b&st=c6imno18&dl=1",
+            "id": 2081,
+            "artist": "Mohamed Hamaki"
+        },
+        {
+            "name": "بحبك كل يوم اكتر",
+            "release_date": "2007-04-18",
+            "image": "https://i.scdn.co/image/ab67616d0000b27382ee078fc8871eef091462f3",
+            "track_url": "https://www.dropbox.com/scl/fi/69edt1od1cbto4vzbjore/.mp3?rlkey=wasxtmv9xq0gxopxis0gngiad&st=rxtxftkg&dl=1",
+            "id": 2082,
+            "artist": "Mohamed Hamaki"
+        },
+        {
+            "name": "Ya Ana Ya Enta",
+            "release_date": "2006-02-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b273c2338ba6ad508b63f63b235c",
+            "track_url": "https://www.dropbox.com/scl/fi/op7l99r4ojbiebnct9kej/01.Yana-Yanta.mp3?rlkey=jprb78qoi7w9ffr15wzbzs588&st=zfki3bju&dl=1",
+            "id": 2083,
+            "artist": "Mohamed Hamaki"
+        },
+        {
+            "name": "احساس فظيع",
+            "release_date": "2000-05-17",
+            "image": "https://i.scdn.co/image/ab67616d0000b27339d049c84c496f6575fd45f2",
+            "track_url": "",
+            "id": 2085,
+            "artist": "Mohamed Hamaki"
+        },
+        {
+            "name": "سلطان جمالك",
+            "release_date": "1999-05-24",
+            "image": "https://i.scdn.co/image/ab67616d0000b273a5125c52054ba8992416ed91",
+            "track_url": "https://www.dropbox.com/scl/fi/fhbqbbb7v7382xe4zcnyw/25.Soultan-Gmalak.mp3?rlkey=uy1fzhsg31z46tm240pf8brhe&st=y2esk03n&dl=1",
+            "id": 2086,
+            "artist": "Mohamed Hamaki"
+        }
+    ],
+    "popular_tracks": [
+        {
+            "name": "و افتكرت",
+            "track_url": "https://www.dropbox.com/scl/fi/a6t11ocmi0i0urejknpvt/10._We_Eftakart.mp3?rlkey=g2305vp88t7yq6eksikuhqf1r&st=e0slhb4c&dl=1",
+            "duration_ms": 253894,
+            "image": "https://i.scdn.co/image/ab67616d0000b2735527bb726ed8036c3b232a8d",
+            "id": 2087,
+            "artist": "Mohamed Hamaki"
+        },
+        {
+            "name": "واحدة واحدة",
+            "track_url": "https://www.dropbox.com/scl/fi/kc9rp5e6dvepytetus9r1/06._Wahda_Wahda.mp3?rlkey=tqtrscecipf0sfol1rsjmn4du&st=c9jtaw8t&dl=1",
+            "duration_ms": 178900,
+            "image": "https://i.scdn.co/image/ab67616d0000b273efed63c14ec5825ceb603f35",
+            "id": 2088,
+            "artist": "Mohamed Hamaki"
+        },
+        {
+            "name": "احلى حاجة فيكى",
+            "track_url": "https://www.dropbox.com/scl/fi/tv0vikirk8yf9egyhqg9j/12._Ahla_Haga_Feeky.mp3?rlkey=irlfekafn8g6upwsl6fi5vvwz&st=d58ezmdt&dl=1",
+            "duration_ms": 222627,
+            "image": "https://i.scdn.co/image/ab67616d0000b273efed63c14ec5825ceb603f35",
+            "id": 2089,
+            "artist": "Mohamed Hamaki"
+        },
+        {
+            "name": "Mabalash",
+            "track_url": "https://www.dropbox.com/scl/fi/rergta476cygaarz5qpyz/Hamaki_-_Ma_Balash.mp3?rlkey=hdxqr10nld50iqe05dc107chr&st=htypqz6f&dl=1",
+            "duration_ms": 248241,
+            "image": "https://i.scdn.co/image/ab67616d0000b273e046b64c2498064f2f60d423",
+            "id": 2090,
+            "artist": "Mohamed Hamaki"
+        },
+        {
+            "name": "Mel Bedaya",
+            "track_url": "https://www.dropbox.com/scl/fi/tjyxdwr7qf6rf3funmaky/09._Mel_Bedaya.mp3?rlkey=szfjtl5vg4ikkl1in7u8uuqpb&st=34b72ntw&dl=1",
+            "duration_ms": 278546,
+            "image": "https://i.scdn.co/image/ab67616d0000b273e33e51cc66ef3d4f45f4e6c8",
+            "id": 2091,
+            "artist": "Mohamed Hamaki"
+        },
+        {
+            "name": "Haga Mestakhabeya",
+            "track_url": "https://www.dropbox.com/scl/fi/1dcpco7trhkyvqtpt2dzv/04.Haga_Mestakhabeya.mp3?rlkey=02p3yotewjj7fxqa4hd4rdw4z&st=37myzfkj&dl=1",
+            "duration_ms": 287791,
+            "image": "https://i.scdn.co/image/ab67616d0000b2739c38a56778f8679d8b82affb",
+            "id": 2092,
+            "artist": "Mohamed Hamaki"
+        },
+        {
+            "name": "Adrenaline",
+            "track_url": "https://www.dropbox.com/scl/fi/46wx26kvaxr0sffojgw0s/.mp3?rlkey=73mo9y60lxoz29w98ikhsuhgb&st=tyn2hz27&dl=1",
+            "duration_ms": 194373,
+            "image": "https://i.scdn.co/image/ab67616d0000b2732c3fddb8ad2225856cfd2b22",
+            "id": 2093,
+            "artist": "Mohamed Hamaki"
+        },
+        {
+            "name": "لسه بتخاف",
+            "track_url": "https://www.dropbox.com/scl/fi/83noq3ogof2cdbw0nsxuk/06.Lessa_Betkhaf.mp3?rlkey=9s0do8m32xd8sqbkcidp18z3t&st=jtspndti&dl=1",
+            "duration_ms": 181441,
+            "image": "https://i.scdn.co/image/ab67616d0000b27348b50c23f1e0f026eb453f82",
+            "id": 2094,
+            "artist": "Mohamed Hamaki"
+        },
+        {
+            "name": "Law Hatsib",
+            "track_url": "https://www.dropbox.com/scl/fi/sb3nmynmiohteri6awk6t/Albumaty.Com_mhmd_hmaky_lw_htsyb.mp3?rlkey=9mt8ejz0oskohqf9ys08gyl4t&st=sf0xc0c0&dl=1",
+            "duration_ms": 228000,
+            "image": "https://i.scdn.co/image/ab67616d0000b273c3e84996ef5959862603a6be",
+            "id": 2095,
+            "artist": "Mohamed Hamaki"
+        },
+        {
+            "name": "Ya Sattar",
+            "track_url": "https://www.dropbox.com/scl/fi/g9nrhdyce3lku0kxzvrs0/10._Ya_Sattar.mp3?rlkey=voxu5zfpoujxu2xeky0css7hn&st=ndsb8of1&dl=1",
+            "duration_ms": 224520,
+            "image": "https://i.scdn.co/image/ab67616d0000b273e33e51cc66ef3d4f45f4e6c8",
+            "id": 2096,
+            "artist": "Mohamed Hamaki"
+        }
+    ]
+}

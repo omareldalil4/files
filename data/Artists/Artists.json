@@ -54,15 +54,15 @@
     "file_path": "artists_data\\Mohamed_Hamaki.json"
   },
   {
-    "id": "81",
-    "name": "Hamada Helal",
-    "image": "https://i.scdn.co/image/ab6761610000517416265796c86c0537438f17e4"
-  },
-  {
     "id": "10",
     "name": "Bahaa Sultan",
     "image": "https://i.scdn.co/image/ab6761610000e5eb0be95f3a807328147536bf67",
     "file_path": "artists_data\\Bahaa_Sultan.json"
+  },
+  {
+    "id": "81",
+    "name": "Hamada Helal",
+    "image": "https://i.scdn.co/image/ab6761610000517416265796c86c0537438f17e4"
   },
   {
     "id": "11",

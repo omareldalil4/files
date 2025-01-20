@@ -1,0 +1,203 @@
+[
+    {
+      "id": "99",
+      "name": "Habibi",
+      "artist": "Kozbara",
+      "album": "El Farah",
+      "release_date": "2024-9-21",
+      "image": "https://i.scdn.co/image/ab67616d0000b27378b15ac57d83b0a00dcbf363",
+      "track_url": "https://www.dropbox.com/scl/fi/o001rvl4ydlnf4gqp8jlr/Habibi.mp3?rlkey=808cw4mdwsx1li38nqseq1cyc&st=v1aumdn0&dl=1",
+      "popularity": 68
+    },
+    {
+      "id": "29",
+      "name": "Aal Doghrey",
+      "artist": "Reda El Bahrawy",
+      "album": "Aal Doghrey",
+      "release_date": "2024-06-30",
+      "image": "https://i.scdn.co/image/ab67616d0000b27341286211fc428973354ebef8",
+      "track_url": "https://www.dropbox.com/scl/fi/idyd2n0wzm25oonhvgbkv/.mp3?rlkey=hww0u5wkoymyuzzl1394j5xg2&st=f5glrl8z&dl=1",
+      "popularity": 60
+    },
+    {
+      "id": "100",
+      "name": "KEBDA",
+      "artist": "Afroto, ONUY",
+      "album": "أفضل أغانى 2024",
+      "release_date": "2024-07-24",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732dd4211dff9e6ca8b39818ed",
+      "track_url": "https://www.dropbox.com/scl/fi/xpgeguy8pvy6l7g0wkzl3/.mp3?rlkey=71cfv2uf0myn09c8mwade19mt&st=7cjou7x2&dl=1",
+      "popularity": 65
+    },
+    {
+      "id": "101",
+      "name": "Nas Meny W Men Damy",
+      "artist": "Reda El Bahrawy",
+      "album": "Nas Meny W Men Damy",
+      "release_date": "2022-02-16",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ae5be3537a16a0fa71541ce8",
+      "track_url": "https://www.dropbox.com/scl/fi/qd8mbns4e2fhnqebx5tny/Naas.Meny-Rada.Elbahrawy-MaTb3aa.Com.mp3?rlkey=5finn86lkdivcie5v9qbzu9sm&st=a0948jt9&dl=1",
+      "popularity": 51
+    },
+    {
+      "id": "31",
+      "name": "روقان",
+      "artist": "Hoda Bondok",
+      "album": "روقان",
+      "release_date": "2024-04-03",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e32cf0ebe941c7a58e05b3f0",
+      "track_url": "https://www.dropbox.com/scl/fi/2fqm5ngnui94nzle0fhuj/.mp3?rlkey=djxbvm8zevtypwyy1yttw829e&st=gzzrkbso&dl=1",
+      "popularity": 57
+    },
+    {
+      "id": "34",
+      "name": "أنا بابا",
+      "artist": "Pousi, Muslim",
+      "album": "أنا بابا",
+      "release_date": "2024-07-31",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e3cd69165190728003853d05",
+      "track_url": "https://www.dropbox.com/scl/fi/0nrmombhjskndt70ljtg7/.mp3?rlkey=8ynnl5549tdkx55eer9jytf65&st=ehvn3lyv&dl=1",
+      "popularity": 56
+    },
+    {
+      "id": "102",
+      "name": "فرحه الدلوعه",
+      "artist": "ميدو مزيكا",
+      "album": "فرحه الدلوعه",
+      "release_date": "2024-09-11",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c323ea422b0e517c6d608c3f",
+      "track_url": "https://www.dropbox.com/scl/fi/k9j5uil1yylck9jwbpahd/El.Dlo3a.W.Elforsan.mp3?rlkey=zcacbqxjrllj1u7gy64dhie7b&st=k1c6ts56&dl=1",
+      "popularity": 45
+    },
+    {
+      "id": "103",
+      "name": "الغل مني هاريكو",
+      "artist": "Mahmoud El Leithy",
+      "album": "الغل مني هاريكو",
+      "release_date": "2023-07-10",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738ed017aea7e673715bd600bb",
+      "track_url": "https://www.dropbox.com/scl/fi/aeoq59wcmojoz68igk6a1/Albumaty.Com_mhmwd_allysi_alghl_mny_harykw.mp3?rlkey=szo7x2zggk5yemsfdfp9gddjy&st=1kdjlxaq&dl=1",
+      "popularity": 54
+    },
+    {
+      "id": "104",
+      "name": "مالناش كبير كبيرنا فوق",
+      "artist": "Eslam Kabonga",
+      "album": "مالناش كبير كبيرنا فوق",
+      "release_date": "2024-10-12",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739e0dc9036c0b6dd32315d722",
+      "track_url": "https://www.dropbox.com/scl/fi/1in5bh90wpo1okdh4oi7s/.mp3?rlkey=ftuibue4sq20ksc9b50i4d8bp&st=jjq3wukk&dl=1",
+      "popularity": 58
+    },
+    {
+      "id": "105",
+      "name": "عشري بيعني انا",
+      "artist": "Magdy El Zahar",
+      "album": "عشري بيعني انا",
+      "release_date": "2024-06-02",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ca49cdd0a31c9ed2d278a752",
+      "track_url": "https://www.dropbox.com/scl/fi/ns1ahskzsfnb5q756u77s/.mp3?rlkey=1xd02oo882p5q6e5ue3eyedey&st=zuyyzstg&dl=1",
+      "popularity": 63
+    },
+    {
+      "id": "106",
+      "name": "Elsabaana Kasbana",
+      "artist": "Mohamed El Fannan, Eslam El Abyad",
+      "album": "Welad Rizk 2 Movie",
+      "release_date": "2019-08-29",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b3d6622aac4d8a8425b9b393",
+      "track_url": "https://www.dropbox.com/scl/fi/rf6gc4pwqvop9bynvnlz5/Elsbqana.kasbana.mp3?rlkey=boq2rez656h9hrz85su1bu0wg&st=a7fcp83y&dl=1",
+      "popularity": 52
+    },
+    {
+      "id": "107",
+      "name": "طريق الاندال",
+      "artist": "حمادة الليثي, عمرو سلامة",
+      "album": "طريق الاندال",
+      "release_date": "2023-04-30",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731c147ffb281b1586b7d1d609",
+      "track_url": "https://www.dropbox.com/scl/fi/u1eubv9o3kb0kdfjgboaa/.mp3?rlkey=ykd6ho5bwpw14znlrcnkutdi5&st=opi47yi1&dl=1",
+      "popularity": 49
+    },
+    {
+      "id": "108",
+      "name": "مش شايفك",
+      "artist": "3enba",
+      "album": "مش شايفك",
+      "release_date": "2022-07-21",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738bcafa376c619c12c6f09ef7",
+      "track_url": "https://www.dropbox.com/scl/fi/t134z0hgk5da3g21ciq2b/.mp3?rlkey=b14jq79nbpi4q6n8eu79hf4cx&st=kt4x32hg&dl=1",
+      "popularity": 51
+    },
+    {
+      "id": "109",
+      "name": "قراميط قراميط و الهلافيت عاملين مظابيط (صحبي اللي اداك يدينا )",
+      "artist": "Karim Cristiano",
+      "album": "قراميط قراميط و الهلافيت عاملين مظابيط (صحبي اللي اداك يدينا )",
+      "release_date": "2023-05-29",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734df76377cd6aad179e3284dd",
+      "track_url": "https://www.dropbox.com/scl/fi/rs6jgoeyt9h6i48squ7fz/.mp3?rlkey=nlenftc4amll8alv2yxg1mczc&st=hpml0slo&dl=1",
+      "popularity": 49
+    },
+    {
+      "id": "110",
+      "name": "سيبك من اللي خلع - من فيلم حمص وحلاوة",
+      "artist": "Mahmoud El Leithy, Essam Sasa",
+      "album": "سيبك من اللي خلع (من فيلم حمص وحلاوة)",
+      "release_date": "2023-10-01",
+      "image": "https://i.scdn.co/image/ab67616d0000b273261fc5f212150ded60443e12",
+      "track_url": "https://www.dropbox.com/scl/fi/b2gxm88er5lmp5dfk6i62/.mp3?rlkey=4f93gvwc5usgr4xjrxeq5qv9k&st=zr69uxbm&dl=1",
+      "popularity": 59
+    },
+    {
+      "id": "111",
+      "name": "انتي معلمه",
+      "artist": "Omar Kamal, Hamo Bika",
+      "album": "انتي معلمه",
+      "release_date": "2020-11-16",
+      "image": "https://i.scdn.co/image/ab67616d0000b27392a67571b92adba36c1c95af",
+      "track_url": "https://www.dropbox.com/scl/fi/tr6hha4vfnitj2mvh2w47/.mp3?rlkey=kppembejmakppkorz8wbmwzhl&st=rbv3c8pk&dl=1",
+      "popularity": 50
+    },
+    {
+      "id": "112",
+      "name": "كله طار فالمطار",
+      "artist": "Hoda Bondok, Mohamed Chahine",
+      "album": "كله طار فالمطار",
+      "release_date": "2021-02-17",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737ba818c7c104f3f8e0fc1066",
+      "track_url": "https://www.dropbox.com/scl/fi/lozghf6mpw4kqg380vhr7/.mp3?rlkey=gbm26q9pqnni6soco7tbqcy9f&st=rqzgbrvb&dl=1",
+      "popularity": 35
+    },
+    {
+      "id": "113",
+      "name": "اندال اندال",
+      "artist": "Ahmed Moza",
+      "album": "اندال اندال",
+      "release_date": "2020-11-16",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ac1380fcf89e62e9dc1ee5e7",
+      "track_url": "https://www.dropbox.com/scl/fi/gfmsuhiyoyuiwhwfzcdjw/.mp3?rlkey=4wf8hoy70z73ih94calokgtph&st=i0p3z7pz&dl=1",
+      "popularity": 50
+    },
+    {
+      "id": "114",
+      "name": "Eda Eda",
+      "artist": "El Sawareekh",
+      "album": "Eda Eda",
+      "release_date": "2021-04-11",
+      "image": "https://i.scdn.co/image/ab67616d0000b273467bdfe5a435f152d8d48151",
+      "track_url": "https://www.dropbox.com/scl/fi/lizlvxiallenqxc266901/Mahrgan.Eh.da.Eh.da-MaTb3aa.Com.mp3?rlkey=czrt1i5gu8a3uvjwox28jga5v&st=bqrdt15l&dl=1",
+      "popularity": 45
+    },
+    {
+      "id": "115",
+      "name": "متغاظ عارفك يلا مننا متغاظ",
+      "artist": "Mostafa el Degwy, Mohamed Zizo",
+      "album": "متغاظ عارفك يلا مننا متغاظ",
+      "release_date": "2021-03-15",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735973877581b001d840aa0238",
+      "track_url": "https://www.dropbox.com/scl/fi/ptuegjot3spj0l8v9nk8z/Mahrgan.Matgaz-MaTb3aa.Com.mp3?rlkey=n2v9iss5dtyh8a0a1j1hw855c&st=aou6zv9t&dl=1",
+      "popularity": 35
+    }
+  ]
+  

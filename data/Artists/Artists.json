@@ -36,15 +36,15 @@
     "file_path": "artists_data\\Ramy_Gamal.json"
   },
   {
-    "id": "81",
-    "name": "Hamada Helal",
-    "image": "https://i.scdn.co/image/ab6761610000517416265796c86c0537438f17e4"
-  },
-  {
     "id": "7",
     "name": "Ramy Sabry",
     "image": "https://i.scdn.co/image/ab6761610000e5eb699e60132a156c56ec2a2387",
     "file_path": "artists_data\\Ramy_Sabry.json"
+  },
+  {
+    "id": "81",
+    "name": "Hamada Helal",
+    "image": "https://i.scdn.co/image/ab6761610000517416265796c86c0537438f17e4"
   },
   {
     "id": "8",

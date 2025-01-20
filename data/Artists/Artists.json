@@ -109,16 +109,16 @@
     "file_path": "artists_data\\Amal_Maher.json"
   },
   {
-    "id": "18",
-    "name": "Aziz Maraka",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb52671f5df90efe724d48f265",
-    "file_path": "artists_data\\Aziz_Maraka.json"
-  },
-  {
     "id": "19",
     "name": "Farid",
     "image": "https://i.scdn.co/image/ab6761610000e5eb8e7a326d34965bfbe24a26f3",
     "file_path": "artists_data\\Farid.json"
+  },
+  {
+    "id": "18",
+    "name": "Aziz Maraka",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb52671f5df90efe724d48f265",
+    "file_path": "artists_data\\Aziz_Maraka.json"
   },
   {
     "id": "20",

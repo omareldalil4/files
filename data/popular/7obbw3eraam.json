@@ -1,0 +1,223 @@
+[
+    {
+      "id": "78",
+      "name": "Hala Khasa Gedan",
+      "artist": "Angham",
+      "album": "Hala Khasa Gedan",
+      "release_date": "2019-02-20",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738ed964665ee0f2820ff11c07",
+      "track_url": "https://www.dropbox.com/scl/fi/331dnulwgbph171qzc4hr/01._Hala_Khasa_Gedan.mp3?rlkey=kq3kgcfrzvz0kbtneb2vnmf8a&st=scigb77u&dl=1",
+      "popularity": 45
+    },
+    {
+      "id": "79",
+      "name": "Batamenak",
+      "artist": "Sherine",
+      "album": "Batamenak",
+      "release_date": "2008-01-05",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bbda8aa8449ea235ded768b5",
+      "track_url": "https://www.dropbox.com/scl/fi/49ncsj6ekjsfigr0fzzao/01.Bataminak.mp3?rlkey=1mkix1n6fpkiy8ebh0qg1hhjh&st=zo1e8nxw&dl=1",
+      "popularity": 41
+    },
+    {
+      "id": "80",
+      "name": "ومعاك",
+      "artist": "Nedaa Shrara",
+      "album": "ومعاك",
+      "release_date": "2023-09-22",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738ac0b55f007c538e4543d73c",
+      "track_url": "https://www.dropbox.com/scl/fi/n21o2qw9mbbetobhjbjww/.mp3?rlkey=lmy8ak6d26ci2pvqbija8blk8&st=fo19qypi&dl=1",
+      "popularity": 58
+    },
+    {
+      "id": "81",
+      "name": "Etamen",
+      "artist": "Tamer Hosny",
+      "album": "Ekhtart Sah",
+      "release_date": "2010-06-23",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731b1cc62b38ae667c7dc001e3",
+      "track_url": "https://www.dropbox.com/scl/fi/evdv59g7o5pgla1tov918/song4.mp3?rlkey=4emvfssr9x79r7i8vq1wc8fo1&st=w18ukj41&dl=1",
+      "popularity": 45
+    },
+    {
+      "id": "82",
+      "name": "Zay Manty",
+      "artist": "Amr Diab",
+      "album": "Sahran",
+      "release_date": "2020-02-17",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731d0bba9257613bca9c0c237a",
+      "track_url": "https://www.dropbox.com/scl/fi/24um5pqigba9d8fveq9l3/10._Zay_Manty.mp3?rlkey=pz0rxmsl1n9g6vwkxu9rzzbr3&st=43gbzw99&dl=1",
+      "popularity": 49
+    },
+    {
+      "id": "83",
+      "name": "خليني شوية معاك",
+      "artist": "Angham",
+      "album": "خليني شوية معاك",
+      "release_date": "2023-02-14",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731c77168ce487affe52ee2c98",
+      "track_url": "https://www.dropbox.com/scl/fi/bass75nmfrhsa26yyj63t/khlyny_shwyt_maak.mp3?rlkey=jen0umnl9h8nq66x7usuu14kq&st=u12m45ge&dl=1",
+      "popularity": 49
+    },
+    {
+      "id": "84",
+      "name": "حكايتنا كملت",
+      "artist": "Haytham Shaker",
+      "album": "حكايتنا كملت",
+      "release_date": "2023-07-04",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c3d400ebe83b98b61b4c5736",
+      "track_url": "https://www.dropbox.com/scl/fi/jmzkg63ccfb91ortoag7l/.mp3?rlkey=dy16lcps1fsb5j2z1cbqsa2w4&st=8v9zlsnt&dl=1",
+      "popularity": 48
+    },
+    {
+      "id": "85",
+      "name": "Khaleny Fe Hodnak",
+      "artist": "Tamer Ashour",
+      "album": "Tegy Ntrahn",
+      "release_date": "2022-01-20",
+      "image": "https://i.scdn.co/image/ab67616d0000b27383d3f05128296659bd6919ea",
+      "track_url": "https://www.dropbox.com/scl/fi/r8807h9u1758f68lj0a2n/Khaleny-Fe-Hodnak.mp3?rlkey=yl6kw965p1n6q2d1usreji3zh&st=yj2kccsi&dl=1",
+      "popularity": 62
+    },
+    {
+      "id": "86",
+      "name": "إوعديني",
+      "artist": "Ramy Gamal",
+      "album": "مالناش الا بعض",
+      "release_date": "2016-07-10",
+      "image": "https://i.scdn.co/image/ab67616d0000b273877e5f675b40cc1494c23e9b",
+      "track_url": "https://www.dropbox.com/scl/fi/djljaz9g5efrvtumdzf4o/01_-_Ewediny.mp3?rlkey=l3gr9ff04spefte8vq3p966qf&st=9g8dr97q&dl=1",
+      "popularity": 48
+    },
+    {
+      "id": "87",
+      "name": "Khodni Eleik",
+      "artist": "Mohamed Hamaki",
+      "album": "Kol Yom Men Dah",
+      "release_date": "2019-01-25",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e33e51cc66ef3d4f45f4e6c8",
+      "track_url": "https://www.dropbox.com/scl/fi/bw9grrbs1a269f6byzbnp/20._Khodni_Eleik.mp3?rlkey=jznup41l0gsbjo9ypxhgvr9us&st=k9f5j1n3&dl=1",
+      "popularity": 36
+    },
+    {
+      "id": "88",
+      "name": "Mawahashtkesh !!? - From Hormone El Saada Album",
+      "artist": "Tamer Hosny",
+      "album": "Mawahashtkesh !!?",
+      "release_date": "2024-01-09",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f2b95845993cb60442ce2f55",
+      "track_url": "https://www.dropbox.com/scl/fi/7frqhghbn4a8mrkkht7lz/song2.mp3?rlkey=rwtua91ecgt0sxoh0rqqxi40n&st=r7xgloet&dl=1",
+      "popularity": 45
+    },
+    {
+      "id": "89",
+      "name": "اصحى للكلام",
+      "artist": "Tamer Ashour",
+      "album": "اصحى للكلام",
+      "release_date": "2023-06-25",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731e5f0a8e2e6c65224c4b7658",
+      "track_url": "https://www.dropbox.com/scl/fi/za9aeptq3biqpe5xs82gj/Es7a-Lel-kallam.mp3?rlkey=5ycku0ne27xsgrxny31c7kt0e&st=qln1ebgi&dl=1",
+      "popularity": 37
+    },
+    {
+      "id": "90",
+      "name": "Gedida Lang",
+      "artist": "Mohamed Hamaki",
+      "album": "Gedida Lang",
+      "release_date": "2024-08-22",
+      "image": "https://i.scdn.co/image/ab67616d0000b27364c9060955b159f056c49e5b",
+      "track_url": "https://www.dropbox.com/scl/fi/4vm4w974hk1t0gmtkvi3s/08-Gedida.Lang-MaTb3aa.Com.mp3?rlkey=8jdslx1yz14nxmt4ugnv8t45m&st=iav4smk3&dl=1",
+      "popularity": 35
+    },
+    {
+      "id": "91",
+      "name": "مابتحصليش كتير",
+      "artist": "Ramy Sabry",
+      "album": "أنا جامد كده كده",
+      "release_date": "2024-08-14",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737d8b077945be6e3e4f2d9ea8",
+      "track_url": "https://www.dropbox.com/scl/fi/x3nw12pdzfvima4shgkzb/.mp3?rlkey=gi29strmg7rjvhvhudoclowss&st=e4o56uka&dl=1",
+      "popularity": 32
+    },
+    {
+      "id": "92",
+      "name": "Ya Bakhty Beh",
+      "artist": "Jannat",
+      "album": "Ya Bakhty Beh",
+      "release_date": "2022-11-07",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ad197adeab5d8a65441f3a5d",
+      "track_url": "https://www.dropbox.com/scl/fi/11q1s6qshdsp98iv3in7b/.mp3?rlkey=gdyydmxkjacnidzel85qgjamw&st=syvcij4m&dl=1",
+      "popularity": 33
+    },
+    {
+      "id": "93",
+      "name": "Enta Ekhtyar - From Bhabak Movie",
+      "artist": "Tamer Hosny",
+      "album": "بحبك (From Bhabak Movie)",
+      "release_date": "2023-01-30",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731c46ed81dbd3ffebb43e8ba3",
+      "track_url": "https://www.dropbox.com/scl/fi/drkdv1ozmfba62qyibjqa/song3.mp3?rlkey=tpxszopbzy7r84szcoprzhu2f&st=aybf87d6&dl=1",
+      "popularity": 51
+    },
+    {
+      "id": "94",
+      "name": "قلبى و روحى و عمرى",
+      "artist": "Mohamed Fouad",
+      "album": "قلبي وروحي وعمري",
+      "release_date": "1999-02-10",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730a1eae77a7ea3cd9bca84da5",
+      "track_url": "https://www.dropbox.com/scl/fi/jr4phlk38bmob0aiz6u1p/03.Alby_W_Rohy_W_Omry.mp3?rlkey=vkako9u0pm0gk7q0v3r6o05st&st=uoa2mqon&dl=1",
+      "popularity": 36
+    },
+    {
+      "id": "95",
+      "name": "ياما ليالي وانت مش معايا",
+      "artist": "Sara Haitham",
+      "album": "ياما ليالي وانت مش معايا",
+      "release_date": "2024-08-12",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d1be8c18c3e7f460b505a76d",
+      "track_url": "https://www.dropbox.com/scl/fi/e7ue0pjqpu6skxxmcbg00/.mp3?rlkey=tl2sbrpkx8xshh66xkzltc759&st=qtvtlyc0&dl=1",
+      "popularity": 51
+    },
+    {
+      "id": "96",
+      "name": "قولى اه",
+      "artist": "Ramy Gamal",
+      "album": "خليني أشوفك",
+      "release_date": "2024-04-24",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e86cb10736a59a6235abe3e9",
+      "track_url": "https://www.dropbox.com/scl/fi/nair9ox55eav0etmkcx3f/Albumaty.Com_ramy_gmal_kwly_ah.mp3?rlkey=td6bji5d5cw6u8a7evzw0w0ba&st=cvpxdu6m&dl=1",
+      "popularity": 30
+    },
+    {
+      "id": "97",
+      "name": "Ya Nas",
+      "artist": "Mahmoud El Esseily",
+      "album": "Ya Nas",
+      "release_date": "2016-08-18",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c5f0a26ef570e674da06e6e6",
+      "track_url": "https://www.dropbox.com/scl/fi/5lz77avlviw992o1na761/.mp3?rlkey=qt8biev3rey11dnmotf10ew5h&st=jxusbsds&dl=1",
+      "popularity": 48
+    },
+    {
+      "id": "32",
+      "name": "كل وعد",
+      "artist": "Wael Jassar",
+      "album": "كل وعد",
+      "release_date": "2024-02-12",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731e1648c81c97e2ec8b8c12ad",
+      "track_url": "https://www.dropbox.com/scl/fi/27mf9yg0fo9yjbma57235/.mp3?rlkey=p9o1ri3badwmzjsuf6vdp6964&st=pvwgz2cb&dl=1",
+      "popularity": 58
+    },
+    {
+      "id": "98",
+      "name": "Amarain",
+      "artist": "Amr Diab",
+      "album": "Amarain",
+      "release_date": "1998-12-31",
+      "image": "https://i.scdn.co/image/ab67616d0000b27335f0ee93b7a038510fe0dad0",
+      "track_url": "https://www.dropbox.com/scl/fi/srgig7mkrwqrm0x5m4lme/01.Amarain.mp3?rlkey=cjxoblehcmxu86z5r78xtmjlo&st=2oribfxe&dl=1",
+      "popularity": 56
+    }
+  ]
+  

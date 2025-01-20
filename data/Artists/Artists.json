@@ -18,15 +18,15 @@
     "file_path": "artists_data\\Nancy_Ajram.json"
   },
   {
-    "id": "81",
-    "name": "Hamada Helal",
-    "image": "https://i.scdn.co/image/ab6761610000517416265796c86c0537438f17e4"
-  },
-  {
     "id": "4",
     "name": "Tamer Ashour",
     "image": "https://i.scdn.co/image/ab6761610000e5eb657b4b05e890595b0c91d99e",
     "file_path": "artists_data\\Tamer_Ashour.json"
+  },
+  {
+    "id": "81",
+    "name": "Hamada Helal",
+    "image": "https://i.scdn.co/image/ab6761610000517416265796c86c0537438f17e4"
   },
   {
     "id": "5",

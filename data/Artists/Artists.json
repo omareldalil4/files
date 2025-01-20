@@ -115,16 +115,16 @@
     "file_path": "artists_data\\Farid.json"
   },
   {
-    "id": "21",
-    "name": "Hakim",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb4a64c616124866952c71dcd3",
-    "file_path": "artists_data\\Hakim.json"
-  },
-  {
     "id": "20",
     "name": "Haifa Wehbe",
     "image": "https://i.scdn.co/image/ab6761610000e5eb59ab7a387638772bdc0b206e",
     "file_path": "artists_data\\Haifa_Wehba.json"
+  },
+  {
+    "id": "21",
+    "name": "Hakim",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb4a64c616124866952c71dcd3",
+    "file_path": "artists_data\\Hakim.json"
   },
   {
     "id": "22",

@@ -1,489 +1,489 @@
 [
-    {
-        "id": "1",
-        "name": "Amr Diab",
-        "image": "https://i.scdn.co/image/ab6761610000e5eb8a5d18b749217c6e6605bc6a",
-        "file_path": "/artists_data/Amr_Diab.json"
-    },
-    {
-        "id": "2",
-        "name": "Tamer Hosny",
-        "image": "https://i.scdn.co/image/ab6761610000e5eb7e96a37bf1bc63375b0e946d",
-        "file_path": "artists_data\\Tamer_Hosny.json"
-    },
-    {
-        "id": "3",
-        "name": "Nancy Ajram",
-        "image": "https://i.scdn.co/image/ab6761610000e5eb329752085651d60c507a862a",
-        "file_path": "artists_data\\Nancy_Ajram.json"
-    },
-    {
-        "id": "4",
-        "name": "Tamer Ashour",
-        "image": "https://i.scdn.co/image/ab6761610000e5eb657b4b05e890595b0c91d99e",
-        "file_path": "artists_data\\Tamer_Ashour.json"
-    },
-    {
-        "id": "5",
-        "name": "Sherine",
-        "image": "https://i.scdn.co/image/ab6761610000e5eb1fa228ebdfdbd596bfa1bd77",
-        "file_path": "artists_data\\Sherine.json"
-    },
-    {
-        "id": "6",
-        "name": "Ramy Gamal",
-        "image": "https://i.scdn.co/image/ab6761610000e5ebe6f54bd6b2dc38363c8f9448",
-        "file_path": "artists_data\\Ramy_Gamal.json"
-    },
-    {
-        "id": "7",
-        "name": "Ramy Sabry",
-        "image": "https://i.scdn.co/image/ab6761610000e5eb699e60132a156c56ec2a2387",
-        "file_path": "artists_data\\Ramy_Sabry.json"
-    },
-    {
-        "id": "8",
-        "name": "Mohamed Fouad",
-        "image": "https://i.scdn.co/image/ab6761610000e5ebc5b5c63723bbdd92f99e5a5b",
-        "file_path": "artists_data\\Mohamed_Fouad.json"
-    },
-    {
-        "id": "9",
-        "name": "Mohamed Hamaki",
-        "image": "https://i.scdn.co/image/ab6761610000e5eb400700c316395513ac8231a4",
-        "file_path": "artists_data\\Mohamed_Hamaki.json"
-    },
-    {
-        "id": "10",
-        "name": "Bahaa Sultan",
-        "image": "https://i.scdn.co/image/ab6761610000e5eb0be95f3a807328147536bf67",
-        "file_path": "artists_data\\Bahaa_Sultan.json"
-    },
-    {
-        "id": "11",
-        "name": "Mohamed Ramadan",
-        "image": "https://i.scdn.co/image/ab6761610000e5eb13f802da9f8b045baf963666",
-        "file_path": "artists_data\\Mohamed_Ramadan.json"
-    },
-    {
-        "id": "12",
-        "name": "Amr Mostafa",
-        "image": "https://i.scdn.co/image/ab6761610000e5eb2049291657b5f053cb32e4a1",
-        "file_path": "artists_data\\Amr_Mostafa.json"
-    },
-    {
-        "id": "13",
-        "name": "Angham",
-        "image": "https://i.scdn.co/image/ab6761610000e5eb99f39839e4f023fbf33d45e1",
-        "file_path": "artists_data\\Angham.json"
-    },
-    {
-        "id": "14",
-        "name": "Assala Nasri",
-        "image": "https://i.scdn.co/image/ab6761610000e5eb8277d8746def29edc194708f",
-        "file_path": "artists_data\\Assala_Nasri.json"
-    },
-    {
-        "id": "81",
-        "name": "Bassma Boussel",
-        "image": "https://i.scdn.co/image/ab6761610000e5ebbf1c3f926641cf86205f9e49",
-        "page_url": "https://your-music-site.com/artist/bassma-boussel",
-        "popularity": 21
-    },
-    {
-        "id": "15",
-        "name": "Ali El Haggar",
-        "image": "https://i.scdn.co/image/ab67616d0000b27365bcb55dc837d1c9f4a31b73",
-        "file_path": "artists_data\\Ali_El_Haggar.json"
-    },
-    {
-        "id": "16",
-        "name": "AL SHAMI",
-        "image": "https://i.scdn.co/image/ab6761610000e5ebaef182ebd76b75026ba361f0",
-        "file_path": "artists_data\\ALSHAMI.json"
-    },
-    {
-        "id": "17",
-        "name": "Amal Maher",
-        "image": "https://i.scdn.co/image/ab6761610000e5eb1d2fc017b1e73055c2826109",
-        "file_path": "artists_data\\Amal_Maher.json"
-    },
-    {
-        "id": "18",
-        "name": "Aziz Maraka",
-        "image": "https://i.scdn.co/image/ab6761610000e5eb52671f5df90efe724d48f265",
-        "file_path": "artists_data\\Aziz_Maraka.json"
-    },
-    {
-        "id": "19",
-        "name": "Farid",
-        "image": "https://i.scdn.co/image/ab6761610000e5eb8e7a326d34965bfbe24a26f3",
-        "file_path": "artists_data\\Farid.json"
-    },
-    {
-        "id": "20",
-        "name": "Haifa Wehbe",
-        "image": "https://i.scdn.co/image/ab6761610000e5eb59ab7a387638772bdc0b206e",
-        "file_path": "artists_data\\Haifa_Wehba.json"
-    },
-    {
-        "id": "21",
-        "name": "Hakim",
-        "image": "https://i.scdn.co/image/ab6761610000e5eb4a64c616124866952c71dcd3",
-        "file_path": "artists_data\\Hakim.json"
-    },
-    {
-        "id": "22",
-        "name": "George Wassouf",
-        "image": "https://i.scdn.co/image/ab6761610000e5eb2ed5c0484adbed6ce08db985",
-        "file_path": "artists_data\\George_Wassouf.json"
-    },
-    {
-        "id": "23",
-        "name": "Abdelbaset Hamouda",
-        "image": "https://i.scdn.co/image/ab67616d0000b273d39f6009589a575600a53adc",
-        "file_path": "artists_data\\Abdelbaset_Hamouda.json"
-    },
-    {
-        "id": "24",
-        "name": "Muslim - مُسلِم",
-        "image": "https://i.scdn.co/image/ab6761610000e5eb03ed049216ad8cc3047a6d03",
-        "file_path": "artists_data\\Muslim.json"
-    },
-    {
-        "id": "25",
-        "name": "Nabil",
-        "image": "https://i.scdn.co/image/ab6761610000e5ebc1c966b8c27f036405a693bb",
-        "file_path": "artists_data\\Nabil.json"
-    },
-    {
-        "id": "26",
-        "name": "Afroto",
-        "image": "https://i.scdn.co/image/ab6761610000e5ebde9edeca3acfbbd7b84d56fe",
-        "file_path": "artists_data\\Afroto.json"
-    },
-    {
-        "id": "27",
-        "name": "Ahmed Saad",
-        "image": "https://i.scdn.co/image/ab6761610000e5eb68a0d5e76ae47f5e8850baea",
-        "file_path": "artists_data\\Ahmed_Saad.json"
-    },
-    {
-        "id": "28",
-        "name": "Ahmed Adaweya",
-        "image": "https://i.scdn.co/image/ab67616d0000b27380a998fd93491d1c7e4825c5",
-        "file_path": "artists_data\\Ahmed_Adaweya.json"
-    },
-    {
-        "id": "29",
-        "name": "Amir Eid",
-        "image": "https://i.scdn.co/image/ab6761610000e5eb70416d32c0fbbc5dc953df8c",
-        "file_path": "artists_data\\Amir_Eid.json"
-    },
-    {
-        "id": "30",
-        "name": "Ahmed Sheba",
-        "image": "https://i.scdn.co/image/ab6761610000e5eb419a6b817c5be9fdcac25b93",
-        "file_path": "artists_data\\Ahmed_Sheba.json"
-    },
-    {
-        "id": "31",
-        "name": "Pousi",
-        "image": "https://i.scdn.co/image/ab6761610000e5eb75fbd8d3eb6b3aaa4a70f5ac",
-        "file_path": "artists_data\\Bosy.json"
-    },
-    {
-        "id": "32",
-        "name": "Cairokee",
-        "image": "https://i.scdn.co/image/ab6761610000e5eb031d0209d9cb8abbc0505769",
-        "file_path": "artists_data\\Cairokee.json"
-    },
-    {
-        "id": "33",
-        "name": "Carmen Soliman",
-        "image": "https://i.scdn.co/image/ab6761610000e5eb3b23270ac0311bd94329f445",
-        "file_path": "artists_data\\Carmen_Soliman.json"
-    },
-    {
-        "id": "34",
-        "name": "Carole Samaha",
-        "image": "https://i.scdn.co/image/ab6761610000e5eb27a056304bf726a48f73fa96",
-        "file_path": "artists_data\\Carole_Samaha.json"
-    },
-    {
-        "id": "35",
-        "name": "Diab",
-        "image": "https://i.scdn.co/image/ab67616d0000b27326705696b25ff4aee54a375a",
-        "file_path": "artists_data\\Diab.json"
-    },
-    {
-        "id": "36",
-        "name": "Donia Samir Ghanem",
-        "image": "https://i.scdn.co/image/ab67616d0000b273942f755e65ef2ebe7670e36a",
-        "file_path": "artists_data\\Donia_Samir_Ghanem.json"
-    },
-    {
-        "id": "37",
-        "name": "Elissa",
-        "image": "https://i.scdn.co/image/ab6761610000e5ebb9e4f4dc02996d2b6f1749cd",
-        "file_path": "artists_data\\Elissa.json"
-    },
-    {
-        "id": "38",
-        "name": "Hamza Namira",
-        "image": "https://i.scdn.co/image/ab6761610000e5ebe29a2105931492a5d4bcdb5f",
-        "file_path": "artists_data\\Hamza_Namira.json"
-    },
-    {
-        "id": "39",
-        "name": "Hussain Aljassmi",
-        "image": "https://i.scdn.co/image/ab6761610000e5eb34181c034bf343108f1b4de8",
-        "file_path": "artists_data\\Hussain_Aljassmi.json"
-    },
-    {
-        "id": "40",
-        "name": "Jannat",
-        "image": "https://i.scdn.co/image/ab67616d0000b2738b58f14eee38636f8bfd622f",
-        "file_path": "artists_data\\Jannat.json"
-    },
-    {
-        "id": "41",
-        "name": "Kadim Al Sahir",
-        "image": "https://i.scdn.co/image/ab6761610000e5eb83af4d8f4730d6653220711a",
-        "file_path": "artists_data\\Kadim_Al_Sahir.json"
-    },
-    {
-        "id": "42",
-        "name": "Loai",
-        "image": "https://i.scdn.co/image/ab67616d0000b273b387feb33f26122076768b83",
-        "file_path": "artists_data\\Loai.json"
-    },
-    {
-        "id": "43",
-        "name": "Maha Ftouni",
-        "image": "https://i.scdn.co/image/ab6761610000e5eb2ffb809cfee7be676dcdc212",
-        "file_path": "artists_data\\Maha_Ftouni.json"
-    },
-    {
-        "id": "44",
-        "name": "Mahmoud El Esseily",
-        "image": "https://i.scdn.co/image/ab6761610000e5eb8db1d08915ef27c4655b9081",
-        "file_path": "artists_data\\Mahmoud_El_Esseily.json"
-    },
-    {
-        "id": "45",
-        "name": "Mahmoud El Leithy",
-        "image": "https://i.scdn.co/image/ab6761610000e5eb1b412c00e4c7362ce6280276",
-        "file_path": "artists_data\\Mahmoud_El_Leithy.json"
-    },
-    {
-        "id": "46",
-        "name": "Medhat Saleh",
-        "image": "https://i.scdn.co/image/ab6761610000e5eb8538e5b8d0a230eb08261b21",
-        "file_path": "artists_data\\Medhat_Saleh.json"
-    },
-    {
-        "id": "47",
-        "name": "Mohamed Mohie",
-        "image": "https://i.scdn.co/image/ab67616d0000b2732a2920a1649a982ff99d29a2",
-        "file_path": "artists_data\\Mohamed_Mohie.json"
-    },
-    {
-        "id": "48",
-        "name": "Mohammed Saeed",
-        "image": "https://i.scdn.co/image/ab6761610000e5eb9fa60f01bc337ec62951610b",
-        "file_path": "artists_data\\Mohammed_Saeed.json"
-    },
-    {
-        "id": "49",
-        "name": "Moustafa Amar",
-        "image": "https://i.scdn.co/image/ab67616d0000b273fb0adfe61e12cb63a9530ab5",
-        "file_path": "artists_data\\Moustafa_Amar.json"
-    },
-    {
-        "id": "50",
-        "name": "Moustafa Hagag",
-        "image": "https://i.scdn.co/image/ab6761610000e5ebdfd6bed62c64b1cfd671304b",
-        "file_path": "artists_data\\Moustafa_Hagag.json"
-    },
-    {
-        "id": "51",
-        "name": "Sharnouby",
-        "image": "https://i.scdn.co/image/ab6761610000e5eb3aec43ce6f7a5873e6b7a3d2",
-        "file_path": "artists_data\\Sharnouby.json"
-    },
-    {
-        "id": "52",
-        "name": "siilawy",
-        "image": "https://i.scdn.co/image/ab6761610000e5eb42171716e9dec3f33428a38a",
-        "file_path": "artists_data\\Siilawy.json"
-    },
-    {
-        "id": "53",
-        "name": "TUL8TE",
-        "image": "https://i.scdn.co/image/ab6761610000e5eb5f10cea1a442c10f5d970e11",
-        "file_path": "artists_data\\TUL8TE.json"
-    },
-    {
-        "id": "54",
-        "name": "Wegz",
-        "image": "https://i.scdn.co/image/ab6761610000e5eb185a8c7cf90489ccd67cc501",
-        "file_path": "artists_data\\Wegz.json"
-    },
-    {
-        "id": "55",
-        "name": "Ruby",
-        "image": "https://i.scdn.co/image/ab67616d0000b273dbdf708a2eb203816ed14c6d",
-        "file_path": "artists_data\\Ruby.json"
-    },
-    {
-        "id": "56",
-        "name": "Saad Lamjarred",
-        "image": "https://i.scdn.co/image/ab6761610000e5eb0532e56a22ca30b2b785455d",
-        "file_path": "artists_data\\Saad_Lamjarred.json"
-    },
-    {
-        "id": "57",
-        "name": "Ragheb Alama",
-        "image": "https://i.scdn.co/image/ab6761610000e5eb4b03c0f150304a3472292952",
-        "file_path": "artists_data\\Ragheb_Alama.json"
-    },
-    {
-        "id": "58",
-        "name": "Reda El Bahrawy",
-        "image": "https://i.scdn.co/image/ab67616d0000b27341286211fc428973354ebef8",
-        "file_path": "artists_data\\Reda_El_Bahrawy.json"
-    },
-    {
-        "id": "59",
-        "name": "Abdulrahman Mohammed",
-        "image": "https://i.scdn.co/image/ab6761610000e5ebeba526c6baf79e6497e9e6cc",
-        "file_path": "artists_data\\عبد_الرحمن_محمد.json"
-    },
-    {
-        "id": "60",
-        "name": "Nawal",
-        "image": "https://i.scdn.co/image/ab6761610000e5ebd8670549c746ad0515a9d896",
-        "file_path": "artists_data\\Nawal.json"
-    },
-    {
-        "id": "61",
-        "name": "Nedaa Shrara",
-        "image": "https://i.scdn.co/image/ab6761610000e5eb15cc02f4240857ae044e2a25",
-        "file_path": "artists_data\\Nedaa_Shrara.json"
-    },
-    {
-        "id": "62",
-        "name": "Omar Kamal",
-        "image": "https://i.scdn.co/image/ab6761610000e5eb7db872393d6b517ec12d248f",
-        "file_path": "artists_data\\Omar_Kamal.json"
-    },
-    {
-        "id": "63",
-        "name": "Wael Jassar",
-        "image": "https://i.scdn.co/image/ab6761610000e5eb3b1d143f808198419fac2e90",
-        "file_path": "artists_data\\Wael_Jassar.json"
-    },
-    {
-        "id": "64",
-        "name": "Wama",
-        "image": "https://i.scdn.co/image/ab6761610000e5eb03bc66cc66be68a570b2a6dc",
-        "file_path": "artists_data\\Wama.json"
-    },
-    {
-        "id": "65",
-        "name": "Zainab Hassan",
-        "image": "https://i.scdn.co/image/ab67616d0000b27327b673d7b65cc20f38bfd582",
-        "file_path": "artists_data\\Zainab_Hassan.json"
-    },
-    {
-        "id": "66",
-        "name": "Ziad Bourji",
-        "image": "https://i.scdn.co/image/ab6761610000e5eb8b2359ec4c44592f76796ddc",
-        "file_path": "artists_data\\Ziad_Bourji.json"
-    },
-    {
-        "id": "67",
-        "name": "Mohamed Adaweya",
-        "image": "https://i.scdn.co/image/ab67616d0000b2731f788e4d0949107b269eaa1d",
-        "file_path": "artists_data\\Mohamed_Adaweya.json"
-    },
-    {
-        "id": "68",
-        "name": "Majid Almohandis",
-        "image": "https://i.scdn.co/image/ab6761610000e5eb9c16359848260ee1068259d3",
-        "file_path": "artists_data\\Majid_Almohandis.json"
-    },
-    {
-        "id": "69",
-        "name": "Eslam Kabonga",
-        "image": "https://i.scdn.co/image/ab67616d0000b2739e0dc9036c0b6dd32315d722",
-        "file_path": "artists_data\\Eslam_Kabonga.json"
-    },
-    {
-        "id": "70",
-        "name": "Essam Sasa",
-        "image": "https://i.scdn.co/image/ab6761610000e5ebafd4138e95a69a71b0bdb694",
-        "file_path": "artists_data\\Essam_Sasa.json"
-    },
-    {
-        "id": "71",
-        "name": "Hamo Bika",
-        "image": "https://i.scdn.co/image/ab67616d0000b273b05d25612a2cb3119a93beac",
-        "file_path": "artists_data\\Hamo_Bika.json"
-    },
-    {
-        "id": "72",
-        "name": "Hassan Shakosh",
-        "image": "https://i.scdn.co/image/ab6761610000e5eb15d262f668e9dd1b95ccae92",
-        "file_path": "artists_data\\Hassan_Shakosh.json"
-    },
-    {
-        "id": "73",
-        "name": "Abdel Halim Hafez",
-        "image": "https://i.scdn.co/image/ab6761610000e5eb8a09ed6b6710081bace4da41",
-        "file_path": "artists_data\\AbdelHalim_Hafez.json"
-    },
-    {
-        "id": "74",
-        "name": "Fairuz",
-        "image": "https://i.scdn.co/image/ab6761610000e5eb63b2323e94f912f0f7be4051",
-        "file_path": "artists_data\\Fairuz.json"
-    },
-    {
-        "id": "75",
-        "name": "Mayada El Hennawy",
-        "image": "https://i.scdn.co/image/ab6761610000e5eb2850c29e72e46351fe478e1e",
-        "file_path": "artists_data\\Mayada_El_Hennawy.json"
-    },
-    {
-        "id": "76",
-        "name": "Najat Al Saghira",
-        "image": "https://i.scdn.co/image/ab6761610000e5eb975b66b78c351b9d00b0268a",
-        "file_path": "artists_data\\Najat_Al_Saghira.json"
-    },
-    {
-        "id": "77",
-        "name": "Sabah",
-        "image": "https://i.scdn.co/image/ab6761610000e5ebd493d9b05eaabb3f09434618",
-        "file_path": "artists_data\\Sabah.json"
-    },
-    {
-        "id": "78",
-        "name": "Umm Kulthum",
-        "image": "https://i.scdn.co/image/ab6761610000e5eb895248b93b865058f3ce1e58",
-        "file_path": "artists_data\\Umm_Kulthum.json"
-    },
-    {
-        "id": "79",
-        "name": "Warda",
-        "image": "https://i.scdn.co/image/ab6761610000e5eb949ffbefedf6fdf8b88cbe47",
-        "file_path": "artists_data\\Warda.json"
-    },
-    {
-        "id": "80",
-        "name": "Faia Younan",
-        "image": "https://i.scdn.co/image/ab6761610000e5ebdc440f3467015afe9b6a364f",
-        "file_path": "artists_data\\faia.json"
-    }
+  {
+    "id": "1",
+    "name": "Amr Diab",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb8a5d18b749217c6e6605bc6a",
+    "file_path": "/artists_data/Amr_Diab.json"
+  },
+  {
+    "id": "2",
+    "name": "Tamer Hosny",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb7e96a37bf1bc63375b0e946d",
+    "file_path": "artists_data\\Tamer_Hosny.json"
+  },
+  {
+    "id": "3",
+    "name": "Nancy Ajram",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb329752085651d60c507a862a",
+    "file_path": "artists_data\\Nancy_Ajram.json"
+  },
+  {
+    "id": "4",
+    "name": "Tamer Ashour",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb657b4b05e890595b0c91d99e",
+    "file_path": "artists_data\\Tamer_Ashour.json"
+  },
+  {
+    "id": "5",
+    "name": "Sherine",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb1fa228ebdfdbd596bfa1bd77",
+    "file_path": "artists_data\\Sherine.json"
+  },
+  {
+    "id": "6",
+    "name": "Ramy Gamal",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebe6f54bd6b2dc38363c8f9448",
+    "file_path": "artists_data\\Ramy_Gamal.json"
+  },
+  {
+    "id": "7",
+    "name": "Ramy Sabry",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb699e60132a156c56ec2a2387",
+    "file_path": "artists_data\\Ramy_Sabry.json"
+  },
+  {
+    "id": "8",
+    "name": "Mohamed Fouad",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebc5b5c63723bbdd92f99e5a5b",
+    "file_path": "artists_data\\Mohamed_Fouad.json"
+  },
+  {
+    "id": "9",
+    "name": "Mohamed Hamaki",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb400700c316395513ac8231a4",
+    "file_path": "artists_data\\Mohamed_Hamaki.json"
+  },
+  {
+    "id": "10",
+    "name": "Bahaa Sultan",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb0be95f3a807328147536bf67",
+    "file_path": "artists_data\\Bahaa_Sultan.json"
+  },
+  {
+    "id": "11",
+    "name": "Mohamed Ramadan",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb13f802da9f8b045baf963666",
+    "file_path": "artists_data\\Mohamed_Ramadan.json"
+  },
+  {
+    "id": "12",
+    "name": "Amr Mostafa",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb2049291657b5f053cb32e4a1",
+    "file_path": "artists_data\\Amr_Mostafa.json"
+  },
+  {
+    "id": "13",
+    "name": "Angham",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb99f39839e4f023fbf33d45e1",
+    "file_path": "artists_data\\Angham.json"
+  },
+  {
+    "id": "14",
+    "name": "Assala Nasri",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb8277d8746def29edc194708f",
+    "file_path": "artists_data\\Assala_Nasri.json"
+  },
+  {
+    "id": "81",
+    "name": "Bassma Boussel",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebbf1c3f926641cf86205f9e49",
+    "page_url": "https://your-music-site.com/artist/bassma-boussel",
+    "popularity": 21
+  },
+  {
+    "id": "15",
+    "name": "Ali El Haggar",
+    "image": "https://i.scdn.co/image/ab67616d0000b27365bcb55dc837d1c9f4a31b73",
+    "file_path": "artists_data\\Ali_El_Haggar.json"
+  },
+  {
+    "id": "16",
+    "name": "AL SHAMI",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebaef182ebd76b75026ba361f0",
+    "file_path": "artists_data\\ALSHAMI.json"
+  },
+  {
+    "id": "17",
+    "name": "Amal Maher",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb1d2fc017b1e73055c2826109",
+    "file_path": "artists_data\\Amal_Maher.json"
+  },
+  {
+    "id": "18",
+    "name": "Aziz Maraka",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb52671f5df90efe724d48f265",
+    "file_path": "artists_data\\Aziz_Maraka.json"
+  },
+  {
+    "id": "19",
+    "name": "Farid",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb8e7a326d34965bfbe24a26f3",
+    "file_path": "artists_data\\Farid.json"
+  },
+  {
+    "id": "20",
+    "name": "Haifa Wehbe",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb59ab7a387638772bdc0b206e",
+    "file_path": "artists_data\\Haifa_Wehba.json"
+  },
+  {
+    "id": "21",
+    "name": "Hakim",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb4a64c616124866952c71dcd3",
+    "file_path": "artists_data\\Hakim.json"
+  },
+  {
+    "id": "22",
+    "name": "George Wassouf",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb2ed5c0484adbed6ce08db985",
+    "file_path": "artists_data\\George_Wassouf.json"
+  },
+  {
+    "id": "23",
+    "name": "Abdelbaset Hamouda",
+    "image": "https://i.scdn.co/image/ab67616d0000b273d39f6009589a575600a53adc",
+    "file_path": "artists_data\\Abdelbaset_Hamouda.json"
+  },
+  {
+    "id": "24",
+    "name": "Muslim - مُسلِم",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb03ed049216ad8cc3047a6d03",
+    "file_path": "artists_data\\Muslim.json"
+  },
+  {
+    "id": "25",
+    "name": "Nabil",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebc1c966b8c27f036405a693bb",
+    "file_path": "artists_data\\Nabil.json"
+  },
+  {
+    "id": "27",
+    "name": "Ahmed Saad",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb68a0d5e76ae47f5e8850baea",
+    "file_path": "artists_data\\Ahmed_Saad.json"
+  },
+  {
+    "id": "26",
+    "name": "Afroto",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebde9edeca3acfbbd7b84d56fe",
+    "file_path": "artists_data\\Afroto.json"
+  },
+  {
+    "id": "28",
+    "name": "Ahmed Adaweya",
+    "image": "https://i.scdn.co/image/ab67616d0000b27380a998fd93491d1c7e4825c5",
+    "file_path": "artists_data\\Ahmed_Adaweya.json"
+  },
+  {
+    "id": "29",
+    "name": "Amir Eid",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb70416d32c0fbbc5dc953df8c",
+    "file_path": "artists_data\\Amir_Eid.json"
+  },
+  {
+    "id": "30",
+    "name": "Ahmed Sheba",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb419a6b817c5be9fdcac25b93",
+    "file_path": "artists_data\\Ahmed_Sheba.json"
+  },
+  {
+    "id": "31",
+    "name": "Pousi",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb75fbd8d3eb6b3aaa4a70f5ac",
+    "file_path": "artists_data\\Bosy.json"
+  },
+  {
+    "id": "32",
+    "name": "Cairokee",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb031d0209d9cb8abbc0505769",
+    "file_path": "artists_data\\Cairokee.json"
+  },
+  {
+    "id": "33",
+    "name": "Carmen Soliman",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb3b23270ac0311bd94329f445",
+    "file_path": "artists_data\\Carmen_Soliman.json"
+  },
+  {
+    "id": "34",
+    "name": "Carole Samaha",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb27a056304bf726a48f73fa96",
+    "file_path": "artists_data\\Carole_Samaha.json"
+  },
+  {
+    "id": "35",
+    "name": "Diab",
+    "image": "https://i.scdn.co/image/ab67616d0000b27326705696b25ff4aee54a375a",
+    "file_path": "artists_data\\Diab.json"
+  },
+  {
+    "id": "36",
+    "name": "Donia Samir Ghanem",
+    "image": "https://i.scdn.co/image/ab67616d0000b273942f755e65ef2ebe7670e36a",
+    "file_path": "artists_data\\Donia_Samir_Ghanem.json"
+  },
+  {
+    "id": "37",
+    "name": "Elissa",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebb9e4f4dc02996d2b6f1749cd",
+    "file_path": "artists_data\\Elissa.json"
+  },
+  {
+    "id": "38",
+    "name": "Hamza Namira",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebe29a2105931492a5d4bcdb5f",
+    "file_path": "artists_data\\Hamza_Namira.json"
+  },
+  {
+    "id": "39",
+    "name": "Hussain Aljassmi",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb34181c034bf343108f1b4de8",
+    "file_path": "artists_data\\Hussain_Aljassmi.json"
+  },
+  {
+    "id": "40",
+    "name": "Jannat",
+    "image": "https://i.scdn.co/image/ab67616d0000b2738b58f14eee38636f8bfd622f",
+    "file_path": "artists_data\\Jannat.json"
+  },
+  {
+    "id": "41",
+    "name": "Kadim Al Sahir",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb83af4d8f4730d6653220711a",
+    "file_path": "artists_data\\Kadim_Al_Sahir.json"
+  },
+  {
+    "id": "42",
+    "name": "Loai",
+    "image": "https://i.scdn.co/image/ab67616d0000b273b387feb33f26122076768b83",
+    "file_path": "artists_data\\Loai.json"
+  },
+  {
+    "id": "43",
+    "name": "Maha Ftouni",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb2ffb809cfee7be676dcdc212",
+    "file_path": "artists_data\\Maha_Ftouni.json"
+  },
+  {
+    "id": "44",
+    "name": "Mahmoud El Esseily",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb8db1d08915ef27c4655b9081",
+    "file_path": "artists_data\\Mahmoud_El_Esseily.json"
+  },
+  {
+    "id": "45",
+    "name": "Mahmoud El Leithy",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb1b412c00e4c7362ce6280276",
+    "file_path": "artists_data\\Mahmoud_El_Leithy.json"
+  },
+  {
+    "id": "46",
+    "name": "Medhat Saleh",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb8538e5b8d0a230eb08261b21",
+    "file_path": "artists_data\\Medhat_Saleh.json"
+  },
+  {
+    "id": "47",
+    "name": "Mohamed Mohie",
+    "image": "https://i.scdn.co/image/ab67616d0000b2732a2920a1649a982ff99d29a2",
+    "file_path": "artists_data\\Mohamed_Mohie.json"
+  },
+  {
+    "id": "48",
+    "name": "Mohammed Saeed",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb9fa60f01bc337ec62951610b",
+    "file_path": "artists_data\\Mohammed_Saeed.json"
+  },
+  {
+    "id": "49",
+    "name": "Moustafa Amar",
+    "image": "https://i.scdn.co/image/ab67616d0000b273fb0adfe61e12cb63a9530ab5",
+    "file_path": "artists_data\\Moustafa_Amar.json"
+  },
+  {
+    "id": "50",
+    "name": "Moustafa Hagag",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebdfd6bed62c64b1cfd671304b",
+    "file_path": "artists_data\\Moustafa_Hagag.json"
+  },
+  {
+    "id": "51",
+    "name": "Sharnouby",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb3aec43ce6f7a5873e6b7a3d2",
+    "file_path": "artists_data\\Sharnouby.json"
+  },
+  {
+    "id": "52",
+    "name": "siilawy",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb42171716e9dec3f33428a38a",
+    "file_path": "artists_data\\Siilawy.json"
+  },
+  {
+    "id": "53",
+    "name": "TUL8TE",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb5f10cea1a442c10f5d970e11",
+    "file_path": "artists_data\\TUL8TE.json"
+  },
+  {
+    "id": "54",
+    "name": "Wegz",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb185a8c7cf90489ccd67cc501",
+    "file_path": "artists_data\\Wegz.json"
+  },
+  {
+    "id": "55",
+    "name": "Ruby",
+    "image": "https://i.scdn.co/image/ab67616d0000b273dbdf708a2eb203816ed14c6d",
+    "file_path": "artists_data\\Ruby.json"
+  },
+  {
+    "id": "56",
+    "name": "Saad Lamjarred",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb0532e56a22ca30b2b785455d",
+    "file_path": "artists_data\\Saad_Lamjarred.json"
+  },
+  {
+    "id": "57",
+    "name": "Ragheb Alama",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb4b03c0f150304a3472292952",
+    "file_path": "artists_data\\Ragheb_Alama.json"
+  },
+  {
+    "id": "58",
+    "name": "Reda El Bahrawy",
+    "image": "https://i.scdn.co/image/ab67616d0000b27341286211fc428973354ebef8",
+    "file_path": "artists_data\\Reda_El_Bahrawy.json"
+  },
+  {
+    "id": "59",
+    "name": "Abdulrahman Mohammed",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebeba526c6baf79e6497e9e6cc",
+    "file_path": "artists_data\\عبد_الرحمن_محمد.json"
+  },
+  {
+    "id": "60",
+    "name": "Nawal",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebd8670549c746ad0515a9d896",
+    "file_path": "artists_data\\Nawal.json"
+  },
+  {
+    "id": "61",
+    "name": "Nedaa Shrara",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb15cc02f4240857ae044e2a25",
+    "file_path": "artists_data\\Nedaa_Shrara.json"
+  },
+  {
+    "id": "62",
+    "name": "Omar Kamal",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb7db872393d6b517ec12d248f",
+    "file_path": "artists_data\\Omar_Kamal.json"
+  },
+  {
+    "id": "63",
+    "name": "Wael Jassar",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb3b1d143f808198419fac2e90",
+    "file_path": "artists_data\\Wael_Jassar.json"
+  },
+  {
+    "id": "64",
+    "name": "Wama",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb03bc66cc66be68a570b2a6dc",
+    "file_path": "artists_data\\Wama.json"
+  },
+  {
+    "id": "65",
+    "name": "Zainab Hassan",
+    "image": "https://i.scdn.co/image/ab67616d0000b27327b673d7b65cc20f38bfd582",
+    "file_path": "artists_data\\Zainab_Hassan.json"
+  },
+  {
+    "id": "66",
+    "name": "Ziad Bourji",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb8b2359ec4c44592f76796ddc",
+    "file_path": "artists_data\\Ziad_Bourji.json"
+  },
+  {
+    "id": "67",
+    "name": "Mohamed Adaweya",
+    "image": "https://i.scdn.co/image/ab67616d0000b2731f788e4d0949107b269eaa1d",
+    "file_path": "artists_data\\Mohamed_Adaweya.json"
+  },
+  {
+    "id": "68",
+    "name": "Majid Almohandis",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb9c16359848260ee1068259d3",
+    "file_path": "artists_data\\Majid_Almohandis.json"
+  },
+  {
+    "id": "69",
+    "name": "Eslam Kabonga",
+    "image": "https://i.scdn.co/image/ab67616d0000b2739e0dc9036c0b6dd32315d722",
+    "file_path": "artists_data\\Eslam_Kabonga.json"
+  },
+  {
+    "id": "70",
+    "name": "Essam Sasa",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebafd4138e95a69a71b0bdb694",
+    "file_path": "artists_data\\Essam_Sasa.json"
+  },
+  {
+    "id": "71",
+    "name": "Hamo Bika",
+    "image": "https://i.scdn.co/image/ab67616d0000b273b05d25612a2cb3119a93beac",
+    "file_path": "artists_data\\Hamo_Bika.json"
+  },
+  {
+    "id": "72",
+    "name": "Hassan Shakosh",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb15d262f668e9dd1b95ccae92",
+    "file_path": "artists_data\\Hassan_Shakosh.json"
+  },
+  {
+    "id": "73",
+    "name": "Abdel Halim Hafez",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb8a09ed6b6710081bace4da41",
+    "file_path": "artists_data\\AbdelHalim_Hafez.json"
+  },
+  {
+    "id": "74",
+    "name": "Fairuz",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb63b2323e94f912f0f7be4051",
+    "file_path": "artists_data\\Fairuz.json"
+  },
+  {
+    "id": "75",
+    "name": "Mayada El Hennawy",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb2850c29e72e46351fe478e1e",
+    "file_path": "artists_data\\Mayada_El_Hennawy.json"
+  },
+  {
+    "id": "76",
+    "name": "Najat Al Saghira",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb975b66b78c351b9d00b0268a",
+    "file_path": "artists_data\\Najat_Al_Saghira.json"
+  },
+  {
+    "id": "77",
+    "name": "Sabah",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebd493d9b05eaabb3f09434618",
+    "file_path": "artists_data\\Sabah.json"
+  },
+  {
+    "id": "78",
+    "name": "Umm Kulthum",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb895248b93b865058f3ce1e58",
+    "file_path": "artists_data\\Umm_Kulthum.json"
+  },
+  {
+    "id": "79",
+    "name": "Warda",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb949ffbefedf6fdf8b88cbe47",
+    "file_path": "artists_data\\Warda.json"
+  },
+  {
+    "id": "80",
+    "name": "Faia Younan",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebdc440f3467015afe9b6a364f",
+    "file_path": "artists_data\\faia.json"
+  }
 ]

@@ -156,16 +156,16 @@
     "file_path": "artists_data\\Ahmed_Saad.json"
   },
   {
-    "id": "18",
-    "name": "Aziz Maraka",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb52671f5df90efe724d48f265",
-    "file_path": "artists_data\\Aziz_Maraka.json"
-  },
-  {
     "id": "25",
     "name": "Nabil",
     "image": "https://i.scdn.co/image/ab6761610000e5ebc1c966b8c27f036405a693bb",
     "file_path": "artists_data\\Nabil.json"
+  },
+  {
+    "id": "18",
+    "name": "Aziz Maraka",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb52671f5df90efe724d48f265",
+    "file_path": "artists_data\\Aziz_Maraka.json"
   },
   {
     "id": "26",

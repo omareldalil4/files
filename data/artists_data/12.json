@@ -1,553 +1,545 @@
 {
-    "artist": {
-        "id": "2282",
-        "name": "Amr Mostafa",
-        "image": "https://i.scdn.co/image/ab6761610000e5eb2049291657b5f053cb32e4a1",
-        "background_image": "https://i.scdn.co/image/ab676161000051742049291657b5f053cb32e4a1"
+  "artist": {
+    "id": "2282",
+    "name": "Amr Mostafa",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb2049291657b5f053cb32e4a1",
+    "background_image": "https://i.scdn.co/image/ab676161000051742049291657b5f053cb32e4a1"
+  },
+  "albums": [
+    {
+      "name": "Malosh Zay",
+      "release_date": "2023-04-21",
+      "image": "https://i.scdn.co/image/ab67616d0000b27351063617b11110c71b6bf107",
+      "track_url": "https://open.spotify.com/album/7oLkw8eFG4CWj0t7EFRAGY",
+      "tracks": [
+        {
+          "name": "Tegi Tegi",
+          "track_url": "https://www.dropbox.com/scl/fi/wwmk9bdirkq57zzbu9hh8/01-Tegi.Tegi-MaTb3aa.Com.mp3?rlkey=ihfd2i0lvmjuow5meeo2h9htn&st=ikfx4m9g&dl=0",
+          "duration_ms": 233221,
+          "image": "https://i.scdn.co/image/ab67616d0000b27351063617b11110c71b6bf107",
+          "id": 2295,
+          "artist": "Amr Mostafa"
+        },
+        {
+          "name": "Malosh Zay",
+          "track_url": "https://www.dropbox.com/scl/fi/709x7d1sg6kco4qvh5qoa/02-Malosh.Zay-MaTb3aa.Com.mp3?rlkey=t4kyqrdchvon3heiw5w6hg0u0&st=7n3seti5&dl=0",
+          "duration_ms": 203494,
+          "image": "https://i.scdn.co/image/ab67616d0000b27351063617b11110c71b6bf107",
+          "id": 2296,
+          "artist": "Amr Mostafa"
+        },
+        {
+          "name": "Ahkilak Oddam",
+          "track_url": "https://www.dropbox.com/scl/fi/4dy4f952hxvoh0evlf1sx/03-Ahkilak.Oddam-MaTb3aa.Com.mp3?rlkey=t6mexwcjc78x4lgwp46s2hx1p&st=p70yk6zo&dl=0",
+          "duration_ms": 215945,
+          "image": "https://i.scdn.co/image/ab67616d0000b27351063617b11110c71b6bf107",
+          "id": 2297,
+          "artist": "Amr Mostafa"
+        },
+        {
+          "name": "Aysheen Belsora",
+          "track_url": "https://www.dropbox.com/scl/fi/6yo47c3fr2pb02r66s4gx/04-Aysheen.Belsora-MaTb3aa.Com.mp3?rlkey=fcez9ynanckzjc58z9z72tide&st=o3w9p3qm&dl=0",
+          "duration_ms": 201781,
+          "image": "https://i.scdn.co/image/ab67616d0000b27351063617b11110c71b6bf107",
+          "id": 2298,
+          "artist": "Amr Mostafa"
+        },
+        {
+          "name": "Kan Ando Hak",
+          "track_url": "https://www.dropbox.com/scl/fi/pr7z9pz1pqla79ppl9qgd/05-Kan.Ando.Hak-MaTb3aa.Com.mp3?rlkey=b30at33s3roa24su1ja9nurlm&st=9pz9nzto&dl=0",
+          "duration_ms": 241069,
+          "image": "https://i.scdn.co/image/ab67616d0000b27351063617b11110c71b6bf107",
+          "id": 2299,
+          "artist": "Amr Mostafa"
+        },
+        {
+          "name": "Gherak Meen",
+          "track_url": "https://www.dropbox.com/scl/fi/lsoidyw6nrk3v2qxr34x4/06-Gherak.Meen-MaTb3aa.Com.mp3?rlkey=bms0jd8fv6av8hrifvpqhhofb&st=k6e0d8c6&dl=0",
+          "duration_ms": 246874,
+          "image": "https://i.scdn.co/image/ab67616d0000b27351063617b11110c71b6bf107",
+          "id": 2300,
+          "artist": "Amr Mostafa"
+        }
+      ],
+      "id": 2294
     },
-    "albums": [
+    {
+      "name": "Leiebt Maa'a El Assad",
+      "release_date": "2019-10-10",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e31b860eb51c9795be3496ce",
+      "track_url": "https://open.spotify.com/album/2mqjekrBeYy3dUV1EdOcnx",
+      "tracks": [
         {
-            "name": "Malosh Zay",
-            "release_date": "2023-04-21",
-            "image": "https://i.scdn.co/image/ab67616d0000b27351063617b11110c71b6bf107",
-            "track_url": "https://open.spotify.com/album/7oLkw8eFG4CWj0t7EFRAGY",
-            "tracks": [
-                {
-                    "name": "Tegi Tegi",
-                    "track_url": "https://www.dropbox.com/scl/fi/wwmk9bdirkq57zzbu9hh8/01-Tegi.Tegi-MaTb3aa.Com.mp3?rlkey=ihfd2i0lvmjuow5meeo2h9htn&st=ikfx4m9g&dl=0",
-                    "duration_ms": 233221,
-                    "image": "https://i.scdn.co/image/ab67616d0000b27351063617b11110c71b6bf107",
-                    "id": 2295,
-                    "artist": "Amr Mostafa"
-                },
-                {
-                    "name": "Malosh Zay",
-                    "track_url": "https://www.dropbox.com/scl/fi/709x7d1sg6kco4qvh5qoa/02-Malosh.Zay-MaTb3aa.Com.mp3?rlkey=t4kyqrdchvon3heiw5w6hg0u0&st=7n3seti5&dl=0",
-                    "duration_ms": 203494,
-                    "image": "https://i.scdn.co/image/ab67616d0000b27351063617b11110c71b6bf107",
-                    "id": 2296,
-                    "artist": "Amr Mostafa"
-                },
-                {
-                    "name": "Ahkilak Oddam",
-                    "track_url": "https://www.dropbox.com/scl/fi/4dy4f952hxvoh0evlf1sx/03-Ahkilak.Oddam-MaTb3aa.Com.mp3?rlkey=t6mexwcjc78x4lgwp46s2hx1p&st=p70yk6zo&dl=0",
-                    "duration_ms": 215945,
-                    "image": "https://i.scdn.co/image/ab67616d0000b27351063617b11110c71b6bf107",
-                    "id": 2297,
-                    "artist": "Amr Mostafa"
-                },
-                {
-                    "name": "Aysheen Belsora",
-                    "track_url": "https://www.dropbox.com/scl/fi/6yo47c3fr2pb02r66s4gx/04-Aysheen.Belsora-MaTb3aa.Com.mp3?rlkey=fcez9ynanckzjc58z9z72tide&st=o3w9p3qm&dl=0",
-                    "duration_ms": 201781,
-                    "image": "https://i.scdn.co/image/ab67616d0000b27351063617b11110c71b6bf107",
-                    "id": 2298,
-                    "artist": "Amr Mostafa"
-                },
-                {
-                    "name": "Kan Ando Hak",
-                    "track_url": "https://www.dropbox.com/scl/fi/pr7z9pz1pqla79ppl9qgd/05-Kan.Ando.Hak-MaTb3aa.Com.mp3?rlkey=b30at33s3roa24su1ja9nurlm&st=9pz9nzto&dl=0",
-                    "duration_ms": 241069,
-                    "image": "https://i.scdn.co/image/ab67616d0000b27351063617b11110c71b6bf107",
-                    "id": 2299,
-                    "artist": "Amr Mostafa"
-                },
-                {
-                    "name": "Gherak Meen",
-                    "track_url": "https://www.dropbox.com/scl/fi/lsoidyw6nrk3v2qxr34x4/06-Gherak.Meen-MaTb3aa.Com.mp3?rlkey=bms0jd8fv6av8hrifvpqhhofb&st=k6e0d8c6&dl=0",
-                    "duration_ms": 246874,
-                    "image": "https://i.scdn.co/image/ab67616d0000b27351063617b11110c71b6bf107",
-                    "id": 2300,
-                    "artist": "Amr Mostafa"
-                }
-            ],
-            "id": 2294
+          "name": "Hatewhashna",
+          "track_url": "",
+          "duration_ms": 165937,
+          "image": "https://i.scdn.co/image/ab67616d0000b273e31b860eb51c9795be3496ce",
+          "id": 2284,
+          "artist": "Amr Mostafa"
         },
         {
-            "name": "Leiebt Maa'a El Assad",
-            "release_date": "2019-10-10",
-            "image": "https://i.scdn.co/image/ab67616d0000b273e31b860eb51c9795be3496ce",
-            "track_url": "https://open.spotify.com/album/2mqjekrBeYy3dUV1EdOcnx",
-            "tracks": [
-                {
-                    "name": "Hatewhashna",
-                    "track_url": "",
-                    "duration_ms": 165937,
-                    "image": "https://i.scdn.co/image/ab67616d0000b273e31b860eb51c9795be3496ce",
-                    "id": 2284,
-                    "artist": "Amr Mostafa"
-                },
-                {
-                    "name": "Salma",
-                    "track_url": "",
-                    "duration_ms": 171428,
-                    "image": "https://i.scdn.co/image/ab67616d0000b273e31b860eb51c9795be3496ce",
-                    "id": 2285,
-                    "artist": "Amr Mostafa"
-                },
-                {
-                    "name": "Esmaa El Kalam",
-                    "track_url": "",
-                    "duration_ms": 153337,
-                    "image": "https://i.scdn.co/image/ab67616d0000b273e31b860eb51c9795be3496ce",
-                    "id": 2286,
-                    "artist": "Amr Mostafa"
-                },
-                {
-                    "name": "Ghadara",
-                    "track_url": "",
-                    "duration_ms": 187031,
-                    "image": "https://i.scdn.co/image/ab67616d0000b273e31b860eb51c9795be3496ce",
-                    "id": 2287,
-                    "artist": "Amr Mostafa"
-                },
-                {
-                    "name": "Ostoura",
-                    "track_url": "",
-                    "duration_ms": 161454,
-                    "image": "https://i.scdn.co/image/ab67616d0000b273e31b860eb51c9795be3496ce",
-                    "id": 2288,
-                    "artist": "Amr Mostafa"
-                },
-                {
-                    "name": "Mafesh Ghery",
-                    "track_url": "",
-                    "duration_ms": 140689,
-                    "image": "https://i.scdn.co/image/ab67616d0000b273e31b860eb51c9795be3496ce",
-                    "id": 2289,
-                    "artist": "Amr Mostafa"
-                },
-                {
-                    "name": "Asseeb Matsabsh",
-                    "track_url": "",
-                    "duration_ms": 135494,
-                    "image": "https://i.scdn.co/image/ab67616d0000b273e31b860eb51c9795be3496ce",
-                    "id": 2290,
-                    "artist": "Amr Mostafa"
-                },
-                {
-                    "name": "Maihemniesh",
-                    "track_url": "",
-                    "duration_ms": 258344,
-                    "image": "https://i.scdn.co/image/ab67616d0000b273e31b860eb51c9795be3496ce",
-                    "id": 2291,
-                    "artist": "Amr Mostafa"
-                },
-                {
-                    "name": "Gahda",
-                    "track_url": "",
-                    "duration_ms": 118064,
-                    "image": "https://i.scdn.co/image/ab67616d0000b273e31b860eb51c9795be3496ce",
-                    "id": 2292,
-                    "artist": "Amr Mostafa"
-                },
-                {
-                    "name": "Leiebt Maa'a El Assad",
-                    "track_url": "",
-                    "duration_ms": 171428,
-                    "image": "https://i.scdn.co/image/ab67616d0000b273e31b860eb51c9795be3496ce",
-                    "id": 2293,
-                    "artist": "Amr Mostafa"
-                }
-            ],
-            "id": 2283
+          "name": "Salma",
+          "track_url": "",
+          "duration_ms": 171428,
+          "image": "https://i.scdn.co/image/ab67616d0000b273e31b860eb51c9795be3496ce",
+          "id": 2285,
+          "artist": "Amr Mostafa"
         },
         {
-            "name": "Ayamy",
-            "release_date": "2007-01-01",
-            "image": "https://i.scdn.co/image/ab67616d0000b2737eb945de17ed7cb45e9a0906",
-            "track_url": "https://open.spotify.com/album/3JMzFom0BGg3PxUgdSS4WH",
-            "tracks": [
-                {
-                    "name": "Ala Eideik",
-                    "track_url": "",
-                    "duration_ms": 233213,
-                    "image": "https://i.scdn.co/image/ab67616d0000b2737eb945de17ed7cb45e9a0906",
-                    "id": 2308,
-                    "artist": "Amr Mostafa"
-                },
-                {
-                    "name": "Ayamy",
-                    "track_url": "",
-                    "duration_ms": 203520,
-                    "image": "https://i.scdn.co/image/ab67616d0000b2737eb945de17ed7cb45e9a0906",
-                    "id": 2309,
-                    "artist": "Amr Mostafa"
-                },
-                {
-                    "name": "Bartah Maak",
-                    "track_url": "",
-                    "duration_ms": 215893,
-                    "image": "https://i.scdn.co/image/ab67616d0000b2737eb945de17ed7cb45e9a0906",
-                    "id": 2310,
-                    "artist": "Amr Mostafa"
-                },
-                {
-                    "name": "Seeb el Waat Yeady",
-                    "track_url": "",
-                    "duration_ms": 201787,
-                    "image": "https://i.scdn.co/image/ab67616d0000b2737eb945de17ed7cb45e9a0906",
-                    "id": 2311,
-                    "artist": "Amr Mostafa"
-                },
-                {
-                    "name": "Ana Nseetek",
-                    "track_url": "",
-                    "duration_ms": 241080,
-                    "image": "https://i.scdn.co/image/ab67616d0000b2737eb945de17ed7cb45e9a0906",
-                    "id": 2312,
-                    "artist": "Amr Mostafa"
-                },
-                {
-                    "name": "Estana Maaya",
-                    "track_url": "",
-                    "duration_ms": 246880,
-                    "image": "https://i.scdn.co/image/ab67616d0000b2737eb945de17ed7cb45e9a0906",
-                    "id": 2313,
-                    "artist": "Amr Mostafa"
-                },
-                {
-                    "name": "Yady el Gheiba",
-                    "track_url": "",
-                    "duration_ms": 242520,
-                    "image": "https://i.scdn.co/image/ab67616d0000b2737eb945de17ed7cb45e9a0906",
-                    "id": 2314,
-                    "artist": "Amr Mostafa"
-                },
-                {
-                    "name": "Weih Yemnaa",
-                    "track_url": "",
-                    "duration_ms": 199053,
-                    "image": "https://i.scdn.co/image/ab67616d0000b2737eb945de17ed7cb45e9a0906",
-                    "id": 2315,
-                    "artist": "Amr Mostafa"
-                },
-                {
-                    "name": "Lamastak",
-                    "track_url": "",
-                    "duration_ms": 233213,
-                    "image": "https://i.scdn.co/image/ab67616d0000b2737eb945de17ed7cb45e9a0906",
-                    "id": 2316,
-                    "artist": "Amr Mostafa"
-                },
-                {
-                    "name": "Baheb Feik",
-                    "track_url": "",
-                    "duration_ms": 213160,
-                    "image": "https://i.scdn.co/image/ab67616d0000b2737eb945de17ed7cb45e9a0906",
-                    "id": 2317,
-                    "artist": "Amr Mostafa"
-                },
-                {
-                    "name": "Ayamy 2",
-                    "track_url": "",
-                    "duration_ms": 190267,
-                    "image": "https://i.scdn.co/image/ab67616d0000b2737eb945de17ed7cb45e9a0906",
-                    "id": 2318,
-                    "artist": "Amr Mostafa"
-                },
-                {
-                    "name": "Basmaa Kalam",
-                    "track_url": "",
-                    "duration_ms": 238573,
-                    "image": "https://i.scdn.co/image/ab67616d0000b2737eb945de17ed7cb45e9a0906",
-                    "id": 2319,
-                    "artist": "Amr Mostafa"
-                }
-            ],
-            "id": 2307
+          "name": "Esmaa El Kalam",
+          "track_url": "",
+          "duration_ms": 153337,
+          "image": "https://i.scdn.co/image/ab67616d0000b273e31b860eb51c9795be3496ce",
+          "id": 2286,
+          "artist": "Amr Mostafa"
+        },
+        {
+          "name": "Ghadara",
+          "track_url": "",
+          "duration_ms": 187031,
+          "image": "https://i.scdn.co/image/ab67616d0000b273e31b860eb51c9795be3496ce",
+          "id": 2287,
+          "artist": "Amr Mostafa"
+        },
+        {
+          "name": "Ostoura",
+          "track_url": "",
+          "duration_ms": 161454,
+          "image": "https://i.scdn.co/image/ab67616d0000b273e31b860eb51c9795be3496ce",
+          "id": 2288,
+          "artist": "Amr Mostafa"
+        },
+        {
+          "name": "Mafesh Ghery",
+          "track_url": "",
+          "duration_ms": 140689,
+          "image": "https://i.scdn.co/image/ab67616d0000b273e31b860eb51c9795be3496ce",
+          "id": 2289,
+          "artist": "Amr Mostafa"
+        },
+        {
+          "name": "Asseeb Matsabsh",
+          "track_url": "",
+          "duration_ms": 135494,
+          "image": "https://i.scdn.co/image/ab67616d0000b273e31b860eb51c9795be3496ce",
+          "id": 2290,
+          "artist": "Amr Mostafa"
+        },
+        {
+          "name": "Maihemniesh",
+          "track_url": "",
+          "duration_ms": 258344,
+          "image": "https://i.scdn.co/image/ab67616d0000b273e31b860eb51c9795be3496ce",
+          "id": 2291,
+          "artist": "Amr Mostafa"
+        },
+        {
+          "name": "Gahda",
+          "track_url": "",
+          "duration_ms": 118064,
+          "image": "https://i.scdn.co/image/ab67616d0000b273e31b860eb51c9795be3496ce",
+          "id": 2292,
+          "artist": "Amr Mostafa"
+        },
+        {
+          "name": "Leiebt Maa'a El Assad",
+          "track_url": "",
+          "duration_ms": 171428,
+          "image": "https://i.scdn.co/image/ab67616d0000b273e31b860eb51c9795be3496ce",
+          "id": 2293,
+          "artist": "Amr Mostafa"
         }
-    ],
-    "singles": [
+      ],
+      "id": 2283
+    },
+    {
+      "name": "Ayamy",
+      "release_date": "2007-01-01",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737eb945de17ed7cb45e9a0906",
+      "track_url": "https://open.spotify.com/album/3JMzFom0BGg3PxUgdSS4WH",
+      "tracks": [
         {
-            "name": "Aayesheen - Amr Mostafa عايشين - عمرو مصطفي",
-            "release_date": "2024-12-23",
-            "image": "https://i.scdn.co/image/ab67616d0000b2735e4d76e67485c49ee7fc79cc",
-            "track_url": "",
-            "id": 2320,
-            "artist": "Amr Mostafa"
+          "name": "Ala Eideik",
+          "track_url": "",
+          "duration_ms": 233213,
+          "image": "https://i.scdn.co/image/ab67616d0000b2737eb945de17ed7cb45e9a0906",
+          "id": 2308,
+          "artist": "Amr Mostafa"
         },
         {
-            "name": "Awla beya - أولي بيا",
-            "release_date": "2024-12-04",
-            "image": "https://i.scdn.co/image/ab67616d0000b273ef3141d219941341a2e678b5",
-            "track_url": "",
-            "id": 2321,
-            "artist": "Amr Mostafa"
+          "name": "Ayamy",
+          "track_url": "",
+          "duration_ms": 203520,
+          "image": "https://i.scdn.co/image/ab67616d0000b2737eb945de17ed7cb45e9a0906",
+          "id": 2309,
+          "artist": "Amr Mostafa"
         },
         {
-            "name": "معرفش ينساني Ma3refsh yensany",
-            "release_date": "2024-09-20",
-            "image": "https://i.scdn.co/image/ab67616d0000b27383d8e2c2dc980e92f56b842b",
-            "track_url": "",
-            "id": 2322,
-            "artist": "Amr Mostafa"
+          "name": "Bartah Maak",
+          "track_url": "",
+          "duration_ms": 215893,
+          "image": "https://i.scdn.co/image/ab67616d0000b2737eb945de17ed7cb45e9a0906",
+          "id": 2310,
+          "artist": "Amr Mostafa"
         },
         {
-            "name": "ليها فيا",
-            "release_date": "2024-07-18",
-            "image": "https://i.scdn.co/image/ab67616d0000b27325c7b8a0db71e773cf79ceb6",
-            "track_url": "",
-            "id": 2323,
-            "artist": "Amr Mostafa"
+          "name": "Seeb el Waat Yeady",
+          "track_url": "",
+          "duration_ms": 201787,
+          "image": "https://i.scdn.co/image/ab67616d0000b2737eb945de17ed7cb45e9a0906",
+          "id": 2311,
+          "artist": "Amr Mostafa"
         },
         {
-            "name": "Leah Feya",
-            "release_date": "2024-07-17",
-            "image": "https://i.scdn.co/image/ab67616d0000b273b910e21724b539caa39d513a",
-            "track_url": "",
-            "id": 2324,
-            "artist": "Amr Mostafa"
+          "name": "Ana Nseetek",
+          "track_url": "",
+          "duration_ms": 241080,
+          "image": "https://i.scdn.co/image/ab67616d0000b2737eb945de17ed7cb45e9a0906",
+          "id": 2312,
+          "artist": "Amr Mostafa"
         },
         {
-            "name": "Saybak سايبك",
-            "release_date": "2024-02-21",
-            "image": "https://i.scdn.co/image/ab67616d0000b2730fbe399ec10655e7abcc83b8",
-            "track_url": "",
-            "id": 2325,
-            "artist": "Amr Mostafa"
+          "name": "Estana Maaya",
+          "track_url": "",
+          "duration_ms": 246880,
+          "image": "https://i.scdn.co/image/ab67616d0000b2737eb945de17ed7cb45e9a0906",
+          "id": 2313,
+          "artist": "Amr Mostafa"
         },
         {
-            "name": "Mestaghni | مستغني",
-            "release_date": "2023-09-08",
-            "image": "https://i.scdn.co/image/ab67616d0000b2731b04469139fbdc3bc25d551b",
-            "track_url": "",
-            "id": 2326,
-            "artist": "Amr Mostafa"
+          "name": "Yady el Gheiba",
+          "track_url": "",
+          "duration_ms": 242520,
+          "image": "https://i.scdn.co/image/ab67616d0000b2737eb945de17ed7cb45e9a0906",
+          "id": 2314,
+          "artist": "Amr Mostafa"
         },
         {
-            "name": "Mai Farouk - Aftkerlak Aih | 2023 | مي فاروق - افتكرلك ايه",
-            "release_date": "2023-05-28",
-            "image": "https://i.scdn.co/image/ab67616d0000b2738a178522ee0a5f8687757f4a",
-            "track_url": "",
-            "id": 2327,
-            "artist": "Amr Mostafa"
+          "name": "Weih Yemnaa",
+          "track_url": "",
+          "duration_ms": 199053,
+          "image": "https://i.scdn.co/image/ab67616d0000b2737eb945de17ed7cb45e9a0906",
+          "id": 2315,
+          "artist": "Amr Mostafa"
         },
         {
-            "name": "Amr Mostafa - Malosh Zay | 2023 | عمرو مصطفى -مالوش زي",
-            "release_date": "2023-04-21",
-            "image": "https://i.scdn.co/image/ab67616d0000b27351063617b11110c71b6bf107",
-            "track_url": "",
-            "id": 2328,
-            "artist": "Amr Mostafa"
+          "name": "Lamastak",
+          "track_url": "",
+          "duration_ms": 233213,
+          "image": "https://i.scdn.co/image/ab67616d0000b2737eb945de17ed7cb45e9a0906",
+          "id": 2316,
+          "artist": "Amr Mostafa"
         },
         {
-            "name": "Omy El donya",
-            "release_date": "2023-03-21",
-            "image": "https://i.scdn.co/image/ab67616d0000b2737b5cb867370f12dc90de6109",
-            "track_url": "",
-            "id": 2329,
-            "artist": "Amr Mostafa"
+          "name": "Baheb Feik",
+          "track_url": "",
+          "duration_ms": 213160,
+          "image": "https://i.scdn.co/image/ab67616d0000b2737eb945de17ed7cb45e9a0906",
+          "id": 2317,
+          "artist": "Amr Mostafa"
         },
         {
-            "name": "Salam Salam",
-            "release_date": "2023-01-23",
-            "image": "https://i.scdn.co/image/ab67616d0000b2730fdafc122ef6dfc230a94deb",
-            "track_url": "",
-            "id": 2330,
-            "artist": "Amr Mostafa"
+          "name": "Ayamy 2",
+          "track_url": "",
+          "duration_ms": 190267,
+          "image": "https://i.scdn.co/image/ab67616d0000b2737eb945de17ed7cb45e9a0906",
+          "id": 2318,
+          "artist": "Amr Mostafa"
         },
         {
-            "name": "Ya Dayra",
-            "release_date": "2022-12-22",
-            "image": "https://i.scdn.co/image/ab67616d0000b273c3582b89672fc43520089a80",
-            "track_url": "",
-            "id": 2331,
-            "artist": "Amr Mostafa"
-        },
-        {
-            "name": "Ya Dayra (Message Song Version)",
-            "release_date": "2022-12-16",
-            "image": "https://i.scdn.co/image/ab67616d0000b273e962806d2200e7c1e8eaf643",
-            "track_url": "",
-            "id": 2332,
-            "artist": "Amr Mostafa"
-        },
-        {
-            "name": "Sebooh",
-            "release_date": "2022-10-14",
-            "image": "https://i.scdn.co/image/ab67616d0000b273decf6fc74989453679d97dfd",
-            "track_url": "",
-            "id": 2333,
-            "artist": "Amr Mostafa"
-        },
-        {
-            "name": "مين هيجاريه",
-            "release_date": "2022-07-28",
-            "image": "https://i.scdn.co/image/ab67616d0000b2732df36219ee9f9a91f13f6e42",
-            "track_url": "",
-            "id": 2334,
-            "artist": "Amr Mostafa"
-        },
-        {
-            "name": "رقصة",
-            "release_date": "2022-07-23",
-            "image": "https://i.scdn.co/image/ab67616d0000b273a3d6a0225a4d639c4c68c3c0",
-            "track_url": "",
-            "id": 2335,
-            "artist": "Amr Mostafa"
-        },
-        {
-            "name": "الا أنا",
-            "release_date": "2022-07-20",
-            "image": "https://i.scdn.co/image/ab67616d0000b27380625c097dfd7945abf8b499",
-            "track_url": "",
-            "id": 2336,
-            "artist": "Amr Mostafa"
-        },
-        {
-            "name": "غزة",
-            "release_date": "2021-06-02",
-            "image": "https://i.scdn.co/image/ab67616d0000b27383ab38a141da1f497021d0df",
-            "track_url": "",
-            "id": 2337,
-            "artist": "Amr Mostafa"
-        },
-        {
-            "name": "شوفوا مصر عامله ايه",
-            "release_date": "2021-05-24",
-            "image": "https://i.scdn.co/image/ab67616d0000b273eb56cffb9c87c40aa9cd3f77",
-            "track_url": "",
-            "id": 2338,
-            "artist": "Amr Mostafa"
-        },
-        {
-            "name": "القضية فلسطينية",
-            "release_date": "2021-05-16",
-            "image": "https://i.scdn.co/image/ab67616d0000b273d92ef711f2dc08c4e3f88f76",
-            "track_url": "",
-            "id": 2339,
-            "artist": "Amr Mostafa"
-        },
-        {
-            "name": "سنيني",
-            "release_date": "2021-02-18",
-            "image": "https://i.scdn.co/image/ab67616d0000b273840ccc96840a05de57a7bb06",
-            "track_url": "",
-            "id": 2340,
-            "artist": "Amr Mostafa"
-        },
-        {
-            "name": "Kanet Ayam",
-            "release_date": "2021-02-12",
-            "image": "https://i.scdn.co/image/ab67616d0000b2734688581388ebbd66cde0e4e6",
-            "track_url": "",
-            "id": 2341,
-            "artist": "Amr Mostafa"
-        },
-        {
-            "name": "بعاند ليه",
-            "release_date": "2020-12-02",
-            "image": "https://i.scdn.co/image/ab67616d0000b273f9552dc741909a489714a6f8",
-            "track_url": "",
-            "id": 2342,
-            "artist": "Amr Mostafa"
-        },
-        {
-            "name": "Karakeeb",
-            "release_date": "2018-06-03",
-            "image": "https://i.scdn.co/image/ab67616d0000b273489729a997c6f518a7350f2f",
-            "track_url": "",
-            "id": 2343,
-            "artist": "Amr Mostafa"
-        },
-        {
-            "name": "Ana Nseetek",
-            "release_date": "2013-10-07",
-            "image": "https://i.scdn.co/image/ab67616d0000b273454a4b2f0559a7620858cd55",
-            "track_url": "",
-            "id": 2344,
-            "artist": "Amr Mostafa"
-        },
-        {
-            "name": "Law Fi Hayati",
-            "release_date": "2008-01-01",
-            "image": "https://i.scdn.co/image/ab67616d0000b2739380b421f95ff10600554c2c",
-            "track_url": "",
-            "id": 2345,
-            "artist": "Amr Mostafa"
+          "name": "Basmaa Kalam",
+          "track_url": "",
+          "duration_ms": 238573,
+          "image": "https://i.scdn.co/image/ab67616d0000b2737eb945de17ed7cb45e9a0906",
+          "id": 2319,
+          "artist": "Amr Mostafa"
         }
-    ],
-    "popular_tracks": [
-        {
-            "name": "لمستك",
-            "track_url": "",
-            "duration_ms": 233221,
-            "image": "https://i.scdn.co/image/ab67616d0000b273e6ea02108b43c4354646511e",
-            "id": 2346,
-            "artist": "Amr Mostafa"
-        },
-        {
-            "name": "معرفش ينساني Ma3refsh yensany",
-            "track_url": "",
-            "duration_ms": 212045,
-            "image": "https://i.scdn.co/image/ab67616d0000b27383d8e2c2dc980e92f56b842b",
-            "id": 2347,
-            "artist": "Amr Mostafa"
-        },
-        {
-            "name": "برتاح معاك",
-            "track_url": "",
-            "duration_ms": 215945,
-            "image": "https://i.scdn.co/image/ab67616d0000b273e6ea02108b43c4354646511e",
-            "id": 2348,
-            "artist": "Amr Mostafa"
-        },
-        {
-            "name": "أنا نسيتك",
-            "track_url": "",
-            "duration_ms": 241069,
-            "image": "https://i.scdn.co/image/ab67616d0000b273e6ea02108b43c4354646511e",
-            "id": 2349,
-            "artist": "Amr Mostafa"
-        },
-        {
-            "name": "Sebooh",
-            "track_url": "",
-            "duration_ms": 191317,
-            "image": "https://i.scdn.co/image/ab67616d0000b273decf6fc74989453679d97dfd",
-            "id": 2350,
-            "artist": "Amr Mostafa"
-        },
-        {
-            "name": "Awla beya - أولي بيا",
-            "track_url": "",
-            "duration_ms": 197080,
-            "image": "https://i.scdn.co/image/ab67616d0000b273ef3141d219941341a2e678b5",
-            "id": 2351,
-            "artist": "Amr Mostafa"
-        },
-        {
-            "name": "Ya Dayra",
-            "track_url": "",
-            "duration_ms": 206495,
-            "image": "https://i.scdn.co/image/ab67616d0000b273c3582b89672fc43520089a80",
-            "id": 2352,
-            "artist": "Amr Mostafa"
-        },
-        {
-            "name": "Lamastak",
-            "track_url": "",
-            "duration_ms": 233213,
-            "image": "https://i.scdn.co/image/ab67616d0000b2737eb945de17ed7cb45e9a0906",
-            "id": 2353,
-            "artist": "Amr Mostafa"
-        },
-        {
-            "name": "شوفوا مصر عامله ايه",
-            "track_url": "",
-            "duration_ms": 201993,
-            "image": "https://i.scdn.co/image/ab67616d0000b273eb56cffb9c87c40aa9cd3f77",
-            "id": 2354,
-            "artist": "Amr Mostafa"
-        },
-        {
-            "name": "رقصة",
-            "track_url": "",
-            "duration_ms": 186894,
-            "image": "https://i.scdn.co/image/ab67616d0000b273a3d6a0225a4d639c4c68c3c0",
-            "id": 2355,
-            "artist": "Amr Mostafa"
-        }
-    ]
+      ],
+      "id": 2307
+    }
+  ],
+  "singles": [
+    {
+      "name": "Aayesheen - Amr Mostafa عايشين - عمرو مصطفي",
+      "release_date": "2024-12-23",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735e4d76e67485c49ee7fc79cc",
+      "track_url": "",
+      "id": 2320,
+      "artist": "Amr Mostafa"
+    },
+    {
+      "name": "Awla beya - أولي بيا",
+      "release_date": "2024-12-04",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ef3141d219941341a2e678b5",
+      "track_url": "",
+      "id": 2321,
+      "artist": "Amr Mostafa"
+    },
+    {
+      "name": "معرفش ينساني Ma3refsh yensany",
+      "release_date": "2024-09-20",
+      "image": "https://i.scdn.co/image/ab67616d0000b27383d8e2c2dc980e92f56b842b",
+      "track_url": "",
+      "id": 2322,
+      "artist": "Amr Mostafa"
+    },
+    {
+      "name": "ليها فيا",
+      "release_date": "2024-07-18",
+      "image": "https://i.scdn.co/image/ab67616d0000b27325c7b8a0db71e773cf79ceb6",
+      "track_url": "",
+      "id": 2323,
+      "artist": "Amr Mostafa"
+    },
+    {
+      "name": "Leah Feya",
+      "release_date": "2024-07-17",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b910e21724b539caa39d513a",
+      "track_url": "",
+      "id": 2324,
+      "artist": "Amr Mostafa"
+    },
+    {
+      "name": "Saybak سايبك",
+      "release_date": "2024-02-21",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730fbe399ec10655e7abcc83b8",
+      "track_url": "",
+      "id": 2325,
+      "artist": "Amr Mostafa"
+    },
+    {
+      "name": "Mestaghni | مستغني",
+      "release_date": "2023-09-08",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731b04469139fbdc3bc25d551b",
+      "track_url": "",
+      "id": 2326,
+      "artist": "Amr Mostafa"
+    },
+    {
+      "name": "Amr Mostafa - Malosh Zay | 2023 | عمرو مصطفى -مالوش زي",
+      "release_date": "2023-04-21",
+      "image": "https://i.scdn.co/image/ab67616d0000b27351063617b11110c71b6bf107",
+      "track_url": "",
+      "id": 2328,
+      "artist": "Amr Mostafa"
+    },
+    {
+      "name": "Omy El donya",
+      "release_date": "2023-03-21",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737b5cb867370f12dc90de6109",
+      "track_url": "",
+      "id": 2329,
+      "artist": "Amr Mostafa"
+    },
+    {
+      "name": "Salam Salam",
+      "release_date": "2023-01-23",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730fdafc122ef6dfc230a94deb",
+      "track_url": "",
+      "id": 2330,
+      "artist": "Amr Mostafa"
+    },
+    {
+      "name": "Ya Dayra",
+      "release_date": "2022-12-22",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c3582b89672fc43520089a80",
+      "track_url": "",
+      "id": 2331,
+      "artist": "Amr Mostafa"
+    },
+    {
+      "name": "Ya Dayra (Message Song Version)",
+      "release_date": "2022-12-16",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e962806d2200e7c1e8eaf643",
+      "track_url": "",
+      "id": 2332,
+      "artist": "Amr Mostafa"
+    },
+    {
+      "name": "Sebooh",
+      "release_date": "2022-10-14",
+      "image": "https://i.scdn.co/image/ab67616d0000b273decf6fc74989453679d97dfd",
+      "track_url": "",
+      "id": 2333,
+      "artist": "Amr Mostafa"
+    },
+    {
+      "name": "مين هيجاريه",
+      "release_date": "2022-07-28",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732df36219ee9f9a91f13f6e42",
+      "track_url": "",
+      "id": 2334,
+      "artist": "Amr Mostafa"
+    },
+    {
+      "name": "رقصة",
+      "release_date": "2022-07-23",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a3d6a0225a4d639c4c68c3c0",
+      "track_url": "",
+      "id": 2335,
+      "artist": "Amr Mostafa"
+    },
+    {
+      "name": "الا أنا",
+      "release_date": "2022-07-20",
+      "image": "https://i.scdn.co/image/ab67616d0000b27380625c097dfd7945abf8b499",
+      "track_url": "",
+      "id": 2336,
+      "artist": "Amr Mostafa"
+    },
+    {
+      "name": "غزة",
+      "release_date": "2021-06-02",
+      "image": "https://i.scdn.co/image/ab67616d0000b27383ab38a141da1f497021d0df",
+      "track_url": "",
+      "id": 2337,
+      "artist": "Amr Mostafa"
+    },
+    {
+      "name": "شوفوا مصر عامله ايه",
+      "release_date": "2021-05-24",
+      "image": "https://i.scdn.co/image/ab67616d0000b273eb56cffb9c87c40aa9cd3f77",
+      "track_url": "",
+      "id": 2338,
+      "artist": "Amr Mostafa"
+    },
+    {
+      "name": "القضية فلسطينية",
+      "release_date": "2021-05-16",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d92ef711f2dc08c4e3f88f76",
+      "track_url": "",
+      "id": 2339,
+      "artist": "Amr Mostafa"
+    },
+    {
+      "name": "سنيني",
+      "release_date": "2021-02-18",
+      "image": "https://i.scdn.co/image/ab67616d0000b273840ccc96840a05de57a7bb06",
+      "track_url": "",
+      "id": 2340,
+      "artist": "Amr Mostafa"
+    },
+    {
+      "name": "Kanet Ayam",
+      "release_date": "2021-02-12",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734688581388ebbd66cde0e4e6",
+      "track_url": "",
+      "id": 2341,
+      "artist": "Amr Mostafa"
+    },
+    {
+      "name": "بعاند ليه",
+      "release_date": "2020-12-02",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f9552dc741909a489714a6f8",
+      "track_url": "",
+      "id": 2342,
+      "artist": "Amr Mostafa"
+    },
+    {
+      "name": "Karakeeb",
+      "release_date": "2018-06-03",
+      "image": "https://i.scdn.co/image/ab67616d0000b273489729a997c6f518a7350f2f",
+      "track_url": "",
+      "id": 2343,
+      "artist": "Amr Mostafa"
+    },
+    {
+      "name": "Ana Nseetek",
+      "release_date": "2013-10-07",
+      "image": "https://i.scdn.co/image/ab67616d0000b273454a4b2f0559a7620858cd55",
+      "track_url": "",
+      "id": 2344,
+      "artist": "Amr Mostafa"
+    },
+    {
+      "name": "Law Fi Hayati",
+      "release_date": "2008-01-01",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739380b421f95ff10600554c2c",
+      "track_url": "",
+      "id": 2345,
+      "artist": "Amr Mostafa"
+    }
+  ],
+  "popular_tracks": [
+    {
+      "name": "لمستك",
+      "track_url": "",
+      "duration_ms": 233221,
+      "image": "https://i.scdn.co/image/ab67616d0000b273e6ea02108b43c4354646511e",
+      "id": 2346,
+      "artist": "Amr Mostafa"
+    },
+    {
+      "name": "معرفش ينساني Ma3refsh yensany",
+      "track_url": "",
+      "duration_ms": 212045,
+      "image": "https://i.scdn.co/image/ab67616d0000b27383d8e2c2dc980e92f56b842b",
+      "id": 2347,
+      "artist": "Amr Mostafa"
+    },
+    {
+      "name": "برتاح معاك",
+      "track_url": "",
+      "duration_ms": 215945,
+      "image": "https://i.scdn.co/image/ab67616d0000b273e6ea02108b43c4354646511e",
+      "id": 2348,
+      "artist": "Amr Mostafa"
+    },
+    {
+      "name": "أنا نسيتك",
+      "track_url": "",
+      "duration_ms": 241069,
+      "image": "https://i.scdn.co/image/ab67616d0000b273e6ea02108b43c4354646511e",
+      "id": 2349,
+      "artist": "Amr Mostafa"
+    },
+    {
+      "name": "Sebooh",
+      "track_url": "",
+      "duration_ms": 191317,
+      "image": "https://i.scdn.co/image/ab67616d0000b273decf6fc74989453679d97dfd",
+      "id": 2350,
+      "artist": "Amr Mostafa"
+    },
+    {
+      "name": "Awla beya - أولي بيا",
+      "track_url": "",
+      "duration_ms": 197080,
+      "image": "https://i.scdn.co/image/ab67616d0000b273ef3141d219941341a2e678b5",
+      "id": 2351,
+      "artist": "Amr Mostafa"
+    },
+    {
+      "name": "Ya Dayra",
+      "track_url": "",
+      "duration_ms": 206495,
+      "image": "https://i.scdn.co/image/ab67616d0000b273c3582b89672fc43520089a80",
+      "id": 2352,
+      "artist": "Amr Mostafa"
+    },
+    {
+      "name": "Lamastak",
+      "track_url": "",
+      "duration_ms": 233213,
+      "image": "https://i.scdn.co/image/ab67616d0000b2737eb945de17ed7cb45e9a0906",
+      "id": 2353,
+      "artist": "Amr Mostafa"
+    },
+    {
+      "name": "شوفوا مصر عامله ايه",
+      "track_url": "",
+      "duration_ms": 201993,
+      "image": "https://i.scdn.co/image/ab67616d0000b273eb56cffb9c87c40aa9cd3f77",
+      "id": 2354,
+      "artist": "Amr Mostafa"
+    },
+    {
+      "name": "رقصة",
+      "track_url": "",
+      "duration_ms": 186894,
+      "image": "https://i.scdn.co/image/ab67616d0000b273a3d6a0225a4d639c4c68c3c0",
+      "id": 2355,
+      "artist": "Amr Mostafa"
+    }
+  ]
 }

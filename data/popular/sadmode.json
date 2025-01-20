@@ -1,310 +1,303 @@
 [
-  {
-    "id": "1",
-    "name": "فعلا مبيتنسيش",
-    "artist": "Tamer Hosny, Ramy Sabry",
-    "album": "فعلا مبيتنسيش",
-    "release_date": "2025-01-06",
-    "image": "https://i.scdn.co/image/ab67616d0000b273b6d363fc8888a68b31a8d3de",
-    "track_url": "https://www.dropbox.com/scl/fi/nrorrdeyidewu40lpvw3j/.mp3?rlkey=au6eso4qhpm1xuohnxjyzibun&st=0ufukl5f&dl=1",
-    "popularity": 0
-  },
-  {
-    "id": "49",
-    "name": "Wada3 Wada3",
-    "artist": "Tamer Ashour",
-    "album": "Wada3 Wada3",
-    "release_date": "2024-08-21",
-    "image": "https://i.scdn.co/image/ab67616d0000b273661796adc3e35c7b8603e1e9",
-    "track_url": "https://www.dropbox.com/scl/fi/0dsxisgz44jzjrij4tgt2/.mp3?rlkey=uzao952tuusw5057n7kwajes8&st=m6h6lzz7&dl=1",
-    "popularity": 45
-  },
-  {
-    "id": "50",
-    "name": "بين الحيطان",
-    "artist": "Ramy Sabry",
-    "album": "بين الحيطان",
-    "release_date": "2024-01-04",
-    "image": "https://i.scdn.co/image/ab67616d0000b273e5e6d6dd1b3e8c9a9dcb6a75",
-    "track_url": "https://www.dropbox.com/scl/fi/gmqpcp4whtfia8jjf206l/Ben-El-Hettan.mp3?rlkey=96g5pia5lo45cwh10uhjho8ia&st=tpyltxfu&dl=1",
-    "popularity": 43
-  },
-  {
-    "id": "51",
-    "name": "و كأنك سكر",
-    "artist": "Jannat",
-    "album": "و كأنك سكر",
-    "release_date": "2023-05-21",
-    "image": "https://i.scdn.co/image/ab67616d0000b27385230e7e52db7e0a20e0930f",
-    "track_url": "https://open.spotify.com/track/6LEbWprn5PIvowD9Tx53Ti",
-    "popularity": 39
-  },
-  {
-    "id": "52",
-    "name": "موضوع رجوعنا",
-    "artist": "Tamer Hosny",
-    "album": "موضوع رجوعنا",
-    "release_date": "2024-02-08",
-    "image": "https://i.scdn.co/image/ab67616d0000b27395e127fded0b7771235fd6dc",
-    "track_url": "https://www.dropbox.com/scl/fi/j3k1us84uzr71r47exjbp/song5.mp3?rlkey=nxfo9g71vgyzohv29sn48owzj&st=vn59pdbp&dl=1",
-    "popularity": 41
-  },
-  {
-    "id": "53",
-    "name": "الكدابين",
-    "artist": "Sherine",
-    "album": "نساى",
-    "release_date": "2018-10-24",
-    "image": "https://i.scdn.co/image/ab67616d0000b273cfa4e906cda39d8f62fe81e3",
-    "track_url": "https://www.dropbox.com/scl/fi/y3ny4vosqbr8aqujqvo8r/10._El_Kadabeen.mp3?rlkey=eyrt0i7calae8dx98qq9yyb3f&st=d23rgqkg&dl=1",
-    "popularity": 55
-  },
-  {
-    "id": "54",
-    "name": "Sebooh",
-    "artist": "Amr Mostafa",
-    "album": "Sebooh",
-    "release_date": "2022-10-14",
-    "image": "https://i.scdn.co/image/ab67616d0000b273decf6fc74989453679d97dfd",
-    "track_url": "https://www.dropbox.com/scl/fi/w9sh489eahliuolrsjf4v/.mp3?rlkey=keqmzq5l4a3vextm34nlnsi8b&st=tu2tpc0e&dl=1",
-    "popularity": 34
-  },
-  {
-    "id": "55",
-    "name": "Kesert Koul El Nass",
-    "artist": "George Wassouf",
-    "album": "Heya El Ayam",
-    "release_date": "2006-07-11",
-    "image": "https://i.scdn.co/image/ab67616d0000b27334d394744bb5a14e01887304",
-    "track_url": "https://www.dropbox.com/scl/fi/mz1tjsrsk9nvvxjly7jcd/04._Khesert_Kol_El_Nas.mp3?rlkey=r01pjf3nd0t3oaa87z75ucizp&st=xiwe30rd&dl=1",
-    "popularity": 51
-  },
-  {
-    "id": "56",
-    "name": "Ana Mesh Arefny",
-    "artist": "Abdelbaset Hamouda",
-    "album": "Darbt Maalem",
-    "release_date": "2019-01-19",
-    "image": "https://i.scdn.co/image/ab67616d0000b273b054d71a3e01b59146418e17",
-    "track_url": "https://www.dropbox.com/scl/fi/b7g58g4a4t1doc3bkluer/.mp3?rlkey=g5fm2vbdoo4nn1l6zoxprfclw&st=1ytssmkz&dl=1",
-    "popularity": 37
-  },
-  {
-    "id": "57",
-    "name": "Mabhenlhash",
-    "artist": "Moustafa Hagag",
-    "album": "Zahmit Hayaty",
-    "release_date": "2014-01-09",
-    "image": "https://i.scdn.co/image/ab67616d0000b273eecc2e83e1f51abfe8c49274",
-    "track_url": "https://www.dropbox.com/scl/fi/q9gzvy7d4nm92p4yb0r3q/Maba7enelhash.mp3?rlkey=63ncm24nyghst47xb74uvja4x&st=gegs2ed9&dl=1",
-    "popularity": 48
-  },
-  {
-    "id": "58",
-    "name": "Albak Ya Hawl Allah",
-    "artist": "Bahaa Sultan",
-    "album": "Kan Zaman",
-    "release_date": "2006-01-01",
-    "image": "https://i.scdn.co/image/ab67616d0000b2737f137528bb80b3d6666e9957",
-    "track_url": "https://open.spotify.com/track/6dKoWbMsM9yr07eaPk1OG5",
-    "popularity": 52
-  },
-  {
-    "id": "59",
-    "name": "انا لو حبيبك",
-    "artist": "Mohamed Fouad",
-    "album": "قلبي وروحي وعمري",
-    "release_date": "1999-02-10",
-    "image": "https://i.scdn.co/image/ab67616d0000b2730a1eae77a7ea3cd9bca84da5",
-    "track_url": "https://www.dropbox.com/scl/fi/12iiisle6wndmf8xtjb2f/05.Ana_Law_Habibak.mp3?rlkey=pnjo0kttyqkggnh9gw4dqw2l1&st=5g9i3lht&dl=1",
-    "popularity": 47
-  },
-  {
-    "id": "60",
-    "name": "Mahzouz",
-    "artist": "Tamer Ashour",
-    "album": "Khayali",
-    "release_date": "2018-07-09",
-    "image": "https://i.scdn.co/image/ab67616d0000b2737dee050001c25a1ddbfb8495",
-    "track_url": "https://www.dropbox.com/scl/fi/focwml1hx8iti2uj8a4sd/Mahzouz.mp3?rlkey=2i7z82tvmr01oj75ypjcknyih&st=knzw4qyc&dl=1",
-    "popularity": 57
-  },
-  {
-    "id": "61",
-    "name": "Khanat El-Zekrayat",
-    "artist": "Assala Nasri",
-    "album": "60 Dqiqa Haiah",
-    "release_date": "2015-03-29",
-    "image": "https://i.scdn.co/image/ab67616d0000b273c848d2cb224081ff28a28c4e",
-    "track_url": "https://www.dropbox.com/scl/fi/96tmuqqnl4z4qdipkbd97/.mp3?rlkey=d2kqziawag6uenku71c648o8b&st=34i2ro13&dl=1",
-    "popularity": 51
-  },
-  {
-    "id": "62",
-    "name": "Law Hatsib",
-    "artist": "Mohamed Hamaki",
-    "album": "Ya Fatenny",
-    "release_date": "2021-11-03",
-    "image": "https://i.scdn.co/image/ab67616d0000b273c3e84996ef5959862603a6be",
-    "track_url": "https://www.dropbox.com/scl/fi/sb3nmynmiohteri6awk6t/Albumaty.Com_mhmd_hmaky_lw_htsyb.mp3?rlkey=9mt8ejz0oskohqf9ys08gyl4t&st=nrlc2lzi&dl=1",
-    "popularity": 49
-  },
-  {
-    "id": "63",
-    "name": "مش حكاية",
-    "artist": "Farid",
-    "album": "مش حكاية",
-    "release_date": "2023-11-25",
-    "image": "https://i.scdn.co/image/ab67616d0000b27323a8df927c85c512fb4dc4c0",
-    "track_url": "https://www.dropbox.com/scl/fi/yi2uzq42y9jlyxlr07b37/.mp3?rlkey=02yaf8izkynox0chuwlr2cjp5&st=j78y2aw9&dl=1",
-    "popularity": 47
-  },
-  {
-    "id": "64",
-    "name": "بحكي عليكي",
-    "artist": "Ramy Sabry",
-    "album": "بحكي عليكي",
-    "release_date": "2024-01-04",
-    "image": "https://i.scdn.co/image/ab67616d0000b2738a13b157ba7bc41b3be06408",
-    "track_url": "https://www.dropbox.com/scl/fi/guj1z3uhtlpmu0bqx7wnv/Bahki-Aleky.mp3?rlkey=5xzghpizpsb4s4yjmypdvaepk&st=az6e7iu7&dl=1",
-    "popularity": 50
-  },
-  {
-    "id": "65",
-    "name": "3la Bali",
-    "artist": "Sherine",
-    "album": "Lazem A3eesh",
-    "release_date": "2005-01-01",
-    "image": "https://i.scdn.co/image/ab67616d0000b273815bc0d0382f154678eaa77f",
-    "track_url": "https://www.dropbox.com/scl/fi/2e9d56cnkdjc3dtyd9bk0/04.Ala_Baly.mp3?rlkey=b8emlzefyhmcls3zb3dmmy9aj&st=a0vx27di&dl=1",
-    "popularity": 65
-  },
-  {
-    "id": "66",
-    "name": "Sad Khana",
-    "artist": "Nabil",
-    "album": "Sad Khana",
-    "release_date": "2023-02-14",
-    "image": "https://i.scdn.co/image/ab67616d0000b27363d0c6debab686f89855514b",
-    "track_url": "https://open.spotify.com/track/1AIQIDVTAbmlOSNdhOjUlc",
-    "popularity": 39
-  },
-  {
-    "id": "67",
-    "name": "Malkshy Makan",
-    "artist": "Ahmed Saad",
-    "album": "Malkshy Makan",
-    "release_date": "2019-01-15",
-    "image": "https://i.scdn.co/image/ab67616d0000b273e2f66ae50c7ec7c1b50fa4d5",
-    "track_url": "https://www.dropbox.com/scl/fi/pyakvlw01vx50e7l0biqg/.Malkshy.Makan.mp3?rlkey=7ijpfsukseybpgtmxa0fx3cqv&st=wkk2254b&dl=1",
-    "popularity": 39
-  },
-  {
-    "id": "68",
-    "name": "Baed El Layali",
-    "artist": "Amr Diab",
-    "album": "Aktar Wahed Beihebak",
-    "release_date": "2001-01-01",
-    "image": "https://i.scdn.co/image/ab67616d0000b273dee37a4400066ed7d8d8e065",
-    "track_url": "https://www.dropbox.com/scl/fi/btyi21x5eg5oa2zxp81d7/04.Baed_Ellayaly.mp3?rlkey=5b2p9r5skl1a11ud9r08a9scz&st=unvazq9k&dl=1",
-    "popularity": 51
-  },
-  {
-    "id": "69",
-    "name": "Baad El Kalam",
-    "artist": "Ahmed Kamel",
-    "album": "Baad Montasaf Al Leil",
-    "release_date": "2023-02-16",
-    "image": "https://i.scdn.co/image/ab67616d0000b27387e6ba76951698e37542bba3",
-    "track_url": "https://www.dropbox.com/scl/fi/czj5jvtthsk97w8y4zi08/.mp3?rlkey=xphe6aarm4dch7wgzu5y8xbls&st=d1f8cnsx&dl=1",
-    "popularity": 53
-  },
-  {
-    "id": "70",
-    "name": "Tegy Ntrahn",
-    "artist": "Tamer Ashour",
-    "album": "Tegy Ntrahn",
-    "release_date": "2022-01-20",
-    "image": "https://i.scdn.co/image/ab67616d0000b27383d3f05128296659bd6919ea",
-    "track_url": "https://www.dropbox.com/scl/fi/6m20e2t1zo2jurweyxoln/Tegy-Ntrahn.mp3?rlkey=9c4elhcx4cvrdv7xxni0lsznv&st=kmo8q94t&dl=1",
-    "popularity": 62
-  },
-  {
-    "id": "71",
-    "name": "Tamini Alieak",
-    "artist": "Mohamed Fouad",
-    "album": "Wala Nusi Kelma",
-    "release_date": "2007-10-11",
-    "image": "https://i.scdn.co/image/ab67616d0000b2735e4e9015f41b2c17ae60a4d8",
-    "track_url": "https://www.dropbox.com/scl/fi/6bprnefxfigp81m30zwl3/02.Tamenny_Alaik.mp3?rlkey=cpnlz4ex2niaq1085y3w2x93p&st=581j2hh3&dl=1",
-    "popularity": 49
-  },
-  {
-    "id": "72",
-    "name": "Fouq Men Elenta Feh",
-    "artist": "Amr Diab",
-    "album": "El Leila",
-    "release_date": "2013-09-27",
-    "image": "https://i.scdn.co/image/ab67616d0000b273b13fd14d466c2748bdc6c928",
-    "track_url": "https://www.dropbox.com/scl/fi/1pxi8n9ullpgnwkr035qa/04_Fouq_Men_Elenta_Feh.mp3?rlkey=wbk69um23c3g5ff1pzhdwksup&st=1q56010b&dl=1",
-    "popularity": 35
-  },
-  {
-    "id": "73",
-    "name": "Mshit Khalas",
-    "artist": "Wael Jassar",
-    "album": "Mshit Khalas",
-    "release_date": "2005-04-30",
-    "image": "https://i.scdn.co/image/ab67616d0000b27392435947539fd96f87e39737",
-    "track_url": "https://www.dropbox.com/scl/fi/paoorsyg2bbndswxhv9ck/01.Mshit_khalas.mp3?rlkey=z2emp6rg9zf98vwy37l249y58&st=7pe3ecnn&dl=1",
-    "popularity": 51
-  },
-  {
-    "id": "74",
-    "name": "يارب ترجع",
-    "artist": "Farid",
-    "album": "يارب ترجع",
-    "release_date": "2024-11-28",
-    "image": "https://i.scdn.co/image/ab67616d0000b2733314dbfa455c5fdfde54f0a7",
-    "track_url": "https://www.dropbox.com/scl/fi/wjglzcjyvctz8ztgjxus8/.mp3?rlkey=4ja93pn2jtkn4kf6mj4ien8uj&st=hg0jjbh0&dl=1",
-    "popularity": 46
-  },
-  {
-    "id": "75",
-    "name": "El Sabr Gamel - الصبر جميل",
-    "artist": "Maha Ftouni",
-    "album": "El Sabr Gamel - الصبر جميل",
-    "release_date": "2023-02-23",
-    "image": "https://i.scdn.co/image/ab67616d0000b2737b57703fbcd1eb7950e19199",
-    "track_url": "https://www.dropbox.com/scl/fi/zukc9xzhn38z1fwnvi4ea/.mp3?rlkey=ekw3ymycslf5jwoxrry8humzj&st=n931fnev&dl=1",
-    "popularity": 57
-  },
-  {
-    "id": "76",
-    "name": "Wahy Zekrayat",
-    "artist": "Amr Diab",
-    "album": "El Leila",
-    "release_date": "2013-09-27",
-    "image": "https://i.scdn.co/image/ab67616d0000b273b13fd14d466c2748bdc6c928",
-    "track_url": "https://www.dropbox.com/scl/fi/x22agqglnm26opmnenl33/11_Wahy_Zekrayat.mp3?rlkey=c4usqe1mzrbi66p9zgwhkayl5&st=2b6opqaf&dl=1",
-    "popularity": 54
-  },
-  {
-    "id": "77",
-    "name": "ظروف معنداني",
-    "artist": "Wael Jassar",
-    "album": "Omry Wzekrayatoh",
-    "release_date": "2015",
-    "image": "https://i.scdn.co/image/ab67616d0000b273f808da0aa522a31fe770cd90",
-    "track_url": "https://www.dropbox.com/scl/fi/pdu52b9youln62pqpo62t/.mp3?rlkey=9ipwwr2zeidqs5rlfg813ceze&st=9l748c1s&dl=1",
-    "popularity": 62
-  },
-  {
-    "name": "زعلان",
-    "release_date": "22/04/2003",
-    "image": "https://i.scdn.co/image/ab67616d0000b27335b23bb40d4e64d2e94f4e26",
-    "track_url": "https://www.dropbox.com/scl/fi/0jhu1jq1gcqk9wnxygibo/.mp3?rlkey=c9jvvx29bviho7369c67kizuu&st=lwa8mdhv&dl=1",
-    "id": 10000000000001,
-    "artist": "Omar El-Dalil"
-  }
-]
+    {
+      "id": "1",
+      "name": "فعلا مبيتنسيش",
+      "artist": "Tamer Hosny, Ramy Sabry",
+      "album": "فعلا مبيتنسيش",
+      "release_date": "2025-01-06",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b6d363fc8888a68b31a8d3de",
+      "track_url": "https://www.dropbox.com/scl/fi/nrorrdeyidewu40lpvw3j/.mp3?rlkey=au6eso4qhpm1xuohnxjyzibun&st=0ufukl5f&dl=1",
+      "popularity": 0
+    },
+    {
+      "id": "49",
+      "name": "Wada3 Wada3",
+      "artist": "Tamer Ashour",
+      "album": "Wada3 Wada3",
+      "release_date": "2024-08-21",
+      "image": "https://i.scdn.co/image/ab67616d0000b273661796adc3e35c7b8603e1e9",
+      "track_url": "https://www.dropbox.com/scl/fi/0dsxisgz44jzjrij4tgt2/.mp3?rlkey=uzao952tuusw5057n7kwajes8&st=m6h6lzz7&dl=1",
+      "popularity": 45
+    },
+    {
+      "id": "50",
+      "name": "بين الحيطان",
+      "artist": "Ramy Sabry",
+      "album": "بين الحيطان",
+      "release_date": "2024-01-04",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e5e6d6dd1b3e8c9a9dcb6a75",
+      "track_url": "https://www.dropbox.com/scl/fi/gmqpcp4whtfia8jjf206l/Ben-El-Hettan.mp3?rlkey=96g5pia5lo45cwh10uhjho8ia&st=tpyltxfu&dl=1",
+      "popularity": 43
+    },
+    {
+      "id": "51",
+      "name": "و كأنك سكر",
+      "artist": "Jannat",
+      "album": "و كأنك سكر",
+      "release_date": "2023-05-21",
+      "image": "https://i.scdn.co/image/ab67616d0000b27385230e7e52db7e0a20e0930f",
+      "track_url": "https://open.spotify.com/track/6LEbWprn5PIvowD9Tx53Ti",
+      "popularity": 39
+    },
+    {
+      "id": "52",
+      "name": "موضوع رجوعنا",
+      "artist": "Tamer Hosny",
+      "album": "موضوع رجوعنا",
+      "release_date": "2024-02-08",
+      "image": "https://i.scdn.co/image/ab67616d0000b27395e127fded0b7771235fd6dc",
+      "track_url": "https://www.dropbox.com/scl/fi/j3k1us84uzr71r47exjbp/song5.mp3?rlkey=nxfo9g71vgyzohv29sn48owzj&st=vn59pdbp&dl=1",
+      "popularity": 41
+    },
+    {
+      "id": "53",
+      "name": "الكدابين",
+      "artist": "Sherine",
+      "album": "نساى",
+      "release_date": "2018-10-24",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cfa4e906cda39d8f62fe81e3",
+      "track_url": "https://www.dropbox.com/scl/fi/y3ny4vosqbr8aqujqvo8r/10._El_Kadabeen.mp3?rlkey=eyrt0i7calae8dx98qq9yyb3f&st=d23rgqkg&dl=1",
+      "popularity": 55
+    },
+    {
+      "id": "54",
+      "name": "Sebooh",
+      "artist": "Amr Mostafa",
+      "album": "Sebooh",
+      "release_date": "2022-10-14",
+      "image": "https://i.scdn.co/image/ab67616d0000b273decf6fc74989453679d97dfd",
+      "track_url": "https://www.dropbox.com/scl/fi/w9sh489eahliuolrsjf4v/.mp3?rlkey=keqmzq5l4a3vextm34nlnsi8b&st=tu2tpc0e&dl=1",
+      "popularity": 34
+    },
+    {
+      "id": "55",
+      "name": "Kesert Koul El Nass",
+      "artist": "George Wassouf",
+      "album": "Heya El Ayam",
+      "release_date": "2006-07-11",
+      "image": "https://i.scdn.co/image/ab67616d0000b27334d394744bb5a14e01887304",
+      "track_url": "https://www.dropbox.com/scl/fi/mz1tjsrsk9nvvxjly7jcd/04._Khesert_Kol_El_Nas.mp3?rlkey=r01pjf3nd0t3oaa87z75ucizp&st=xiwe30rd&dl=1",
+      "popularity": 51
+    },
+    {
+      "id": "56",
+      "name": "Ana Mesh Arefny",
+      "artist": "Abdelbaset Hamouda",
+      "album": "Darbt Maalem",
+      "release_date": "2019-01-19",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b054d71a3e01b59146418e17",
+      "track_url": "https://www.dropbox.com/scl/fi/b7g58g4a4t1doc3bkluer/.mp3?rlkey=g5fm2vbdoo4nn1l6zoxprfclw&st=1ytssmkz&dl=1",
+      "popularity": 37
+    },
+    {
+      "id": "57",
+      "name": "Mabhenlhash",
+      "artist": "Moustafa Hagag",
+      "album": "Zahmit Hayaty",
+      "release_date": "2014-01-09",
+      "image": "https://i.scdn.co/image/ab67616d0000b273eecc2e83e1f51abfe8c49274",
+      "track_url": "https://www.dropbox.com/scl/fi/q9gzvy7d4nm92p4yb0r3q/Maba7enelhash.mp3?rlkey=63ncm24nyghst47xb74uvja4x&st=gegs2ed9&dl=1",
+      "popularity": 48
+    },
+    {
+      "id": "58",
+      "name": "Albak Ya Hawl Allah",
+      "artist": "Bahaa Sultan",
+      "album": "Kan Zaman",
+      "release_date": "2006-01-01",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737f137528bb80b3d6666e9957",
+      "track_url": "https://open.spotify.com/track/6dKoWbMsM9yr07eaPk1OG5",
+      "popularity": 52
+    },
+    {
+      "id": "59",
+      "name": "انا لو حبيبك",
+      "artist": "Mohamed Fouad",
+      "album": "قلبي وروحي وعمري",
+      "release_date": "1999-02-10",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730a1eae77a7ea3cd9bca84da5",
+      "track_url": "https://www.dropbox.com/scl/fi/12iiisle6wndmf8xtjb2f/05.Ana_Law_Habibak.mp3?rlkey=pnjo0kttyqkggnh9gw4dqw2l1&st=5g9i3lht&dl=1",
+      "popularity": 47
+    },
+    {
+      "id": "60",
+      "name": "Mahzouz",
+      "artist": "Tamer Ashour",
+      "album": "Khayali",
+      "release_date": "2018-07-09",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737dee050001c25a1ddbfb8495",
+      "track_url": "https://www.dropbox.com/scl/fi/focwml1hx8iti2uj8a4sd/Mahzouz.mp3?rlkey=2i7z82tvmr01oj75ypjcknyih&st=knzw4qyc&dl=1",
+      "popularity": 57
+    },
+    {
+      "id": "61",
+      "name": "Khanat El-Zekrayat",
+      "artist": "Assala Nasri",
+      "album": "60 Dqiqa Haiah",
+      "release_date": "2015-03-29",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c848d2cb224081ff28a28c4e",
+      "track_url": "https://www.dropbox.com/scl/fi/96tmuqqnl4z4qdipkbd97/.mp3?rlkey=d2kqziawag6uenku71c648o8b&st=34i2ro13&dl=1",
+      "popularity": 51
+    },
+    {
+      "id": "62",
+      "name": "Law Hatsib",
+      "artist": "Mohamed Hamaki",
+      "album": "Ya Fatenny",
+      "release_date": "2021-11-03",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c3e84996ef5959862603a6be",
+      "track_url": "https://www.dropbox.com/scl/fi/sb3nmynmiohteri6awk6t/Albumaty.Com_mhmd_hmaky_lw_htsyb.mp3?rlkey=9mt8ejz0oskohqf9ys08gyl4t&st=nrlc2lzi&dl=1",
+      "popularity": 49
+    },
+    {
+      "id": "63",
+      "name": "مش حكاية",
+      "artist": "Farid",
+      "album": "مش حكاية",
+      "release_date": "2023-11-25",
+      "image": "https://i.scdn.co/image/ab67616d0000b27323a8df927c85c512fb4dc4c0",
+      "track_url": "https://www.dropbox.com/scl/fi/yi2uzq42y9jlyxlr07b37/.mp3?rlkey=02yaf8izkynox0chuwlr2cjp5&st=j78y2aw9&dl=1",
+      "popularity": 47
+    },
+    {
+      "id": "64",
+      "name": "بحكي عليكي",
+      "artist": "Ramy Sabry",
+      "album": "بحكي عليكي",
+      "release_date": "2024-01-04",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738a13b157ba7bc41b3be06408",
+      "track_url": "https://www.dropbox.com/scl/fi/guj1z3uhtlpmu0bqx7wnv/Bahki-Aleky.mp3?rlkey=5xzghpizpsb4s4yjmypdvaepk&st=az6e7iu7&dl=1",
+      "popularity": 50
+    },
+    {
+      "id": "65",
+      "name": "3la Bali",
+      "artist": "Sherine",
+      "album": "Lazem A3eesh",
+      "release_date": "2005-01-01",
+      "image": "https://i.scdn.co/image/ab67616d0000b273815bc0d0382f154678eaa77f",
+      "track_url": "https://www.dropbox.com/scl/fi/2e9d56cnkdjc3dtyd9bk0/04.Ala_Baly.mp3?rlkey=b8emlzefyhmcls3zb3dmmy9aj&st=a0vx27di&dl=1",
+      "popularity": 65
+    },
+    {
+      "id": "66",
+      "name": "Sad Khana",
+      "artist": "Nabil",
+      "album": "Sad Khana",
+      "release_date": "2023-02-14",
+      "image": "https://i.scdn.co/image/ab67616d0000b27363d0c6debab686f89855514b",
+      "track_url": "https://open.spotify.com/track/1AIQIDVTAbmlOSNdhOjUlc",
+      "popularity": 39
+    },
+    {
+      "id": "67",
+      "name": "Malkshy Makan",
+      "artist": "Ahmed Saad",
+      "album": "Malkshy Makan",
+      "release_date": "2019-01-15",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e2f66ae50c7ec7c1b50fa4d5",
+      "track_url": "https://www.dropbox.com/scl/fi/pyakvlw01vx50e7l0biqg/.Malkshy.Makan.mp3?rlkey=7ijpfsukseybpgtmxa0fx3cqv&st=wkk2254b&dl=1",
+      "popularity": 39
+    },
+    {
+      "id": "68",
+      "name": "Baed El Layali",
+      "artist": "Amr Diab",
+      "album": "Aktar Wahed Beihebak",
+      "release_date": "2001-01-01",
+      "image": "https://i.scdn.co/image/ab67616d0000b273dee37a4400066ed7d8d8e065",
+      "track_url": "https://www.dropbox.com/scl/fi/btyi21x5eg5oa2zxp81d7/04.Baed_Ellayaly.mp3?rlkey=5b2p9r5skl1a11ud9r08a9scz&st=unvazq9k&dl=1",
+      "popularity": 51
+    },
+    {
+      "id": "69",
+      "name": "Baad El Kalam",
+      "artist": "Ahmed Kamel",
+      "album": "Baad Montasaf Al Leil",
+      "release_date": "2023-02-16",
+      "image": "https://i.scdn.co/image/ab67616d0000b27387e6ba76951698e37542bba3",
+      "track_url": "https://www.dropbox.com/scl/fi/czj5jvtthsk97w8y4zi08/.mp3?rlkey=xphe6aarm4dch7wgzu5y8xbls&st=d1f8cnsx&dl=1",
+      "popularity": 53
+    },
+    {
+      "id": "70",
+      "name": "Tegy Ntrahn",
+      "artist": "Tamer Ashour",
+      "album": "Tegy Ntrahn",
+      "release_date": "2022-01-20",
+      "image": "https://i.scdn.co/image/ab67616d0000b27383d3f05128296659bd6919ea",
+      "track_url": "https://www.dropbox.com/scl/fi/6m20e2t1zo2jurweyxoln/Tegy-Ntrahn.mp3?rlkey=9c4elhcx4cvrdv7xxni0lsznv&st=kmo8q94t&dl=1",
+      "popularity": 62
+    },
+    {
+      "id": "71",
+      "name": "Tamini Alieak",
+      "artist": "Mohamed Fouad",
+      "album": "Wala Nusi Kelma",
+      "release_date": "2007-10-11",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735e4e9015f41b2c17ae60a4d8",
+      "track_url": "https://www.dropbox.com/scl/fi/6bprnefxfigp81m30zwl3/02.Tamenny_Alaik.mp3?rlkey=cpnlz4ex2niaq1085y3w2x93p&st=581j2hh3&dl=1",
+      "popularity": 49
+    },
+    {
+      "id": "72",
+      "name": "Fouq Men Elenta Feh",
+      "artist": "Amr Diab",
+      "album": "El Leila",
+      "release_date": "2013-09-27",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b13fd14d466c2748bdc6c928",
+      "track_url": "https://www.dropbox.com/scl/fi/1pxi8n9ullpgnwkr035qa/04_Fouq_Men_Elenta_Feh.mp3?rlkey=wbk69um23c3g5ff1pzhdwksup&st=1q56010b&dl=1",
+      "popularity": 35
+    },
+    {
+      "id": "73",
+      "name": "Mshit Khalas",
+      "artist": "Wael Jassar",
+      "album": "Mshit Khalas",
+      "release_date": "2005-04-30",
+      "image": "https://i.scdn.co/image/ab67616d0000b27392435947539fd96f87e39737",
+      "track_url": "https://www.dropbox.com/scl/fi/paoorsyg2bbndswxhv9ck/01.Mshit_khalas.mp3?rlkey=z2emp6rg9zf98vwy37l249y58&st=7pe3ecnn&dl=1",
+      "popularity": 51
+    },
+    {
+      "id": "74",
+      "name": "يارب ترجع",
+      "artist": "Farid",
+      "album": "يارب ترجع",
+      "release_date": "2024-11-28",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733314dbfa455c5fdfde54f0a7",
+      "track_url": "https://www.dropbox.com/scl/fi/wjglzcjyvctz8ztgjxus8/.mp3?rlkey=4ja93pn2jtkn4kf6mj4ien8uj&st=hg0jjbh0&dl=1",
+      "popularity": 46
+    },
+    {
+      "id": "75",
+      "name": "El Sabr Gamel - الصبر جميل",
+      "artist": "Maha Ftouni",
+      "album": "El Sabr Gamel - الصبر جميل",
+      "release_date": "2023-02-23",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737b57703fbcd1eb7950e19199",
+      "track_url": "https://www.dropbox.com/scl/fi/zukc9xzhn38z1fwnvi4ea/.mp3?rlkey=ekw3ymycslf5jwoxrry8humzj&st=n931fnev&dl=1",
+      "popularity": 57
+    },
+    {
+      "id": "76",
+      "name": "Wahy Zekrayat",
+      "artist": "Amr Diab",
+      "album": "El Leila",
+      "release_date": "2013-09-27",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b13fd14d466c2748bdc6c928",
+      "track_url": "https://www.dropbox.com/scl/fi/x22agqglnm26opmnenl33/11_Wahy_Zekrayat.mp3?rlkey=c4usqe1mzrbi66p9zgwhkayl5&st=2b6opqaf&dl=1",
+      "popularity": 54
+    },
+    {
+      "id": "77",
+      "name": "ظروف معنداني",
+      "artist": "Wael Jassar",
+      "album": "Omry Wzekrayatoh",
+      "release_date": "2015",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f808da0aa522a31fe770cd90",
+      "track_url": "https://www.dropbox.com/scl/fi/pdu52b9youln62pqpo62t/.mp3?rlkey=9ipwwr2zeidqs5rlfg813ceze&st=9l748c1s&dl=1",
+      "popularity": 62
+    }
+  ]
+  

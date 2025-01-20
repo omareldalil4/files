@@ -115,16 +115,16 @@
     "file_path": "artists_data\\Farid.json"
   },
   {
-    "id": "18",
-    "name": "Aziz Maraka",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb52671f5df90efe724d48f265",
-    "file_path": "artists_data\\Aziz_Maraka.json"
-  },
-  {
     "id": "20",
     "name": "Haifa Wehbe",
     "image": "https://i.scdn.co/image/ab6761610000e5eb59ab7a387638772bdc0b206e",
     "file_path": "artists_data\\Haifa_Wehba.json"
+  },
+  {
+    "id": "18",
+    "name": "Aziz Maraka",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb52671f5df90efe724d48f265",
+    "file_path": "artists_data\\Aziz_Maraka.json"
   },
   {
     "id": "21",

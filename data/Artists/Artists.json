@@ -6,6 +6,11 @@
     "file_path": "/artists_data/Amr_Diab.json"
   },
   {
+    "id": "81",
+    "name": "Hamada Helal",
+    "image": "https://i.scdn.co/image/ab6761610000517416265796c86c0537438f17e4"
+  },
+  {
     "id": "2",
     "name": "Tamer Hosny",
     "image": "https://i.scdn.co/image/ab6761610000e5eb7e96a37bf1bc63375b0e946d",
@@ -52,11 +57,6 @@
     "name": "Mohamed Hamaki",
     "image": "https://i.scdn.co/image/ab6761610000e5eb400700c316395513ac8231a4",
     "file_path": "artists_data\\Mohamed_Hamaki.json"
-  },
-  {
-    "id": "82",
-    "name": "Hamada Helal",
-    "image": "https://i.scdn.co/image/ab6761610000517416265796c86c0537438f17e4"
   },
   {
     "id": "10",
@@ -120,16 +120,16 @@
     "file_path": "artists_data\\Farid.json"
   },
   {
-    "id": "20",
-    "name": "Haifa Wehbe",
-    "image": "https://i.scdn.co/image/ab6761610000e5eb59ab7a387638772bdc0b206e",
-    "file_path": "artists_data\\Haifa_Wehba.json"
-  },
-  {
     "id": "21",
     "name": "Hakim",
     "image": "https://i.scdn.co/image/ab6761610000e5eb4a64c616124866952c71dcd3",
     "file_path": "artists_data\\Hakim.json"
+  },
+  {
+    "id": "20",
+    "name": "Haifa Wehbe",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb59ab7a387638772bdc0b206e",
+    "file_path": "artists_data\\Haifa_Wehba.json"
   },
   {
     "id": "22",
